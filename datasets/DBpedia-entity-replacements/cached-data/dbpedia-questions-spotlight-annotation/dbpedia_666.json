@@ -1,0 +1,28 @@
+{
+    "@text": "Which is {location born} of {concubine} {Margaret Rudd} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Concubinage",
+            "@support": "1913",
+            "@types": "",
+            "@surfaceForm": "concubine",
+            "@offset": "29",
+            "@similarityScore": "0.9999821855727764",
+            "@percentageOfSecondRank": "1.749198511121939E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Kevin_Rudd",
+            "@support": "1570",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Rudd",
+            "@offset": "50",
+            "@similarityScore": "0.9885012550283526",
+            "@percentageOfSecondRank": "0.007391807779369701"
+        }
+    ]
+}

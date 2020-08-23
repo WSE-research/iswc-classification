@@ -1,0 +1,413 @@
+{
+    "http://dbpedia.org/resource/Uniform_resource_name": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Uniform_Resource_Name"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Uniform_Resource_Name": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Content105809192"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Idea105833840"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Communication100033020"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Cognition100023271"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Plan105898568"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatURISchemes"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PlanOfAction105902545"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatIdentifiers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Identifier107270601"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Scheme105905348"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Signal106791372"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Symbol106806469"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Uniform Resource Name",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Uniform Resource Name",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "URN",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Uniform Resource Name",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Uniform resource name",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Uniform Resource Name",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Uniform Resource Name",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u7edf\u4e00\u8d44\u6e90\u540d\u79f0",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Nombre de Recurso Uniforme",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Uniform Resource Name",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "URN",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u7edf\u4e00\u8d44\u6e90\u540d\u79f0\uff08URN\uff09\u662f\u7edf\u4e00\u8d44\u6e90\u6807\u8bc6\uff08URI\uff09\u7684\u5386\u53f2\u540d\u5b57\uff0c\u5b83\u4f7f\u7528urn:\u4f5c\u4e3aURI scheme\u3002 1997\u5e74\u7684RFC 2141\u5b9a\u4e49\u4e86URN\uff0c\u671f\u671b\u4e3a\u8d44\u6e90\u63d0\u4f9b\u6301\u4e45\u7684\u3001\u4f4d\u7f6e\u65e0\u5173\u7684\u6807\u8bc6\u65b9\u5f0f\uff0c\u5e76\u5141\u8bb8\u7b80\u5355\u5730\u5c06\u591a\u4e2a\u547d\u540d\u7a7a\u95f4\u6620\u5c04\u5230\u5355\u4e2aURN\u547d\u540d\u7a7a\u95f4\u3002\u8fd9\u6837\u4e00\u4e2aURI\u7684\u5b58\u5728\u5e76\u4e0d\u610f\u5473\u7740\u88ab\u6807\u8bc6\u7684\u8d44\u6e90\u4e00\u5b9a\u662f\u53ef\u7528\u7684\uff0c\u4f46\u5b83\u4ecd\u7136\u9700\u8981\u4fdd\u6301\u5168\u5c40\u552f\u4e00\u548c\u6301\u4e45\uff0c\u5373\u4f7f\u8d44\u6e90\u5df2\u7ecf\u4e0d\u5b58\u5728\u4e86\u6216\u53d8\u5f97\u4e0d\u53ef\u7528\u3002 \u81ea\u4ece2005\u5e74RFC 3986\u53d1\u5e03\uff0c\u8fd9\u4e00\u672f\u8bed\u7684\u4f7f\u7528\u5df2\u88ab\u9650\u5236\u66f4\u5c11\u7684\u201cURI\u201d\u53d6\u4ee3\u3002\u8fd9\u662fW3C\u548cIETF\u8054\u5408\u7ec4\u6210\u7684\u5de5\u4f5c\u7ec4\u6240\u63d0\u8bae\u7684\u3002URN\u548cURL\u90fd\u5df2\u7ecf\u662fURI\u7684\u4e00\u79cd\uff0c\u800c\u4e14\u7279\u5b9a\u60c5\u51b5\u4e0bURL\u53ef\u80fd\u540c\u65f6\u62e5\u6709\u540d\u5b57\uff08URN\uff09\u548c\u4f4d\u7f6e\uff08URL\uff09\u3002 \u57281990\u5e74\uff0cURN\u4f5c\u4e3a\u4e00\u4e2a\u5143\u6570\u636e\u6846\u67b6\uff0c\u539f\u672c\u88ab\u671f\u671b\u548cURL\u3001URC\uff08\u7edf\u4e00\u8d44\u6e90\u7279\u5f81\uff09\u4e00\u8d77\u7ec4\u6210\u4e00\u4e2a\u7b2c\u4e09\u65b9\u4e92\u8054\u7f51\u4fe1\u606f\u67b6\u6784\u3002\u7136\u800cURC\u4e00\u76f4\u505c\u7559\u5728\u7406\u8bba\u9636\u6bb5\uff0c\u968f\u4e4b\u66f4\u665a\u51fa\u73b0\u7684\u5176\u4ed6\u6280\u672f\uff08\u4f8b\u5982\u8d44\u6e90\u63cf\u8ff0\u6846\u67b6\uff09\u53d6\u4ee3\u4e86\u5b83\u4eec\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Uniform Resource Name (URN), traduit litt\u00e9ralement de l'anglais par \u00ab nom uniforme de ressource \u00bb, est le nom d'un standard informatique dans le domaine de l'Internet qui concerne principalement le World Wide Web. Le sigle URN est g\u00e9n\u00e9ralement utilis\u00e9, en fran\u00e7ais comme en anglais, pour d\u00e9signer une telle cha\u00eene de caract\u00e8res. Par exemple urn:ietf:rfc:2141 est un URN identifiant le .",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "In computing, a Uniform Resource Name (URN) is the historical name for a Uniform Resource Identifier (URI) that uses the urn scheme. A URI is a string of characters used to identify a name of a web resource. Such identification enables interaction with representations of the web resource over a network, typically the World Wide Web, using specific protocols.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Uniform Resource Name (URN; deutsch \u201eeinheitlicher Name f\u00fcr Ressourcen\u201c) ist ein Uniform Resource Identifier (URI) mit dem Schema urn, der als dauerhafter, ortsunabh\u00e4ngiger Bezeichner f\u00fcr eine Ressource dient. Anders gesagt werden URNs dazu benutzt, Ressourcen eindeutige und dauerhaft g\u00fcltige Namen zu geben, um sie somit eindeutig identifizieren zu k\u00f6nnen. Eine Ressource kann dabei alles sein, was sich irgendwie eindeutig beschreiben l\u00e4sst \u2013 also auch sehr abstrakte oder nicht greifbare Dinge (wie beispielsweise eine Weltanschauung, ein Konzept oder eine gemessene Strahlung), aber auch konkrete Dinge wie beispielsweise ein bestimmtes Buch.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Um Nome Uniforme de Recurso, URN (do ingl\u00eas Uniform Resource Name) \u00e9 um tipo de URI que usa o URN Scheme e que tem por objetivo a identifica\u00e7\u00e3o \u00fanica do recurso, de forma persistente e independente da sua localiza\u00e7\u00e3o. A ideia b\u00e1sica dos URNs como identificadores persistentes \u00e9 permitir a separa\u00e7\u00e3o estrita entre identifica\u00e7\u00e3o (nome \u00fanico) e localiza\u00e7\u00e3o (endere\u00e7os URL que podem oferecer o recurso identificado). Os requisitos funcionais do padr\u00e3o URN encontra-se fixados na norma , a sua sintaxe na .",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "URN (\u0430\u043d\u0433\u043b. Uniform Resource Name) \u2014 \u0435\u0434\u0438\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u043e\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 (\u0438\u043c\u044f) \u0440\u0435\u0441\u0443\u0440\u0441\u0430. \u041d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u043c\u0430\u043d\u0435\u0440 \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0441\u0438\u0442\u0441\u044f \u043a\u0430\u043a \u0441\u043b\u043e\u0432\u043e earn, \u043f\u043e-\u0440\u0443\u0441\u0441\u043a\u0438 \u0447\u0430\u0449\u0435 \u0433\u043e\u0432\u043e\u0440\u044f\u0442 [\u0443-\u044d\u0440-\u044d\u0301\u043d]. URN \u2014 \u044d\u0442\u043e \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u0430\u044f \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432, \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u0446\u0438\u0440\u0443\u044e\u0449\u0430\u044f \u0430\u0431\u0441\u0442\u0440\u0430\u043a\u0442\u043d\u044b\u0439 \u0438\u043b\u0438 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0435\u0441\u0443\u0440\u0441. URN \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0447\u0430\u0441\u0442\u044c\u044e \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u0438 URI (\u0430\u043d\u0433\u043b. Uniform Resource Identifier) \u2014 \u0435\u0434\u0438\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0445 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u043e\u0432 \u0440\u0435\u0441\u0443\u0440\u0441\u0430. \u0418\u043c\u0435\u043d\u0430 URN \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u044b \u0432 \u0431\u0443\u0434\u0443\u0449\u0435\u043c \u0437\u0430\u043c\u0435\u043d\u0438\u0442\u044c \u043b\u043e\u043a\u0430\u0442\u043e\u0440\u044b URL (\u0430\u043d\u0433\u043b. Uniform Resource Locator) \u2014 \u0435\u0434\u0438\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0438\u0442\u0435\u043b\u0438 \u043c\u0435\u0441\u0442\u043e\u043d\u0430\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432. \u041d\u043e \u0438\u043c\u0435\u043d\u0430 URN, \u0432 \u043e\u0442\u043b\u0438\u0447\u0438\u0435 \u043e\u0442 URL, \u043d\u0435 \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0442 \u0432 \u0441\u0435\u0431\u044f \u0443\u043a\u0430\u0437\u0430\u043d\u0438\u044f \u043d\u0430 \u043c\u0435\u0441\u0442\u043e\u043d\u0430\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u0438 \u0441\u043f\u043e\u0441\u043e\u0431 \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u043a \u0440\u0435\u0441\u0443\u0440\u0441\u0443. \u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442 URN \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u043e\u043d \u043c\u043e\u0433 \u0432\u043a\u043b\u044e\u0447\u0430\u0442\u044c \u0432 \u0441\u0435\u0431\u044f \u0434\u0440\u0443\u0433\u0438\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0430 \u0438\u043c\u0451\u043d.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "URN (ang. Uniform Resource Name) - ujednolicony format nazw zasob\u00f3w (g\u0142\u00f3wnie ksi\u0105\u017cek). URN sk\u0142ada si\u0119 z identyfikatora przestrzeni nazw (ang. Namespace IDentifier, NID) i \u0142a\u0144cucha (ci\u0105gu znak\u00f3w) specyficznego dla przestrzeni nazw (ang. Namespace Specific String, NSS). URN jest cz\u0119\u015bci\u0105 URI (ang. Uniform Resource Identifier).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "El Nombre de Recurso Uniforme o URN (acr\u00f3nimo ingl\u00e9s de Uniform Resource Name) funciona de manera similar al \u201cLocalizador Uniforme de Recursos\u201d (Uniform Resource Locator, URL). Los URN identifican recursos en la web, pero a diferencia de los URL, no indican exactamente d\u00f3nde se encuentra ese objeto. B\u00e1sicamente, un Uniform Resource Identifier (URI) es igual a la suma del URL y del URN:",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Un Uniform Resource Name o URN \u00e8 un URI che identifica una risorsa all'interno di un namespace, ma, a differenza del URL, non permette l'identificazione della locazione della risorsa stessa. Un esempio di URN \u00e8 il codice ISBN: questi identifica univocamente un libro, ma non ci d\u00e0 alcuna informazione sulla locazione dello stesso.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Uniform Resource Name (URN) is een naam van een computerstandaard op het World Wide Web. De URN-standaard wordt beschreven in  uit 1997 en is bedoeld om als persistent, locatie-onafhankelijke identifier te dienen. Het is een combinatie van een identifier (een toegekende code of NID) en een aanduiding van de naamruimte (namespace of NSS). Binnen de naamruimte zijn de identifiers uniek en in een gespecificeerd formaat. De autoriteit die verantwoordelijk is voor de naamruimte ziet daar op toe. Voor URN is het een vereiste dat elke naamruimte-aanduiding wereldwijd uniek is, waarmee ook iedere URN uniek is.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Uniform Resource Name\uff08URN\uff09\u306f\u3001urn \u30b9\u30ad\u30fc\u30e0\u3092\u4f7f\u3063\u305f Uniform Resource Identifier (URI) \u3067\u3042\u308a\u3001\u305d\u308c\u306b\u3088\u3063\u3066\u8b58\u5225\u3055\u308c\u308b\u30ea\u30bd\u30fc\u30b9\u306b\u30a2\u30af\u30bb\u30b9\u53ef\u80fd\u304b\u3069\u3046\u304b\u306f\u542b\u610f\u3057\u306a\u3044\u3002URN\uff08\u540d\u524d\uff09\u3068URL\uff08\u30ed\u30b1\u30fc\u30bf\uff09\u306f\u3069\u3061\u3089\u3082URI\u3067\u3042\u308a\u3001\u3042\u308bURI\u306f\u540c\u6642\u306b\u540d\u524d\u3067\u3042\u308a\u30ed\u30b1\u30fc\u30bf\u3067\u3082\u3042\u308a\u3046\u308b\u3002 URN \u306e\u6a5f\u80fd\u8981\u6c42\u4ed5\u69d8\u306f  \u3067\u8a18\u8ff0\u3055\u308c\u3066\u3044\u308b\u3002URN\u306f\u3001URN\u3001URC (Uniform Resource Characteristics)\u3001URL \u304b\u3089\u69cb\u6210\u3055\u308c\u308b\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u60c5\u5831\u30a2\u30fc\u30ad\u30c6\u30af\u30c1\u30e3\u306e\u4e00\u90e8\u3067\u3042\u308b\u3002\u305d\u308c\u305e\u308c\u306b\u306f\u3001\u4ee5\u4e0b\u306e\u3088\u3046\u306a\u5f79\u5272\u304c\u3042\u308b\u3002 \n*  URN \u306f\u8b58\u5225\u306b\u4f7f\u308f\u308c\u308b\u3002 \n*  URC \u306f\u30e1\u30bf\u60c5\u5831\u3092\u4ed8\u4e0e\u3059\u308b\u305f\u3081\u306b\u3042\u308b\u3002 \n*  URL \u306f\u30ea\u30bd\u30fc\u30b9\u306e\u4f4d\u7f6e\u3092\u793a\u3057\u3001\u63a2\u3059\u305f\u3081\u306b\u3042\u308b\u3002 (\"URN Syntax\") \u306b\u3088\u308c\u3070\u3001 Uniform Resource Names (URNs) \u306f\u3001\u6c38\u7d9a\u7684\u3067\u4f4d\u7f6e\u306b\u4f9d\u5b58\u3057\u306a\u3044\u30ea\u30bd\u30fc\u30b9\u8b58\u5225\u5b50\u3067\u3042\u308a\u3001URN\u3068\u5c5e\u6027\u3092\u5171\u6709\u3059\u308b\u4ed6\u306e\u540d\u524d\u7a7a\u9593\u3092URN\u306e\u540d\u524d\u7a7a\u9593\u306b\u7c21\u5358\u306b\u30de\u30c3\u30d4\u30f3\u30b0\u3067\u304d\u308b\u3088\u3046\u8a2d\u8a08\u3055\u308c\u3066\u3044\u308b\u3002\u3057\u305f\u304c\u3063\u3066\u3001URN\u306e\u6587\u6cd5\u306f\u3001\u65e2\u5b58\u306e\u30d7\u30ed\u30c8\u30b3\u30eb\u3067\u9001\u4fe1\u3067\u304d\u3001\u591a\u304f\u306e\u30ad\u30fc\u30dc\u30fc\u30c9\u3067\u5165\u529b\u3067\u304d\u308b\u3068\u3044\u3063\u305f\u5f62\u5f0f\u3067\u6587\u5b57\u30c7\u30fc\u30bf\u3092\u30a8\u30f3\u30b3\u30fc\u30c9\u3059\u308b\u624b\u6bb5\u3092\u63d0\u4f9b\u3059\u308b\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Uniform_Resource_Name"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Uniform_resource_name"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/Uniform_Resource_Name"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Uniform_Resource_Name"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q76497"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Uniform_Resource_Name"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01x6n2"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/URN"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/URN"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Nombre_de_Recurso_Uniforme"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q76497"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Uniform_Resource_Name"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Uniform_Resource_Name"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Uniform_Resource_Name"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Uniform_resource_name"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Identifiers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:URI_schemes"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/homepage": [
+            {
+                "type": "uri",
+                "value": "http://www.iana.org/assignments/urn-namespaces/"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Uniform_Resource_Name"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Uniform_Resource_Name?oldid=734570165"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://datatracker.ietf.org/wg/urn/charter/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.iana.org/assignments/urn-namespaces/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/TR/uri-clarification/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.benmeadowcroft.com/webdev/articles/urns-and-citations/"
+            },
+            {
+                "type": "uri",
+                "value": "http://tools.ietf.org/html/rfc3406"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.doi.org/factsheets/DOIIdentifierSpecs.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://tools.ietf.org/html/rfc3986"
+            },
+            {
+                "type": "uri",
+                "value": "http://tools.ietf.org/html/rfc2141"
+            },
+            {
+                "type": "uri",
+                "value": "http://tools.ietf.org/html/rfc1737"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "URN (\u0430\u043d\u0433\u043b. Uniform Resource Name) \u2014 \u0435\u0434\u0438\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u043e\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 (\u0438\u043c\u044f) \u0440\u0435\u0441\u0443\u0440\u0441\u0430. \u041d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u043c\u0430\u043d\u0435\u0440 \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0441\u0438\u0442\u0441\u044f \u043a\u0430\u043a \u0441\u043b\u043e\u0432\u043e earn, \u043f\u043e-\u0440\u0443\u0441\u0441\u043a\u0438 \u0447\u0430\u0449\u0435 \u0433\u043e\u0432\u043e\u0440\u044f\u0442 [\u0443-\u044d\u0440-\u044d\u0301\u043d]. URN \u2014 \u044d\u0442\u043e \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u0430\u044f \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432, \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u0446\u0438\u0440\u0443\u044e\u0449\u0430\u044f \u0430\u0431\u0441\u0442\u0440\u0430\u043a\u0442\u043d\u044b\u0439 \u0438\u043b\u0438 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0435\u0441\u0443\u0440\u0441. URN \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0447\u0430\u0441\u0442\u044c\u044e \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u0438 URI (\u0430\u043d\u0433\u043b. Uniform Resource Identifier) \u2014 \u0435\u0434\u0438\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0445 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u043e\u0432 \u0440\u0435\u0441\u0443\u0440\u0441\u0430. \u0418\u043c\u0435\u043d\u0430 URN \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u044b \u0432 \u0431\u0443\u0434\u0443\u0449\u0435\u043c \u0437\u0430\u043c\u0435\u043d\u0438\u0442\u044c \u043b\u043e\u043a\u0430\u0442\u043e\u0440\u044b URL (\u0430\u043d\u0433\u043b. Uniform Resource Locator) \u2014 \u0435\u0434\u0438\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0438\u0442\u0435\u043b\u0438 \u043c\u0435\u0441\u0442\u043e\u043d\u0430\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432. \u041d\u043e \u0438\u043c\u0435\u043d\u0430 URN, \u0432 \u043e\u0442\u043b\u0438\u0447\u0438\u0435 \u043e\u0442 URL, \u043d\u0435 \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0442 \u0432 \u0441\u0435\u0431\u044f \u0443\u043a\u0430\u0437\u0430\u043d\u0438\u044f \u043d\u0430 \u043c\u0435\u0441\u0442\u043e\u043d\u0430\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u0438 \u0441\u043f\u043e\u0441\u043e\u0431 \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u043a \u0440\u0435\u0441\u0443\u0440\u0441\u0443. \u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442 URN \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u043e\u043d \u043c\u043e\u0433 \u0432\u043a\u043b\u044e\u0447\u0430\u0442\u044c \u0432 \u0441\u0435\u0431\u044f \u0434\u0440\u0443\u0433\u0438\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0430 \u0438\u043c\u0451\u043d.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Um Nome Uniforme de Recurso, URN (do ingl\u00eas Uniform Resource Name) \u00e9 um tipo de URI que usa o URN Scheme e que tem por objetivo a identifica\u00e7\u00e3o \u00fanica do recurso, de forma persistente e independente da sua localiza\u00e7\u00e3o. A ideia b\u00e1sica dos URNs como identificadores persistentes \u00e9 permitir a separa\u00e7\u00e3o estrita entre identifica\u00e7\u00e3o (nome \u00fanico) e localiza\u00e7\u00e3o (endere\u00e7os URL que podem oferecer o recurso identificado). Os requisitos funcionais do padr\u00e3o URN encontra-se fixados na norma , a sua sintaxe na .",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Uniform Resource Name\uff08URN\uff09\u306f\u3001urn \u30b9\u30ad\u30fc\u30e0\u3092\u4f7f\u3063\u305f Uniform Resource Identifier (URI) \u3067\u3042\u308a\u3001\u305d\u308c\u306b\u3088\u3063\u3066\u8b58\u5225\u3055\u308c\u308b\u30ea\u30bd\u30fc\u30b9\u306b\u30a2\u30af\u30bb\u30b9\u53ef\u80fd\u304b\u3069\u3046\u304b\u306f\u542b\u610f\u3057\u306a\u3044\u3002URN\uff08\u540d\u524d\uff09\u3068URL\uff08\u30ed\u30b1\u30fc\u30bf\uff09\u306f\u3069\u3061\u3089\u3082URI\u3067\u3042\u308a\u3001\u3042\u308bURI\u306f\u540c\u6642\u306b\u540d\u524d\u3067\u3042\u308a\u30ed\u30b1\u30fc\u30bf\u3067\u3082\u3042\u308a\u3046\u308b\u3002 URN \u306e\u6a5f\u80fd\u8981\u6c42\u4ed5\u69d8\u306f  \u3067\u8a18\u8ff0\u3055\u308c\u3066\u3044\u308b\u3002URN\u306f\u3001URN\u3001URC (Uniform Resource Characteristics)\u3001URL \u304b\u3089\u69cb\u6210\u3055\u308c\u308b\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u60c5\u5831\u30a2\u30fc\u30ad\u30c6\u30af\u30c1\u30e3\u306e\u4e00\u90e8\u3067\u3042\u308b\u3002\u305d\u308c\u305e\u308c\u306b\u306f\u3001\u4ee5\u4e0b\u306e\u3088\u3046\u306a\u5f79\u5272\u304c\u3042\u308b\u3002 \n*  URN \u306f\u8b58\u5225\u306b\u4f7f\u308f\u308c\u308b\u3002 \n*  URC \u306f\u30e1\u30bf\u60c5\u5831\u3092\u4ed8\u4e0e\u3059\u308b\u305f\u3081\u306b\u3042\u308b\u3002 \n*  URL \u306f\u30ea\u30bd\u30fc\u30b9\u306e\u4f4d\u7f6e\u3092\u793a\u3057\u3001\u63a2\u3059\u305f\u3081\u306b\u3042\u308b\u3002 (\"URN Syntax\") \u306b\u3088\u308c\u3070\u3001 Uniform Resource Names (URNs) \u306f\u3001\u6c38\u7d9a\u7684\u3067\u4f4d\u7f6e\u306b\u4f9d\u5b58\u3057\u306a\u3044\u30ea\u30bd\u30fc\u30b9\u8b58\u5225\u5b50\u3067\u3042\u308a\u3001URN\u3068\u5c5e\u6027\u3092\u5171\u6709\u3059\u308b\u4ed6\u306e\u540d\u524d\u7a7a\u9593\u3092URN\u306e\u540d\u524d\u7a7a\u9593\u306b\u7c21\u5358\u306b\u30de\u30c3\u30d4\u30f3\u30b0\u3067\u304d\u308b\u3088\u3046\u8a2d\u8a08\u3055\u308c\u3066\u3044\u308b\u3002\u3057\u305f\u304c\u3063\u3066\u3001URN\u306e\u6587\u6cd5\u306f\u3001\u65e2\u5b58\u306e\u30d7\u30ed\u30c8\u30b3\u30eb\u3067\u9001\u4fe1\u3067\u304d\u3001\u591a\u304f\u306e\u30ad\u30fc\u30dc\u30fc\u30c9\u3067\u5165\u529b\u3067\u304d\u308b\u3068\u3044\u3063\u305f\u5f62\u5f0f\u3067\u6587\u5b57\u30c7\u30fc\u30bf\u3092\u30a8\u30f3\u30b3\u30fc\u30c9\u3059\u308b\u624b\u6bb5\u3092\u63d0\u4f9b\u3059\u308b\u3002 (\"Uniform Resource Identifier Generic Syntax\") \u306b\u306f\u4ee5\u4e0b\u306e\u3088\u3046\u306b\u8ff0\u3079\u3089\u308c\u3066\u3044\u308b\u3002 \"Uniform Resource Name\" (URN) \u3068\u3044\u3046\u7528\u8a9e\u306f\u3053\u308c\u307e\u3067\u3001\"urn\"\u30b9\u30ad\u30fc\u30e0\u3067\u306eURI\uff08\uff09\u3068\u540d\u524d\u306e\u5c5e\u6027\u3092\u6301\u3064\u4ed6\u306e\u69d8\u3005\u306aURI\u3082\u6307\u3057\u3066\u304d\u305f\u3002\u524d\u8005\u306f\u3001\u30ea\u30bd\u30fc\u30b9\u304c\u5b58\u5728\u3057\u306a\u304f\u306a\u3063\u305f\u308a\u3001\u5229\u7528\u3067\u304d\u306a\u304f\u306a\u3063\u305f\u6642\u3067\u3082\u30b0\u30ed\u30fc\u30d0\u30eb\u306b\u4e00\u610f\u3067\u6c38\u7d9a\u7684\u306b\u5b58\u5728\u3059\u308b\u3053\u3068\u3092\u8981\u6c42\u3055\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "URN (ang. Uniform Resource Name) - ujednolicony format nazw zasob\u00f3w (g\u0142\u00f3wnie ksi\u0105\u017cek). URN sk\u0142ada si\u0119 z identyfikatora przestrzeni nazw (ang. Namespace IDentifier, NID) i \u0142a\u0144cucha (ci\u0105gu znak\u00f3w) specyficznego dla przestrzeni nazw (ang. Namespace Specific String, NSS). URN jest cz\u0119\u015bci\u0105 URI (ang. Uniform Resource Identifier).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Uniform Resource Name (URN), traduit litt\u00e9ralement de l'anglais par \u00ab nom uniforme de ressource \u00bb, est le nom d'un standard informatique dans le domaine de l'Internet qui concerne principalement le World Wide Web. Le document de base est la  URN Syntax publi\u00e9e en 1997 par l'Internet Engineering Task Force. Elle donne une syntaxe de cha\u00eene de caract\u00e8res utilisable pour identifier une ressource (un document, une image, un enregistrement sonore, etc.) globalement, durant toute son existence, ind\u00e9pendamment de sa localisation ou de son accessibilit\u00e9 par Internet. Les Uniform Resource Names sont des Uniform Resource Identifiers dont la m\u00e9thode est urn. Le sigle URN est g\u00e9n\u00e9ralement utilis\u00e9, en fran\u00e7ais comme en anglais, pour d\u00e9signer une telle cha\u00eene de caract\u00e8res. Par exemple urn:ietf:rfc:2141 est un URN identifiant le .",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "El Nombre de Recurso Uniforme o URN (acr\u00f3nimo ingl\u00e9s de Uniform Resource Name) funciona de manera similar al \u201cLocalizador Uniforme de Recursos\u201d (Uniform Resource Locator, URL). Los URN identifican recursos en la web, pero a diferencia de los URL, no indican exactamente d\u00f3nde se encuentra ese objeto. B\u00e1sicamente, un Uniform Resource Identifier (URI) es igual a la suma del URL y del URN:",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Uniform Resource Name (URN; deutsch \u201eeinheitlicher Name f\u00fcr Ressourcen\u201c) ist ein Uniform Resource Identifier (URI) mit dem Schema urn, der als dauerhafter, ortsunabh\u00e4ngiger Bezeichner f\u00fcr eine Ressource dient. Anders gesagt werden URNs dazu benutzt, Ressourcen eindeutige und dauerhaft g\u00fcltige Namen zu geben, um sie somit eindeutig identifizieren zu k\u00f6nnen. Eine Ressource kann dabei alles sein, was sich irgendwie eindeutig beschreiben l\u00e4sst \u2013 also auch sehr abstrakte oder nicht greifbare Dinge (wie beispielsweise eine Weltanschauung, ein Konzept oder eine gemessene Strahlung), aber auch konkrete Dinge wie beispielsweise ein bestimmtes Buch.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u7edf\u4e00\u8d44\u6e90\u540d\u79f0\uff08URN\uff09\u662f\u7edf\u4e00\u8d44\u6e90\u6807\u8bc6\uff08URI\uff09\u7684\u5386\u53f2\u540d\u5b57\uff0c\u5b83\u4f7f\u7528urn:\u4f5c\u4e3aURI scheme\u3002 1997\u5e74\u7684RFC 2141\u5b9a\u4e49\u4e86URN\uff0c\u671f\u671b\u4e3a\u8d44\u6e90\u63d0\u4f9b\u6301\u4e45\u7684\u3001\u4f4d\u7f6e\u65e0\u5173\u7684\u6807\u8bc6\u65b9\u5f0f\uff0c\u5e76\u5141\u8bb8\u7b80\u5355\u5730\u5c06\u591a\u4e2a\u547d\u540d\u7a7a\u95f4\u6620\u5c04\u5230\u5355\u4e2aURN\u547d\u540d\u7a7a\u95f4\u3002\u8fd9\u6837\u4e00\u4e2aURI\u7684\u5b58\u5728\u5e76\u4e0d\u610f\u5473\u7740\u88ab\u6807\u8bc6\u7684\u8d44\u6e90\u4e00\u5b9a\u662f\u53ef\u7528\u7684\uff0c\u4f46\u5b83\u4ecd\u7136\u9700\u8981\u4fdd\u6301\u5168\u5c40\u552f\u4e00\u548c\u6301\u4e45\uff0c\u5373\u4f7f\u8d44\u6e90\u5df2\u7ecf\u4e0d\u5b58\u5728\u4e86\u6216\u53d8\u5f97\u4e0d\u53ef\u7528\u3002 \u81ea\u4ece2005\u5e74RFC 3986\u53d1\u5e03\uff0c\u8fd9\u4e00\u672f\u8bed\u7684\u4f7f\u7528\u5df2\u88ab\u9650\u5236\u66f4\u5c11\u7684\u201cURI\u201d\u53d6\u4ee3\u3002\u8fd9\u662fW3C\u548cIETF\u8054\u5408\u7ec4\u6210\u7684\u5de5\u4f5c\u7ec4\u6240\u63d0\u8bae\u7684\u3002URN\u548cURL\u90fd\u5df2\u7ecf\u662fURI\u7684\u4e00\u79cd\uff0c\u800c\u4e14\u7279\u5b9a\u60c5\u51b5\u4e0bURL\u53ef\u80fd\u540c\u65f6\u62e5\u6709\u540d\u5b57\uff08URN\uff09\u548c\u4f4d\u7f6e\uff08URL\uff09\u3002 \u57281990\u5e74\uff0cURN\u4f5c\u4e3a\u4e00\u4e2a\u5143\u6570\u636e\u6846\u67b6\uff0c\u539f\u672c\u88ab\u671f\u671b\u548cURL\u3001URC\uff08\u7edf\u4e00\u8d44\u6e90\u7279\u5f81\uff09\u4e00\u8d77\u7ec4\u6210\u4e00\u4e2a\u7b2c\u4e09\u65b9\u4e92\u8054\u7f51\u4fe1\u606f\u67b6\u6784\u3002\u7136\u800cURC\u4e00\u76f4\u505c\u7559\u5728\u7406\u8bba\u9636\u6bb5\uff0c\u968f\u4e4b\u66f4\u665a\u51fa\u73b0\u7684\u5176\u4ed6\u6280\u672f\uff08\u4f8b\u5982\u8d44\u6e90\u63cf\u8ff0\u6846\u67b6\uff09\u53d6\u4ee3\u4e86\u5b83\u4eec\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Uniform Resource Name (URN) is een naam van een computerstandaard op het World Wide Web. De URN-standaard wordt beschreven in  uit 1997 en is bedoeld om als persistent, locatie-onafhankelijke identifier te dienen. Het is een combinatie van een identifier (een toegekende code of NID) en een aanduiding van de naamruimte (namespace of NSS). Binnen de naamruimte zijn de identifiers uniek en in een gespecificeerd formaat. De autoriteit die verantwoordelijk is voor de naamruimte ziet daar op toe. Voor URN is het een vereiste dat elke naamruimte-aanduiding wereldwijd uniek is, waarmee ook iedere URN uniek is. URI, URL en URN lijken op elkaar, maar zijn niet gelijk. Ook kunnen andere PI's in de URN verwerkt worden zoals RFC's (\u2192 Externe links).",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "In computing, a Uniform Resource Name (URN) is the historical name for a Uniform Resource Identifier (URI) that uses the urn scheme. A URI is a string of characters used to identify a name of a web resource. Such identification enables interaction with representations of the web resource over a network, typically the World Wide Web, using specific protocols. Defined in 1997 in RFC 2141, URNs were intended to serve as persistent, location-independent identifiers, allowing the simple mapping of namespaces into a single URN namespace. The existence of such a URI does not imply availability of the identified resource, but such URIs are required to remain globally unique and persistent, even when the resource ceases to exist or becomes unavailable. Since RFC 3986 in 2005, the use of the term has been deprecated in favor of the less-restrictive \"URI\", a view proposed by a joint working group between the World Wide Web Consortium (W3C) and Internet Engineering Task Force (IETF). Both URNs and Uniform Resource Locators (URLs) are URIs, and a particular URI may be a name as well as a locator at the same time. URNs were originally intended in the 1990s to be part of a three-part information architecture for the Internet, along with URLs and Uniform Resource Characteristics (URCs), a metadata framework. However, URCs never progressed past the conceptual stage, and other technologies such as the Resource Description Framework later took their place.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Un Uniform Resource Name o URN \u00e8 un URI che identifica una risorsa all'interno di un namespace, ma, a differenza del URL, non permette l'identificazione della locazione della risorsa stessa. Un esempio di URN \u00e8 il codice ISBN: questi identifica univocamente un libro, ma non ci d\u00e0 alcuna informazione sulla locazione dello stesso.",
+                "lang": "it"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 734570165,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 333697,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Name"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Uniform_Resource_Name": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Uniform_Resource_Name"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Namespace_Specific_String": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Uniform_Resource_Name"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/URN": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Uniform_Resource_Name"
+            }
+        ]
+    }
+}

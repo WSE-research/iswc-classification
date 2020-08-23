@@ -1,0 +1,350 @@
+{
+    "http://dbpedia.org/resource/Cauchy_stress_tensor": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Variable105857459"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Quantity105855125"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Concept105835747"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Content105809192"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Tensor105864481"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Idea105833840"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Cognition100023271"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatTensors"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Spannungstensor",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0648\u062a\u0631 \u0627\u0644\u0625\u062c\u0647\u0627\u062f \u0644\u0643\u0648\u0634\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Tensor tens\u00e3o de Cauchy",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Tensor tensi\u00f3n",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Tenseur des contraintes",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Cauchy stress tensor",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u67ef\u897f\u5e94\u529b\u5f20\u91cf",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0435\u043d\u0437\u043e\u0440 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0439",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "En mec\u00e1nica de medios continuos, el tensor tensi\u00f3n, tambi\u00e9n llamado tensor de tensiones o tensor de esfuerzos, es el tensor que da cuenta de la distribuci\u00f3n de tensiones y esfuerzos internos en el medio continuo.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0633\u0645\u064a \u0647\u0630\u0627 \u0627\u0644\u0645\u0648\u062a\u0631 \u0647\u0643\u0630\u0627 \u0646\u0633\u0628\u0629 \u0625\u0644\u0649 \u0623\u0648\u063a\u0633\u062a\u064a\u0646 \u0644\u0648\u064a \u0643\u0648\u0634\u064a. \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0639\u0644\u0648\u0645 \u0627\u0644\u0623\u0631\u063625\u0628\u0643 \u0647\u0630\u0647 \u0628\u0630\u0631\u0629 \u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u0628\u062d\u0627\u062c\u0629 \u0644\u0644\u062a\u0648\u0633\u064a\u0639. \u0634\u0627\u0631\u0643 \u0641\u064a \u062a\u062d\u0631\u064a\u0631\u0647\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u67ef\u897f\u5e94\u529b\u5f20\u91cf\uff08\u82f1\u8bed\uff1aCauchy stress tensor\uff0c\u901a\u5e38\u4ee5 \u8868\u793a\uff09\uff0c\u53c8\u79f0\u4e3a\u771f\u5b9e\u5e94\u529b\u5f20\u91cf\uff08true stress tensor\uff09\uff0c\u662f\u8fde\u7eed\u4ecb\u8d28\u529b\u5b66\u91cc\u7528\u73b0\u65f6\u6784\u5f62\u63cf\u8ff0\u7684\u4e8c\u9636\u5e94\u529b\u5f20\u91cf\uff0c\u4ee5\u6cd5\u56fd\u6570\u5b66\u5bb6\u5965\u53e4\u65af\u4e01\u00b7\u8def\u6613\u00b7\u67ef\u897f\u7684\u540d\u5b57\u547d\u540d\u3002\u8be5\u5f20\u91cf\u4e3a\u5bf9\u79f0\u5f20\u91cf\uff0c\u5176\u4e5d\u4e2a\u5206\u91cf\uff08\u516d\u4e2a\u72ec\u7acb\u5206\u91cf\uff09\u8868\u793a\u67d0\u4e00\u70b9\u7684\u5e94\u529b\u72b6\u6001\u3002\u5047\u8bben\u4e3a\u5355\u4f4d\u65b9\u5411\u77e2\u91cf\uff0cT(n)\u4e3a\u901a\u8fc7\u4e0en\u5782\u76f4\u5e73\u9762\u7684\u5e94\u529b\u77e2\u91cf\uff0c\u5219T(n)\u4e0en\u4e4b\u95f4\u7684\u5173\u7cfb\u4e3a \u5176\u4e2d\u67ef\u897f\u5e94\u529b\u5f20\u91cf",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Spannungstensor ist ein Tensor zweiter Stufe, der die mechanischen Spannungen an einem bestimmten Punkt innerhalb der Materie beschreibt. Er ist eine wesentliche Beschreibungsmethode in der Kontinuumsmechanik. Seine Komponenten haben die Dimension Kraft pro Fl\u00e4che, f\u00fcr die in der Festk\u00f6rpermechanik die Einheit Megapascal (MPa), entspricht Newton pro Quadratmillimeter (N/mm\u00b2), \u00fcblich ist.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Le tenseur des contraintes est une repr\u00e9sentation utilis\u00e9e en m\u00e9canique des milieux continus pour caract\u00e9riser l'\u00e9tat de contrainte, c'est-\u00e0-dire les efforts int\u00e9rieurs mis en jeu entre les portions d\u00e9form\u00e9es du milieu. Le terme a \u00e9t\u00e9 introduit par Cauchy vers 1822. Comme les efforts int\u00e9rieurs sont d\u00e9finis pour chaque surface coupant le milieu (on parle d'ailleurs \u00e9galement d'efforts surfaciques), le tenseur est d\u00e9fini localement, en chaque point du solide. L'\u00e9tat de contrainte du solide est donc repr\u00e9sent\u00e9 par un champ tensoriel. On parle aussi de ce fait de champ de contrainte. .",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "O tensor tens\u00e3o de Cauchy na mec\u00e2nica do cont\u00ednuo, representado universalmente pelo s\u00edmbolo , tamb\u00e9m chamado tensor tens\u00e3o verdadeira ou simplesmente tensor tens\u00e3o, denominado em mem\u00f3ria de Augustin-Louis Cauchy, \u00e9 um tensor tridimensional de segunda ordem, com nove componentes , que define completamente o estado de tens\u00e3o em um ponto no dom\u00ednio de um corpo material em sua configura\u00e7\u00e3o deformada. O tensor relaciona um vetor diretor de comprimento unit\u00e1rio n com o vetor tens\u00e3o T(n) sobre uma superf\u00edcie imagin\u00e1ria perpendicular a n, Para os eixos coordenados da Figura 1, usando nota\u00e7\u00e3o indicial,",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0435\u0301\u043d\u0437\u043e\u0440 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u0301\u043d\u0438\u0439 (\u0438\u043d\u043e\u0433\u0434\u0430 \u0442\u0435\u043d\u0437\u043e\u0440 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0439 \u041a\u043e\u0448\u0438) \u2014 \u0442\u0435\u043d\u0437\u043e\u0440 \u0432\u0442\u043e\u0440\u043e\u0433\u043e \u0440\u0430\u043d\u0433\u0430, \u0441\u043e\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u0438\u0437 \u0434\u0435\u0432\u044f\u0442\u0438 \u0432\u0435\u043b\u0438\u0447\u0438\u043d, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0445 \u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044f \u0432 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u043b\u044c\u043d\u043e\u0439 \u0442\u043e\u0447\u043a\u0435 \u043d\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043d\u043e\u0433\u043e \u0442\u0435\u043b\u0430. \u0412 \u0434\u0435\u043a\u0430\u0440\u0442\u043e\u0432\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0442 \u044d\u0442\u0438 \u0434\u0435\u0432\u044f\u0442\u044c \u0432\u0435\u043b\u0438\u0447\u0438\u043d \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0432 \u0432\u0438\u0434\u0435 \u0442\u0430\u0431\u043b\u0438\u0446\u044b, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043f\u043e \u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 \u0441\u0442\u043e\u044f\u0442 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0435 \u0432\u0435\u043a\u0442\u043e\u0440\u043e\u0432 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0439 \u043d\u0430 \u0442\u0440\u0451\u0445 \u0432\u0437\u0430\u0438\u043c\u043d\u043e \u043f\u0435\u0440\u043f\u0435\u043d\u0434\u0438\u043a\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430\u0445, \u043f\u0440\u043e\u0445\u043e\u0434\u044f\u0449\u0438\u0445 \u0447\u0435\u0440\u0435\u0437 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u043c\u0443\u044e \u0442\u043e\u0447\u043a\u0443 \u0441\u0440\u0435\u0434\u044b, \u0430 \u0432 \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0445 \u2014 \u043a\u0430\u0441\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u044b \u0432\u0435\u043a\u0442\u043e\u0440\u043e\u0432 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0439 \u043d\u0430 \u044d\u0442\u0438\u0445 \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430\u0445. \u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u044b \u0442\u0435\u043d\u0437\u043e\u0440\u0430 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0439 \u0432 \u0434\u0435\u043a\u0430\u0440\u0442\u043e\u0432\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0442 (\u0442\u043e \u0435\u0441\u0442\u044c \u043a\u0430\u043a , , , , : , , , ,",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "In continuum mechanics, the Cauchy stress tensor , true stress tensor, or simply called the stress tensor is a second order tensor named after Augustin-Louis Cauchy. The tensor consists of nine components that completely define the state of stress at a point inside a material in the deformed state, placement, or configuration. The tensor relates a unit-length direction vector n to the stress vector T(n) across an imaginary surface perpendicular to n: where,",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Tenseur_des_contraintes"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q13409892"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Tensor_tensi\u00f3n"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4316422-5"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Spannungstensor"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Cauchy_stress_tensor"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cauchy_stress_tensor"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a4\u03b1\u03bd\u03c5\u03c3\u03c4\u03ae\u03c2_\u03c4\u03ac\u03c3\u03b5\u03c9\u03bd_Cauchy"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q13409892"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Tensor_tens\u00e3o_de_Cauchy"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0r4qf4v"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Continuum_mechanics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Tensors"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Solid_mechanics"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Components_stress_tensor_cartesian.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Cauchy_stress_tensor"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Cauchy_stress_tensor?oldid=742826694"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "In continuum mechanics, the Cauchy stress tensor , true stress tensor, or simply called the stress tensor is a second order tensor named after Augustin-Louis Cauchy. The tensor consists of nine components that completely define the state of stress at a point inside a material in the deformed state, placement, or configuration. The tensor relates a unit-length direction vector n to the stress vector T(n) across an imaginary surface perpendicular to n: where, The Cauchy stress tensor obeys the tensor transformation law under a change in the system of coordinates. A graphical representation of this transformation law is the Mohr's circle for stress. The Cauchy stress tensor is used for stress analysis of material bodies experiencing small deformations: It is a central concept in the linear theory of elasticity. For large deformations, also called finite deformations, other measures of stress are required, such as the Piola\u2013Kirchhoff stress tensor, the Biot stress tensor, and the Kirchhoff stress tensor. According to the principle of conservation of linear momentum, if the continuum body is in static equilibrium it can be demonstrated that the components of the Cauchy stress tensor in every material point in the body satisfy the equilibrium equations (Cauchy's equations of motion for zero acceleration). At the same time, according to the principle of conservation of angular momentum, equilibrium requires that the summation of moments with respect to an arbitrary point is zero, which leads to the conclusion that the stress tensor is symmetric, thus having only six independent stress components, instead of the original nine. There are certain invariants associated with the stress tensor, whose values do not depend upon the coordinate system chosen, or the area element upon which the stress tensor operates. These are the three eigenvalues of the stress tensor, which are called the .",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u67ef\u897f\u5e94\u529b\u5f20\u91cf\uff08\u82f1\u8bed\uff1aCauchy stress tensor\uff0c\u901a\u5e38\u4ee5 \u8868\u793a\uff09\uff0c\u53c8\u79f0\u4e3a\u771f\u5b9e\u5e94\u529b\u5f20\u91cf\uff08true stress tensor\uff09\uff0c\u662f\u8fde\u7eed\u4ecb\u8d28\u529b\u5b66\u91cc\u7528\u73b0\u65f6\u6784\u5f62\u63cf\u8ff0\u7684\u4e8c\u9636\u5e94\u529b\u5f20\u91cf\uff0c\u4ee5\u6cd5\u56fd\u6570\u5b66\u5bb6\u5965\u53e4\u65af\u4e01\u00b7\u8def\u6613\u00b7\u67ef\u897f\u7684\u540d\u5b57\u547d\u540d\u3002\u8be5\u5f20\u91cf\u4e3a\u5bf9\u79f0\u5f20\u91cf\uff0c\u5176\u4e5d\u4e2a\u5206\u91cf\uff08\u516d\u4e2a\u72ec\u7acb\u5206\u91cf\uff09\u8868\u793a\u67d0\u4e00\u70b9\u7684\u5e94\u529b\u72b6\u6001\u3002\u5047\u8bben\u4e3a\u5355\u4f4d\u65b9\u5411\u77e2\u91cf\uff0cT(n)\u4e3a\u901a\u8fc7\u4e0en\u5782\u76f4\u5e73\u9762\u7684\u5e94\u529b\u77e2\u91cf\uff0c\u5219T(n)\u4e0en\u4e4b\u95f4\u7684\u5173\u7cfb\u4e3a \u5176\u4e2d\u67ef\u897f\u5e94\u529b\u5f20\u91cf",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0435\u0301\u043d\u0437\u043e\u0440 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u0301\u043d\u0438\u0439 (\u0438\u043d\u043e\u0433\u0434\u0430 \u0442\u0435\u043d\u0437\u043e\u0440 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0439 \u041a\u043e\u0448\u0438) \u2014 \u0442\u0435\u043d\u0437\u043e\u0440 \u0432\u0442\u043e\u0440\u043e\u0433\u043e \u0440\u0430\u043d\u0433\u0430, \u0441\u043e\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u0438\u0437 \u0434\u0435\u0432\u044f\u0442\u0438 \u0432\u0435\u043b\u0438\u0447\u0438\u043d, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0445 \u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044f \u0432 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u043b\u044c\u043d\u043e\u0439 \u0442\u043e\u0447\u043a\u0435 \u043d\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043d\u043e\u0433\u043e \u0442\u0435\u043b\u0430. \u0412 \u0434\u0435\u043a\u0430\u0440\u0442\u043e\u0432\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0442 \u044d\u0442\u0438 \u0434\u0435\u0432\u044f\u0442\u044c \u0432\u0435\u043b\u0438\u0447\u0438\u043d \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0432 \u0432\u0438\u0434\u0435 \u0442\u0430\u0431\u043b\u0438\u0446\u044b, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043f\u043e \u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 \u0441\u0442\u043e\u044f\u0442 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0435 \u0432\u0435\u043a\u0442\u043e\u0440\u043e\u0432 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0439 \u043d\u0430 \u0442\u0440\u0451\u0445 \u0432\u0437\u0430\u0438\u043c\u043d\u043e \u043f\u0435\u0440\u043f\u0435\u043d\u0434\u0438\u043a\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430\u0445, \u043f\u0440\u043e\u0445\u043e\u0434\u044f\u0449\u0438\u0445 \u0447\u0435\u0440\u0435\u0437 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u043c\u0443\u044e \u0442\u043e\u0447\u043a\u0443 \u0441\u0440\u0435\u0434\u044b, \u0430 \u0432 \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0445 \u2014 \u043a\u0430\u0441\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u044b \u0432\u0435\u043a\u0442\u043e\u0440\u043e\u0432 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0439 \u043d\u0430 \u044d\u0442\u0438\u0445 \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430\u0445. \u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u044b \u0442\u0435\u043d\u0437\u043e\u0440\u0430 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0439 \u0432 \u0434\u0435\u043a\u0430\u0440\u0442\u043e\u0432\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0442 (\u0442\u043e \u0435\u0441\u0442\u044c ) \u0432\u0432\u043e\u0434\u044f\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c. \u0420\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442 \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u043e \u043c\u0430\u043b\u044b\u0439 \u043e\u0431\u044a\u0451\u043c \u0442\u0435\u043b\u0430 (\u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0441\u0440\u0435\u0434\u044b) \u0432 \u0432\u0438\u0434\u0435 \u043f\u0440\u044f\u043c\u043e\u0443\u0433\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0430\u0440\u0430\u043b\u043b\u0435\u043b\u0435\u043f\u0438\u043f\u0435\u0434\u0430, \u0433\u0440\u0430\u043d\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u043e\u0440\u0442\u043e\u0433\u043e\u043d\u0430\u043b\u044c\u043d\u044b \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0442\u043d\u044b\u043c \u043e\u0441\u044f\u043c \u0438 \u0438\u043c\u0435\u044e\u0442 \u043f\u043b\u043e\u0449\u0430\u0434\u0438 . \u041d\u0430 \u043a\u0430\u0436\u0434\u043e\u0439 \u0433\u0440\u0430\u043d\u0438 \u043f\u0430\u0440\u0430\u043b\u043b\u0435\u043b\u0435\u043f\u0438\u043f\u0435\u0434\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0442 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u043d\u044b\u0435 \u0441\u0438\u043b\u044b . \u0415\u0441\u043b\u0438 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0438\u0442\u044c \u043f\u0440\u043e\u0435\u043a\u0446\u0438\u0438 \u044d\u0442\u0438\u0445 \u0441\u0438\u043b \u043d\u0430 \u043e\u0441\u0438 \u043a\u0430\u043a , \u0442\u043e \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u0430\u043c\u0438 \u0442\u0435\u043d\u0437\u043e\u0440\u0430 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0439 \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0446\u0438\u0439 \u0441\u0438\u043b\u044b \u043a \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0435 \u043f\u043b\u043e\u0449\u0430\u0434\u0438 \u0433\u0440\u0430\u043d\u0438, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u044d\u0442\u0430 \u0441\u0438\u043b\u0430: \u041f\u043e \u0438\u043d\u0434\u0435\u043a\u0441\u0443 \u0437\u0434\u0435\u0441\u044c \u0441\u0443\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0435\u0442. \u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u044b , , , \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u043c\u044b\u0435 \u0442\u0430\u043a\u0436\u0435 \u043a\u0430\u043a , , \u2014 \u044d\u0442\u043e \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044f, \u043e\u043d\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442 \u0441\u043e\u0431\u043e\u0439 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0446\u0438\u0438 \u0441\u0438\u043b\u044b \u043d\u0430 \u043d\u043e\u0440\u043c\u0430\u043b\u044c \u043a \u043f\u043b\u043e\u0449\u0430\u0434\u0438 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u043c\u043e\u0439 \u0433\u0440\u0430\u043d\u0438 : \u0438 \u0442. \u0434. \u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u044b , , , \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u043c\u044b\u0435 \u0442\u0430\u043a\u0436\u0435 \u043a\u0430\u043a , , \u2014 \u044d\u0442\u043e \u043a\u0430\u0441\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044f, \u043e\u043d\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442 \u0441\u043e\u0431\u043e\u0439 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0446\u0438\u0438 \u0441\u0438\u043b\u044b \u043d\u0430 \u043a\u0430\u0441\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043a \u043f\u043b\u043e\u0449\u0430\u0434\u0438 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u043c\u043e\u0439 \u0433\u0440\u0430\u043d\u0438 : \u0438 \u0442. \u0434. \u041f\u0440\u0438 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0438 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043c\u043e\u043c\u0435\u043d\u0442\u0430 \u0438\u043c\u043f\u0443\u043b\u044c\u0441\u0430 \u0441\u043f\u043b\u043e\u0448\u043d\u043e\u0439 \u0441\u0440\u0435\u0434\u044b, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043e\u0431\u044a\u0435\u043c\u043d\u044b\u0445 \u0438 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u043d\u044b\u0445 \u043f\u0430\u0440 \u0442\u0435\u043d\u0437\u043e\u0440 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0439 \u0441\u0438\u043c\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u043d (\u0442\u0430\u043a \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u043c\u044b\u0439 \u0437\u0430\u043a\u043e\u043d \u043f\u0430\u0440\u043d\u043e\u0441\u0442\u0438 \u043a\u0430\u0441\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0439), \u0447\u0442\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0435\u043c \u0443\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044f \u0431\u0430\u043b\u0430\u043d\u0441\u0430 \u043c\u043e\u043c\u0435\u043d\u0442\u0430 \u0438\u043c\u043f\u0443\u043b\u044c\u0441\u0430. \u0412 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u0442\u0435\u043d\u0437\u043e\u0440 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0439 \u0441\u0438\u043c\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u043d \u0432 \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0442\u0435\u043e\u0440\u0438\u0438 \u0443\u043f\u0440\u0443\u0433\u043e\u0441\u0442\u0438 \u0438 \u0433\u0438\u0434\u0440\u043e\u0434\u0438\u043d\u0430\u043c\u0438\u043a\u0435 \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u043e\u0439 \u0438 \u043b\u0438\u043d\u0435\u0439\u043d\u043e-\u0432\u044f\u0437\u043a\u043e\u0439 \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u0435\u0439.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "O tensor tens\u00e3o de Cauchy na mec\u00e2nica do cont\u00ednuo, representado universalmente pelo s\u00edmbolo , tamb\u00e9m chamado tensor tens\u00e3o verdadeira ou simplesmente tensor tens\u00e3o, denominado em mem\u00f3ria de Augustin-Louis Cauchy, \u00e9 um tensor tridimensional de segunda ordem, com nove componentes , que define completamente o estado de tens\u00e3o em um ponto no dom\u00ednio de um corpo material em sua configura\u00e7\u00e3o deformada. O tensor relaciona um vetor diretor de comprimento unit\u00e1rio n com o vetor tens\u00e3o T(n) sobre uma superf\u00edcie imagin\u00e1ria perpendicular a n, Para os eixos coordenados da Figura 1, usando nota\u00e7\u00e3o indicial, O tensor tens\u00e3o de Cauchy obedece a lei de transforma\u00e7\u00e3o de tensores sobre uma mudan\u00e7a de sistema de coordenadas. Uma representa\u00e7\u00e3o gr\u00e1fica desta lei de transforma\u00e7\u00e3o \u00e9 o c\u00edrculo de Mohr para tens\u00f5es. O tensor tens\u00e3o de Cauchy \u00e9 usado para a an\u00e1lise de tens\u00f5es de corpos materiais submetidos a pequenas deforma\u00e7\u00f5es. \u00c9 um conceito central da teoria da elasticidade linear. Para grandes deforma\u00e7\u00f5es, tamb\u00e9m denominado teoria das deforma\u00e7\u00f5es finitas, outras medidas de tens\u00e3o s\u00e3o necess\u00e1rias, tais como o tensor tens\u00e3o de Piola-Kirchhoff, o tensor tens\u00e3o de Biot e o tensor tens\u00e3o de Kirchhoff. De acordo com o princ\u00edpio da conserva\u00e7\u00e3o do momento linear, se o corpo cont\u00ednuo est\u00e1 em equil\u00edbrio est\u00e1tico pode ser demonstrado que as componentes do tensor tens\u00e3o de Cauchy em todo ponto material do corpo satisfaz as equa\u00e7\u00f5es de equil\u00edbrio (equa\u00e7\u00f5es de movimento de Cauchy para acelera\u00e7\u00e3o nula). Ao mesmo tempo, de acordo com o princ\u00edpio da conserva\u00e7\u00e3o do momento angular, o equil\u00edbrio requer que a soma dos momentos em rela\u00e7\u00e3o a um ponto arbitr\u00e1rio seja nula, o que leva \u00e0 conclus\u00e3o de que o tensor tens\u00e3o \u00e9 sim\u00e9trico, havendo assim somente seis componentes independentes de tens\u00e3o, ao inv\u00e9s das nove originais. H\u00e1 alguns invariantes associados ao tensor tens\u00e3o, cujos valores n\u00e3o dependem do sistema de coordenadas usado, ou da \u00e1rea do elemento sobre a qual o tensor tens\u00e3o atua. Estes s\u00e3o os tr\u00eas autovalores do tensor tens\u00e3o, que s\u00e3o denominados .",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Le tenseur des contraintes est une repr\u00e9sentation utilis\u00e9e en m\u00e9canique des milieux continus pour caract\u00e9riser l'\u00e9tat de contrainte, c'est-\u00e0-dire les efforts int\u00e9rieurs mis en jeu entre les portions d\u00e9form\u00e9es du milieu. Le terme a \u00e9t\u00e9 introduit par Cauchy vers 1822. Comme les efforts int\u00e9rieurs sont d\u00e9finis pour chaque surface coupant le milieu (on parle d'ailleurs \u00e9galement d'efforts surfaciques), le tenseur est d\u00e9fini localement, en chaque point du solide. L'\u00e9tat de contrainte du solide est donc repr\u00e9sent\u00e9 par un champ tensoriel. On parle aussi de ce fait de champ de contrainte. Dans le cadre de l'\u00e9lasticit\u00e9 lin\u00e9aire, le champ de contrainte est reli\u00e9 au champ de d\u00e9formation par la loi de Hooke g\u00e9n\u00e9ralis\u00e9e, c'est-\u00e0-dire que l'on peut \u00e9crire l'\u00e9quation tensorielle (et non alg\u00e9brique) . Dans le cadre de la g\u00e9ologie structurale et de la tectonique, on parle fr\u00e9quemment de tenseur de pal\u00e9o-contraintes. Il repr\u00e9sente la partie anisotrope du tenseur des contraintes, responsable des d\u00e9formations comme les plis, les failles ou les schistosit\u00e9s. La valeur absolue des termes de la matrice n'est pas accessible, mais il est possible de retrouver l'orientation du triaxe principal, ainsi que le rapport d'intensit\u00e9 entre ces trois axes. Dans certains cas, il est possible de visualiser ces contraintes par la m\u00e9thode de photo\u00e9lasticim\u00e9trie.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Spannungstensor ist ein Tensor zweiter Stufe, der die mechanischen Spannungen an einem bestimmten Punkt innerhalb der Materie beschreibt. Er ist eine wesentliche Beschreibungsmethode in der Kontinuumsmechanik. Seine Komponenten haben die Dimension Kraft pro Fl\u00e4che, f\u00fcr die in der Festk\u00f6rpermechanik die Einheit Megapascal (MPa), entspricht Newton pro Quadratmillimeter (N/mm\u00b2), \u00fcblich ist. Der Spannungstensor fasst die Spannungen in Druckrichtung, sowie seitliche wirkende (transversale) Scherspannungen zu einem mathematischen Objekt zusammen. Verwendet wird dieser Tensor vor allem in Physik (Festk\u00f6rperphysik, Spannungs- und Klassische Mechanik, teilweise Geophysik) und Elektrodynamik.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0633\u0645\u064a \u0647\u0630\u0627 \u0627\u0644\u0645\u0648\u062a\u0631 \u0647\u0643\u0630\u0627 \u0646\u0633\u0628\u0629 \u0625\u0644\u0649 \u0623\u0648\u063a\u0633\u062a\u064a\u0646 \u0644\u0648\u064a \u0643\u0648\u0634\u064a. \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0639\u0644\u0648\u0645 \u0627\u0644\u0623\u0631\u063625\u0628\u0643 \u0647\u0630\u0647 \u0628\u0630\u0631\u0629 \u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u0628\u062d\u0627\u062c\u0629 \u0644\u0644\u062a\u0648\u0633\u064a\u0639. \u0634\u0627\u0631\u0643 \u0641\u064a \u062a\u062d\u0631\u064a\u0631\u0647\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "En mec\u00e1nica de medios continuos, el tensor tensi\u00f3n, tambi\u00e9n llamado tensor de tensiones o tensor de esfuerzos, es el tensor que da cuenta de la distribuci\u00f3n de tensiones y esfuerzos internos en el medio continuo.",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Components_stress_tensor_cartesian.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742826694,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 3323565,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Cauchy_stress_tensor": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cauchy_stress_tensor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Stress_tensor": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cauchy_stress_tensor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Principal_stresses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cauchy_stress_tensor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Deviatoric_stress_tensor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cauchy_stress_tensor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Principal_stress": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cauchy_stress_tensor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Octahedral_normal_stress": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cauchy_stress_tensor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cauchy's_fundamental_lemma": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cauchy_stress_tensor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cauchy's_stress_theorem": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cauchy_stress_tensor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Stress_vector": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cauchy_stress_tensor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Euler-Cauchy_stress_principle": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cauchy_stress_tensor"
+            }
+        ]
+    }
+}

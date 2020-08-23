@@ -1,0 +1,37 @@
+{
+    "@text": "What is in the administrative unit of Imo State, specifically the one who's capital city is Lagos?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Imo_State",
+            "@support": "649",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Imo State",
+            "@offset": "38",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "84",
+            "@similarityScore": "0.9290554954984589",
+            "@percentageOfSecondRank": "0.05439012084849217"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Lagos",
+            "@support": "7129",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Lagos",
+            "@offset": "92",
+            "@similarityScore": "0.9604500106486914",
+            "@percentageOfSecondRank": "0.04102782158354599"
+        }
+    ]
+}

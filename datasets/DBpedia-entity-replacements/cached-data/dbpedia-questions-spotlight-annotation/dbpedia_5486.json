@@ -1,0 +1,28 @@
+{
+    "@text": "What is the name of Ian Fleming's sister, whose language is English?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ian_Fleming",
+            "@support": "1477",
+            "@types": "",
+            "@surfaceForm": "Ian Fleming",
+            "@offset": "20",
+            "@similarityScore": "0.9999999660103788",
+            "@percentageOfSecondRank": "3.365941219866327E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/English_language",
+            "@support": "81176",
+            "@types": "Wikidata:Q34770,Wikidata:Q315,Schema:Language,DBpedia:Language",
+            "@surfaceForm": "English",
+            "@offset": "60",
+            "@similarityScore": "0.9312990486652659",
+            "@percentageOfSecondRank": "0.04554371935493561"
+        }
+    ]
+}

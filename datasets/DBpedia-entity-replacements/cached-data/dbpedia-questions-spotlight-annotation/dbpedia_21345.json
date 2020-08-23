@@ -1,0 +1,37 @@
+{
+    "@text": "Name the office holder who has a child named lori Black and Harvard Westlake school as one of the educational institute ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census",
+            "@support": "315114",
+            "@types": "",
+            "@surfaceForm": "Black",
+            "@offset": "50",
+            "@similarityScore": "0.6187561333728803",
+            "@percentageOfSecondRank": "0.45501411870081376"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Harvard_University",
+            "@support": "37608",
+            "@types": "Wikidata:Q43229,Wikidata:Q3918,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:EducationalOrganization,Schema:CollegeOrUniversity,DBpedia:University,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "Harvard",
+            "@offset": "60",
+            "@similarityScore": "0.9921676043691044",
+            "@percentageOfSecondRank": "0.004473737236508873"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/E._J._Westlake",
+            "@support": "22",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Westlake",
+            "@offset": "68",
+            "@similarityScore": "0.9798721025602293",
+            "@percentageOfSecondRank": "0.006843665275602766"
+        }
+    ]
+}

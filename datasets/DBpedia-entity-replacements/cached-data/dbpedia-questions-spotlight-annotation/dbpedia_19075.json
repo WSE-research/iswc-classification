@@ -1,0 +1,28 @@
+{
+    "@text": "What is common between genre of battle chess and purpose of New Zealand Chess ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Chess",
+            "@support": "21662",
+            "@types": "Wikidata:Q1914636,Wikidata:Q11410,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Game,DBpedia:Activity",
+            "@surfaceForm": "chess",
+            "@offset": "39",
+            "@similarityScore": "0.9999183915881574",
+            "@percentageOfSecondRank": "6.75402906365865E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/New_Zealand",
+            "@support": "116769",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "New Zealand",
+            "@offset": "60",
+            "@similarityScore": "0.995605480393064",
+            "@percentageOfSecondRank": "0.001412571395172103"
+        }
+    ]
+}

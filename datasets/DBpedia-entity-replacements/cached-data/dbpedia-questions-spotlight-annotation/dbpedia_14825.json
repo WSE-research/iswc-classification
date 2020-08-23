@@ -1,0 +1,28 @@
+{
+    "@text": "Does {Jammu_and_Kashmir} {shares border with} {Punjab} and {Himachal Pradesh} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Punjab_(region)",
+            "@support": "8754",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Punjab",
+            "@offset": "47",
+            "@similarityScore": "0.9997340881068572",
+            "@percentageOfSecondRank": "2.656443296290855E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Himachal_Pradesh",
+            "@support": "4437",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Himachal Pradesh",
+            "@offset": "60",
+            "@similarityScore": "0.9606161197501335",
+            "@percentageOfSecondRank": "0.040989429279377106"
+        }
+    ]
+}

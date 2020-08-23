@@ -1,0 +1,28 @@
+{
+    "@text": "Was einstein a doctoral student of Alfred Kleiner?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Albert_Einstein",
+            "@support": "6378",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q901,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Scientist,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "einstein",
+            "@offset": "4",
+            "@similarityScore": "0.9999295668170021",
+            "@percentageOfSecondRank": "6.396440844550901E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Alfred_the_Great",
+            "@support": "1686",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Alfred",
+            "@offset": "35",
+            "@similarityScore": "0.6269589254852662",
+            "@percentageOfSecondRank": "0.5884033698329114"
+        }
+    ]
+}

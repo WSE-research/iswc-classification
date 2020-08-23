@@ -1,0 +1,1866 @@
+{
+    "http://dbpedia.org/resource/Centre_College": {
+        "http://dbpedia.org/ontology/campus": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Grace_Church_(Ca_Ira,_Virginia)": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Belmont_Abbey,_North_Carolina": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/United_States_Post_Office_and_Courthouse_(Camden,_New_Jersey)": {
+        "http://dbpedia.org/ontology/governingBody": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Register_of_Historic_Places": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatHeritageOrganizations"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SocialGroup107950920"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Organization108008335"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActor"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatOrganizationsEstablishedIn1966"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Registro Nacional de Lugares Hist\u00f3ricos",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "National Register of Historic Places",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u570b\u5bb6\u53f2\u8e5f\u540d\u9304",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u56fd\u5bb6\u6b74\u53f2\u767b\u9332\u8ca1",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u0435\u0441\u0442\u0440 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043c\u0435\u0441\u0442 \u0421\u0428\u0410",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Registro Nacional de Lugares Hist\u00f3ricos",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "National Register of Historic Places",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0633\u062c\u0644 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u0623\u0645\u0627\u0643\u0646 \u0627\u0644\u062a\u0627\u0631\u064a\u062e\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "National Register of Historic Places",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "National Register of Historic Places",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "National Register of Historic Places",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "National Register of Historic Places",
+                "lang": "nl"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "O Registro Nacional de Lugares Hist\u00f3ricos (portugu\u00eas brasileiro) ou Registo Nacional de Lugares Hist\u00f3ricos (portugu\u00eas europeu)  (em ingl\u00eas: National Register of Historic Places, sigla: NRHP) dos Estados Unidos \u00e9 a lista oficial dos distritos, lugares, edif\u00edcios, estruturas e objetos que merecem ser preservados em todo o pa\u00eds. O NRHP foi criado em 1966 pelo voto do National Historic Preservation Act (em portugu\u00eas: \"Ata sobre a Preserva\u00e7\u00e3o dos Lugares Hist\u00f3ricos Nacionais\"). Tem papel semelhante ao IPHAN no Brasil ou ao IGESPAR em Portugal. S\u00e3o exemplos de lugares inscritos neste registo:",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "National Register of Historic Places (NRHP) \u2013 oficjalny rejestr zasob\u00f3w kulturowych Stan\u00f3w Zjednoczonych zas\u0142uguj\u0105cych na ochron\u0119, zatwierdzony ustaw\u0105 National Historic Preservation Act of 1966. Rejestr ten jest cz\u0119\u015bci\u0105 krajowego programu ds. koordynacji i wspierania dzia\u0142a\u0144 publicznych i prywatnych maj\u0105cych na celu identyfikacj\u0119, ocen\u0119 i ochron\u0119 ameryka\u0144skich zasob\u00f3w historycznych i archeologicznych. Nieruchomo\u015bci wymienione w rejestrze obejmuj\u0105 te budynki, struktury, obiekty, miejsca i dystrykty historyczne, kt\u00f3re s\u0105 wa\u017cne dla ameryka\u0144skiej historii, architektury, archeologii, in\u017cynierii i kultury. Rejestr NRHP jest zarz\u0105dzany przez National Park Service, kt\u00f3ry jest cz\u0119\u015bci\u0105 ameryka\u0144skiego Departamentu Spraw Wewn\u0119trznych. W rejestrze NRHP jest aktualnie (pa\u017adziernik 2012) 85 014 obiekt\u00f3w.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u6307\u5b9a\u3059\u308b\u6b74\u53f2\u767b\u9332\u8ca1\uff08\u308c\u304d\u3057\u3068\u3046\u308d\u304f\u3056\u3044\u3001National Register of Historic Places\uff09\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u6587\u5316\u907a\u7523\u4fdd\u8b77\u5236\u5ea6\u306e\u4e00\u3064\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0627\u0644\u0633\u062c\u0644 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u0623\u0645\u0627\u0643\u0646 \u0627\u0644\u062a\u0627\u0631\u064a\u062e\u064a\u0629 (NRHP) \u0647\u0648 \u0633\u062c\u0644 \u0648\u0637\u0646\u064a \u0631\u0633\u0645\u064a \u0623\u0645\u0631\u064a\u0643\u064a \u062a\u0627\u0628\u0639 \u0644\u0644\u062d\u0643\u0648\u0645\u0629 \u0627\u0644\u0641\u064a\u062f\u0631\u0627\u0644\u064a\u0629 \u0644\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u062a\u062f\u0631\u062c \u0641\u064a\u0647 \u0643\u0644 \u0627\u0644\u0623\u0645\u0627\u0643\u0646\u060c \u0648\u0628\u064a\u0646\u0647\u0627 \u0645\u0646\u0627\u0637\u0642 \u0648\u0645\u062d\u0627\u0641\u0638\u0627\u062a \u0648\u0645\u0628\u0627\u0646\u064a \u0648\u0645\u0648\u0627\u0642\u0639 \u0623\u062b\u0631\u064a\u0629 \u0648\u063a\u064a\u0631\u0647\u0627 \u0645\u0646 \u0627\u0644\u0623\u0645\u0627\u0643\u0646\u060c \u0627\u0644\u062a\u064a \u062d\u0633\u0628 \u0645\u0639\u0627\u064a\u064a\u0631 \u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u062a\u0633\u062a\u062d\u0642 \u0627\u0644\u062d\u0641\u0627\u0638 \u0639\u0644\u064a\u0647\u0627 \u0644\u0642\u064a\u0645\u062a\u0647\u0627 \u0627\u0644\u062a\u0627\u0631\u064a\u062e\u064a\u0629. \u062a\u0623\u0633\u0633 \u0627\u0644\u0633\u062c\u0644 \u0641\u064a \u0639\u0627\u0645 1966 \u062e\u0644\u0627\u0644 \u0642\u0627\u0646\u0648\u0646 \u062d\u0641\u0638 \u0627\u0644\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0648\u0637\u0646\u064a 1966  \u0648\u062a\u062f\u064a\u0631\u0647 \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u062a\u0646\u0632\u0647\u0627\u062a \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0627\u0644\u062a\u0627\u0628\u0639\u0629 \u0644\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0645\u0646\u0630 \u062a\u0623\u0633\u064a\u0633 \u0627\u0644\u0633\u062c\u0644. \u062d\u0627\u0644\u064a\u0627 \u064a\u062d\u062a\u0648\u064a \u0627\u0644\u0633\u062c\u0644 \u0639\u0644\u0649 \u0623\u0643\u062b\u0631 \u0645\u0646 80\u060c000 \u0645\u0648\u0642\u0639.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Das National Register of Historic Places (NRHP, deutsch \u201eNationales Verzeichnis historischer St\u00e4tten\u201c) ist die offizielle Liste der Kulturdenkmale in den Vereinigten Staaten. Die Denkmalliste verzeichnet Geb\u00e4ude, Bauwerke, Anlagen und andere bedeutsame Objekte sowie historische Bezirke (Historic Districts), die von der Bundesregierung als erhaltenswerte Denkmale eingestuft werden. Die Verwaltung des National Registers oblag bislang zeitlich \u00fcberwiegend dem National Park Service (NPS).",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Le National Register of Historic Places (\u00ab Registre national des lieux historiques \u00bb) est l'\u00e9tablissement officiel plac\u00e9 sous la tutelle du gouvernement f\u00e9d\u00e9ral des \u00c9tats-Unis qui conserve, restaure, g\u00e8re, anime et ouvre \u00e0 la visite l'ensemble des monuments (districts, lieux, objets et structures) au niveau f\u00e9d\u00e9ral. Il a \u00e9t\u00e9 cr\u00e9\u00e9 en 1966 par vote de la National Historic Preservation Act (NHPA, \u00ab Loi nationale sur la conservation des sites historiques \u00bb).",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u300a\u570b\u5bb6\u53f2\u8e5f\u540d\u9304\u300b\uff08\u82f1\u8bed\uff1aNational Register of Historic Places, NRHP\uff09\u662f\u7f8e\u570b\u653f\u5e9c\u8a8d\u70ba\u503c\u5f97\u4fdd\u8b77\u7684\u5efa\u7bc9\u8ca1\u7522\u7684\u5b98\u65b9\u5217\u8868\uff0c\u65bc1966\u5e74\u8a2d\u7acb\u3002\u9996\u500b\u6536\u9304\u7684\u5efa\u7bc9\u7269\u662f\u4f4d\u65bc\u7f85\u5f97\u5cf6\u5dde\u7684\u65af\u840a\u7279\u5de5\u5ee0\uff08Slater Mill\uff09\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u0435\u0441\u0442\u0440 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043c\u0435\u0441\u0442 \u0421\u0428\u0410 (\u0430\u043d\u0433\u043b. National Register of Historic Places) \u2014 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u0447\u0435\u043d\u044c \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a\u043e\u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438, \u0432\u0435\u0434\u0443\u0449\u0438\u0439\u0441\u044f \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u043c \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e\u043c \u0421\u0428\u0410. \u0412 \u0441\u043f\u0438\u0441\u043e\u043a \u0432\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0435 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0437\u0434\u0430\u043d\u0438\u044f, \u0446\u0435\u043b\u044b\u0435 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0440\u0430\u0439\u043e\u043d\u044b \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u043e\u0431\u044a\u0435\u043a\u0442\u044b (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043a\u043e\u0440\u0430\u0431\u043b\u0438-\u043c\u0443\u0437\u0435\u0438). \u0420\u0435\u0435\u0441\u0442\u0440 \u0432\u0435\u0434\u0451\u0442\u0441\u044f \u0441 1966 \u0433\u043e\u0434\u0430.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "El Registro Nacional de Lugares Hist\u00f3ricos de los Estados Unidos (\u00abNational Register of Historic Places\u00bb, NRHP) es un registro oficial que elabora las listas de las propiedades \u2014distritos, lugares, edificios, estructuras y objetos\u2014 que se consideran que merecen ser preservadas por su valores hist\u00f3ricos. El Registro Nacional fue establecido en la ley de Preservaci\u00f3n Hist\u00f3rica Nacional de 1966 (\u00abNational Historic Preservation Act\u00bb, NHPA), que determin\u00f3 tambi\u00e9n el proceso para incluir propiedades en \u00e9l. El Registro ha estado administrado desde su creaci\u00f3n, y casi exclusivamente, por el Servicio de Parques Nacionales (\u00abNational Park Service\u00bb, NPS), dependiente del Departamento del Interior.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "The National Register of Historic Places (NRHP) is the United States federal government's official list of districts, sites, buildings, structures, and objects deemed worthy of preservation. A property listed in the National Register, or located within a National Register Historic District, may qualify for tax incentives derived from the total value of expenses incurred preserving the property.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Il National Register of Historic Places (in italiano: Registro nazionale dei luoghi storici) \u00e8 la lista ufficiale del governo degli Stati Uniti relativa a distretti, siti, edifici, strutture e oggetti che vengono considerati da preservare. Se una propriet\u00e0 privata fa parte della lista i suoi proprietari possono ottenere incentivi fiscali per le spese di conservazione della propriet\u00e0.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Het National Register of Historic Places (Nederlands: \"nationaal register van historische plaatsen\") is de monumentenlijst van de federale overheid van de Verenigde Staten. De lijst bevat meer dan \u00e9\u00e9n miljoen historische districten, locaties, bouwwerken en objecten die historisch waardevol geacht worden. Zo'n 80.000 eigendommen staan als aparte eenheden op de lijst; de rest behoort tot een historic district. Elk jaar worden er zo'n 30.000 eigendommen - zowel individueel of als deel van een district - aan de lijst toegevoegd. Plaatsen met nationale monumentenstatus (zoals National Historic Landmarks) komen automatisch op de lijst terecht.",
+                "lang": "nl"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United_States_National_Register_of_Historic_Places_listings"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places_property_types"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q3719"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Registro_Nacional_de_Lugares_Hist\u00f3ricos"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/National_Register_of_Historic_Places"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/5255592-6"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ubbf8\uad6d_\uad6d\ub9bd\uc0ac\uc801\uc9c0"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/National_Register_of_Historic_Places"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Registro_Nacional_de_Lugares_Hist\u00f3ricos"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0h52w"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q3719"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/National_Register_of_Historic_Places"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u56fd\u5bb6\u6b74\u53f2\u767b\u9332\u8ca1"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/National_Register_of_Historic_Places"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/National_Register_of_Historic_Places"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/National_Register_of_Historic_Places"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Ameriketako_Estatu_Batuetako_Gune_Historikoen_Erregistroa"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:1966_establishments_in_the_United_States"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:National_Historic_Landmarks_of_the_United_States"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Historic_preservation"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Heritage_registers_in_the_United_States"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Historic_sites_in_the_United_States"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:National_Register_of_Historic_Places"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_the_National_Register_of_Historic_Places.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/National_Register_of_Historic_Places?oldid=743732269"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.access.gpo.gov/cgi-bin/cfrassemble.cgi?title=200636"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.nps.gov/nr/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.achp.gov/book/TOC2.html#Table%20of%20Contents"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.access.gpo.gov/nara/cfr/waisidx_06/36cfr60_06.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.achp.gov/work106.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.nps.gov/history/NR/twhp/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.smwc.edu/resources/historic-architecture/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.achp.gov/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cr.nps.gov/nr/nrlist.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cr.nps.gov/nr/publications/bulletins/nrb15/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cr.nps.gov/nhl/INDEX.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cr.nps.gov/nr/publications/forms.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cr.nps.gov/nr/travel/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "National Register of Historic Places (NRHP) \u2013 oficjalny rejestr zasob\u00f3w kulturowych Stan\u00f3w Zjednoczonych zas\u0142uguj\u0105cych na ochron\u0119, zatwierdzony ustaw\u0105 National Historic Preservation Act of 1966. Rejestr ten jest cz\u0119\u015bci\u0105 krajowego programu ds. koordynacji i wspierania dzia\u0142a\u0144 publicznych i prywatnych maj\u0105cych na celu identyfikacj\u0119, ocen\u0119 i ochron\u0119 ameryka\u0144skich zasob\u00f3w historycznych i archeologicznych. Nieruchomo\u015bci wymienione w rejestrze obejmuj\u0105 te budynki, struktury, obiekty, miejsca i dystrykty historyczne, kt\u00f3re s\u0105 wa\u017cne dla ameryka\u0144skiej historii, architektury, archeologii, in\u017cynierii i kultury. Rejestr NRHP jest zarz\u0105dzany przez National Park Service, kt\u00f3ry jest cz\u0119\u015bci\u0105 ameryka\u0144skiego Departamentu Spraw Wewn\u0119trznych. W rejestrze NRHP jest aktualnie (pa\u017adziernik 2012) 85 014 obiekt\u00f3w.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Het National Register of Historic Places (Nederlands: \"nationaal register van historische plaatsen\") is de monumentenlijst van de federale overheid van de Verenigde Staten. De lijst bevat meer dan \u00e9\u00e9n miljoen historische districten, locaties, bouwwerken en objecten die historisch waardevol geacht worden. Zo'n 80.000 eigendommen staan als aparte eenheden op de lijst; de rest behoort tot een historic district. Elk jaar worden er zo'n 30.000 eigendommen - zowel individueel of als deel van een district - aan de lijst toegevoegd. Plaatsen met nationale monumentenstatus (zoals National Historic Landmarks) komen automatisch op de lijst terecht. Het National Register of Historic Places kwam tot stand door de National Historic Preservation Act, een federale wet die in 1966 aangenomen werd. Het register wordt beheerd door de National Park Service, dat onder het ministerie van binnenlandse zaken valt. Zij hebben onder andere tot doel de eigenaars van historische locaties, alsook belangengroepen zoals het National Trust for Historic Preservation, bij te staan met de co\u00f6rdinatie, identificatie en bescherming van de locaties. Opname in het National Register is vaak alleen van symbolisch belang; het biedt geen bescherming tegen verbouwing of afbraak. Het kan wel financi\u00eble voordelen met zich meebrengen. Eigenaren van op de lijst vermelde gebouwen en objecten kunnen 20% belastingaftrek krijgen voor restauratiewerk. Ze kunnen ook in aanmerking komen voor federale subsidies. Uitzonderlijk worden ook historische locaties buiten de eigenlijke Verenigde Staten, maar die er wel mee geassocieerd worden, op de lijst geplaatst. Een voorbeeld daarvan is de Amerikaanse ambassade in Tanger (Marokko).",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Das National Register of Historic Places (NRHP, deutsch \u201eNationales Verzeichnis historischer St\u00e4tten\u201c) ist die offizielle Liste der Kulturdenkmale in den Vereinigten Staaten. Die Denkmalliste verzeichnet Geb\u00e4ude, Bauwerke, Anlagen und andere bedeutsame Objekte sowie historische Bezirke (Historic Districts), die von der Bundesregierung als erhaltenswerte Denkmale eingestuft werden. Die Einrichtung des Verzeichnisses wurde 1966 durch den National Historic Preservation Act (NHPA) angeordnet. Aufgabe des Registers ist es, Eigent\u00fcmer und interessierte Gruppen dabei zu unterst\u00fctzen, geschichtlich bedeutsame Kulturdenkmale zu erkennen und zu sch\u00fctzen. Obwohl die Listung haupts\u00e4chlich symbolische Bedeutung hat, kann eine finanzielle Unterst\u00fctzung des Eigent\u00fcmers mit ihr verbunden sein. Von den mehr als eine Million im Register verzeichneten Objekten sind lediglich rund 80.000 Kulturdenkmale als Einzelobjekt erfasst, die gro\u00dfe Mehrheit hingegen als Teil eines Historic District. J\u00e4hrlich werden zirka 30.000 Objekte neu in das Verzeichnis aufgenommen. Die Verwaltung des National Registers oblag bislang zeitlich \u00fcberwiegend dem National Park Service (NPS).",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u6307\u5b9a\u3059\u308b\u6b74\u53f2\u767b\u9332\u8ca1\uff08\u308c\u304d\u3057\u3068\u3046\u308d\u304f\u3056\u3044\u3001National Register of Historic Places\uff09\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u6587\u5316\u907a\u7523\u4fdd\u8b77\u5236\u5ea6\u306e\u4e00\u3064\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Il National Register of Historic Places (in italiano: Registro nazionale dei luoghi storici) \u00e8 la lista ufficiale del governo degli Stati Uniti relativa a distretti, siti, edifici, strutture e oggetti che vengono considerati da preservare. Se una propriet\u00e0 privata fa parte della lista i suoi proprietari possono ottenere incentivi fiscali per le spese di conservazione della propriet\u00e0. L'adozione del National Historic Preservation Act (NHPA) del 1966 istitu\u00ec il Registro ed il processo per l'aggiunta ad esso delle singole propriet\u00e0. Delle oltre un milione di propriet\u00e0 registrate, circa 80.000 sono elencate individualmente; le rimanenti fanno parte di distretti storici pi\u00f9 vasti. Ogni anno vengono aggiunte al registro circa 30.000 propriet\u00e0, sia come parte di complessi o distretti che come singoli elementi. Per gran parte della sua storia il Registro \u00e8 stato gestito dal National Park Service (NPS), un'agenzia del Dipartimento degli Interni degli Stati Uniti. I suoi obiettivi sono di supporto a singoli o gruppi di proprietari, come per il National Trust for Historic Preservation, di coordinazione, identificazione e protezione dei siti storici presenti negli Stati Uniti. Sebbene le liste del National Register siano per lo pi\u00f9 simboliche, hanno l'utilit\u00e0 di offrire incentivi finanziari ai proprietari dei beni tutelati. Prima dell'aggiunta di un bene al Registro, questo viene sottoposto a valutazione secondo quattro criteri, la cui applicazione per\u00f2 \u00e8 stata oggetto di critiche sia da parte di esperti del settore della conservazione che dalla politica e dall'opinione pubblica. Talvolta siti storici esterni al territorio statunitense, ma ad esso associati (come l'ambasciata americana a Tangeri) fanno parte della lista. Le propriet\u00e0 possono essere registrate in molti modi, come propriet\u00e0 individuali, distretti storici e le cosiddette multiple property submissions (MPS). Ci sono cinque categorie principali di beni secondo il tipo di propriet\u00e0: edificio, struttura, sito, oggetto e distretto. I distretti storici consistono di propriet\u00e0 di tipo contribuente e non contribuente. Possono entrare automaticamente nella lista i beni che entrano nella gestione National Park Service: National Historic Landmark (NHL), National Historic Site (NHS), National Historical Park, National Military Parks/Battlefields, National Memorial e alcuni Monumenti Nazionali.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Le National Register of Historic Places (\u00ab Registre national des lieux historiques \u00bb) est l'\u00e9tablissement officiel plac\u00e9 sous la tutelle du gouvernement f\u00e9d\u00e9ral des \u00c9tats-Unis qui conserve, restaure, g\u00e8re, anime et ouvre \u00e0 la visite l'ensemble des monuments (districts, lieux, objets et structures) au niveau f\u00e9d\u00e9ral. Il a \u00e9t\u00e9 cr\u00e9\u00e9 en 1966 par vote de la National Historic Preservation Act (NHPA, \u00ab Loi nationale sur la conservation des sites historiques \u00bb). Le National Register a pratiquement toujours \u00e9t\u00e9 g\u00e9r\u00e9 par le National Park Service (NPS) qui lui-m\u00eame d\u00e9pend du D\u00e9partement de l'Int\u00e9rieur des \u00c9tats-Unis. Son but est d'aider les propri\u00e9taires et les associations, telles que le National Trust for Historic Preservation, \u00e0 coordonner, identifier et prot\u00e9ger les sites historiques des \u00c9tats-Unis. Bien que l'inscription sur la liste du National Register soit en elle-m\u00eame surtout symbolique, elle permet n\u00e9anmoins d'accorder quelques subventions aux propri\u00e9taires des lieux, l'inscription permettant fr\u00e9quemment l'application de lois municipales d\u00e9pendant de ce statut.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "O Registro Nacional de Lugares Hist\u00f3ricos (portugu\u00eas brasileiro) ou Registo Nacional de Lugares Hist\u00f3ricos (portugu\u00eas europeu)  (em ingl\u00eas: National Register of Historic Places, sigla: NRHP) dos Estados Unidos \u00e9 a lista oficial dos distritos, lugares, edif\u00edcios, estruturas e objetos que merecem ser preservados em todo o pa\u00eds. O NRHP foi criado em 1966 pelo voto do National Historic Preservation Act (em portugu\u00eas: \"Ata sobre a Preserva\u00e7\u00e3o dos Lugares Hist\u00f3ricos Nacionais\"). O NRHP foi sempre administrado pelo Servi\u00e7o Nacional de Parques (National Park Service) e este, por sua vez, est\u00e1 subordinado ao Departamento do Interior dos Estados Unidos. Seu objetivo \u00e9 ajudar aos propriet\u00e1rios e \u00e0s associa\u00e7\u00f5es, como o National Trust for Historic Preservation, que deve coordenar, definir e proteger os s\u00edtios hist\u00f3ricos dos Estados Unidos. Tem papel semelhante ao IPHAN no Brasil ou ao IGESPAR em Portugal. S\u00e3o exemplos de lugares inscritos neste registo: \n*  Mount Vernon \n*  Arlington House \n*  Washington Place",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0627\u0644\u0633\u062c\u0644 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u0623\u0645\u0627\u0643\u0646 \u0627\u0644\u062a\u0627\u0631\u064a\u062e\u064a\u0629 (NRHP) \u0647\u0648 \u0633\u062c\u0644 \u0648\u0637\u0646\u064a \u0631\u0633\u0645\u064a \u0623\u0645\u0631\u064a\u0643\u064a \u062a\u0627\u0628\u0639 \u0644\u0644\u062d\u0643\u0648\u0645\u0629 \u0627\u0644\u0641\u064a\u062f\u0631\u0627\u0644\u064a\u0629 \u0644\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u062a\u062f\u0631\u062c \u0641\u064a\u0647 \u0643\u0644 \u0627\u0644\u0623\u0645\u0627\u0643\u0646\u060c \u0648\u0628\u064a\u0646\u0647\u0627 \u0645\u0646\u0627\u0637\u0642 \u0648\u0645\u062d\u0627\u0641\u0638\u0627\u062a \u0648\u0645\u0628\u0627\u0646\u064a \u0648\u0645\u0648\u0627\u0642\u0639 \u0623\u062b\u0631\u064a\u0629 \u0648\u063a\u064a\u0631\u0647\u0627 \u0645\u0646 \u0627\u0644\u0623\u0645\u0627\u0643\u0646\u060c \u0627\u0644\u062a\u064a \u062d\u0633\u0628 \u0645\u0639\u0627\u064a\u064a\u0631 \u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u062a\u0633\u062a\u062d\u0642 \u0627\u0644\u062d\u0641\u0627\u0638 \u0639\u0644\u064a\u0647\u0627 \u0644\u0642\u064a\u0645\u062a\u0647\u0627 \u0627\u0644\u062a\u0627\u0631\u064a\u062e\u064a\u0629. \u062a\u0623\u0633\u0633 \u0627\u0644\u0633\u062c\u0644 \u0641\u064a \u0639\u0627\u0645 1966 \u062e\u0644\u0627\u0644 \u0642\u0627\u0646\u0648\u0646 \u062d\u0641\u0638 \u0627\u0644\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0648\u0637\u0646\u064a 1966  \u0648\u062a\u062f\u064a\u0631\u0647 \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u062a\u0646\u0632\u0647\u0627\u062a \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0627\u0644\u062a\u0627\u0628\u0639\u0629 \u0644\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0645\u0646\u0630 \u062a\u0623\u0633\u064a\u0633 \u0627\u0644\u0633\u062c\u0644. \u062d\u0627\u0644\u064a\u0627 \u064a\u062d\u062a\u0648\u064a \u0627\u0644\u0633\u062c\u0644 \u0639\u0644\u0649 \u0623\u0643\u062b\u0631 \u0645\u0646 80\u060c000 \u0645\u0648\u0642\u0639.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "El Registro Nacional de Lugares Hist\u00f3ricos de los Estados Unidos (\u00abNational Register of Historic Places\u00bb, NRHP) es un registro oficial que elabora las listas de las propiedades \u2014distritos, lugares, edificios, estructuras y objetos\u2014 que se consideran que merecen ser preservadas por su valores hist\u00f3ricos. El Registro Nacional fue establecido en la ley de Preservaci\u00f3n Hist\u00f3rica Nacional de 1966 (\u00abNational Historic Preservation Act\u00bb, NHPA), que determin\u00f3 tambi\u00e9n el proceso para incluir propiedades en \u00e9l. El Registro ha estado administrado desde su creaci\u00f3n, y casi exclusivamente, por el Servicio de Parques Nacionales (\u00abNational Park Service\u00bb, NPS), dependiente del Departamento del Interior. Su objetivo es ayudar a los propietarios y a asociaciones \u2014como el National Trust for Historic Preservation\u2014 a coordinar, definir y proteger los sitios hist\u00f3ricos de los Estados Unidos. Aunque la inscripci\u00f3n en las listas del Registro Nacional sea en s\u00ed misma sobre todo simb\u00f3lica, ya que no garantiza ninguna protecci\u00f3n de la propiedad, permite que los propietarios puedan acceder a subvenciones federales y tambi\u00e9n que les sea de aplicaci\u00f3n frecuentemente ciertas leyes municipales favorables que dependen de tal estatus. El Registro categoriza los listados generales en uno de cinco tipos de propiedades: construcciones, estructuras, lugares, objetos y distritos hist\u00f3ricos (que consisten en propiedades contribuidoras y no-contribuidoras). En algunos casos se incluyen en el Registro ciertos lugares hist\u00f3ricos localizados fuera del pa\u00eds, pero asociados con los Estados Unidos (como la Embajada de los Estados Unidos en T\u00e1nger). Los bienes del registro pueden ser nombrados en una variedad de formas, incluyendo propiedades individuales, distritos hist\u00f3ricos y admisi\u00f3n de propiedades m\u00faltiple (\u00abmultiple property submissions\u00bb, MPS). Durante el proceso de nominaci\u00f3n, la propiedad se eval\u00faa atendiendo a los cuatro criterios fijados en la ley, cuya aplicaci\u00f3n ha sido objeto de cr\u00edticas por acad\u00e9micos de la historia y expertos en preservaci\u00f3n, as\u00ed como por el p\u00fablico, y los propios pol\u00edticos. Las propiedades que pasan a depender del Servicio de Parques Nacionales \u2014como los hitos hist\u00f3ricos nacionales (\u00abNational Historic Landmarks\u00bb, NHL), sitios hist\u00f3ricos nacionales (\u00abNational Historic Sites\u00bb, NHS), parques hist\u00f3ricos nacionales (\u00abNational Historical Parks\u00bb), Parques Militares/campos de batalla nacionales (\u00abNational Military Parks/Battlefields\u00bb), memoriales nacionales (\u00abNational Memorials\u00bb) y algunos de los monumentos nacionales (\u00abNational Monuments\u00bb)\u2014 se a\u00f1aden autom\u00e1ticamente en el Registro Nacional. Del m\u00e1s de un mill\u00f3n de propiedades incluidas en el Registro Nacional, 80.000 est\u00e1n enumeradas individualmente. El resto son miembros contribuidores dentro de distritos hist\u00f3ricos. Cada a\u00f1o se agregan al Registro Nacional aproximadamente 30.000 nuevas propiedades, tanto de forma individual como formando parte de distritos hist\u00f3ricos.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u300a\u570b\u5bb6\u53f2\u8e5f\u540d\u9304\u300b\uff08\u82f1\u8bed\uff1aNational Register of Historic Places, NRHP\uff09\u662f\u7f8e\u570b\u653f\u5e9c\u8a8d\u70ba\u503c\u5f97\u4fdd\u8b77\u7684\u5efa\u7bc9\u8ca1\u7522\u7684\u5b98\u65b9\u5217\u8868\uff0c\u65bc1966\u5e74\u8a2d\u7acb\u3002\u9996\u500b\u6536\u9304\u7684\u5efa\u7bc9\u7269\u662f\u4f4d\u65bc\u7f85\u5f97\u5cf6\u5dde\u7684\u65af\u840a\u7279\u5de5\u5ee0\uff08Slater Mill\uff09\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "The National Register of Historic Places (NRHP) is the United States federal government's official list of districts, sites, buildings, structures, and objects deemed worthy of preservation. A property listed in the National Register, or located within a National Register Historic District, may qualify for tax incentives derived from the total value of expenses incurred preserving the property. The passage of the National Historic Preservation Act (NHPA) in 1966 established the National Register and the process for adding properties to it. Of the more than one million properties on the National Register, 80,000 are listed individually. The remainder are contributing resources within historic districts. Each year approximately 30,000 properties are added to the National Register as part of districts or by individual listings. For most of its history the National Register has been administered by the National Park Service (NPS), an agency within the United States Department of the Interior. Its goals are to help property owners and interest groups, such as the National Trust for Historic Preservation, coordinate, identify, and protect historic sites in the United States. While National Register listings are mostly symbolic, their recognition of significance provides some financial incentive to owners of listed properties. Protection of the property is not guaranteed. During the nomination process, the property is evaluated in terms of the four criteria for inclusion on the National Register of Historic Places. The application of those criteria has been the subject of criticism by academics of history and preservation, as well as the public and politicians. Occasionally, historic sites outside the country proper, but associated with the United States (such as the American Embassy in Tangiers) are also listed. Properties can be nominated in a variety of forms, including individual properties, historic districts, and multiple property submissions (MPS). The Register categorizes general listings into one of five types of properties: district, site, structure, building, or object. National Register Historic Districts are defined geographical areas consisting of contributing and non-contributing properties. Some properties are added automatically to the National Register when they become administered by the National Park Service. These include National Historic Landmarks (NHL), National Historic Sites (NHS), National Historical Parks, National Military Parks/Battlefields, National Memorials, and some National Monuments. (Federal properties can be proclaimed National Monuments under the Antiquities Act because of either their historical or natural significance. They are managed by multiple agencies. Only monuments that are historic in character and managed by the National Park Service are listed administratively in the National Register.)",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u0435\u0441\u0442\u0440 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043c\u0435\u0441\u0442 \u0421\u0428\u0410 (\u0430\u043d\u0433\u043b. National Register of Historic Places) \u2014 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u0447\u0435\u043d\u044c \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a\u043e\u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438, \u0432\u0435\u0434\u0443\u0449\u0438\u0439\u0441\u044f \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u043c \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e\u043c \u0421\u0428\u0410. \u0412 \u0441\u043f\u0438\u0441\u043e\u043a \u0432\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0435 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0437\u0434\u0430\u043d\u0438\u044f, \u0446\u0435\u043b\u044b\u0435 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0440\u0430\u0439\u043e\u043d\u044b \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u043e\u0431\u044a\u0435\u043a\u0442\u044b (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043a\u043e\u0440\u0430\u0431\u043b\u0438-\u043c\u0443\u0437\u0435\u0438). \u0412 \u0440\u0435\u0435\u0441\u0442\u0440 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043c\u0435\u0441\u0442 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0442\u0441\u044f \u0432\u0441\u0435 \u043e\u0431\u044a\u0435\u043a\u0442\u044b, \u0438\u043c\u0435\u044e\u0449\u0438\u0435 \u0441\u0442\u0430\u0442\u0443\u0441 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a\u0430 (\u0430\u043d\u0433\u043b. National Historic Landmark). \u041e\u0434\u043d\u0430\u043a\u043e \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u0440\u0435\u0435\u0441\u0442\u0440\u0430 \u043d\u0435 \u0438\u043c\u0435\u0435\u0442 \u044d\u0442\u043e\u0433\u043e \u0441\u0442\u0430\u0442\u0443\u0441\u0430: \u0438\u0437 \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u0432\u043e\u0441\u044c\u043c\u0438\u0434\u0435\u0441\u044f\u0442\u0438 \u0442\u044b\u0441\u044f\u0447 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u043f\u0435\u0440\u0435\u0447\u043d\u044f, \u0442\u043e\u043b\u044c\u043a\u043e 2430 \u0438\u043c\u0435\u044e\u0442 \u0441\u0442\u0430\u0442\u0443\u0441 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a\u0430. \u0420\u0435\u0435\u0441\u0442\u0440 \u0432\u0435\u0434\u0451\u0442\u0441\u044f \u0441 1966 \u0433\u043e\u0434\u0430.",
+                "lang": "ru"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_the_National_Register_of_Historic_Places.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743732269,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 64065,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/President_William_McKinley_High_School": {
+        "http://dbpedia.org/property/free": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Heritage_Plaza_(Albany,_Georgia)": {
+        "http://dbpedia.org/ontology/nrhpType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Heritage_Plaza_(Albany,_Georgia)__Albany_Railroad_Depot_Historic_District_Heritage_P__1": {
+        "http://dbpedia.org/ontology/nrhpType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pennsylvania_State_Memorial,_Gettysburg": {
+        "http://dbpedia.org/property/codeType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/National_Register_of_Historic_Places": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kriegshaber_House": {
+        "http://dbpedia.org/ontology/governingBody": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rhodes_Hall": {
+        "http://dbpedia.org/ontology/governingBody": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/McFarlin_Memorial_Auditorium": {
+        "http://dbpedia.org/property/designation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gross_Covered_Bridge": {
+        "http://dbpedia.org/property/free2Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mount_Zion_Baptist_Church_(Tulsa)": {
+        "http://dbpedia.org/ontology/nrhpType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Soldiers'_National_Monument": {
+        "http://dbpedia.org/property/codeType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/North_Carolina_Monument": {
+        "http://dbpedia.org/property/codeType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Register_for_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Register_of_Historic_Districts": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nationally_Registered_Historic_Place": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Historical_Register": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Register": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Register_of_Historical_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Historic_Register": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/School_District_MPS": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Registry": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/New_York_State_Register_of_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Registered_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_List_of_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Historic_Place": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_register_of_historic_places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/NRHP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/U.S._National_Register_of_Historical_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Registry_of_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Multiple_Property_Submission": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Recent_past": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Registered_Historic_Place": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Registry_of_Historical_places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Register_Of_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Multiple_property_submission": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/U.S._National_Register_of_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_National_Register_of_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_National_Register_of_Historic_Places_(NRHP)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_register_of_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Historic_Register_of_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Register_Historic_Districts": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Register_of_Historic_District": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/United_States_National_Register_of_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nrhp.focus.nps.gov": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Registers_of_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Multiple_property_submissions": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Teaching_with_Historic_Places": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/TwHP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Venetian_Causeway": {
+        "http://dbpedia.org/property/heritage": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/St._John_the_Evangelist_Church_(Cambridge,_Massachusetts)": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mecca_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mill_Creek_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Narrows_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Neet_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nevins_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Phillips_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Roseville-Coxville_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rush_Creek_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sim_Smith_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thorpe_Ford_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/West_Union_Covered_Bridge_(Indiana)": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Zacke_Cox_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pithole,_Pennsylvania": {
+        "http://dbpedia.org/property/codeType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Concordia_German_Evangelical_Church_and_Rectory": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cataract_Falls_Covered_Bridge": {
+        "http://dbpedia.org/property/free2Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Crooks_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bitzer's_Mill_Covered_Bridge": {
+        "http://dbpedia.org/property/free2Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bucher's_Mill_Covered_Bridge": {
+        "http://dbpedia.org/property/free2Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Colemanville_Covered_Bridge": {
+        "http://dbpedia.org/property/free2Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Buck_Hill_Farm_Covered_Bridge": {
+        "http://dbpedia.org/property/free1Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gesu_Church_(Milwaukee,_Wisconsin)": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Beeson_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Big_Rocky_Fork_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Billie_Creek_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bowsher_Ford_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bridgeton_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Catlin_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Conley's_Ford_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cox_Ford_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Harry_Evans_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jackson_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Leatherwood_Station_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mansfield_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/St._Paul_the_Apostle_Church_(Manhattan)": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Heinz_College": {
+        "http://dbpedia.org/ontology/campus": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Basilica_of_the_National_Shrine_of_the_Assumption_of_the_Blessed_Virgin_Mary_(Baltimore)": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_Name_Cathedral_(Chicago)": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/St._John's_Lutheran_Church_(Orange,_California)": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/St._Mary's_Cathedral_and_Rectory_(Fall_River,_Massachusetts)": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Portland_Mills_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sanitorium_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cathedral_of_the_Most_Blessed_Sacrament": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Downtown_Presbyterian_Church_(Nashville)": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/St._Francis_Xavier_Church_(Cincinnati,_Ohio)": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Washington_and_Lee_University_School_of_Law": {
+        "http://dbpedia.org/ontology/campus": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Melcher_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wilkins_Mill_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Market_Street_Bridge_(Harrisburg,_Pennsylvania)": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fletcher_Covered_Bridge": {
+        "http://dbpedia.org/property/free2Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cutler_Majestic_Theatre": {
+        "http://dbpedia.org/property/designation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/State_Street_Bridge_(Harrisburg,_Pennsylvania)": {
+        "http://dbpedia.org/property/code1Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/property/free2Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/History_of_the_National_Park_Service": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tantiusques": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/JH_Russell_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Roaring_Creek_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Turkey_Run_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Heber_Hord_House": {
+        "http://dbpedia.org/ontology/governingBody": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Martha_Ellen_Auditorium": {
+        "http://dbpedia.org/ontology/governingBody": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patterson_Law_Office": {
+        "http://dbpedia.org/ontology/governingBody": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wright_Morris_Boyhood_House": {
+        "http://dbpedia.org/ontology/governingBody": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nelson_Farm,_Nebraska": {
+        "http://dbpedia.org/ontology/governingBody": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gudgeonville_Covered_Bridge": {
+        "http://dbpedia.org/property/free2Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Colton_Point_State_Park": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lower_Humbert_Covered_Bridge": {
+        "http://dbpedia.org/property/free2Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plunketts_Creek_Bridge_No._3": {
+        "http://dbpedia.org/property/free2Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Waterford_Covered_Bridge": {
+        "http://dbpedia.org/property/free2Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Keller's_Mill_Covered_Bridge": {
+        "http://dbpedia.org/property/freeType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/property/code1Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Siegrist's_Mill_Covered_Bridge": {
+        "http://dbpedia.org/property/freeType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/property/code1Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/David_McCullough_Bridge": {
+        "http://dbpedia.org/property/codeType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pithole_Stone_Arch_Bridge": {
+        "http://dbpedia.org/property/code1Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/property/free1Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Inclined_Plane_Bridge": {
+        "http://dbpedia.org/property/code1Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/property/free1Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sachs_Covered_Bridge": {
+        "http://dbpedia.org/property/freeType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/property/code1Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Buttonwood_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cogan_House_Covered_Bridge": {
+        "http://dbpedia.org/property/free2Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Forksville_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hillsgrove_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sonestown_Covered_Bridge": {
+        "http://dbpedia.org/property/free3Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/F._W._Andreasen-John_Rossen_House": {
+        "http://dbpedia.org/ontology/governingBody": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Washington_and_Lee_University": {
+        "http://dbpedia.org/ontology/campus": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Deadwood_Draw": {
+        "http://dbpedia.org/ontology/governingBody": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nellis_Air_Force_Base_Complex": {
+        "http://dbpedia.org/property/landmarkType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mishler_Theatre": {
+        "http://dbpedia.org/property/designation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chapel_of_the_Holy_Cross_(Sedona,_Arizona)": {
+        "http://dbpedia.org/property/designated": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/14th_New_Jersey_Volunteer_Infantry_Monument": {
+        "http://dbpedia.org/property/codeType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Capon_Lake_Whipple_Truss_Bridge": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Overseas_Highway": {
+        "http://dbpedia.org/property/heritage": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Organ_Cave": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jersey_Bridge_(Cherrytree_Township,_Pennsylvania)": {
+        "http://dbpedia.org/property/code1Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/property/free1Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_Cross_Abbey_(Ca\u00f1on_City,_Colorado)": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carmichaels_Covered_Bridge": {
+        "http://dbpedia.org/property/freeType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ],
+        "http://dbpedia.org/property/code1Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Virginia_Monument": {
+        "http://dbpedia.org/property/codeType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/High_Water_Mark_of_the_Rebellion_Monument": {
+        "http://dbpedia.org/property/established1Type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+            }
+        ]
+    }
+}

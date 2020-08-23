@@ -1,0 +1,536 @@
+{
+    "http://dbpedia.org/resource/Johannes_Vermeer": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dutch_Golden_Age_painting": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Creator109614315"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Artist109812338"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Artwork"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatDutchGoldenAgePainters"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Painter110391653"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Person100007846"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActor"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Organism100004475"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/CausalAgent100007347"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/LivingThing100004258"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Dutch Golden Age painting",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Pintura del Siglo de oro neerland\u00e9s",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0417\u043e\u043b\u043e\u0442\u043e\u0439 \u0432\u0435\u043a \u0433\u043e\u043b\u043b\u0430\u043d\u0434\u0441\u043a\u043e\u0439 \u0436\u0438\u0432\u043e\u043f\u0438\u0441\u0438",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u00c2ge d'or de la peinture n\u00e9erlandaise",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u8377\u862d\u9ec3\u91d1\u6642\u4ee3\u7e6a\u756b",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u30aa\u30e9\u30f3\u30c0\u9ec4\u91d1\u6642\u4ee3\u306e\u7d75\u753b",
+                "lang": "ja"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "The Dutch Golden Age painting is the painting of the Dutch Golden Age, a period in Dutch history generally spanning the 17th century, during and after the later part of the Eighty Years' War (1568\u20131648) for Dutch independence. A distinctive feature of the period is the proliferation of distinct genres of paintings, with the majority of artists producing the bulk of their work within one of these. The full development of this specialization is seen from the late 1620s, and the period from then until the French invasion of 1672 is the core of Golden Age painting.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "L'\u00e2ge d'or de la peinture n\u00e9erlandaise est le nom donn\u00e9 \u00e0 la peinture des Pays-Bas durant le si\u00e8cle d'or n\u00e9erlandais, une p\u00e9riode de l'histoire de ce pays qui correspond \u00e0 peu pr\u00e8s au XVIIe si\u00e8cle. Les Provinces-Unies forment alors la nation la plus prosp\u00e8re d'Europe et dominent le commerce, l'art et la science du continent. Les provinces ayant constitu\u00e9 ce nouvel \u00e9tat sont des centres artistiques moins importants que les villes de Flandre, mais les bouleversements et les migrations de populations dus \u00e0 la guerre de Quatre-Vingts Ans, ainsi que la rupture avec les traditions culturelles monarchiste et catholique, font que l'art n\u00e9erlandais a besoin de se r\u00e9inventer enti\u00e8rement, une t\u00e2che qu'il accomplit avec succ\u00e8s.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u8377\u862d\u9ec3\u91d1\u6642\u4ee3\u7e6a\u756b\u6307\u7684\u662f17\u4e16\u7d00\u8377\u862d\u9ec3\u91d1\u6642\u4ee3\u6642\u7684\u7e6a\u756b\uff0c \u7576\u6642\u516b\u5341\u5e74\u6230\u722d\u4e2d\u6210\u7acb\u7684\u8377\u862d\u5171\u548c\u570b\u6210\u70ba\u4e86\u4e16\u754c\u4e0a\u6700\u5bcc\u5eb6\u7684\u570b\u5bb6\u4e4b\u4e00\uff0c\u5c24\u5176\u662f\u5728\u6b50\u6d32\uff0c\u5b83\u5728\u5546\u696d\u3001\u79d1\u5b78\u548c\u85dd\u8853\u9818\u57df\u90fd\u5c45\u65bc\u9818\u5c0e\u5730\u4f4d\u3002 \u8377\u862d\u9ec3\u91d1\u6642\u4ee3\u7e6a\u756b\u5c6c\u65bc\u7bc4\u570d\u66f4\u5ee3\u7684\u5df4\u6d1b\u514b\u7e6a\u756b\uff0c\u4f46\u4e0d\u50cf\u9644\u8fd1\u7684\u4f5b\u862d\u5fb7\u4eba\u7684\u4f5c\u54c1\uff0c\u8377\u862d\u9ec3\u91d1\u6642\u4ee3\u7e6a\u756b\u7f3a\u4e4f\u4e00\u7a2e\u5176\u4ed6\u5df4\u6d1b\u514b\u756b\u4f5c\u61c9\u6709\u7684\u5b8f\u5927\u548c\u7406\u60f3\u5316\u7279\u5f81\u3002\u76f8\u53cd\uff0c\u5b83\u66f4\u8cbc\u8fd1\u65bc\u65e9\u671f\u5c3c\u5fb7\u862d\u756b\u6d3e\u6240\u6709\u7684\u73fe\u5be6\u4e3b\u7fa9\u98a8\u683c\u3002 \u9019\u4e00\u6642\u4ee3\u756b\u4f5c\u7684\u5178\u578b\u7279\u5f81\u4e4b\u4e00\u662f\u5404\u7a2e\u98a8\u4fd7\u756b\u7684\u51fa\u73fe\uff0c\u4e0d\u540c\u7684\u85dd\u8853\u5bb6\u53ef\u80fd\u6240\u5c08\u7cbe\u7684\u985e\u578b\u90fd\u4e0d\u540c\u30021620\u5e74\u4ee3\u958b\u59cb\u8377\u862d\u9ec3\u91d1\u6642\u4ee3\u7e6a\u756b\u958b\u59cb\u5927\u5e45\u767c\u5c55\uff0c\u76f4\u52301672\u7684\u707d\u96e3\u5e74\u624d\u6f38\u6f38\u8870\u843d\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u30aa\u30e9\u30f3\u30c0\u9ec4\u91d1\u6642\u4ee3\u306e\u7d75\u753b\uff08\u30aa\u30e9\u30f3\u30c0\u304a\u3046\u3054\u3093\u3058\u3060\u3044\u306e\u304b\u3044\u304c\uff09\u306f\u3001\u30aa\u30e9\u30f3\u30c0\u304c\u4e16\u754c\u7684\u306a\u5f71\u97ff\u529b\u3092\u6301\u3063\u3066\u3044\u305f\u3001\u30cd\u30fc\u30c7\u30eb\u30e9\u30f3\u30c8\u8af8\u5dde\u306e\u72ec\u7acb\u6226\u4e89\u3067\u3042\u308b\u516b\u5341\u5e74\u6226\u4e89\uff081568\u5e74\u304b\u30891648\u5e74\uff09\u306e\u7d42\u308f\u308a\u304b\u308917\u4e16\u7d00\uff08\u30aa\u30e9\u30f3\u30c0\u9ec4\u91d1\u6642\u4ee3\uff09\u3092\u4e2d\u5fc3\u3068\u3057\u3066\u3001\u30aa\u30e9\u30f3\u30c0\u4eba\u753b\u5bb6\u305f\u3061\u3001\u3042\u308b\u3044\u306f\u30aa\u30e9\u30f3\u30c0\u3067\u6d3b\u8e8d\u3057\u305f\u5916\u56fd\u4eba\u753b\u5bb6\u305f\u3061\u306b\u3088\u3063\u3066\u63cf\u304b\u308c\u305f\u7d75\u753b\u3002\u516b\u5341\u5e74\u6226\u4e89\u3067\u30b9\u30da\u30a4\u30f3\u304b\u3089\u306e\u72ec\u7acb\u3092\u5ba3\u8a00\u3057\u305f\u30cd\u30fc\u30c7\u30eb\u30e9\u30f3\u30c8\u9023\u90a6\u5171\u548c\u56fd\u306f\u5f53\u6642\u306e\u30e8\u30fc\u30ed\u30c3\u30d1\u3067\u6700\u3082\u5bcc\u88d5\u306a\u56fd\u3067\u3001\u8cbf\u6613\u3001\u5b66\u554f\u3001\u82b8\u8853\u306e\u6700\u5148\u7aef\u56fd\u5bb6\u3060\u3063\u305f\u3002\u9023\u90a6\u5171\u548c\u56fd\u3092\u69cb\u6210\u3057\u305f\u5317\u90e8\u306e\u5dde\u306f\u3001\u5357\u90e8\u306e\u5dde\u306b\u6bd4\u3079\u308b\u3068\u82b8\u8853\u5206\u91ce\u3067\u512a\u3063\u3066\u3044\u308b\u3068\u306f\u3044\u3048\u306a\u304b\u3063\u305f\u3002\u3057\u304b\u3057\u6226\u4e89\u306b\u3088\u308b\u6df7\u4e71\u3068\u4f4f\u6c11\u306e\u5927\u898f\u6a21\u306a\u79fb\u52d5\u306f\u305d\u308c\u307e\u3067\u306e\u541b\u4e3b\u5236\u3084\u30ab\u30c8\u30ea\u30c3\u30af\u7684\u4f1d\u7d71\u306e\u7834\u58ca\u306b\u3064\u306a\u304c\u308a\u3001\u30aa\u30e9\u30f3\u30c0\u82b8\u8853\u306f\u3053\u308c\u3089\u306e\u5927\u304d\u306a\u5909\u9769\u306e\u7d50\u679c\u3001\u7d20\u6674\u3089\u3057\u3044\u6210\u679c\u3068\u306a\u3063\u3066\u7d50\u5b9f\u3057\u305f\u3002 \u30aa\u30e9\u30f3\u30c0\u9ec4\u91d1\u6642\u4ee3\u306e\u7d75\u753b\u306f\u30e8\u30fc\u30ed\u30c3\u30d1\u5168\u4f53\u3067\u307f\u308b\u3068\u30d0\u30ed\u30c3\u30af\u7d75\u753b\u306e\u6642\u4ee3\u3068\u5408\u81f4\u3057\u3001\u306a\u304b\u306b\u306f\u30d0\u30ed\u30c3\u30af\u7d75\u753b\u306e\u7279\u5fb4\u304c\u307f\u3089\u308c\u308b\u3082\u306e\u3082\u3042\u308b\u3002\u3057\u304b\u3057\u3001\u30d0\u30ed\u30c3\u30af\u7d75\u753b\u306e\u5178\u578b\u7684\u306a\u7279\u5fb4\u3067\u3042\u308b\u5bfe\u8c61\u306e\u7406\u60f3\u5316\u3084\u58ee\u9e97\u306a\u753b\u9762\u69cb\u6210\u306f\u307b\u3068\u3093\u3069\u306a\u304f\u3001\u96a3\u56fd\u3067\u3042\u308b\u30d5\u30e9\u30f3\u30c9\u30eb\u306e\u30d0\u30ed\u30c3\u30af\u7d75\u753b\u306e\u5f71\u97ff\u3082\u898b\u3089\u308c\u306a\u3044\u3002\u3053\u306e\u6642\u4ee3\u306b\u5236\u4f5c\u3055\u308c\u305f\u6709\u540d\u306a\u30aa\u30e9\u30f3\u30c0\u7d75\u753b\u306e\u591a\u304f\u306f\u3001\u4f1d\u7d71\u7684\u306a\u521d\u671f\u30d5\u30e9\u30f3\u30c9\u30eb\u6d3e\u304b\u3089\u5f15\u304d\u7d99\u3044\u3060\u7d30\u90e8\u306b\u308f\u305f\u308b\u5199\u5b9f\u4e3b\u7fa9\u306e\u5f71\u97ff\u3092\u5f37\u304f\u53d7\u3051\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La pintura del Siglo de oro neerland\u00e9s o pintura barroca holandesa se desarroll\u00f3 durante un per\u00edodo de la historia holandesa que abarca el siglo XVII, durante y despu\u00e9s de la Guerra de los Ochenta A\u00f1os (1568-1648) por la independencia holandesa. Las Provincias Unidas eran la naci\u00f3n m\u00e1s pr\u00f3spera de Europa, liderando el comercio, la ciencia y el arte. El arte holand\u00e9s tuvo que reinventarse por completo despu\u00e9s del brusco corte con las tradiciones culturales cat\u00f3licas y de la antigua monarqu\u00eda.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0417\u043e\u043b\u043e\u0442\u043e\u0439 \u0432\u0435\u043a \u0433\u043e\u043b\u043b\u0430\u043d\u0434\u0441\u043a\u043e\u0439 \u0436\u0438\u0432\u043e\u043f\u0438\u0441\u0438 \u2014 \u0441\u0430\u043c\u0430\u044f \u0432\u044b\u0434\u0430\u044e\u0449\u0430\u044f\u0441\u044f \u044d\u043f\u043e\u0445\u0430 \u0432 \u043d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u043e\u0439 \u0436\u0438\u0432\u043e\u043f\u0438\u0441\u0438, \u043f\u0440\u0438\u0445\u043e\u0434\u044f\u0449\u0430\u044f\u0441\u044f \u043d\u0430 XVII \u0432\u0435\u043a.",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0b682t"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q2352880"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0396\u03c9\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03ae_\u03c4\u03b7\u03c2_\u03bf\u03bb\u03bb\u03b1\u03bd\u03b4\u03b9\u03ba\u03ae\u03c2_\u03a7\u03c1\u03c5\u03c3\u03ae\u03c2_\u0395\u03c0\u03bf\u03c7\u03ae\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Pintura_del_Siglo_de_oro_neerland\u00e9s"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30aa\u30e9\u30f3\u30c0\u9ec4\u91d1\u6642\u4ee3\u306e\u7d75\u753b"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/\u00c2ge_d'or_de_la_peinture_n\u00e9erlandaise"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q2352880"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Dutch_Golden_Age_painting"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Dutch_Golden_Age_painters"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Western_art"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Dutch_Golden_Age_paintings"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Baroque_painting"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Dutch_culture"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:17th_century_in_the_Dutch_Republic"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Special:FilePath/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Dutch_Golden_Age_painting"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Dutch_Golden_Age_painting?oldid=740387290"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.essentialvermeer.com/dutch-painters/dutch_art/ecnmcs_dtchart.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://artpaintingartist.org/dutch-golden-age-new-breakthrough-dutch-art-renaissance/"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.co.uk/books?id=275zvEoivcoC&pg=PA115&dq"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.co.uk/books?id=O75DAgAAQBAJ&pg=PA3"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.co.uk/books?id=fXlALljcyMkC&pg=PA143&dq=Guilds+and+the+Development+of+the+Art+Market+during+the+Dutch+Golden+Age&hl=en&ei=oDFKTMHkLsPU4wazm8CaDA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCwQ6AEwAA#v=onepage&q=Guilds%20and%20the%20Development%20of%20the%20Art%20Market%20during%20the%20Dutch%20Golden%20Age&f=false"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u30aa\u30e9\u30f3\u30c0\u9ec4\u91d1\u6642\u4ee3\u306e\u7d75\u753b\uff08\u30aa\u30e9\u30f3\u30c0\u304a\u3046\u3054\u3093\u3058\u3060\u3044\u306e\u304b\u3044\u304c\uff09\u306f\u3001\u30aa\u30e9\u30f3\u30c0\u304c\u4e16\u754c\u7684\u306a\u5f71\u97ff\u529b\u3092\u6301\u3063\u3066\u3044\u305f\u3001\u30cd\u30fc\u30c7\u30eb\u30e9\u30f3\u30c8\u8af8\u5dde\u306e\u72ec\u7acb\u6226\u4e89\u3067\u3042\u308b\u516b\u5341\u5e74\u6226\u4e89\uff081568\u5e74\u304b\u30891648\u5e74\uff09\u306e\u7d42\u308f\u308a\u304b\u308917\u4e16\u7d00\uff08\u30aa\u30e9\u30f3\u30c0\u9ec4\u91d1\u6642\u4ee3\uff09\u3092\u4e2d\u5fc3\u3068\u3057\u3066\u3001\u30aa\u30e9\u30f3\u30c0\u4eba\u753b\u5bb6\u305f\u3061\u3001\u3042\u308b\u3044\u306f\u30aa\u30e9\u30f3\u30c0\u3067\u6d3b\u8e8d\u3057\u305f\u5916\u56fd\u4eba\u753b\u5bb6\u305f\u3061\u306b\u3088\u3063\u3066\u63cf\u304b\u308c\u305f\u7d75\u753b\u3002\u516b\u5341\u5e74\u6226\u4e89\u3067\u30b9\u30da\u30a4\u30f3\u304b\u3089\u306e\u72ec\u7acb\u3092\u5ba3\u8a00\u3057\u305f\u30cd\u30fc\u30c7\u30eb\u30e9\u30f3\u30c8\u9023\u90a6\u5171\u548c\u56fd\u306f\u5f53\u6642\u306e\u30e8\u30fc\u30ed\u30c3\u30d1\u3067\u6700\u3082\u5bcc\u88d5\u306a\u56fd\u3067\u3001\u8cbf\u6613\u3001\u5b66\u554f\u3001\u82b8\u8853\u306e\u6700\u5148\u7aef\u56fd\u5bb6\u3060\u3063\u305f\u3002\u9023\u90a6\u5171\u548c\u56fd\u3092\u69cb\u6210\u3057\u305f\u5317\u90e8\u306e\u5dde\u306f\u3001\u5357\u90e8\u306e\u5dde\u306b\u6bd4\u3079\u308b\u3068\u82b8\u8853\u5206\u91ce\u3067\u512a\u3063\u3066\u3044\u308b\u3068\u306f\u3044\u3048\u306a\u304b\u3063\u305f\u3002\u3057\u304b\u3057\u6226\u4e89\u306b\u3088\u308b\u6df7\u4e71\u3068\u4f4f\u6c11\u306e\u5927\u898f\u6a21\u306a\u79fb\u52d5\u306f\u305d\u308c\u307e\u3067\u306e\u541b\u4e3b\u5236\u3084\u30ab\u30c8\u30ea\u30c3\u30af\u7684\u4f1d\u7d71\u306e\u7834\u58ca\u306b\u3064\u306a\u304c\u308a\u3001\u30aa\u30e9\u30f3\u30c0\u82b8\u8853\u306f\u3053\u308c\u3089\u306e\u5927\u304d\u306a\u5909\u9769\u306e\u7d50\u679c\u3001\u7d20\u6674\u3089\u3057\u3044\u6210\u679c\u3068\u306a\u3063\u3066\u7d50\u5b9f\u3057\u305f\u3002 \u30aa\u30e9\u30f3\u30c0\u9ec4\u91d1\u6642\u4ee3\u306e\u7d75\u753b\u306f\u30e8\u30fc\u30ed\u30c3\u30d1\u5168\u4f53\u3067\u307f\u308b\u3068\u30d0\u30ed\u30c3\u30af\u7d75\u753b\u306e\u6642\u4ee3\u3068\u5408\u81f4\u3057\u3001\u306a\u304b\u306b\u306f\u30d0\u30ed\u30c3\u30af\u7d75\u753b\u306e\u7279\u5fb4\u304c\u307f\u3089\u308c\u308b\u3082\u306e\u3082\u3042\u308b\u3002\u3057\u304b\u3057\u3001\u30d0\u30ed\u30c3\u30af\u7d75\u753b\u306e\u5178\u578b\u7684\u306a\u7279\u5fb4\u3067\u3042\u308b\u5bfe\u8c61\u306e\u7406\u60f3\u5316\u3084\u58ee\u9e97\u306a\u753b\u9762\u69cb\u6210\u306f\u307b\u3068\u3093\u3069\u306a\u304f\u3001\u96a3\u56fd\u3067\u3042\u308b\u30d5\u30e9\u30f3\u30c9\u30eb\u306e\u30d0\u30ed\u30c3\u30af\u7d75\u753b\u306e\u5f71\u97ff\u3082\u898b\u3089\u308c\u306a\u3044\u3002\u3053\u306e\u6642\u4ee3\u306b\u5236\u4f5c\u3055\u308c\u305f\u6709\u540d\u306a\u30aa\u30e9\u30f3\u30c0\u7d75\u753b\u306e\u591a\u304f\u306f\u3001\u4f1d\u7d71\u7684\u306a\u521d\u671f\u30d5\u30e9\u30f3\u30c9\u30eb\u6d3e\u304b\u3089\u5f15\u304d\u7d99\u3044\u3060\u7d30\u90e8\u306b\u308f\u305f\u308b\u5199\u5b9f\u4e3b\u7fa9\u306e\u5f71\u97ff\u3092\u5f37\u304f\u53d7\u3051\u3066\u3044\u308b\u3002 \u3053\u306e\u6642\u4ee3\u306e\u7d75\u753b\u3092\u6700\u3082\u3088\u304f\u7279\u5fb4\u3065\u3051\u308b\u306e\u306f\u3001\u305d\u308c\u307e\u3067\u306b\u306a\u304b\u3063\u305f\u30b8\u30e3\u30f3\u30eb\u306e\u7d75\u753b\u304c\u5236\u4f5c\u3055\u308c\u305f\u3053\u3068\u3067\u3042\u308a\u3001\u753b\u5bb6\u306e\u591a\u304f\u304c\u3055\u307e\u3056\u307e\u306a\u30b8\u30e3\u30f3\u30eb\u306b\u7279\u5316\u3057\u3066\u7d75\u753b\u3092\u63cf\u3044\u305f\u3002\u3053\u306e\u3088\u3046\u306a\u30b8\u30e3\u30f3\u30eb\u306e\u5c02\u9580\u5316\u306f1620\u5e74\u4ee3\u5f8c\u534a\u306b\u59cb\u307e\u3063\u3066\u304a\u308a\u30011672\u5e74\u306e\u30d5\u30e9\u30f3\u30b9\u306e\u30aa\u30e9\u30f3\u30c0\u4fb5\u7565\u307e\u3067\u304c\u3001\u30aa\u30e9\u30f3\u30c0\u9ec4\u91d1\u6642\u4ee3\u7d75\u753b\u306e\u6700\u76db\u671f\u3068\u306a\u3063\u305f\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0417\u043e\u043b\u043e\u0442\u043e\u0439 \u0432\u0435\u043a \u0433\u043e\u043b\u043b\u0430\u043d\u0434\u0441\u043a\u043e\u0439 \u0436\u0438\u0432\u043e\u043f\u0438\u0441\u0438 \u2014 \u0441\u0430\u043c\u0430\u044f \u0432\u044b\u0434\u0430\u044e\u0449\u0430\u044f\u0441\u044f \u044d\u043f\u043e\u0445\u0430 \u0432 \u043d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u043e\u0439 \u0436\u0438\u0432\u043e\u043f\u0438\u0441\u0438, \u043f\u0440\u0438\u0445\u043e\u0434\u044f\u0449\u0430\u044f\u0441\u044f \u043d\u0430 XVII \u0432\u0435\u043a.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "The Dutch Golden Age painting is the painting of the Dutch Golden Age, a period in Dutch history generally spanning the 17th century, during and after the later part of the Eighty Years' War (1568\u20131648) for Dutch independence. The new Dutch Republic was the most prosperous nation in Europe, and led European trade, science, and art. The northern Netherlandish provinces that made up the new state had traditionally been less important artistic centres than cities in Flanders in the south, and the upheavals and large-scale transfers of population of the war, and the sharp break with the old monarchist and Catholic cultural traditions, meant that Dutch art needed to reinvent itself entirely, a task in which it was very largely successful. Although Dutch painting of the Golden Age comes in the general European period of Baroque painting, and often shows many of its characteristics, most lacks the idealization and love of splendour typical of much Baroque work, including that of neighbouring Flanders. Most work, including that for which the period is best known, reflects the traditions of detailed realism inherited from Early Netherlandish painting. A distinctive feature of the period is the proliferation of distinct genres of paintings, with the majority of artists producing the bulk of their work within one of these. The full development of this specialization is seen from the late 1620s, and the period from then until the French invasion of 1672 is the core of Golden Age painting.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u8377\u862d\u9ec3\u91d1\u6642\u4ee3\u7e6a\u756b\u6307\u7684\u662f17\u4e16\u7d00\u8377\u862d\u9ec3\u91d1\u6642\u4ee3\u6642\u7684\u7e6a\u756b\uff0c \u7576\u6642\u516b\u5341\u5e74\u6230\u722d\u4e2d\u6210\u7acb\u7684\u8377\u862d\u5171\u548c\u570b\u6210\u70ba\u4e86\u4e16\u754c\u4e0a\u6700\u5bcc\u5eb6\u7684\u570b\u5bb6\u4e4b\u4e00\uff0c\u5c24\u5176\u662f\u5728\u6b50\u6d32\uff0c\u5b83\u5728\u5546\u696d\u3001\u79d1\u5b78\u548c\u85dd\u8853\u9818\u57df\u90fd\u5c45\u65bc\u9818\u5c0e\u5730\u4f4d\u3002 \u8377\u862d\u9ec3\u91d1\u6642\u4ee3\u7e6a\u756b\u5c6c\u65bc\u7bc4\u570d\u66f4\u5ee3\u7684\u5df4\u6d1b\u514b\u7e6a\u756b\uff0c\u4f46\u4e0d\u50cf\u9644\u8fd1\u7684\u4f5b\u862d\u5fb7\u4eba\u7684\u4f5c\u54c1\uff0c\u8377\u862d\u9ec3\u91d1\u6642\u4ee3\u7e6a\u756b\u7f3a\u4e4f\u4e00\u7a2e\u5176\u4ed6\u5df4\u6d1b\u514b\u756b\u4f5c\u61c9\u6709\u7684\u5b8f\u5927\u548c\u7406\u60f3\u5316\u7279\u5f81\u3002\u76f8\u53cd\uff0c\u5b83\u66f4\u8cbc\u8fd1\u65bc\u65e9\u671f\u5c3c\u5fb7\u862d\u756b\u6d3e\u6240\u6709\u7684\u73fe\u5be6\u4e3b\u7fa9\u98a8\u683c\u3002 \u9019\u4e00\u6642\u4ee3\u756b\u4f5c\u7684\u5178\u578b\u7279\u5f81\u4e4b\u4e00\u662f\u5404\u7a2e\u98a8\u4fd7\u756b\u7684\u51fa\u73fe\uff0c\u4e0d\u540c\u7684\u85dd\u8853\u5bb6\u53ef\u80fd\u6240\u5c08\u7cbe\u7684\u985e\u578b\u90fd\u4e0d\u540c\u30021620\u5e74\u4ee3\u958b\u59cb\u8377\u862d\u9ec3\u91d1\u6642\u4ee3\u7e6a\u756b\u958b\u59cb\u5927\u5e45\u767c\u5c55\uff0c\u76f4\u52301672\u7684\u707d\u96e3\u5e74\u624d\u6f38\u6f38\u8870\u843d\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "L'\u00e2ge d'or de la peinture n\u00e9erlandaise est le nom donn\u00e9 \u00e0 la peinture des Pays-Bas durant le si\u00e8cle d'or n\u00e9erlandais, une p\u00e9riode de l'histoire de ce pays qui correspond \u00e0 peu pr\u00e8s au XVIIe si\u00e8cle. Les Provinces-Unies forment alors la nation la plus prosp\u00e8re d'Europe et dominent le commerce, l'art et la science du continent. Les provinces ayant constitu\u00e9 ce nouvel \u00e9tat sont des centres artistiques moins importants que les villes de Flandre, mais les bouleversements et les migrations de populations dus \u00e0 la guerre de Quatre-Vingts Ans, ainsi que la rupture avec les traditions culturelles monarchiste et catholique, font que l'art n\u00e9erlandais a besoin de se r\u00e9inventer enti\u00e8rement, une t\u00e2che qu'il accomplit avec succ\u00e8s. Bien que la peinture n\u00e9erlandaise de l'\u00e2ge d'or soit contemporaine de la peinture baroque flamande, et partage plusieurs de ses caract\u00e9ristiques, elle est en grande partie d\u00e9pourvue de l'id\u00e9alisation et de l'amour de la splendeur typiques de l'art baroque, qui inclut la peinture flamande de Pierre Paul Rubens, Antoine van Dyck et Jacob Jordaens. La plupart des \u0153uvres n\u00e9erlandaises de cette p\u00e9riode se situent dans le prolongement de la tradition r\u00e9aliste h\u00e9rit\u00e9e de l'art primitif flamand. Un signe distinctif de cette p\u00e9riode est la prolif\u00e9ration de divers genres picturaux, la majorit\u00e9 des artistes se sp\u00e9cialisant dans un genre en particulier. La p\u00e9riode se situant entre la fin des ann\u00e9es 1620 et l'invasion fran\u00e7aise de 1672 est consid\u00e9r\u00e9e comme \u00e9tant le c\u0153ur de l'\u00e2ge d'or de la peinture n\u00e9erlandaise.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "La pintura del Siglo de oro neerland\u00e9s o pintura barroca holandesa se desarroll\u00f3 durante un per\u00edodo de la historia holandesa que abarca el siglo XVII, durante y despu\u00e9s de la Guerra de los Ochenta A\u00f1os (1568-1648) por la independencia holandesa. Las Provincias Unidas eran la naci\u00f3n m\u00e1s pr\u00f3spera de Europa, liderando el comercio, la ciencia y el arte. El arte holand\u00e9s tuvo que reinventarse por completo despu\u00e9s del brusco corte con las tradiciones culturales cat\u00f3licas y de la antigua monarqu\u00eda. La pintura holandesa del Siglo de oro muestra muchas de las caracter\u00edsticas del Barroco europeo, pero carece en su mayor parte de la idealizaci\u00f3n y el amor por el esplendor t\u00edpicos de gran parte del arte barroco, incluido el del vecino Flandes. La mayor parte de las obras refleja la tradici\u00f3n de detallado realismo heredado de la pintura flamenca primitiva. Un rasgo distintivo del per\u00edodo es la proliferaci\u00f3n de diversos g\u00e9neros de pintura, centr\u00e1ndose la mayor parte de los artistas en uno s\u00f3lo de ellos. El pleno desarrollo de esta especializaci\u00f3n se ve desde finales de los a\u00f1os 1620, y el per\u00edodo desde entonces hasta la invasi\u00f3n francesa de 1672 es el n\u00facleo de la pintura de la Edad de Oro.",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Special:FilePath/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 740387290,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 3907977,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dutch_Golden_Age_Painting": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dutch_masters": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dutch_Masters": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dutch_Golden_Age_painter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dutch_Golden_Age_painters": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Painting_of_the_Dutch_Golden_Age": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dutch_master": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dutch_Master": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dutch_golden_age_painting": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Golden_Age_of_Dutch_Painting": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Dutch_Golden_Age_painting": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dutch_Baroque_painting": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wilhelm_Busch": {
+        "http://dbpedia.org/ontology/influencedBy": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/David_Bailly": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thomas_Wijck": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jan_van_Gool": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Balthasar_van_der_Ast": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Egbert_van_der_Poel": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jan_Steen": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jan_de_Baen": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rembrandt": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/David_van_der_Plas": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jacob_van_Ruisdael": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Govert_Flinck": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Arnold_Houbraken": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Karel_Dujardin": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Charles_Cornelisz._de_Hooch": {
+        "http://dbpedia.org/property/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hans_Jordaens": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gerard_Hoet": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Govert_van_der_Leeuw": {
+        "http://dbpedia.org/ontology/movement": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dutch_Golden_Age_painting"
+            }
+        ]
+    }
+}

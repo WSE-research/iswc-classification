@@ -1,0 +1,37 @@
+{
+    "@text": "Is Dublin located next to the Liffey and the Royal Canal?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Dublin",
+            "@support": "47303",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Dublin",
+            "@offset": "3",
+            "@similarityScore": "0.9982602384280753",
+            "@percentageOfSecondRank": "0.0014506329010161689"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/River_Liffey",
+            "@support": "759",
+            "@types": "Wikidata:Q47521,Wikidata:Q4022,Schema:RiverBodyOfWater,Schema:Place,Schema:BodyOfWater,DBpedia:Stream,DBpedia:River,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "Liffey",
+            "@offset": "30",
+            "@similarityScore": "0.9999999999075868",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Royal_Canal",
+            "@support": "228",
+            "@types": "Wikidata:Q47521,Schema:Place,Schema:Canal,Schema:BodyOfWater,DBpedia:Stream,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:Canal,DBpedia:BodyOfWater",
+            "@surfaceForm": "Royal Canal",
+            "@offset": "45",
+            "@similarityScore": "0.9999999744512141",
+            "@percentageOfSecondRank": "2.5548772239501477E-8"
+        }
+    ]
+}

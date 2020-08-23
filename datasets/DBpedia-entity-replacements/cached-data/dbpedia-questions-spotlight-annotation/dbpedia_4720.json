@@ -1,0 +1,28 @@
+{
+    "@text": "Was the screenwriter of SpongeBob Squarepants named Kazimieras G. Prapuolenis?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Screenwriter",
+            "@support": "9156",
+            "@types": "",
+            "@surfaceForm": "screenwriter",
+            "@offset": "8",
+            "@similarityScore": "0.9998787964524745",
+            "@percentageOfSecondRank": "7.982076629219848E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/SpongeBob_SquarePants",
+            "@support": "2240",
+            "@types": "Wikidata:Q386724,Wikidata:Q15416,Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow",
+            "@surfaceForm": "SpongeBob Squarepants",
+            "@offset": "24",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

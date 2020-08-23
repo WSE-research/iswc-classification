@@ -1,0 +1,28 @@
+{
+    "@text": "What international airport is Delta Air Lines' hub?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/International_airport",
+            "@support": "1308",
+            "@types": "",
+            "@surfaceForm": "international",
+            "@offset": "5",
+            "@similarityScore": "0.9640966287344783",
+            "@percentageOfSecondRank": "0.035477102360891445"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Delta_Air_Lines",
+            "@support": "2649",
+            "@types": "Wikidata:Q46970,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline,DBpedia:Agent",
+            "@surfaceForm": "Delta Air Lines",
+            "@offset": "30",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

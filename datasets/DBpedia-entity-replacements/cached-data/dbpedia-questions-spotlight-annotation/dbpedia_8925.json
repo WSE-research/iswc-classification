@@ -1,0 +1,28 @@
+{
+    "@text": "Which satellite is part of the constellation of Sagittarius A?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Satellite",
+            "@support": "9550",
+            "@types": "",
+            "@surfaceForm": "satellite",
+            "@offset": "6",
+            "@similarityScore": "0.9672308037669817",
+            "@percentageOfSecondRank": "0.01663577325989788"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Constellation",
+            "@support": "8100",
+            "@types": "",
+            "@surfaceForm": "constellation",
+            "@offset": "31",
+            "@similarityScore": "0.9997761376142301",
+            "@percentageOfSecondRank": "2.1947052969778838E-4"
+        }
+    ]
+}

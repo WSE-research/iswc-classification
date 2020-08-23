@@ -1,0 +1,28 @@
+{
+    "@text": "Which company founded in New Mexico manufactures Visual Studio ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/New_Mexico",
+            "@support": "28256",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "New Mexico",
+            "@offset": "25",
+            "@similarityScore": "0.9993668394769305",
+            "@percentageOfSecondRank": "3.4977941070713924E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Microsoft_Visual_Studio",
+            "@support": "1320",
+            "@types": "Wikidata:Q7397,Wikidata:Q386724,Schema:CreativeWork,DBpedia:Work,DBpedia:Software",
+            "@surfaceForm": "Visual Studio",
+            "@offset": "49",
+            "@similarityScore": "0.9999999999864286",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

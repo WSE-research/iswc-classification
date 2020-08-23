@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the CycleBase cyclist ID for Greg LeMond?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Cycling",
+            "@support": "8249",
+            "@types": "",
+            "@surfaceForm": "cyclist",
+            "@offset": "23",
+            "@similarityScore": "0.8725320870410906",
+            "@percentageOfSecondRank": "0.14181896664128685"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Greg_LeMond",
+            "@support": "298",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Cyclist,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Greg LeMond",
+            "@offset": "38",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

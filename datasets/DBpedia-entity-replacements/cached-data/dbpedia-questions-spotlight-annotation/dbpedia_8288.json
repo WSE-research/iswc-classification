@@ -1,0 +1,37 @@
+{
+    "@text": "What is the { academic major } for { Alexey Navalny } as { UCA (Sin embargo no termin\u00f3 el primer semestre) }?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Major_(academic)",
+            "@support": "758",
+            "@types": "",
+            "@surfaceForm": "academic major",
+            "@offset": "14",
+            "@similarityScore": "0.8626590064572964",
+            "@percentageOfSecondRank": "0.15920642199263504"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Alexei_Navalny",
+            "@support": "211",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Alexey Navalny",
+            "@offset": "37",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Economic_sanctions",
+            "@support": "1462",
+            "@types": "",
+            "@surfaceForm": "embargo",
+            "@offset": "68",
+            "@similarityScore": "0.9751023278407811",
+            "@percentageOfSecondRank": "0.020869841891703312"
+        }
+    ]
+}

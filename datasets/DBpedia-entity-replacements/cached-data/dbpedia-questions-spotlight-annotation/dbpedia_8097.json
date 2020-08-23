@@ -1,0 +1,28 @@
+{
+    "@text": "What is the smallest mountain in Europe?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mountain",
+            "@support": "17196",
+            "@types": "",
+            "@surfaceForm": "mountain",
+            "@offset": "21",
+            "@similarityScore": "0.9996360210446072",
+            "@percentageOfSecondRank": "1.8882616691689126E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Europe",
+            "@support": "79651",
+            "@types": "Schema:Place,Schema:Continent,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Continent",
+            "@surfaceForm": "Europe",
+            "@offset": "33",
+            "@similarityScore": "0.9997789981743145",
+            "@percentageOfSecondRank": "1.298697957833462E-4"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Which beer originated in Ireland?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Beer",
+            "@support": "10296",
+            "@types": "",
+            "@surfaceForm": "beer",
+            "@offset": "6",
+            "@similarityScore": "0.9999027475309941",
+            "@percentageOfSecondRank": "5.012045690020899E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ireland",
+            "@support": "74081",
+            "@types": "Wikidata:Q23442,Schema:Place,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Island",
+            "@surfaceForm": "Ireland",
+            "@offset": "25",
+            "@similarityScore": "0.7767215902562771",
+            "@percentageOfSecondRank": "0.27882993290295804"
+        }
+    ]
+}

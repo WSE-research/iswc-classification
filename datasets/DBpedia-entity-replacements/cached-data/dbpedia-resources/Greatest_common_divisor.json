@@ -1,0 +1,444 @@
+{
+    "http://dbpedia.org/resource/Highest_common_factor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Greatest_common_denominator": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Greatest_common_divisor": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "M\u00e1ximo divisor comum",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u6700\u5927\u516c\u56e0\u6578",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u041d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u0439 \u043e\u0431\u0449\u0438\u0439 \u0434\u0435\u043b\u0438\u0442\u0435\u043b\u044c",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Plus grand commun diviseur",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Greatest common divisor",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0642\u0627\u0633\u0645 \u0645\u0634\u062a\u0631\u0643 \u0623\u0643\u0628\u0631",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Grootste gemene deler",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u6700\u5927\u516c\u7d04\u6570",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Gr\u00f6\u00dfter gemeinsamer Teiler",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Najwi\u0119kszy wsp\u00f3lny dzielnik",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Massimo comun divisore",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "M\u00e1ximo com\u00fan divisor",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "En arithm\u00e9tique \u00e9l\u00e9mentaire, le plus grand commun diviseur ou PGCD de deux nombres entiers non nuls est le plus grand entier qui les divise simultan\u00e9ment. Par exemple le PGCD de 20 et de 30 est 10, puisque leurs diviseurs communs sont 1, 2, 5 et 10. Cette notion s'\u00e9tend aux entiers relatifs gr\u00e2ce aux propri\u00e9t\u00e9s de la division euclidienne. Elle se g\u00e9n\u00e9ralise aussi aux anneaux euclidiens comme l'anneau des polyn\u00f4mes sur un corps commutatif.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0641\u064a \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a\u060c \u0627\u0644\u0642\u0627\u0633\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0627\u0644\u0623\u0643\u0628\u0631 \u0644\u0639\u062f\u062f\u064a\u0646 \u0643\u0645\u0627 \u064a\u062f\u0644 \u0639\u0644\u0649 \u0630\u0644\u0643 \u0627\u0633\u0645\u0647 \u0647\u0648 \u0623\u0643\u0628\u0631 \u0639\u062f\u062f \u064a\u0642\u0633\u0645 \u0641\u064a \u0646\u0641\u0633 \u0627\u0644\u0648\u0642\u062a \u0627\u0644\u0639\u062f\u062f\u064a\u0646 \u0645\u0639\u0627\u064b \u0628\u062f\u0648\u0646 \u0623\u064a \u0628\u0627\u0642\u064a \u0642\u0633\u0645\u0629\u060c \u0641\u0645\u062b\u0644\u0627\u064b \u0627\u0644\u0642\u0627\u0633\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0627\u0644\u0623\u0643\u0628\u0631 \u0644\u0644\u0639\u062f\u062f\u064a\u0646 48 \u0648 60 \u0647\u0648 12. \u0642\u062f \u064a\u0645\u062f\u062f \u0647\u0630\u0627 \u0627\u0644\u0645\u0641\u0647\u0648\u0645 \u0625\u0644\u0649 \u0645\u062a\u0639\u062f\u062f\u0627\u062a \u0627\u0644\u062d\u062f\u0648\u062f\u061b \u0645\u0646 \u0623\u062c\u0644 \u0630\u0644\u0643 \u0627\u0646\u0638\u0631 \u0627\u0644\u0642\u0627\u0633\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0627\u0644\u0623\u0643\u0628\u0631 \u0644\u0645\u062a\u0639\u062f\u062f\u062a\u064a \u062d\u062f\u0648\u062f.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "In matematica, il massimo comune divisore di due numeri interi e , che non siano entrambi uguali a zero, si indica con ed \u00e8 il numero naturale pi\u00f9 grande per il quale possono entrambi essere divisi. Se entrambi i numeri e sono uguali a , allora si pone . Ad esempio, , e . Spesso il massimo comun divisore \u00e8 pi\u00f9 semplicemente indicato con . Due numeri si dicono coprimi o primi tra loro se il loro massimo comun divisore \u00e8 uguale a . Per esempio, i numeri e sono primi tra loro (ma non sono numeri primi). \u00e8 stato semplificato il fattore , il massimo comun divisore tra e .",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u6700\u5927\u516c\u7d04\u6570\uff08\u3055\u3044\u3060\u3044\u3053\u3046\u3084\u304f\u3059\u3046\u3001\u82f1: greatest common divisor\uff09\u3068\u306f\u3001\u5c11\u306a\u304f\u3068\u30821\u500b\u304c0\u3067\u306f\u306a\u3044\u8907\u6570\u306e\u6574\u6570\u306e\u516c\u7d04\u6570\u306e\u3046\u3061\u6700\u5927\u306e\u3082\u306e\u3092\u6307\u3059\u3002 \u3057\u3070\u3057\u3070\u300cG.C.D.\u300d\u3084\u300cG.C.M. (Greatest Common Measure)\u300d\u3001\u300cG.C.F. (Greatest Common Factor)\u300d\u3001\u300cH.C.F. (Highest Common Factor)\u300d\u7b49\u306e\u7701\u7565\u5f62\u3067\u8a18\u8ff0\u3055\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "De grootste gemene deler (voluit: 'grootste gemeenschappelijke deler'), afgekort tot ggd, van een aantal gehele getallen (waarvan er ten minste een ongelijk is aan 0) is het grootste positieve gehele getal, waar al deze gehele getallen door gedeeld kunnen worden zonder dat er een rest overblijft. De grootste gemene deler van de getallen 8 en 12 is bijvoorbeeld 4. De grootste gemene deler wordt wel genoteerd als de functie",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u6700\u5927\u516c\u56e0\u6578\uff08\u82f1\u8bed\uff1aGreatest Common Divisor\uff0c\u7c21\u5beb\u70baG.C.D.\uff1b\u6216Highest Common Factor\uff0c\u7c21\u5beb\u70baH.C.F.\uff09\uff0c\u6307\u67d0\u51e0\u500b\u6574\u6578\u5171\u6709\u56e0\u6578\u4e2d\u6700\u5927\u7684\u4e00\u500b\u3002 \u6c42\u5169\u500b\u6574\u6578\u6700\u5927\u516c\u56e0\u6578\u4e3b\u8981\u7684\u65b9\u6cd5\uff1a \n* \u5217\u8209\u6cd5\uff1a\u5404\u81ea\u5217\u51fa\u56e0\u6578\uff0c\u518d\u627e\u51fa\u6700\u5927\u7684\u516c\u56e0\u6578\u3002 \n* \u8cea\u56e0\u6578\u5206\u89e3\u6cd5\uff1a\u5169\u6578\u5404\u4f5c\u8cea\u56e0\u6578\u5206\u89e3\uff0c\u7136\u5f8c\u53d6\u51fa\u5171\u6709\u7684\u9805\u4e58\u8d77\u4f86\u3002 \n* \u77ed\u9664\u6cd5 \n* \u8f3e\u8f49\u76f8\u9664\u6cd5\uff08\u64f4\u5c55\u7248\uff09\uff1a\u5e38\u4f7f\u7528\u65bc\u76f4\u89c0\u4e0a\u4e0d\u5bb9\u6613\u5224\u5225\u516c\u56e0\u6578\u7684\u5834\u5408\u3002 \u5169\u500b\u6574\u6578\u7684\u6700\u5927\u516c\u56e0\u6578\u548c\u6700\u5c0f\u516c\u500d\u6578\uff08L.C.M.\uff09\u7684\u95dc\u4fc2\uff1a \u5169\u500b\u6574\u6578\u7684\u6700\u5927\u516c\u56e0\u6578\u53ef\u7528\u65bc\u8a08\u7b97\u5169\u6578\u7684\u6700\u5c0f\u516c\u500d\u6578\uff0c\u6216\u5206\u6578\u5316\u7c21\u6210\u6700\u7c21\u5206\u6578\u3002 \u5169\u500b\u6574\u6578\u7684\u6700\u5927\u516c\u56e0\u6578\u548c\u6700\u5c0f\u516c\u500d\u6578\u4e2d\u5b58\u5728\u5206\u914d\u5f8b\uff1a \n* \n* \u5728\u5ea7\u6a19\u88cf\uff0c\u5c07\u9ede\uff080, 0\uff09\u548c\uff08a, b\uff09\u9023\u8d77\u4f86\uff0c\u901a\u904e\u6574\u6578\u5ea7\u6a19\u7684\u9ede\u7684\u6578\u76ee\uff08\u9664\u4e86\uff080, 0\uff09\u4e00\u9ede\u4e4b\u5916\uff09\u5c31\u662fG.C.D.(a, b)\u3002\u5927\u53f7\u6587\u5b57==\u4f8b\u5b50==54\u53ef\u4ee5\u62c6\u5206\u70ba\u5169\u500b\u4e0d\u540c\u7684\u6574\u6578\uff1a 54\u7684\u56e0\u6578\u6709\uff1a \u540c\u6a23\u5730\uff0c24\u7684\u56e0\u6578\u6709\uff1a \u5169\u500b\u5217\u8868\u5167\u90fd\u6709\u7684\u6578\u5b57\u70ba\u516c\u56e0\u6578\uff1a \u6700\u5927\u7684\u6578\u5b57\u662f6\u300254\u548c24\u7684\u6700\u5927\u516c\u56e0\u6578\u662f6\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "O m\u00e1ximo divisor comum (abreviadamente, MDC) entre dois ou mais n\u00fameros inteiros \u00e9 o maior n\u00famero inteiro que \u00e9 fator de tais n\u00fameros. Por exemplo, os divisores comuns de e s\u00e3o e , logo . A defini\u00e7\u00e3o abrange qualquer n\u00famero de termos, por exemplo . Com esta nota\u00e7\u00e3o, dizemos que dois n\u00fameros inteiros e s\u00e3o primos entre si , se e somente se . Em alguns casos n\u00f3s denotamos o mdc entre dois n\u00fameros simplesmente por . No contexto da teoria dos an\u00e9is, um m\u00e1ximo divisor comum \u00e9 definido de forma an\u00e1loga: ele \u00e9 um elemento que divide e , e tal que qualquer outro divisor comum de e \u00e9 um divisor de",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Der gr\u00f6\u00dfte gemeinsame Teiler (ggT) ist ein mathematischer Begriff. Sein Pendant ist das kleinste gemeinsame Vielfache (kgV). Beide spielen unter anderem in der Bruchrechnung und der Zahlentheorie eine Rolle. Er ist die gr\u00f6\u00dfte nat\u00fcrliche Zahl, durch die sich zwei ganze Zahlen ohne Rest teilen lassen. Der zweier ganzer Zahlen und ist eine ganze Zahl mit der Eigenschaft, dass sie Teiler sowohl von als auch von ist und dass jede ganze Zahl, die ebenfalls die Zahlen und teilt, ihrerseits Teiler von ist. Beim Ring der ganzen Zahlen (der eine Totalordnung > besitzt) normiert man den . Der Begriff \u201egro\u00df\u201c in",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Najwi\u0119kszy wsp\u00f3lny dzielnik \u2013 dla danych dw\u00f3ch (lub wi\u0119cej) liczb ca\u0142kowitych najwi\u0119ksza liczba naturalna dziel\u0105ca ka\u017cd\u0105 z nich. Poj\u0119cie to ma wiele uog\u00f3lnie\u0144, kt\u00f3re przedstawiono w  artyku\u0142u. Najwi\u0119kszy wsp\u00f3lny dzielnik liczb i zapisuje si\u0119 zwykle lub , czasem po prostu . Np. oraz Dwie liczby nazywa si\u0119 wzgl\u0119dnie pierwszymi, je\u017celi ich najwi\u0119kszym wsp\u00f3lnym dzielnikiem jest . Np. wzgl\u0119dnie pierwsze s\u0105 i . oraz jest st\u0105d",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "En matem\u00e1ticas, se define el m\u00e1ximo com\u00fan divisor (MCD) de dos o m\u00e1s n\u00fameros enteros al mayor n\u00famero entero que los divide sin dejar resto.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u041d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u043c \u043e\u0431\u0449\u0438\u043c \u0434\u0435\u043b\u0438\u0442\u0435\u043b\u0435\u043c (\u041d\u041e\u0414) \u0434\u043b\u044f \u0434\u0432\u0443\u0445 \u0446\u0435\u043b\u044b\u0445 \u0447\u0438\u0441\u0435\u043b \u0438 \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u0439 \u0438\u0437 \u0438\u0445 \u043e\u0431\u0449\u0438\u0445 \u0434\u0435\u043b\u0438\u0442\u0435\u043b\u0435\u0439. \u041f\u0440\u0438\u043c\u0435\u0440: \u0434\u043b\u044f \u0447\u0438\u0441\u0435\u043b 70 \u0438 105 \u043d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u0439 \u043e\u0431\u0449\u0438\u0439 \u0434\u0435\u043b\u0438\u0442\u0435\u043b\u044c \u0440\u0430\u0432\u0435\u043d 35. \u041d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u0439 \u043e\u0431\u0449\u0438\u0439 \u0434\u0435\u043b\u0438\u0442\u0435\u043b\u044c \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0438 \u043e\u0434\u043d\u043e\u0437\u043d\u0430\u0447\u043d\u043e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d, \u0435\u0441\u043b\u0438 \u0445\u043e\u0442\u044f \u0431\u044b \u043e\u0434\u043d\u043e \u0438\u0437 \u0447\u0438\u0441\u0435\u043b \u0438\u043b\u0438 \u043d\u0435 \u0440\u0430\u0432\u043d\u043e \u043d\u0443\u043b\u044e. \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0435 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u043d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0435\u0433\u043e \u043e\u0431\u0449\u0435\u0433\u043e \u0434\u0435\u043b\u0438\u0442\u0435\u043b\u044f \u0447\u0438\u0441\u0435\u043b \u0438 : \n*  \u041d\u041e\u0414(m, n); \n* ; \n* (\u043e\u0442 \u0430\u043d\u0433\u043b. greatest common divisor); \n* (\u043e\u0442 \u0431\u0440\u0438\u0442. highest common factor). \u041f\u043e\u043d\u044f\u0442\u0438\u0435 \u043d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0435\u0433\u043e \u043e\u0431\u0449\u0435\u0433\u043e \u0434\u0435\u043b\u0438\u0442\u0435\u043b\u044f \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c \u043e\u0431\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u043d\u0430\u0431\u043e\u0440\u044b \u0438\u0437 \u0431\u043e\u043b\u0435\u0435 \u0447\u0435\u043c \u0434\u0432\u0443\u0445 \u0446\u0435\u043b\u044b\u0445 \u0447\u0438\u0441\u0435\u043b.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "In mathematics, the greatest common divisor (gcd) of two or more integers, when at least one of them is not zero, is the largest positive integer that divides the numbers without a remainder. For example, the GCD of 8 and 12 is 4. The greatest common divisor is also known as the greatest common factor (gcf), highest common factor (hcf), greatest common measure (gcm), or highest common divisor. This notion can be extended to polynomials (see Polynomial greatest common divisor) and other commutative rings (see ).",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Divisor_(ring_theory)"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Najwi\u0119kszy_wsp\u00f3lny_dzielnik"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Zatitzaile_komun_handien"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q131752"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Nejv\u011bt\u0161\u00ed_spole\u010dn\u00fd_d\u011blitel"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039c\u03ad\u03b3\u03b9\u03c3\u03c4\u03bf\u03c2_\u03ba\u03bf\u03b9\u03bd\u03cc\u03c2_\u03b4\u03b9\u03b1\u03b9\u03c1\u03ad\u03c4\u03b7\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.037rc"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ucd5c\ub300\uacf5\uc57d\uc218"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Grootste_gemene_deler"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u6700\u5927\u516c\u7d04\u6570"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q131752"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Plus_grand_commun_diviseur"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Gr\u00f6\u00dfter_gemeinsamer_Teiler"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/M\u00e1ximo_com\u00fan_divisor"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Faktor_persekutuan_terbesar"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Massimo_comun_divisore"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/M\u00e1ximo_divisor_comum"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Multiplicative_functions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Greatest_common_divisor"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Greatest_common_divisor?oldid=743781133"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=eVwvvwZeBf4C"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.stepanovpapers.com/gcd.pdf"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u6700\u5927\u516c\u56e0\u6578\uff08\u82f1\u8bed\uff1aGreatest Common Divisor\uff0c\u7c21\u5beb\u70baG.C.D.\uff1b\u6216Highest Common Factor\uff0c\u7c21\u5beb\u70baH.C.F.\uff09\uff0c\u6307\u67d0\u51e0\u500b\u6574\u6578\u5171\u6709\u56e0\u6578\u4e2d\u6700\u5927\u7684\u4e00\u500b\u3002 \u6c42\u5169\u500b\u6574\u6578\u6700\u5927\u516c\u56e0\u6578\u4e3b\u8981\u7684\u65b9\u6cd5\uff1a \n* \u5217\u8209\u6cd5\uff1a\u5404\u81ea\u5217\u51fa\u56e0\u6578\uff0c\u518d\u627e\u51fa\u6700\u5927\u7684\u516c\u56e0\u6578\u3002 \n* \u8cea\u56e0\u6578\u5206\u89e3\u6cd5\uff1a\u5169\u6578\u5404\u4f5c\u8cea\u56e0\u6578\u5206\u89e3\uff0c\u7136\u5f8c\u53d6\u51fa\u5171\u6709\u7684\u9805\u4e58\u8d77\u4f86\u3002 \n* \u77ed\u9664\u6cd5 \n* \u8f3e\u8f49\u76f8\u9664\u6cd5\uff08\u64f4\u5c55\u7248\uff09\uff1a\u5e38\u4f7f\u7528\u65bc\u76f4\u89c0\u4e0a\u4e0d\u5bb9\u6613\u5224\u5225\u516c\u56e0\u6578\u7684\u5834\u5408\u3002 \u5169\u500b\u6574\u6578\u7684\u6700\u5927\u516c\u56e0\u6578\u548c\u6700\u5c0f\u516c\u500d\u6578\uff08L.C.M.\uff09\u7684\u95dc\u4fc2\uff1a \u5169\u500b\u6574\u6578\u7684\u6700\u5927\u516c\u56e0\u6578\u53ef\u7528\u65bc\u8a08\u7b97\u5169\u6578\u7684\u6700\u5c0f\u516c\u500d\u6578\uff0c\u6216\u5206\u6578\u5316\u7c21\u6210\u6700\u7c21\u5206\u6578\u3002 \u5169\u500b\u6574\u6578\u7684\u6700\u5927\u516c\u56e0\u6578\u548c\u6700\u5c0f\u516c\u500d\u6578\u4e2d\u5b58\u5728\u5206\u914d\u5f8b\uff1a \n* \n* \u5728\u5ea7\u6a19\u88cf\uff0c\u5c07\u9ede\uff080, 0\uff09\u548c\uff08a, b\uff09\u9023\u8d77\u4f86\uff0c\u901a\u904e\u6574\u6578\u5ea7\u6a19\u7684\u9ede\u7684\u6578\u76ee\uff08\u9664\u4e86\uff080, 0\uff09\u4e00\u9ede\u4e4b\u5916\uff09\u5c31\u662fG.C.D.(a, b)\u3002\u5927\u53f7\u6587\u5b57==\u4f8b\u5b50==54\u53ef\u4ee5\u62c6\u5206\u70ba\u5169\u500b\u4e0d\u540c\u7684\u6574\u6578\uff1a 54\u7684\u56e0\u6578\u6709\uff1a \u540c\u6a23\u5730\uff0c24\u7684\u56e0\u6578\u6709\uff1a \u5169\u500b\u5217\u8868\u5167\u90fd\u6709\u7684\u6578\u5b57\u70ba\u516c\u56e0\u6578\uff1a \u6700\u5927\u7684\u6578\u5b57\u662f6\u300254\u548c24\u7684\u6700\u5927\u516c\u56e0\u6578\u662f6\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u041d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u043c \u043e\u0431\u0449\u0438\u043c \u0434\u0435\u043b\u0438\u0442\u0435\u043b\u0435\u043c (\u041d\u041e\u0414) \u0434\u043b\u044f \u0434\u0432\u0443\u0445 \u0446\u0435\u043b\u044b\u0445 \u0447\u0438\u0441\u0435\u043b \u0438 \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u0439 \u0438\u0437 \u0438\u0445 \u043e\u0431\u0449\u0438\u0445 \u0434\u0435\u043b\u0438\u0442\u0435\u043b\u0435\u0439. \u041f\u0440\u0438\u043c\u0435\u0440: \u0434\u043b\u044f \u0447\u0438\u0441\u0435\u043b 70 \u0438 105 \u043d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u0439 \u043e\u0431\u0449\u0438\u0439 \u0434\u0435\u043b\u0438\u0442\u0435\u043b\u044c \u0440\u0430\u0432\u0435\u043d 35. \u041d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u0439 \u043e\u0431\u0449\u0438\u0439 \u0434\u0435\u043b\u0438\u0442\u0435\u043b\u044c \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0438 \u043e\u0434\u043d\u043e\u0437\u043d\u0430\u0447\u043d\u043e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d, \u0435\u0441\u043b\u0438 \u0445\u043e\u0442\u044f \u0431\u044b \u043e\u0434\u043d\u043e \u0438\u0437 \u0447\u0438\u0441\u0435\u043b \u0438\u043b\u0438 \u043d\u0435 \u0440\u0430\u0432\u043d\u043e \u043d\u0443\u043b\u044e. \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0435 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u043d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0435\u0433\u043e \u043e\u0431\u0449\u0435\u0433\u043e \u0434\u0435\u043b\u0438\u0442\u0435\u043b\u044f \u0447\u0438\u0441\u0435\u043b \u0438 : \n*  \u041d\u041e\u0414(m, n); \n* ; \n* (\u043e\u0442 \u0430\u043d\u0433\u043b. greatest common divisor); \n* (\u043e\u0442 \u0431\u0440\u0438\u0442. highest common factor). \u041f\u043e\u043d\u044f\u0442\u0438\u0435 \u043d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0435\u0433\u043e \u043e\u0431\u0449\u0435\u0433\u043e \u0434\u0435\u043b\u0438\u0442\u0435\u043b\u044f \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c \u043e\u0431\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u043d\u0430\u0431\u043e\u0440\u044b \u0438\u0437 \u0431\u043e\u043b\u0435\u0435 \u0447\u0435\u043c \u0434\u0432\u0443\u0445 \u0446\u0435\u043b\u044b\u0445 \u0447\u0438\u0441\u0435\u043b.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "En arithm\u00e9tique \u00e9l\u00e9mentaire, le plus grand commun diviseur ou PGCD de deux nombres entiers non nuls est le plus grand entier qui les divise simultan\u00e9ment. Par exemple le PGCD de 20 et de 30 est 10, puisque leurs diviseurs communs sont 1, 2, 5 et 10. Cette notion s'\u00e9tend aux entiers relatifs gr\u00e2ce aux propri\u00e9t\u00e9s de la division euclidienne. Elle se g\u00e9n\u00e9ralise aussi aux anneaux euclidiens comme l'anneau des polyn\u00f4mes sur un corps commutatif. Le PGCD s'applique sur tout anneau commutatif unitaire : l'existence d'un PGCD de deux \u00e9l\u00e9ments quelconques n'est plus garantie, mais c'est le cas pour des classes d'anneaux (plus g\u00e9n\u00e9rales que les seuls anneaux euclidiens) comme les anneaux factoriels. Un anneau pour lequel cette propri\u00e9t\u00e9 d'existence est satisfaite est appel\u00e9 anneau \u00e0 PGCD.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0641\u064a \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a\u060c \u0627\u0644\u0642\u0627\u0633\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0627\u0644\u0623\u0643\u0628\u0631 \u0644\u0639\u062f\u062f\u064a\u0646 \u0643\u0645\u0627 \u064a\u062f\u0644 \u0639\u0644\u0649 \u0630\u0644\u0643 \u0627\u0633\u0645\u0647 \u0647\u0648 \u0623\u0643\u0628\u0631 \u0639\u062f\u062f \u064a\u0642\u0633\u0645 \u0641\u064a \u0646\u0641\u0633 \u0627\u0644\u0648\u0642\u062a \u0627\u0644\u0639\u062f\u062f\u064a\u0646 \u0645\u0639\u0627\u064b \u0628\u062f\u0648\u0646 \u0623\u064a \u0628\u0627\u0642\u064a \u0642\u0633\u0645\u0629\u060c \u0641\u0645\u062b\u0644\u0627\u064b \u0627\u0644\u0642\u0627\u0633\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0627\u0644\u0623\u0643\u0628\u0631 \u0644\u0644\u0639\u062f\u062f\u064a\u0646 48 \u0648 60 \u0647\u0648 12. \u0642\u062f \u064a\u0645\u062f\u062f \u0647\u0630\u0627 \u0627\u0644\u0645\u0641\u0647\u0648\u0645 \u0625\u0644\u0649 \u0645\u062a\u0639\u062f\u062f\u0627\u062a \u0627\u0644\u062d\u062f\u0648\u062f\u061b \u0645\u0646 \u0623\u062c\u0644 \u0630\u0644\u0643 \u0627\u0646\u0638\u0631 \u0627\u0644\u0642\u0627\u0633\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0627\u0644\u0623\u0643\u0628\u0631 \u0644\u0645\u062a\u0639\u062f\u062f\u062a\u064a \u062d\u062f\u0648\u062f.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Najwi\u0119kszy wsp\u00f3lny dzielnik \u2013 dla danych dw\u00f3ch (lub wi\u0119cej) liczb ca\u0142kowitych najwi\u0119ksza liczba naturalna dziel\u0105ca ka\u017cd\u0105 z nich. Poj\u0119cie to ma wiele uog\u00f3lnie\u0144, kt\u00f3re przedstawiono w  artyku\u0142u. Najwi\u0119kszy wsp\u00f3lny dzielnik liczb i zapisuje si\u0119 zwykle lub , czasem po prostu . Np. oraz Dwie liczby nazywa si\u0119 wzgl\u0119dnie pierwszymi, je\u017celi ich najwi\u0119kszym wsp\u00f3lnym dzielnikiem jest . Np. wzgl\u0119dnie pierwsze s\u0105 i . Poj\u0119cie najwi\u0119kszego wsp\u00f3lnego dzielnika wykorzystuje si\u0119 podczas redukcji u\u0142amk\u00f3w do postaci nieskracalnej (tzn. takiej, w kt\u00f3rej licznik i mianownik s\u0105 wzgl\u0119dnie pierwsze). Przyk\u0142adowo najwi\u0119kszym wsp\u00f3lnym dzielnikiem liczb oraz jest st\u0105d",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "In matematica, il massimo comune divisore di due numeri interi e , che non siano entrambi uguali a zero, si indica con ed \u00e8 il numero naturale pi\u00f9 grande per il quale possono entrambi essere divisi. Se entrambi i numeri e sono uguali a , allora si pone . Ad esempio, , e . Spesso il massimo comun divisore \u00e8 pi\u00f9 semplicemente indicato con . Due numeri si dicono coprimi o primi tra loro se il loro massimo comun divisore \u00e8 uguale a . Per esempio, i numeri e sono primi tra loro (ma non sono numeri primi). Il massimo comun divisore \u00e8 utile per ridurre una frazione ai minimi termini. Per esempio nella seguente frazione: \u00e8 stato semplificato il fattore , il massimo comun divisore tra e .",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u6700\u5927\u516c\u7d04\u6570\uff08\u3055\u3044\u3060\u3044\u3053\u3046\u3084\u304f\u3059\u3046\u3001\u82f1: greatest common divisor\uff09\u3068\u306f\u3001\u5c11\u306a\u304f\u3068\u30821\u500b\u304c0\u3067\u306f\u306a\u3044\u8907\u6570\u306e\u6574\u6570\u306e\u516c\u7d04\u6570\u306e\u3046\u3061\u6700\u5927\u306e\u3082\u306e\u3092\u6307\u3059\u3002 \u3057\u3070\u3057\u3070\u300cG.C.D.\u300d\u3084\u300cG.C.M. (Greatest Common Measure)\u300d\u3001\u300cG.C.F. (Greatest Common Factor)\u300d\u3001\u300cH.C.F. (Highest Common Factor)\u300d\u7b49\u306e\u7701\u7565\u5f62\u3067\u8a18\u8ff0\u3055\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "En matem\u00e1ticas, se define el m\u00e1ximo com\u00fan divisor (MCD) de dos o m\u00e1s n\u00fameros enteros al mayor n\u00famero entero que los divide sin dejar resto.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "De grootste gemene deler (voluit: 'grootste gemeenschappelijke deler'), afgekort tot ggd, van een aantal gehele getallen (waarvan er ten minste een ongelijk is aan 0) is het grootste positieve gehele getal, waar al deze gehele getallen door gedeeld kunnen worden zonder dat er een rest overblijft. De grootste gemene deler van de getallen 8 en 12 is bijvoorbeeld 4. De grootste gemene deler wordt wel genoteerd als de functie",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "In mathematics, the greatest common divisor (gcd) of two or more integers, when at least one of them is not zero, is the largest positive integer that divides the numbers without a remainder. For example, the GCD of 8 and 12 is 4. The greatest common divisor is also known as the greatest common factor (gcf), highest common factor (hcf), greatest common measure (gcm), or highest common divisor. This notion can be extended to polynomials (see Polynomial greatest common divisor) and other commutative rings (see ).",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "O m\u00e1ximo divisor comum (abreviadamente, MDC) entre dois ou mais n\u00fameros inteiros \u00e9 o maior n\u00famero inteiro que \u00e9 fator de tais n\u00fameros. Por exemplo, os divisores comuns de e s\u00e3o e , logo . A defini\u00e7\u00e3o abrange qualquer n\u00famero de termos, por exemplo . Com esta nota\u00e7\u00e3o, dizemos que dois n\u00fameros inteiros e s\u00e3o primos entre si , se e somente se . Em alguns casos n\u00f3s denotamos o mdc entre dois n\u00fameros simplesmente por . No contexto da teoria dos an\u00e9is, um m\u00e1ximo divisor comum \u00e9 definido de forma an\u00e1loga: ele \u00e9 um elemento que divide e , e tal que qualquer outro divisor comum de e \u00e9 um divisor de . Nem sempre existe um m\u00e1ximo divisor comum, e nem sempre ele \u00e9 \u00fanico.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Der gr\u00f6\u00dfte gemeinsame Teiler (ggT) ist ein mathematischer Begriff. Sein Pendant ist das kleinste gemeinsame Vielfache (kgV). Beide spielen unter anderem in der Bruchrechnung und der Zahlentheorie eine Rolle. Er ist die gr\u00f6\u00dfte nat\u00fcrliche Zahl, durch die sich zwei ganze Zahlen ohne Rest teilen lassen. Der zweier ganzer Zahlen und ist eine ganze Zahl mit der Eigenschaft, dass sie Teiler sowohl von als auch von ist und dass jede ganze Zahl, die ebenfalls die Zahlen und teilt, ihrerseits Teiler von ist. Beim Ring der ganzen Zahlen (der eine Totalordnung > besitzt) normiert man den auf die gr\u00f6\u00dfte ganze solche Zahl . Der Begriff \u201egro\u00df\u201c in korreliert hochgradig mit der \u00fcblichen Ordnungsrelation > der ganzen Zahlen. Es gibt allerdings eine wichtige Ausnahme: Da die Vielfaches einer jeden ganzen Zahl ist, ist in Teilbarkeitsfragen an \u201eGr\u00f6\u00dfe\u201c nicht zu \u00fcberbieten. Diese Auffassung ist in Einklang mit der Verbandsvorstellung (und der Idealtheorie) und vereinfacht einige der unten aufgef\u00fchrten Rechenregeln. Die englische Bezeichnung gcd (greatest common divisor) f\u00fcr ist in mathematischen Texten ebenfalls verbreitet. Oft wird auch als Kurzschreibweise f\u00fcr verwendet.",
+                "lang": "de"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743781133,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 12354,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/B_Q_Over_M": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Greatest_common_divisor": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/NWD_(mathematics)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Greatest_Common_Factor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Greatest_common_factor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Highest_common_denominator": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GCD": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Greatest_Common_Divisor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Highest_common_divisor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Grootste_gemene_deler": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Q_B_Over_M": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Greatest_common_measure": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Common_divisor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Greatest_common_divisor"
+            }
+        ]
+    }
+}

@@ -1,0 +1,644 @@
+{
+    "http://dbpedia.org/resource/Cubesat_Space_Protocol": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Communications_protocol": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/MacTerminal": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Communications_protocol": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/System104377057"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Artifact100021939"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Instrumentality103575240"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Telecommunication106271778"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatTelecommunications"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Medium106254669"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/ComputerNetwork103085333"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Network103820728"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatComputerNetworks"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u7f51\u7edc\u4f20\u8f93\u534f\u8bae",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Communications protocol",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Protocollo di comunicazione",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Protocolo (ci\u00eancia da computa\u00e7\u00e3o)",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Netwerkprotocol",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Kommunikationsprotokoll",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0434\u0430\u043d\u043d\u044b\u0445",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Protocolo de comunicaciones",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 (\u0627\u062a\u0635\u0627\u0644\u0627\u062a)",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Protok\u00f3\u0142 komunikacyjny",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u901a\u4fe1\u30d7\u30ed\u30c8\u30b3\u30eb",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Protocole de communication",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "W telekomunikacji, protok\u00f3\u0142 komunikacyjny jest niczym innym jak systemem regulacji, kt\u00f3re umo\u017cliwiaj\u0105 dw\u00f3m lub wi\u0119cej jednostkom systemu komunikacji do przesy\u0142ania informacji r\u00f3\u017cnego typu fizycznej jako\u015bci. Regulacje te (standardy) definiuj\u0105 syntaks, semantyk\u0119, synchronizacj\u0119 komunikacji oraz mo\u017cliwe metody naprawiania b\u0142\u0119d\u00f3w. Protoko\u0142y te mog\u0105 zosta\u0107 wdro\u017cone za pomoc\u0105 hardware, software lub obu naraz.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Na ci\u00eancia da computa\u00e7\u00e3o, um protocolo \u00e9 uma conven\u00e7\u00e3o que controla e possibilita uma conex\u00e3o, comunica\u00e7\u00e3o, transfer\u00eancia de dados entre dois sistemas computacionais. De maneira simples, um protocolo pode ser definido como \"as regras que governam\" a sintaxe, sem\u00e2ntica e sincroniza\u00e7\u00e3o da comunica\u00e7\u00e3o. Os protocolos podem ser implementados pelo hardware, software ou por uma combina\u00e7\u00e3o dos dois.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Een netwerkprotocol is een protocol, een afgesproken communicatiewijze, voor netwerkcomponenten. Door het toepassen van een standaard protocol, kunnen componenten van verschillende leveranciers met elkaar gegevens uitwisselen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "In telecommunications, a communication protocol is a system of rules that allow two or more entities of a communications system to transmit information via any kind of variation of a physical quantity. These are the rules or standard that defines the syntax, semantics and synchronization of communication and possible error recovery methods. Protocols may be implemented by hardware, software, or a combination of both.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u7f51\u7edc\u4f20\u8f93\u534f\u8bae\u6216\u7b80\u79f0\u4e3a\u4f20\u9001\u534f\u8bae\uff08Communications Protocol\uff09\uff0c\u662f\u6307\u8ba1\u7b97\u673a\u901a\u4fe1\u6216\u7db2\u8def\u8a2d\u5099\u7684\u5171\u540c\u8bed\u8a00\u3002 \u73b0\u5728\u6700\u666e\u53ca\u7684\u8ba1\u7b97\u673a\u901a\u4fe1\u4e3a\u7f51\u7edc\u901a\u4fe1\uff0c\u6240\u4ee5\u201c\u4f20\u9001\u534f\u8bae\u201d\u4e00\u822c\u90fd\u6307\u8ba1\u7b97\u673a\u901a\u4fe1\u7684\u4f20\u9001\u534f\u8bae\uff0c\u5982\uff1aTCP/IP\u3001NetBEUI\u3001DHCP\u3001FTP\u7b49\u3002\u7136\u800c\uff0c\u4f20\u9001\u534f\u8bae\u4e5f\u5b58\u5728\u4e8e\u8ba1\u7b97\u673a\u7684\u5176\u4ed6\u5f62\u5f0f\u901a\u4fe1\uff0c\u4f8b\u5982\uff1a\u9762\u5411\u5bf9\u8c61\u7f16\u7a0b\u91cc\u9762\u5bf9\u8c61\u4e4b\u95f4\u7684\u901a\u4fe1\uff1b\u64cd\u4f5c\u7cfb\u7edf\u5185\u4e0d\u540c\u7a0b\u5e8f\u4e4b\u95f4\u7684\u6d88\u606f\uff0c\u90fd\u9700\u8981\u6709\u4e00\u4e2a\u4f20\u9001\u534f\u8bae\uff0c\u4ee5\u786e\u4fdd\u4f20\u4fe1\u53cc\u65b9\u80fd\u591f\u6c9f\u901a\u65e0\u95f4\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "In informatica un protocollo di comunicazione \u00e8 un insieme di regole formalmente descritte, definite al fine di favorire la comunicazione tra una o pi\u00f9 entit\u00e0. Tutte queste regole sono definite mediante specifici protocolli, dalle tipologie pi\u00f9 varie e ciascuno con precisi compiti/finalit\u00e0, a seconda delle entit\u00e0 interessate e il mezzo di comunicazione. Se le due entit\u00e0 sono remote, si parla di protocollo di rete.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Dans les r\u00e9seaux informatiques et les t\u00e9l\u00e9communications, un protocole de communication est une sp\u00e9cification de plusieurs r\u00e8gles pour un type de communication particulier. Initialement, on nommait protocole ce qui est utilis\u00e9 pour communiquer sur une m\u00eame couche d'abstraction entre deux machines diff\u00e9rentes. Par extension de langage, on utilise parfois ce mot aussi aujourd'hui pour d\u00e9signer les r\u00e8gles de communication entre deux couches sur une m\u00eame machine. Les protocoles de communication les plus utilis\u00e9s sont les protocoles r\u00e9seau.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0627\u0644\u0627\u062a\u0635\u0627\u0644\u0627\u062a \u0641\u064a \u0627\u0644\u0627\u062a\u0635\u0627\u0644\u0627\u062a \u0627\u0644\u0633\u0644\u0643\u064a\u0629 \u0648\u0627\u0644\u0644\u0627\u0633\u0644\u0643\u064a\u0629 \u060c \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0627\u0644\u0627\u062a\u0635\u0627\u0644\u0627\u062a \u0647\u0648 \u0646\u0638\u0627\u0645 \u0645\u0646 \u0627\u0644\u0642\u0648\u0627\u0639\u062f \u0644\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u062f\u0627\u062e\u0644 \u0623\u0648 \u0628\u064a\u0646 \u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0643\u0645\u0628\u064a\u0648\u062a\u0631. \u0641\u064a \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a\u064a\u0629\u060c \u064a\u0634\u0643\u0644 (\u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644)\u0627\u0644\u0645\u064a\u062b\u0627\u0642 \u0627\u0648 \u0645\u0639\u064a\u0627\u0631 \u0623\u0648 \u0627\u0644\u0627\u062a\u0641\u0627\u0642 \u062a \u0627\u0644\u0630\u064a \u064a\u0646\u0638\u0645 \u0648\u064a\u0645\u0643\u0646 \u0645\u0646 \u0625\u062c\u0631\u0627\u0621 \u0639\u0645\u0644\u064a\u0629 \u0631\u0628\u0637 (connection)\u060c \u0627\u0644\u0627\u062a\u0635\u0627\u0644 communication\u060c \u0648\u0646\u0642\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0628\u064a\u0646 \u062c\u0647\u0627\u0632\u064a\u0646. \u0628\u0627\u0644\u0634\u0643\u0644 \u0627\u0644\u0623\u0628\u0633\u0637\u060c \u064a\u0645\u0643\u0646 \u0623\u0646 \u0646\u0639\u0631\u0641 \u0627\u0644\u0645\u064a\u062b\u0627\u0642 \u0639\u0644\u0649 \u0623\u0646\u0647 \"\u0642\u0648\u0627\u0639\u062f \u0627\u0644\u062a\u062d\u0643\u0645\" (the rules governing) \u0627\u0644\u0635\u064a\u0627\u063a\u0629 \u0627\u0644\u0646\u062d\u0648\u064a\u0629 (syntax)\u060c \u0648\u0627\u0644\u062f\u0644\u0627\u0644\u064a\u0629 (semantics) \u0648\u0627\u0644\u062a\u0632\u0627\u0645\u0646 (synchronization) \u0641\u064a \u0639\u0645\u0644\u064a\u0629 \u0627\u0644\u0627\u062a\u0635\u0627\u0644. \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u0637\u0628\u0642 \u0627\u0644\u0645\u0648\u0627\u062b\u064a\u0642 \u0645\u0646 \u0642\u0628\u0644 \u0639\u062a\u0627\u062f \u0635\u0644\u0628\u060c \u0623\u0648 \u0628\u0631\u0645\u062c\u064a\u0627\u062a \u0623\u0648 \u0645\u0632\u064a\u062c \u0645\u0646 \u0647\u0630\u0627 \u0648\u0630\u0627\u0643. \u064a\u062d\u062f\u062f \u0627\u0644\u0645\u064a\u062b\u0627\u0642 \u0641\u064a \u0623\u062f\u0646\u0649 \u0645\u0633\u062a\u0648\u064a\u0627\u062a\u0647 \u0633\u0644\u0648\u0643 \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0641\u064a \u0627\u0644\u0639\u062a\u0627\u062f \u0627\u0644\u0635\u0644\u0628. \u0644\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u062a\u0641\u0627\u0642\u060c \u064a\u0645\u0643\u0646 \u062a\u0637\u0648\u064a\u0631 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0641\u064a \u0645\u0639\u064a\u0627\u0631 \u062a\u0642\u0646\u064a . \u0644\u063a\u0629 \u0627\u0644\u0628\u0631\u0645\u062c\u0629 \u064a\u0635\u0641 \u0646\u0641\u0633\u0647 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0627\u0644\u062d\u0633\u0627\u0628\u064a\u0629 \u060c \u0644\u0630\u0644\u0643 \u0647\u0646\u0627\u0643 \u062a\u0634\u0627\u0628\u0647 \u0648\u062b\u064a\u0642 \u0628\u064a\u0646 \u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644\u0627\u062a \u0648 \u062e\u0648\u0627\u0631\u0632\u0645\u064a\u0627\u062a \u0627\u0644\u0628\u0631\u0645\u062c\u0629 .",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0434\u0430\u043d\u043d\u044b\u0445 \u2014 \u043d\u0430\u0431\u043e\u0440 \u0441\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0430 \u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0442 \u043e\u0431\u043c\u0435\u043d \u0434\u0430\u043d\u043d\u044b\u043c\u0438 \u043c\u0435\u0436\u0434\u0443 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u043c\u0438. \u042d\u0442\u0438 \u0441\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044f \u0437\u0430\u0434\u0430\u044e\u0442 \u0435\u0434\u0438\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439 \u0438 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043e\u0448\u0438\u0431\u043e\u043a \u043f\u0440\u0438 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f \u0440\u0430\u0437\u043d\u0435\u0441\u0451\u043d\u043d\u043e\u0439 \u0432 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u0443\u0440\u044b, \u0441\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u043e\u0439 \u0442\u0435\u043c \u0438\u043b\u0438 \u0438\u043d\u044b\u043c \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u043c. \u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0434\u0430\u043d\u043d\u044b\u0445 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0440\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0442\u044c \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b (\u0443\u0436\u0435 \u043d\u0430 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0443\u0440\u043e\u0432\u043d\u0435), \u043d\u0435 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0435 \u043a \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u043e\u0439 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043d\u043e\u0439 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435 \u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044e (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, USB, Bluetooth).",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "In der Informatik und in der Telekommunikation ist ein Kommunikationsprotokoll eine Vereinbarung, nach der die Daten\u00fcbertragung zwischen zwei oder mehreren Parteien abl\u00e4uft. In seiner einfachsten Form kann ein Protokoll definiert werden als eine Menge von Regeln, die Syntax, Semantik und Synchronisation der Kommunikation bestimmen. Protokolle k\u00f6nnen durch Hardware, Software oder eine Kombination von beiden implementiert werden. Auf der untersten Ebene definiert ein Protokoll das Verhalten der Verbindungs-Hardware.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u901a\u4fe1\u30d7\u30ed\u30c8\u30b3\u30eb\uff08\u3064\u3046\u3057\u3093\u30d7\u30ed\u30c8\u30b3\u30eb\u3001Communications protocol\uff09\u3001\u3042\u308b\u3044\u306f\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u30fb\u30d7\u30ed\u30c8\u30b3\u30eb\u306f\u3001\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u4e0a\u3067\u306e\u901a\u4fe1\u306b\u95a2\u3059\u308b\u898f\u7d04\u3092\u5b9a\u3081\u305f\u3082\u306e\u3067\u3042\u308b\u3002\u300c\u901a\u4fe1\u898f\u7d04\u300d\u3084\u300c\u901a\u4fe1\u624b\u9806\u300d\u3068\u8a33\u3059\u5834\u5408\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "En inform\u00e1tica y telecomunicaci\u00f3n, un protocolo de comunicaciones es un sistema de reglas que permiten que dos o m\u00e1s entidades de un sistema de comunicaci\u00f3n se comuniquen entre ellas para transmitir informaci\u00f3n por medio de cualquier tipo de variaci\u00f3n de una magnitud f\u00edsica. Se trata de las reglas o el est\u00e1ndar que define la sintaxis, sem\u00e1ntica y sincronizaci\u00f3n de la comunicaci\u00f3n, as\u00ed como tambi\u00e9n los posibles m\u00e9todos de recuperaci\u00f3n de errores. Los protocolos pueden ser implementados por hardware, por software, o por una combinaci\u00f3n de ambos.",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Protokol_(komputer)"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Sare_protokolo"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ud1b5\uc2e0_\ud504\ub85c\ud1a0\ucf5c"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Netwerkprotocol"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Kommunikationsprotokoll"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q132364"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Protok\u00f3\u0142_komunikacyjny"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Protokol_(informatika)"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Protocole_de_communication"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a0\u03c1\u03c9\u03c4\u03cc\u03ba\u03bf\u03bb\u03bb\u03bf_\u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Protocollo_di_comunicazione"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Protocolo_(ci\u00eancia_da_computa\u00e7\u00e3o)"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q132364"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0lb94"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u901a\u4fe1\u30d7\u30ed\u30c8\u30b3\u30eb"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Protocolo_de_comunicaciones"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Communication_protocol"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Communications_protocols"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Network_protocols"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Data_transmission"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Communications_protocol"
+            }
+        ],
+        "http://www.w3.org/2004/02/skos/core#relatedMatch": [
+            {
+                "type": "uri",
+                "value": "http://www.springernature.com/scigraph/things/subjects/communication-and-replication"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Communications_protocol?oldid=745188453"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.zframez.com/protocolsuite.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://tools.ietf.org/html/rfc1122."
+            },
+            {
+                "type": "uri",
+                "value": "http://tools.ietf.org/html/rfc2026"
+            },
+            {
+                "type": "uri",
+                "value": "http://spinroot.com/spin/Doc/Book91.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.informit.com/articles/article.aspx?p=20482"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.usingcsp.com"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ipcomm.de/protocols_en.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.javvin.com/protocolsuite.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.draware.dk/fileadmin/WildPackets/Basic/WP_encapsulation_chart.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://blog.protocolbench.org"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u041f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0434\u0430\u043d\u043d\u044b\u0445 \u2014 \u043d\u0430\u0431\u043e\u0440 \u0441\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0430 \u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0442 \u043e\u0431\u043c\u0435\u043d \u0434\u0430\u043d\u043d\u044b\u043c\u0438 \u043c\u0435\u0436\u0434\u0443 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u043c\u0438. \u042d\u0442\u0438 \u0441\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044f \u0437\u0430\u0434\u0430\u044e\u0442 \u0435\u0434\u0438\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439 \u0438 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043e\u0448\u0438\u0431\u043e\u043a \u043f\u0440\u0438 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f \u0440\u0430\u0437\u043d\u0435\u0441\u0451\u043d\u043d\u043e\u0439 \u0432 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u0443\u0440\u044b, \u0441\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u043e\u0439 \u0442\u0435\u043c \u0438\u043b\u0438 \u0438\u043d\u044b\u043c \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u043c. \u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0434\u0430\u043d\u043d\u044b\u0445 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0440\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0442\u044c \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b (\u0443\u0436\u0435 \u043d\u0430 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0443\u0440\u043e\u0432\u043d\u0435), \u043d\u0435 \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0435 \u043a \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u043e\u0439 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043d\u043e\u0439 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435 \u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044e (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, USB, Bluetooth). \u0421\u0438\u0433\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435\u043c \u2014 \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438, \u043f\u0435\u0440\u0435\u0430\u0434\u0440\u0435\u0441\u0430\u0446\u0438\u0438, \u0440\u0430\u0437\u0440\u044b\u0432\u0430 \u0441\u0432\u044f\u0437\u0438. \u041f\u0440\u0438\u043c\u0435\u0440\u044b \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u043e\u0432: RTSP, SIP. \u0414\u043b\u044f \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0434\u0430\u043d\u043d\u044b\u0445 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u0442\u0430\u043a\u0438\u0435 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u044b \u043a\u0430\u043a RTP. \u0421\u0435\u0442\u0435\u0432\u043e\u0301\u0439 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u0301\u043b \u2014 \u043d\u0430\u0431\u043e\u0440 \u043f\u0440\u0430\u0432\u0438\u043b \u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 (\u043e\u0447\u0435\u0440\u0451\u0434\u043d\u043e\u0441\u0442\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439), \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0438\u0439 \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u044f\u0442\u044c \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 \u0438 \u043e\u0431\u043c\u0435\u043d \u0434\u0430\u043d\u043d\u044b\u043c\u0438 \u043c\u0435\u0436\u0434\u0443 \u0434\u0432\u0443\u043c\u044f \u0438 \u0431\u043e\u043b\u0435\u0435 \u0432\u043a\u043b\u044e\u0447\u0451\u043d\u043d\u044b\u043c\u0438 \u0432 \u0441\u0435\u0442\u044c \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430\u043c\u0438. \u0420\u0430\u0437\u043d\u044b\u0435 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u044b \u0437\u0430\u0447\u0430\u0441\u0442\u0443\u044e \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0442 \u043b\u0438\u0448\u044c \u0440\u0430\u0437\u043d\u044b\u0435 \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u043e\u0434\u043d\u043e\u0433\u043e \u0442\u0438\u043f\u0430 \u0441\u0432\u044f\u0437\u0438. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u044f \u00ab\u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u00bb \u0438 \u00ab\u0441\u0442\u0435\u043a \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u043e\u0432\u00bb \u0442\u0430\u043a\u0436\u0435 \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u043d\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0435 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u0435, \u043a\u043e\u0442\u043e\u0440\u044b\u043c \u0440\u0435\u0430\u043b\u0438\u0437\u0443\u0435\u0442\u0441\u044f \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b. \u041d\u043e\u0432\u044b\u0435 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u044b \u0434\u043b\u044f \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0430 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0442\u0441\u044f IETF, \u0430 \u043f\u0440\u043e\u0447\u0438\u0435 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u044b \u2014 IEEE \u0438\u043b\u0438 ISO. ITU-T \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f \u0442\u0435\u043b\u0435\u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u043c\u0438 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430\u043c\u0438 \u0438 \u0444\u043e\u0440\u043c\u0430\u0442\u0430\u043c\u0438. \u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0451\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u043e\u0439 \u043a\u043b\u0430\u0441\u0441\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438 \u0441\u0435\u0442\u0435\u0432\u044b\u0445 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u043e\u0432 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0442\u0430\u043a \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u043c\u0430\u044f \u043c\u043e\u0434\u0435\u043b\u044c OSI, \u0432 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u044b \u0434\u0435\u043b\u044f\u0442\u0441\u044f \u043d\u0430 7 \u0443\u0440\u043e\u0432\u043d\u0435\u0439 \u043f\u043e \u0441\u0432\u043e\u0435\u043c\u0443 \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044e \u2014 \u043e\u0442 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e (\u0444\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0440\u0430\u0441\u043f\u043e\u0437\u043d\u0430\u0432\u0430\u043d\u0438\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u0438\u0433\u043d\u0430\u043b\u043e\u0432) \u0434\u043e \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0433\u043e (\u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u0434\u043b\u044f \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u043c\u0438). \u0421\u0435\u0442\u0435\u0432\u044b\u0435 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u044b \u043f\u0440\u0435\u0434\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0442 \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u044b \u043a \u0441\u0435\u0442\u0438. \u041e\u043d\u0438 \u0441\u0442\u0440\u043e\u044f\u0442\u0441\u044f \u043f\u043e \u043c\u043d\u043e\u0433\u043e\u0443\u0440\u043e\u0432\u043d\u0435\u0432\u043e\u043c\u0443 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0443. \u041f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442 \u043e\u0434\u043d\u043e \u0438\u0437 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432\u0438\u043b \u0441\u0432\u044f\u0437\u0438. \u0412 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u0434\u043b\u044f \u0441\u0435\u0442\u0435\u0432\u044b\u0445 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u043e\u0432 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u043c\u043e\u0434\u0435\u043b\u044c OSI (Open System Interconnection \u2014 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c, \u0412\u041e\u0421). \u041c\u043e\u0434\u0435\u043b\u044c OSI \u2014 \u044d\u0442\u043e 7-\u0443\u0440\u043e\u0432\u043d\u0435\u0432\u0430\u044f \u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043c\u043e\u0434\u0435\u043b\u044c \u0440\u0430\u0431\u043e\u0442\u044b \u0441\u0435\u0442\u0438. \u041c\u043e\u0434\u0435\u043b\u044c OSI \u0440\u0435\u0430\u043b\u0438\u0437\u0443\u0435\u0442\u0441\u044f \u0433\u0440\u0443\u043f\u043f\u043e\u0439 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u043e\u0432 \u0438 \u043f\u0440\u0430\u0432\u0438\u043b \u0441\u0432\u044f\u0437\u0438, \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0443\u0440\u043e\u0432\u043d\u0435\u0439: \n*  \u043d\u0430 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0443\u0440\u043e\u0432\u043d\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0442\u0441\u044f \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0435 (\u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435, \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0435, \u043e\u043f\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435) \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0438 \u043b\u0438\u043d\u0438\u0439 \u0441\u0432\u044f\u0437\u0438; \n*  \u043d\u0430 \u043a\u0430\u043d\u0430\u043b\u044c\u043d\u043e\u043c \u0443\u0440\u043e\u0432\u043d\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0442\u0441\u044f \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f \u0443\u0437\u043b\u0430\u043c\u0438 \u0441\u0435\u0442\u0438; \n*  \u0441\u0435\u0442\u0435\u0432\u043e\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u043e\u0442\u0432\u0435\u0447\u0430\u0435\u0442 \u0437\u0430 \u0430\u0434\u0440\u0435\u0441\u0430\u0446\u0438\u044e \u0438 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0443 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439; \n*  \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u0442 \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u043e\u0441\u0442\u044c \u043f\u0440\u043e\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u043e\u0432 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f; \n*  \u0437\u0430\u0434\u0430\u0447\u0430 \u0441\u0435\u0430\u043d\u0441\u043e\u0432\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f \u2014 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0438\u044f \u0441\u0432\u044f\u0437\u0438 \u043c\u0435\u0436\u0434\u0443 \u0434\u0432\u0443\u043c\u044f \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u044b\u043c\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u043c\u0438, \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0449\u0438\u043c\u0438 \u043d\u0430 \u0440\u0430\u0437\u043d\u044b\u0445 \u0440\u0430\u0431\u043e\u0447\u0438\u0445 \u0441\u0442\u0430\u043d\u0446\u0438\u044f\u0445; \n*  \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043b\u0443\u0436\u0438\u0442 \u0434\u043b\u044f \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0434\u0430\u043d\u043d\u044b\u0445 \u0438\u0437 \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0433\u043e \u0444\u043e\u0440\u043c\u0430\u0442\u0430 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430 \u0432 \u0444\u043e\u0440\u043c\u0430\u0442 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438; \n*  \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u044b\u043c \u043c\u0435\u0436\u0434\u0443 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043e\u0439 \u0438 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u0443\u0440\u043e\u0432\u043d\u044f\u043c\u0438 \u2014 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0434\u043e\u0431\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u0441\u0432\u044f\u0437\u0438 \u0441\u0435\u0442\u0435\u0432\u044b\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f. \u0414\u0440\u0443\u0433\u0430\u044f \u043c\u043e\u0434\u0435\u043b\u044c \u2014 \u0441\u0442\u0435\u043a \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u043e\u0432 TCP/IP \u2014 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 4 \u0443\u0440\u043e\u0432\u043d\u044f: \n*  \u043a\u0430\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c (link layer), \n*  \u0441\u0435\u0442\u0435\u0432\u043e\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c (Internet layer), \n*  \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c (transport layer), \n*  \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c (application layer).",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "In informatica un protocollo di comunicazione \u00e8 un insieme di regole formalmente descritte, definite al fine di favorire la comunicazione tra una o pi\u00f9 entit\u00e0. Tutte queste regole sono definite mediante specifici protocolli, dalle tipologie pi\u00f9 varie e ciascuno con precisi compiti/finalit\u00e0, a seconda delle entit\u00e0 interessate e il mezzo di comunicazione. Se le due entit\u00e0 sono remote, si parla di protocollo di rete.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Na ci\u00eancia da computa\u00e7\u00e3o, um protocolo \u00e9 uma conven\u00e7\u00e3o que controla e possibilita uma conex\u00e3o, comunica\u00e7\u00e3o, transfer\u00eancia de dados entre dois sistemas computacionais. De maneira simples, um protocolo pode ser definido como \"as regras que governam\" a sintaxe, sem\u00e2ntica e sincroniza\u00e7\u00e3o da comunica\u00e7\u00e3o. Os protocolos podem ser implementados pelo hardware, software ou por uma combina\u00e7\u00e3o dos dois.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "In der Informatik und in der Telekommunikation ist ein Kommunikationsprotokoll eine Vereinbarung, nach der die Daten\u00fcbertragung zwischen zwei oder mehreren Parteien abl\u00e4uft. In seiner einfachsten Form kann ein Protokoll definiert werden als eine Menge von Regeln, die Syntax, Semantik und Synchronisation der Kommunikation bestimmen. Protokolle k\u00f6nnen durch Hardware, Software oder eine Kombination von beiden implementiert werden. Auf der untersten Ebene definiert ein Protokoll das Verhalten der Verbindungs-Hardware. Handelt es sich um die Kommunikation in einem Rechnernetz, so spricht man von einem Netzwerkprotokoll.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u7f51\u7edc\u4f20\u8f93\u534f\u8bae\u6216\u7b80\u79f0\u4e3a\u4f20\u9001\u534f\u8bae\uff08Communications Protocol\uff09\uff0c\u662f\u6307\u8ba1\u7b97\u673a\u901a\u4fe1\u6216\u7db2\u8def\u8a2d\u5099\u7684\u5171\u540c\u8bed\u8a00\u3002 \u73b0\u5728\u6700\u666e\u53ca\u7684\u8ba1\u7b97\u673a\u901a\u4fe1\u4e3a\u7f51\u7edc\u901a\u4fe1\uff0c\u6240\u4ee5\u201c\u4f20\u9001\u534f\u8bae\u201d\u4e00\u822c\u90fd\u6307\u8ba1\u7b97\u673a\u901a\u4fe1\u7684\u4f20\u9001\u534f\u8bae\uff0c\u5982\uff1aTCP/IP\u3001NetBEUI\u3001DHCP\u3001FTP\u7b49\u3002\u7136\u800c\uff0c\u4f20\u9001\u534f\u8bae\u4e5f\u5b58\u5728\u4e8e\u8ba1\u7b97\u673a\u7684\u5176\u4ed6\u5f62\u5f0f\u901a\u4fe1\uff0c\u4f8b\u5982\uff1a\u9762\u5411\u5bf9\u8c61\u7f16\u7a0b\u91cc\u9762\u5bf9\u8c61\u4e4b\u95f4\u7684\u901a\u4fe1\uff1b\u64cd\u4f5c\u7cfb\u7edf\u5185\u4e0d\u540c\u7a0b\u5e8f\u4e4b\u95f4\u7684\u6d88\u606f\uff0c\u90fd\u9700\u8981\u6709\u4e00\u4e2a\u4f20\u9001\u534f\u8bae\uff0c\u4ee5\u786e\u4fdd\u4f20\u4fe1\u53cc\u65b9\u80fd\u591f\u6c9f\u901a\u65e0\u95f4\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "En inform\u00e1tica y telecomunicaci\u00f3n, un protocolo de comunicaciones es un sistema de reglas que permiten que dos o m\u00e1s entidades de un sistema de comunicaci\u00f3n se comuniquen entre ellas para transmitir informaci\u00f3n por medio de cualquier tipo de variaci\u00f3n de una magnitud f\u00edsica. Se trata de las reglas o el est\u00e1ndar que define la sintaxis, sem\u00e1ntica y sincronizaci\u00f3n de la comunicaci\u00f3n, as\u00ed como tambi\u00e9n los posibles m\u00e9todos de recuperaci\u00f3n de errores. Los protocolos pueden ser implementados por hardware, por software, o por una combinaci\u00f3n de ambos. Tambi\u00e9n se define como un conjunto de normas que permite la comunicaci\u00f3n entre ordenadores, estableciendo la forma de identificaci\u00f3n de estos en la red, la forma de transmisi\u00f3n de los datos y la forma en que la informaci\u00f3n debe procesarse. Los protocolos pueden estar implementados mediante hardware, software o una combinaci\u00f3n de ambos. Los sistemas de comunicaci\u00f3n utilizan formatos bien definidos (protocolo) para intercambiar mensajes. Cada mensaje tiene un significado exacto destinado a obtener una respuesta de un rango de posibles respuestas predeterminadas para esa situaci\u00f3n en particular. Normalmente, el comportamiento especificado es independiente de c\u00f3mo se va a implementar. Los protocolos de comunicaci\u00f3n tienen que estar acordados por las partes involucradas. Para llegar a dicho acuerdo, un protocolo puede ser desarrollado dentro de est\u00e1ndar t\u00e9cnico. Un lenguaje de programaci\u00f3n describe el mismo para los c\u00e1lculos, por lo que existe una estrecha analog\u00eda entre los protocolos y los lenguajes de programaci\u00f3n: \u00ablos protocolos son a las comunicaciones como los lenguajes de programaci\u00f3n son a los c\u00f3mputos\u00bb. Un protocolo de comunicaci\u00f3n, tambi\u00e9n llamado en este caso protocolo de red, define la forma en la que los distintos mensajes o tramas de bit circulan en una red de computadoras. Por ejemplo, el protocolo sobre palomas mensajeras permite definir la forma en la que una paloma mensajera transmite informaci\u00f3n de una ubicaci\u00f3n a otra, definiendo todos los aspectos que intervienen en la comunicaci\u00f3n: tipo de paloma, cifrado del mensaje, tiempo de espera antes de dar a la paloma por 'perdida'... y cualquier regla que ordene y mejore la comunicaci\u00f3n.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "W telekomunikacji, protok\u00f3\u0142 komunikacyjny jest niczym innym jak systemem regulacji, kt\u00f3re umo\u017cliwiaj\u0105 dw\u00f3m lub wi\u0119cej jednostkom systemu komunikacji do przesy\u0142ania informacji r\u00f3\u017cnego typu fizycznej jako\u015bci. Regulacje te (standardy) definiuj\u0105 syntaks, semantyk\u0119, synchronizacj\u0119 komunikacji oraz mo\u017cliwe metody naprawiania b\u0142\u0119d\u00f3w. Protoko\u0142y te mog\u0105 zosta\u0107 wdro\u017cone za pomoc\u0105 hardware, software lub obu naraz.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Dans les r\u00e9seaux informatiques et les t\u00e9l\u00e9communications, un protocole de communication est une sp\u00e9cification de plusieurs r\u00e8gles pour un type de communication particulier. Initialement, on nommait protocole ce qui est utilis\u00e9 pour communiquer sur une m\u00eame couche d'abstraction entre deux machines diff\u00e9rentes. Par extension de langage, on utilise parfois ce mot aussi aujourd'hui pour d\u00e9signer les r\u00e8gles de communication entre deux couches sur une m\u00eame machine. Les protocoles de communication les plus utilis\u00e9s sont les protocoles r\u00e9seau.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Een netwerkprotocol is een protocol, een afgesproken communicatiewijze, voor netwerkcomponenten. Door het toepassen van een standaard protocol, kunnen componenten van verschillende leveranciers met elkaar gegevens uitwisselen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u901a\u4fe1\u30d7\u30ed\u30c8\u30b3\u30eb\uff08\u3064\u3046\u3057\u3093\u30d7\u30ed\u30c8\u30b3\u30eb\u3001Communications protocol\uff09\u3001\u3042\u308b\u3044\u306f\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u30fb\u30d7\u30ed\u30c8\u30b3\u30eb\u306f\u3001\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u4e0a\u3067\u306e\u901a\u4fe1\u306b\u95a2\u3059\u308b\u898f\u7d04\u3092\u5b9a\u3081\u305f\u3082\u306e\u3067\u3042\u308b\u3002\u300c\u901a\u4fe1\u898f\u7d04\u300d\u3084\u300c\u901a\u4fe1\u624b\u9806\u300d\u3068\u8a33\u3059\u5834\u5408\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0627\u0644\u0627\u062a\u0635\u0627\u0644\u0627\u062a \u0641\u064a \u0627\u0644\u0627\u062a\u0635\u0627\u0644\u0627\u062a \u0627\u0644\u0633\u0644\u0643\u064a\u0629 \u0648\u0627\u0644\u0644\u0627\u0633\u0644\u0643\u064a\u0629 \u060c \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0627\u0644\u0627\u062a\u0635\u0627\u0644\u0627\u062a \u0647\u0648 \u0646\u0638\u0627\u0645 \u0645\u0646 \u0627\u0644\u0642\u0648\u0627\u0639\u062f \u0644\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u062f\u0627\u062e\u0644 \u0623\u0648 \u0628\u064a\u0646 \u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0643\u0645\u0628\u064a\u0648\u062a\u0631. \u0641\u064a \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a\u064a\u0629\u060c \u064a\u0634\u0643\u0644 (\u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644)\u0627\u0644\u0645\u064a\u062b\u0627\u0642 \u0627\u0648 \u0645\u0639\u064a\u0627\u0631 \u0623\u0648 \u0627\u0644\u0627\u062a\u0641\u0627\u0642 \u062a \u0627\u0644\u0630\u064a \u064a\u0646\u0638\u0645 \u0648\u064a\u0645\u0643\u0646 \u0645\u0646 \u0625\u062c\u0631\u0627\u0621 \u0639\u0645\u0644\u064a\u0629 \u0631\u0628\u0637 (connection)\u060c \u0627\u0644\u0627\u062a\u0635\u0627\u0644 communication\u060c \u0648\u0646\u0642\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0628\u064a\u0646 \u062c\u0647\u0627\u0632\u064a\u0646. \u0628\u0627\u0644\u0634\u0643\u0644 \u0627\u0644\u0623\u0628\u0633\u0637\u060c \u064a\u0645\u0643\u0646 \u0623\u0646 \u0646\u0639\u0631\u0641 \u0627\u0644\u0645\u064a\u062b\u0627\u0642 \u0639\u0644\u0649 \u0623\u0646\u0647 \"\u0642\u0648\u0627\u0639\u062f \u0627\u0644\u062a\u062d\u0643\u0645\" (the rules governing) \u0627\u0644\u0635\u064a\u0627\u063a\u0629 \u0627\u0644\u0646\u062d\u0648\u064a\u0629 (syntax)\u060c \u0648\u0627\u0644\u062f\u0644\u0627\u0644\u064a\u0629 (semantics) \u0648\u0627\u0644\u062a\u0632\u0627\u0645\u0646 (synchronization) \u0641\u064a \u0639\u0645\u0644\u064a\u0629 \u0627\u0644\u0627\u062a\u0635\u0627\u0644. \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u0637\u0628\u0642 \u0627\u0644\u0645\u0648\u0627\u062b\u064a\u0642 \u0645\u0646 \u0642\u0628\u0644 \u0639\u062a\u0627\u062f \u0635\u0644\u0628\u060c \u0623\u0648 \u0628\u0631\u0645\u062c\u064a\u0627\u062a \u0623\u0648 \u0645\u0632\u064a\u062c \u0645\u0646 \u0647\u0630\u0627 \u0648\u0630\u0627\u0643. \u064a\u062d\u062f\u062f \u0627\u0644\u0645\u064a\u062b\u0627\u0642 \u0641\u064a \u0623\u062f\u0646\u0649 \u0645\u0633\u062a\u0648\u064a\u0627\u062a\u0647 \u0633\u0644\u0648\u0643 \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0641\u064a \u0627\u0644\u0639\u062a\u0627\u062f \u0627\u0644\u0635\u0644\u0628. \u0644\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u062a\u0641\u0627\u0642\u060c \u064a\u0645\u0643\u0646 \u062a\u0637\u0648\u064a\u0631 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0641\u064a \u0645\u0639\u064a\u0627\u0631 \u062a\u0642\u0646\u064a . \u0644\u063a\u0629 \u0627\u0644\u0628\u0631\u0645\u062c\u0629 \u064a\u0635\u0641 \u0646\u0641\u0633\u0647 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0627\u0644\u062d\u0633\u0627\u0628\u064a\u0629 \u060c \u0644\u0630\u0644\u0643 \u0647\u0646\u0627\u0643 \u062a\u0634\u0627\u0628\u0647 \u0648\u062b\u064a\u0642 \u0628\u064a\u0646 \u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644\u0627\u062a \u0648 \u062e\u0648\u0627\u0631\u0632\u0645\u064a\u0627\u062a \u0627\u0644\u0628\u0631\u0645\u062c\u0629 .",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "In telecommunications, a communication protocol is a system of rules that allow two or more entities of a communications system to transmit information via any kind of variation of a physical quantity. These are the rules or standard that defines the syntax, semantics and synchronization of communication and possible error recovery methods. Protocols may be implemented by hardware, software, or a combination of both. Communicating systems use well-defined formats (protocol) for exchanging various messages. Each message has an exact meaning intended to elicit a response from a range of possible responses pre-determined for that particular situation. The specified behavior is typically independent of how it is to be implemented. Communications protocols have to be agreed upon by the parties involved. To reach agreement, a protocol may be developed into a technical standard. A programming language describes the same for computations, so there is a close analogy between protocols and programming languages: protocols are to communications what programming languages are to computations. Multiple protocols often describe different aspects of a single communication. A group of protocols designed to work together are known as a protocol suite; when implemented in software they are a protocol stack. Most recent protocols are assigned by the IETF for Internet communications, and the IEEE, or the ISO organizations for other types. The ITU-T handles telecommunications protocols and formats for the PSTN. As the PSTN and Internet converge, the two sets of standards are also being driven towards convergence.",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 745188453,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 28030850,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/System"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Network_Protocols": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protocol": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Network_protocol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protocol_(computing)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Communication_protocols": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Communications_protocols": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protocol_set": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protocol_testing": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protocol_(computer_science)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Network_protocol_design_principles": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Data_communication_protocol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Network_protocols": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protocol_(communication)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protocol_(communications)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Networking_protocols": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protocol_(network)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protocol_(networks)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protocols_(computing)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Communication_protocol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Data_transmission_protocol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Networking_protocol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protocol_(computer)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Computer_protocol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protocol_design": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Internetworking_Protocol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Web_protocol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Communications_protocol"
+            }
+        ]
+    }
+}

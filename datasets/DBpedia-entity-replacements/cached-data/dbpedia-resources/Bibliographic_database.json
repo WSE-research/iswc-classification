@@ -1,0 +1,382 @@
+{
+    "http://dbpedia.org/resource/Google_Scholar": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Microsoft_Academic_Search": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Bibliographic_database": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bibliographic_database": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/BiologicalDatabase"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Base de datos bibliogr\u00e1fica",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0411\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0431\u0430\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Base de dados bibliogr\u00e1fica",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Bibliografische Datenbank",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Bibliographic database",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Base de donn\u00e9es bibliographiques",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u0411\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0431\u0430\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445, \u0442\u0430\u043a\u0436\u0435 \u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0431\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439 \u2014 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u044e\u0442, \u0445\u0440\u0430\u043d\u044f\u0442, \u043e\u0431\u043c\u0435\u043d\u0438\u0432\u0430\u044e\u0442 \u0434\u0430\u043d\u043d\u044b\u0435 \u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044f\u043c, \u0443\u0447\u0435\u043d\u044b\u043c \u0438 \u043f\u0438\u0441\u0430\u0442\u0435\u043b\u044f\u043c \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0431\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0441\u044b\u043b\u043a\u0438. \u0411\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445 \u0437\u0430\u043c\u0435\u043d\u0438\u043b\u0438 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u043f\u0435\u0447\u0430\u0442\u043d\u044b\u0435 \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0438 \u0438 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043e\u0431\u0449\u0438\u043c\u0438 \u0438\u043b\u0438 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u043c\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u044b\u0442\u0430\u044e\u0442\u0441\u044f \u0441\u043e\u0431\u0440\u0430\u0442\u044c \u0434\u0430\u043d\u043d\u044b\u0435 \u043f\u043e \u0432\u0441\u0435\u043c \u0441\u0442\u0430\u0442\u044c\u044f\u043c \u043f\u043e \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u043e\u0439 \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0435 \u0438\u043b\u0438 \u0433\u0440\u0443\u043f\u043f\u0435 \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Una base de datos bibliogr\u00e1fica es una base de datos de registros bibliograficos, que puede tener un soporte f\u00edsico (fichas impresas) o, m\u00e1s frecuentemente, tener un soporte electr\u00f3nico cat\u00e1logo. Puede ser una base de datos que contiene informaci\u00f3n sobre libros y otros materiales de una biblioteca (por ejemplo un cat\u00e1logo de biblioteca) o bien, siguiendo la acepci\u00f3n m\u00e1s usada del t\u00e9rmino, un \u00edndice bibliogr\u00e1fico del contenido de un conjunto de revistas y otras publicaciones cient\u00edficas como art\u00edculos cient\u00edficos, actas de conferencias y congresos, cap\u00edtulos de libros, etc. Estas bases de datos suelen tener formato electr\u00f3nico y se consultan a trav\u00e9s de Internet. Contienen citas bibliogr\u00e1ficas, referencias, abstracts (resumen de una publicaci\u00f3n cient\u00edfica) y, a menudo, el texto completo de ",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Bibliografische Datenbanken sind Literaturdatenbanken zu einem bestimmten Fachgebiet oder Thema und enthalten bibliografische Angaben wie Verfasser, Titel und Erscheinungsjahr eines Werkes, manchmal auch eine kurze Annotation. Sie werden auch als \"Verweisdatenbank\" bezeichnet. Bekannte bibliografische Datenbanken sind VD 17 und MEDLINE sowie die Zeitschriftendatenbank, WorldCat und die Deutsche Nationalbibliografie. In der Digitalen Bibliothek k\u00f6nnen nicht nur bibliographische Datenbanken (u.a. von Bibliotheken) per Metasuche abgefragt werden, sondern auch Volltextdatenbanken.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Les bases de donn\u00e9es bibliographiques r\u00e9pertorient toute cat\u00e9gorie d'objets bibliographiques : livres, collections, revues, articles de revues etc. Elles sont le fruit de l'informatisation des catalogues de biblioth\u00e8que, et permettent des recherches \u00e0 l'aide de mots-clefs (titre, auteur, etc.) ainsi que l'analyse des donn\u00e9es (bibliom\u00e9trie, etc.). WorldCat est l'exemple d'une telle base de donn\u00e9es.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "A bibliographic database is a database of bibliographic records, an organized digital collection of references to published literature, including journal and newspaper articles, conference proceedings, reports, government and legal publications, patents, books, etc. In contrast to library catalogue entries, a large proportion of the bibliographic records in bibliographic databases describe articles, conference papers, etc., rather than complete monographs, and they generally contain very rich subject descriptions in the form of keywords, subject classification terms, or abstracts.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Uma base de dados bibliogr\u00e1fica \u00e9 um banco de dados de registros bibliogr\u00e1ficos, uma cole\u00e7\u00e3o organizada digital de refer\u00eancias \u00e0 literaturas publicadas, incluindo revistas acad\u00eamicas e artigos de jornais, proceedings de confer\u00eancias, relat\u00f3rios, publica\u00e7\u00f5es governamentais e legais, patentes, livros, etc. Em contraste com as entradas em uma cataloga\u00e7\u00e3o bibliogr\u00e1fica, uma grande parte dos registros bibliogr\u00e1ficos em bases de dados bibliogr\u00e1ficas descrevem an\u00e1lises (artigos, artigos de confer\u00eancias, etc) ao inv\u00e9s de monografias completas, e eles geralmente cont\u00eam descri\u00e7\u00f5es muito ricas de assuntos sob a forma de palavras chave, termos de classifica\u00e7\u00e3o de assunto, ou abstracts.",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Bibliografische_Datenbank"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Base_de_datos_bibliogr\u00e1fica"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Base_de_dados_bibliogr\u00e1fica"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1789476"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Elektronick\u00e1_datab\u00e1ze"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Base_de_donn\u00e9es_bibliographiques"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1789476"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0cdj5y"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Bibliographic_databases_and_indexes"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Library_2.0"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Information_science"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Bibliographic_database"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Bibliographic_database?oldid=722631427"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "A bibliographic database is a database of bibliographic records, an organized digital collection of references to published literature, including journal and newspaper articles, conference proceedings, reports, government and legal publications, patents, books, etc. In contrast to library catalogue entries, a large proportion of the bibliographic records in bibliographic databases describe articles, conference papers, etc., rather than complete monographs, and they generally contain very rich subject descriptions in the form of keywords, subject classification terms, or abstracts. A bibliographic database may be general in scope or cover a specific academic discipline like computer science. A significant number of bibliographic databases are still proprietary, available by licensing agreement from vendors, or directly from the indexing and abstracting services that create them. Many bibliographic databases evolve into digital libraries, providing the full-text of the indexed contents. Others converge with non-bibliographic scholarly databases to create more complete disciplinary search engine systems, such as Chemical Abstracts or Entrez.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0411\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0431\u0430\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445, \u0442\u0430\u043a\u0436\u0435 \u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0431\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439 \u2014 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u044e\u0442, \u0445\u0440\u0430\u043d\u044f\u0442, \u043e\u0431\u043c\u0435\u043d\u0438\u0432\u0430\u044e\u0442 \u0434\u0430\u043d\u043d\u044b\u0435 \u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044f\u043c, \u0443\u0447\u0435\u043d\u044b\u043c \u0438 \u043f\u0438\u0441\u0430\u0442\u0435\u043b\u044f\u043c \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0431\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0441\u044b\u043b\u043a\u0438. \u0411\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445 \u0437\u0430\u043c\u0435\u043d\u0438\u043b\u0438 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u043f\u0435\u0447\u0430\u0442\u043d\u044b\u0435 \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0438 \u0438 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043e\u0431\u0449\u0438\u043c\u0438 \u0438\u043b\u0438 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u043c\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u044b\u0442\u0430\u044e\u0442\u0441\u044f \u0441\u043e\u0431\u0440\u0430\u0442\u044c \u0434\u0430\u043d\u043d\u044b\u0435 \u043f\u043e \u0432\u0441\u0435\u043c \u0441\u0442\u0430\u0442\u044c\u044f\u043c \u043f\u043e \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u043e\u0439 \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0435 \u0438\u043b\u0438 \u0433\u0440\u0443\u043f\u043f\u0435 \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Una base de datos bibliogr\u00e1fica es una base de datos de registros bibliograficos, que puede tener un soporte f\u00edsico (fichas impresas) o, m\u00e1s frecuentemente, tener un soporte electr\u00f3nico cat\u00e1logo. Puede ser una base de datos que contiene informaci\u00f3n sobre libros y otros materiales de una biblioteca (por ejemplo un cat\u00e1logo de biblioteca) o bien, siguiendo la acepci\u00f3n m\u00e1s usada del t\u00e9rmino, un \u00edndice bibliogr\u00e1fico del contenido de un conjunto de revistas y otras publicaciones cient\u00edficas como art\u00edculos cient\u00edficos, actas de conferencias y congresos, cap\u00edtulos de libros, etc. Estas bases de datos suelen tener formato electr\u00f3nico y se consultan a trav\u00e9s de Internet. Contienen citas bibliogr\u00e1ficas, referencias, abstracts (resumen de una publicaci\u00f3n cient\u00edfica) y, a menudo, el texto completo de los contenidos indexados, o enlaces al texto completo. Muchas bases de datos cient\u00edficas son bases de datos bibliogr\u00e1ficas pero otras no lo son. \n*  En Chemical Abstracts Service, CAS, por ejemplo, hay bases de datos de estructuras qu\u00edmicas, y  \n*  En Entrez hay bases de datos de secuencias. Fuera del \u00e1mbito de la ciencia, ocurre lo mismo: hay bases de datos que contienen citas de art\u00edculos de revistas de historia del arte y hay bases de datos de im\u00e1genes art\u00edsticas, como ARTstor. Algunas bases de datos importantes se discuten a continuaci\u00f3n. Para una lista de bases de datos bibliogr\u00e1ficas por tema, ver Lista de bases de datos acad\u00e9micas y motores de b\u00fasqueda y en:List of academic databases and search engines.Se debe tener nombre del autor, si es de un libro especificar en que p\u00e1gina se encuentra y si es de una direcci\u00f3n web colocar sual es .",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Les bases de donn\u00e9es bibliographiques r\u00e9pertorient toute cat\u00e9gorie d'objets bibliographiques : livres, collections, revues, articles de revues etc. Elles sont le fruit de l'informatisation des catalogues de biblioth\u00e8que, et permettent des recherches \u00e0 l'aide de mots-clefs (titre, auteur, etc.) ainsi que l'analyse des donn\u00e9es (bibliom\u00e9trie, etc.). WorldCat est l'exemple d'une telle base de donn\u00e9es.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Bibliografische Datenbanken sind Literaturdatenbanken zu einem bestimmten Fachgebiet oder Thema und enthalten bibliografische Angaben wie Verfasser, Titel und Erscheinungsjahr eines Werkes, manchmal auch eine kurze Annotation. Sie werden auch als \"Verweisdatenbank\" bezeichnet. Im Zuge der Kataloganreicherung (engl. catalog enrichment) werden teilweise auch Inhaltsverzeichnisse oder Titelbilder hinzugef\u00fcgt. Im Gegensatz zu Volltextdatenbanken ist der Text des Werkes nicht in der Datenbank verf\u00fcgbar. Bibliothekskataloge und Buchhandelsverzeichnisse, wie das Verzeichnis lieferbarer B\u00fccher, sind meist bibliografische Datenbanken, verzeichnen jedoch einen Bestand verschiedener Themen. Bekannte bibliografische Datenbanken sind VD 17 und MEDLINE sowie die Zeitschriftendatenbank, WorldCat und die Deutsche Nationalbibliografie. In der Digitalen Bibliothek k\u00f6nnen nicht nur bibliographische Datenbanken (u.a. von Bibliotheken) per Metasuche abgefragt werden, sondern auch Volltextdatenbanken.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Uma base de dados bibliogr\u00e1fica \u00e9 um banco de dados de registros bibliogr\u00e1ficos, uma cole\u00e7\u00e3o organizada digital de refer\u00eancias \u00e0 literaturas publicadas, incluindo revistas acad\u00eamicas e artigos de jornais, proceedings de confer\u00eancias, relat\u00f3rios, publica\u00e7\u00f5es governamentais e legais, patentes, livros, etc. Em contraste com as entradas em uma cataloga\u00e7\u00e3o bibliogr\u00e1fica, uma grande parte dos registros bibliogr\u00e1ficos em bases de dados bibliogr\u00e1ficas descrevem an\u00e1lises (artigos, artigos de confer\u00eancias, etc) ao inv\u00e9s de monografias completas, e eles geralmente cont\u00eam descri\u00e7\u00f5es muito ricas de assuntos sob a forma de palavras chave, termos de classifica\u00e7\u00e3o de assunto, ou abstracts. Uma base de dados bibliogr\u00e1fica pode ser de \u00e2mbito geral ou abranger uma determinada disciplina acad\u00eamica. Um n\u00famero significativo de bases de dados bibliogr\u00e1ficas s\u00e3o ainda propriet\u00e1rios, dispon\u00edveis por acordo de licenciamento de fornecedores, ou diretamente a partir dos servi\u00e7os que criaram o resumo e o \u00edndice bibliogr\u00e1fico. Muitas bases de dados bibliogr\u00e1ficas evolu\u00edram para bibliotecas digitais, fornecendo o texto completo do conte\u00fado indexado. Outras convergiram com os bancos de dados n\u00e3o-bibliogr\u00e1ficos acad\u00eamicos para criar sistemas de pesquisa disciplinar mais completos, como o Chemical Abstracts ou o Entrez.",
+                "lang": "pt"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 722631427,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 4629929,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IBookDB": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Internet_Book_Database": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IBDoF": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bibliographic_databases": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Internet_Book_Database_of_Fiction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Isbndb": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IBList": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Iblist": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Online_general-interest_book_databases": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Online_general_interest_book_database": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ISBNdb": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electronic_database": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Internet_Book_Database": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Internet_Book_Database_of_Fiction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Online_general-interest_book_database": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bibliographical_database": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ISBNdb.com": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Literature_database": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Reference_database": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Academic_database": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Internet_Book_Databases": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bibliographic_database"
+            }
+        ]
+    }
+}

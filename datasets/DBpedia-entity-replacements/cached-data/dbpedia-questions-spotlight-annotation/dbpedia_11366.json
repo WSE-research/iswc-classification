@@ -1,0 +1,28 @@
+{
+    "@text": "Which protein interacts with codeine?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Protein",
+            "@support": "53207",
+            "@types": "",
+            "@surfaceForm": "protein",
+            "@offset": "6",
+            "@similarityScore": "0.9999958063918906",
+            "@percentageOfSecondRank": "1.7685462733531271E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Codeine",
+            "@support": "712",
+            "@types": "Wikidata:Q8386,DUL:ChemicalObject,DBpedia:Drug,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "codeine",
+            "@offset": "29",
+            "@similarityScore": "0.999999895115016",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

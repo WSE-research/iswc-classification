@@ -1,0 +1,28 @@
+{
+    "@text": "\"What is {located in} of {Western Front}, which is {member of} is {CERN}",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Western_Front_(World_War_I)",
+            "@support": "7242",
+            "@types": "Wikidata:Q1656682,DUL:Event,Schema:Event,DBpedia:SocietalEvent,DBpedia:MilitaryConflict,DBpedia:Event",
+            "@surfaceForm": "Western Front",
+            "@offset": "26",
+            "@similarityScore": "0.9194693714890007",
+            "@percentageOfSecondRank": "0.052136847910026415"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/CERN",
+            "@support": "3212",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "CERN",
+            "@offset": "67",
+            "@similarityScore": "0.9999999178144525",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

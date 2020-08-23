@@ -1,0 +1,28 @@
+{
+    "@text": "Was Jack Ryan a nominee of US Senate?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Jack_Ryan_(character)",
+            "@support": "286",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q95074,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:FictionalCharacter,DBpedia:Agent",
+            "@surfaceForm": "Jack Ryan",
+            "@offset": "4",
+            "@similarityScore": "0.712411915053382",
+            "@percentageOfSecondRank": "0.3803289669474374"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States_Senate",
+            "@support": "46009",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q11204,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature,DBpedia:Agent",
+            "@surfaceForm": "US Senate",
+            "@offset": "27",
+            "@similarityScore": "0.999999997722071",
+            "@percentageOfSecondRank": "2.2779108498659532E-9"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "List all the hubs of the airline whose one of the hub is Subang, Indonesia ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Sultan_Abdul_Aziz_Shah_Airport",
+            "@support": "165",
+            "@types": "Wikidata:Q1248784,Schema:Place,Schema:Airport,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure,DBpedia:Airport",
+            "@surfaceForm": "Subang",
+            "@offset": "57",
+            "@similarityScore": "0.9283657113070187",
+            "@percentageOfSecondRank": "0.0771605736301137"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Indonesia",
+            "@support": "60138",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Indonesia",
+            "@offset": "65",
+            "@similarityScore": "0.9999765146094393",
+            "@percentageOfSecondRank": "1.831582859552872E-5"
+        }
+    ]
+}

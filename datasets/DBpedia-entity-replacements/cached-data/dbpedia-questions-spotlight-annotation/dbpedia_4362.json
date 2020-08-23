@@ -1,0 +1,28 @@
+{
+    "@text": "\"Who is {nominee for} of {Jonny Wilkinson}, which {prizewinner} is {Michael Owen} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Jonny_Wilkinson",
+            "@support": "235",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q13415036,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:RugbyPlayer,DBpedia:Person,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Jonny Wilkinson",
+            "@offset": "26",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Owen_Hart",
+            "@support": "786",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q13474373,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Wrestler,DBpedia:Person,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Owen",
+            "@offset": "76",
+            "@similarityScore": "0.9369672462422111",
+            "@percentageOfSecondRank": "0.04154979603092409"
+        }
+    ]
+}

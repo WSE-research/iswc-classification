@@ -1,0 +1,28 @@
+{
+    "@text": "What is the population of Rhode Island according to the census?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Rhode_Island",
+            "@support": "15319",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Rhode Island",
+            "@offset": "26",
+            "@similarityScore": "0.9359667703366842",
+            "@percentageOfSecondRank": "0.06643898285617865"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Census",
+            "@support": "100640",
+            "@types": "",
+            "@surfaceForm": "census",
+            "@offset": "56",
+            "@similarityScore": "0.9996680165658158",
+            "@percentageOfSecondRank": "2.086336651915445E-4"
+        }
+    ]
+}

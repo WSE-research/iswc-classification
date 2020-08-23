@@ -1,0 +1,37 @@
+{
+    "@text": "Where is the location of death of Louis Antoine de Saint-Just who is next to Le Kremlin-Bicetre?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Louis_Antoine_de_Pardaillan_de_Gondrin",
+            "@support": "20",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Noble,DBpedia:Agent",
+            "@surfaceForm": "Louis Antoine",
+            "@offset": "34",
+            "@similarityScore": "0.9998474617206149",
+            "@percentageOfSecondRank": "1.5178512804460534E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Louis_Antoine_de_Saint-Just",
+            "@support": "199",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Saint-Just",
+            "@offset": "51",
+            "@similarityScore": "0.9999901131663659",
+            "@percentageOfSecondRank": "9.886866341396342E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Le_Kremlin-Bic\u00eatre",
+            "@support": "61",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Kremlin-Bicetre",
+            "@offset": "80",
+            "@similarityScore": "0.9839448536661535",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

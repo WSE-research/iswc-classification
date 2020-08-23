@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the V&A artwork ID for California Institute of the Arts?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Victoria_and_Albert_Museum",
+            "@support": "4417",
+            "@types": "Wikidata:Q41176,Wikidata:Q33506,Schema:Place,DBpedia:Place,DBpedia:Museum,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "V&A",
+            "@offset": "13",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/California",
+            "@support": "185510",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "California",
+            "@offset": "32",
+            "@similarityScore": "0.9999463650169518",
+            "@percentageOfSecondRank": "2.5085658614160738E-5"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Was the dictator, Fidel Castro, the Prime Minister of Italy?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Dictator",
+            "@support": "1004",
+            "@types": "",
+            "@surfaceForm": "dictator",
+            "@offset": "8",
+            "@similarityScore": "0.9742513535268771",
+            "@percentageOfSecondRank": "0.019068040578193488"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Fidel_Castro",
+            "@support": "4213",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Fidel Castro",
+            "@offset": "18",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Italy",
+            "@support": "150965",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Italy",
+            "@offset": "54",
+            "@similarityScore": "0.9910882316891533",
+            "@percentageOfSecondRank": "0.006980086432597978"
+        }
+    ]
+}

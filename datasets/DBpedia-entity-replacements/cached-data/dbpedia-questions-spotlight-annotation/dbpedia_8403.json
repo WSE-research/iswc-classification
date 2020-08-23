@@ -1,0 +1,28 @@
+{
+    "@text": "Which sovereign state of Sofia has the administrative territorial entity?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Sofia",
+            "@support": "10623",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Sofia",
+            "@offset": "25",
+            "@similarityScore": "0.9995690951987445",
+            "@percentageOfSecondRank": "4.026296816883465E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Territorial_entity",
+            "@support": "131",
+            "@types": "",
+            "@surfaceForm": "administrative territorial entity",
+            "@offset": "39",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

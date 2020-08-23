@@ -1,0 +1,28 @@
+{
+    "@text": "List everyone who got their training in the city of California?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "44",
+            "@similarityScore": "0.8715203726098985",
+            "@percentageOfSecondRank": "0.08860649034688349"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/California",
+            "@support": "185510",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "California",
+            "@offset": "52",
+            "@similarityScore": "0.9999092886897726",
+            "@percentageOfSecondRank": "3.577769475793726E-5"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Name the islands that belong to the archipelago whose largest city is Papeete?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Archipelago",
+            "@support": "3931",
+            "@types": "",
+            "@surfaceForm": "archipelago",
+            "@offset": "36",
+            "@similarityScore": "0.9997572570379082",
+            "@percentageOfSecondRank": "7.518933211175016E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "62",
+            "@similarityScore": "0.8489934143241401",
+            "@percentageOfSecondRank": "0.1294647863432535"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Papeete",
+            "@support": "594",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Papeete",
+            "@offset": "70",
+            "@similarityScore": "0.9999597893684886",
+            "@percentageOfSecondRank": "4.01986367546287E-5"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "How many runway's are there at Tokyo International Airport?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Runway",
+            "@support": "9824",
+            "@types": "",
+            "@surfaceForm": "runway",
+            "@offset": "9",
+            "@similarityScore": "0.9999963942489593",
+            "@percentageOfSecondRank": "2.7051161656579246E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Haneda_Airport",
+            "@support": "620",
+            "@types": "Wikidata:Q1248784,Schema:Place,Schema:Airport,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure,DBpedia:Airport",
+            "@surfaceForm": "Tokyo International Airport",
+            "@offset": "31",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

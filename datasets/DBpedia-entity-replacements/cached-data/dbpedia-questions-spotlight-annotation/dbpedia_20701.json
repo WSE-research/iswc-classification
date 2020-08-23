@@ -1,0 +1,37 @@
+{
+    "@text": "Count the movies edited by  Mark Stevens (film editor) and were directed by Joel Schumacher?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Conan_Stevens",
+            "@support": "40",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Mark Stevens",
+            "@offset": "28",
+            "@similarityScore": "0.9663987446795845",
+            "@percentageOfSecondRank": "0.034553032722183345"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Film_editing",
+            "@support": "2340",
+            "@types": "",
+            "@surfaceForm": "film editor",
+            "@offset": "42",
+            "@similarityScore": "0.9999999999988063",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Joel_Schumacher",
+            "@support": "344",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Joel Schumacher",
+            "@offset": "76",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

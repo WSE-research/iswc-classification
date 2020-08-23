@@ -1,0 +1,28 @@
+{
+    "@text": "is the {start time} for {New York City} has {head of government} as {Robert F. Wagner} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/New_York_City",
+            "@support": "190508",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "New York City",
+            "@offset": "25",
+            "@similarityScore": "0.9999923413367605",
+            "@percentageOfSecondRank": "3.333862611480187E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Richard_Wagner",
+            "@support": "6588",
+            "@types": "",
+            "@surfaceForm": "Wagner",
+            "@offset": "79",
+            "@similarityScore": "0.9960401837596617",
+            "@percentageOfSecondRank": "0.0028392056164732614"
+        }
+    ]
+}

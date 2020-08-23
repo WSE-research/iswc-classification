@@ -1,0 +1,37 @@
+{
+    "@text": "Name the common serving line of Daund Junction railway station and Ujjain Junction railway station?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Daund_Junction_railway_station",
+            "@support": "35",
+            "@types": "Wikidata:Q719456,Schema:Place,DBpedia:Station,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Daund Junction",
+            "@offset": "32",
+            "@similarityScore": "0.8091443256236117",
+            "@percentageOfSecondRank": "0.235873463277752"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Train_station",
+            "@support": "33008",
+            "@types": "",
+            "@surfaceForm": "railway station",
+            "@offset": "47",
+            "@similarityScore": "0.9999983771683484",
+            "@percentageOfSecondRank": "4.961345142672961E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ujjain_Junction_railway_station",
+            "@support": "86",
+            "@types": "Wikidata:Q719456,Schema:Place,DBpedia:Station,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Ujjain Junction railway station",
+            "@offset": "67",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

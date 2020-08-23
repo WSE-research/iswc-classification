@@ -1,0 +1,28 @@
+{
+    "@text": "Was United States Declaration of Independence signed in Philadelphia?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "4",
+            "@similarityScore": "0.9998989810466793",
+            "@percentageOfSecondRank": "5.8559866271783784E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Philadelphia",
+            "@support": "75798",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Philadelphia",
+            "@offset": "56",
+            "@similarityScore": "0.9992393531734566",
+            "@percentageOfSecondRank": "4.0431930354440694E-4"
+        }
+    ]
+}

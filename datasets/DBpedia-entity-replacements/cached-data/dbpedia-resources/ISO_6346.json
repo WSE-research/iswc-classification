@@ -1,0 +1,262 @@
+{
+    "http://en.wikipedia.org/wiki/ISO_6346": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/ISO_6346"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ISO_6346": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Event100029378"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/AnatomicalStructure"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Act100030358"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Activity100407535"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatISOStandards"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Measure100033615"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SystemOfMeasurement113577171"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Standard107260623"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Rule105846932"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatChecksumAlgorithms"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Algorithm105847438"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Procedure101023820"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "BIC-Code",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "ISO 6346",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "ISO 6346 is an international standard covering the coding, identification and marking of intermodal (shipping) containers used within containerized intermodal freight transport. The standard establishes a visual identification system for every container that includes a unique serial number (with check digit), the owner, a country code, a size, type and equipment category as well as any operational marks. The standard is managed by the International Container Bureau (BIC).",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Die Organisation B.I.C. (Bureau International des Containers et du Transport Intermodal) ordnet bei Containern nach der internationalen Norm ISO 6346 jedem Eigent\u00fcmer oder Operator auf Wunsch einen eigenen Eigent\u00fcmer-Code zu. Alle zugeteilten Codes sind im offiziellen Register der Eigent\u00fcmer-Codes des B.I.C. aufgef\u00fchrt. Eine Standardisierung einer Umsetzung des alphanumerischen BIC-Codes in einen Barcode (f\u00fcr halbautomatisches Lesen oder automatisches Scannen) oder einen 2D-Code (f\u00fcr automatisches Lesen oder Scannen) besteht bisher nicht.",
+                "lang": "de"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q795966"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/ISO_6346"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/ISO_6346"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/BIC-Code"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.047j88"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q795966"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Intermodal_containers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Port_infrastructure"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Checksum_algorithms"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:ISO_standards"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Encodings"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/homepage": [
+            {
+                "type": "uri",
+                "value": "http://www.prefixlist.com/"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Container_identificatie.JPG"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/ISO_6346"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/ISO_6346?oldid=742859381"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.rs-head.spb.ru/en/s_container01_en.php"
+            },
+            {
+                "type": "uri",
+                "value": "http://checkdigit.tripod.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bic-code.org/official-register-containers-bic-code.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://shipping-container-info.com/container-number/check-digit-validator"
+            },
+            {
+                "type": "uri",
+                "value": "http://shipping-container-info.com/size-type-info/shipping-container-size-type"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.prefixlist.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://containernumbervalidator.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://container-validator.sameershemna.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.gwii.com/check-digit-calculator.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.containerhandbuch.de/chb_e/stra/stra_03_03_00.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bic-code.org"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cassilon.com/checkdigit.cfm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.itco.be/itco_technical.htm"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Die Organisation B.I.C. (Bureau International des Containers et du Transport Intermodal) ordnet bei Containern nach der internationalen Norm ISO 6346 jedem Eigent\u00fcmer oder Operator auf Wunsch einen eigenen Eigent\u00fcmer-Code zu. Alle zugeteilten Codes sind im offiziellen Register der Eigent\u00fcmer-Codes des B.I.C. aufgef\u00fchrt. Eine Standardisierung einer Umsetzung des alphanumerischen BIC-Codes in einen Barcode (f\u00fcr halbautomatisches Lesen oder automatisches Scannen) oder einen 2D-Code (f\u00fcr automatisches Lesen oder Scannen) besteht bisher nicht.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "ISO 6346 is an international standard covering the coding, identification and marking of intermodal (shipping) containers used within containerized intermodal freight transport. The standard establishes a visual identification system for every container that includes a unique serial number (with check digit), the owner, a country code, a size, type and equipment category as well as any operational marks. The standard is managed by the International Container Bureau (BIC).",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Container_identificatie.JPG?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742859381,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 1117425,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Covering"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1167 @@
+{
+    "http://dbpedia.org/resource/Megadyptes": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Penguin": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://umbel.org/umbel/rc/Animal"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://umbel.org/umbel/rc/EukaryoticCell"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Band"
+            },
+            {
+                "type": "uri",
+                "value": "http://umbel.org/umbel/rc/BiologicalLivingObject"
+            },
+            {
+                "type": "uri",
+                "value": "http://umbel.org/umbel/rc/Bird"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/TaxonomicGroup107992450"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatBirdFamilies"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Family108107499"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/BiologicalGroup107941170"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/BirdFamily101504437"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Pinguine",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u4f01\u9d5d",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0438\u043d\u0433\u0432\u0438\u043d\u043e\u0432\u044b\u0435",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u30da\u30f3\u30ae\u30f3",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Pingu\u00efns",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0628\u0637\u0631\u064a\u0642",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Spheniscidae",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Penguin",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Spheniscidae",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Pinguim",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Pingwiny",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Sphenisciformes",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u30da\u30f3\u30ae\u30f3 (\u82f1\u8a9e: penguin [\u02c8p\u025b\u014bgw\u026an]) \u306f\u3001\u9ce5\u985e\u30da\u30f3\u30ae\u30f3\u76ee\uff08\u5b66\u540d Sphenisciformes\uff09\u306b\u5c5e\u3059\u308b\u7a2e\u306e\u7dcf\u79f0\u3067\u3042\u308b\u3002\u30da\u30f3\u30ae\u30f3\u79d1\uff08\u5b66\u540d Spheniscidae\uff09\u306e\u307f\u304c\u73fe\u751f\u3059\u308b\u3002 \u4e3b\u306b\u5357\u534a\u7403\u306b\u751f\u606f\u3059\u308b\u6d77\u9ce5\u3067\u3042\u308a\u3001\u98db\u3076\u3053\u3068\u304c\u3067\u304d\u306a\u3044\u3002 \u4eca\u3067\u306f\u4f7f\u308f\u308c\u308b\u3053\u3068\u306f\u7a00\u3060\u304c\u3001\u300c\u4eba\u9ce5\uff08\u3058\u3093\u3061\u3087\u3046\uff09\u300d\u300c\u4f01\u9d5d\uff08\u304d\u304c\u3001\u4f01\u306f\u722a\u5148\u7acb\u3064\u306e\u610f\u3001\u9d5d\u306f\u30ac\u30c1\u30e7\u30a6\uff09\u300d\u3068\u3044\u3046\u548c\u540d\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Gli Sfeniscidi (Spheniscidae Bonaparte, 1831) sono una famiglia di uccelli comunemente noti come pinguini. Sono l'unica famiglia dell'ordine Sphenisciformes. Sono gli uccelli pi\u00f9 acquatici in assoluto. Il loro gruppo si \u00e8 evoluto a partire da uccelli volatori, ma ora nessuna specie di pinguino \u00e8 in grado di volare. Sono animali molto specializzati e sociali, hanno una forma idrodinamica e ali trasformate in pinne che li fanno perfetti nuotatori.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0628\u0637\u0631\u064a\u0642 (\u0628\u0627\u0644\u0644\u0627\u062a\u064a\u0646\u064a\u0629: Spheniscidae) \u0647\u0648 \u0646\u0648\u0639 \u0645\u0646 \u0627\u0644\u0637\u064a\u0648\u0631 \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u063a\u064a\u0631 \u0627\u0644\u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0637\u064a\u0631\u0627\u0646 \u0627\u0644\u062a\u064a \u062a\u0639\u064a\u0634 \u0641\u064a \u0627\u0644\u0646\u0635\u0641 \u0627\u0644\u062c\u0646\u0648\u0628\u064a \u0644\u0644\u0643\u0631\u0629 \u0627\u0644\u0623\u0631\u0636\u064a\u0629 \u0641\u0642\u0637\u060c \u062e\u0635\u0648\u0635\u0627\u064b \u0641\u064a \u0627\u0644\u0642\u0627\u0631\u0629 \u0627\u0644\u0642\u0637\u0628\u064a\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629. \u0644\u062f\u0649 \u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0642 \u062a\u0643\u064a\u064f\u0651\u0641 \u0639\u0627\u0644\u064d \u0645\u0639 \u0627\u0644\u062d\u064a\u0627\u0629 \u0641\u064a \u0627\u0644\u0645\u0627\u0621\u060c \u0625\u0630 \u0625\u0646 \u0631\u064a\u0634\u0647\u0627 \u0623\u0628\u064a\u0636 \u0648\u0623\u0633\u0648\u062f \u0627\u0644\u0644\u064e\u0651\u0648\u0646 \u064a\u0633\u0627\u0639\u062f\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u062a\u0645\u0648\u064a\u0647 \u0628\u064a\u0646\u0645\u0627 \u062a\u062d\u0648\u064e\u0651\u0644\u062a \u0623\u062c\u0646\u062d\u062a\u0647\u0627 \u0625\u0644\u0649 \u0632\u0639\u0627\u0646\u0641 \u0644\u062a\u0633\u0627\u0639\u062f\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u0633\u0628\u0627\u062d\u0629. \u062a\u062a\u063a\u0630\u0649 \u0645\u064f\u0639\u0638\u0645 \u0623\u0646\u0648\u0627\u0639 \u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0642 \u0639\u0644\u0649 \u0627\u0644\u0643\u0631\u064a\u0644 \u0648\u0627\u0644\u062d\u0628\u0627\u0631 \u0648\u0627\u0644\u0633\u0645\u0643 \u0648\u0623\u0634\u0643\u0627\u0644 \u0627\u0644\u062d\u064a\u0627\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u064e\u0651\u0629 \u0627\u0644\u0623\u062e\u0631\u0649 \u0627\u0644\u062a\u064a \u062a\u0635\u0637\u0627\u062f\u0647\u0627 \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u063a\u0637\u0633 \u062a\u062d\u062a\u064e \u0627\u0644\u0645\u064a\u0627\u0647. \u062a\u0642\u0636\u064a \u0647\u0630\u0647 \u0627\u0644\u0637\u064a\u0648\u0631 \u0646\u0635\u0641\u064e \u062d\u064a\u0627\u062a\u0647\u0627 \u062a\u0642\u0631\u064a\u0628\u0627\u064b \u0639\u0644\u0649 \u0627\u0644\u064a\u0627\u0628\u0633\u0629\u060c \u0628\u064a\u0646\u0645\u0627 \u062a\u0642\u0636\u064a \u0627\u0644\u0646\u0635\u0641 \u0627\u0644\u0622\u062e\u0631 \u062a\u062d\u062a \u0627\u0644\u0645\u0627\u0621.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0438\u043d\u0433\u0432\u0438\u0301\u043d\u043e\u0432\u044b\u0435 \u0438\u043b\u0438 \u043f\u0438\u043d\u0433\u0432\u0438\u0301\u043d\u044b (\u043b\u0430\u0442. Spheniscidae) \u2014 \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u043e \u043d\u0435\u043b\u0435\u0442\u0430\u044e\u0449\u0438\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446, \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0432 \u043e\u0442\u0440\u044f\u0434\u0435 \u043f\u0438\u043d\u0433\u0432\u0438\u043d\u043e\u043e\u0431\u0440\u0430\u0301\u0437\u043d\u044b\u0445 (Sphenisciformes). \u0412 \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0435 18 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0432\u0438\u0434\u043e\u0432. \u0412\u0441\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0438 \u044d\u0442\u043e\u0433\u043e \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u0445\u043e\u0440\u043e\u0448\u043e \u043f\u043b\u0430\u0432\u0430\u044e\u0442 \u0438 \u043d\u044b\u0440\u044f\u044e\u0442.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Pingu\u00efns of vetganzen zijn een orde van niet-vliegende zeevogels die alleen voorkomen op het zuidelijk halfrond. De pingu\u00efns behoren tot de orde Sphenisciformes, klasse Aves (vogels). Alle moderne pingu\u00efns behoren tot de familie van de Spheniscidae, maar er zijn uitgestorven soorten die buiten deze kroongroep vallen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Los ping\u00fcinos (familia Spheniscidae, orden Sphenisciformes) son un grupo de aves marinas, no voladoras, que se distribuyen casi exclusivamente en el Hemisferio Sur (exceptuando el ping\u00fcino de las islas Gal\u00e1pagos, una especie del g\u00e9nero Spheniscus: Spheniscus mendiculus, end\u00e9mica de las islas Gal\u00e1pagos, Ecuador).",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere, especially in Antarctica. Highly adapted for life in the water, penguins have countershaded dark and white plumage, and their wings have evolved into flippers. Most penguins feed on krill, fish, squid and other forms of sealife caught while swimming underwater. They spend about half of their lives on land and half in the oceans.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Die Pinguine (Spheniscidae) sind eine Gruppe flugunf\u00e4higer Seev\u00f6gel der S\u00fcdhalbkugel und bilden die einzige Familie in der Ordnung Sphenisciformes. Ihre stammesgeschichtliche Schwestergruppe bilden wahrscheinlich die Seetaucher (Gaviiformes) und R\u00f6hrennasen (Procellariiformes). Pinguine sind leicht von allen anderen V\u00f6geln zu unterscheiden und in herausragender Weise an das Leben im Meer und in den teilweise extremen K\u00e4ltezonen der Erde angepasst.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Sph\u00e9nisciformes, Manchots SphenisciformesFichier:Manchot 01.jpg Manchot \u00e0 jugulaire (Pygoscelis antarcticus) Ordre SphenisciformesSharpe, 1891 Famille SpheniscidaeBonaparte, 1831 Synonymes Liste pour Spheniscidae \n*  Aptenodytidae Sundevall, C.J., 1836 \n*  Dasyramphinae Bonaparte, C.L., 1856 \n*  Eudyptidae Des Murs, O., 1860 \n*  Dypsicleidae Poche, F., 1904 \n*  Eudyptulidae Boetticher, 1943 \n*  Pygoscelidae Boetticher, 1943 \n*  Spheniscinae Simpson, 1946 Le cri des manchots est appel\u00e9 \u00ab braiement \u00bb ou \u00ab jabotement \u00bb.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Pingwiny, bezlotki \u2013 rz\u0105d (Sphenisciformes) oraz rodzina (Spheniscidae) ptak\u00f3w z podgromady ptak\u00f3w nowoczesnych Neornithes.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "O pinguim (RO 1971: ping\u00fcim) \u00e9 uma ave da fam\u00edlia Spheniscidae, caracter\u00edstica do Hemisf\u00e9rio Sul, em especial na Ant\u00e1rtida e ilhas dos mares austrais, chegado \u00e0 Terra do Fogo, Ilhas Malvinas e \u00c1frica do Sul, entre outros. Apesar da maior diversidade de pinguins encontrar-se na Ant\u00e1rtida e regi\u00f5es polares, h\u00e1 tamb\u00e9m esp\u00e9cies que habitam nos tr\u00f3picos como por exemplo o pinguim-das-gal\u00e1pagos. A morfologia dos pinguins reflete v\u00e1rias adapta\u00e7\u00f5es \u00e0 vida no meio aqu\u00e1tico: o corpo \u00e9 fusiforme; as asas atrofiadas desempenham a fun\u00e7\u00e3o de barbatanas e as penas s\u00e3o impermeabilizadas atrav\u00e9s da secre\u00e7\u00e3o de \u00f3leos. Os pinguins alimentam-se de pequenos peixes, krill e outras formas de vida marinha, sendo por sua vez v\u00edtimas da preda\u00e7\u00e3o de orcas e focas-leopardo.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u4f01\u9d5d\uff08\u5b66\u540d\uff1aSpheniscidae\uff09\u662f\u4e00\u7a2e\u4e0d\u6703\u98db\u884c\u7684\u9ce5\u985e\uff0c\u5c6c\u65bc\u4f01\u9d5d\u76ee\u4f01\u9d5d\u79d1\u3002 \u4f01\u9d5d\u4e3b\u8981\u751f\u6d3b\u5728\u5357\u534a\u7403\uff0c\u76ee\u524d\u5df2\u77e5\u5168\u4e16\u754c\u7684\u4f01\u9d5d\u5171\u670917\u7a2e\u621618\u7a2e\uff0c\u6700\u5927\u7684\u4e00\u76f4\u5728\u6fb3\u6d32\u3002\u591a\u6578\u5206\u5e03\u5728\u5357\u6975\u5730\u5340\uff0c\u800c\u5176\u4e2d\u74b0\u4f01\u9d5d\u5c6c\u7684\u6f22\u6ce2\u5fb7\u4f01\u9d5d\u3001\u9ea5\u54f2\u502b\u4f01\u9d5d\u8207\u9ed1\u8173\u4f01\u9d5d\u5206\u5e03\u5728\u7def\u5ea6\u8f03\u4f4e\u7684\u6eab\u5e36\u5730\u5340\uff0c\u81f3\u65bc\u52a0\u62c9\u5e15\u6208\u65af\u4f01\u9d5d\u7684\u5206\u5e03\u5247\u66f4\u63a5\u8fd1\u8d64\u9053\uff1b\u5b8c\u5168\u751f\u6d3b\u5728\u6975\u5730\u7684\u53ea\u6709\u7687\u5e1d\u4f01\u9d5d\u53ca\u963f\u5fb7\u5229\u4f01\u9d5d\u5169\u7a2e\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/List_of_Sphenisciformes_by_population"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4174708-2"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Tu\u010d\u0148\u00e1ci"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bbc.co.uk/things/0f4a7c91-2b43-4e36-a902-fdb5d1525419#id"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Pingu\u00efns"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Pingwiny"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Penguin"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Pinguim"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Spheniscidae"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ud3ad\uadc4"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Spheniscidae"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Sphenisciformes"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q9147"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.05z6w"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a0\u03b9\u03b3\u03ba\u03bf\u03c5\u03af\u03bd\u03bf\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q9147"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30da\u30f3\u30ae\u30f3"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Pinguine"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Spheniscidae"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Pinguino"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Birds_by_common_name"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Spheniscidae"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Extant_Paleocene_first_appearances"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Penguins"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Seabirds"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Sphenisciformes"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Spheniscinae"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Danian_first_appearances"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Flightless_birds"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Special:FilePath/South_Shetland-2016-Deception_Island\u2013Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Penguin"
+            }
+        ],
+        "http://dbpedia.org/property/rangeMapCaption": [
+            {
+                "type": "literal",
+                "value": "Range of penguins, all species",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/subdivision": [
+            {
+                "type": "literal",
+                "value": "For prehistoric genera, see [[#Systematics and evolution",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Aptenodytes",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Megadyptes",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Eudyptes",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Pygoscelis",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Eudyptula",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Spheniscus",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/subdivisionRanks": [
+            {
+                "type": "literal",
+                "value": "Modern genera",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/familia": [
+            {
+                "type": "literal",
+                "value": "Spheniscidae",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/bsize": [
+            {
+                "type": "literal",
+                "value": 450,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/cheight": [
+            {
+                "type": "literal",
+                "value": 250,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/cwidth": [
+            {
+                "type": "literal",
+                "value": 220,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/description": [
+            {
+                "type": "literal",
+                "value": "Gentoo watching over a sleeping chick at Brown Bluff",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/oleft": [
+            {
+                "type": "literal",
+                "value": 110,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/otop": [
+            {
+                "type": "literal",
+                "value": 50,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/imageWidth": [
+            {
+                "type": "literal",
+                "value": 200,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/parentAuthority": [
+            {
+                "type": "literal",
+                "value": "Sharpe, 1891",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Penguin?oldid=743180396"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.itis.usda.gov/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.teara.govt.nz/EarthSeaAndSky/BirdsOfSeaAndShore/Penguins/en"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.seaworld.org/animal-info/info-books/penguin/index.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://ibc.lynxeds.com/family/penguins-spheniscidae"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.penguinpage.net/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.penguinworld.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://dsc.discovery.com/tv/frozen-planet/penguin-cam/"
+            },
+            {
+                "type": "uri",
+                "value": "http://news.nationalgeographic.com/news/2007/06/070625-giant-penguins.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.nwf.org/News-and-Magazines/National-Wildlife/Birds/Archives/2010/Lessons-in-a-Land-of-Wind-and-Ice.aspx"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.pinguins.info/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.70south.com/resources/antarctic-animals/antarctic-penguins"
+            }
+        ],
+        "http://dbpedia.org/property/location": [
+            {
+                "type": "literal",
+                "value": "right",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Penguins",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/fossilRange": [
+            {
+                "type": "literal",
+                "value": "Paleocene-recent,",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/displayParents": [
+            {
+                "type": "literal",
+                "value": 2,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere, especially in Antarctica. Highly adapted for life in the water, penguins have countershaded dark and white plumage, and their wings have evolved into flippers. Most penguins feed on krill, fish, squid and other forms of sealife caught while swimming underwater. They spend about half of their lives on land and half in the oceans. Although all penguin species are native to the Southern Hemisphere, they are not found only in cold climates, such as Antarctica. In fact, only a few species of penguin live so far south. Several species are found in the temperate zone, and one species, the Gal\u00e1pagos penguin, lives near the equator. The largest living species is the emperor penguin (Aptenodytes forsteri): on average adults are about 1.1 m (3 ft 7 in) tall and weigh 35 kg (77 lb) or more. The smallest penguin species is the little blue penguin (Eudyptula minor), also known as the fairy penguin, which stands around 40 cm (16 in) tall and weighs 1 kg (2.2 lb). Among extant penguins, larger penguins inhabit colder regions, while smaller penguins are generally found in temperate or even tropical climates (see also Bergmann's rule). Some prehistoric species attained enormous sizes, becoming as tall or as heavy as an adult human. These were not restricted to Antarctic regions; on the contrary, subantarctic regions harboured high diversity, and at least one giant penguin occurred in a region not quite 2,000 km south of the equator 35 mya, in a climate decidedly warmer than today.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Pingwiny, bezlotki \u2013 rz\u0105d (Sphenisciformes) oraz rodzina (Spheniscidae) ptak\u00f3w z podgromady ptak\u00f3w nowoczesnych Neornithes.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0438\u043d\u0433\u0432\u0438\u0301\u043d\u043e\u0432\u044b\u0435 \u0438\u043b\u0438 \u043f\u0438\u043d\u0433\u0432\u0438\u0301\u043d\u044b (\u043b\u0430\u0442. Spheniscidae) \u2014 \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u043e \u043d\u0435\u043b\u0435\u0442\u0430\u044e\u0449\u0438\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446, \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0432 \u043e\u0442\u0440\u044f\u0434\u0435 \u043f\u0438\u043d\u0433\u0432\u0438\u043d\u043e\u043e\u0431\u0440\u0430\u0301\u0437\u043d\u044b\u0445 (Sphenisciformes). \u0412 \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0435 18 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0432\u0438\u0434\u043e\u0432. \u0412\u0441\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0438 \u044d\u0442\u043e\u0433\u043e \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u0445\u043e\u0440\u043e\u0448\u043e \u043f\u043b\u0430\u0432\u0430\u044e\u0442 \u0438 \u043d\u044b\u0440\u044f\u044e\u0442.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0628\u0637\u0631\u064a\u0642 (\u0628\u0627\u0644\u0644\u0627\u062a\u064a\u0646\u064a\u0629: Spheniscidae) \u0647\u0648 \u0646\u0648\u0639 \u0645\u0646 \u0627\u0644\u0637\u064a\u0648\u0631 \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u063a\u064a\u0631 \u0627\u0644\u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0637\u064a\u0631\u0627\u0646 \u0627\u0644\u062a\u064a \u062a\u0639\u064a\u0634 \u0641\u064a \u0627\u0644\u0646\u0635\u0641 \u0627\u0644\u062c\u0646\u0648\u0628\u064a \u0644\u0644\u0643\u0631\u0629 \u0627\u0644\u0623\u0631\u0636\u064a\u0629 \u0641\u0642\u0637\u060c \u062e\u0635\u0648\u0635\u0627\u064b \u0641\u064a \u0627\u0644\u0642\u0627\u0631\u0629 \u0627\u0644\u0642\u0637\u0628\u064a\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629. \u0644\u062f\u0649 \u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0642 \u062a\u0643\u064a\u064f\u0651\u0641 \u0639\u0627\u0644\u064d \u0645\u0639 \u0627\u0644\u062d\u064a\u0627\u0629 \u0641\u064a \u0627\u0644\u0645\u0627\u0621\u060c \u0625\u0630 \u0625\u0646 \u0631\u064a\u0634\u0647\u0627 \u0623\u0628\u064a\u0636 \u0648\u0623\u0633\u0648\u062f \u0627\u0644\u0644\u064e\u0651\u0648\u0646 \u064a\u0633\u0627\u0639\u062f\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u062a\u0645\u0648\u064a\u0647 \u0628\u064a\u0646\u0645\u0627 \u062a\u062d\u0648\u064e\u0651\u0644\u062a \u0623\u062c\u0646\u062d\u062a\u0647\u0627 \u0625\u0644\u0649 \u0632\u0639\u0627\u0646\u0641 \u0644\u062a\u0633\u0627\u0639\u062f\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u0633\u0628\u0627\u062d\u0629. \u062a\u062a\u063a\u0630\u0649 \u0645\u064f\u0639\u0638\u0645 \u0623\u0646\u0648\u0627\u0639 \u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0642 \u0639\u0644\u0649 \u0627\u0644\u0643\u0631\u064a\u0644 \u0648\u0627\u0644\u062d\u0628\u0627\u0631 \u0648\u0627\u0644\u0633\u0645\u0643 \u0648\u0623\u0634\u0643\u0627\u0644 \u0627\u0644\u062d\u064a\u0627\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u064e\u0651\u0629 \u0627\u0644\u0623\u062e\u0631\u0649 \u0627\u0644\u062a\u064a \u062a\u0635\u0637\u0627\u062f\u0647\u0627 \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u063a\u0637\u0633 \u062a\u062d\u062a\u064e \u0627\u0644\u0645\u064a\u0627\u0647. \u062a\u0642\u0636\u064a \u0647\u0630\u0647 \u0627\u0644\u0637\u064a\u0648\u0631 \u0646\u0635\u0641\u064e \u062d\u064a\u0627\u062a\u0647\u0627 \u062a\u0642\u0631\u064a\u0628\u0627\u064b \u0639\u0644\u0649 \u0627\u0644\u064a\u0627\u0628\u0633\u0629\u060c \u0628\u064a\u0646\u0645\u0627 \u062a\u0642\u0636\u064a \u0627\u0644\u0646\u0635\u0641 \u0627\u0644\u0622\u062e\u0631 \u062a\u062d\u062a \u0627\u0644\u0645\u0627\u0621. \u0645\u0639 \u0623\u0646\u064e\u0651 \u0648\u062c\u0648\u062f \u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0642 \u0641\u064a \u0627\u0644\u0639\u0627\u0644\u0645 \u0645\u0646\u062d\u0635\u0631\u064c \u0628\u0627\u0644\u0646\u0650\u0651\u0635\u0641 \u0627\u0644\u062c\u0646\u0648\u0628\u064a \u0645\u0646 \u0627\u0644\u0643\u0631\u0629 \u0627\u0644\u0623\u0631\u0636\u064a\u0629\u060c \u0625\u0644\u0627 \u0623\u0646\u064e\u0651 \u0623\u0646\u0648\u0627\u0639\u0627\u064b \u0642\u0644\u064a\u0644\u0629\u064b \u0645\u0646\u0647\u0627 \u0641\u062d\u0633\u0628 \u062a\u0639\u064a\u0634 \u0641\u064a \u0642\u0627\u0631\u0629 \u0623\u0646\u062a\u0627\u0631\u0643\u062a\u064a\u0643\u0627. \u0641\u0641\u064a \u0627\u0644\u0648\u0627\u0642\u0639 \u062a\u0642\u0637\u0646 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0642 \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u0646\u0627\u062e \u0627\u0644\u0645\u0639\u062a\u062f\u0644 \u0639\u0644\u0649 \u0633\u0648\u0627\u062d\u0644 \u0623\u0633\u062a\u0631\u0627\u0644\u064a\u0627 \u0648\u0623\u0641\u0631\u064a\u0642\u064a\u0627 \u0648\u0623\u0645\u0631\u064a\u0643\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629\u060c \u0628\u0644 \u0648\u0625\u0646\u064e\u0651 \u0623\u062d\u062f \u0623\u0646\u0648\u0627\u0639\u0647\u0627 (\u0648\u0647\u0648 \u0628\u0637\u0631\u064a\u0642 \u0627\u0644\u063a\u0627\u0644\u0627\u0628\u0627\u063a\u0648\u0633) \u064a\u0639\u064a\u0634 \u0639\u0644\u0649 \u0645\u0633\u0627\u0641\u0629\u064d \u063a\u064a\u0631 \u0628\u0639\u064a\u062f\u0629 \u0645\u0646 \u062e\u0637 \u0627\u0644\u0627\u0633\u062a\u0648\u0627\u0621. \u0623\u0636\u062e\u0645 \u0646\u0648\u0639\u064d \u0628\u0627\u0642 \u0639\u0644\u0649 \u0642\u064a\u062f \u0627\u0644\u062d\u064a\u0627\u0629 \u0645\u0646 \u0647\u0630\u0647 \u0627\u0644\u0637\u064a\u0648\u0631 \u0647\u0648 \u0627\u0644\u0628\u0637\u0631\u064a\u0642 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a\u060c \u0625\u0630 \u064a\u0628\u0644\u063a \u0637\u0648\u0644 \u0627\u0644\u0637\u064a\u0631 \u0627\u0644\u0628\u0627\u0644\u063a \u0645\u0646\u0647 1.1 \u0645\u062a\u0631 \u0648\u064a\u0632\u0646 35 \u0643\u064a\u0644\u0648\u063a\u0631\u0627\u0645\u0627\u064b \u0623\u0648 \u0623\u0643\u062b\u0631. \u0645\u0646 \u062c\u0647\u0629 \u0623\u062e\u0631\u0649 \u0623\u0635\u063a\u0631 \u0646\u0648\u0639 \u062d\u064a \u0647\u0648 \u0627\u0644\u0628\u0637\u0631\u064a\u0642 \u0627\u0644\u0642\u0632\u0645\u060c \u0627\u0644\u0630\u064a \u0644\u0627 \u064a\u062a\u0639\u062f\u0649 \u0637\u0648\u0644\u0647 40 \u0633\u0646\u062a\u064a\u0645\u062a\u0631\u0627\u064b \u0628\u064a\u0646\u0645\u0627 \u064a\u0632\u0646 \u0646\u062d\u0648 \u0643\u064a\u0644\u0648\u063a\u0631\u0627\u0645 \u0648\u0627\u062d\u062f. \u0628\u0635\u0648\u0631\u0629 \u0639\u0627\u0645\u0629\u060c \u062a\u0645\u064a\u0644 \u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0642 \u0627\u0644\u0623\u0643\u0628\u0631 \u062d\u062c\u0645\u0627\u064b \u0625\u0644\u0649 \u0627\u0644\u0639\u064a\u0634 \u0641\u064a \u0628\u064a\u0626\u0627\u062a \u0623\u0643\u062b\u0631 \u0628\u0631\u0648\u062f\u0629\u060c \u0628\u064a\u0646\u0645\u0627 \u062a\u0642\u0637\u0646 \u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0642 \u0627\u0644\u0635\u064e\u0651\u063a\u064a\u0631\u0629 \u0628\u064a\u0626\u0627\u062a \u0645\u0639\u062a\u062f\u0644\u0629 \u0623\u0648 \u0645\u062f\u0627\u0631\u064a\u0629\u060c \u0641\u064a \u0638\u0627\u0647\u0631\u0629 \u062a\u0633\u0645\u0649 \u0645\u0628\u062f\u0623 \u0628\u064a\u0631\u063a\u0645\u0627\u0646. \u0643\u0627\u0646\u062a \u0628\u0639\u0636 \u0627\u0644\u0623\u0646\u0648\u0627\u0639 \u0642\u0628\u0644 \u0627\u0644\u062a\u0627\u0631\u064a\u062e\u064a\u0629 \u0645\u0646 \u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0642 \u0636\u062e\u0645\u0629\u064b \u062c\u062f\u0627\u064b \u0641\u064a \u0627\u0644\u062d\u062c\u0645\u060c \u0625\u0644\u0649 \u062d\u062f\u0650\u0651 \u0623\u0646\u0647\u0627 \u0643\u0627\u0646\u062a \u062a\u0642\u0627\u0631\u0646 \u0641\u064a \u062d\u062c\u0645\u0647\u0627 \u0648\u0648\u0632\u0646\u0647\u0627 \u0628\u0625\u0646\u0633\u0627\u0646\u064d \u0628\u0627\u0644\u063a.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Los ping\u00fcinos (familia Spheniscidae, orden Sphenisciformes) son un grupo de aves marinas, no voladoras, que se distribuyen casi exclusivamente en el Hemisferio Sur (exceptuando el ping\u00fcino de las islas Gal\u00e1pagos, una especie del g\u00e9nero Spheniscus: Spheniscus mendiculus, end\u00e9mica de las islas Gal\u00e1pagos, Ecuador).",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Sph\u00e9nisciformes, Manchots SphenisciformesFichier:Manchot 01.jpg Manchot \u00e0 jugulaire (Pygoscelis antarcticus) Ordre SphenisciformesSharpe, 1891 Famille SpheniscidaeBonaparte, 1831 Synonymes Liste pour Spheniscidae \n*  Aptenodytidae Sundevall, C.J., 1836 \n*  Dasyramphinae Bonaparte, C.L., 1856 \n*  Eudyptidae Des Murs, O., 1860 \n*  Dypsicleidae Poche, F., 1904 \n*  Eudyptulidae Boetticher, 1943 \n*  Pygoscelidae Boetticher, 1943 \n*  Spheniscinae Simpson, 1946 Les Sph\u00e9nisciformes (Sphenisciformes) sont un ordre d'oiseaux de mer inaptes au vol vivant dans l'h\u00e9misph\u00e8re austral et dont les membres sont appel\u00e9s manchots. Les manchots \u00e0 aigrettes (le genre Eudyptes) sont \u00e9galement nomm\u00e9s gorfous. Les esp\u00e8ces actuelles sont regroup\u00e9s dans la famille des sph\u00e9niscid\u00e9s (Spheniscidae).Ces oiseaux sont souvent appel\u00e9es par confusion \u00ab pingouins \u00bb dans le langage courant, \u00e0 la fois \u00e0 cause de leur ressemblance physique avec l'esp\u00e8ce diparue du Grand Pingouin mais aussi \u00e0 cause du terme \u00e9quivalent dans les langues voisines du fran\u00e7ais qui a d\u00e9riv\u00e9 pour d\u00e9signer ces oiseaux. Les ailes des manchots, devenues inutilisables pour le vol, se sont, par contre, merveilleusement adapt\u00e9es \u00e0 la nage et \u00e0 la plong\u00e9e. Elles sont couvertes d'une couche dense de plumes courtes et raides. Le duvet plumeux \u00e0 la base des plumes pi\u00e8ge l'air chaud, tandis que la pointe huileuse isole de l'eau. Le manchot papou peut atteindre 35 km/h \u00e0 la nage (contre 9 km/h pour le meilleur nageur olympique) et le manchot empereur peut plonger \u00e0 plus de 520 m pour rechercher de la nourriture, soit le record absolu chez tous les oiseaux. Le cri des manchots est appel\u00e9 \u00ab braiement \u00bb ou \u00ab jabotement \u00bb.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "O pinguim (RO 1971: ping\u00fcim) \u00e9 uma ave da fam\u00edlia Spheniscidae, caracter\u00edstica do Hemisf\u00e9rio Sul, em especial na Ant\u00e1rtida e ilhas dos mares austrais, chegado \u00e0 Terra do Fogo, Ilhas Malvinas e \u00c1frica do Sul, entre outros. Apesar da maior diversidade de pinguins encontrar-se na Ant\u00e1rtida e regi\u00f5es polares, h\u00e1 tamb\u00e9m esp\u00e9cies que habitam nos tr\u00f3picos como por exemplo o pinguim-das-gal\u00e1pagos. A morfologia dos pinguins reflete v\u00e1rias adapta\u00e7\u00f5es \u00e0 vida no meio aqu\u00e1tico: o corpo \u00e9 fusiforme; as asas atrofiadas desempenham a fun\u00e7\u00e3o de barbatanas e as penas s\u00e3o impermeabilizadas atrav\u00e9s da secre\u00e7\u00e3o de \u00f3leos. Os pinguins alimentam-se de pequenos peixes, krill e outras formas de vida marinha, sendo por sua vez v\u00edtimas da preda\u00e7\u00e3o de orcas e focas-leopardo. O nome \"pinguim\" vem de uma outra ave, que habitava as regi\u00f5es do \u00c1rtico e que foi extinta pela a\u00e7\u00e3o do homem, o arau-gigante ( Pinguinus impennis). Quando os exploradores europeus descobriram no hemisf\u00e9rio Sul as aves conhecidas hoje como pinguins, eles notaram a apar\u00eancia muito similar ao arau-gigante, ou mesmo se confundindo com os araus, e as batizaram com esse nome, que persiste at\u00e9 a atualidade. Apesar de parecidos, araus e pinguins n\u00e3o t\u00eam nenhum parentesco pr\u00f3ximo. O termo Pinguim \u00e9 origin\u00e1rio do gal\u00eas pen gwyn, o antigo nome popular dos araus-gigantes nas ilhas Brit\u00e2nicas. Os primeiros pinguins apareceram no registo geol\u00f3gico do Eoc\u00e9nico. Os pinguins constituem a fam\u00edlia Spheniscidae e a ordem Sphenisciformes (de acordo com a taxonomia de Sibley-Ahlquist, fariam parte da ordem Ciconiformes). \u00c9 uma ave marinha e nadadora, chegando a nadar com uma velocidade de at\u00e9 45 km/h, passando a maior parte do tempo na \u00e1gua.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Pingu\u00efns of vetganzen zijn een orde van niet-vliegende zeevogels die alleen voorkomen op het zuidelijk halfrond. De pingu\u00efns behoren tot de orde Sphenisciformes, klasse Aves (vogels). Alle moderne pingu\u00efns behoren tot de familie van de Spheniscidae, maar er zijn uitgestorven soorten die buiten deze kroongroep vallen. De pingu\u00efns zijn gemakkelijk te onderscheiden van andere vogels en ze zijn volledig aangepast aan extreme koude en het leven in de zee. Ze hebben bijvoorbeeld een warm verenkleed. Pinqu\u00efns gebruiken hun vleugels om door het water te vliegen net zoals andere vogels door de lucht vliegen. Ze kunnen wel met een snelheid tot 30 km per uur door het water vliegen. De naam \"pingu\u00efn\", die waarschijnlijk komt van het Keltische pen gwyn (witte kop), werd oorspronkelijk gebruikt voor de reuzenalk, de inmiddels uitgestorven tegenhanger (geen nauwe verwant) van de pingu\u00efn op het noordelijk halfrond.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u4f01\u9d5d\uff08\u5b66\u540d\uff1aSpheniscidae\uff09\u662f\u4e00\u7a2e\u4e0d\u6703\u98db\u884c\u7684\u9ce5\u985e\uff0c\u5c6c\u65bc\u4f01\u9d5d\u76ee\u4f01\u9d5d\u79d1\u3002 \u4f01\u9d5d\u4e3b\u8981\u751f\u6d3b\u5728\u5357\u534a\u7403\uff0c\u76ee\u524d\u5df2\u77e5\u5168\u4e16\u754c\u7684\u4f01\u9d5d\u5171\u670917\u7a2e\u621618\u7a2e\uff0c\u6700\u5927\u7684\u4e00\u76f4\u5728\u6fb3\u6d32\u3002\u591a\u6578\u5206\u5e03\u5728\u5357\u6975\u5730\u5340\uff0c\u800c\u5176\u4e2d\u74b0\u4f01\u9d5d\u5c6c\u7684\u6f22\u6ce2\u5fb7\u4f01\u9d5d\u3001\u9ea5\u54f2\u502b\u4f01\u9d5d\u8207\u9ed1\u8173\u4f01\u9d5d\u5206\u5e03\u5728\u7def\u5ea6\u8f03\u4f4e\u7684\u6eab\u5e36\u5730\u5340\uff0c\u81f3\u65bc\u52a0\u62c9\u5e15\u6208\u65af\u4f01\u9d5d\u7684\u5206\u5e03\u5247\u66f4\u63a5\u8fd1\u8d64\u9053\uff1b\u5b8c\u5168\u751f\u6d3b\u5728\u6975\u5730\u7684\u53ea\u6709\u7687\u5e1d\u4f01\u9d5d\u53ca\u963f\u5fb7\u5229\u4f01\u9d5d\u5169\u7a2e\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Gli Sfeniscidi (Spheniscidae Bonaparte, 1831) sono una famiglia di uccelli comunemente noti come pinguini. Sono l'unica famiglia dell'ordine Sphenisciformes. Sono gli uccelli pi\u00f9 acquatici in assoluto. Il loro gruppo si \u00e8 evoluto a partire da uccelli volatori, ma ora nessuna specie di pinguino \u00e8 in grado di volare. Sono animali molto specializzati e sociali, hanno una forma idrodinamica e ali trasformate in pinne che li fanno perfetti nuotatori.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Die Pinguine (Spheniscidae) sind eine Gruppe flugunf\u00e4higer Seev\u00f6gel der S\u00fcdhalbkugel und bilden die einzige Familie in der Ordnung Sphenisciformes. Ihre stammesgeschichtliche Schwestergruppe bilden wahrscheinlich die Seetaucher (Gaviiformes) und R\u00f6hrennasen (Procellariiformes). Pinguine sind leicht von allen anderen V\u00f6geln zu unterscheiden und in herausragender Weise an das Leben im Meer und in den teilweise extremen K\u00e4ltezonen der Erde angepasst.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u30da\u30f3\u30ae\u30f3 (\u82f1\u8a9e: penguin [\u02c8p\u025b\u014bgw\u026an]) \u306f\u3001\u9ce5\u985e\u30da\u30f3\u30ae\u30f3\u76ee\uff08\u5b66\u540d Sphenisciformes\uff09\u306b\u5c5e\u3059\u308b\u7a2e\u306e\u7dcf\u79f0\u3067\u3042\u308b\u3002\u30da\u30f3\u30ae\u30f3\u79d1\uff08\u5b66\u540d Spheniscidae\uff09\u306e\u307f\u304c\u73fe\u751f\u3059\u308b\u3002 \u4e3b\u306b\u5357\u534a\u7403\u306b\u751f\u606f\u3059\u308b\u6d77\u9ce5\u3067\u3042\u308a\u3001\u98db\u3076\u3053\u3068\u304c\u3067\u304d\u306a\u3044\u3002 \u4eca\u3067\u306f\u4f7f\u308f\u308c\u308b\u3053\u3068\u306f\u7a00\u3060\u304c\u3001\u300c\u4eba\u9ce5\uff08\u3058\u3093\u3061\u3087\u3046\uff09\u300d\u300c\u4f01\u9d5d\uff08\u304d\u304c\u3001\u4f01\u306f\u722a\u5148\u7acb\u3064\u306e\u610f\u3001\u9d5d\u306f\u30ac\u30c1\u30e7\u30a6\uff09\u300d\u3068\u3044\u3046\u548c\u540d\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Special:FilePath/South_Shetland-2016-Deception_Island\u2013Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743180396,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 23878,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Group"
+            }
+        ],
+        "http://dbpedia.org/property/authority": [
+            {
+                "type": "literal",
+                "value": "Bonaparte, 1831",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/imageCaption": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chinstrap_penguin"
+            }
+        ],
+        "http://dbpedia.org/property/taxon": [
+            {
+                "type": "literal",
+                "value": "Spheniscidae",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/rangeMap": [
+            {
+                "type": "literal",
+                "value": "Penguin range.png",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sphenisciformes": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Beachmasters": {
+        "http://dbpedia.org/ontology/publisher": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pigloo": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/German_auxiliary_cruiser_Pinguin": {
+        "http://dbpedia.org/property/shipNamesake": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Spheniscidae": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Penguins": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/HMS_Penguin_(1838)": {
+        "http://dbpedia.org/property/shipNamesake": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Campaign_Against_Psychiatric_Abuse": {
+        "http://dbpedia.org/property/publisher": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kappa_Delta_Chi": {
+        "http://dbpedia.org/property/mascot": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Penguin": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\ud83d\udc27": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pengiuns": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Penguin_eggs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Child_of_All_Nations": {
+        "http://dbpedia.org/ontology/publisher": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Playboy_Penguin": {
+        "http://dbpedia.org/ontology/species": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Penquins": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Penguine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Spheniscid\u00e6": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Penguin_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/M_or_F%3F": {
+        "http://dbpedia.org/ontology/publisher": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/A_penguin": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Humboldt_penguin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Erect-crested_penguin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fiordland_penguin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Magellanic_penguin": {
+        "http://dbpedia.org/ontology/order": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/White-flippered_penguin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Waimanu": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chatham_penguin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Icadyptes_salasi": {
+        "http://dbpedia.org/ontology/order": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ],
+        "http://dbpedia.org/ontology/family": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chinstrap_penguin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Snares_penguin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Opus_the_Penguin": {
+        "http://dbpedia.org/ontology/species": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chilly_Willy": {
+        "http://dbpedia.org/ontology/species": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Penguin_Encounter": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_Care_Bear_characters": {
+        "http://dbpedia.org/ontology/species": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Taylor_Rookery": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Macaroni_penguin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Maximum_City": {
+        "http://dbpedia.org/ontology/publisher": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Royal_penguin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Predators'_Ball": {
+        "http://dbpedia.org/ontology/publisher": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Tragedy_of_Today's_Gays": {
+        "http://dbpedia.org/ontology/publisher": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Penguines": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Galapagos_penguin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Inkayacu": {
+        "http://dbpedia.org/ontology/order": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Perudyptes": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ad\u00e9lie_penguin": {
+        "http://dbpedia.org/ontology/order": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ],
+        "http://dbpedia.org/ontology/family": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nils_Olav": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hunter_Island_penguin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Yellow-eyed_penguin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/African_penguin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Anthropornis": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pierre_(penguin)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sphenisiformes": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Speniscidiformes": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Impennes": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Penquin": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Isabelline_penguin": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Theta_Phi_Alpha": {
+        "http://dbpedia.org/property/mascot": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Behavior_patterns_of_adult_penguins": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Spheniscinae": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ptilopteri": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Spheniscine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Penguin"
+            }
+        ]
+    }
+}

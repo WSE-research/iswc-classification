@@ -1,0 +1,28 @@
+{
+    "@text": "What was the name of the famous battle in 1836 in San Antonio?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Battle",
+            "@support": "2369",
+            "@types": "",
+            "@surfaceForm": "battle",
+            "@offset": "32",
+            "@similarityScore": "0.9930652847036613",
+            "@percentageOfSecondRank": "0.006549018570924797"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/San_Antonio",
+            "@support": "15064",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "San Antonio",
+            "@offset": "50",
+            "@similarityScore": "0.9985192398125154",
+            "@percentageOfSecondRank": "0.0013870316096396133"
+        }
+    ]
+}

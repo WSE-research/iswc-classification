@@ -1,0 +1,46 @@
+{
+    "@text": "Was the earthquake magnitude on the moment magnitude scale in the 365 Crete earthquake equal 8.5?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Earthquake",
+            "@support": "14119",
+            "@types": "",
+            "@surfaceForm": "earthquake",
+            "@offset": "8",
+            "@similarityScore": "0.9999940386167394",
+            "@percentageOfSecondRank": "3.5259651551101097E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Moment_magnitude_scale",
+            "@support": "1658",
+            "@types": "",
+            "@surfaceForm": "magnitude",
+            "@offset": "19",
+            "@similarityScore": "0.984510192035379",
+            "@percentageOfSecondRank": "0.010724846321379107"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Moment_magnitude_scale",
+            "@support": "1658",
+            "@types": "",
+            "@surfaceForm": "moment magnitude scale",
+            "@offset": "36",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/365_Crete_earthquake",
+            "@support": "22",
+            "@types": "Wikidata:Q1656682,DUL:Event,Schema:Event,DBpedia:NaturalEvent,DBpedia:Event,DBpedia:Earthquake",
+            "@surfaceForm": "365 Crete earthquake",
+            "@offset": "66",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

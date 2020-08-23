@@ -1,0 +1,520 @@
+{
+    "http://dbpedia.org/resource/Freudenthal_magic_square": {
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Date_magic_squares": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Simple_magic_squares": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Magic_square": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/MusicalWork"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Magisches Quadrat",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Magic square",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Carr\u00e9 magique (math\u00e9matiques)",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Magisch vierkant",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u9b54\u65b9\u9663",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0631\u0628\u0639 \u0633\u062d\u0631\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Cuadrado m\u00e1gico",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u5e7b\u65b9",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Kwadrat magiczny (matematyka)",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Quadrato magico",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u041c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u0432\u0430\u0434\u0440\u0430\u0442",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Quadrado m\u00e1gico",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Un quadrato magico \u00e8 uno schieramento di numeri interi distinti in una tabella quadrata tale che la somma dei numeri presenti in ogni riga, in ogni colonna e in entrambe le diagonali dia sempre lo stesso numero; tale intero \u00e8 denominato la costante di magia o costante magica o somma magica del quadrato. In matematica, una tabella quadrata \u00e8 detta matrice quadrata. Un quadrato magico di ordine contenente tutti gli interi da 1 a \u00e8 detto perfetto o normale. La costante magica di questi quadrati \u00e8 data dalla formula:",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Quadrado M\u00e1gico \u00e9 uma tabela quadrada de n\u00fameros em progress\u00e3o aritm\u00e9tica em que a soma de cada coluna, de cada linha e das duas diagonais s\u00e3o iguais. Veja o exemplo: Sua origem n\u00e3o \u00e9 conhecida, mas h\u00e1 registros de sua exist\u00eancia em \u00e9pocas anteriores \u00e0 nossa era na China e na \u00cdndia. O quadrado de 9 casas (3 x 3) \u00e9 encontrado pela primeira vez num manuscrito \u00e1rabe, no fim do S\u00e9culo VIII, e atribu\u00eddo a Apol\u00f4nio de Tiana (I S\u00e9culo) por Marcellin Berthelot.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Een magisch vierkant of tovervierkant is een vierkant schema waarin getallen zodanig zijn ingevuld dat de kolommen, de rijen en de beide diagonalen alle dezelfde som opleveren. Deze som wordt de magische constante of het karakteristieke getal genoemd. Meestal eist men dat het vierkant de natuurlijke getallen van 1 tot en met n2 bevat. Het symbool n, dat de orde genoemd wordt, is hierin het aantal cellen in \u00e9\u00e9n zijde. Soms geldt die eis niet, maar dan eist men wel dat alle getallen verschillend zijn.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Kwadrat magiczny \u2013 tablica sk\u0142adaj\u0105ca si\u0119 z n wierszy i n kolumn (n>2), w kt\u00f3r\u0105 wpisano n2 nie powtarzaj\u0105cych si\u0119 dodatnich liczb naturalnych w ten spos\u00f3b, \u017ce suma liczb w ka\u017cdym wierszu, w ka\u017cdej kolumnie i w ka\u017cdej przek\u0105tnej jest taka sama (tzw. suma magiczna). Kwadrat, w kt\u00f3rym suma liczb w ka\u017cdym wierszu i ka\u017cdej kolumnie jest taka sama, ale sumy liczb w przek\u0105tnych s\u0105 r\u00f3\u017cne, nazywa si\u0119 p\u00f3\u0142magicznym. Kwadraty magiczne nie maj\u0105 \u017cadnego zastosowania naukowego, ich uk\u0142adanie jest rodzajem rozrywki matematycznej. Kwadrat\u00f3w magicznych jest niesko\u0144czenie wiele.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "In recreational mathematics, a magic square is an arrangement of distinct numbers (i.e., each number is used once), usually integers, in a square grid, where the numbers in each row, and in each column, and the numbers in the main and secondary diagonals, all add up to the same number, called the \"magic constant.\" A magic square has the same number of rows as it has columns, and in conventional math notation, \"n\" stands for the number of rows (and columns) it has. Thus, a magic square always contains n2 numbers, and its size (the number of rows [and columns] it has) is described as being \"of order n.\" A magic square that contains the integers from 1 to n2 is called a normal magic square. (The term \"magic square\" is also sometimes used to refer to any of various types of word squares.)",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "En math\u00e9matiques, un carr\u00e9 magique d\u2019ordre n est compos\u00e9 de n2 entiers strictement positifs, \u00e9crits sous la forme d\u2019un tableau carr\u00e9. Ces nombres sont dispos\u00e9s de sorte que leurs sommes sur chaque rang\u00e9e, sur chaque colonne et sur chaque diagonale principale soient \u00e9gales. On nomme alors constante magique (et parfois densit\u00e9) la valeur de ces sommes. Un carr\u00e9 magique normal est un cas particulier de carr\u00e9 magique, constitu\u00e9 de tous les nombres entiers de 1 \u00e0 n2, o\u00f9 n est l\u2019ordre du carr\u00e9.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0641\u064a \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0627\u0644\u0645\u0633\u0644\u064a\u0629\u060c \u0627\u0644\u0645\u0631\u0628\u0639 \u0627\u0644\u0633\u062d\u0631\u064a \u0647\u064a \u0645\u0635\u0641\u0648\u0641\u0629 \u0645\u0631\u0628\u0639\u0629 \u0630\u0627\u062a \u062d\u064a\u0632 \u060c \u0645\u0643\u0648\u0646\u0629 \u0645\u0646 \u0623\u0639\u062f\u0627\u062f \u0635\u062d\u064a\u062d\u0629\u060c \u0628\u062d\u064a\u062b \u0623\u0646 \u062d\u0627\u0635\u0644 \u062c\u0645\u0639 \u0631\u0642\u0645 \u0641\u064a \u0643\u0644\u0651 \u0645\u0646 \u0627\u0644\u0635\u0641\u0648\u0641 \u0648\u0627\u0644\u0623\u0639\u0645\u062f\u0629 \u0648\u0627\u0644\u0623\u0642\u0637\u0627\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 \u064a\u0623\u062f\u064a \u0644\u0646\u0641\u0633 \u0627\u0644\u062d\u0627\u0635\u0644. \u062a\u0648\u062c\u062f \u0645\u0631\u0628\u0639\u0627\u062a \u0633\u062d\u0631\u064a\u0629 \u0645\u0647\u0645\u0627 \u0643\u0627\u0646 \u0627\u0644\u062d\u064a\u0632 \u060c \u0628\u0625\u0642\u0635\u0627\u0621 (\u0623\u0631\u0628\u0639 \u0623\u0639\u062f\u0627\u062f)\u060c \u0645\u0639 \u0643\u0648\u0646 \u0627\u0644\u062d\u0627\u0644\u0629 \u062a\u0639\u062a\u0628\u0631 \u0623\u0645\u0631\u0627 \u0628\u062f\u064a\u0647\u064a\u0627. \u064a\u0628\u064a\u0646 \u0627\u0644\u0634\u0643\u0644 \u0627\u0644\u062a\u0627\u0644\u064a \u0645\u062b\u0627\u0644\u0627 \u0644\u0645\u0631\u0628\u0639 \u0633\u062d\u0631\u064a \u0645\u0646 \u0645\u0644\u0641:Magicsquareexample.svg \u0644\u0627\u062d\u0638 \u0623\u0646 \u0645\u062c\u0645\u0648\u0639 \u0643\u0644 \u0633\u0637\u0631 \u0648\u0639\u0645\u0648\u062f \u0648\u0642\u0637\u0631 \u0631\u0626\u064a\u0633\u064a \u064a\u0633\u0627\u0648\u064a \u062f\u0627\u0626\u0645\u0627 15. \u064a\u0633\u0645\u0649 \u0647\u0630\u0627 \u0627\u0644\u0645\u062c\u0645\u0648\u0639 \u062b\u0627\u0628\u062a\u0627 \u0633\u062d\u0631\u064a\u0627 \u0648\u0642\u064a\u0645\u062a\u0647 \u0628\u0635\u0641\u0629 \u0639\u0627\u0645\u0629: \u0642\u064a\u0645 \u0627\u0644\u062b\u0648\u0627\u0628\u062a \u0627\u0644\u0633\u062d\u0631\u064a\u0629 \u0644\u0645\u0631\u0628\u0639\u0627\u062a \u0633\u062d\u0631\u064a\u0629 \u0639\u0627\u062f\u064a\u0629 \u0630\u0627\u062a \u062d\u064a\u0632 \u0647\u064a \u0645\u062a\u062a\u0627\u0644\u064a\u0629: (\u0627\u0644\u0628\u0642\u064a\u0629).",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u9b54\u65b9\u9663\uff08\u307e\u307b\u3046\u3058\u3093\u3001\u82f1\uff1aMagic square\uff09\u3068\u306f\u3001\u6b63\u65b9\u5f62\u306e\u65b9\u9663\u306b\u6570\u5b57\u3092\u914d\u7f6e\u3057\u3001\u7e26\u30fb\u6a2a\u30fb\u659c\u3081\u306e\u3044\u305a\u308c\u306e\u5217\u306b\u3064\u3044\u3066\u3082\u3001\u305d\u306e\u5217\u306e\u6570\u5b57\u306e\u5408\u8a08\u304c\u540c\u3058\u306b\u306a\u308b\u3082\u306e\u306e\u3053\u3068\u3067\u3042\u308b\u3002\u7279\u306b1\u304b\u3089\u65b9\u9663\u306e\u30de\u30b9\u306e\u7dcf\u6570\u307e\u3067\u306e\u6570\u5b57\u30921\u3064\u305a\u3064\u904e\u4e0d\u8db3\u306a\u304f\u4f7f\u3063\u305f\u3082\u306e\u3092\u8a00\u3046\u3002\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306a\u3069\u3067\u7528\u3044\u3089\u308c\u308b\u300c\u9b54\u6cd5\u9663\u300d\u3068\u306f\u7121\u95a2\u4fc2\u3067\u3042\u308b\u3002 \u3053\u306e\u3068\u304d\u306e\u4e00\u5217\u306e\u548c\u306f\u3001 \u3068\u8a08\u7b97\u3067\u304d\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u041c\u0430\u0433\u0438\u0301\u0447\u0435\u0441\u043a\u0438\u0439, \u0438\u043b\u0438 \u0432\u043e\u043b\u0448\u0435\u0301\u0431\u043d\u044b\u0439 \u043a\u0432\u0430\u0434\u0440\u0430\u0301\u0442 \u2014 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u043d\u0430\u044f \u0442\u0430\u0431\u043b\u0438\u0446\u0430 , \u0437\u0430\u043f\u043e\u043b\u043d\u0435\u043d\u043d\u0430\u044f \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c\u0438 \u0447\u0438\u0441\u043b\u0430\u043c\u0438 \u0442\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c, \u0447\u0442\u043e \u0441\u0443\u043c\u043c\u0430 \u0447\u0438\u0441\u0435\u043b \u0432 \u043a\u0430\u0436\u0434\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u0435, \u043a\u0430\u0436\u0434\u043e\u043c \u0441\u0442\u043e\u043b\u0431\u0446\u0435 \u0438 \u043d\u0430 \u043e\u0431\u0435\u0438\u0445 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044f\u0445 \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u0430. \u0415\u0441\u043b\u0438 \u0432 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0435 \u0440\u0430\u0432\u043d\u044b \u0441\u0443\u043c\u043c\u044b \u0447\u0438\u0441\u0435\u043b \u0442\u043e\u043b\u044c\u043a\u043e \u0432 \u0441\u0442\u0440\u043e\u043a\u0430\u0445 \u0438 \u0441\u0442\u043e\u043b\u0431\u0446\u0430\u0445, \u0442\u043e \u043e\u043d \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u043e\u043b\u0443\u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u043c. \u041d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u043c \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u0432\u0430\u0434\u0440\u0430\u0442, \u0437\u0430\u043f\u043e\u043b\u043d\u0435\u043d\u043d\u044b\u0439 \u043d\u0430\u0442\u0443\u0440\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0447\u0438\u0441\u043b\u0430\u043c\u0438 \u043e\u0442 \u0434\u043e . \u041c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u0432\u0430\u0434\u0440\u0430\u0442 \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0430\u0441\u0441\u043e\u0446\u0438\u0430\u0442\u0438\u0432\u043d\u044b\u043c \u0438\u043b\u0438 \u0441\u0438\u043c\u043c\u0435\u0442\u0440\u0438\u0447\u043d\u044b\u043c, \u0435\u0441\u043b\u0438 \u0441\u0443\u043c\u043c\u0430 \u043b\u044e\u0431\u044b\u0445 \u0434\u0432\u0443\u0445 \u0447\u0438\u0441\u0435\u043b, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0445 \u0441\u0438\u043c\u043c\u0435\u0442\u0440\u0438\u0447\u043d\u043e \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0446\u0435\u043d\u0442\u0440\u0430 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0430, \u0440\u0430\u0432\u043d\u0430 . \u041d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u044b \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u043f\u043e\u0440\u044f\u0434\u043a\u043e\u0432 , \u0437\u0430 \u0438\u0441\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435\u043c",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u5e7b\u65b9\uff0c\u6709\u65f6\u53c8\u79f0\u9b54\u65b9\uff08\u8be5\u79f0\u547c\u73b0\u4e00\u822c\u6307\u7acb\u65b9\u4f53\u7684\u9b54\u8853\u65b9\u584a\uff09\u6216\u7eb5\u6a2a\u56fe\uff0c\u7531\u4e00\u7ec4\u6392\u653e\u5728\u6b63\u65b9\u5f62\u4e2d\u7684\u6574\u6570\u7ec4\u6210\uff0c\u5176\u6bcf\u884c\u3001\u6bcf\u5217\u4ee5\u53ca\u4e24\u6761\u5bf9\u89d2\u7ebf\u4e0a\u7684\u6570\u4e4b\u548c\u5747\u76f8\u7b49\u3002\u901a\u5e38\u5e7b\u65b9\u7531\u4ece \u5230 \u7684\u8fde\u7eed\u6574\u6570\u7ec4\u6210\uff0c\u5176\u4e2d \u4e3a\u6b63\u65b9\u5f62\u7684\u884c\u6216\u5217\u7684\u6570\u76ee\u3002\u56e0\u6b64 \u9636\u5e7b\u65b9\u6709 \u884c \u5217\uff0c\u5e76\u4e14\u6240\u586b\u5145\u7684\u6570\u4e3a\u4ece \u5230 \u3002 \u5e7b\u65b9\u53ef\u4ee5\u4f7f\u7528 \u9636\u65b9\u9635\u6765\u8868\u793a\uff0c\u65b9\u9635\u7684\u6bcf\u884c\u3001\u6bcf\u5217\u4ee5\u53ca\u4e24\u6761\u5bf9\u89d2\u7ebf\u7684\u548c\u90fd\u7b49\u4e8e\u5e38\u6570 \uff0c\u5982\u679c\u586b\u5145\u6570\u4e3a \uff0c\u90a3\u4e48\u6709",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Ein magisches Quadrat ist eine quadratische Anordnung von Zahlen oder Buchstaben, die bestimmte Forderungen erf\u00fcllt.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Un cuadrado m\u00e1gico es una tabla de grado primario donde se dispone de una serie de n\u00fameros enteros en un cuadrado o matriz de forma tal que la suma de los n\u00fameros por columnas, filas y diagonales principales sea la misma.Usualmente los n\u00fameros empleados para rellenar las casillas son consecutivos, de 1 a n\u00b2, siendo n el n\u00famero de columnas y filas del cuadrado m\u00e1gico.",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Siamese_method"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Quadrato_magico"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4168511-8"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Kwadrat_magiczny_(matematyka)"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Magisches_Quadrat"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Magick\u00fd_\u010dtverec"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q192089"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0dqt5"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Carr\u00e9_magique_(math\u00e9matiques)"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Magisch_vierkant"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q192089"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ub9c8\ubc29\uc9c4"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Cuadrado_m\u00e1gico"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u9b54\u65b9\u9663"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Quadrado_m\u00e1gico"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Magic_symbols"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Matrices"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Chinese_mathematical_discoveries"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Magic_squares"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Unsolved_problems_in_mathematics"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Magicsquareexample.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Magic_square"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Magic_square?oldid=740717847"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.dcs.napier.ac.uk/~benp/summerschool/jdemos/herdy/magic_problem2.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://mathdl.maa.org/convergence/1/?pa=content&sa=viewDocument&nodeId=528&bodyId=784"
+            },
+            {
+                "type": "uri",
+                "value": "http://sites.google.com/site/aliskalligvaen/home-page"
+            },
+            {
+                "type": "uri",
+                "value": "http://cboyer.club.fr/multimagie/English/BensonDickinson.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.nctm.org/publications/article.aspx?id=19305"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.hbmeyer.de/backtrack/mag4en.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://arxiv.org/pdf/math/0408230"
+            },
+            {
+                "type": "uri",
+                "value": "http://www1.gantep.edu.tr/~abiyev/abiyeving.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.doermann.com/square/index.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.MagicSquaresBook.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://mathdl.maa.org/convergence/1/"
+            }
+        ],
+        "http://dbpedia.org/property/urlname": [
+            {
+                "type": "literal",
+                "value": "MagicSquare",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u5e7b\u65b9\uff0c\u6709\u65f6\u53c8\u79f0\u9b54\u65b9\uff08\u8be5\u79f0\u547c\u73b0\u4e00\u822c\u6307\u7acb\u65b9\u4f53\u7684\u9b54\u8853\u65b9\u584a\uff09\u6216\u7eb5\u6a2a\u56fe\uff0c\u7531\u4e00\u7ec4\u6392\u653e\u5728\u6b63\u65b9\u5f62\u4e2d\u7684\u6574\u6570\u7ec4\u6210\uff0c\u5176\u6bcf\u884c\u3001\u6bcf\u5217\u4ee5\u53ca\u4e24\u6761\u5bf9\u89d2\u7ebf\u4e0a\u7684\u6570\u4e4b\u548c\u5747\u76f8\u7b49\u3002\u901a\u5e38\u5e7b\u65b9\u7531\u4ece \u5230 \u7684\u8fde\u7eed\u6574\u6570\u7ec4\u6210\uff0c\u5176\u4e2d \u4e3a\u6b63\u65b9\u5f62\u7684\u884c\u6216\u5217\u7684\u6570\u76ee\u3002\u56e0\u6b64 \u9636\u5e7b\u65b9\u6709 \u884c \u5217\uff0c\u5e76\u4e14\u6240\u586b\u5145\u7684\u6570\u4e3a\u4ece \u5230 \u3002 \u5e7b\u65b9\u53ef\u4ee5\u4f7f\u7528 \u9636\u65b9\u9635\u6765\u8868\u793a\uff0c\u65b9\u9635\u7684\u6bcf\u884c\u3001\u6bcf\u5217\u4ee5\u53ca\u4e24\u6761\u5bf9\u89d2\u7ebf\u7684\u548c\u90fd\u7b49\u4e8e\u5e38\u6570 \uff0c\u5982\u679c\u586b\u5145\u6570\u4e3a \uff0c\u90a3\u4e48\u6709",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Een magisch vierkant of tovervierkant is een vierkant schema waarin getallen zodanig zijn ingevuld dat de kolommen, de rijen en de beide diagonalen alle dezelfde som opleveren. Deze som wordt de magische constante of het karakteristieke getal genoemd. Meestal eist men dat het vierkant de natuurlijke getallen van 1 tot en met n2 bevat. Het symbool n, dat de orde genoemd wordt, is hierin het aantal cellen in \u00e9\u00e9n zijde. Soms geldt die eis niet, maar dan eist men wel dat alle getallen verschillend zijn. Vanaf 2001 heeft men erkend dat dergelijke numerieke vierkanten het beste kunnen worden gezien als een speciaal voorbeeld van een meer algemene structuur die bekendstaat als een geometrisch magisch vierkant. Deze erkenning is van weinig betekenis binnen het gebied van numerieke vierkanten, maar is van kritisch belang in algemene zin, omdat de \"magische\" eigenschappen van geometrische magische vierkanten die van numerieke vierkanten verre overtreffen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0641\u064a \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0627\u0644\u0645\u0633\u0644\u064a\u0629\u060c \u0627\u0644\u0645\u0631\u0628\u0639 \u0627\u0644\u0633\u062d\u0631\u064a \u0647\u064a \u0645\u0635\u0641\u0648\u0641\u0629 \u0645\u0631\u0628\u0639\u0629 \u0630\u0627\u062a \u062d\u064a\u0632 \u060c \u0645\u0643\u0648\u0646\u0629 \u0645\u0646 \u0623\u0639\u062f\u0627\u062f \u0635\u062d\u064a\u062d\u0629\u060c \u0628\u062d\u064a\u062b \u0623\u0646 \u062d\u0627\u0635\u0644 \u062c\u0645\u0639 \u0631\u0642\u0645 \u0641\u064a \u0643\u0644\u0651 \u0645\u0646 \u0627\u0644\u0635\u0641\u0648\u0641 \u0648\u0627\u0644\u0623\u0639\u0645\u062f\u0629 \u0648\u0627\u0644\u0623\u0642\u0637\u0627\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 \u064a\u0623\u062f\u064a \u0644\u0646\u0641\u0633 \u0627\u0644\u062d\u0627\u0635\u0644. \u062a\u0648\u062c\u062f \u0645\u0631\u0628\u0639\u0627\u062a \u0633\u062d\u0631\u064a\u0629 \u0645\u0647\u0645\u0627 \u0643\u0627\u0646 \u0627\u0644\u062d\u064a\u0632 \u060c \u0628\u0625\u0642\u0635\u0627\u0621 (\u0623\u0631\u0628\u0639 \u0623\u0639\u062f\u0627\u062f)\u060c \u0645\u0639 \u0643\u0648\u0646 \u0627\u0644\u062d\u0627\u0644\u0629 \u062a\u0639\u062a\u0628\u0631 \u0623\u0645\u0631\u0627 \u0628\u062f\u064a\u0647\u064a\u0627. \u064a\u0628\u064a\u0646 \u0627\u0644\u0634\u0643\u0644 \u0627\u0644\u062a\u0627\u0644\u064a \u0645\u062b\u0627\u0644\u0627 \u0644\u0645\u0631\u0628\u0639 \u0633\u062d\u0631\u064a \u0645\u0646 \u0645\u0644\u0641:Magicsquareexample.svg \u0644\u0627\u062d\u0638 \u0623\u0646 \u0645\u062c\u0645\u0648\u0639 \u0643\u0644 \u0633\u0637\u0631 \u0648\u0639\u0645\u0648\u062f \u0648\u0642\u0637\u0631 \u0631\u0626\u064a\u0633\u064a \u064a\u0633\u0627\u0648\u064a \u062f\u0627\u0626\u0645\u0627 15. \u064a\u0633\u0645\u0649 \u0647\u0630\u0627 \u0627\u0644\u0645\u062c\u0645\u0648\u0639 \u062b\u0627\u0628\u062a\u0627 \u0633\u062d\u0631\u064a\u0627 \u0648\u0642\u064a\u0645\u062a\u0647 \u0628\u0635\u0641\u0629 \u0639\u0627\u0645\u0629: \u0642\u064a\u0645 \u0627\u0644\u062b\u0648\u0627\u0628\u062a \u0627\u0644\u0633\u062d\u0631\u064a\u0629 \u0644\u0645\u0631\u0628\u0639\u0627\u062a \u0633\u062d\u0631\u064a\u0629 \u0639\u0627\u062f\u064a\u0629 \u0630\u0627\u062a \u062d\u064a\u0632 \u0647\u064a \u0645\u062a\u062a\u0627\u0644\u064a\u0629: (\u0627\u0644\u0628\u0642\u064a\u0629).",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Ein magisches Quadrat ist eine quadratische Anordnung von Zahlen oder Buchstaben, die bestimmte Forderungen erf\u00fcllt.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Un cuadrado m\u00e1gico es una tabla de grado primario donde se dispone de una serie de n\u00fameros enteros en un cuadrado o matriz de forma tal que la suma de los n\u00fameros por columnas, filas y diagonales principales sea la misma.Usualmente los n\u00fameros empleados para rellenar las casillas son consecutivos, de 1 a n\u00b2, siendo n el n\u00famero de columnas y filas del cuadrado m\u00e1gico. Los cuadrados m\u00e1gicos actualmente no tienen ninguna aplicaci\u00f3n t\u00e9cnica conocida que se beneficien de estas caracter\u00edsticas, por lo que sigue recluido al divertimento, curiosidad y al pensamiento matem\u00e1tico. Aparte de esto, en las llamadas ciencias ocultas y m\u00e1s concretamente en la magia tienen un lugar destacado.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Kwadrat magiczny \u2013 tablica sk\u0142adaj\u0105ca si\u0119 z n wierszy i n kolumn (n>2), w kt\u00f3r\u0105 wpisano n2 nie powtarzaj\u0105cych si\u0119 dodatnich liczb naturalnych w ten spos\u00f3b, \u017ce suma liczb w ka\u017cdym wierszu, w ka\u017cdej kolumnie i w ka\u017cdej przek\u0105tnej jest taka sama (tzw. suma magiczna). Kwadrat, w kt\u00f3rym suma liczb w ka\u017cdym wierszu i ka\u017cdej kolumnie jest taka sama, ale sumy liczb w przek\u0105tnych s\u0105 r\u00f3\u017cne, nazywa si\u0119 p\u00f3\u0142magicznym. Kwadraty magiczne nie maj\u0105 \u017cadnego zastosowania naukowego, ich uk\u0142adanie jest rodzajem rozrywki matematycznej. Kwadrat\u00f3w magicznych jest niesko\u0144czenie wiele. Najpopularniejsze s\u0105 kwadraty zbudowane z kolejnych wyraz\u00f3w ci\u0105gu arytmetycznego: 1, 2, ... n\u00b2. Suma magiczna takiego kwadratu wynosi",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Un quadrato magico \u00e8 uno schieramento di numeri interi distinti in una tabella quadrata tale che la somma dei numeri presenti in ogni riga, in ogni colonna e in entrambe le diagonali dia sempre lo stesso numero; tale intero \u00e8 denominato la costante di magia o costante magica o somma magica del quadrato. In matematica, una tabella quadrata \u00e8 detta matrice quadrata. Un quadrato magico di ordine contenente tutti gli interi da 1 a \u00e8 detto perfetto o normale. La costante magica di questi quadrati \u00e8 data dalla formula: I primi 15 componenti di questa successione sono: 1, 5, 15, 34, 65, 111, 175, 260, 369, 505, 671, 870, 1105, 1379, 1695 (successione A006003 dell'OEIS).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Quadrado M\u00e1gico \u00e9 uma tabela quadrada de n\u00fameros em progress\u00e3o aritm\u00e9tica em que a soma de cada coluna, de cada linha e das duas diagonais s\u00e3o iguais. Veja o exemplo: Sua origem n\u00e3o \u00e9 conhecida, mas h\u00e1 registros de sua exist\u00eancia em \u00e9pocas anteriores \u00e0 nossa era na China e na \u00cdndia. O quadrado de 9 casas (3 x 3) \u00e9 encontrado pela primeira vez num manuscrito \u00e1rabe, no fim do S\u00e9culo VIII, e atribu\u00eddo a Apol\u00f4nio de Tiana (I S\u00e9culo) por Marcellin Berthelot. Na Idade M\u00e9dia os quadrados m\u00e1gicos se tornaram muito populares pelo seu uso em Pant\u00e1culos e Talism\u00e3s, onde eram associados a Planetas que atribu\u00edam a eles o poder de atrair prote\u00e7\u00e3o astral para seus detentores.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "En math\u00e9matiques, un carr\u00e9 magique d\u2019ordre n est compos\u00e9 de n2 entiers strictement positifs, \u00e9crits sous la forme d\u2019un tableau carr\u00e9. Ces nombres sont dispos\u00e9s de sorte que leurs sommes sur chaque rang\u00e9e, sur chaque colonne et sur chaque diagonale principale soient \u00e9gales. On nomme alors constante magique (et parfois densit\u00e9) la valeur de ces sommes. Un carr\u00e9 magique normal est un cas particulier de carr\u00e9 magique, constitu\u00e9 de tous les nombres entiers de 1 \u00e0 n2, o\u00f9 n est l\u2019ordre du carr\u00e9.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u041c\u0430\u0433\u0438\u0301\u0447\u0435\u0441\u043a\u0438\u0439, \u0438\u043b\u0438 \u0432\u043e\u043b\u0448\u0435\u0301\u0431\u043d\u044b\u0439 \u043a\u0432\u0430\u0434\u0440\u0430\u0301\u0442 \u2014 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u043d\u0430\u044f \u0442\u0430\u0431\u043b\u0438\u0446\u0430 , \u0437\u0430\u043f\u043e\u043b\u043d\u0435\u043d\u043d\u0430\u044f \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c\u0438 \u0447\u0438\u0441\u043b\u0430\u043c\u0438 \u0442\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c, \u0447\u0442\u043e \u0441\u0443\u043c\u043c\u0430 \u0447\u0438\u0441\u0435\u043b \u0432 \u043a\u0430\u0436\u0434\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u0435, \u043a\u0430\u0436\u0434\u043e\u043c \u0441\u0442\u043e\u043b\u0431\u0446\u0435 \u0438 \u043d\u0430 \u043e\u0431\u0435\u0438\u0445 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044f\u0445 \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u0430. \u0415\u0441\u043b\u0438 \u0432 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0435 \u0440\u0430\u0432\u043d\u044b \u0441\u0443\u043c\u043c\u044b \u0447\u0438\u0441\u0435\u043b \u0442\u043e\u043b\u044c\u043a\u043e \u0432 \u0441\u0442\u0440\u043e\u043a\u0430\u0445 \u0438 \u0441\u0442\u043e\u043b\u0431\u0446\u0430\u0445, \u0442\u043e \u043e\u043d \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u043e\u043b\u0443\u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u043c. \u041d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u043c \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u0432\u0430\u0434\u0440\u0430\u0442, \u0437\u0430\u043f\u043e\u043b\u043d\u0435\u043d\u043d\u044b\u0439 \u043d\u0430\u0442\u0443\u0440\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0447\u0438\u0441\u043b\u0430\u043c\u0438 \u043e\u0442 \u0434\u043e . \u041c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u0432\u0430\u0434\u0440\u0430\u0442 \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0430\u0441\u0441\u043e\u0446\u0438\u0430\u0442\u0438\u0432\u043d\u044b\u043c \u0438\u043b\u0438 \u0441\u0438\u043c\u043c\u0435\u0442\u0440\u0438\u0447\u043d\u044b\u043c, \u0435\u0441\u043b\u0438 \u0441\u0443\u043c\u043c\u0430 \u043b\u044e\u0431\u044b\u0445 \u0434\u0432\u0443\u0445 \u0447\u0438\u0441\u0435\u043b, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0445 \u0441\u0438\u043c\u043c\u0435\u0442\u0440\u0438\u0447\u043d\u043e \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0446\u0435\u043d\u0442\u0440\u0430 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0430, \u0440\u0430\u0432\u043d\u0430 . \u041d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u044b \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u043f\u043e\u0440\u044f\u0434\u043a\u043e\u0432 , \u0437\u0430 \u0438\u0441\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435\u043c , \u0445\u043e\u0442\u044f \u0441\u043b\u0443\u0447\u0430\u0439 \u0442\u0440\u0438\u0432\u0438\u0430\u043b\u0435\u043d \u2014 \u043a\u0432\u0430\u0434\u0440\u0430\u0442 \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0438\u0437 \u043e\u0434\u043d\u043e\u0433\u043e \u0447\u0438\u0441\u043b\u0430. \u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u043d\u0435\u0442\u0440\u0438\u0432\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u043f\u043e\u043a\u0430\u0437\u0430\u043d \u043d\u0438\u0436\u0435, \u043e\u043d \u0438\u043c\u0435\u0435\u0442 \u043f\u043e\u0440\u044f\u0434\u043e\u043a 3. \u0421\u0443\u043c\u043c\u0430 \u0447\u0438\u0441\u0435\u043b \u0432 \u043a\u0430\u0436\u0434\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u0435, \u0441\u0442\u043e\u043b\u0431\u0446\u0435 \u0438 \u043d\u0430 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044f\u0445 \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u043e\u0439, M. \u041c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0430 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u043e\u043b\u0448\u0435\u0431\u043d\u043e\u0433\u043e \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0430 \u0437\u0430\u0432\u0438\u0441\u0438\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0442 n \u0438 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u0444\u043e\u0440\u043c\u0443\u043b\u043e\u0439 \u041f\u0435\u0440\u0432\u044b\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442 \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u043d\u044b \u0432 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u0442\u0430\u0431\u043b\u0438\u0446\u0435 (\u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c A006003 \u0432 OEIS):",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "In recreational mathematics, a magic square is an arrangement of distinct numbers (i.e., each number is used once), usually integers, in a square grid, where the numbers in each row, and in each column, and the numbers in the main and secondary diagonals, all add up to the same number, called the \"magic constant.\" A magic square has the same number of rows as it has columns, and in conventional math notation, \"n\" stands for the number of rows (and columns) it has. Thus, a magic square always contains n2 numbers, and its size (the number of rows [and columns] it has) is described as being \"of order n.\" A magic square that contains the integers from 1 to n2 is called a normal magic square. (The term \"magic square\" is also sometimes used to refer to any of various types of word squares.) Normal magic squares of all sizes except 2\u00d72 (that is, where n = 2) can be constructed. The 1\u00d71 magic square, with only one cell containing the number 1, is trivial. The smallest (and unique up to rotation and reflection) non-trivial case, 3\u00d73, is shown below. File:Magicsquareexample.svg Any magic square can be rotated and reflected to produce 8 trivially distinct squares. In magic square theory, all of these are generally deemed equivalent and the eight such squares are said to make up a single equivalence class. The constant that is the sum of every row, column and diagonal is called the magic constant or magic sum, M. Every normal magic square has a constant dependent on n, calculated by the formula M = [n(n2 + 1)] / 2. For normal magic squares of order n = 3, 4, 5, 6, 7, and 8, the magic constants are, respectively: 15, 34, 65, 111, 175, and 260 (sequence A006003 in the OEIS). Magic squares have a long history, dating back to 650 BC in China. At various times they have acquired magical or mythical significance, and have appeared as symbols in works of art. In modern times they have been generalized a number of ways, including using extra or different constraints, multiplying instead of adding cells, using alternate shapes or more than two dimensions, and replacing numbers with shapes and addition with geometric operations.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u9b54\u65b9\u9663\uff08\u307e\u307b\u3046\u3058\u3093\u3001\u82f1\uff1aMagic square\uff09\u3068\u306f\u3001\u6b63\u65b9\u5f62\u306e\u65b9\u9663\u306b\u6570\u5b57\u3092\u914d\u7f6e\u3057\u3001\u7e26\u30fb\u6a2a\u30fb\u659c\u3081\u306e\u3044\u305a\u308c\u306e\u5217\u306b\u3064\u3044\u3066\u3082\u3001\u305d\u306e\u5217\u306e\u6570\u5b57\u306e\u5408\u8a08\u304c\u540c\u3058\u306b\u306a\u308b\u3082\u306e\u306e\u3053\u3068\u3067\u3042\u308b\u3002\u7279\u306b1\u304b\u3089\u65b9\u9663\u306e\u30de\u30b9\u306e\u7dcf\u6570\u307e\u3067\u306e\u6570\u5b57\u30921\u3064\u305a\u3064\u904e\u4e0d\u8db3\u306a\u304f\u4f7f\u3063\u305f\u3082\u306e\u3092\u8a00\u3046\u3002\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306a\u3069\u3067\u7528\u3044\u3089\u308c\u308b\u300c\u9b54\u6cd5\u9663\u300d\u3068\u306f\u7121\u95a2\u4fc2\u3067\u3042\u308b\u3002 \u3053\u306e\u3068\u304d\u306e\u4e00\u5217\u306e\u548c\u306f\u3001 \u3068\u8a08\u7b97\u3067\u304d\u308b\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Magicsquareexample.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 740717847,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 52202,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Arrangement"
+            }
+        ],
+        "http://dbpedia.org/property/title": [
+            {
+                "type": "literal",
+                "value": "Magic Square",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/valign": [
+            {
+                "type": "literal",
+                "value": "bottom",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/gap": [
+            {
+                "type": "literal",
+                "value": 1,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kamea": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Magic_square": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Numbers,_planetary": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Magic_Squares": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Magic_Square": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kathleen_Ollerenshaw": {
+        "http://dbpedia.org/ontology/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Magic_squares": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wafq": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Arithmetic_Progression_in_Magic_square": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Simple_magic_square": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Date_magic_square": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Magic_square"
+            }
+        ]
+    }
+}

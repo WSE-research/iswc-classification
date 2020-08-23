@@ -1,0 +1,28 @@
+{
+    "@text": "Is it true that the upper flammable limit of acetone is greater than 15.36?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Flammability_limit",
+            "@support": "95",
+            "@types": "",
+            "@surfaceForm": "upper flammable limit",
+            "@offset": "20",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Acetone",
+            "@support": "1213",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "acetone",
+            "@offset": "45",
+            "@similarityScore": "0.9999999986035562",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

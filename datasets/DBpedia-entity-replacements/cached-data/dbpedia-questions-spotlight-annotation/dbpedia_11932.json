@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the ESPN X Games athlete ID of Nyjah Huston?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/ESPN",
+            "@support": "21761",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q15265344,DUL:SocialPerson,DUL:Agent,Schema:TelevisionStation,Schema:Organization,DBpedia:TelevisionStation,DBpedia:Organisation,DBpedia:Broadcaster,DBpedia:Agent",
+            "@surfaceForm": "ESPN",
+            "@offset": "13",
+            "@similarityScore": "0.9988320887061383",
+            "@percentageOfSecondRank": "5.717054456669946E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/X_Games",
+            "@support": "1399",
+            "@types": "Wikidata:Q623109,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:SportsLeague,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "X Games",
+            "@offset": "18",
+            "@similarityScore": "0.9999999881829923",
+            "@percentageOfSecondRank": "1.0586827731133543E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Nyjah_Huston",
+            "@support": "58",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Nyjah Huston",
+            "@offset": "40",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

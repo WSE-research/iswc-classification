@@ -1,0 +1,28 @@
+{
+    "@text": "Did {Lemmy} used {instrument} as {harmonica}?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Lemmy",
+            "@support": "1115",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Lemmy",
+            "@offset": "5",
+            "@similarityScore": "0.9999999019131186",
+            "@percentageOfSecondRank": "8.96397431739351E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Harmonica",
+            "@support": "5963",
+            "@types": "",
+            "@surfaceForm": "harmonica",
+            "@offset": "34",
+            "@similarityScore": "0.9999570735177271",
+            "@percentageOfSecondRank": "4.225077916870409E-5"
+        }
+    ]
+}

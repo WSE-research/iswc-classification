@@ -1,0 +1,28 @@
+{
+    "@text": "What is the chemical compound of erythromycin when interacting with a significant drug?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Chemical_compound",
+            "@support": "3471",
+            "@types": "",
+            "@surfaceForm": "chemical compound",
+            "@offset": "12",
+            "@similarityScore": "0.9997334058076252",
+            "@percentageOfSecondRank": "2.666652829341297E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Erythromycin",
+            "@support": "421",
+            "@types": "Wikidata:Q8386,DUL:ChemicalObject,DBpedia:Drug,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "erythromycin",
+            "@offset": "33",
+            "@similarityScore": "0.9999999996918376",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

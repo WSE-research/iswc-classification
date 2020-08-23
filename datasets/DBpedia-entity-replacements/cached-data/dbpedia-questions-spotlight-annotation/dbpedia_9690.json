@@ -1,0 +1,28 @@
+{
+    "@text": "Are Kim and Idina given names of Idina Menzel?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Kim_Kardashian",
+            "@support": "729",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Kim",
+            "@offset": "4",
+            "@similarityScore": "0.593114989263231",
+            "@percentageOfSecondRank": "0.3112577390242678"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Idina_Menzel",
+            "@support": "483",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Idina Menzel",
+            "@offset": "33",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Who is the biblical figure that is the patron saint of Rome?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Bible",
+            "@support": "31456",
+            "@types": "",
+            "@surfaceForm": "biblical figure",
+            "@offset": "11",
+            "@similarityScore": "0.9850176202948103",
+            "@percentageOfSecondRank": "0.0080338615167373"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Patron_saint",
+            "@support": "3170",
+            "@types": "",
+            "@surfaceForm": "patron saint",
+            "@offset": "39",
+            "@similarityScore": "0.9999367727157864",
+            "@percentageOfSecondRank": "5.3272347724607674E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rome",
+            "@support": "63122",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Rome",
+            "@offset": "55",
+            "@similarityScore": "0.9954803314455264",
+            "@percentageOfSecondRank": "0.00356922146621664"
+        }
+    ]
+}

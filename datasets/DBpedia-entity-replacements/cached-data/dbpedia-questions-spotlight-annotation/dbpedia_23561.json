@@ -1,0 +1,28 @@
+{
+    "@text": "In which city are the headquarters of the United Nations?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "9",
+            "@similarityScore": "0.8498857050617892",
+            "@percentageOfSecondRank": "0.1053107201388759"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_Nations",
+            "@support": "56752",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United Nations",
+            "@offset": "42",
+            "@similarityScore": "0.9993897755930266",
+            "@percentageOfSecondRank": "5.688494834982281E-4"
+        }
+    ]
+}

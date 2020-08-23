@@ -1,0 +1,37 @@
+{
+    "@text": "When was Len Brown's last year as the mayor of Auckland?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Len_Brown",
+            "@support": "91",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Len Brown",
+            "@offset": "9",
+            "@similarityScore": "0.9999999998580478",
+            "@percentageOfSecondRank": "1.4194861572912623E-10"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mayor",
+            "@support": "19123",
+            "@types": "",
+            "@surfaceForm": "mayor",
+            "@offset": "38",
+            "@similarityScore": "0.9988654092987564",
+            "@percentageOfSecondRank": "3.8121562304708605E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Auckland",
+            "@support": "24419",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Auckland",
+            "@offset": "47",
+            "@similarityScore": "0.9534489615897018",
+            "@percentageOfSecondRank": "0.04356473594177312"
+        }
+    ]
+}

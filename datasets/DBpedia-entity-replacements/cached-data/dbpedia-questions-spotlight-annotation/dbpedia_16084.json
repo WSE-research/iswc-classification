@@ -1,0 +1,37 @@
+{
+    "@text": "What is the FIPS 6-4 code in the city of Richmond?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Federal_Information_Processing_Standards",
+            "@support": "596",
+            "@types": "",
+            "@surfaceForm": "FIPS",
+            "@offset": "12",
+            "@similarityScore": "0.998892097456381",
+            "@percentageOfSecondRank": "0.0010920818724193438"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "33",
+            "@similarityScore": "0.866505980826587",
+            "@percentageOfSecondRank": "0.08240870506092897"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Richmond_Football_Club",
+            "@support": "3956",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:AustralianFootballTeam,DBpedia:Agent",
+            "@surfaceForm": "Richmond",
+            "@offset": "41",
+            "@similarityScore": "0.9272828172134279",
+            "@percentageOfSecondRank": "0.03336369485527349"
+        }
+    ]
+}

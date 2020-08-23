@@ -1,0 +1,28 @@
+{
+    "@text": "In which city of New York was George Burns born?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "9",
+            "@similarityScore": "0.8585380176601014",
+            "@percentageOfSecondRank": "0.09229783540885272"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/George_Burns",
+            "@support": "683",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "George Burns",
+            "@offset": "30",
+            "@similarityScore": "0.9999935953413975",
+            "@percentageOfSecondRank": "3.0008991645623184E-6"
+        }
+    ]
+}

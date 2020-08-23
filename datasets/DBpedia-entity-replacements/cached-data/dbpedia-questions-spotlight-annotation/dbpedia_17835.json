@@ -1,0 +1,46 @@
+{
+    "@text": "Did Robert Mueller hold a position of Attorney at foreign law and United States Attorney for the Northern District of California?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Robert_Mueller",
+            "@support": "319",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Robert Mueller",
+            "@offset": "4",
+            "@similarityScore": "0.9999999999999147",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States_Attorney",
+            "@support": "3491",
+            "@types": "",
+            "@surfaceForm": "United States Attorney",
+            "@offset": "66",
+            "@similarityScore": "0.9999981542930507",
+            "@percentageOfSecondRank": "1.0737548641028338E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Northern_California",
+            "@support": "2063",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Northern",
+            "@offset": "97",
+            "@similarityScore": "0.7580425636787161",
+            "@percentageOfSecondRank": "0.09228472565870927"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/California",
+            "@support": "185510",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "California",
+            "@offset": "118",
+            "@similarityScore": "0.9999828076210213",
+            "@percentageOfSecondRank": "9.518177241773348E-6"
+        }
+    ]
+}

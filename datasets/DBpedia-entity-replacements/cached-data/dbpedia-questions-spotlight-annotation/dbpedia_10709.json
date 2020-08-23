@@ -1,0 +1,37 @@
+{
+    "@text": "\"Who is {born in} of {George Santayana} where the {partner city} is in {San Juan}?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/George_Santayana",
+            "@support": "413",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q4964182,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Philosopher,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "George Santayana",
+            "@offset": "22",
+            "@similarityScore": "0.9999999999975842",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "59",
+            "@similarityScore": "0.9031156447420295",
+            "@percentageOfSecondRank": "0.04779549387877074"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/San_Juan,_Puerto_Rico",
+            "@support": "6285",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "San Juan",
+            "@offset": "72",
+            "@similarityScore": "0.9724688037072001",
+            "@percentageOfSecondRank": "0.012630947407257235"
+        }
+    ]
+}

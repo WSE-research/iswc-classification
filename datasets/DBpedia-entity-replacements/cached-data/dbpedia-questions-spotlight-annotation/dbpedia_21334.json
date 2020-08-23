@@ -1,0 +1,37 @@
+{
+    "@text": "Which automobile platform provider of Chiva bus is also the parent company of the Ford Falcon Cobra ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Car_platform",
+            "@support": "750",
+            "@types": "",
+            "@surfaceForm": "automobile platform",
+            "@offset": "6",
+            "@similarityScore": "0.9999999999999432",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chiva_bus",
+            "@support": "8",
+            "@types": "DUL:DesignedArtifact,Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Automobile",
+            "@surfaceForm": "Chiva bus",
+            "@offset": "38",
+            "@similarityScore": "0.9999999999995453",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ford_Falcon_Cobra",
+            "@support": "17",
+            "@types": "DUL:DesignedArtifact,Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Automobile",
+            "@surfaceForm": "Ford Falcon Cobra",
+            "@offset": "82",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

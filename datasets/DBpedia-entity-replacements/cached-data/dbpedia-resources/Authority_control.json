@@ -1,0 +1,369 @@
+{
+    "http://dbpedia.org/resource/Authority_file": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Authority_control"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Authority_control": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Authority_control"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Authority_control": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Election"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Controle de autoridade",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Control de autoridades",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u041d\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Kontrola autorytatywna",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Authority control",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u6b0a\u5a01\u63a7\u5236",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Autorit\u00e9 (sciences de l'information)",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Normdatei",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0636\u0628\u0637 \u0627\u0633\u062a\u0646\u0627\u062f\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Controllo di autorit\u00e0",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u5178\u62e0\u7ba1\u7406",
+                "lang": "ja"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Kontrola autorytatywna \u2013 okre\u015blenie procedur zapewniaj\u0105cych utrzymanie w spos\u00f3b konsekwentny hase\u0142 (nazw, ujednoliconych tytu\u0142\u00f3w, tytu\u0142\u00f3w serii i hase\u0142 przedmiotowych) w katalogach bibliotecznych przez zastosowanie wykazu autorytatywnego zwanego kartotek\u0105 wzorcow\u0105.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Controle de autoridade, controle de autoria (portugu\u00eas brasileiro) ou controlo de autoria (portugu\u00eas europeu) na biblioteconomia e na ci\u00eancia da informa\u00e7\u00e3o \u00e9 a pr\u00e1tica de criar e manter cabe\u00e7alhos (tamb\u00e9m chamados de pontos de acesso) para materiais bibliogr\u00e1ficos em um cat\u00e1logo de biblioteca.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u6b0a\u5a01\u63a7\u5236\u6216\u89c4\u8303\u63a7\u5236\uff0c\u662f\u56fe\u4e66\u9986\u4fe1\u606f\u5b66\u4e2d\u4e00\u4e2a\u6574\u7406\u5716\u66f8\u9928\u76ee\u9304\u548c\u76ee\u5f55\u4fe1\u606f\u7684\u65b9\u5f0f\uff0c\u4f7f\u540c\u4e00\u4e3b\u9898\u4f7f\u7528\u76f8\u540c\u3001\u552f\u4e00\u7684\u6807\u9898\u3002\u8fd9\u4e9b\u6807\u9898\u8d2f\u5f7b\u6574\u4e2a\u76ee\u5f55\u5e93\u5e76\u4e14\u80fd\u4e0e\u5176\u4ed6\u4ea4\u53c9\u5f15\u7528\u7684\u6570\u636e\u5e93\u534f\u540c\u5de5\u4f5c\u3002\u6bcf\u4e2a\u6807\u9898\u7b80\u660e\u627c\u8981\u5730\u5176\u5e94\u7528\u8303\u56f4\u548c\u7528\u6cd5\uff0c\u6b64\u7ec4\u7ec7\u5f62\u5f0f\u65b9\u4fbf\u4e86\u56fe\u4e66\u9986\u5de5\u4f5c\u4eba\u5458\u800c\u4e14\u5bf9\u7814\u7a76\u8005\u5f88\u53cb\u597d\u3002 \u5206\u914d\u7ed9\u540c\u4e00\u4e3b\u9898\u5982\u4f5c\u8005\u3001\u4e66\u7c4d\u3001\u7cfb\u5217\u56fe\u4e66\u6216\u5408\u8457\u56fe\u4e66\u4e00\u4e2a\u72ec\u7279\u552f\u4e00\u7684\u6807\u9898\uff0c\u5728\u4e0e\u6b64\u76f8\u5173\u7684\u5f15\u7528\u4e2d\u90fd\u53ea\u4f7f\u7528\u6b64\u6807\u9898\uff0c\u5c31\u7b97\u4f5c\u8005\u62e5\u6709\u5176\u4ed6\u7b46\u540d\u6216\u5316\u540d\u3002\u4f8b\u5982\uff0c\u4f5c\u5bb6\u6797\u826f\u7684\u7b46\u540d\u70ba\u5b50\u654f\uff0c\u53c8\u88ab\u7a31\u70ba\u5c0f\u592a\u967d\uff0c\u8a72\u9928\u5c31\u53ef\u8a02\u5b9a\u4e00\u81f4\u7684\u984c\u540d\uff0c\u7576\u8b80\u8005\u67e5\u6aa2\u4f5c\u8005\u6797\u826f\u6642\uff0c\u5c31\u53ef\u6aa2\u7d22\u5230\u6240\u6709\u6797\u826f\u7684\u4f5c\u54c1\u3002\u4f5c\u8005\u8bb0\u5f55\u53ef\u4ee5\u5408\u5e76\u5230\u4e00\u4e2a\u6570\u636e\u5e93\u4e2d\u6210\u4e3a\u4e00\u4e2a\u4f5c\u8005\u6587\u4ef6\uff0c\u7ef4\u62a4\u66f4\u65b0\u8fd9\u4e9b\u6587\u4ef6\u4ee5\u53ca\u5176\u95f4\u7684\u201c\u903b\u8f91\u5173\u7cfb\u201d\u4e5f\u662f\u56fe\u4e66\u9986\u5458\u53ca\u4fe1\u606f\u7f16\u5f55\u4eba\u5458\u7684\u5de5\u4f5c\u3002\u56e0\u6b64\uff0c\u89c4\u8303\u63a7\u5236\u662f\u53d7\u63a7\u8bcd\u8868\u548c\u76ee\u5f55\u63a7\u5236\u7684\u4e00\u4e2a\u4f8b\u5b50\u3002 \u867d\u7136\u4ece\u7406\u8bba\u4e0a\u6765\u8bb2\uff0c\u4efb\u4f55\u4e00\u6761\u4fe1\u606f\u90fd\u53ef\u8fdb\u884c\u89c4\u8303\u63a7\u5236\uff0c\u5982\u4e2a\u4eba\u6216\u4f01\u4e1a\u7684\u540d\u79f0\u3001\u7edf\u4e00\u6807\u9898\u3001\u7cfb\u5217\u548c\u4e3b\u9898\uff0c\u56fe\u4e66\u9986\u7f16\u76ee\u901a\u5e38\u4fa7\u91cd\u4e8e\u4f5c\u8005\u59d3\u540d\u548c\u4e66\u540d\u3002\u867d\u7136\u5b83\u4eec\u901a\u5e38\u5355\u72ec\u8003\u8651\uff0c\u4e0d\u8fc7\u7f8e\u56fd\u56fd\u4f1a\u56fe\u4e66\u9986\u7684\u4e3b\u9898\u8bcd\u6240\u8d77\u5230\u7684\u4f5c\u7528\u548c\u89c4\u8303\u63a7\u5236\u7c7b\u4f3c\u3002\u968f\u7740\u65f6\u95f4\u7684\u63a8\u79fb\u548c\u4fe1\u606f\u7684\u53d8\u5316\u4fc3\u4f7f\u8fd9\u4e9b\u4fe1\u606f\u91cd\u7ec4\u7684\u8981\u6c42\u4f1a\u8d8a\u6765\u8d8a\u660e\u663e\u3002\u6839\u636e\u4e00\u4e2a\u89c2\u70b9\uff0c\u89c4\u8303\u63a7\u5236\u7684\u5b97\u65e8\u5e76\u4e0d\u5728\u4e8e\u521b\u5efa\u4e00\u4e2a\u5929\u8863\u65e0\u7f1d\u7684\u7cfb\u7edf\uff0c\u800c\u5728\u4e8e\u5728\u5e2e\u52a9\u7528\u6237\u5bfb\u627e\u4fe1\u606f\u7684\u524d\u63d0\u4e0b\u4e0d\u65ad\u52aa\u529b\u9002\u5e94\u53d8\u5316\u63d0\u4f9b\u66f4\u4e3a\u201c\u7ed3\u6784\u548c\u79e9\u5e8f\u5316\u201d\u7684\u5185\u5bb9\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u56f3\u66f8\u9928\u60c5\u5831\u5b66\u3084\u8cc7\u6599\u7d44\u7e54\u8ad6\u306b\u304a\u3044\u3066\u5178\u62e0\u7ba1\u7406\uff08\u3066\u3093\u304d\u3087\u304b\u3093\u308a\uff09\u3082\u3057\u304f\u306f\u5178\u62e0\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\uff08\u82f1\u8a9e: authority control\uff09\u3068\u306f\u3001\u66f8\u8a8c\u60c5\u5831\u306b\u542b\u307e\u308c\u308b\u5404\u7a2e\u306e\u4e3b\u984c\uff08\u8457\u8005\u30fb\u4ef6\u540d\u306a\u3069\uff09\u3084\u305d\u306e\u4ed6\u306e\u6982\u5ff5\u306b\u3064\u3044\u3066\u3001\u4e00\u8cab\u3057\u305f\u898b\u51fa\u3057\u30fb\u8b58\u5225\u5b50\u3092\u4ed8\u4e0e\u3057\u3001\u9069\u5207\u306a\u76f8\u4e92\u53c2\u7167\u3092\u6307\u793a\u3057\u305f\u60c5\u5831\uff08\u5178\u62e0\u30d5\u30a1\u30a4\u30eb\uff09\u3092\u7dad\u6301\u7ba1\u7406\u3059\u308b\u884c\u70ba\u304a\u3088\u3073\u305d\u306e\u65b9\u6cd5\u8ad6\u306e\u3053\u3068\u3002\u56f3\u66f8\u76ee\u9332\u306e\u4f5c\u6210\u3068\u63d0\u4f9b\u306b\u3064\u3044\u3066\u306e\u4ed5\u7d44\u307f\u3065\u304f\u308a\u3067\u3042\u308b\u66f8\u8a8c\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3068\u6df1\u304f\u7d50\u3073\u3064\u3044\u305f\u6982\u5ff5\u3067\u3042\u308b\u304c\u3001\u69cb\u9020\u5316\u3055\u308c\u305f\u77e5\u8b58\u30d9\u30fc\u30b9\u3068\u3057\u3066\u56f3\u66f8\u9928\u5916\u306e\u9818\u57df\u3067\u5fdc\u7528\u3055\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "In library science, authority control is a process that organizes bibliographic information, for example in library catalogs by using a single, distinct spelling of a name (heading) or a numeric identifier for each topic. The word authority in authority control derives from the idea that the names of people, places, things, and concepts are authorized, i.e., they are established in one particular form. These one-of-a-kind headings or identifiers are applied consistently throughout catalogs which make use of the respective authority file, and are applied for other methods of organizing data such as linkages and cross references. Each controlled entry is described in an authority record in terms of its scope and usage, and this organization helps the library staff maintain the catalog and ma",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "En science de l'information, une autorit\u00e9 (ou notice d'autorit\u00e9 ou forme d'autorit\u00e9) sert \u00e0 identifier sans ambigu\u00eft\u00e9 des personnes, des choses ou des concepts. La forme retenue fait autorit\u00e9, d'o\u00f9 son nom, calqu\u00e9 par ailleurs sur l'expression anglaise d'origine, \u00ab authority control \u00bb.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u041d\u043e\u0440\u043c\u0430\u0442\u0438\u0301\u0432\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0440\u043e\u0301\u043b\u044c (\u0430\u043d\u0433\u043b. Authority control) \u0432 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u0447\u043d\u043e\u043c \u0434\u0435\u043b\u0435 \u2014 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u0447\u043d\u044b\u0445 \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u043e\u0432 \u0438 \u0431\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043f\u0443\u0442\u0451\u043c \u043f\u0440\u0438\u0441\u0432\u043e\u0435\u043d\u0438\u044f \u043a\u0430\u0436\u0434\u043e\u0439 \u0442\u0435\u043c\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u0433\u043e \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f. \u0422\u0430\u043a\u0438\u0435 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0433\u043e\u043b\u043e\u0432\u043a\u0438 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u0432 \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0435 \u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442 \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u043c\u0438 \u0434\u0430\u043d\u043d\u044b\u043c\u0438, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043f\u0435\u0440\u0435\u043a\u0440\u0451\u0441\u0442\u043d\u044b\u043c\u0438 \u0441\u0441\u044b\u043b\u043a\u0430\u043c\u0438. \u041a\u0430\u0436\u0434\u044b\u0439 \u0437\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0438\u043c\u0435\u0435\u0442 \u043a\u0440\u0430\u0442\u043a\u043e\u0435 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043f\u0440\u0435\u0434\u0435\u043b\u043e\u0432 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u043c\u043e\u0441\u0442\u0438 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f, \u0442\u0430\u043a\u0430\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0443 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u0432 \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u0438 \u0443\u043f\u0440\u043e\u0449\u0430\u0435\u0442 \u0440\u0430\u0431\u043e\u0442\u0443 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044f\u043c.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "En biblioteconom\u00eda y en ciencia de la informaci\u00f3n, se llama control de autoridades a la pr\u00e1ctica de instaurar y mantener el control de los materiales bibliogr\u00e1ficos del cat\u00e1logo de una biblioteca. El control de autor\u00eda cumple dos funciones importantes: primero, que los catalogadores puedan distinguir entre nombres semejantes o id\u00e9nticos; segundo, que puedan disponer de materiales que l\u00f3gicamente est\u00e1n reunidos, aunque se presentan de forma diferente.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0636\u0628\u0637 \u0627\u0644\u0627\u0633\u062a\u0646\u0627\u062f\u064a \u0639\u0645\u0644\u064a\u0629 \u0644\u062a\u0646\u0633\u064a\u0642 \u0648\u062a\u0631\u062a\u064a\u0628 \u0627\u0644\u0641\u0647\u0627\u0631\u0633 \u0627\u0644\u0645\u0643\u062a\u0628\u064a\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Eine Normdatei ist ein Verzeichnis von normierten Begriffen zur Verwendung als Deskriptor in der Dokumentation. Eine Normdatei ist damit eine Form eines kontrollierten Vokabulars, in dem festgelegt wird, welche Ansetzung bei der Erschlie\u00dfung zu verwenden ist. Im Englischen werden Normdateien als \u201eauthority files\u201c bezeichnet. Als Vorform kann die freie Vergabe von Kategorien, Schlagw\u00f6rtern oder Tags gelten, die sich aber an gewisse Regeln h\u00e4lt, wie die Festlegung auf Singular oder Plural, die bevorzugte Nutzung von Komposita etc.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "In ambito biblioteconomico e documentalistico, con controllo di autorit\u00e0 si indica l'attivit\u00e0 volta a organizzare il catalogo utilizzando un singolo termine per ogni entit\u00e0 (autore, bibliografia, ecc.). Attraverso il rinvio da forme varianti del nome a questa unica forma del nome si consente l'accesso a tutte le opere di un autore a prescindere dal fatto che in una specifica opera egli sia nominato con forma diversa: \u00e8 il caso, ad esempio, di Carlo Lorenzini, vero nome di Carlo Collodi. Tale controllo viene effettuato anche per i titoli con rinvii da forme di titolo varianti, traduzioni ecc.",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc804\uac70_\ud1b5\uc81c"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Normdatei"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039a\u03b1\u03c4\u03ac\u03bb\u03bf\u03b3\u03bf\u03c2_\u03ba\u03b1\u03b8\u03b9\u03b5\u03c1\u03c9\u03bc\u03ad\u03bd\u03c9\u03bd_\u03cc\u03c1\u03c9\u03bd"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Kontrola_autorytatywna"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4239774-1"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q36524"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Pengawasan_otoritas"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.04z_w1"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Control_de_autoridades"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Autoritateen_kontrol"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Authority_control"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Controllo_di_autorit\u00e0"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Controle_de_autoridade"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Autorit\u00e9_(sciences_de_l'information)"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q36524"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Autorita_(knihovnictv\u00ed)"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u5178\u62e0\u7ba1\u7406"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Metadata"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Library_cataloging_and_classification"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Authority_control"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Authority_control?oldid=725732513"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Controle de autoridade, controle de autoria (portugu\u00eas brasileiro) ou controlo de autoria (portugu\u00eas europeu) na biblioteconomia e na ci\u00eancia da informa\u00e7\u00e3o \u00e9 a pr\u00e1tica de criar e manter cabe\u00e7alhos (tamb\u00e9m chamados de pontos de acesso) para materiais bibliogr\u00e1ficos em um cat\u00e1logo de biblioteca. O controle de autoridade cumpre duas fun\u00e7\u00f5es importantes. Primeiro, ele permite que catalogadores desambiguem itens com cabe\u00e7alhos semelhantes ou id\u00eanticos. Por exemplo, dois autores que publicaram sob o mesmo nome podem ser distinguidos uns dos outros pelo acr\u00e9scimo de iniciais dos nomes do meio, da data de nascimento e/ou morte (ou se destacou, se estes forem desconhecidos) ou um ep\u00edteto descritivo para o cabe\u00e7alho de um autor (ou de ambos). Em segundo lugar, o controle de autoridade \u00e9 usado por catalogadores para dispor materiais que logicamente est\u00e3o reunidos, embora eles apresentam-se de forma diferente. Por exemplo, registros de autoridade s\u00e3o utilizados para estabelecer t\u00edtulos uniformes, os quais podem dispor todas as vers\u00f5es de uma determinada obra juntas, mesmo quando elas s\u00e3o publicadas sob t\u00edtulos diferentes. Embora teoricamente qualquer parte de informa\u00e7\u00e3o sobre um determinado livro seja sujeita ao controle de autoridade, catalogadores normalmente enfocam esse processo nos autores e nos t\u00edtulos. Cabe\u00e7alhos de assunto (ou pontos de acesso de assunto) cumprem uma fun\u00e7\u00e3o semelhante aos registros de autoridade, embora eles geralmente sejam considerados separadamente.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "In ambito biblioteconomico e documentalistico, con controllo di autorit\u00e0 si indica l'attivit\u00e0 volta a organizzare il catalogo utilizzando un singolo termine per ogni entit\u00e0 (autore, bibliografia, ecc.). Attraverso il rinvio da forme varianti del nome a questa unica forma del nome si consente l'accesso a tutte le opere di un autore a prescindere dal fatto che in una specifica opera egli sia nominato con forma diversa: \u00e8 il caso, ad esempio, di Carlo Lorenzini, vero nome di Carlo Collodi. Tale controllo viene effettuato anche per i titoli con rinvii da forme di titolo varianti, traduzioni ecc. Il termine \"autorit\u00e0\" sta ad indicare che le entit\u00e0 sono stabilite in una particolare forma che consente la loro applicazione coerente, facilitando il lavoro di catalogazione degli addetti ai lavori e la ricerca da parte dell'utente. Nell'archivio di autorit\u00e0 ogni record di autorit\u00e0 contiene una descrizione dell'entit\u00e0, il suo utilizzo; questo archivio aiuta il bibliotecario e il documentalista a tenere coerente il catalogo e a renderlo di pi\u00f9 facile uso per l'utente. I catalogatori assegnano a ogni entit\u00e0 - quale autore, libro, collana, autore collettivo - una specifica univoca intestazione che \u00e8 poi usata in senso esclusivo per indicare tutti i riferimenti a quella entit\u00e0, anche se sono varianti come nel caso di pseudonimi o noms de plumes. Una unica intestazione pu\u00f2 guidare l'utente verso tutte le informazioni rilevanti. I record di autorit\u00e0 sono riuniti in un database chiamato archivio di autorit\u00e0, e la manutenzione e l'aggiornamento di questi record, cos\u00ec come dei loro collegamenti logici con altri archivi al loro interno, \u00e8 lavoro dei bibliotecari o di altri catalogatori. Il controllo di autorit\u00e0 \u00e8 un esempio di vocabolario controllato e delle attivit\u00e0 di controllo bibliografico.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "In library science, authority control is a process that organizes bibliographic information, for example in library catalogs by using a single, distinct spelling of a name (heading) or a numeric identifier for each topic. The word authority in authority control derives from the idea that the names of people, places, things, and concepts are authorized, i.e., they are established in one particular form. These one-of-a-kind headings or identifiers are applied consistently throughout catalogs which make use of the respective authority file, and are applied for other methods of organizing data such as linkages and cross references. Each controlled entry is described in an authority record in terms of its scope and usage, and this organization helps the library staff maintain the catalog and make it user-friendly for researchers. Cataloguers assign each subject\u2014such as an author, book, series or corporation\u2014a particular unique identifier or heading term which is then used consistently, uniquely, and unambiguously for all references to that same subject, even if there are variations such as different spellings, pen names, or aliases. The unique header can guide users to all relevant information including related or collocated subjects. Authority records can be combined into a database and called an authority file, and maintaining and updating these files as well as \"logical linkages\" to other files within them is the work of librarians and other information cataloguers. Accordingly, authority control is an example of controlled vocabulary and of bibliographic control. While in theory any piece of information is amenable to authority control such as personal and corporate names, uniform titles, series names, and subjects, library cataloguers typically focus on author names and book titles. Subject headings from the Library of Congress fulfill a function similar to authority records, although they are usually considered separately. As time passes, information changes, prompting needs for reorganization. According to one view, authority control is not about creating a perfect seamless system but rather it is an ongoing effort to keep up with these changes and try to bring \"structure and order\" to the task of helping users find information.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u6b0a\u5a01\u63a7\u5236\u6216\u89c4\u8303\u63a7\u5236\uff0c\u662f\u56fe\u4e66\u9986\u4fe1\u606f\u5b66\u4e2d\u4e00\u4e2a\u6574\u7406\u5716\u66f8\u9928\u76ee\u9304\u548c\u76ee\u5f55\u4fe1\u606f\u7684\u65b9\u5f0f\uff0c\u4f7f\u540c\u4e00\u4e3b\u9898\u4f7f\u7528\u76f8\u540c\u3001\u552f\u4e00\u7684\u6807\u9898\u3002\u8fd9\u4e9b\u6807\u9898\u8d2f\u5f7b\u6574\u4e2a\u76ee\u5f55\u5e93\u5e76\u4e14\u80fd\u4e0e\u5176\u4ed6\u4ea4\u53c9\u5f15\u7528\u7684\u6570\u636e\u5e93\u534f\u540c\u5de5\u4f5c\u3002\u6bcf\u4e2a\u6807\u9898\u7b80\u660e\u627c\u8981\u5730\u5176\u5e94\u7528\u8303\u56f4\u548c\u7528\u6cd5\uff0c\u6b64\u7ec4\u7ec7\u5f62\u5f0f\u65b9\u4fbf\u4e86\u56fe\u4e66\u9986\u5de5\u4f5c\u4eba\u5458\u800c\u4e14\u5bf9\u7814\u7a76\u8005\u5f88\u53cb\u597d\u3002 \u5206\u914d\u7ed9\u540c\u4e00\u4e3b\u9898\u5982\u4f5c\u8005\u3001\u4e66\u7c4d\u3001\u7cfb\u5217\u56fe\u4e66\u6216\u5408\u8457\u56fe\u4e66\u4e00\u4e2a\u72ec\u7279\u552f\u4e00\u7684\u6807\u9898\uff0c\u5728\u4e0e\u6b64\u76f8\u5173\u7684\u5f15\u7528\u4e2d\u90fd\u53ea\u4f7f\u7528\u6b64\u6807\u9898\uff0c\u5c31\u7b97\u4f5c\u8005\u62e5\u6709\u5176\u4ed6\u7b46\u540d\u6216\u5316\u540d\u3002\u4f8b\u5982\uff0c\u4f5c\u5bb6\u6797\u826f\u7684\u7b46\u540d\u70ba\u5b50\u654f\uff0c\u53c8\u88ab\u7a31\u70ba\u5c0f\u592a\u967d\uff0c\u8a72\u9928\u5c31\u53ef\u8a02\u5b9a\u4e00\u81f4\u7684\u984c\u540d\uff0c\u7576\u8b80\u8005\u67e5\u6aa2\u4f5c\u8005\u6797\u826f\u6642\uff0c\u5c31\u53ef\u6aa2\u7d22\u5230\u6240\u6709\u6797\u826f\u7684\u4f5c\u54c1\u3002\u4f5c\u8005\u8bb0\u5f55\u53ef\u4ee5\u5408\u5e76\u5230\u4e00\u4e2a\u6570\u636e\u5e93\u4e2d\u6210\u4e3a\u4e00\u4e2a\u4f5c\u8005\u6587\u4ef6\uff0c\u7ef4\u62a4\u66f4\u65b0\u8fd9\u4e9b\u6587\u4ef6\u4ee5\u53ca\u5176\u95f4\u7684\u201c\u903b\u8f91\u5173\u7cfb\u201d\u4e5f\u662f\u56fe\u4e66\u9986\u5458\u53ca\u4fe1\u606f\u7f16\u5f55\u4eba\u5458\u7684\u5de5\u4f5c\u3002\u56e0\u6b64\uff0c\u89c4\u8303\u63a7\u5236\u662f\u53d7\u63a7\u8bcd\u8868\u548c\u76ee\u5f55\u63a7\u5236\u7684\u4e00\u4e2a\u4f8b\u5b50\u3002 \u867d\u7136\u4ece\u7406\u8bba\u4e0a\u6765\u8bb2\uff0c\u4efb\u4f55\u4e00\u6761\u4fe1\u606f\u90fd\u53ef\u8fdb\u884c\u89c4\u8303\u63a7\u5236\uff0c\u5982\u4e2a\u4eba\u6216\u4f01\u4e1a\u7684\u540d\u79f0\u3001\u7edf\u4e00\u6807\u9898\u3001\u7cfb\u5217\u548c\u4e3b\u9898\uff0c\u56fe\u4e66\u9986\u7f16\u76ee\u901a\u5e38\u4fa7\u91cd\u4e8e\u4f5c\u8005\u59d3\u540d\u548c\u4e66\u540d\u3002\u867d\u7136\u5b83\u4eec\u901a\u5e38\u5355\u72ec\u8003\u8651\uff0c\u4e0d\u8fc7\u7f8e\u56fd\u56fd\u4f1a\u56fe\u4e66\u9986\u7684\u4e3b\u9898\u8bcd\u6240\u8d77\u5230\u7684\u4f5c\u7528\u548c\u89c4\u8303\u63a7\u5236\u7c7b\u4f3c\u3002\u968f\u7740\u65f6\u95f4\u7684\u63a8\u79fb\u548c\u4fe1\u606f\u7684\u53d8\u5316\u4fc3\u4f7f\u8fd9\u4e9b\u4fe1\u606f\u91cd\u7ec4\u7684\u8981\u6c42\u4f1a\u8d8a\u6765\u8d8a\u660e\u663e\u3002\u6839\u636e\u4e00\u4e2a\u89c2\u70b9\uff0c\u89c4\u8303\u63a7\u5236\u7684\u5b97\u65e8\u5e76\u4e0d\u5728\u4e8e\u521b\u5efa\u4e00\u4e2a\u5929\u8863\u65e0\u7f1d\u7684\u7cfb\u7edf\uff0c\u800c\u5728\u4e8e\u5728\u5e2e\u52a9\u7528\u6237\u5bfb\u627e\u4fe1\u606f\u7684\u524d\u63d0\u4e0b\u4e0d\u65ad\u52aa\u529b\u9002\u5e94\u53d8\u5316\u63d0\u4f9b\u66f4\u4e3a\u201c\u7ed3\u6784\u548c\u79e9\u5e8f\u5316\u201d\u7684\u5185\u5bb9\u3002 \u5728\u50b3\u7d71\u4eba\u5de5\u7de8\u76ee\u7cfb\u7d71\u4e2d\uff0c\u7528\u4f86\u7dad\u6301\u5361\u7247\u76ee\u9304\u8457\u9304\u6a19\u76ee\u4e4b\u4e00\u81f4\u6027\uff1b\u5728\u7dda\u4e0a\u7de8\u76ee\u7cfb\u7d71\u4e2d\uff0c\u5247\u53ef\u5229\u7528\u7cfb\u7d71\u81ea\u52d5\u806f\u7d50\u8207\u6307\u5f15\u529f\u80fd\uff0c\u8fa8\u8b58\u500b\u4eba\u4f5c\u8005\u6216\u5718\u9ad4\u4f5c\u8005\u7684\u533f\u540d\u91cd\u8907\u6027\u8207\u66f4\u66ff\u60c5\u5f62\uff0c\u540c\u6642\u5c07\u76f8\u95dc\u4e3b\u984c\u805a\u96c6\u5728\u4e00\u8d77\u3002\u6b0a\u5a01\u63a7\u5236\u9664\u4e86\u63d0\u4f9b\u5404\u500b\u5716\u66f8\u9928\u7ba1\u7406\u9928\u85cf\u8207\u8b80\u8005\u6aa2\u7d22\u7684\u4fbf\u5229\uff0c\u5c0d\u65bc\u5404\u9928\u4e4b\u9593\u9928\u85cf\u4ea4\u6d41\u6216\u6574\u5408\u67e5\u8a62\u4e5f\u6709\u91cd\u5927\u5f71\u97ff\uff0c\u5982\u679c\u5169\u500b\u5408\u4f5c\u9928\u7684\u89c4\u8303\u63a7\u5236\u7cfb\u7edf\u4e0d\u76f8\u540c\u6642\uff0c\u5c31\u6703\u9020\u6210\u8b80\u8005\u6aa2\u7d22\u6642\u7121\u6cd5\u6aa2\u7d22\u5230\u6240\u9700\u7684\u5b8c\u6574\u9928\u85cf",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "En science de l'information, une autorit\u00e9 (ou notice d'autorit\u00e9 ou forme d'autorit\u00e9) sert \u00e0 identifier sans ambigu\u00eft\u00e9 des personnes, des choses ou des concepts. La forme retenue fait autorit\u00e9, d'o\u00f9 son nom, calqu\u00e9 par ailleurs sur l'expression anglaise d'origine, \u00ab authority control \u00bb.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "En biblioteconom\u00eda y en ciencia de la informaci\u00f3n, se llama control de autoridades a la pr\u00e1ctica de instaurar y mantener el control de los materiales bibliogr\u00e1ficos del cat\u00e1logo de una biblioteca. El control de autor\u00eda cumple dos funciones importantes: primero, que los catalogadores puedan distinguir entre nombres semejantes o id\u00e9nticos; segundo, que puedan disponer de materiales que l\u00f3gicamente est\u00e1n reunidos, aunque se presentan de forma diferente.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u56f3\u66f8\u9928\u60c5\u5831\u5b66\u3084\u8cc7\u6599\u7d44\u7e54\u8ad6\u306b\u304a\u3044\u3066\u5178\u62e0\u7ba1\u7406\uff08\u3066\u3093\u304d\u3087\u304b\u3093\u308a\uff09\u3082\u3057\u304f\u306f\u5178\u62e0\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\uff08\u82f1\u8a9e: authority control\uff09\u3068\u306f\u3001\u66f8\u8a8c\u60c5\u5831\u306b\u542b\u307e\u308c\u308b\u5404\u7a2e\u306e\u4e3b\u984c\uff08\u8457\u8005\u30fb\u4ef6\u540d\u306a\u3069\uff09\u3084\u305d\u306e\u4ed6\u306e\u6982\u5ff5\u306b\u3064\u3044\u3066\u3001\u4e00\u8cab\u3057\u305f\u898b\u51fa\u3057\u30fb\u8b58\u5225\u5b50\u3092\u4ed8\u4e0e\u3057\u3001\u9069\u5207\u306a\u76f8\u4e92\u53c2\u7167\u3092\u6307\u793a\u3057\u305f\u60c5\u5831\uff08\u5178\u62e0\u30d5\u30a1\u30a4\u30eb\uff09\u3092\u7dad\u6301\u7ba1\u7406\u3059\u308b\u884c\u70ba\u304a\u3088\u3073\u305d\u306e\u65b9\u6cd5\u8ad6\u306e\u3053\u3068\u3002\u56f3\u66f8\u76ee\u9332\u306e\u4f5c\u6210\u3068\u63d0\u4f9b\u306b\u3064\u3044\u3066\u306e\u4ed5\u7d44\u307f\u3065\u304f\u308a\u3067\u3042\u308b\u66f8\u8a8c\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3068\u6df1\u304f\u7d50\u3073\u3064\u3044\u305f\u6982\u5ff5\u3067\u3042\u308b\u304c\u3001\u69cb\u9020\u5316\u3055\u308c\u305f\u77e5\u8b58\u30d9\u30fc\u30b9\u3068\u3057\u3066\u56f3\u66f8\u9928\u5916\u306e\u9818\u57df\u3067\u5fdc\u7528\u3055\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0636\u0628\u0637 \u0627\u0644\u0627\u0633\u062a\u0646\u0627\u062f\u064a \u0639\u0645\u0644\u064a\u0629 \u0644\u062a\u0646\u0633\u064a\u0642 \u0648\u062a\u0631\u062a\u064a\u0628 \u0627\u0644\u0641\u0647\u0627\u0631\u0633 \u0627\u0644\u0645\u0643\u062a\u0628\u064a\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u041d\u043e\u0440\u043c\u0430\u0442\u0438\u0301\u0432\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0440\u043e\u0301\u043b\u044c (\u0430\u043d\u0433\u043b. Authority control) \u0432 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u0447\u043d\u043e\u043c \u0434\u0435\u043b\u0435 \u2014 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u0447\u043d\u044b\u0445 \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u043e\u0432 \u0438 \u0431\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043f\u0443\u0442\u0451\u043c \u043f\u0440\u0438\u0441\u0432\u043e\u0435\u043d\u0438\u044f \u043a\u0430\u0436\u0434\u043e\u0439 \u0442\u0435\u043c\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u0433\u043e \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f. \u0422\u0430\u043a\u0438\u0435 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0433\u043e\u043b\u043e\u0432\u043a\u0438 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u0432 \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0435 \u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442 \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u043c\u0438 \u0434\u0430\u043d\u043d\u044b\u043c\u0438, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043f\u0435\u0440\u0435\u043a\u0440\u0451\u0441\u0442\u043d\u044b\u043c\u0438 \u0441\u0441\u044b\u043b\u043a\u0430\u043c\u0438. \u041a\u0430\u0436\u0434\u044b\u0439 \u0437\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0438\u043c\u0435\u0435\u0442 \u043a\u0440\u0430\u0442\u043a\u043e\u0435 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043f\u0440\u0435\u0434\u0435\u043b\u043e\u0432 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u043c\u043e\u0441\u0442\u0438 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f, \u0442\u0430\u043a\u0430\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0443 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u0432 \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u0438 \u0443\u043f\u0440\u043e\u0449\u0430\u0435\u0442 \u0440\u0430\u0431\u043e\u0442\u0443 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044f\u043c. \u041a\u0430\u0442\u0430\u043b\u043e\u0433\u0438\u0437\u0430\u0442\u043e\u0440\u044b \u043f\u0440\u0438\u0441\u0432\u0430\u0438\u0432\u0430\u044e\u0442 \u043a\u0430\u0436\u0434\u043e\u0439 \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u0438 (\u0430\u0432\u0442\u043e\u0440, \u043a\u043d\u0438\u0433\u0430, \u0441\u0435\u0440\u0438\u044f, \u0438\u0437\u0434\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e) \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0439 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u043e\u0434\u043d\u043e\u0437\u043d\u0430\u0447\u043d\u043e\u0433\u043e \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u044f \u0432\u0441\u0435\u0445 \u043e\u0442\u0441\u044b\u043b\u043e\u043a \u043a \u044d\u0442\u043e\u0439 \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u0438, \u0434\u0430\u0436\u0435 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0437\u0430\u043f\u0438\u0441\u0438, \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c \u0438\u043b\u0438 \u043a\u0440\u0438\u043f\u0442\u043e\u043d\u0438\u043c. \u0423\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0432\u0441\u044e \u0440\u0435\u043b\u0435\u0432\u0430\u043d\u0442\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e, \u0432\u043a\u043b\u044e\u0447\u0430\u044f \u0441\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043e \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0445 \u0441 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044f\u0445. \u041d\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043c\u043e\u0436\u0435\u0442 \u0440\u0430\u0441\u043f\u043e\u043b\u0430\u0433\u0430\u0442\u044c\u0441\u044f \u0432 \u0431\u0430\u0437\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u0438 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0441\u0432\u044f\u0437\u0438 \u0441 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044f\u043c\u0438 \u0438 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u0431\u0430\u0437\u0430\u043c\u0438. \u041f\u043e\u044d\u0442\u043e\u043c\u0443 \u043d\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u2014 \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u044c \u0431\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u0438 \u043d\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u0441\u043b\u043e\u0432\u0430\u0440\u044f. \u0425\u043e\u0442\u044f \u0442\u0435\u043e\u0440\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u043d\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u043e\u043c\u0443 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044e \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u0434\u0432\u0435\u0440\u0433\u0430\u0442\u044c\u0441\u044f \u043b\u044e\u0431\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f (\u0443\u0441\u043b\u043e\u0432\u043d\u044b\u0435 \u0437\u0430\u0433\u043b\u0430\u0432\u0438\u044f, \u043b\u0438\u0447\u043d\u044b\u0435 \u0438\u043c\u0435\u043d\u0430, \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f), \u0432 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430\u0445 \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0438 \u043e\u0431\u044b\u0447\u043d\u043e \u0441\u043e\u0441\u0440\u0435\u0434\u043e\u0442\u043e\u0447\u0435\u043d\u044b \u0432\u043e\u043a\u0440\u0443\u0433 \u0438\u043c\u0451\u043d \u0430\u0432\u0442\u043e\u0440\u043e\u0432 \u0438 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0439 \u043a\u043d\u0438\u0433. \u041a\u043b\u0430\u0441\u0441\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0441\u0445\u043e\u0434\u043d\u0443\u044e \u0444\u0443\u043d\u043a\u0446\u0438\u044e, \u0445\u043e\u0442\u044f \u043e\u0431\u044b\u0447\u043d\u043e \u0438\u0445 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442 \u0440\u0430\u0437\u0434\u0435\u043b\u044c\u043d\u043e. \u0421\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0435\u043c \u0437\u0430\u043f\u0438\u0441\u0438 \u043d\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u0438\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u0438 \u043e\u0431\u043d\u043e\u0432\u043b\u044f\u0442\u044c; \u0445\u043e\u0442\u044f \u0435\u0433\u043e \u0446\u0435\u043b\u044c\u044e \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u043e\u0439 \u043d\u0435\u0440\u0430\u0437\u0440\u044b\u0432\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0434\u0430\u043d\u043d\u044b\u0445, \u043e\u043d \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0442\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0438 \u0438\u0441\u043a\u0430\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Kontrola autorytatywna \u2013 okre\u015blenie procedur zapewniaj\u0105cych utrzymanie w spos\u00f3b konsekwentny hase\u0142 (nazw, ujednoliconych tytu\u0142\u00f3w, tytu\u0142\u00f3w serii i hase\u0142 przedmiotowych) w katalogach bibliotecznych przez zastosowanie wykazu autorytatywnego zwanego kartotek\u0105 wzorcow\u0105.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Eine Normdatei ist ein Verzeichnis von normierten Begriffen zur Verwendung als Deskriptor in der Dokumentation. Eine Normdatei ist damit eine Form eines kontrollierten Vokabulars, in dem festgelegt wird, welche Ansetzung bei der Erschlie\u00dfung zu verwenden ist. Im Englischen werden Normdateien als \u201eauthority files\u201c bezeichnet. Normierte Begriffe k\u00f6nnen Personennamen, K\u00f6rperschaftsnamen und beliebige andere Mengen von Bezeichnungen von Dingen, Vorg\u00e4ngen oder abstrakten Begriffen sein. Der Bildung von Normbegriffen liegt eine Ontologie zugrunde, die die jeweils zu normierenden Begriffe und die Art der Normierung festlegt. Die Normbegriffe geh\u00f6ren nach Vergabe zu den Metadaten des jeweiligen Datensatzes. Als Vorform kann die freie Vergabe von Kategorien, Schlagw\u00f6rtern oder Tags gelten, die sich aber an gewisse Regeln h\u00e4lt, wie die Festlegung auf Singular oder Plural, die bevorzugte Nutzung von Komposita etc.",
+                "lang": "de"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 725732513,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 1406260,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Process"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Name_authority": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Authority_control"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Authority_work": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Authority_control"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Normdaten": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Authority_control"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Authority_record": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Authority_control"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Authority_list": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Authority_control"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Authority_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Authority_control"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Authority_lists": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Authority_control"
+            }
+        ]
+    }
+}

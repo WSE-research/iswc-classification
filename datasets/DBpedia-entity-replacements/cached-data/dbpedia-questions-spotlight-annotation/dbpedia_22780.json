@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the military general buried in St Mary's Church, Battersea?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mary,_mother_of_Jesus",
+            "@support": "14270",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q43115,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Saint,DBpedia:Person,DBpedia:Cleric,DBpedia:Agent",
+            "@surfaceForm": "St Mary",
+            "@offset": "38",
+            "@similarityScore": "0.7364799013182052",
+            "@percentageOfSecondRank": "0.2510844253241917"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Battersea",
+            "@support": "1518",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Battersea",
+            "@offset": "56",
+            "@similarityScore": "0.9955087863964808",
+            "@percentageOfSecondRank": "0.003692456439029931"
+        }
+    ]
+}

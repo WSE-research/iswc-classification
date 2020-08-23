@@ -1,0 +1,28 @@
+{
+    "@text": "Does the lena river flow into the Laptev Sea?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Lena_River",
+            "@support": "520",
+            "@types": "Wikidata:Q47521,Wikidata:Q4022,Schema:RiverBodyOfWater,Schema:Place,Schema:BodyOfWater,DBpedia:Stream,DBpedia:River,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "lena river",
+            "@offset": "9",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Laptev_Sea",
+            "@support": "230",
+            "@types": "Schema:SeaBodyOfWater,Schema:Place,Schema:BodyOfWater,DBpedia:Sea,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "Laptev Sea",
+            "@offset": "34",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me district of Austria whose name has the word wels in it.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Austria",
+            "@support": "51113",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Austria",
+            "@offset": "20",
+            "@similarityScore": "0.9996289398899062",
+            "@percentageOfSecondRank": "2.652802893748947E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Wels",
+            "@support": "278",
+            "@types": "Wikidata:Q486972,Wikidata:Q3957,Schema:Place,DBpedia:Town,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "wels",
+            "@offset": "52",
+            "@similarityScore": "0.9994962222724303",
+            "@percentageOfSecondRank": "2.297795312203384E-4"
+        }
+    ]
+}

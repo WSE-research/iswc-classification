@@ -1,0 +1,28 @@
+{
+    "@text": "Does Richard Marx play guitar?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Richard_Marx",
+            "@support": "689",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Richard Marx",
+            "@offset": "5",
+            "@similarityScore": "0.9999209214456027",
+            "@percentageOfSecondRank": "7.90749063323155E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Guitar",
+            "@support": "76437",
+            "@types": "",
+            "@surfaceForm": "guitar",
+            "@offset": "23",
+            "@similarityScore": "0.9820172321852573",
+            "@percentageOfSecondRank": "0.01733909020104445"
+        }
+    ]
+}

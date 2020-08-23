@@ -1,0 +1,37 @@
+{
+    "@text": "In which mountain Inyo National Forest and California are located?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mountain",
+            "@support": "17196",
+            "@types": "",
+            "@surfaceForm": "mountain",
+            "@offset": "9",
+            "@similarityScore": "0.9999537235107586",
+            "@percentageOfSecondRank": "2.3305532677412282E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Inyo_National_Forest",
+            "@support": "171",
+            "@types": "Wikidata:Q473972,Schema:Place,DBpedia:ProtectedArea,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Inyo National Forest",
+            "@offset": "18",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/California",
+            "@support": "185510",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "California",
+            "@offset": "43",
+            "@similarityScore": "0.9999978183795329",
+            "@percentageOfSecondRank": "7.499000931168246E-7"
+        }
+    ]
+}

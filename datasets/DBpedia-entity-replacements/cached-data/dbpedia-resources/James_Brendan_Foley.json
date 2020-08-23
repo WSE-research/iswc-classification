@@ -1,0 +1,120 @@
+{
+    "http://dbpedia.org/resource/Robert_Bradtke": {
+        "http://dbpedia.org/ontology/successor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/James_Brendan_Foley"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/James_Brendan_Foley": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Person"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "James Brendan Foley",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "James B. Foley (born April 4, 1957) is a retired American foreign service officer. He served as the United States Ambassador to the Republic of Haiti from May 27, 2003 to August 14, 2005, and as the United States Ambassador to the Republic of Croatia from August 12, 2009 to August 19, 2012.  As Ambassador to Haiti, Foley participated in the late-night negotiations between Haitian President Jean Bertrand Aristide and U.S. Secretary of State Colin L. Powell leading to Aristide's February 29, 2004 resignation and acceptance of a U.S. offer to fly him into exile.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q26465541"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/James_Brendan_Foley"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q26465541"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:State_University_of_New_York_at_Fredonia_alumni"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Ambassadors_of_the_United_States_to_Croatia"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Living_people"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:1957_births"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:The_Fletcher_School_of_Law_and_Diplomacy_alumni"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Ambassadors_of_the_United_States_to_Haiti"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/name": [
+            {
+                "type": "literal",
+                "value": "James Brendan Foley",
+                "lang": "en"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/James_Brendan_Foley"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/James_Brendan_Foley?oldid=735270635"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "James B. Foley (born April 4, 1957) is a retired American foreign service officer. He served as the United States Ambassador to the Republic of Haiti from May 27, 2003 to August 14, 2005, and as the United States Ambassador to the Republic of Croatia from August 12, 2009 to August 19, 2012.  As Ambassador to Haiti, Foley participated in the late-night negotiations between Haitian President Jean Bertrand Aristide and U.S. Secretary of State Colin L. Powell leading to Aristide's February 29, 2004 resignation and acceptance of a U.S. offer to fly him into exile.",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 735270635,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 51105486,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/James_Brendan_Foley": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/James_Brendan_Foley"
+            }
+        ]
+    }
+}

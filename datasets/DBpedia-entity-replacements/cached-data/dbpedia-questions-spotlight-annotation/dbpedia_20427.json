@@ -1,0 +1,28 @@
+{
+    "@text": "Name the person whose daughter is Rohan Marley and also another children named Sharon Marley ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Rohan_Marley",
+            "@support": "35",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q14128148,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:GridironFootballPlayer,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Rohan Marley",
+            "@offset": "34",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sharon_Marley",
+            "@support": "16",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Sharon Marley",
+            "@offset": "79",
+            "@similarityScore": "0.9999999999998579",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

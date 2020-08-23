@@ -1,0 +1,37 @@
+{
+    "@text": "Did Macau celebrate United States public holidays and Double Ninth Festival?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Macau",
+            "@support": "12525",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Macau",
+            "@offset": "4",
+            "@similarityScore": "0.998097467745711",
+            "@percentageOfSecondRank": "0.0015149468226476612"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "20",
+            "@similarityScore": "0.9999326280354863",
+            "@percentageOfSecondRank": "3.121749785027447E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Double_Ninth_Festival",
+            "@support": "49",
+            "@types": "Wikidata:Q1445650,DUL:TimeInterval,DBpedia:Holiday",
+            "@surfaceForm": "Double Ninth Festival",
+            "@offset": "54",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

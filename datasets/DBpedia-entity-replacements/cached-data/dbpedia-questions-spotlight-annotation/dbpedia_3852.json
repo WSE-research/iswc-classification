@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me fish whose name has the word platichthys in it.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Fish",
+            "@support": "22997",
+            "@types": "",
+            "@surfaceForm": "fish",
+            "@offset": "8",
+            "@similarityScore": "0.9945929633478671",
+            "@percentageOfSecondRank": "0.003910230637488313"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Starry_flounders",
+            "@support": "10",
+            "@types": "Wikidata:Q729,Wikidata:Q19088,Wikidata:Q152,DBpedia:Species,DBpedia:Fish,DBpedia:Eukaryote,DBpedia:Animal",
+            "@surfaceForm": "platichthys",
+            "@offset": "37",
+            "@similarityScore": "0.9999997396720116",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

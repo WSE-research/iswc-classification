@@ -1,0 +1,28 @@
+{
+    "@text": "In what area does the Rideau Canal join the Ottawa River?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Rideau_Canal",
+            "@support": "583",
+            "@types": "Schema:Place,Schema:LandmarksOrHistoricalBuildings,DBpedia:Place,DBpedia:Location,DBpedia:HistoricPlace",
+            "@surfaceForm": "Rideau Canal",
+            "@offset": "22",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ottawa_River",
+            "@support": "1457",
+            "@types": "Wikidata:Q47521,Wikidata:Q4022,Schema:RiverBodyOfWater,Schema:Place,Schema:BodyOfWater,DBpedia:Stream,DBpedia:River,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "Ottawa River",
+            "@offset": "44",
+            "@similarityScore": "0.9999999999562448",
+            "@percentageOfSecondRank": "2.966486702117834E-11"
+        }
+    ]
+}

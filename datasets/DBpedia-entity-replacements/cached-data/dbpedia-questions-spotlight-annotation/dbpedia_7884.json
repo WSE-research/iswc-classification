@@ -1,0 +1,37 @@
+{
+    "@text": "Who is the lyricist of the EMI label produced song 'Imagine'?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Lyricist",
+            "@support": "1973",
+            "@types": "",
+            "@surfaceForm": "lyricist",
+            "@offset": "11",
+            "@similarityScore": "0.9987922851615959",
+            "@percentageOfSecondRank": "0.0012091697524986317"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/EMI",
+            "@support": "10468",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "EMI",
+            "@offset": "27",
+            "@similarityScore": "0.9861449859942978",
+            "@percentageOfSecondRank": "0.013960859235719356"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Imagine_Software",
+            "@support": "83",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Imagine",
+            "@offset": "52",
+            "@similarityScore": "0.9209671239011337",
+            "@percentageOfSecondRank": "0.07364402394860355"
+        }
+    ]
+}

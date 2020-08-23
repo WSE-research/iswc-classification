@@ -1,0 +1,813 @@
+{
+    "http://dbpedia.org/resource/Ruoutevare_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Koivu_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Panzhihua_Iron_and_Steel": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titanium": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/MilitaryUnit"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Tytan (pierwiastek)",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0438\u0442\u0430\u043d (\u044d\u043b\u0435\u043c\u0435\u043d\u0442)",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Titan (Element)",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u30c1\u30bf\u30f3",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Titanium",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Tit\u00e2nio",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Titanio",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Titane",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u062a\u064a\u062a\u0627\u0646\u064a\u0648\u0645",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Titanium",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u949b",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Titanio",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Titanium is a chemical element with symbol Ti and atomic number 22. It is a lustrous transition metal with a silver color, low density and high strength. It is highly resistant to corrosion in sea water, aqua regia, and chlorine.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Titaan of ook wel titanium genoemd is een scheikundig element met symbool Ti en atoomnummer 22. Het is een grijs metallisch overgangsmetaal, het behoort met zirkonium (Zr), hafnium (Hf) en rutherfordium (Rf) tot de titaangroep.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Tytan (Ti, \u0142ac. titanium) \u2013 pierwiastek chemiczny z grupy metali przej\u015bciowych w uk\u0142adzie okresowym o liczbie atomowej 22. To lekki metal o szarawym kolorze. Ma wysok\u0105 wytrzyma\u0142o\u015b\u0107 mechaniczn\u0105, jest odporny na korozj\u0119 (w tym r\u00f3wnie\u017c wody morskiej i chloru). Tytan jest dodawany jako dodatek stopowy do \u017celaza, aluminium, wanadu, molibdenu i innych. Stopy tytanu s\u0105 wykorzystywane w przemy\u015ble lotniczym (silniki odrzutowe, promy kosmiczne), militarnym, procesach metalurgicznych, motoryzacyjnym, medycznym (protezy dentystyczne, ortopedyczne klamry), sport\u00f3w ekstremalnych i innych. Zosta\u0142 odkryty w Wielkiej Brytanii przez Williama Gregora w 1791. Nazw\u0119 pochodz\u0105c\u0105 od b\u00f3stw z mitologii greckiej zawdzi\u0119cza Martinowi Heinrichowi Klaprothowi.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u9226\u662f\u5316\u5b78\u5143\u7d20\uff0c\u5316\u5b78\u7b26\u865fTi\uff0c\u539f\u5b50\u5e8f\u657822\uff0c\u662f\u9280\u767d\u8272\u904e\u6e21\u91d1\u5c6c\uff0c\u5176\u7279\u5fb5\u70ba\u91cd\u91cf\u8f15\u3001\u5f37\u5ea6\u9ad8\u3001\u5177\u91d1\u5c6c\u5149\u6fa4\uff0c\u4ea6\u6709\u826f\u597d\u7684\u6297\u8150\u8755\u80fd\u529b\uff08\u5305\u62ec\u6d77\u6c34\u3001\u738b\u6c34\u53ca\u6c2f\u6c23\uff09\u3002\u7531\u4e8e\u5176\u7a33\u5b9a\u7684\u5316\u5b66\u6027\u8d28\uff0c\u826f\u597d\u7684\u8010\u9ad8\u6e29\u3001\u8010\u4f4e\u6e29\u3001\u6297\u5f3a\u9178\u3001\u6297\u5f3a\u78b1\uff0c\u4ee5\u53ca\u9ad8\u5f3a\u5ea6\u3001\u4f4e\u5bc6\u5ea6\uff0c\u7372\u7f8e\u8a89\u4e3a\u201c\u592a\u7a7a\u91d1\u5c5e\u201d\u3002\u9226\u65bc1791\u5e74\u7531\u683c\u96f7\u6208\u723e\u65bc\u82f1\u570b\u5eb7\u6c83\u723e\u90e1\u767c\u73fe\uff0c\u4e26\u7531\u514b\u62c9\u666e\u7f85\u7279\u7528\u5e0c\u81d8\u795e\u8a71\u7684\u6cf0\u5766\u70ba\u5176\u547d\u540d\u3002 \u949b\u88ab\u8ba4\u4e3a\u662f\u4e00\u79cd\u7a00\u6709\u91d1\u5c5e\uff0c\u8fd9\u662f\u7531\u4e8e\u5728\u81ea\u7136\u754c\u4e2d\u5176\u5b58\u5728\u5206\u6563\u5e76\u96be\u4e8e\u63d0\u53d6\u3002\u4f46\u5176\u76f8\u5bf9\u4e30\u5ea6\u5728\u6240\u6709\u5143\u7d20\u4e2d\u5c45\u7b2c\u5341\u4f4d\u3002\u9226\u7684\u7926\u77f3\u4e3b\u8981\u6709\u9226\u9435\u7926\u53ca\u91d1\u7d05\u77f3\uff0c\u5ee3\u4f48\u65bc\u5730\u6bbc\u53ca\u5ca9\u77f3\u5708\u4e4b\u4e2d\u3002\u9226\u4ea6\u540c\u6642\u5b58\u5728\u65bc\u5e7e\u4e4e\u6240\u6709\u751f\u7269\u3001\u5ca9\u77f3\u3001\u6c34\u9ad4\u53ca\u571f\u58e4\u4e2d\u3002\u5f9e\u4e3b\u8981\u7926\u77f3\u4e2d\u8403\u53d6\u51fa\u9226\u9700\u8981\u7528\u5230\u514b\u7f85\u723e\u6cd5\u6216\u4ea8\u7279\u6cd5\u3002\u9226\u6700\u5e38\u898b\u7684\u5316\u5408\u7269\u662f\u4e8c\u6c27\u5316\u9226\uff0c\u53ef\u7528\u65bc\u88fd\u9020\u767d\u8272\u984f\u6599\u3002\u5176\u4ed6\u5316\u5408\u7269\u9084\u5305\u62ec\u56db\u6c2f\u5316\u9226\uff08TiCl4\uff0c\u4f5c\u50ac\u5316\u5291\u53ca\u7528\u65bc\u88fd\u9020\u7159\u5e55\u6216\u7a7a\u4e2d\u6587\u5b57\uff09\u53ca\u4e09\u6c2f\u5316\u9226\uff08TiCl3\uff0c\u7528\u65bc\u50ac\u5316\u805a\u4e19\u70ef\u7684\u751f\u7522\uff09\u3002 \u9226\u80fd\u8207\u9435\u3001\u92c1\u3001\u91e9\u6216\u926c\u7b49\u5176\u4ed6\u5143\u7d20\u7194\u6210\u5408\u91d1\uff0c\u9020\u51fa\u9ad8\u5f37\u5ea6\u7684\u8f15\u5408\u91d1\uff0c\u5728\u5404\u65b9\u9762\u6709\u7740\u5ee3\u6cdb\u7684\u61c9\u7528\uff0c\u5305\u62ec\u822a\u5929\uff08\u5674\u6c23\u767c\u52d5\u6a5f\u3001\u5c0e\u5f48\u53ca\u822a\u5929\u5668\uff09\u3001\u8ecd\u4e8b\u3001\u5de5\u696d\u7a0b\u5e8f\uff08\u5316\u5de5\u8207\u77f3\u6cb9\u88fd\u54c1\u3001\u6d77\u6c34\u6de1\u5316\u53ca\u9020\u7d19\uff09\u3001\u6c7d\u8eca\u3001\u8fb2\u7522\u98df\u54c1\u3001\u91ab\u5b78\uff08\u7fa9\u80a2\u3001\u9aa8\u79d1\u79fb\u690d\u53ca\u7259\u79d1\u5668\u68b0\u8207\u586b\u5145\u7269\uff09\u3001\u904b\u52d5\u7528\u54c1\u3001\u73e0\u5bf6\u53ca\u624b\u6a5f\u7b49\u7b49\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0438\u0442\u0430\u0301\u043d (\u043b\u0430\u0442. Titanium; \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442\u0441\u044f \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u043c Ti) \u2014 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043f\u043e\u0431\u043e\u0447\u043d\u043e\u0439 \u043f\u043e\u0434\u0433\u0440\u0443\u043f\u043f\u044b \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b, \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u043e\u0433\u043e \u043f\u0435\u0440\u0438\u043e\u0434\u0430 \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u0414. \u0418. \u041c\u0435\u043d\u0434\u0435\u043b\u0435\u0435\u0432\u0430, \u0441 \u0430\u0442\u043e\u043c\u043d\u044b\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c 22. \u041f\u0440\u043e\u0441\u0442\u043e\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u043e \u0442\u0438\u0442\u0430\u043d \u2014 \u043b\u0451\u0433\u043a\u0438\u0439 \u043f\u0440\u043e\u0447\u043d\u044b\u0439 \u043c\u0435\u0442\u0430\u043b\u043b \u0441\u0435\u0440\u0435\u0431\u0440\u0438\u0441\u0442\u043e-\u0431\u0435\u043b\u043e\u0433\u043e \u0446\u0432\u0435\u0442\u0430. \u0421\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0434\u0432\u0443\u0445 \u043a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f\u0445: \u03b1-Ti \u0441 \u0433\u0435\u043a\u0441\u0430\u0433\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u043f\u043b\u043e\u0442\u043d\u043e\u0443\u043f\u0430\u043a\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0440\u0435\u0448\u0451\u0442\u043a\u043e\u0439, \u03b2-Ti \u0441 \u043a\u0443\u0431\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043e\u0431\u044a\u0451\u043c\u043d\u043e-\u0446\u0435\u043d\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0443\u043f\u0430\u043a\u043e\u0432\u043a\u043e\u0439, \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u043f\u043e\u043b\u0438\u043c\u043e\u0440\u0444\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u03b1\u2194\u03b2 883 \u00b0C. \u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u043f\u043b\u0430\u0432\u043b\u0435\u043d\u0438\u044f 1660\u00b120 \u00b0C. \u0422\u0438\u0442\u0430\u043d \u0438\u043c\u0435\u0435\u0442 \u0442\u0432\u0451\u0440\u0434\u043e\u0441\u0442\u044c \u043f\u043e \u0411\u0440\u0438\u043d\u0435\u043b\u043b\u044e 175 \u041c\u041f\u0430.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "El titanio es un elemento qu\u00edmico de s\u00edmbolo Ti y n\u00famero at\u00f3mico 22. Se trata de un metal de transici\u00f3n de color gris plata. Comparado con el acero, aleaci\u00f3n con la que compite en aplicaciones t\u00e9cnicas, es mucho m\u00e1s ligero (4,5/7,8). Tiene alta resistencia a la corrosi\u00f3n y gran resistencia mec\u00e1nica, pero es mucho m\u00e1s costoso que aqu\u00e9l, lo cual limita sus usos industriales.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Il titanio \u00e8 l'elemento chimico della tavola periodica degli elementi che ha come simbolo Ti e numero atomico 22. \u00c8 un metallo del blocco d, leggero, resistente, di colore bianco metallico, lucido, resistente alla corrosione. Il titanio viene utilizzato nelle leghe leggere resistenti e nei pigmenti bianchi; si trova in numerosi minerali (i principali sono il rutilo e l'ilmenite).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Le titane est l'\u00e9l\u00e9ment chimique de num\u00e9ro atomique 22, de symbole Ti. C'est un m\u00e9tal de transition l\u00e9ger, r\u00e9sistant, d'un aspect blanc m\u00e9tallique, qui r\u00e9siste \u00e0 la corrosion. Le titane est principalement utilis\u00e9 dans les alliages l\u00e9gers et r\u00e9sistants, et son oxyde est utilis\u00e9 comme pigment blanc. On trouve cet \u00e9l\u00e9ment dans de nombreux minerais mais ses principales sources sont le rutile et l'anatase.Il appartient au groupe des titanes avec le zirconium (Zr), le hafnium (Hf) et le rutherfordium (Rf).",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "O tit\u00e2nio \u00e9 um elemento qu\u00edmico de s\u00edmbolo Ti, n\u00famero at\u00f4mico 22 (22 pr\u00f3tons e 22 el\u00e9trons) com massa at\u00f4mica 47,90 u. Trata-se de um metal de transi\u00e7\u00e3o leve, forte, cor branca met\u00e1lica, lustroso e resistente \u00e0 corros\u00e3o, s\u00f3lido na temperatura ambiente. O tit\u00e2nio \u00e9 muito utilizado em ligas leves e em pigmento branco.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Titan ist ein chemisches Element mit dem Elementsymbol Ti und der Ordnungszahl 22. Es geh\u00f6rt zu den \u00dcbergangsmetallen und steht im Periodensystem in der 4. Nebengruppe (Gruppe 4) oder Titangruppe. Das Metall ist wei\u00df-metallisch gl\u00e4nzend, hat eine geringe Dichte, ist dehnbar, korrosions- und temperaturbest\u00e4ndig. In der Erdkruste geh\u00f6rt Titan zu den zehn h\u00e4ufigsten Elementen, kommt jedoch nur chemisch gebunden als Bestandteil von Mineralien vor.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u30c1\u30bf\u30f3\uff08\u72ec: Titan [ti\u02c8ta\u02d0n] \u3001\u82f1: titanium [ta\u026a\u02c8te\u026ani\u0259m] \u3001\u7f85: titanium\uff09\u306f\u3001\u539f\u5b50\u756a\u53f722\u306e\u5143\u7d20\u3002\u5143\u7d20\u8a18\u53f7\u306f Ti\u3002\u7b2c4\u65cf\u5143\u7d20\uff08\u30c1\u30bf\u30f3\u65cf\u5143\u7d20\uff09\u306e\u4e00\u3064\u3067\u3001\u91d1\u5c5e\u5149\u6ca2\u3092\u6301\u3064\u9077\u79fb\u5143\u7d20\u3067\u3042\u308b\u3002\u65e5\u672c\u3067\u6700\u3082\u4e00\u822c\u7684\u306a\u547c\u3073\u65b9\u306e\u30c1\u30bf\u30f3\u3068\u306f\u30c9\u30a4\u30c4\u8a9e\u98a8\u306e\u8aad\u307f\u65b9\u3060\u304c\u3001\u30c1\u30bf\u30cb\u30a6\u30e0\u3068\u547c\u3070\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u3002\u3053\u308c\u306f\u30e9\u30c6\u30f3\u8a9e\u98a8\u306e\u8aad\u307f\u65b9\u3067\u3042\u308a\u3001\u82f1\u8a9e\u98a8\u306e\u8aad\u307f\u65b9\u306f\u30bf\u30a4\u30c6\u30a4\u30cb\u30a6\u30e0\u3068\u8a00\u3046\u3002 \u5730\u7403\u3092\u69cb\u6210\u3059\u308b\u5730\u6bbb\u306e\u6210\u5206\u3068\u3057\u30669\u756a\u76ee\u306b\u591a\u3044\u5143\u7d20\u3067\u3001\u9077\u79fb\u5143\u7d20\u3068\u3057\u3066\u306f\u9244\u306b\u6b21\u3050\u3002\u666e\u901a\u306b\u898b\u3089\u308c\u308b\u9020\u5ca9\u9271\u7269\u3067\u3042\u308b\u30eb\u30c1\u30eb\u3084\u30c1\u30bf\u30f3\u9244\u9271\u3068\u3044\u3063\u305f\u9271\u7269\u306e\u4e3b\u6210\u5206\u3067\u3042\u308b\u3002\u81ea\u7136\u754c\u306e\u5b58\u5728\u306f\u8c4a\u5bcc\u3067\u3042\u308b\u304c\u3001\u3055\u307b\u3069\u9ad8\u304f\u306a\u3044\u96c6\u7a4d\u5ea6\u3084\u88fd\u932c\u306e\u96e3\u3057\u3055\u304b\u3089\u3001\u91d1\u5c5e\u3068\u3057\u3066\u5e83\u304f\u7528\u3044\u3089\u308c\u308b\u69d8\u306b\u306a\u3063\u305f\u306e\u306f\u6bd4\u8f03\u7684\u6700\u8fd1\u3067\u3042\u308b\u3002\u30c1\u30bf\u30f3\u306e\u6027\u8cea\u306f\u5316\u5b66\u7684\u30fb\u7269\u7406\u7684\u306b\u30b8\u30eb\u30b3\u30cb\u30a6\u30e0\u306b\u8fd1\u3044\u3002\u9178\u5316\u7269\u3067\u3042\u308b\u9178\u5316\u30c1\u30bf\u30f3(IV)\u306f\u975e\u5e38\u306b\u5b89\u5b9a\u306a\u5316\u5408\u7269\u3067\u3001\u767d\u8272\u9854\u6599\u3068\u3057\u3066\u5229\u7528\u3055\u308c\u3001\u307e\u305f\u5149\u89e6\u5a92\u3068\u3057\u3066\u306e\u6027\u8cea\u3092\u6301\u3064\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u062a\u064a\u062a\u0627\u0646\u064a\u0648\u0645 \u0647\u0648 \u0639\u0646\u0635\u0631 \u0643\u064a\u0645\u064a\u0627\u0626\u064a \u0641\u064a \u0627\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a \u0648\u0631\u0645\u0632\u0647 Ti \u0648\u0631\u0642\u0645\u0647 \u0627\u0644\u0630\u0631\u064a 22. \u0641\u0644\u0632 \u0627\u0646\u062a\u0642\u0627\u0644\u064a \u062e\u0641\u064a\u0641 \u0627\u0644\u0648\u0632\u0646\u060c \u0642\u0648\u064a\u060c \u0630\u0648 \u0644\u0645\u0639\u0627\u0646 \u0648\u0645\u0642\u0627\u0648\u0645 \u0644\u0644\u0635\u062f\u0623 (\u0628\u0645\u0627 \u0641\u064a\u0647 \u0645\u0627\u0621 \u0627\u0644\u0628\u062d\u0631 \u0648\u0627\u0644\u0643\u0644\u0648\u0631)\u060c \u0648\u0644\u0648\u0646\u0647 \u0645\u0639\u062f\u0646\u064a \u0623\u0628\u064a\u0636 \u0641\u0636\u064a. \u0648\u064a\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u062a\u064a\u062a\u0627\u0646\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u0633\u0628\u0627\u0626\u0643 \u0627\u0644\u0642\u0648\u064a\u0629 \u062e\u0641\u064a\u0641\u0629 \u0627\u0644\u0648\u0632\u0646 (\u0648\u062e\u0635\u0648\u0635\u0627\u064b \u0645\u0639 \u0627\u0644\u062d\u062f\u064a\u062f \u0648\u0627\u0644\u0623\u0644\u0648\u0645\u0646\u064a\u0648\u0645) \u0648\u0623\u0643\u062b\u0631 \u0645\u0631\u0643\u0628\u0627\u062a\u0647 \u0634\u064a\u0648\u0639\u0627\u064b \u0647\u064a \u062b\u0627\u0646\u064a \u0623\u0643\u0633\u064a\u062f \u0627\u0644\u062a\u064a\u062a\u0627\u0646\u064a\u0648\u0645\u060c \u0648\u0627\u0644\u0630\u064a \u064a\u0633\u062a\u0639\u0645\u0644 \u0641\u064a \u0627\u0644\u0635\u0628\u063a\u0627\u062a \u0627\u0644\u0628\u064a\u0636\u0627\u0621. \u0648\u0645\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645\u0627\u062a \u062a\u0644\u0643 \u0627\u0644\u0635\u0628\u063a\u0627\u062a \u0627\u0644\u0628\u064a\u0636\u0627\u0621: \u0633\u0627\u0626\u0644 \u062a\u0635\u062d\u064a\u062d \u0627\u0644\u0637\u0628\u0627\u0639\u0629 \u0627\u0644\u0623\u0628\u064a\u0636 \u0648\u0627\u0644\u062f\u0647\u0627\u0646\u0627\u062a \u0627\u0644\u0628\u064a\u0636\u0627\u0621. \u0648\u064a\u0633\u062a\u062e\u062f\u0645 \u0643\u0630\u0644\u0643 \u0641\u064a \u0645\u0639\u062c\u0648\u0646 \u0627\u0644\u0623\u0633\u0646\u0627\u0646\u060c \u0639\u0644\u0627\u0645\u0627\u062a \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0628\u064a\u0636\u0627\u0621\u060c \u0648\u0641\u064a \u0627\u0644\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0646\u0627\u0631\u064a\u0629 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 \u0627\u0644\u0644\u0648\u0646.",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Titanium"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Titan_(Element)"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Titanium"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Titanio"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30c1\u30bf\u30f3"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Titanio"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Titanio"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Tit\u00e2nio"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q716"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ud0c0\uc774\ud0c0\ub284"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Tytan_(pierwiastek)"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a4\u03b9\u03c4\u03ac\u03bd\u03b9\u03bf"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Titan_(prvek)"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4140648-5"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Titane"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.025sk56"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q716"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Biomaterials"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Chemical_elements"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Titanium"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Aerospace_materials"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Pyrotechnic_fuels"
+            }
+        ],
+        "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+            {
+                "type": "literal",
+                "value": 55.70824813842773,
+                "datatype": "http://www.w3.org/2001/XMLSchema#float"
+            }
+        ],
+        "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+            {
+                "type": "literal",
+                "value": 37.58255386352539,
+                "datatype": "http://www.w3.org/2001/XMLSchema#float"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Titanium"
+            }
+        ],
+        "http://www.w3.org/2003/01/geo/wgs84_pos#geometry": [
+            {
+                "type": "literal",
+                "value": "POINT(37.582553863525 55.708248138428)",
+                "datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry"
+            }
+        ],
+        "http://dbpedia.org/property/s": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/portal": [
+            {
+                "type": "literal",
+                "value": "Chemistry",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Titanium?oldid=744791725"
+            }
+        ],
+        "http://www.georss.org/georss/point": [
+            {
+                "type": "literal",
+                "value": "55.70825 37.58255555555556"
+            }
+        ],
+        "http://dbpedia.org/property/book": [
+            {
+                "type": "literal",
+                "value": "Titanium",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Group 4 elements",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Period 4 elements",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Chemical elements",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://seekingalpha.com/article/194965-titanium-metal-of-the-gods?source=email"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.essentialchemicalindustry.org/metals/titanium.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://titanium.org"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=7iwDAAAAMBAJ&pg=RA2-PA46"
+            },
+            {
+                "type": "uri",
+                "value": "http://indexmundi.com/en/commodities/minerals/titanium/titanium_table15.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.periodicvideos.com/videos/022.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.msm.cam.ac.uk/phase-trans/2003/titanium.movies/titanium.html"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u30c1\u30bf\u30f3\uff08\u72ec: Titan [ti\u02c8ta\u02d0n] \u3001\u82f1: titanium [ta\u026a\u02c8te\u026ani\u0259m] \u3001\u7f85: titanium\uff09\u306f\u3001\u539f\u5b50\u756a\u53f722\u306e\u5143\u7d20\u3002\u5143\u7d20\u8a18\u53f7\u306f Ti\u3002\u7b2c4\u65cf\u5143\u7d20\uff08\u30c1\u30bf\u30f3\u65cf\u5143\u7d20\uff09\u306e\u4e00\u3064\u3067\u3001\u91d1\u5c5e\u5149\u6ca2\u3092\u6301\u3064\u9077\u79fb\u5143\u7d20\u3067\u3042\u308b\u3002\u65e5\u672c\u3067\u6700\u3082\u4e00\u822c\u7684\u306a\u547c\u3073\u65b9\u306e\u30c1\u30bf\u30f3\u3068\u306f\u30c9\u30a4\u30c4\u8a9e\u98a8\u306e\u8aad\u307f\u65b9\u3060\u304c\u3001\u30c1\u30bf\u30cb\u30a6\u30e0\u3068\u547c\u3070\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u3002\u3053\u308c\u306f\u30e9\u30c6\u30f3\u8a9e\u98a8\u306e\u8aad\u307f\u65b9\u3067\u3042\u308a\u3001\u82f1\u8a9e\u98a8\u306e\u8aad\u307f\u65b9\u306f\u30bf\u30a4\u30c6\u30a4\u30cb\u30a6\u30e0\u3068\u8a00\u3046\u3002 \u5730\u7403\u3092\u69cb\u6210\u3059\u308b\u5730\u6bbb\u306e\u6210\u5206\u3068\u3057\u30669\u756a\u76ee\u306b\u591a\u3044\u5143\u7d20\u3067\u3001\u9077\u79fb\u5143\u7d20\u3068\u3057\u3066\u306f\u9244\u306b\u6b21\u3050\u3002\u666e\u901a\u306b\u898b\u3089\u308c\u308b\u9020\u5ca9\u9271\u7269\u3067\u3042\u308b\u30eb\u30c1\u30eb\u3084\u30c1\u30bf\u30f3\u9244\u9271\u3068\u3044\u3063\u305f\u9271\u7269\u306e\u4e3b\u6210\u5206\u3067\u3042\u308b\u3002\u81ea\u7136\u754c\u306e\u5b58\u5728\u306f\u8c4a\u5bcc\u3067\u3042\u308b\u304c\u3001\u3055\u307b\u3069\u9ad8\u304f\u306a\u3044\u96c6\u7a4d\u5ea6\u3084\u88fd\u932c\u306e\u96e3\u3057\u3055\u304b\u3089\u3001\u91d1\u5c5e\u3068\u3057\u3066\u5e83\u304f\u7528\u3044\u3089\u308c\u308b\u69d8\u306b\u306a\u3063\u305f\u306e\u306f\u6bd4\u8f03\u7684\u6700\u8fd1\u3067\u3042\u308b\u3002\u30c1\u30bf\u30f3\u306e\u6027\u8cea\u306f\u5316\u5b66\u7684\u30fb\u7269\u7406\u7684\u306b\u30b8\u30eb\u30b3\u30cb\u30a6\u30e0\u306b\u8fd1\u3044\u3002\u9178\u5316\u7269\u3067\u3042\u308b\u9178\u5316\u30c1\u30bf\u30f3(IV)\u306f\u975e\u5e38\u306b\u5b89\u5b9a\u306a\u5316\u5408\u7269\u3067\u3001\u767d\u8272\u9854\u6599\u3068\u3057\u3066\u5229\u7528\u3055\u308c\u3001\u307e\u305f\u5149\u89e6\u5a92\u3068\u3057\u3066\u306e\u6027\u8cea\u3092\u6301\u3064\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u9226\u662f\u5316\u5b78\u5143\u7d20\uff0c\u5316\u5b78\u7b26\u865fTi\uff0c\u539f\u5b50\u5e8f\u657822\uff0c\u662f\u9280\u767d\u8272\u904e\u6e21\u91d1\u5c6c\uff0c\u5176\u7279\u5fb5\u70ba\u91cd\u91cf\u8f15\u3001\u5f37\u5ea6\u9ad8\u3001\u5177\u91d1\u5c6c\u5149\u6fa4\uff0c\u4ea6\u6709\u826f\u597d\u7684\u6297\u8150\u8755\u80fd\u529b\uff08\u5305\u62ec\u6d77\u6c34\u3001\u738b\u6c34\u53ca\u6c2f\u6c23\uff09\u3002\u7531\u4e8e\u5176\u7a33\u5b9a\u7684\u5316\u5b66\u6027\u8d28\uff0c\u826f\u597d\u7684\u8010\u9ad8\u6e29\u3001\u8010\u4f4e\u6e29\u3001\u6297\u5f3a\u9178\u3001\u6297\u5f3a\u78b1\uff0c\u4ee5\u53ca\u9ad8\u5f3a\u5ea6\u3001\u4f4e\u5bc6\u5ea6\uff0c\u7372\u7f8e\u8a89\u4e3a\u201c\u592a\u7a7a\u91d1\u5c5e\u201d\u3002\u9226\u65bc1791\u5e74\u7531\u683c\u96f7\u6208\u723e\u65bc\u82f1\u570b\u5eb7\u6c83\u723e\u90e1\u767c\u73fe\uff0c\u4e26\u7531\u514b\u62c9\u666e\u7f85\u7279\u7528\u5e0c\u81d8\u795e\u8a71\u7684\u6cf0\u5766\u70ba\u5176\u547d\u540d\u3002 \u949b\u88ab\u8ba4\u4e3a\u662f\u4e00\u79cd\u7a00\u6709\u91d1\u5c5e\uff0c\u8fd9\u662f\u7531\u4e8e\u5728\u81ea\u7136\u754c\u4e2d\u5176\u5b58\u5728\u5206\u6563\u5e76\u96be\u4e8e\u63d0\u53d6\u3002\u4f46\u5176\u76f8\u5bf9\u4e30\u5ea6\u5728\u6240\u6709\u5143\u7d20\u4e2d\u5c45\u7b2c\u5341\u4f4d\u3002\u9226\u7684\u7926\u77f3\u4e3b\u8981\u6709\u9226\u9435\u7926\u53ca\u91d1\u7d05\u77f3\uff0c\u5ee3\u4f48\u65bc\u5730\u6bbc\u53ca\u5ca9\u77f3\u5708\u4e4b\u4e2d\u3002\u9226\u4ea6\u540c\u6642\u5b58\u5728\u65bc\u5e7e\u4e4e\u6240\u6709\u751f\u7269\u3001\u5ca9\u77f3\u3001\u6c34\u9ad4\u53ca\u571f\u58e4\u4e2d\u3002\u5f9e\u4e3b\u8981\u7926\u77f3\u4e2d\u8403\u53d6\u51fa\u9226\u9700\u8981\u7528\u5230\u514b\u7f85\u723e\u6cd5\u6216\u4ea8\u7279\u6cd5\u3002\u9226\u6700\u5e38\u898b\u7684\u5316\u5408\u7269\u662f\u4e8c\u6c27\u5316\u9226\uff0c\u53ef\u7528\u65bc\u88fd\u9020\u767d\u8272\u984f\u6599\u3002\u5176\u4ed6\u5316\u5408\u7269\u9084\u5305\u62ec\u56db\u6c2f\u5316\u9226\uff08TiCl4\uff0c\u4f5c\u50ac\u5316\u5291\u53ca\u7528\u65bc\u88fd\u9020\u7159\u5e55\u6216\u7a7a\u4e2d\u6587\u5b57\uff09\u53ca\u4e09\u6c2f\u5316\u9226\uff08TiCl3\uff0c\u7528\u65bc\u50ac\u5316\u805a\u4e19\u70ef\u7684\u751f\u7522\uff09\u3002 \u9226\u80fd\u8207\u9435\u3001\u92c1\u3001\u91e9\u6216\u926c\u7b49\u5176\u4ed6\u5143\u7d20\u7194\u6210\u5408\u91d1\uff0c\u9020\u51fa\u9ad8\u5f37\u5ea6\u7684\u8f15\u5408\u91d1\uff0c\u5728\u5404\u65b9\u9762\u6709\u7740\u5ee3\u6cdb\u7684\u61c9\u7528\uff0c\u5305\u62ec\u822a\u5929\uff08\u5674\u6c23\u767c\u52d5\u6a5f\u3001\u5c0e\u5f48\u53ca\u822a\u5929\u5668\uff09\u3001\u8ecd\u4e8b\u3001\u5de5\u696d\u7a0b\u5e8f\uff08\u5316\u5de5\u8207\u77f3\u6cb9\u88fd\u54c1\u3001\u6d77\u6c34\u6de1\u5316\u53ca\u9020\u7d19\uff09\u3001\u6c7d\u8eca\u3001\u8fb2\u7522\u98df\u54c1\u3001\u91ab\u5b78\uff08\u7fa9\u80a2\u3001\u9aa8\u79d1\u79fb\u690d\u53ca\u7259\u79d1\u5668\u68b0\u8207\u586b\u5145\u7269\uff09\u3001\u904b\u52d5\u7528\u54c1\u3001\u73e0\u5bf6\u53ca\u624b\u6a5f\u7b49\u7b49\u3002 \u9226\u6700\u6709\u7528\u7684\u5169\u500b\u7279\u6027\u662f\uff0c\u6297\u8150\u8755\u6027\uff0c\u53ca\u91d1\u5c6c\u4e2d\u6700\u9ad8\u7684\u5f37\u5ea6\uff0d\u91cd\u91cf\u6bd4\u3002\u5728\u975e\u5408\u91d1\u7684\u72c0\u614b\u4e0b\uff0c\u9226\u7684\u5f37\u5ea6\u8ddf\u67d0\u4e9b\u92fc\u76f8\u82e5\uff0c\u4f46\u537b\u9084\u8981\u8f1545%\u3002\u6709\u5169\u7a2e\u540c\u7d20\u7570\u5f62\u9ad4\u548c\u4e94\u7a2e\u5929\u7136\u7684\u540c\u4f4d\u7d20\uff0c\u753146Ti\u523050Ti\uff0c\u5176\u4e2d\u8c50\u5ea6\u6700\u9ad8\u7684\u662f48Ti\uff0873.8%\uff09\u3002\u9226\u7684\u5316\u5b78\u6027\u8cea\u53ca\u7269\u7406\u6027\u8cea\u548c\u92ef\u76f8\u4f3c\uff0c\u9019\u662f\u56e0\u70ba\u5169\u8005\u7684\u50f9\u96fb\u5b50\u6578\u76ee\u76f8\u540c\uff0c\u4e26\u65bc\u5143\u7d20\u9031\u671f\u8868\u4e2d\u540c\u5c6c\u4e00\u65cf\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Le titane est l'\u00e9l\u00e9ment chimique de num\u00e9ro atomique 22, de symbole Ti. C'est un m\u00e9tal de transition l\u00e9ger, r\u00e9sistant, d'un aspect blanc m\u00e9tallique, qui r\u00e9siste \u00e0 la corrosion. Le titane est principalement utilis\u00e9 dans les alliages l\u00e9gers et r\u00e9sistants, et son oxyde est utilis\u00e9 comme pigment blanc. On trouve cet \u00e9l\u00e9ment dans de nombreux minerais mais ses principales sources sont le rutile et l'anatase.Il appartient au groupe des titanes avec le zirconium (Zr), le hafnium (Hf) et le rutherfordium (Rf). Les propri\u00e9t\u00e9s industriellement int\u00e9ressantes du titane sont sa r\u00e9sistance \u00e0 la corrosion, souvent associ\u00e9e \u00e0 la r\u00e9sistance \u00e0 l\u2019\u00e9rosion et au feu, la biocompatibilit\u00e9, mais aussi ses propri\u00e9t\u00e9s m\u00e9caniques (r\u00e9sistance, ductilit\u00e9, fatigue, etc.) qui permettent notamment de fa\u00e7onner des pi\u00e8ces fines et l\u00e9g\u00e8res comme les articles de sport, mais aussi des proth\u00e8ses orthop\u00e9diques.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Il titanio \u00e8 l'elemento chimico della tavola periodica degli elementi che ha come simbolo Ti e numero atomico 22. \u00c8 un metallo del blocco d, leggero, resistente, di colore bianco metallico, lucido, resistente alla corrosione. Il titanio viene utilizzato nelle leghe leggere resistenti e nei pigmenti bianchi; si trova in numerosi minerali (i principali sono il rutilo e l'ilmenite).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u062a\u064a\u062a\u0627\u0646\u064a\u0648\u0645 \u0647\u0648 \u0639\u0646\u0635\u0631 \u0643\u064a\u0645\u064a\u0627\u0626\u064a \u0641\u064a \u0627\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a \u0648\u0631\u0645\u0632\u0647 Ti \u0648\u0631\u0642\u0645\u0647 \u0627\u0644\u0630\u0631\u064a 22. \u0641\u0644\u0632 \u0627\u0646\u062a\u0642\u0627\u0644\u064a \u062e\u0641\u064a\u0641 \u0627\u0644\u0648\u0632\u0646\u060c \u0642\u0648\u064a\u060c \u0630\u0648 \u0644\u0645\u0639\u0627\u0646 \u0648\u0645\u0642\u0627\u0648\u0645 \u0644\u0644\u0635\u062f\u0623 (\u0628\u0645\u0627 \u0641\u064a\u0647 \u0645\u0627\u0621 \u0627\u0644\u0628\u062d\u0631 \u0648\u0627\u0644\u0643\u0644\u0648\u0631)\u060c \u0648\u0644\u0648\u0646\u0647 \u0645\u0639\u062f\u0646\u064a \u0623\u0628\u064a\u0636 \u0641\u0636\u064a. \u0648\u064a\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u062a\u064a\u062a\u0627\u0646\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u0633\u0628\u0627\u0626\u0643 \u0627\u0644\u0642\u0648\u064a\u0629 \u062e\u0641\u064a\u0641\u0629 \u0627\u0644\u0648\u0632\u0646 (\u0648\u062e\u0635\u0648\u0635\u0627\u064b \u0645\u0639 \u0627\u0644\u062d\u062f\u064a\u062f \u0648\u0627\u0644\u0623\u0644\u0648\u0645\u0646\u064a\u0648\u0645) \u0648\u0623\u0643\u062b\u0631 \u0645\u0631\u0643\u0628\u0627\u062a\u0647 \u0634\u064a\u0648\u0639\u0627\u064b \u0647\u064a \u062b\u0627\u0646\u064a \u0623\u0643\u0633\u064a\u062f \u0627\u0644\u062a\u064a\u062a\u0627\u0646\u064a\u0648\u0645\u060c \u0648\u0627\u0644\u0630\u064a \u064a\u0633\u062a\u0639\u0645\u0644 \u0641\u064a \u0627\u0644\u0635\u0628\u063a\u0627\u062a \u0627\u0644\u0628\u064a\u0636\u0627\u0621. \u0648\u0645\u0646 \u0627\u0633\u062a\u062e\u062f\u0627\u0645\u0627\u062a \u062a\u0644\u0643 \u0627\u0644\u0635\u0628\u063a\u0627\u062a \u0627\u0644\u0628\u064a\u0636\u0627\u0621: \u0633\u0627\u0626\u0644 \u062a\u0635\u062d\u064a\u062d \u0627\u0644\u0637\u0628\u0627\u0639\u0629 \u0627\u0644\u0623\u0628\u064a\u0636 \u0648\u0627\u0644\u062f\u0647\u0627\u0646\u0627\u062a \u0627\u0644\u0628\u064a\u0636\u0627\u0621. \u0648\u064a\u0633\u062a\u062e\u062f\u0645 \u0643\u0630\u0644\u0643 \u0641\u064a \u0645\u0639\u062c\u0648\u0646 \u0627\u0644\u0623\u0633\u0646\u0627\u0646\u060c \u0639\u0644\u0627\u0645\u0627\u062a \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0628\u064a\u0636\u0627\u0621\u060c \u0648\u0641\u064a \u0627\u0644\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0646\u0627\u0631\u064a\u0629 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 \u0627\u0644\u0644\u0648\u0646.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "O tit\u00e2nio \u00e9 um elemento qu\u00edmico de s\u00edmbolo Ti, n\u00famero at\u00f4mico 22 (22 pr\u00f3tons e 22 el\u00e9trons) com massa at\u00f4mica 47,90 u. Trata-se de um metal de transi\u00e7\u00e3o leve, forte, cor branca met\u00e1lica, lustroso e resistente \u00e0 corros\u00e3o, s\u00f3lido na temperatura ambiente. O tit\u00e2nio \u00e9 muito utilizado em ligas leves e em pigmento branco. O tit\u00e2nio foi descoberto em Cornualha por William Justin Gregor em 1791 e nomeado por Martin Heinrich Klaproth pela proximidade das caracter\u00edsticas do filho mitol\u00f3gico do c\u00e9u (Uranus) e da terra (Gaia), gigantes considerados personifica\u00e7\u00f5es das for\u00e7as da natureza para a mitologia grega. Este elemento encontra-se em v\u00e1rios minerais, em especial no rutilo e na Ilmenita que s\u00e3o geralmente encontrados na litosfera, e \u00e9 encontrado em quase todos os tipos de rochas, solos e corpos de \u00e1gua. O metal produzido comercialmente \u00e9 extra\u00eddo do rutilo e da ilmenita e fabricado pelo processo Kroll ou pelo processo Hunter. O composto mais comum do tit\u00e2nio \u00e9 o di\u00f3xido de tit\u00e2nio que \u00e9 um popular fotocatalisador e \u00fatil na produ\u00e7\u00e3o de tinta com colora\u00e7\u00e3o branca. Outros compostos incluem o tetracloreto de tit\u00e2nio (TiCl4), uma subst\u00e2ncia utilizada para a produ\u00e7\u00e3o de catalisadores e fumos para fins militares e o cloreto de tit\u00e2nio (III) (TiCl3), que \u00e9 uma subst\u00e2ncia catalisadora para a produ\u00e7\u00e3o de polipropileno. O tit\u00e2nio pode ser utilizado para a produ\u00e7\u00e3o de ligas com ferro, alum\u00ednio, van\u00e1dio e molibd\u00eanio, entre outros elementos, para aumentar a resist\u00eancia mec\u00e2nica, utilizada na ind\u00fastria aeroespacial (motores, m\u00edsseis e foguetes). Tamb\u00e9m \u00e9 utilizado para a produ\u00e7\u00e3o de catalisadores na ind\u00fastria qu\u00edmica e petroqu\u00edmica, automobil\u00edstica, agr\u00edcola, m\u00e9dica (para a produ\u00e7\u00e3o de implantes ortop\u00e9dicos, pr\u00f3teses e instrumentos odontol\u00f3gicos), em produtos esportivos, j\u00f3ias, telefones celulares, entre outros. A duas propriedades mais utilizadas do tit\u00e2nio s\u00e3o: a resist\u00eancia \u00e0 corros\u00e3o e a maior rela\u00e7\u00e3o densidade/for\u00e7a se comparado com outros elementos qu\u00edmicos. Nas ligas, o tit\u00e2nio \u00e9 forte como o ferro, por\u00e9m sua densidade \u00e9 aproximadamente 45% menor se comparado ao ferro. Na natureza encontra-se duas forma\u00e7\u00f5es alotr\u00f3picas  e cinco is\u00f3topos deste elemento, sendo eles: 46Ti at\u00e9 50Ti, com 48Ti, sendo o \u00faltimo o mais abundante na natureza, cerca de 73,8%. As propriedades f\u00edsicas e qu\u00edmicas do tit\u00e2nio s\u00e3o similares \u00e0s do zirc\u00f4nio, porque ambos t\u00eam o mesmo n\u00famero de val\u00eancia e encontram-se no mesmo grupo da tabela peri\u00f3dica.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "El titanio es un elemento qu\u00edmico de s\u00edmbolo Ti y n\u00famero at\u00f3mico 22. Se trata de un metal de transici\u00f3n de color gris plata. Comparado con el acero, aleaci\u00f3n con la que compite en aplicaciones t\u00e9cnicas, es mucho m\u00e1s ligero (4,5/7,8). Tiene alta resistencia a la corrosi\u00f3n y gran resistencia mec\u00e1nica, pero es mucho m\u00e1s costoso que aqu\u00e9l, lo cual limita sus usos industriales. Es un metal abundante en la naturaleza; se considera que es el cuarto metal estructural m\u00e1s abundante en la superficie terrestre y el noveno en la gama de metales industriales. No se encuentra en estado puro sino en forma de \u00f3xidos, en la escoria de ciertos minerales de hierro y en las cenizas de animales y plantas. Su utilizaci\u00f3n se ha generalizado con el desarrollo de la tecnolog\u00eda aeroespacial, donde es capaz de soportar las condiciones extremas de fr\u00edo y calor que se dan en el espacio y en la industria qu\u00edmica, por ser resistente al ataque de muchos \u00e1cidos; asimismo, este metal tiene propiedades biocompatibles, dado que los tejidos del organismo toleran su presencia, por lo que es factible la fabricaci\u00f3n de muchas pr\u00f3tesis e implantes de este metal.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Titaan of ook wel titanium genoemd is een scheikundig element met symbool Ti en atoomnummer 22. Het is een grijs metallisch overgangsmetaal, het behoort met zirkonium (Zr), hafnium (Hf) en rutherfordium (Rf) tot de titaangroep.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Tytan (Ti, \u0142ac. titanium) \u2013 pierwiastek chemiczny z grupy metali przej\u015bciowych w uk\u0142adzie okresowym o liczbie atomowej 22. To lekki metal o szarawym kolorze. Ma wysok\u0105 wytrzyma\u0142o\u015b\u0107 mechaniczn\u0105, jest odporny na korozj\u0119 (w tym r\u00f3wnie\u017c wody morskiej i chloru). Tytan jest dodawany jako dodatek stopowy do \u017celaza, aluminium, wanadu, molibdenu i innych. Stopy tytanu s\u0105 wykorzystywane w przemy\u015ble lotniczym (silniki odrzutowe, promy kosmiczne), militarnym, procesach metalurgicznych, motoryzacyjnym, medycznym (protezy dentystyczne, ortopedyczne klamry), sport\u00f3w ekstremalnych i innych. Zosta\u0142 odkryty w Wielkiej Brytanii przez Williama Gregora w 1791. Nazw\u0119 pochodz\u0105c\u0105 od b\u00f3stw z mitologii greckiej zawdzi\u0119cza Martinowi Heinrichowi Klaprothowi. Wyst\u0119puje w skorupie ziemskiej w ilo\u015bciach rz\u0119du 0,61%, w postaci minera\u0142\u00f3w: ilmenitu, rutylu i tytanitu, kt\u00f3re s\u0105 szeroko rozpowszechnione na ca\u0142ej Ziemi. Metaliczny tytan otrzymujemy przez przer\u00f3b rud w procesie Krolla. Jego najbardziej rozpowszechniony zwi\u0105zek \u2013 dwutlenek tytanu znajduje zastosowanie w produkcji bia\u0142ych pigment\u00f3w. Inne zwi\u0105zki zawieraj\u0105ce tytan to czterochlorek tytanu u\u017cywany do zas\u0142on dymnych oraz jako katalizator i tr\u00f3jchlorek tytanu, kt\u00f3ry znajduje zastosowanie jako katalizator w produkcji polipropylenu. Dwie najbardziej u\u017cyteczne w\u0142asno\u015bci tytanu to jego odporno\u015b\u0107 na korozj\u0119 oraz najwy\u017cszy stosunek wytrzyma\u0142o\u015bci mechanicznej do jego ci\u0119\u017caru. Znane s\u0105 dwie odmiany alotropowe pierwiastka. Posiada pi\u0119\u0107 trwa\u0142ych izotop\u00f3w o masach atomowych od 46 do 50. W\u0142a\u015bciwo\u015bci fizykochemiczne tytanu s\u0105 podobne do cyrkonu.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Titanium is a chemical element with symbol Ti and atomic number 22. It is a lustrous transition metal with a silver color, low density and high strength. It is highly resistant to corrosion in sea water, aqua regia, and chlorine. Titanium was discovered in Cornwall, Great Britain, by William Gregor in 1791 and named by Martin Heinrich Klaproth for the Titans of Greek mythology. The element occurs within a number of mineral deposits, principally rutile and ilmenite, which are widely distributed in the Earth's crust and lithosphere, and it is found in almost all living things, rocks, water bodies, and soils. The metal is extracted from its principal mineral ores by the Kroll and Hunter processes. The most common compound, titanium dioxide, is a popular photocatalyst and is used in the manufacture of white pigments. Other compounds include titanium tetrachloride (TiCl4), a component of smoke screens and catalysts; and titanium trichloride (TiCl3), which is used as a catalyst in the production of polypropylene. Titanium can be alloyed with iron, aluminium, vanadium, and molybdenum, among other elements, to produce strong, lightweight alloys for aerospace (jet engines, missiles, and spacecraft), military, industrial process (chemicals and petro-chemicals, desalination plants, pulp, and paper), automotive, agri-food, medical prostheses, orthopedic implants, dental and endodontic instruments and files, dental implants, sporting goods, jewelry, mobile phones, and other applications. The two most useful properties of the metal are corrosion resistance and the highest strength-to-density ratio of any metallic element. In its unalloyed condition, titanium is as strong as some steels, but less dense. There are two allotropic forms and five naturally occurring isotopes of this element, 46Ti through 50Ti, with 48Ti being the most abundant (73.8%). Although they have the same number of valence electrons and are in the same group in the periodic table, titanium and zirconium differ in many chemical and physical properties.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Titan ist ein chemisches Element mit dem Elementsymbol Ti und der Ordnungszahl 22. Es geh\u00f6rt zu den \u00dcbergangsmetallen und steht im Periodensystem in der 4. Nebengruppe (Gruppe 4) oder Titangruppe. Das Metall ist wei\u00df-metallisch gl\u00e4nzend, hat eine geringe Dichte, ist dehnbar, korrosions- und temperaturbest\u00e4ndig. In der Erdkruste geh\u00f6rt Titan zu den zehn h\u00e4ufigsten Elementen, kommt jedoch nur chemisch gebunden als Bestandteil von Mineralien vor.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0438\u0442\u0430\u0301\u043d (\u043b\u0430\u0442. Titanium; \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442\u0441\u044f \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u043c Ti) \u2014 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043f\u043e\u0431\u043e\u0447\u043d\u043e\u0439 \u043f\u043e\u0434\u0433\u0440\u0443\u043f\u043f\u044b \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b, \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u043e\u0433\u043e \u043f\u0435\u0440\u0438\u043e\u0434\u0430 \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u0414. \u0418. \u041c\u0435\u043d\u0434\u0435\u043b\u0435\u0435\u0432\u0430, \u0441 \u0430\u0442\u043e\u043c\u043d\u044b\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c 22. \u041f\u0440\u043e\u0441\u0442\u043e\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u043e \u0442\u0438\u0442\u0430\u043d \u2014 \u043b\u0451\u0433\u043a\u0438\u0439 \u043f\u0440\u043e\u0447\u043d\u044b\u0439 \u043c\u0435\u0442\u0430\u043b\u043b \u0441\u0435\u0440\u0435\u0431\u0440\u0438\u0441\u0442\u043e-\u0431\u0435\u043b\u043e\u0433\u043e \u0446\u0432\u0435\u0442\u0430. \u0421\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0434\u0432\u0443\u0445 \u043a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f\u0445: \u03b1-Ti \u0441 \u0433\u0435\u043a\u0441\u0430\u0433\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u043f\u043b\u043e\u0442\u043d\u043e\u0443\u043f\u0430\u043a\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0440\u0435\u0448\u0451\u0442\u043a\u043e\u0439, \u03b2-Ti \u0441 \u043a\u0443\u0431\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043e\u0431\u044a\u0451\u043c\u043d\u043e-\u0446\u0435\u043d\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0443\u043f\u0430\u043a\u043e\u0432\u043a\u043e\u0439, \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u043f\u043e\u043b\u0438\u043c\u043e\u0440\u0444\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u03b1\u2194\u03b2 883 \u00b0C. \u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u043f\u043b\u0430\u0432\u043b\u0435\u043d\u0438\u044f 1660\u00b120 \u00b0C. \u0422\u0438\u0442\u0430\u043d \u0438\u043c\u0435\u0435\u0442 \u0442\u0432\u0451\u0440\u0434\u043e\u0441\u0442\u044c \u043f\u043e \u0411\u0440\u0438\u043d\u0435\u043b\u043b\u044e 175 \u041c\u041f\u0430.",
+                "lang": "ru"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744791725,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 30040,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/b": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/n": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/q": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/species": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Element"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sibplaz": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Centre_for_the_Performing_Arts_(China)": {
+        "http://dbpedia.org/ontology/structuralSystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Canibal_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Titanium": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cerro_Blanco_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kwale_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Allegheny_Technologies": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titanium_Metals_Corporation": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titan_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/William_Gregor": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titan": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/VSMPO-AVISMA": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bixbyite": {
+        "http://dbpedia.org/property/impurities": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Eagle_Mk1": {
+        "http://dbpedia.org/property/chassis": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Exxaro": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Xolobeni_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/TI": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ankililoaka_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Basibasy_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ranobe_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Selv\u00e5g_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Engeb\u00f8_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Storgangen_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/R\u00f8dsand_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u00d8deg\u00e5rdite_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Engeb\u00f8fjell_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kodal_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Menachite": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titanium_ore": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titanium_Processing": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titanium_metallurgy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titaniferous": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Element_22": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titanium_bolts": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titanium_jewelry": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titanium_sponge": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titanium_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Period_4_element": {
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pod_(sculpture)": {
+        "http://dbpedia.org/property/material": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ruchar_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pudozhsky_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Yugo-Vostochnaya_Gremyakha_mine": {
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Titanium"
+            }
+        ]
+    }
+}

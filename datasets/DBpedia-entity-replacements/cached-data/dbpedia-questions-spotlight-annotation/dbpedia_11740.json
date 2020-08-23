@@ -1,0 +1,37 @@
+{
+    "@text": "Was Paracetamol medical condition treated pain and Amanita phalloides?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Paracetamol",
+            "@support": "1563",
+            "@types": "Wikidata:Q8386,DUL:ChemicalObject,DBpedia:Drug,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "Paracetamol",
+            "@offset": "4",
+            "@similarityScore": "0.9999999999626397",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Pain",
+            "@support": "7976",
+            "@types": "",
+            "@surfaceForm": "pain",
+            "@offset": "42",
+            "@similarityScore": "0.9986006975654248",
+            "@percentageOfSecondRank": "0.00112945350861616"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Amanita",
+            "@support": "1226",
+            "@types": "Wikidata:Q19088,DBpedia:Species,DBpedia:Fungus,DBpedia:Eukaryote",
+            "@surfaceForm": "Amanita",
+            "@offset": "51",
+            "@similarityScore": "0.9997605747449664",
+            "@percentageOfSecondRank": "2.3948258568288642E-4"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the Twitter hashtag for Emmanuel Macron?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Twitter",
+            "@support": "21908",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Twitter",
+            "@offset": "13",
+            "@similarityScore": "0.9999999990454285",
+            "@percentageOfSecondRank": "6.584702308767908E-10"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Hashtag",
+            "@support": "1126",
+            "@types": "",
+            "@surfaceForm": "hashtag",
+            "@offset": "21",
+            "@similarityScore": "0.9999086160131264",
+            "@percentageOfSecondRank": "9.138915664797473E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Emmanuel_Macron",
+            "@support": "557",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Emmanuel Macron",
+            "@offset": "33",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

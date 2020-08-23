@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me about a legal case applying to jurisdiction of the Supreme Court of the United states and contains the word Maryland in their name",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States",
+            "@support": "29220",
+            "@types": "",
+            "@surfaceForm": "Supreme Court",
+            "@offset": "59",
+            "@similarityScore": "0.980495988201295",
+            "@percentageOfSecondRank": "0.012426325495655446"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Maryland",
+            "@support": "48618",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Maryland",
+            "@offset": "116",
+            "@similarityScore": "0.9995705660237745",
+            "@percentageOfSecondRank": "2.795185472806552E-4"
+        }
+    ]
+}

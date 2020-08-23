@@ -1,0 +1,614 @@
+{
+    "http://dbpedia.org/resource/Thiol": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatOrganicCompounds"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatFunctionalGroups"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/ChemicalCompound"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Part113809207"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Relation100031921"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Material114580897"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Matter100020827"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Chemical114806838"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Compound114818238"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Substance100019613"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/OrganicCompound114727670"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Thiol",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u062b\u064a\u0648\u0644",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Tiole",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Tioli",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Tiol",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Thiole",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Tiol",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0438\u043e\u043b\u044b",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Thiol",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u786b\u9187",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u30c1\u30aa\u30fc\u30eb",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Thiol",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "En qu\u00edmica org\u00e1nica, un tiol es un compuesto que contiene el grupo funcional formado por un \u00e1tomo de azufre y un \u00e1tomo de hidr\u00f3geno (-SH). Siendo el azufre an\u00e1logo de un grupo hidroxilo (-OH), este grupo funcional es llamado grupo tiol o grupo sulfhidrilo. Tradicionalmente los tioles son denominados mercaptanos.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Em qu\u00edmica org\u00e2nica, um tiol, plural ti\u00f3is, \u00e9 um composto organossulfurado que cont\u00e9m um grupo -SH, designado por grupo tiol, grupo mercaptano ou grupo sulfidrilo ou sufidrila, ligado a um \u00e1tomo de carbono (\u2013C\u2013SH ou R\u2013SH, onde R representa um alcano, alceno, ou outro grupo de \u00e1tomos contendo carbono). Ti\u00f3is s\u00e3o os an\u00e1logos do enxofre de \u00e1lcoois (ou seja, o enxofre toma o lugar do oxig\u00eanio no grupo hidroxila de um \u00e1lcool), e a palavra \u00e9 uma am\u00e1lgama de \"tio\" + \"\u00e1lcool,\" com a primeira palavra derivando do grego \u03b8\u03b5\u1fd6\u03bf\u03bd (\"thion\") = \"enxofre\".",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062b\u064a\u0648\u0644 \u0641\u064a \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0621 \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0645\u062c\u0645\u0648\u0639\u0629 \u0648\u0638\u064a\u0641\u064a\u0629 \u062a\u062a\u0623\u0644\u0641 \u0645\u0646 \u0627\u0631\u062a\u0628\u0627\u0637 \u0627\u0644\u0643\u0628\u0631\u064a\u062a \u0645\u0639 \u0627\u0644\u0647\u064a\u062f\u0631\u0648\u062c\u064a\u0646 \u0628\u0631\u0627\u0628\u0637\u0629 \u0628\u0633\u064a\u0637\u0629 (SH-). \u0648\u0647\u064a \u0628\u0627\u0644\u062a\u0627\u0644\u064a \u062a\u0634\u0627\u0628\u0647 \u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0647\u064a\u062f\u0631\u0648\u0643\u0633\u064a\u0644 \u0641\u064a \u0627\u0644\u0643\u062d\u0648\u0644\u0627\u062a (OH-). \u062a\u062f\u0639\u0649 \u0627\u0644\u0645\u0631\u0643\u0628\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u062d\u0648\u064a \u0647\u0630\u0647 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0648\u0638\u064a\u0641\u064a\u0629 \u062b\u064a\u0648\u0644\u0627\u062a. \u0644\u0647\u0630\u0647 \u0627\u0644\u0645\u0631\u0643\u0628\u0627\u062a \u062a\u0633\u0645\u064a\u0629 \u0642\u062f\u064a\u0645\u0629 \u0644\u0627 \u062a\u0632\u0627\u0644 \u0645\u0633\u062a\u0639\u0645\u0644\u0629 \u0648\u0647\u064a \u0645\u0631\u0643\u0628\u062a\u0627\u0646\u0627\u062a \u0645\u0641\u0631\u062f\u0647\u0627 \u0645\u0631\u0643\u0628\u062a\u0627\u0646.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0438\u043e\u0301\u043b\u044b (\u043c\u0435\u0440\u043a\u0430\u043f\u0442\u0430\u0301\u043d\u044b) \u2014 \u0441\u0435\u0440\u043d\u0438\u0441\u0442\u044b\u0435 \u0430\u043d\u0430\u043b\u043e\u0433\u0438 \u0441\u043f\u0438\u0440\u0442\u043e\u0432 \u043e\u0431\u0449\u0435\u0439 \u0444\u043e\u0440\u043c\u0443\u043b\u044b RSH, \u0433\u0434\u0435 R \u2014 \u0443\u0433\u043b\u0435\u0432\u043e\u0434\u043e\u0440\u043e\u0434\u043d\u044b\u0439 \u0440\u0430\u0434\u0438\u043a\u0430\u043b, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043c\u0435\u0442\u0430\u043d\u0442\u0438\u043e\u043b (\u043c\u0435\u0442\u0438\u043b\u043c\u0435\u0440\u043a\u0430\u043f\u0442\u0430\u043d) (CH3SH), \u044d\u0442\u0430\u043d\u0442\u0438\u043e\u043b (\u044d\u0442\u0438\u043b\u043c\u0435\u0440\u043a\u0430\u043f\u0442\u0430\u043d) (C2H5SH) \u0438 \u0442. \u0434., \u0432 \u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u0438 IUPAC \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u00ab\u043c\u0435\u0440\u043a\u0430\u043f\u0442\u0430\u043d\u044b\u00bb \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u043e \u0443\u0441\u0442\u0430\u0440\u0435\u0432\u0448\u0438\u043c \u0438 \u043d\u0435 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u0442\u0441\u044f \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e. \u0421\u0432\u043e\u0451 \u043f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u00ab\u043c\u0435\u0440\u043a\u0430\u043f\u0442\u0430\u043d\u044b\u00bb \u0442\u0438\u043e\u043b\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0438 \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0441\u0432\u044f\u0437\u044b\u0432\u0430\u0442\u044c \u0438\u043e\u043d\u044b \u0440\u0442\u0443\u0442\u0438 (\u043e\u0442 \u043b\u0430\u0442. corpus mercurio captum), \u043e\u0431\u0440\u0430\u0437\u0443\u044f \u043d\u0435\u0440\u0430\u0441\u0442\u0432\u043e\u0440\u0438\u043c\u044b\u0435 \u0442\u0438\u043e\u043b\u044f\u0442\u044b.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Un thiol (prononc\u00e9 en fran\u00e7ais : /tj\u0254l/ ), parfois nomm\u00e9 mercaptan /m\u025b\u0281.kap.t\u0251\u0303/ (du latin mercurius captans, \u00ab qui capte le mercure \u00bb), est un compos\u00e9 organique comportant un groupement thiol -SH (groupement sulfhydryle) attach\u00e9 \u00e0 un atome de carbone. Les thiols ont \u00e9t\u00e9 d\u00e9couverts par William Christopher Zeise. Quand ils sont pr\u00e9sents dans des prot\u00e9ines (souvent impliqu\u00e9es dans la captation de m\u00e9taux lourds ou d'autres m\u00e9taux toxiques), ces prot\u00e9ines (intervenant dans la d\u00e9toxication des organes et/ou d'organismes) sont dites thioprot\u00e9ines.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Een thiol is een organische verbinding, afgeleid van een alcohol, waarin het zuurstof-atoom van de alcoholgroep is vervangen door een zwavelatoom (R-SH). Ook de verouderde term mercaptaan wordt nog gebruikt. De functionele groep zelf wordt ook benoemd met thiol of sulfhydryl. Door de zwavelverbinding zijn thiolen sterk geurend, waardoor ze ook in lage concentraties waargenomen kunnen worden. Thiolen worden dan ook gebruikt als additief aan reukloze gassen, zoals aardgas, butaan en propaan om de gebruiker te waarschuwen in geval van lekkage.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "I tioli (tioalcoli o mercaptani) sono composti organici assimilabili ad alcoli in cui l'atomo di ossigeno \u00e8 stato sostituito da un atomo di zolfo, aventi quindi formula generale R-SH. Caratteristica comune a quasi tutti i tioli \u00e8 il possedere un intenso odore sgradevole. Semplici tioli vengono aggiunti al metano come \"odorizzanti\", per poterne svelare eventuali fughe.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u786b\u9187\u662f\u5305\u542b\u5def\u57fa\u5b98\u80fd\u56e2\uff08-SH\uff09\u7684\u4e00\u7c7b\u975e\u82b3\u9999\u5316\u5408\u7269\u3002\u662f\u4e00\u7c7b\u6709\u673a\u786b\u5316\u5408\u7269\u3002\u53ef\u4ee5\u770b\u6210\u9187\u4e2d\u7684\u6c27\u88ab\u786b\u66ff\u6362",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Thioalkohole sind organisch-chemische Verbindungen, die eine oder mehrere aliphatisch oder aromatisch gebundene Thiolgruppen (auch Mercaptogruppen) (\u2212SH) als funktionelle Gruppen tragen. Thioalkohole entsprechen Alkoholen, deren Sauerstoffatom durch ein Schwefelatom ersetzt ist. Wie sich Alkohole und Phenole formal vom Wasser (H2O) ableiten, sind die Thioalkohole und Thiophenole Abk\u00f6mmlinge des Schwefelwasserstoffs (H2S). Alkanthiole leiten sich direkt von den Alkanen mit Thiolgruppe ab. Thioalkohole bilden zusammen mit den Thiophenolen die Gruppe der Thiole.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "In organic chemistry, a thiol (/\u02c8\u03b8a\u026a\u0254\u02d0l/, /\u02c8\u03b8a\u026a\u0252l/) is an organosulfur compound that contains a carbon-bonded sulfhydryl or sulphydryl (\u2013C\u2013SH or R\u2013SH) group (where R represents an alkyl or other organic substituent). Thiols are the sulfur analogue of alcohols (that is, sulfur takes the place of oxygen in the hydroxyl group of an alcohol), and the word is a portmanteau of \"thion\" + \"alcohol,\" with the first word deriving from Greek \u03b8\u03b5\u1fd6\u03bf\u03bd (theion) = \"sulfur\". The \u2013SH functional group itself is referred to as either a thiol group or a sulfhydryl group.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u30c1\u30aa\u30fc\u30eb (thiol) \u306f\u6c34\u7d20\u5316\u3055\u308c\u305f\u786b\u9ec4\u3092\u672b\u7aef\u306b\u6301\u3064\u6709\u6a5f\u5316\u5408\u7269\u3067\u3001\u30e1\u30eb\u30ab\u30d7\u30bf\u30f3\u985e (mercaptans) \u3068\u3082\u547c\u3070\u308c\u308b\u3002\u30c1\u30aa\u30fc\u30eb\u306f R\u2212SH\uff08R \u306f\u6709\u6a5f\u57fa\uff09\u3067\u3042\u3089\u308f\u3055\u308c\u308b\u69cb\u9020\u3092\u6301\u3061\u3001\u30a2\u30eb\u30b3\u30fc\u30eb\u306e\u9178\u7d20\u304c\u786b\u9ec4\u3067\u7f6e\u63db\u3055\u308c\u305f\u3082\u306e\u3068\u7b49\u3057\u3044\u3053\u3068\u304b\u3089\u3001\u30c1\u30aa\u30a2\u30eb\u30b3\u30fc\u30eb\u3068\u3082\u547c\u3070\u308c\u308b\u3002\u307e\u305f\u7f6e\u63db\u57fa\u3068\u3057\u3066\u547c\u79f0\u3055\u308c\u308b\u5834\u5408\u306f\u3001\u305d\u306e\u307e\u307e\u30c1\u30aa\u30fc\u30eb\u57fa\u3068\u547c\u3070\u308c\u305f\u308a\u3001\u6c34\u786b\u57fa\u3001\u30c1\u30aa\u30fc\u30eb\u57fa\u3001\u30b9\u30eb\u30d5\u30d2\u30c9\u30ea\u30eb\u57fa\u3068\u547c\u79f0\u3055\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u3002\u307e\u305f\u3001\u6614\u306a\u304c\u3089\u306e\u30e1\u30eb\u30ab\u30d7\u30c8\u57fa\u3068\u547c\u3070\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Tiole, tioalkohole (ze starogreckiego: \u03b8\u03b5\u1fd6\u03bf\u03bd (theion) = siarka; dawniej merkaptany; z \u0142ac. mercurium captans = wi\u0105\u017c\u0105cy rt\u0119\u0107) \u2013 grupa organicznych zwi\u0105zk\u00f3w chemicznych, odpowiednik\u00f3w alkoholi, w kt\u00f3rych atom tlenu grupy hydroksylowej zosta\u0142 zast\u0105piony atomem siarki. Do tioli nale\u017c\u0105 m.in. \n*  cysteina \n*  koenzym A \n*  \u03b2-merkaptoetanol (HO\u2212CH2CH2\u2212SH) oraz ditiotreitol, stosowane jako reduktory wi\u0105za\u0144 disiarczkowych",
+                "lang": "pl"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Tiol"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Merkaptano"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q220410"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Tiol"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Thiol"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Tiole"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Thioly"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0k_yb"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Thiol"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0398\u03b5\u03b9\u03cc\u03bb\u03b5\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Tioli"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Thiole"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Thiol"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Tiol"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q220410"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc2f8\uc774\uc62c"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30c1\u30aa\u30fc\u30eb"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Organosulfur_compounds"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Thiols"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Functional_groups"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Mercapto_Group_General_Formulae.png"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Thiol"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Thiol?oldid=745077479"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.columbiagaspamd.com/community_outreach/mercaptan.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://chemistry.about.com/od/chemistryfaqs/f/blsmell.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.periodicvideos.com/videos/mv_smelly.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.factmonster.com/ce6/sci/A0832739.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://dysa.northwestern.edu/CurrOrgChem.pdf"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "I tioli (tioalcoli o mercaptani) sono composti organici assimilabili ad alcoli in cui l'atomo di ossigeno \u00e8 stato sostituito da un atomo di zolfo, aventi quindi formula generale R-SH. Caratteristica comune a quasi tutti i tioli \u00e8 il possedere un intenso odore sgradevole. Semplici tioli vengono aggiunti al metano come \"odorizzanti\", per poterne svelare eventuali fughe. L'etimologia di mercaptano deriva dal latino (mercurius captans), in quanto fu osservato che i composti contenenti gruppi sulfidrilici si legano fortemente all'elemento mercurio. Sebbene tale nome non sia pi\u00f9 usato correntemente, preferendosi il pi\u00f9 moderno tiolo, fino al 1993 fu raccomandato dalla IUPAC il termine mercapto- come prefisso per il gruppo funzionale (-SH), successivamente fu sostituito da solfanil-.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Thioalkohole sind organisch-chemische Verbindungen, die eine oder mehrere aliphatisch oder aromatisch gebundene Thiolgruppen (auch Mercaptogruppen) (\u2212SH) als funktionelle Gruppen tragen. Thioalkohole entsprechen Alkoholen, deren Sauerstoffatom durch ein Schwefelatom ersetzt ist. Wie sich Alkohole und Phenole formal vom Wasser (H2O) ableiten, sind die Thioalkohole und Thiophenole Abk\u00f6mmlinge des Schwefelwasserstoffs (H2S). Alkanthiole leiten sich direkt von den Alkanen mit Thiolgruppe ab. Thioalkohole bilden zusammen mit den Thiophenolen die Gruppe der Thiole.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062b\u064a\u0648\u0644 \u0641\u064a \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0621 \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0645\u062c\u0645\u0648\u0639\u0629 \u0648\u0638\u064a\u0641\u064a\u0629 \u062a\u062a\u0623\u0644\u0641 \u0645\u0646 \u0627\u0631\u062a\u0628\u0627\u0637 \u0627\u0644\u0643\u0628\u0631\u064a\u062a \u0645\u0639 \u0627\u0644\u0647\u064a\u062f\u0631\u0648\u062c\u064a\u0646 \u0628\u0631\u0627\u0628\u0637\u0629 \u0628\u0633\u064a\u0637\u0629 (SH-). \u0648\u0647\u064a \u0628\u0627\u0644\u062a\u0627\u0644\u064a \u062a\u0634\u0627\u0628\u0647 \u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0647\u064a\u062f\u0631\u0648\u0643\u0633\u064a\u0644 \u0641\u064a \u0627\u0644\u0643\u062d\u0648\u0644\u0627\u062a (OH-). \u062a\u062f\u0639\u0649 \u0627\u0644\u0645\u0631\u0643\u0628\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u062d\u0648\u064a \u0647\u0630\u0647 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0648\u0638\u064a\u0641\u064a\u0629 \u062b\u064a\u0648\u0644\u0627\u062a. \u0644\u0647\u0630\u0647 \u0627\u0644\u0645\u0631\u0643\u0628\u0627\u062a \u062a\u0633\u0645\u064a\u0629 \u0642\u062f\u064a\u0645\u0629 \u0644\u0627 \u062a\u0632\u0627\u0644 \u0645\u0633\u062a\u0639\u0645\u0644\u0629 \u0648\u0647\u064a \u0645\u0631\u0643\u0628\u062a\u0627\u0646\u0627\u062a \u0645\u0641\u0631\u062f\u0647\u0627 \u0645\u0631\u0643\u0628\u062a\u0627\u0646.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u786b\u9187\u662f\u5305\u542b\u5def\u57fa\u5b98\u80fd\u56e2\uff08-SH\uff09\u7684\u4e00\u7c7b\u975e\u82b3\u9999\u5316\u5408\u7269\u3002\u662f\u4e00\u7c7b\u6709\u673a\u786b\u5316\u5408\u7269\u3002\u53ef\u4ee5\u770b\u6210\u9187\u4e2d\u7684\u6c27\u88ab\u786b\u66ff\u6362",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "In organic chemistry, a thiol (/\u02c8\u03b8a\u026a\u0254\u02d0l/, /\u02c8\u03b8a\u026a\u0252l/) is an organosulfur compound that contains a carbon-bonded sulfhydryl or sulphydryl (\u2013C\u2013SH or R\u2013SH) group (where R represents an alkyl or other organic substituent). Thiols are the sulfur analogue of alcohols (that is, sulfur takes the place of oxygen in the hydroxyl group of an alcohol), and the word is a portmanteau of \"thion\" + \"alcohol,\" with the first word deriving from Greek \u03b8\u03b5\u1fd6\u03bf\u03bd (theion) = \"sulfur\". The \u2013SH functional group itself is referred to as either a thiol group or a sulfhydryl group. Many thiols have strong odors resembling that of garlic or rotten eggs. Thiols are used as odorants to assist in the detection of natural gas (which in pure form is odorless), and the \"smell of natural gas\" is due to the smell of the thiol used as the odorant. Thiols are sometimes referred to as mercaptans. The term mercaptan /m\u0259r\u02c8k\u00e6pt\u00e6n/ was introduced in 1832 by William Christopher Zeise and is derived from the Latin mercurium capt\u0101ns (capturing mercury) because the thiolate group bonds very strongly with mercury compounds. Thiols react with mercury to form mercaptides.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Un thiol (prononc\u00e9 en fran\u00e7ais : /tj\u0254l/ ), parfois nomm\u00e9 mercaptan /m\u025b\u0281.kap.t\u0251\u0303/ (du latin mercurius captans, \u00ab qui capte le mercure \u00bb), est un compos\u00e9 organique comportant un groupement thiol -SH (groupement sulfhydryle) attach\u00e9 \u00e0 un atome de carbone. Les thiols ont \u00e9t\u00e9 d\u00e9couverts par William Christopher Zeise. Ce sont en g\u00e9n\u00e9ral des compos\u00e9s \u00e0 forte odeur. Les thiols sont utilis\u00e9s notamment pour la fabrication de \u00ab boules puantes \u00bb (farces et attrapes) ou en additif. Ils sont aussi ajout\u00e9s \u00e0 tr\u00e8s faible dose au gaz domestique, naturellement inodore, pour aider \u00e0 d\u00e9tecter la pr\u00e9sence d'une fuite : quand on pense que cela sent le gaz, cela sent non pas le gaz, mais le thiol qui y est ajout\u00e9. Quand ils sont pr\u00e9sents dans des prot\u00e9ines (souvent impliqu\u00e9es dans la captation de m\u00e9taux lourds ou d'autres m\u00e9taux toxiques), ces prot\u00e9ines (intervenant dans la d\u00e9toxication des organes et/ou d'organismes) sont dites thioprot\u00e9ines.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Em qu\u00edmica org\u00e2nica, um tiol, plural ti\u00f3is, \u00e9 um composto organossulfurado que cont\u00e9m um grupo -SH, designado por grupo tiol, grupo mercaptano ou grupo sulfidrilo ou sufidrila, ligado a um \u00e1tomo de carbono (\u2013C\u2013SH ou R\u2013SH, onde R representa um alcano, alceno, ou outro grupo de \u00e1tomos contendo carbono). Ti\u00f3is s\u00e3o os an\u00e1logos do enxofre de \u00e1lcoois (ou seja, o enxofre toma o lugar do oxig\u00eanio no grupo hidroxila de um \u00e1lcool), e a palavra \u00e9 uma am\u00e1lgama de \"tio\" + \"\u00e1lcool,\" com a primeira palavra derivando do grego \u03b8\u03b5\u1fd6\u03bf\u03bd (\"thion\") = \"enxofre\". O nome de um tiol \u00e9 precedido do nome do hidrocarboneto: ex. etanotiol (C2H5SH). Muitos ti\u00f3is tem como caracter\u00edstica fortes odores que lembram o odor de alho. Por exemplo, o pr\u00f3prio cheiro caracter\u00edstico do alho \u00e9 produzido por etanotiol. Ti\u00f3is s\u00e3o usados \u200b\u200bcomo odorantes para auxiliar na detec\u00e7\u00e3o de derivados gasosos de hidrocarbonetos, como g\u00e1s natural (que na forma pura \u00e9 inodoro), assim como ao g\u00e1s liquefeito de petr\u00f3leo (pois o propano e butano que predominantemente o comp\u00f5e tamb\u00e9m s\u00e3o inodoros), vulgarmente, \u201cg\u00e1s de cozinha\u201d, e o \"cheiro de g\u00e1s natural\", assim como o popular \u201ccheiro de g\u00e1s\u201d \u00e9 devido ao cheiro do tiol usado como o odorante, proporcionando o odor desagrad\u00e1vel caracter\u00edstico quando h\u00e1 vazamentos. Ao contr\u00e1rio dos \u00e1lcoois eles s\u00e3o \u00e1cidos, reagindo com bases e alguns metais, formando compostos semelhantes a sais, os chamados tiolatos, que s\u00e3o definidos como os derivados de um tiol em que um \u00e1tomo de metal substitui o hidrog\u00eanio ligado ao enx\u00f4fre, similares aos alc\u00f3xidos: RSH \u2192 RS-M+. Ti\u00f3is s\u00e3o frequentemente referidos como mercaptanos. O termo mercaptano \u00e9 derivado do latim mercurium captans (capturando merc\u00fario) porque o grupo tiolato liga-se muito fortemente com os compostos de merc\u00fario.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "En qu\u00edmica org\u00e1nica, un tiol es un compuesto que contiene el grupo funcional formado por un \u00e1tomo de azufre y un \u00e1tomo de hidr\u00f3geno (-SH). Siendo el azufre an\u00e1logo de un grupo hidroxilo (-OH), este grupo funcional es llamado grupo tiol o grupo sulfhidrilo. Tradicionalmente los tioles son denominados mercaptanos.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0438\u043e\u0301\u043b\u044b (\u043c\u0435\u0440\u043a\u0430\u043f\u0442\u0430\u0301\u043d\u044b) \u2014 \u0441\u0435\u0440\u043d\u0438\u0441\u0442\u044b\u0435 \u0430\u043d\u0430\u043b\u043e\u0433\u0438 \u0441\u043f\u0438\u0440\u0442\u043e\u0432 \u043e\u0431\u0449\u0435\u0439 \u0444\u043e\u0440\u043c\u0443\u043b\u044b RSH, \u0433\u0434\u0435 R \u2014 \u0443\u0433\u043b\u0435\u0432\u043e\u0434\u043e\u0440\u043e\u0434\u043d\u044b\u0439 \u0440\u0430\u0434\u0438\u043a\u0430\u043b, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043c\u0435\u0442\u0430\u043d\u0442\u0438\u043e\u043b (\u043c\u0435\u0442\u0438\u043b\u043c\u0435\u0440\u043a\u0430\u043f\u0442\u0430\u043d) (CH3SH), \u044d\u0442\u0430\u043d\u0442\u0438\u043e\u043b (\u044d\u0442\u0438\u043b\u043c\u0435\u0440\u043a\u0430\u043f\u0442\u0430\u043d) (C2H5SH) \u0438 \u0442. \u0434., \u0432 \u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u0438 IUPAC \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u00ab\u043c\u0435\u0440\u043a\u0430\u043f\u0442\u0430\u043d\u044b\u00bb \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u043e \u0443\u0441\u0442\u0430\u0440\u0435\u0432\u0448\u0438\u043c \u0438 \u043d\u0435 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u0442\u0441\u044f \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e. \u0421\u0432\u043e\u0451 \u043f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u00ab\u043c\u0435\u0440\u043a\u0430\u043f\u0442\u0430\u043d\u044b\u00bb \u0442\u0438\u043e\u043b\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0438 \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0441\u0432\u044f\u0437\u044b\u0432\u0430\u0442\u044c \u0438\u043e\u043d\u044b \u0440\u0442\u0443\u0442\u0438 (\u043e\u0442 \u043b\u0430\u0442. corpus mercurio captum), \u043e\u0431\u0440\u0430\u0437\u0443\u044f \u043d\u0435\u0440\u0430\u0441\u0442\u0432\u043e\u0440\u0438\u043c\u044b\u0435 \u0442\u0438\u043e\u043b\u044f\u0442\u044b.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Een thiol is een organische verbinding, afgeleid van een alcohol, waarin het zuurstof-atoom van de alcoholgroep is vervangen door een zwavelatoom (R-SH). Ook de verouderde term mercaptaan wordt nog gebruikt. De functionele groep zelf wordt ook benoemd met thiol of sulfhydryl. Door de zwavelverbinding zijn thiolen sterk geurend, waardoor ze ook in lage concentraties waargenomen kunnen worden. Thiolen worden dan ook gebruikt als additief aan reukloze gassen, zoals aardgas, butaan en propaan om de gebruiker te waarschuwen in geval van lekkage. Thiolen hebben zeer veel toepassingen in de industrie. Ze worden onder andere gebruikt bij het produceren van rubber, plastic en synthetische harsen. Ze verbeteren namelijk de kwaliteit van rubber, plastic of hars door er een beter homogeen moleculaire massa van te maken. Verder worden ze ook nog gebruikt om het rendement van de extractie van koper, goud, uraan en platina te verbeteren.Thiolen vormen ook de basis van veel herbiciden, pesticiden en fungiciden (schimmelbestrijders). Ze hebben ook de eigenschap om de viscositeit te verbeteren in motoroli\u00ebn, en worden ten slotte verwerkt in farmaceutische en cosmetische producten.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Tiole, tioalkohole (ze starogreckiego: \u03b8\u03b5\u1fd6\u03bf\u03bd (theion) = siarka; dawniej merkaptany; z \u0142ac. mercurium captans = wi\u0105\u017c\u0105cy rt\u0119\u0107) \u2013 grupa organicznych zwi\u0105zk\u00f3w chemicznych, odpowiednik\u00f3w alkoholi, w kt\u00f3rych atom tlenu grupy hydroksylowej zosta\u0142 zast\u0105piony atomem siarki. Do tioli nale\u017c\u0105 m.in. \n*  cysteina \n*  koenzym A \n*  \u03b2-merkaptoetanol (HO\u2212CH2CH2\u2212SH) oraz ditiotreitol, stosowane jako reduktory wi\u0105za\u0144 disiarczkowych",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u30c1\u30aa\u30fc\u30eb (thiol) \u306f\u6c34\u7d20\u5316\u3055\u308c\u305f\u786b\u9ec4\u3092\u672b\u7aef\u306b\u6301\u3064\u6709\u6a5f\u5316\u5408\u7269\u3067\u3001\u30e1\u30eb\u30ab\u30d7\u30bf\u30f3\u985e (mercaptans) \u3068\u3082\u547c\u3070\u308c\u308b\u3002\u30c1\u30aa\u30fc\u30eb\u306f R\u2212SH\uff08R \u306f\u6709\u6a5f\u57fa\uff09\u3067\u3042\u3089\u308f\u3055\u308c\u308b\u69cb\u9020\u3092\u6301\u3061\u3001\u30a2\u30eb\u30b3\u30fc\u30eb\u306e\u9178\u7d20\u304c\u786b\u9ec4\u3067\u7f6e\u63db\u3055\u308c\u305f\u3082\u306e\u3068\u7b49\u3057\u3044\u3053\u3068\u304b\u3089\u3001\u30c1\u30aa\u30a2\u30eb\u30b3\u30fc\u30eb\u3068\u3082\u547c\u3070\u308c\u308b\u3002\u307e\u305f\u7f6e\u63db\u57fa\u3068\u3057\u3066\u547c\u79f0\u3055\u308c\u308b\u5834\u5408\u306f\u3001\u305d\u306e\u307e\u307e\u30c1\u30aa\u30fc\u30eb\u57fa\u3068\u547c\u3070\u308c\u305f\u308a\u3001\u6c34\u786b\u57fa\u3001\u30c1\u30aa\u30fc\u30eb\u57fa\u3001\u30b9\u30eb\u30d5\u30d2\u30c9\u30ea\u30eb\u57fa\u3068\u547c\u79f0\u3055\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u3002\u307e\u305f\u3001\u6614\u306a\u304c\u3089\u306e\u30e1\u30eb\u30ab\u30d7\u30c8\u57fa\u3068\u547c\u3070\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Mercapto_Group_General_Formulae.png?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 745077479,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 81628,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Compound"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mercaptan": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mercapto": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mercaptane": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sulfhydryl_group": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thiol_group": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Alkanethiol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thioxy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/-SH": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SH_group": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thiols": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Thiol": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sulfhydryl": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mercaptide": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Polythiol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/3-Mercapto-3-methylbutan-1-ol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sulphhydryl": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thiolate": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thioalcohol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sulfhydryl_compounds": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mercaptans": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/-thiol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thiolation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/1,2-Propanedithiol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/-sh": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thiolates": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thiyl": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thiol"
+            }
+        ]
+    }
+}

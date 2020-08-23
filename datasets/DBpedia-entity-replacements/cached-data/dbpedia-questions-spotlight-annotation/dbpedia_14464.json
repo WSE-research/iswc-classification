@@ -1,0 +1,28 @@
+{
+    "@text": "Does the BMW M20B20 have a torque equal to 160?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/BMW",
+            "@support": "10675",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "BMW",
+            "@offset": "9",
+            "@similarityScore": "0.9973888643361256",
+            "@percentageOfSecondRank": "0.0024376616460731913"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Torque",
+            "@support": "5521",
+            "@types": "",
+            "@surfaceForm": "torque",
+            "@offset": "27",
+            "@similarityScore": "0.9999968889207131",
+            "@percentageOfSecondRank": "1.910422746013354E-6"
+        }
+    ]
+}

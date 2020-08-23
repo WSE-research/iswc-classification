@@ -1,0 +1,37 @@
+{
+    "@text": "Why is the higher taxon of platyrrhini often confused with the monkey?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "18",
+            "@similarityScore": "0.9998605549622377",
+            "@percentageOfSecondRank": "1.3940463234547482E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/New_World_monkey",
+            "@support": "411",
+            "@types": "",
+            "@surfaceForm": "platyrrhini",
+            "@offset": "27",
+            "@similarityScore": "0.9999999999934488",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Monkey",
+            "@support": "3122",
+            "@types": "",
+            "@surfaceForm": "monkey",
+            "@offset": "63",
+            "@similarityScore": "0.9649818897755998",
+            "@percentageOfSecondRank": "0.02404488808672632"
+        }
+    ]
+}

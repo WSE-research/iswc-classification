@@ -1,0 +1,37 @@
+{
+    "@text": "What is the satellite that orbits Earth and has \"international\" in it's name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Satellite",
+            "@support": "9550",
+            "@types": "",
+            "@surfaceForm": "satellite",
+            "@offset": "12",
+            "@similarityScore": "0.9909617360815923",
+            "@percentageOfSecondRank": "0.0060435573938629715"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Earth",
+            "@support": "38658",
+            "@types": "Wikidata:Q634,Schema:Place,DBpedia:Planet,DBpedia:Place,DBpedia:Location,DBpedia:CelestialBody",
+            "@surfaceForm": "Earth",
+            "@offset": "34",
+            "@similarityScore": "0.999989054258058",
+            "@percentageOfSecondRank": "6.593154631072247E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/International",
+            "@support": "2654",
+            "@types": "",
+            "@surfaceForm": "international",
+            "@offset": "49",
+            "@similarityScore": "0.836523546778186",
+            "@percentageOfSecondRank": "0.09937183156340484"
+        }
+    ]
+}

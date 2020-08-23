@@ -1,0 +1,37 @@
+{
+    "@text": "tell me fossil taxon name has the word velociraptor in it",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Fossil",
+            "@support": "16906",
+            "@types": "",
+            "@surfaceForm": "fossil",
+            "@offset": "8",
+            "@similarityScore": "0.999998343022989",
+            "@percentageOfSecondRank": "6.925674581879305E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "15",
+            "@similarityScore": "0.9999533133286297",
+            "@percentageOfSecondRank": "4.6654621522673216E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Velociraptor",
+            "@support": "708",
+            "@types": "",
+            "@surfaceForm": "velociraptor",
+            "@offset": "39",
+            "@similarityScore": "0.9999999974533296",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

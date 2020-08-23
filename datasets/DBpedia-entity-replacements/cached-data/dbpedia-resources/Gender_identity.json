@@ -1,0 +1,578 @@
+{
+    "http://dbpedia.org/resource/Gender_identity": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/AmusementParkAttraction"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "To\u017csamo\u015b\u0107 p\u0142ciowa",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Identit\u00e0 di genere",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u6027\u540c\u4e00\u6027",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0647\u0648\u064a\u0629 \u062c\u0646\u062f\u0631\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Geschlechtsidentit\u00e4t",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Genderidentiteit",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0413\u0435\u043d\u0434\u0435\u0440\u043d\u0430\u044f \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Identit\u00e9 de genre",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Identidad de g\u00e9nero",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Gender identity",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u6027\u5225\u8a8d\u540c",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Identidade de g\u00eanero",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u0413\u0435\u043d\u0434\u0435\u0440\u043d\u0430\u044f \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u2014 \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0435 \u0441\u0430\u043c\u043e\u043e\u0449\u0443\u0449\u0435\u043d\u0438\u0435 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043a\u0430\u043a \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044f \u0442\u043e\u0433\u043e \u0438\u043b\u0438 \u0438\u043d\u043e\u0433\u043e \u0433\u0435\u043d\u0434\u0435\u0440\u0430, \u0442\u043e \u0435\u0441\u0442\u044c \u043a\u0430\u043a \u043c\u0443\u0436\u0447\u0438\u043d\u044b, \u0436\u0435\u043d\u0449\u0438\u043d\u044b \u0438\u043b\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044f \u0434\u0440\u0443\u0433\u043e\u0439 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438. \u0413\u0435\u043d\u0434\u0435\u0440\u043d\u0430\u044f \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u043d\u0435\u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u0435\u0442 \u0441 \u043f\u0440\u0438\u043f\u0438\u0441\u0430\u043d\u043d\u044b\u043c \u043f\u0440\u0438 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0438 \u043f\u043e\u043b\u043e\u043c. \u041b\u044e\u0434\u0438, \u0447\u044c\u044f \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u0430\u044f \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u0435\u0442 \u0441 \u043f\u0440\u0438\u043f\u0438\u0441\u0430\u043d\u043d\u044b\u043c \u043f\u0440\u0438 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0438 \u043f\u043e\u043b\u043e\u043c, \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0446\u0438\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u043c\u0438, \u0430 \u0442\u0435, \u0443 \u043a\u043e\u0433\u043e \u044d\u0442\u0438 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0438 \u043d\u0435 \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u044e\u0442 \u2014 \u0442\u0440\u0430\u043d\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u043c\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Na sociedade, identidade de g\u00eanero se refere ao g\u00eanero em que a pessoa se identifica (i.e, se ela se identifica como sendo um homem, uma mulher ou se ela v\u00ea a si como fora do convencional), mas pode tamb\u00e9m ser usado para referir-se ao g\u00eanero que certa pessoa atribui ao indiv\u00edduo tendo como base o que tal pessoa reconhece como indica\u00e7\u00f5es de papel social de g\u00eanero (roupas, corte de cabelo, etc.). Do primeiro uso, acredita-se que a identidade de g\u00eanero se constitui como fixa e como tal n\u00e3o sofrendo varia\u00e7\u00f5es, independente do papel social de g\u00eanero que a pessoa apresente pra ela.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u6027\u540c\u4e00\u6027\uff08\u305b\u3044\u3069\u3046\u3044\u3064\u305b\u3044\uff09\u3068\u306f\u3001\u4eba\u9593\u304c\u6709\u3057\u3066\u3044\u308b\u300e\u81ea\u8eab\u304c\u3069\u306e\u6027\u5225\u306b\u5c5e\u3059\u308b\u304b\u3068\u3044\u3046\u611f\u899a\u3001\u7537\u6027\u307e\u305f\u306f\u5973\u6027\u3067\u3042\u308b\u3053\u3068\u306e\u81ea\u5df1\u306e\u8a8d\u8b58\u300f\u3092\u3044\u3046\u3002\u6027\u306e\u540c\u4e00\u6027\u3001\u6027\u5225\u306e\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3\u3002\u539f\u8a9e\u306f\u201cGender Identity\u201d \uff08\u82f1: gender (\u6027) - identity (\u540c\u4e00\u6027) \uff09\u3001\u30ab\u30bf\u30ab\u30ca\u8868\u8a18\u3067\u30b8\u30a7\u30f3\u30c0\u30fc\u30fb\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3\u3068\u3082\u3002\u307e\u305f\u3001\u65e5\u672c\u8a9e\u306e\u610f\u8a33\u3068\u3057\u3066\u306f\u6027\u81ea\u8a8d\uff08\u305b\u3044\u3058\u306b\u3093\uff09\u3082\u3088\u304f\u7528\u3044\u3089\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La identidad de g\u00e9nero (del ingl\u00e9s gender identity) alude a la percepci\u00f3n subjetiva que un individuo tiene sobre s\u00ed mismo en cuanto a sentirse hombre, mujer, o de un g\u00e9nero no-binario, vale decir, sin considerar caracter\u00edsticas f\u00edsicas o biol\u00f3gicas; \u00e9ste puede considerarse el \u00absexo psicol\u00f3gico\u00bb o \u00absexo ps\u00edquico\u00bb, y se constituye en uno de los tres elementos de la identidad sexual, junto a la orientaci\u00f3n sexual y el rol de g\u00e9nero. Sus articuladores son los \u00abc\u00e1nones vigentes de masculinidad y feminidad\u00bb, y \u00abse relaciona con el esquema ideoafectivo de pertenencia a un sexo\u00bb, y se trata, por consiguiente, de la expresi\u00f3n individual del g\u00e9nero.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Il termine identit\u00e0 di genere indica il genere in cui una persona si identifica (cio\u00e8, se si percepisce uomo, donna, o in qualcosa di diverso da queste due polarit\u00e0) e viene utilizzato in alcune correnti della sociologia sviluppatesi negli Stati Uniti d'America a partire dagli anni settanta. L'identit\u00e0 di genere non deriva necessariamente da quella biologica della persona e non riguarda l'orientamento sessuale.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u5728\u793e\u6703\u5b78\u4e2d\uff0c\u6027\u5225\u8a8d\u540c\uff08\u82f1\u8bed\uff1aGender identity\uff09\u662f\u6307\u4e00\u500b\u4eba\u5c0d\u81ea\u5df1\u6027\u5225\u4e0a\u7684\u8a8d\u540c\uff08\u7121\u8ad6\u662f\u5c07\u81ea\u5df1\u8996\u70ba\u7537\u6027\u3001\u5973\u6027\u3001\u6216\u67d0\u4e9b\u975e\u50b3\u7d71\u89c0\u9ede\u7684\u6027\u5225\uff09\uff0c\u4e0d\u904e\u4e5f\u53ef\u4ee5\u7528\u4f86\u6307\u4eba\u5011\u6839\u64da\u4ed6\u5011\u6240\u8a8d\u70ba\u7684\u6027\u5225\u89d2\u8272\u73fe\u8c61\uff08\u5982\u8863\u8457\u3001\u9aee\u578b\u7b49\u7b49\uff09\u800c\u5c0d\u500b\u9ad4\u6240\u8ce6\u4e88\u7684\u6027\u5225\u3002\u7576\u4e00\u500b\u4eba\u7684\u6027\u5225\u8eab\u5206\u4e0d\u540c\u65bc\u4ed6\u5011\u7684\u751f\u7406\u7279\u5fb5\uff0c\u4ed6\u5011\u53ef\u80fd\u6703\u9047\u5230\u6027\u5225\u7126\u616e\u75c7\u3002 \u6027\u5225\u8a8d\u540c\u6703\u53d7\u5230\u5404\u7a2e\u793e\u6703\u7d50\u69cb\u7684\u5f71\u97ff\uff0c\u5305\u62ec\u4e86\u500b\u4eba\u7684\u9053\u5fb7\u53ca\u653f\u6cbb\u7acb\u5834\u3001\u5de5\u4f5c\u5730\u4f4d\u3001\u4fe1\u4ef0\u8207\u5bb6\u5ead\uff0c\u6703\u96a8\u8457\u6642\u9593\u548c\u793e\u6703\u74b0\u5883\u800c\u6539\u8b8a\u50f9\u503c\u89c0\u3002 \u7537\u5b50\u6c23\u7684\u5973\u751f\u6703\u611b\u8207\u7537\u751f\u4e00\u8d77\u6253\u7403\uff0c\u6216\u5728\u884c\u70ba\u8209\u6b62\u4e0a\u4f5c\u51fa\u7537\u6027\u5316\u7684\u884c\u70ba\uff1b\u800c\u6bd4\u8f03\u9670\u67d4\u7684\u7537\u751f\u53ef\u80fd\u6703\u5c0d\u5973\u6027\u5316\u7522\u751f\u8a8d\u540c\uff0c\u7d42\u65e5\u8207\u81ea\u5df1\u7684\u300c\u59ca\u59b9\u300d\u5728\u4e00\u8d77\u3002\u53ca\u4e00\u4e9b\u4e2d\u6027\u6253\u4efd\u7684\u7537\u6027\u548c\u5973\u6027\uff0c\u5373\u4f7f\u4ed6\u5011\u7684\u884c\u70ba\u8209\u6b62\u8207\u540c\u6027\u4e0d\u76f8\u4f3c\uff0c\u4f46\u53ef\u80fd\u8207\u5176\u4ed6\u7570\u6027\u6200\u8005\u7684\u6027\u53d6\u5411\u4e26\u7121\u4e0d\u540c\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Genderidentiteit of psychologisch geslacht is iemands persoonlijke beleving van hun gender. Gender verwijst naar de eigenschappen, gedragingen en rollenpatronen die een maatschappij voor elk geslacht heeft bepaald. Op de meeste plaatsen, en met name in het Westen, is er een genderdichotomie of gender binary die een tweedeling oplegt tussen mannelijk en vrouwelijk, zowel voor geslacht als genderidentiteit en genderexpressie. In andere samenlevingen bestaat er een derde geslacht of zijn de categorie\u00ebn veel losser.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "To\u017csamo\u015b\u0107 p\u0142ciowa (ang. gender identity) lub to\u017csamo\u015b\u0107 p\u0142ci \u2013 termin, przez kt\u00f3ry rozumie si\u0119 gender \u2013 psychologiczn\u0105, kulturow\u0105 p\u0142e\u0107 \u2013 z kt\u00f3r\u0105 jednostka si\u0119 identyfikuje. Kulturowo i spo\u0142ecznie zdeterminowane wyobra\u017cenie w\u0142asnej osoby \u2013 koncepcja samej lub samego siebie \u2013 jako kobiety (dziewczyny) lub m\u0119\u017cczyzny (ch\u0142opca). Jest to forma to\u017csamo\u015bci spo\u0142ecznej.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0647\u0648\u064a\u0629 \u0627\u0644\u062c\u0646\u062f\u0631\u064a\u0629 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: gender identity) \u062a\u0634\u064a\u0631 \u0625\u0644\u0649 \u0627\u0644\u0631\u0624\u064a\u0629 \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u0634\u062e\u0635 \u0625\u0644\u0649 \u062c\u0646\u0633\u0647. \u0623\u064a \u0623\u0646\u0647 \u0625\u062f\u0631\u0627\u0643 \u0648\u0634\u0639\u0648\u0631 \u0627\u0644\u0634\u062e\u0635 \u0627\u0644\u062e\u0627\u0635 \u0628\u0643\u0648\u0646\u0647 \u0630\u0643\u0631\u0627 \u0623\u0648 \u0623\u0646\u062b\u0649\u060c \u0648\u064a\u062a\u0636\u0645\u0646 \u0627\u0639\u062a\u0631\u0627\u0641\u0647 \u0628\u0627\u0644\u0627\u0646\u062a\u0645\u0627\u0621 \u0625\u0644\u0649 \u0623\u062d\u062f \u0627\u0644\u062a\u0635\u0646\u064a\u0641\u064a\u0646 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u064a\u0646 \u0645\u0646 \u0627\u0644\u0646\u0627\u0633: \u0627\u0644\u0630\u0643\u0648\u0631 \u0648\u0627\u0644\u0625\u0646\u0627\u062b.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Gender identity is one's personal experience of one's own gender. All societies have a set of gender categories that can serve as the basis of the formation of a person's social identity in relation to other members of society. In most societies, there is a basic division between gender attributes assigned to males and females, a gender binary to which most people adhere and which enforces conformance to ideals of masculinity and femininity in all aspects of sex and gender: biological sex, gender identity, and gender expression. In all societies, some individuals do not identify with some (or all) of the aspects of gender that are assigned to their biological sex; some of those individuals are transgender or genderqueer. Some societies have third gender categories.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "En sociologie, l'identit\u00e9 de genre se r\u00e9f\u00e8re au genre auquel une personne a le ressenti profond d'appartenir. Il s'agit \u00e0 la fois du fait qu'une personne parle d'elle-m\u00eame comme d'une femme ou d'un homme ou bien se d\u00e9crit de fa\u00e7on moins conventionnelle et du fait que les autres personnes attribuent un genre \u00e0 quelqu'un sur la base de ce qu'elles connaissent des indicateurs sociaux de genre (v\u00eatements, coiffure, d\u00e9marche, etc.). L'identit\u00e9 de genre est distincte de l'orientation sexuelle (h\u00e9t\u00e9rosexualit\u00e9, bisexualit\u00e9 ou homosexualit\u00e9).",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Unter Geschlechtsidentit\u00e4t (selten auch: Identit\u00e4tsgeschlecht) versteht man in der Psychologie das Geschlecht, dem sich ein Individuum zugeh\u00f6rig f\u00fchlt und das meistens mit den k\u00f6rperlichen Geschlechtsmerkmalen \u00fcbereinstimmt. Menschen, bei denen dieses gar nicht, nicht immer, nicht ganz oder nicht ausschlie\u00dflich der Fall ist, bezeichnet man als Transgender, die psychologische beziehungsweise medizinische Diagnose laut ICD-10 und DSM-IV lautet gegebenenfalls \u201eMenschen mit Geschlechtsidentit\u00e4tsst\u00f6rung\u201c.",
+                "lang": "de"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sexual_orientation"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sexual_identity"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cisgender"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Causes_of_transsexualism"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Third_gender"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/To\u017csamo\u015b\u0107_p\u0142ciowa"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Identidade_de_g\u00eanero"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Genderidentiteit"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Identit\u00e0_di_genere"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Geschlechtsidentit\u00e4t"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc131\uc815\uccb4\uc131"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Genderov\u00e1_identita"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.015hgk"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1_\u03c6\u03cd\u03bb\u03bf\u03c5"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u6027\u540c\u4e00\u6027"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q48264"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q48264"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4181116-1"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Identit\u00e9_de_genre"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Identidad_de_g\u00e9nero"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Gender_studies"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Identity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Self"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Gender_identity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Gender"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Gender_identity"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Gender_identity?oldid=744715438"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://transequality.org"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ohchr.org/Documents/Publications/BornFreeAndEqualLowRes.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.hrc.org/workplace/transgender"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.gpac.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wpath.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ifge.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.transfemmebutch.co.uk/forum.php"
+            },
+            {
+                "type": "uri",
+                "value": "https://plus.google.com/b/108155459928759293019/108155459928759293019/posts"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.genderspectrum.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.genderanarchyproject.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.genderology.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.transgenderlawcenter.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.britannica.com/EBchecked/topic/228219/gender-identity"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.gires.org.uk/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ntac.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://documentarystorm.com/dr-money-and-the-boy-with-no-penis/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u6027\u540c\u4e00\u6027\uff08\u305b\u3044\u3069\u3046\u3044\u3064\u305b\u3044\uff09\u3068\u306f\u3001\u4eba\u9593\u304c\u6709\u3057\u3066\u3044\u308b\u300e\u81ea\u8eab\u304c\u3069\u306e\u6027\u5225\u306b\u5c5e\u3059\u308b\u304b\u3068\u3044\u3046\u611f\u899a\u3001\u7537\u6027\u307e\u305f\u306f\u5973\u6027\u3067\u3042\u308b\u3053\u3068\u306e\u81ea\u5df1\u306e\u8a8d\u8b58\u300f\u3092\u3044\u3046\u3002\u6027\u306e\u540c\u4e00\u6027\u3001\u6027\u5225\u306e\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3\u3002\u539f\u8a9e\u306f\u201cGender Identity\u201d \uff08\u82f1: gender (\u6027) - identity (\u540c\u4e00\u6027) \uff09\u3001\u30ab\u30bf\u30ab\u30ca\u8868\u8a18\u3067\u30b8\u30a7\u30f3\u30c0\u30fc\u30fb\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3\u3068\u3082\u3002\u307e\u305f\u3001\u65e5\u672c\u8a9e\u306e\u610f\u8a33\u3068\u3057\u3066\u306f\u6027\u81ea\u8a8d\uff08\u305b\u3044\u3058\u306b\u3093\uff09\u3082\u3088\u304f\u7528\u3044\u3089\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Genderidentiteit of psychologisch geslacht is iemands persoonlijke beleving van hun gender. Gender verwijst naar de eigenschappen, gedragingen en rollenpatronen die een maatschappij voor elk geslacht heeft bepaald. Op de meeste plaatsen, en met name in het Westen, is er een genderdichotomie of gender binary die een tweedeling oplegt tussen mannelijk en vrouwelijk, zowel voor geslacht als genderidentiteit en genderexpressie. In andere samenlevingen bestaat er een derde geslacht of zijn de categorie\u00ebn veel losser. In maatschappijen met een genderdichotomie verwijst genderidentiteit naar hoe en in welke mate iemand zich identificeert met man, vrouw, beide of geen van beide. Voor de meeste mensen komt hun gender en genderidentiteit overeen met hun biologisch geslacht. Het is echter mogelijk dat iemand die geboren is met mannelijke geslachtsorganen zich toch identificeert met het vrouwelijk gender. Omdat de westerse samenleving druk uitoefent op individuen om zich volgens een van twee genderrollen te gedragen, voelen mensen met een verschillende genderidentiteit en geslacht zich 'afwijkend'. Dan is er sprake van genderdysforie. Het is mogelijk voor transgenders om een geslachtsoperatie te ondergaan en het biologisch geslacht af te stemmen op de genderidentiteit. Sommige transgenders behouden hun geslachtsorganen, maar nemen wel een andere genderrol op.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "To\u017csamo\u015b\u0107 p\u0142ciowa (ang. gender identity) lub to\u017csamo\u015b\u0107 p\u0142ci \u2013 termin, przez kt\u00f3ry rozumie si\u0119 gender \u2013 psychologiczn\u0105, kulturow\u0105 p\u0142e\u0107 \u2013 z kt\u00f3r\u0105 jednostka si\u0119 identyfikuje. Kulturowo i spo\u0142ecznie zdeterminowane wyobra\u017cenie w\u0142asnej osoby \u2013 koncepcja samej lub samego siebie \u2013 jako kobiety (dziewczyny) lub m\u0119\u017cczyzny (ch\u0142opca). Jest to forma to\u017csamo\u015bci spo\u0142ecznej.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5728\u793e\u6703\u5b78\u4e2d\uff0c\u6027\u5225\u8a8d\u540c\uff08\u82f1\u8bed\uff1aGender identity\uff09\u662f\u6307\u4e00\u500b\u4eba\u5c0d\u81ea\u5df1\u6027\u5225\u4e0a\u7684\u8a8d\u540c\uff08\u7121\u8ad6\u662f\u5c07\u81ea\u5df1\u8996\u70ba\u7537\u6027\u3001\u5973\u6027\u3001\u6216\u67d0\u4e9b\u975e\u50b3\u7d71\u89c0\u9ede\u7684\u6027\u5225\uff09\uff0c\u4e0d\u904e\u4e5f\u53ef\u4ee5\u7528\u4f86\u6307\u4eba\u5011\u6839\u64da\u4ed6\u5011\u6240\u8a8d\u70ba\u7684\u6027\u5225\u89d2\u8272\u73fe\u8c61\uff08\u5982\u8863\u8457\u3001\u9aee\u578b\u7b49\u7b49\uff09\u800c\u5c0d\u500b\u9ad4\u6240\u8ce6\u4e88\u7684\u6027\u5225\u3002\u7576\u4e00\u500b\u4eba\u7684\u6027\u5225\u8eab\u5206\u4e0d\u540c\u65bc\u4ed6\u5011\u7684\u751f\u7406\u7279\u5fb5\uff0c\u4ed6\u5011\u53ef\u80fd\u6703\u9047\u5230\u6027\u5225\u7126\u616e\u75c7\u3002 \u6027\u5225\u8a8d\u540c\u6703\u53d7\u5230\u5404\u7a2e\u793e\u6703\u7d50\u69cb\u7684\u5f71\u97ff\uff0c\u5305\u62ec\u4e86\u500b\u4eba\u7684\u9053\u5fb7\u53ca\u653f\u6cbb\u7acb\u5834\u3001\u5de5\u4f5c\u5730\u4f4d\u3001\u4fe1\u4ef0\u8207\u5bb6\u5ead\uff0c\u6703\u96a8\u8457\u6642\u9593\u548c\u793e\u6703\u74b0\u5883\u800c\u6539\u8b8a\u50f9\u503c\u89c0\u3002 \u7537\u5b50\u6c23\u7684\u5973\u751f\u6703\u611b\u8207\u7537\u751f\u4e00\u8d77\u6253\u7403\uff0c\u6216\u5728\u884c\u70ba\u8209\u6b62\u4e0a\u4f5c\u51fa\u7537\u6027\u5316\u7684\u884c\u70ba\uff1b\u800c\u6bd4\u8f03\u9670\u67d4\u7684\u7537\u751f\u53ef\u80fd\u6703\u5c0d\u5973\u6027\u5316\u7522\u751f\u8a8d\u540c\uff0c\u7d42\u65e5\u8207\u81ea\u5df1\u7684\u300c\u59ca\u59b9\u300d\u5728\u4e00\u8d77\u3002\u53ca\u4e00\u4e9b\u4e2d\u6027\u6253\u4efd\u7684\u7537\u6027\u548c\u5973\u6027\uff0c\u5373\u4f7f\u4ed6\u5011\u7684\u884c\u70ba\u8209\u6b62\u8207\u540c\u6027\u4e0d\u76f8\u4f3c\uff0c\u4f46\u53ef\u80fd\u8207\u5176\u4ed6\u7570\u6027\u6200\u8005\u7684\u6027\u53d6\u5411\u4e26\u7121\u4e0d\u540c\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0647\u0648\u064a\u0629 \u0627\u0644\u062c\u0646\u062f\u0631\u064a\u0629 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: gender identity) \u062a\u0634\u064a\u0631 \u0625\u0644\u0649 \u0627\u0644\u0631\u0624\u064a\u0629 \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u0634\u062e\u0635 \u0625\u0644\u0649 \u062c\u0646\u0633\u0647. \u0623\u064a \u0623\u0646\u0647 \u0625\u062f\u0631\u0627\u0643 \u0648\u0634\u0639\u0648\u0631 \u0627\u0644\u0634\u062e\u0635 \u0627\u0644\u062e\u0627\u0635 \u0628\u0643\u0648\u0646\u0647 \u0630\u0643\u0631\u0627 \u0623\u0648 \u0623\u0646\u062b\u0649\u060c \u0648\u064a\u062a\u0636\u0645\u0646 \u0627\u0639\u062a\u0631\u0627\u0641\u0647 \u0628\u0627\u0644\u0627\u0646\u062a\u0645\u0627\u0621 \u0625\u0644\u0649 \u0623\u062d\u062f \u0627\u0644\u062a\u0635\u0646\u064a\u0641\u064a\u0646 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u064a\u0646 \u0645\u0646 \u0627\u0644\u0646\u0627\u0633: \u0627\u0644\u0630\u0643\u0648\u0631 \u0648\u0627\u0644\u0625\u0646\u0627\u062b.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Unter Geschlechtsidentit\u00e4t (selten auch: Identit\u00e4tsgeschlecht) versteht man in der Psychologie das Geschlecht, dem sich ein Individuum zugeh\u00f6rig f\u00fchlt und das meistens mit den k\u00f6rperlichen Geschlechtsmerkmalen \u00fcbereinstimmt. Menschen, bei denen dieses gar nicht, nicht immer, nicht ganz oder nicht ausschlie\u00dflich der Fall ist, bezeichnet man als Transgender, die psychologische beziehungsweise medizinische Diagnose laut ICD-10 und DSM-IV lautet gegebenenfalls \u201eMenschen mit Geschlechtsidentit\u00e4tsst\u00f6rung\u201c. Menschen, die vollst\u00e4ndig in die andere Geschlechterrolle wechseln und h\u00e4ufig eine geschlechtsangleichende Operation als notwendige Behandlung ben\u00f6tigen, um den K\u00f6rper dem eindeutigen Identit\u00e4tsgeschlecht anzugleichen, werden auch als transsexuell bezeichnet. Die vollst\u00e4ndige und ausschlie\u00dfliche Identifikation mit einem der zwei Geschlechter \u201eweiblich\u201c oder \u201em\u00e4nnlich\u201c wird als bin\u00e4re Geschlechtsidentit\u00e4t bezeichnet. Dar\u00fcber hinaus gibt es Geschlechtsidentit\u00e4ten, die nicht in das bin\u00e4re (\u201ezweiteilige\u201c) Geschlechtssystem passen; hierf\u00fcr gibt es die Bezeichnung nichtbin\u00e4r (engl.: nonbinary), manchmal auch genderqueer (diese Bezeichnung wird oft mit einem politischen Hintergrund assoziiert, z. B. Anarchismus oder auch radikaler Feminismus, insbesondere Postfeminismus, vgl. Queer-Theorie). Beispiele sind \u201eweder weiblich noch m\u00e4nnlich\u201c, \u201esowohl weiblich als auch m\u00e4nnlich\u201c, \u201emanchmal weiblich, manchmal m\u00e4nnlich (oder manchmal ggf. auch anders)\u201c, \u201edrittes Geschlecht\u201c, Fehlen (oder Ablehnung) jeglicher Geschlechtsidentit\u00e4t, etc. Manche Menschen mit einer nichtbin\u00e4ren Identit\u00e4t streben geschlechtliche Neutralit\u00e4t an. Dies wird gelegentlich auch als neutrois bezeichnet.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Gender identity is one's personal experience of one's own gender. All societies have a set of gender categories that can serve as the basis of the formation of a person's social identity in relation to other members of society. In most societies, there is a basic division between gender attributes assigned to males and females, a gender binary to which most people adhere and which enforces conformance to ideals of masculinity and femininity in all aspects of sex and gender: biological sex, gender identity, and gender expression. In all societies, some individuals do not identify with some (or all) of the aspects of gender that are assigned to their biological sex; some of those individuals are transgender or genderqueer. Some societies have third gender categories. Core gender identity is usually formed by age three. After age three, it is extremely difficult to change, and attempts to reassign it can result in gender dysphoria. Both biological and social factors have been suggested to influence its formation.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "La identidad de g\u00e9nero (del ingl\u00e9s gender identity) alude a la percepci\u00f3n subjetiva que un individuo tiene sobre s\u00ed mismo en cuanto a sentirse hombre, mujer, o de un g\u00e9nero no-binario, vale decir, sin considerar caracter\u00edsticas f\u00edsicas o biol\u00f3gicas; \u00e9ste puede considerarse el \u00absexo psicol\u00f3gico\u00bb o \u00absexo ps\u00edquico\u00bb, y se constituye en uno de los tres elementos de la identidad sexual, junto a la orientaci\u00f3n sexual y el rol de g\u00e9nero. Sus articuladores son los \u00abc\u00e1nones vigentes de masculinidad y feminidad\u00bb, y \u00abse relaciona con el esquema ideoafectivo de pertenencia a un sexo\u00bb, y se trata, por consiguiente, de la expresi\u00f3n individual del g\u00e9nero. Toda sociedad tiene un conjunto de esquemas de g\u00e9nero, vale decir, una serie de \u00abnormas, prescripciones sociales o estereotipos culturales relacionados con el g\u00e9nero\u00bb que sirven de base para la formaci\u00f3n de una identidad social en relaci\u00f3n con otros miembros de esa sociedad y que, en consecuencia, dan origen a la identidad de g\u00e9nero. La identidad de g\u00e9nero es parte de una serie de c\u00edrculos de pertenencia, como lo menciona Gilberto Gim\u00e9nez (1996), a los que el sujeto se adscribe a partir del reconocimiento que hace de s\u00ed y de los otros, durante las interacciones que se suscitan en espacios y momentos espec\u00edficos.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Il termine identit\u00e0 di genere indica il genere in cui una persona si identifica (cio\u00e8, se si percepisce uomo, donna, o in qualcosa di diverso da queste due polarit\u00e0) e viene utilizzato in alcune correnti della sociologia sviluppatesi negli Stati Uniti d'America a partire dagli anni settanta. L'identit\u00e0 di genere non deriva necessariamente da quella biologica della persona e non riguarda l'orientamento sessuale. Attualmente non si \u00e8 giunti ad una piena comprensione dello sviluppo dell'identit\u00e0 di genere nell'individuo. Sono stati suggeriti diversi fattori, biologici e sociali, che potrebbero avere un ruolo nella sua formazione. I fattori biologici che possono influenzare l'identit\u00e0 di genere includono i livelli ormonali sia in fase prenatale che successivamente, e la loro regolazione da un punto di vista genetico. I fattori sociali che possono influenzare l'identit\u00e0 di genere includono le informazioni relative al genere portate da famiglia, mass media e le altre istituzioni. Non si \u00e8 definita con precisione l'et\u00e0 entro la quale l'identit\u00e0 di genere sia definitivamente formata e risulta molto variabile anche l'et\u00e0 in cui potrebbero sorgere eventuali disagi legati all'identit\u00e0 di genere.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0413\u0435\u043d\u0434\u0435\u0440\u043d\u0430\u044f \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u2014 \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0435 \u0441\u0430\u043c\u043e\u043e\u0449\u0443\u0449\u0435\u043d\u0438\u0435 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043a\u0430\u043a \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044f \u0442\u043e\u0433\u043e \u0438\u043b\u0438 \u0438\u043d\u043e\u0433\u043e \u0433\u0435\u043d\u0434\u0435\u0440\u0430, \u0442\u043e \u0435\u0441\u0442\u044c \u043a\u0430\u043a \u043c\u0443\u0436\u0447\u0438\u043d\u044b, \u0436\u0435\u043d\u0449\u0438\u043d\u044b \u0438\u043b\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044f \u0434\u0440\u0443\u0433\u043e\u0439 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438. \u0413\u0435\u043d\u0434\u0435\u0440\u043d\u0430\u044f \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u043d\u0435\u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u0435\u0442 \u0441 \u043f\u0440\u0438\u043f\u0438\u0441\u0430\u043d\u043d\u044b\u043c \u043f\u0440\u0438 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0438 \u043f\u043e\u043b\u043e\u043c. \u041b\u044e\u0434\u0438, \u0447\u044c\u044f \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u0430\u044f \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u0435\u0442 \u0441 \u043f\u0440\u0438\u043f\u0438\u0441\u0430\u043d\u043d\u044b\u043c \u043f\u0440\u0438 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0438 \u043f\u043e\u043b\u043e\u043c, \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0446\u0438\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u043c\u0438, \u0430 \u0442\u0435, \u0443 \u043a\u043e\u0433\u043e \u044d\u0442\u0438 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0438 \u043d\u0435 \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u044e\u0442 \u2014 \u0442\u0440\u0430\u043d\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u043c\u0438. \u0412\u043e \u043c\u043d\u043e\u0433\u0438\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u0445 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430\u0445 \u0435\u0441\u0442\u044c \u043d\u0430\u0431\u043e\u0440 \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u0445 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0441\u043b\u0443\u0436\u0438\u0442\u044c \u043e\u0441\u043d\u043e\u0432\u043e\u0439 \u0434\u043b\u044f \u0444\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u0438 \u043f\u043e \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044e \u043a \u0434\u0440\u0443\u0433\u0438\u043c \u0447\u043b\u0435\u043d\u0430\u043c \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430. \u0412 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0437\u0430\u043f\u0430\u0434\u043d\u044b\u0445 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0431\u0438\u043d\u0430\u0440\u043d\u0430\u044f \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u2014 \u0441\u043f\u043e\u0441\u043e\u0431 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430, \u043f\u0440\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043b\u044e\u0434\u0438 \u0440\u0430\u0437\u0434\u0435\u043b\u044f\u044e\u0442\u0441\u044f \u043d\u0430 \u0434\u0432\u0435 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438: \u043c\u0443\u0436\u0447\u0438\u043d \u0438 \u0436\u0435\u043d\u0449\u0438\u043d, \u2014 \u0438 \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0435 \u043c\u0435\u0436\u0434\u0443 \u043f\u0440\u0438\u043f\u0438\u0441\u0430\u043d\u043d\u044b\u043c \u043f\u0440\u0438 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0438 \u043f\u043e\u043b\u043e\u043c, \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u043e\u0439 \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c\u044e, \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u043c \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435\u043c \u0438 \u0441\u0435\u043a\u0441\u0443\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c\u044e. \u0412\u043e \u043c\u043d\u043e\u0433\u0438\u0445 \u0434\u0440\u0443\u0433\u0438\u0445 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430\u0445 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043d\u0435\u0431\u0438\u043d\u0430\u0440\u043d\u044b: \u043e\u043d\u0438 \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0442 \u0432 \u0441\u0435\u0431\u044f \u0431\u043e\u043b\u0435\u0435 \u0434\u0432\u0443\u0445 \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u0445 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0439 \u0438 \u043f\u0440\u0435\u0434\u0443\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u044f \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043c\u0435\u0436\u0434\u0443 \u043f\u0440\u0438\u043f\u0438\u0441\u0430\u043d\u043d\u044b\u043c \u043f\u0440\u0438 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0438 \u043f\u043e\u043b\u043e\u043c \u0438 \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u043e\u0439 \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c\u044e.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Na sociedade, identidade de g\u00eanero se refere ao g\u00eanero em que a pessoa se identifica (i.e, se ela se identifica como sendo um homem, uma mulher ou se ela v\u00ea a si como fora do convencional), mas pode tamb\u00e9m ser usado para referir-se ao g\u00eanero que certa pessoa atribui ao indiv\u00edduo tendo como base o que tal pessoa reconhece como indica\u00e7\u00f5es de papel social de g\u00eanero (roupas, corte de cabelo, etc.). Do primeiro uso, acredita-se que a identidade de g\u00eanero se constitui como fixa e como tal n\u00e3o sofrendo varia\u00e7\u00f5es, independente do papel social de g\u00eanero que a pessoa apresente pra ela. Do segundo, acredita-se que a identidade de g\u00eanero possa ser afetada por uma variedade de estruturas sociais, incluindo etnicidade, trabalho, religi\u00e3o ou irreligi\u00e3o, e fam\u00edlia. Jaqueline Jesus define a identidade de g\u00eanero como: \"G\u00eanero com o qual uma pessoa se identifica, que pode ou n\u00e3o concordar com o g\u00eanero que lhe foi atribu\u00eddo quando de seu nascimento. Diferente da sexualidade da pessoa. Identidade de g\u00eanero e orienta\u00e7\u00e3o sexual s\u00e3o dimens\u00f5es diferentes e que n\u00e3o se confundem. Pessoas transexuais podem ser heterossexuais, l\u00e9sbicas, gays ou bissexuais, tanto quanto as pessoas cisg\u00eanero\".  Miriam Pillar Grossi destaca que, diferentemente dos pap\u00e9is sociais de g\u00eanero, que n\u00e3o s\u00e3o biologicamente determinados, mas sim construtos culturais e hist\u00f3ricos, a identidade de g\u00eanero \"remete \u00e0 constitui\u00e7\u00e3o do sentimento individual de identidade\".  No entanto, Henrietta L. Moore pontua que a identidade de g\u00eanero \u00e9 constru\u00edda e vivida na \"rela\u00e7\u00e3o entre estrutura e pr\u00e1xis, entre o indiv\u00edduo e o social\"",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "En sociologie, l'identit\u00e9 de genre se r\u00e9f\u00e8re au genre auquel une personne a le ressenti profond d'appartenir. Il s'agit \u00e0 la fois du fait qu'une personne parle d'elle-m\u00eame comme d'une femme ou d'un homme ou bien se d\u00e9crit de fa\u00e7on moins conventionnelle et du fait que les autres personnes attribuent un genre \u00e0 quelqu'un sur la base de ce qu'elles connaissent des indicateurs sociaux de genre (v\u00eatements, coiffure, d\u00e9marche, etc.). Dans ce dernier cas, on peut plus pr\u00e9cis\u00e9ment parler du \u00ab genre social \u00bb de la personne. On peut aussi parler du genre \u00ab l\u00e9gal \u00bb (de l'\u00e9tat civil) lequel ne correspond pas forc\u00e9ment avec l'identit\u00e9 de genre en termes de v\u00e9cu et de ressenti de la personne concern\u00e9e. Cette identit\u00e9 est conf\u00e9r\u00e9e d\u00e8s la naissance, voire auparavant du fait du recours \u00e0 l'\u00e9chographie. Mais l'identit\u00e9 conf\u00e9r\u00e9e et l'identit\u00e9 ressentie peuvent parfois \u00eatre diff\u00e9rentes, absente ou double : une personne peut avoir une transidentit\u00e9, \u00eatre asexu\u00e9e ou queer. L'identit\u00e9 de genre peut \u00eatre \u00e9galement affect\u00e9e par nombre de structures sociales, comme l'appartenance culturelle, le statut social, la situation professionnelle, l'\u00e9ducation ou la famille. Elle permet l'int\u00e9gration des normes sociales li\u00e9es au sexe. L'identit\u00e9 de genre est distincte de l'orientation sexuelle (h\u00e9t\u00e9rosexualit\u00e9, bisexualit\u00e9 ou homosexualit\u00e9). Le terme \u00ab identit\u00e9 de genre \u00bb est aussi en g\u00e9n\u00e9ral pr\u00e9f\u00e9r\u00e9 (par exemple dans des recommandations \u00e0 l'\u00e9chelle europ\u00e9enne) au terme li\u00e9 \u00ab identit\u00e9 sexuelle \u00bb, pour \u00e9viter une confusion avec l'orientation sexuelle et pour centrer le probl\u00e8matique sur la question du ressenti, plus que l'aspect corporel.",
+                "lang": "fr"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744715438,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 162025,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Experience"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Atypical_gender_identities": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gender_identification": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gender_identities": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gender_descriptor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Alteration_of_Sex_Description_and_Sex_Status_Act,_2003": {
+        "http://dbpedia.org/property/keywords": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Gender_identity": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gender_Identity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Girl_oriented": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sex_identity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Paul_B._Preciado": {
+        "http://purl.org/dc/elements/1.1/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LGBT_rights_in_Ohio": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LGBT_rights_in_Iowa": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LGBT_rights_in_Pennsylvania": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LGBT_rights_in_Washington_(state)": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gender_spectrum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Identity": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carolyn_Sherif": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Core_gender_identity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sexual_identity": {
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gender_continuum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sexuality_(gender)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gender_identity"
+            }
+        ]
+    }
+}

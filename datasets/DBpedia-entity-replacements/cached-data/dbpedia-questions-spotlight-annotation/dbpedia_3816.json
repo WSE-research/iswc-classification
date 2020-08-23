@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the Google Maps CID for Empire State Building?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Google_Maps",
+            "@support": "1959",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Google Maps",
+            "@offset": "13",
+            "@similarityScore": "0.9999999949738765",
+            "@percentageOfSecondRank": "5.025536100171284E-9"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Criminal_investigation_department",
+            "@support": "720",
+            "@types": "",
+            "@surfaceForm": "CID",
+            "@offset": "25",
+            "@similarityScore": "0.9101923051262084",
+            "@percentageOfSecondRank": "0.07293617286961285"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Roman_Empire",
+            "@support": "30520",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Empire",
+            "@offset": "33",
+            "@similarityScore": "0.6372989248754383",
+            "@percentageOfSecondRank": "0.242192056596958"
+        }
+    ]
+}

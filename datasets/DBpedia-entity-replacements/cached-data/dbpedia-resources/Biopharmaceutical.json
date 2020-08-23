@@ -1,0 +1,789 @@
+{
+    "http://dbpedia.org/resource/Biopharmaceutical": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Activity100407535"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Drug103247620"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Substance100020090"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Agent114778436"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/CausalAgent100007347"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Matter100020827"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Merchandise103748886"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Commodity103076708"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Event100029378"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatMedicalTreatments"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Care100654885"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatBiotechnologyProducts"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Treatment100658082"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Act100030358"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatDrugs"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Artifact100021939"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Work100575741"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u0645\u0633\u062a\u062d\u0636\u0631\u0627\u062a \u062f\u0648\u0627\u0626\u064a\u0629 \u062d\u064a\u0648\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Biological",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Biof\u00e1rmaco",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Farmaci biotecnologici",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0411\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u044b",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Biopharmaceutical",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u30d0\u30a4\u30aa\u533b\u85ac\u54c1",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "M\u00e9dicament biologique",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Biopharmazeutikum",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u751f\u7269\u6cbb\u7642",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Biofarmaceutyki",
+                "lang": "pl"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Biofarmaceutyki \u2013 bia\u0142ka (w tym przeciwcia\u0142a), kwasy nukleinowe (DNA i RNA lub antysensowe oligonukleotydy) u\u017cywane do cel\u00f3w terapeutycznych lub cel\u00f3w diagnostycznych in vivo, wytwarzane z zastosowaniem biotechnologii.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "I farmaci biotecnologici (o biofarmaci) sono una categoria di farmaci.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0411\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u044b \u2014 \u0433\u0440\u0443\u043f\u043f\u0430 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0445 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u0432\u0430\u043a\u0446\u0438\u043d\u044b, \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u044b \u043a\u0440\u043e\u0432\u0438, \u0430\u043b\u043b\u0435\u0440\u0433\u0435\u043d\u044b, \u0441\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043a\u043b\u0435\u0442\u043a\u0438, \u0442\u043a\u0430\u043d\u0438, \u0440\u0435\u043a\u043e\u043c\u0431\u0438\u043d\u0430\u043d\u0442\u043d\u044b\u0435 \u0431\u0435\u043b\u043a\u0438. \u0412 \u0441\u043e\u0441\u0442\u0430\u0432 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u043e\u0432 \u043c\u043e\u0433\u0443\u0442 \u0432\u0445\u043e\u0434\u0438\u0442\u044c \u0441\u0430\u0445\u0430\u0440\u0430, \u0431\u0435\u043b\u043a\u0438, \u043d\u0443\u043a\u043b\u0435\u0438\u043d\u043e\u0432\u044b\u0435 \u043a\u0438\u0441\u043b\u043e\u0442\u044b \u0438\u043b\u0438 \u0441\u043b\u043e\u0436\u043d\u044b\u0435 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u0438 \u044d\u0442\u0438\u0445 \u0432\u0435\u0449\u0435\u0441\u0442\u0432; \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u044b \u043c\u043e\u0433\u0443\u0442 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0442\u044c \u0441\u043e\u0431\u043e\u0439 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u044a\u0435\u043a\u0442\u044b \u2014 \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043a\u043b\u0435\u0442\u043a\u0438 \u0438 \u0442\u043a\u0430\u043d\u0438. \u0411\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0438\u0437 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u044b\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432 \u2014 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u043c\u0438\u043a\u0440\u043e\u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u043e\u0432, \u0442\u0430\u043a\u0436\u0435 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u044b \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0441\u0438\u043d\u0442\u0435\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u043c\u0435\u0442\u043e\u0434\u0430\u043c\u0438 \u0431\u0438\u043e\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438. \u0410\u043a\u0442\u0438\u0432\u043d\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u0443\u0435\u0442\u0441\u044f \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u043a\u043b\u0435\u0442\u043e\u0447\u043d\u044b\u0445 \u0438 \u0433\u0435\u043d\u043d\u044b\u0445 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u043e\u0432 \u0434\u043b\u044f \u043b\u0435\u0447\u0435\u043d\u0438\u044f \u043c\u043d\u043e\u0433\u0438\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0439, \u043d\u0435\u0438\u0437\u043b\u0435\u0447\u0438\u043c\u044b\u0445 \u0432 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u043c\u043e\u043c\u0435\u043d\u0442.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Un m\u00e9dicament biologique est un produit bioth\u00e9rapeutique issu d'une substance biologique. Ceci inclut, par exemple, les vaccins ou des m\u00e9dicaments d\u00e9riv\u00e9s du sang et du plasma sanguin humain.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Os biof\u00e1rmacos ou medicamentos biol\u00f3gicos s\u00e3o medicamentos obtidos por alguma fonte ou processo biol\u00f3gicos, ou seja, o princ\u00edpio ativo do medicamento \u00e9 obtido atrav\u00e9s do emprego industrial de microorganismos ou c\u00e9lulas modificadas geneticamente. Esses processos biotecnol\u00f3gicos (in vitro ou in vivo) permitem a produ\u00e7\u00e3o de novas prote\u00ednas mais complexas, e/ou prote\u00ednas com maior atividade biol\u00f3gica, e/ou com mais vida m\u00e9dia, e/ou menos efeitos colaterais do que as j\u00e1 existentes. Os biof\u00e1rmacos s\u00e3o geralmente produzidos a partir de uma prote\u00edna e/ou \u00e1cido nucl\u00e9ico.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u30d0\u30a4\u30aa\u533b\u85ac\u54c1\u3001\u751f\u7269\u5b66\u7684\u88fd\u5264\u3001\u30d0\u30a4\u30aa\u30ed\u30b8\u30af\u30b9\u3068\u547c\u3070\u308c\u308b\u3082\u306e\u306f\u751f\u7269\u3092\u7528\u3044\u3066\u88fd\u9020\u3001\u62bd\u51fa\u3001\u534a\u5408\u6210\u3001\u306a\u3069\u3055\u308c\u305f\u533b\u85ac\u54c1\u306e\u3053\u3068\u3067\u3042\u308b\u3002\u5316\u5b66\u5408\u6210\u3055\u308c\u305f\u533b\u85ac\u54c1\u3068\u7570\u306a\u308a\u3001\u30ef\u30af\u30c1\u30f3\u3001\u8840\u6db2\u307e\u305f\u306f\u305d\u306e\u6210\u5206\u3001\u30a2\u30ec\u30eb\u30b2\u30f3\u3001\u4f53\u7d30\u80de\u3001\u907a\u4f1d\u5b50\u6cbb\u7642\u3001\u7d44\u7e54\u3001\u30ea\u30b3\u30f3\u30d3\u30ca\u30f3\u30c8\u30bf\u30f3\u30d1\u30af\u3001\u304a\u3088\u3073\u7d30\u80de\u6cbb\u7642\u306b\u304a\u3051\u308b\u751f\u7d30\u80de\u3092\u542b\u3080\u3002\u30d0\u30a4\u30aa\u533b\u85ac\u54c1\u306f\u7cd6\u3001\u30bf\u30f3\u30d1\u30af\u3001\u6838\u9178\u3001\u307e\u305f\u306f\u305d\u308c\u3089\u306e\u6df7\u5408\u7269\u3092\u542b\u3080\u3002\u3053\u308c\u3089\u306f\u30d2\u30c8\u3001\u52d5\u7269\u3001\u307e\u305f\u306f\u5fae\u751f\u7269\u3068\u3044\u3063\u305f\u751f\u7269\u304b\u3089\u5f97\u3089\u308c\u308b\u3002 \u30d0\u30a4\u30aa\u533b\u85ac\u54c1\u3092\u3081\u3050\u308b\u7528\u8a9e\u306b\u3064\u3044\u3066\u306f\u3001\u305d\u306e\u4e0b\u4f4d\u5206\u985e\u306b\u3064\u3044\u3066\u7d44\u7e54\u3001\u56e3\u4f53\u3054\u3068\u306b\u7570\u306a\u3063\u305f\u540d\u79f0\u304c\u7528\u3044\u3089\u308c\u3066\u3044\u308b\u3002\u898f\u5236\u5f53\u5c40\u306b\u3088\u3063\u3066\u306f biological medicinal products \u306a\u3044\u3057 therapeutic biological product \u3068\u3044\u3046\u7528\u8a9e\u306f\u3001\u30bf\u30f3\u30d1\u30af\u3084\u6838\u9178\u3068\u3044\u3063\u305f\u9ad8\u5206\u5b50\u3068\u3057\u3066\u88fd\u9020\u3055\u308c\u305f\u533b\u85ac\u54c1\u3092\u3001\u8840\u6db2\u3084\u305d\u306e\u6210\u5206\u3001\u30ef\u30af\u30c1\u30f3\u3068\u3044\u3063\u305f\u751f\u7269\u304b\u3089\u76f4\u63a5\u62bd\u51fa\u3055\u308c\u305f\u88fd\u54c1\u3068\u533a\u5225\u3059\u308b\u305f\u3081\u306b\u7528\u3044\u3089\u308c\u3066\u3044\u308b\u3002 \u30b9\u30da\u30b7\u30e3\u30ea\u30c6\u30a3\u533b\u85ac\u54c1\u3068\u547c\u3070\u308c\u308b\u9ad8\u4fa1\u306a\u85ac\u54c1\u7fa4\u3092\u5bfe\u8c61\u3068\u3059\u308b\u5206\u985e\u306f\u3001\u3057\u3070\u3057\u3070\u30d0\u30a4\u30aa\u533b\u85ac\u54c1\u3092\u542b\u3080\u3002. \u4f8b\u3048\u3070\u907a\u4f1d\u5b50\u3001\u307e\u305f\u306f\u7d30\u80de\u306b\u3088\u308b\u30d0\u30a4\u30aa\u533b\u85ac\u54c1\u306f\u7814\u7a76\u306e\u6700\u524d\u7dda\u3067\u3042\u308b\u3053\u3068\u304c\u591a\u304f\u3001\u4ee3\u66ff\u7642\u6cd5\u306e\u306a\u3044\u75be\u75c5\u306e\u51e6\u7f6e\u306b\u7528\u3044\u3089\u308c\u308b\u3002 \u6cd5\u5236\u5ea6\u306b\u3088\u3063\u3066\u306f\u3001\u30d0\u30a4\u30aa\u533b\u85ac\u54c1\u306f\u4f4e\u5206\u5b50\u85ac\u3084\u533b\u7642\u6a5f\u5668\u3068\u7570\u306a\u308b\u898f\u5236\u4e0b\u306b\u3042\u308b\u5834\u5408\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Biopharmazeutika (auch Biopharmaka, Biologicals, Biologica, Biologika oder Biologics) sind Arzneistoffe, die mit Mitteln der Biotechnologie und gentechnisch ver\u00e4nderten Organismen hergestellt werden. Biopharmazeutika geh\u00f6ren zu den wachsenden Gesch\u00e4ftsfeldern der Pharma- und Biotechnologieindustrie. Abzugrenzen hiervon ist das Gebiet der Biopharmazie.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u751f\u7269\u6cbb\u7642(Biopharmaceutical)\u662f\u4e00\u79cd\u65b0\u5174\u7684\u81ea\u8eab\u514d\u75ab\u7684\u65b0\u578b\u6cbb\u7597\u65b9\u6cd5\uff0c\u53c8\u7a31\u751f\u7269\u53cd\u5e94\u4fee\u9970\u5242\uff0c\u76ee\u524d\u591a\u61c9\u7528\u65bc\u764c\u75c7\uff0c\u4e3b\u8981\u601d\u60f3\u662f\u8fd0\u7528\u751f\u7269\u6280\u672f\u548c\u5236\u5242\u5bf9\u75c5\u4eba\u4f53\u5185\u5438\u53d6\u7684\u514d\u75ab\u7ec6\u80de\u8fdb\u884c\u4f53\u5916\u6539\u9020\u548c\u6269\u589e\u540e\u56de\u8f93\u5230\u75c5\u4eba\u4f53\u5185\uff0c\u6975\u5927\u5316\u589e\u5f37\u751f\u7269\u81ea\u7652\u80fd\u529b\u4f86\u6297\u75c5\u3002\u4e5f\u662f\u4e00\u7a2e\u500b\u4eba\u5316\u91ab\u7642\uff08personal medicine\uff09\u8da8\u52e2\u7522\u7269\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "A biopharmaceutical, also known as a biologic(al) medical product, biological, or biologic, is any pharmaceutical drug product manufactured in, extracted from, or semisynthesized from biological sources. Different from totally synthesized pharmaceuticals, they include vaccines, blood, blood components, allergenics, somatic cells, gene therapies, tissues, recombinant therapeutic protein, and living cells used in cell therapy. Biologics can be composed of sugars, proteins, or nucleic acids or complex combinations of these substances, or may be living cells or tissues. They (or their precursors or components) are isolated from living sources\u2014human, animal, plant, fungal, or microbial.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Biologicals zijn geneesmiddelen bestaande uit natuurlijke eiwitten zoals antilichamen en cytokines, of fragmenten van eiwitten of synthetische peptiden. In Nederland wordt de term vooral beperkt tot kunstmatige peptiden die heel specifieke signaaleiwitten (zoals receptoren of cytokines) uitschakelen en zo ziekteprocessen (zoals reumato\u00efde artritis, psoriasis, darmontstekingen, kanker, maculadegeneratie) be\u00efnvloeden.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0645\u0633\u062a\u062d\u0636\u0631\u0627\u062a \u0627\u0644\u062f\u0648\u0627\u0626\u064a\u0629 \u0627\u0644\u062d\u064a\u0648\u064a\u0629\u060c \u062a\u0639\u0631\u0641 \u0623\u064a\u0636\u0627 \u0628\u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a \u0627\u0644\u0637\u0628\u064a\u0629 \u0627\u0644\u062d\u064a\u0648\u064a\u0629 \u0623\u0648 \u0627\u0644\u0628\u064a\u0648\u0644\u0648\u062c\u064a\u0629\u060c \u0647\u064a \u0623\u064a \u0645\u0646\u062a\u062c \u062f\u0648\u0627\u0626\u064a \u0645\u0635\u0646\u0639 \u0645\u0646\u060c \u0623\u0648 \u0645\u0633\u062a\u062e\u0644\u0635 \u0645\u0646\u060c \u0623\u0648 \u0634\u0628\u0647 (\u0646\u0635\u0641) \u0645\u0635\u0646\u0639 \u0645\u0646 \u0645\u0635\u0627\u062f\u0631 \u062d\u064a\u0648\u064a\u0629. \u064a\u062e\u062a\u0644\u0641 \u0639\u0646 \u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a \u0627\u0644\u062f\u0648\u0627\u0626\u064a\u0629 \u0627\u0644\u0645\u0631\u0643\u0628\u0629 \u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0627\u060c \u0641\u0647\u0648 \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0644\u0642\u0627\u062d\u0627\u062a\u060c \u062f\u0645\u060c \u0627\u0648 \u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u062f\u0645\u060c \u0645\u0648\u0627\u062f \u0645\u062b\u064a\u0631\u0629 \u0644\u0644\u062d\u0633\u0627\u0633\u064a\u0629\u060c \u062e\u0644\u0627\u064a\u0627 \u062c\u0633\u062f\u064a\u0629\u060c \u0623\u0646\u0633\u062c\u0629\u060c \u0628\u0631\u0648\u062a\u064a\u0646\u0627\u062a \u062f\u0648\u0627\u0626\u064a\u0629 \u0645\u0647\u062c\u0646\u0629\u060c \u0648\u062e\u0644\u0627\u064a\u0627 \u062d\u064a\u0629 \u062a\u0633\u062a\u062e\u062f\u0645 \u0644\u0644\u0639\u0644\u0627\u062c \u0628\u0627\u0644\u062e\u0644\u0627\u064a\u0627. \u062a\u0639\u0632\u0644 \u0645\u0646 \u0627\u0644\u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u0637\u0628\u064a\u0639\u064a\u0629- \u0627\u0644\u0627\u0646\u0633\u0627\u0646\u060c \u0627\u0644\u062d\u064a\u0648\u0627\u0646\u060c \u0623\u0648 \u0627\u0644\u0645\u064a\u0643\u0631\u0648\u0628\u0627\u062a. \u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a \u0627\u0644\u0645\u0639\u062a\u0645\u062f\u0629 \u0639\u0644\u0649 \u0627\u0644\u062c\u064a\u0646\u0627\u062a \u0648\u0627\u0644\u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u062d\u064a\u0648\u064a\u0629\u060c \u0645\u062b\u0644\u0627\u060c \u0639\u0627\u062f\u0629 \u062a\u062a\u0635\u062f\u0631 \u0627\u0644\u0627\u0628\u062d\u0627\u062b \u0627\u0644\u0637\u0628\u064a\u0629 \u0627\u0644\u062d\u064a\u0648\u064a\u0629\u060c \u0648\u0645\u0646 \u0627\u0644\u0645\u0645\u0643\u0646 \u0623\u0646 \u062a\u0633\u062a\u062e\u062f\u0645 \u0644\u0639\u0644\u0627\u062c \u062d\u0627\u0644\u0627\u062a \u0637\u0628\u064a\u0629 \u0645\u062e\u062a\u0644\u0641\u0629 \u0644\u0627 \u0628\u062f\u064a\u0644 \u0644\u0647\u0627 \u0641\u064a \u0639\u0644\u0627\u062c\u0627\u062a \u0623\u062e\u0631\u0649. \u2003",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Biopharmaceutical"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Farmaci_biotecnologici"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/M\u00e9dicament_biologique"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Biopharmazeutikum"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q679692"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Biological"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Biotherapy"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Biofarmaceutyki"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30d0\u30a4\u30aa\u533b\u85ac\u54c1"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Biologic_medical_product"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.07vq83"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Biof\u00e1rmaco"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q679692"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.035t5h"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0c87bq"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Biopharmacology"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Biotechnology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Pharmaceutical_industry"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Specialty_drugs"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Life_sciences_industry"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Pharmacy"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Biotechnology_products"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Biopharmaceuticals"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/FreshFrozenPlasma.JPG"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Biopharmaceutical"
+            }
+        ],
+        "http://www.w3.org/2004/02/skos/core#broadMatch": [
+            {
+                "type": "uri",
+                "value": "http://www.springernature.com/scigraph/things/subjects/recombinant-protein-therapy"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.springernature.com/scigraph/things/subjects/recombinant-peptide-therapy"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Biopharmaceutical?oldid=742588342"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.cptech.org/ip/health/biotech/genbio062001.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://bio.org/speeches/pubs/er/BiotechGuide.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.psoriasis.org/treatment/psoriasis/biologics/about.php"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0645\u0633\u062a\u062d\u0636\u0631\u0627\u062a \u0627\u0644\u062f\u0648\u0627\u0626\u064a\u0629 \u0627\u0644\u062d\u064a\u0648\u064a\u0629\u060c \u062a\u0639\u0631\u0641 \u0623\u064a\u0636\u0627 \u0628\u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a \u0627\u0644\u0637\u0628\u064a\u0629 \u0627\u0644\u062d\u064a\u0648\u064a\u0629 \u0623\u0648 \u0627\u0644\u0628\u064a\u0648\u0644\u0648\u062c\u064a\u0629\u060c \u0647\u064a \u0623\u064a \u0645\u0646\u062a\u062c \u062f\u0648\u0627\u0626\u064a \u0645\u0635\u0646\u0639 \u0645\u0646\u060c \u0623\u0648 \u0645\u0633\u062a\u062e\u0644\u0635 \u0645\u0646\u060c \u0623\u0648 \u0634\u0628\u0647 (\u0646\u0635\u0641) \u0645\u0635\u0646\u0639 \u0645\u0646 \u0645\u0635\u0627\u062f\u0631 \u062d\u064a\u0648\u064a\u0629. \u064a\u062e\u062a\u0644\u0641 \u0639\u0646 \u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a \u0627\u0644\u062f\u0648\u0627\u0626\u064a\u0629 \u0627\u0644\u0645\u0631\u0643\u0628\u0629 \u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0627\u060c \u0641\u0647\u0648 \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0644\u0642\u0627\u062d\u0627\u062a\u060c \u062f\u0645\u060c \u0627\u0648 \u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u062f\u0645\u060c \u0645\u0648\u0627\u062f \u0645\u062b\u064a\u0631\u0629 \u0644\u0644\u062d\u0633\u0627\u0633\u064a\u0629\u060c \u062e\u0644\u0627\u064a\u0627 \u062c\u0633\u062f\u064a\u0629\u060c \u0623\u0646\u0633\u062c\u0629\u060c \u0628\u0631\u0648\u062a\u064a\u0646\u0627\u062a \u062f\u0648\u0627\u0626\u064a\u0629 \u0645\u0647\u062c\u0646\u0629\u060c \u0648\u062e\u0644\u0627\u064a\u0627 \u062d\u064a\u0629 \u062a\u0633\u062a\u062e\u062f\u0645 \u0644\u0644\u0639\u0644\u0627\u062c \u0628\u0627\u0644\u062e\u0644\u0627\u064a\u0627. \u062a\u0639\u0632\u0644 \u0645\u0646 \u0627\u0644\u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u0637\u0628\u064a\u0639\u064a\u0629- \u0627\u0644\u0627\u0646\u0633\u0627\u0646\u060c \u0627\u0644\u062d\u064a\u0648\u0627\u0646\u060c \u0623\u0648 \u0627\u0644\u0645\u064a\u0643\u0631\u0648\u0628\u0627\u062a. \u0627\u0644\u0645\u0635\u0637\u0644\u062d\u0627\u062a \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0627\u0644\u0645\u0633\u062a\u062d\u0636\u0631\u0627\u062a \u0627\u0644\u062f\u0648\u0627\u0626\u064a\u0629 \u0627\u0644\u062d\u064a\u0648\u064a\u0629 \u062a\u062e\u062a\u0644\u0641 \u0628\u064a\u0646 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0627\u062a \u0648 \u0627\u0644\u0645\u062a\u0646\u0648\u0639\u0627\u062a\u060c \u0628\u0645\u0641\u0631\u062f\u0627\u062a \u0645\u062e\u062a\u0644\u0641\u0629 \u062a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0641\u0631\u0648\u0639 \u0645\u062e\u062a\u0644\u0641\u0629 \u0645\u0646 \u0627\u0644\u0639\u0644\u0627\u062c\u0627\u062a \u0636\u0645\u0646 \u0645\u0635\u0646\u0641 \u0639\u0627\u0645 \u0644\u0644\u0645\u0633\u062a\u062d\u0636\u0631\u0627\u062a \u0627\u0644\u062f\u0648\u0627\u0626\u064a\u0629 \u0627\u0644\u062d\u064a\u0648\u064a\u0629. \u0628\u0639\u0636 \u0627\u0644\u0647\u064a\u0626\u0627\u062a \u0627\u0644\u062a\u0646\u0641\u064a\u0630\u064a\u0629 \u062a\u0633\u062a\u062e\u062f\u0645 \u0645\u0635\u0637\u0644\u062d \u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a \u0627\u0644\u062f\u0648\u0627\u0626\u064a\u0629 \u0627\u0644\u062d\u064a\u0648\u064a\u0629 \u0623\u0648 \u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a \u0627\u0644\u062d\u064a\u0648\u064a\u0629 \u0627\u0644\u0639\u0644\u0627\u062c\u064a\u0629 \u0644\u0644\u0627\u0634\u0627\u0631\u0629 \u0628\u0634\u0643\u0644 \u0645\u062d\u062f\u062f \u0644\u0644\u0645\u0646\u062a\u062c\u0627\u062a \u0630\u0627\u062a \u0627\u0644\u062c\u0632\u064a\u0626\u0627\u062a \u0627\u0644\u0643\u0628\u064a\u0631\u0629 \u0645\u062b\u0644 \u0627\u0644\u0627\u062f\u0648\u064a\u0629 \u0627\u0644\u0645\u0639\u062a\u0645\u062f\u0629 \u0641\u064a \u0635\u0646\u0627\u0639\u062a\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646\u0627\u062a \u0648\u0627\u0644\u0627\u062d\u0645\u0627\u0636 \u0627\u0644\u0646\u0648\u0648\u064a\u0629\u060c \u0644\u062a\u0645\u064a\u064a\u0632\u0647\u0627 \u0639\u0646 \u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a \u0627\u0644\u0627\u062e\u0631\u0649 \u0645\u062b\u0644 \u0627\u0644\u062f\u0645\u060c \u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u062f\u0645\u060c \u0627\u0644\u0644\u0642\u0627\u062d\u0627\u062a\u060c \u0627\u0644\u062a\u064a \u062a\u0633\u062a\u062e\u0644\u0635 \u0628\u0634\u0643\u0644 \u0645\u0628\u0627\u0634\u0631 \u0645\u0646 \u0627\u0644\u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u062d\u064a\u0648\u064a\u0629. . \u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a \u0627\u0644\u0645\u0639\u062a\u0645\u062f\u0629 \u0639\u0644\u0649 \u0627\u0644\u062c\u064a\u0646\u0627\u062a \u0648\u0627\u0644\u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u062d\u064a\u0648\u064a\u0629\u060c \u0645\u062b\u0644\u0627\u060c \u0639\u0627\u062f\u0629 \u062a\u062a\u0635\u062f\u0631 \u0627\u0644\u0627\u0628\u062d\u0627\u062b \u0627\u0644\u0637\u0628\u064a\u0629 \u0627\u0644\u062d\u064a\u0648\u064a\u0629\u060c \u0648\u0645\u0646 \u0627\u0644\u0645\u0645\u0643\u0646 \u0623\u0646 \u062a\u0633\u062a\u062e\u062f\u0645 \u0644\u0639\u0644\u0627\u062c \u062d\u0627\u0644\u0627\u062a \u0637\u0628\u064a\u0629 \u0645\u062e\u062a\u0644\u0641\u0629 \u0644\u0627 \u0628\u062f\u064a\u0644 \u0644\u0647\u0627 \u0641\u064a \u0639\u0644\u0627\u062c\u0627\u062a \u0623\u062e\u0631\u0649. \u0641\u064a \u0628\u0639\u0636 \u0627\u0644\u0623\u062d\u064a\u0627\u0646 \u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a \u0627\u0644\u062d\u064a\u0648\u064a\u0629 \u062a\u0646\u0638\u0645 \u0628\u0634\u0643\u0644 \u0645\u062e\u062a\u0644\u0641 \u0639\u0646 \u0627\u0644\u0627\u062f\u0648\u064a\u0629 \u0642\u0644\u064a\u0644\u0629 \u0627\u0644\u062c\u0632\u064a\u0626\u0627\u062a\u060c \u0648\u0627\u0644\u0645\u0639\u062f\u0627\u062a \u0627\u0644\u0637\u0628\u064a\u0629. \u2003",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Biofarmaceutyki \u2013 bia\u0142ka (w tym przeciwcia\u0142a), kwasy nukleinowe (DNA i RNA lub antysensowe oligonukleotydy) u\u017cywane do cel\u00f3w terapeutycznych lub cel\u00f3w diagnostycznych in vivo, wytwarzane z zastosowaniem biotechnologii.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0411\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u044b \u2014 \u0433\u0440\u0443\u043f\u043f\u0430 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0445 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u0432\u0430\u043a\u0446\u0438\u043d\u044b, \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u044b \u043a\u0440\u043e\u0432\u0438, \u0430\u043b\u043b\u0435\u0440\u0433\u0435\u043d\u044b, \u0441\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043a\u043b\u0435\u0442\u043a\u0438, \u0442\u043a\u0430\u043d\u0438, \u0440\u0435\u043a\u043e\u043c\u0431\u0438\u043d\u0430\u043d\u0442\u043d\u044b\u0435 \u0431\u0435\u043b\u043a\u0438. \u0412 \u0441\u043e\u0441\u0442\u0430\u0432 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u043e\u0432 \u043c\u043e\u0433\u0443\u0442 \u0432\u0445\u043e\u0434\u0438\u0442\u044c \u0441\u0430\u0445\u0430\u0440\u0430, \u0431\u0435\u043b\u043a\u0438, \u043d\u0443\u043a\u043b\u0435\u0438\u043d\u043e\u0432\u044b\u0435 \u043a\u0438\u0441\u043b\u043e\u0442\u044b \u0438\u043b\u0438 \u0441\u043b\u043e\u0436\u043d\u044b\u0435 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u0438 \u044d\u0442\u0438\u0445 \u0432\u0435\u0449\u0435\u0441\u0442\u0432; \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u044b \u043c\u043e\u0433\u0443\u0442 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0442\u044c \u0441\u043e\u0431\u043e\u0439 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u044a\u0435\u043a\u0442\u044b \u2014 \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043a\u043b\u0435\u0442\u043a\u0438 \u0438 \u0442\u043a\u0430\u043d\u0438. \u0411\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0438\u0437 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u044b\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432 \u2014 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u043c\u0438\u043a\u0440\u043e\u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u043e\u0432, \u0442\u0430\u043a\u0436\u0435 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u044b \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0441\u0438\u043d\u0442\u0435\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u043c\u0435\u0442\u043e\u0434\u0430\u043c\u0438 \u0431\u0438\u043e\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438. \u0410\u043a\u0442\u0438\u0432\u043d\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u0443\u0435\u0442\u0441\u044f \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u043a\u043b\u0435\u0442\u043e\u0447\u043d\u044b\u0445 \u0438 \u0433\u0435\u043d\u043d\u044b\u0445 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u043e\u0432 \u0434\u043b\u044f \u043b\u0435\u0447\u0435\u043d\u0438\u044f \u043c\u043d\u043e\u0433\u0438\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0439, \u043d\u0435\u0438\u0437\u043b\u0435\u0447\u0438\u043c\u044b\u0445 \u0432 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u043c\u043e\u043c\u0435\u043d\u0442.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u30d0\u30a4\u30aa\u533b\u85ac\u54c1\u3001\u751f\u7269\u5b66\u7684\u88fd\u5264\u3001\u30d0\u30a4\u30aa\u30ed\u30b8\u30af\u30b9\u3068\u547c\u3070\u308c\u308b\u3082\u306e\u306f\u751f\u7269\u3092\u7528\u3044\u3066\u88fd\u9020\u3001\u62bd\u51fa\u3001\u534a\u5408\u6210\u3001\u306a\u3069\u3055\u308c\u305f\u533b\u85ac\u54c1\u306e\u3053\u3068\u3067\u3042\u308b\u3002\u5316\u5b66\u5408\u6210\u3055\u308c\u305f\u533b\u85ac\u54c1\u3068\u7570\u306a\u308a\u3001\u30ef\u30af\u30c1\u30f3\u3001\u8840\u6db2\u307e\u305f\u306f\u305d\u306e\u6210\u5206\u3001\u30a2\u30ec\u30eb\u30b2\u30f3\u3001\u4f53\u7d30\u80de\u3001\u907a\u4f1d\u5b50\u6cbb\u7642\u3001\u7d44\u7e54\u3001\u30ea\u30b3\u30f3\u30d3\u30ca\u30f3\u30c8\u30bf\u30f3\u30d1\u30af\u3001\u304a\u3088\u3073\u7d30\u80de\u6cbb\u7642\u306b\u304a\u3051\u308b\u751f\u7d30\u80de\u3092\u542b\u3080\u3002\u30d0\u30a4\u30aa\u533b\u85ac\u54c1\u306f\u7cd6\u3001\u30bf\u30f3\u30d1\u30af\u3001\u6838\u9178\u3001\u307e\u305f\u306f\u305d\u308c\u3089\u306e\u6df7\u5408\u7269\u3092\u542b\u3080\u3002\u3053\u308c\u3089\u306f\u30d2\u30c8\u3001\u52d5\u7269\u3001\u307e\u305f\u306f\u5fae\u751f\u7269\u3068\u3044\u3063\u305f\u751f\u7269\u304b\u3089\u5f97\u3089\u308c\u308b\u3002 \u30d0\u30a4\u30aa\u533b\u85ac\u54c1\u3092\u3081\u3050\u308b\u7528\u8a9e\u306b\u3064\u3044\u3066\u306f\u3001\u305d\u306e\u4e0b\u4f4d\u5206\u985e\u306b\u3064\u3044\u3066\u7d44\u7e54\u3001\u56e3\u4f53\u3054\u3068\u306b\u7570\u306a\u3063\u305f\u540d\u79f0\u304c\u7528\u3044\u3089\u308c\u3066\u3044\u308b\u3002\u898f\u5236\u5f53\u5c40\u306b\u3088\u3063\u3066\u306f biological medicinal products \u306a\u3044\u3057 therapeutic biological product \u3068\u3044\u3046\u7528\u8a9e\u306f\u3001\u30bf\u30f3\u30d1\u30af\u3084\u6838\u9178\u3068\u3044\u3063\u305f\u9ad8\u5206\u5b50\u3068\u3057\u3066\u88fd\u9020\u3055\u308c\u305f\u533b\u85ac\u54c1\u3092\u3001\u8840\u6db2\u3084\u305d\u306e\u6210\u5206\u3001\u30ef\u30af\u30c1\u30f3\u3068\u3044\u3063\u305f\u751f\u7269\u304b\u3089\u76f4\u63a5\u62bd\u51fa\u3055\u308c\u305f\u88fd\u54c1\u3068\u533a\u5225\u3059\u308b\u305f\u3081\u306b\u7528\u3044\u3089\u308c\u3066\u3044\u308b\u3002 \u30b9\u30da\u30b7\u30e3\u30ea\u30c6\u30a3\u533b\u85ac\u54c1\u3068\u547c\u3070\u308c\u308b\u9ad8\u4fa1\u306a\u85ac\u54c1\u7fa4\u3092\u5bfe\u8c61\u3068\u3059\u308b\u5206\u985e\u306f\u3001\u3057\u3070\u3057\u3070\u30d0\u30a4\u30aa\u533b\u85ac\u54c1\u3092\u542b\u3080\u3002. \u4f8b\u3048\u3070\u907a\u4f1d\u5b50\u3001\u307e\u305f\u306f\u7d30\u80de\u306b\u3088\u308b\u30d0\u30a4\u30aa\u533b\u85ac\u54c1\u306f\u7814\u7a76\u306e\u6700\u524d\u7dda\u3067\u3042\u308b\u3053\u3068\u304c\u591a\u304f\u3001\u4ee3\u66ff\u7642\u6cd5\u306e\u306a\u3044\u75be\u75c5\u306e\u51e6\u7f6e\u306b\u7528\u3044\u3089\u308c\u308b\u3002 \u6cd5\u5236\u5ea6\u306b\u3088\u3063\u3066\u306f\u3001\u30d0\u30a4\u30aa\u533b\u85ac\u54c1\u306f\u4f4e\u5206\u5b50\u85ac\u3084\u533b\u7642\u6a5f\u5668\u3068\u7570\u306a\u308b\u898f\u5236\u4e0b\u306b\u3042\u308b\u5834\u5408\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "I farmaci biotecnologici (o biofarmaci) sono una categoria di farmaci.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u751f\u7269\u6cbb\u7642(Biopharmaceutical)\u662f\u4e00\u79cd\u65b0\u5174\u7684\u81ea\u8eab\u514d\u75ab\u7684\u65b0\u578b\u6cbb\u7597\u65b9\u6cd5\uff0c\u53c8\u7a31\u751f\u7269\u53cd\u5e94\u4fee\u9970\u5242\uff0c\u76ee\u524d\u591a\u61c9\u7528\u65bc\u764c\u75c7\uff0c\u4e3b\u8981\u601d\u60f3\u662f\u8fd0\u7528\u751f\u7269\u6280\u672f\u548c\u5236\u5242\u5bf9\u75c5\u4eba\u4f53\u5185\u5438\u53d6\u7684\u514d\u75ab\u7ec6\u80de\u8fdb\u884c\u4f53\u5916\u6539\u9020\u548c\u6269\u589e\u540e\u56de\u8f93\u5230\u75c5\u4eba\u4f53\u5185\uff0c\u6975\u5927\u5316\u589e\u5f37\u751f\u7269\u81ea\u7652\u80fd\u529b\u4f86\u6297\u75c5\u3002\u4e5f\u662f\u4e00\u7a2e\u500b\u4eba\u5316\u91ab\u7642\uff08personal medicine\uff09\u8da8\u52e2\u7522\u7269\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Os biof\u00e1rmacos ou medicamentos biol\u00f3gicos s\u00e3o medicamentos obtidos por alguma fonte ou processo biol\u00f3gicos, ou seja, o princ\u00edpio ativo do medicamento \u00e9 obtido atrav\u00e9s do emprego industrial de microorganismos ou c\u00e9lulas modificadas geneticamente. Esses processos biotecnol\u00f3gicos (in vitro ou in vivo) permitem a produ\u00e7\u00e3o de novas prote\u00ednas mais complexas, e/ou prote\u00ednas com maior atividade biol\u00f3gica, e/ou com mais vida m\u00e9dia, e/ou menos efeitos colaterais do que as j\u00e1 existentes. Os biof\u00e1rmacos s\u00e3o geralmente produzidos a partir de uma prote\u00edna e/ou \u00e1cido nucl\u00e9ico. Os biof\u00e1rmacos fazem parte da biotecnologia para sa\u00fade, que engloba tamb\u00e9m os diagn\u00f3sticos (in vivo e in vitro), terapias celulares e c\u00e9lulas tronco, terapias g\u00eanicas, e vacinas. Tais produtos inovadores para a \u00e1rea farmac\u00eautica permitem o desenvolvimento de novas drogas voltadas para o tratamento de doen\u00e7as importantes como c\u00e2ncer, diabetes, esclerose, hemofilia, entre outras. Essa possibilidade deve-se ao fato de os biof\u00e1rmacos possu\u00edrem estrutura molecular extremamente complexas, onde a subst\u00e2ncia ativa \u00e9 heterog\u00eanea e de dif\u00edcil caracteriza\u00e7\u00e3o e replica\u00e7\u00e3o. Uma diferen\u00e7a importante entre os biof\u00e1rmacos e os f\u00e1rmacos de origem qu\u00edmica convencional est\u00e1 na estrutura da mol\u00e9cula, que s\u00e3o mais pesadas, mais complexas e mais diversas, o que dificulta a caracteriza\u00e7\u00e3o completa do produto . Geralmente s\u00e3o hom\u00f3logos \u00e0s prote\u00ednas humanas ou t\u00eam um alto n\u00edvel de semelhan\u00e7a, sendo o processo de produ\u00e7\u00e3o muito mais complexo, onde qualquer modifica\u00e7\u00e3o no processo de fabrica\u00e7\u00e3o, por m\u00ednima que seja, leva a modifica\u00e7\u00e3o no produto final que pode afetar a qualidade e a resposta do medicamento. Os mais importantes grupos de biof\u00e1rmacos s\u00e3o as citocinas (interferons, interleucinas), os fatores de crescimento hematopoi\u00e9ticos, os horm\u00f4nios, os fatores de crescimento, os fatores de coagula\u00e7\u00e3o sangu\u00ednea recombinantes, as enzimas, os agentes trombiembol\u00edticos ativadores dos tecidos plasminog\u00eanios, as vacinas, os anticorpos monoclonais e as prote\u00ednas de fus\u00e3o e imunoconjugados. De forma resumida a produ\u00e7\u00e3o de biof\u00e1rmacos envolve 4 etapas: \n*  Desenvolvimento da linhagem celular de interesse por biotecnologia \n*  Cultivo celular \n*  Purifica\u00e7\u00e3o \n*  Formula\u00e7\u00e3o e envase. Por fazer parte da industria farmac\u00eautica, os biof\u00e1rmacos s\u00e3o apoiados e protegidos pelo sistema de patentes, assim quando a patente do biof\u00e1rmaco original expira h\u00e1 a possibilidade de produ\u00e7\u00e3o dos chamados biossimilares , que s\u00e3o os \"gen\u00e9ricos\" dos biof\u00e1rmacos. No Brasil, a ag\u00eancia reguladora de controle sanit\u00e1rio e produ\u00e7\u00e3o e comercializa\u00e7\u00e3o de medicamentos no Brasil, ANVISA (Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria) tem uma regulamenta\u00e7\u00e3o espec\u00edfica para produtos gen\u00e9ricos desde 2003, a chamada RDC135 , que estabelece que os produtos biotecnol\u00f3gicos derivados do plasma ou sangue humanos, e os produtos biotecnol\u00f3gicos, com exce\u00e7\u00e3o dos antibi\u00f3ticos e fungicidas, n\u00e3o ser\u00e3o admitidos para cadastro de produtos gen\u00e9ricos. Al\u00e9m disso, a ANVISA possui uma regulamenta\u00e7\u00e3o espec\u00edfica para produtos biotecnol\u00f3pgicos, a RDC 80 que foi atualizada em outubro de 2005 passando para RDC 315, que apresenta o regulamento t\u00e9cnico de Registro, Altera\u00e7\u00f5es P\u00f3s-Registro e Revalida\u00e7\u00f5es de Produtos Biol\u00f3gicos Terminados.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Biologicals zijn geneesmiddelen bestaande uit natuurlijke eiwitten zoals antilichamen en cytokines, of fragmenten van eiwitten of synthetische peptiden. In Nederland wordt de term vooral beperkt tot kunstmatige peptiden die heel specifieke signaaleiwitten (zoals receptoren of cytokines) uitschakelen en zo ziekteprocessen (zoals reumato\u00efde artritis, psoriasis, darmontstekingen, kanker, maculadegeneratie) be\u00efnvloeden.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "A biopharmaceutical, also known as a biologic(al) medical product, biological, or biologic, is any pharmaceutical drug product manufactured in, extracted from, or semisynthesized from biological sources. Different from totally synthesized pharmaceuticals, they include vaccines, blood, blood components, allergenics, somatic cells, gene therapies, tissues, recombinant therapeutic protein, and living cells used in cell therapy. Biologics can be composed of sugars, proteins, or nucleic acids or complex combinations of these substances, or may be living cells or tissues. They (or their precursors or components) are isolated from living sources\u2014human, animal, plant, fungal, or microbial. Terminology surrounding biopharmaceuticals varies between groups and entities, with different terms referring to different subsets of therapeutics within the general biopharmaceutical category. Some regulatory agencies use the terms biological medicinal products or therapeutic biological product to refer specifically to engineered macromolecular products like protein- and nucleic acid-based drugs, distinguishing them from products like blood, blood components, or vaccines, which are usually extracted directly from a biological source. Specialty drugs, a recent classification of pharmaceuticals, are high-cost drugs that are often biologics. Gene-based and cellular biologics, for example, often are at the forefront of biomedical research, and may be used to treat a variety of medical conditions for which no other treatments are available. In some jurisdictions, biologics are regulated via different pathways than other small molecule drugs and medical devices. The term biopharmacology is sometimes used to describe the branch of pharmacology that studies biopharmaceuticals.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Un m\u00e9dicament biologique est un produit bioth\u00e9rapeutique issu d'une substance biologique. Ceci inclut, par exemple, les vaccins ou des m\u00e9dicaments d\u00e9riv\u00e9s du sang et du plasma sanguin humain.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Biopharmazeutika (auch Biopharmaka, Biologicals, Biologica, Biologika oder Biologics) sind Arzneistoffe, die mit Mitteln der Biotechnologie und gentechnisch ver\u00e4nderten Organismen hergestellt werden. Biopharmazeutika geh\u00f6ren zu den wachsenden Gesch\u00e4ftsfeldern der Pharma- und Biotechnologieindustrie. Abzugrenzen hiervon ist das Gebiet der Biopharmazie.",
+                "lang": "de"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/FreshFrozenPlasma.JPG?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742588342,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 2654847,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wockhardt": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cephalon": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/WuXi_PharmaTech": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/CSL_Behring": {
+        "http://dbpedia.org/property/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Onepharm": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/AbbVie_Inc.": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/AryoGen": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Trubion": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Merck_Group": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chiron_Corporation": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Quattromed": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biological_E._Limited": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Therapure_BioPharma_Inc": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kite_Pharma": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mapp_Biopharmaceutical": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Domenico_Scala_(manager)": {
+        "http://dbpedia.org/ontology/occupation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Maria_da_Penha": {
+        "http://dbpedia.org/ontology/occupation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biopharmaceuticals": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Biopharmaceutical": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tanox": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Apricus_Biosciences": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Acadia_Pharmaceuticals": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GE_Healthcare": {
+        "http://dbpedia.org/ontology/service": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Progenics_Pharmaceuticals": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Debiopharm": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lonza_Group": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bachem": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pharmacyclics": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Novozymes": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UCB_(company)": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biologic_medical_product": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sarfaraz_K._Niazi": {
+        "http://dbpedia.org/ontology/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ],
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bharat_Biotech_International": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/VAV_Life_Sciences": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bio-pharmaceuticals": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biopharmaceutics": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biologic_therapy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biological_drug": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biologics": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biological_medicinal_product": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Therapeutic_biological_product": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biopharmaceutical_drug": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Therapeutic_protein": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biotherapeutic": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Biopharmaceutical"
+            }
+        ]
+    }
+}

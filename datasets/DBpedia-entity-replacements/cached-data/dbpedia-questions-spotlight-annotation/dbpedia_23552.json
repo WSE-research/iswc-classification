@@ -1,0 +1,28 @@
+{
+    "@text": "What is the highest mountain in Australia?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mountain",
+            "@support": "17196",
+            "@types": "",
+            "@surfaceForm": "mountain",
+            "@offset": "20",
+            "@similarityScore": "0.9992619743616161",
+            "@percentageOfSecondRank": "6.977308434408772E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Australia",
+            "@support": "189357",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Australia",
+            "@offset": "32",
+            "@similarityScore": "0.9895803064295728",
+            "@percentageOfSecondRank": "0.008927266613927077"
+        }
+    ]
+}

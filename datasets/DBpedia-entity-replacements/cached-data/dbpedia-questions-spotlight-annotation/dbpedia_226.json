@@ -1,0 +1,37 @@
+{
+    "@text": "What is { solubility } of { nitrous oxide } { solvent } is { water }?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Solubility",
+            "@support": "1966",
+            "@types": "",
+            "@surfaceForm": "solubility",
+            "@offset": "10",
+            "@similarityScore": "0.9998618236753661",
+            "@percentageOfSecondRank": "8.204204281865117E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Nitrous_oxide",
+            "@support": "1149",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "nitrous oxide",
+            "@offset": "28",
+            "@similarityScore": "0.9985875289746019",
+            "@percentageOfSecondRank": "0.001298682416532897"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Solvent",
+            "@support": "3330",
+            "@types": "",
+            "@surfaceForm": "solvent",
+            "@offset": "46",
+            "@similarityScore": "0.9999999960560899",
+            "@percentageOfSecondRank": "3.908635160195764E-9"
+        }
+    ]
+}

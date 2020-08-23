@@ -1,0 +1,37 @@
+{
+    "@text": "Which excipient chemical compound has the least kinematic viscosity?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Excipient",
+            "@support": "174",
+            "@types": "",
+            "@surfaceForm": "excipient",
+            "@offset": "6",
+            "@similarityScore": "0.9999999987469153",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chemical_compound",
+            "@support": "3471",
+            "@types": "",
+            "@surfaceForm": "chemical compound",
+            "@offset": "16",
+            "@similarityScore": "0.9994896460141778",
+            "@percentageOfSecondRank": "5.106145766467415E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Viscosity",
+            "@support": "3841",
+            "@types": "",
+            "@surfaceForm": "kinematic viscosity",
+            "@offset": "48",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

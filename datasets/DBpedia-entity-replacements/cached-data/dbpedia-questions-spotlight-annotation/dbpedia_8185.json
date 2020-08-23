@@ -1,0 +1,28 @@
+{
+    "@text": "Is John Cena place of birth West Newbury?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/John_Cena",
+            "@support": "1988",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "John Cena",
+            "@offset": "3",
+            "@similarityScore": "0.9999999999663345",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/West_Newbury,_Massachusetts",
+            "@support": "90",
+            "@types": "Wikidata:Q486972,Wikidata:Q3957,Schema:Place,DBpedia:Town,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "West Newbury",
+            "@offset": "28",
+            "@similarityScore": "0.99998908437566",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

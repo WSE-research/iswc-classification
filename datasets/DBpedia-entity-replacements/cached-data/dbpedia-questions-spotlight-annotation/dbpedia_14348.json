@@ -1,0 +1,28 @@
+{
+    "@text": "Is the nominal GDP per capita of Belarus greater than 4592.368?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Gross_domestic_product",
+            "@support": "8354",
+            "@types": "",
+            "@surfaceForm": "nominal GDP",
+            "@offset": "7",
+            "@similarityScore": "0.999999999977291",
+            "@percentageOfSecondRank": "2.2707631884270567E-11"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Belarus",
+            "@support": "18984",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Belarus",
+            "@offset": "33",
+            "@similarityScore": "0.9816739246001439",
+            "@percentageOfSecondRank": "0.010846688072417178"
+        }
+    ]
+}

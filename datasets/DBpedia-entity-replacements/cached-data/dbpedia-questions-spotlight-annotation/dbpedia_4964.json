@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the infectious disease that has effect on bacteria?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Infection",
+            "@support": "7754",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "infectious disease",
+            "@offset": "13",
+            "@similarityScore": "0.9999999941830566",
+            "@percentageOfSecondRank": "5.816922951367987E-9"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bacteria",
+            "@support": "16514",
+            "@types": "DBpedia:Species,DBpedia:Bacteria",
+            "@surfaceForm": "bacteria",
+            "@offset": "51",
+            "@similarityScore": "0.9998581547396307",
+            "@percentageOfSecondRank": "6.613417779283662E-5"
+        }
+    ]
+}

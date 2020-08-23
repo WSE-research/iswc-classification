@@ -1,0 +1,28 @@
+{
+    "@text": "\"Where is {disciples} of {Nadia Boulanger}, which has {location of death} is {Azores} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Nadia_Boulanger",
+            "@support": "587",
+            "@types": "",
+            "@surfaceForm": "Nadia Boulanger",
+            "@offset": "26",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Azores",
+            "@support": "6373",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Azores",
+            "@offset": "78",
+            "@similarityScore": "0.9999877712785913",
+            "@percentageOfSecondRank": "1.1953988003719782E-5"
+        }
+    ]
+}

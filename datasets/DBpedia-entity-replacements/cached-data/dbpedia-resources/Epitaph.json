@@ -1,0 +1,476 @@
+{
+    "http://dbpedia.org/resource/Inscription_of_Abercius": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Epigraph_(literature)": {
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rest_in_peace": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Epitaph_for_James_Smith": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Remindstate": {
+        "http://dbpedia.org/ontology/recordLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Epitaph": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Robocop_Kraus": {
+        "http://dbpedia.org/ontology/recordLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mantras_(album)": {
+        "http://dbpedia.org/property/extra": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Settle_(band)": {
+        "http://dbpedia.org/ontology/recordLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dead_Fucking_Last": {
+        "http://dbpedia.org/ontology/recordLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Stephen_Jackson_(musician)": {
+        "http://dbpedia.org/ontology/recordLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/On_the_Impossible_Past": {
+        "http://dbpedia.org/ontology/recordLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Joykiller_(album)": {
+        "http://dbpedia.org/ontology/recordLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Epitaph": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Book"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u00c9pitaphe",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Epitafio",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Epitaph",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a8\u30d4\u30bf\u30d5",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Epitaffio",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0646\u0642\u0634 \u0627\u0644\u0636\u0631\u064a\u062d \u0627\u0644\u062a\u0630\u0643\u0627\u0631\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Epitaph",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Epit\u00e1fio",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u042d\u043f\u0438\u0442\u0430\u0444\u0438\u044f",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Epitafium",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5893\u8a8c\u9298",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Grafschrift",
+                "lang": "nl"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Als Epitaph (griechisch \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03bd \u201ezum Grab geh\u00f6rend\u201c bzw. lateinisch epitaphium, von \u1f10\u03c0\u03af epi \u201ebei, auf\u201c und \u03c4\u03ac\u03c6\u03bf\u03c2 taphos \u201eGrab\u201c; Plural Epitaphe; im Deutschen auch Epitaphium, Plural Epitaphien) wird eine Grabinschrift oder ein Grabdenkmal f\u00fcr einen Verstorbenen an einer Kirchenwand oder einem Pfeiler bezeichnet. Epitaphe k\u00f6nnen k\u00fcnstlerisch aufwendig gestaltet sein und befinden sich im Unterschied zum Grabmal nicht zwangsl\u00e4ufig am Bestattungsort. Eine Abart ist das Kenotaph.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Epit\u00e1fios (do grego antigo \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2; \"sobre a tumba\") s\u00e3o frases escritas sobre t\u00famulos, mausol\u00e9us e campas cemiteriais para homenagear pessoas ali sepultadas. Normalmente, os dizeres s\u00e3o colocados em placas de metal ou pedra. Tradicionalmente escritos em verso, alguns epit\u00e1fios s\u00e3o c\u00e9lebres como o de Robespierre: Passant, ne pleure pas ma mort (\"Passante, n\u00e3o chores minha morte\")Si je vivais tu serais mort. (\"Se eu vivesse tu estarias morto\")A vida \u00e9 noite: o sol tem v\u00e9u de pedra.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0646\u0642\u0634 \u0627\u0644\u0636\u0631\u064a\u062d \u0627\u0644\u062a\u0630\u0643\u0627\u0631\u064a \u0647\u0648 \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u062e\u0637\u0627\u0628 \u062a\u0630\u0643\u0627\u0631\u064a \u0639\u0644\u0649 \u0627\u0644\u0636\u0631\u064a\u062d \u0639\u064a\u0646\u0647 \u0644\u062a\u0643\u0631\u064a\u0645 \u0627\u0644\u0645\u062a\u0648\u0641\u0649\u060c \u0648\u063a\u0627\u0644\u0628\u064b\u0627 \u0645\u0627\u062a\u0643\u0648\u0646 \u0627\u0644\u0644\u063a\u0629 \u0644\u063a\u0629 \u0645\u062c\u0627\u0632\u064a\u0629. \u0623\u062e\u0630\u062a \u0627\u0644\u0643\u0644\u0645\u0629 \u0645\u0646 \u0643\u0644\u0645\u0629 (\u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2) \u0627\u0644\u064a\u0648\u0646\u0627\u0646\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0646\u0637\u0642 (\u0625\u0628\u064a\u062a\u0627\u0641\u064a\u0648\u0633)\u060c \u0641\u0627\u0644\u0645\u0642\u0637\u0639 \"\u0625\u0628\u064a\" \u0628\u0645\u0639\u0646\u0649 \u0641\u0648\u0642 \u0648\"\u062a\u0627\u0641\u0648\u0633\" \u0628\u0645\u0639\u0646\u0649 \u0642\u0628\u0631. \u062a\u0635\u0641\u062d (\u0641\u0646 \u0627\u0644\u0634\u0639\u0627\u0626\u0631 \u0627\u0644\u062c\u0646\u0627\u0626\u0632\u064a\u0629).",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a8\u30d4\u30bf\u30d5\uff08\u82f1\u3001\u72ec\uff1aEpitaph\u3001\u4ecf\uff1a\u00c9pitaphe\uff09\u3068\u306f\u5893\u7891\u9298\u3092\u610f\u5473\u3059\u308b\u8a9e\u3067\u3042\u308b\u3002\u8a9e\u6e90\u306f\u30ae\u30ea\u30b7\u30e3\u8a9e\u3067\u300c\u5893\u306e\u4e0a\u306b\u300d\u3092\u610f\u5473\u3059\u308b\u30a8\u30d4\u30bf\u30d4\u30aa\u30b9\uff08\u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2\uff09\u304b\u3089\u3002\u6b7b\u8005\u306e\u751f\u524d\u306e\u529f\u7e3e\u3092\u305f\u305f\u3048\u3066\u5893\u77f3\u306b\u523b\u307e\u308c\u3001\u53e4\u3088\u308a\u8a69\u306e\u5f62\u5f0f\u3092\u3068\u3063\u3066\u3044\u308b\u3002\u512a\u308c\u305f\u8a69\u4eba\u306f\u751f\u524d\u306b\u81ea\u5206\u306e\u30a8\u30d4\u30bf\u30d5\u3092\u8a60\u3093\u3067\u3044\u308b\u3053\u3068\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "L\u2019epitaffio o epitafio (in greco antico: \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03bd, epit\u00e1phion, ossia \"ci\u00f2 che sta sopra al sepolcro\") \u00e8 un'iscrizione funebre avente come scopo onorare e ricordare un defunto. Generalmente, ma non sempre, si tratta di uno o pi\u00f9 versi di una poesia: molti poeti hanno infatti composto il proprio epitaffio.Un buon epitaffio deve avere sempre qualcosa che resti impresso, o faccia pensare: un espediente abbastanza diffuso \u00e8 \"parlare\" direttamente a chi legge, dando un avviso sul significato della mortalit\u00e0. Alcuni epitaffi enumerano i grandi risultati ottenuti (un politico o un militare di carriera nominer\u00e0, per esempio, il numero degli anni di servizio al Paese).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Epitafium (z gr. \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2 epi-taphios, \u201enad grobem\u201d, \u201ena kamieniu nagrobnym\u201d) \u2013 napis umieszczony na nagrobku lub pomniku upami\u0119tniaj\u0105cy lub s\u0142awi\u0105cy zmar\u0142ego.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Un epitafio (del griego \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2), es el texto que honra al difunto, normalmente inscrito en una l\u00e1pida o placa sobre su tumba. Tradicionalmente un epitafio est\u00e1 escrito en verso, pero hay excepciones. Se han conocido muchos poetas que han compuesto su propio epitafio. El nombre Epitafio, epitaphium en lat\u00edn, es compuesto de dos voces griegas epi, sobre, y taphos, tumba, es decir inscripci\u00f3n puesta sobre una tumba, inscripci\u00f3n sepulcral. En la antigua grecia, hac\u00eda referencia a la oraci\u00f3n dicha respecto a los ciudadanos atenienses muertos en batalla.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "An epitaph (from Greek \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2 epitaphios \"a funeral oration\" from \u1f10\u03c0\u03af epi \"at, over\" and \u03c4\u03ac\u03c6\u03bf\u03c2 taphos \"tomb\") is a short text honoring a deceased person. Strictly speaking, it refers to text that is inscribed on a tombstone or plaque, but it may also be used in a figurative sense. Some epitaphs are specified by the person themselves before their death, while others are chosen by those responsible for the burial. An epitaph may be written in prose or in poem verse; poets have been known to compose their own epitaphs prior to their death, .",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Une \u00e9pitaphe  (du grec \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03bf\u03c2 / epi, \u00ab sur \u00bb et taphos, \u00ab tombeau \u00bb, par exemple des jeux fun\u00e8bres ou une oraison fun\u00e8bre) est une inscription fun\u00e9raire, plac\u00e9e sur une pierre tombale ou un monument fun\u00e9raire. Cela peut \u00eatre un objet donn\u00e9 \u00e0 une civilisation comme signe de paix. Dans la Gr\u00e8ce antique, l\u2019\u00e9pitaphe est un genre litt\u00e9raire : c\u2019est un \u00e9loge fun\u00e8bre ancien.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u042d\u043f\u0438\u0442\u0430\u0301\u0444\u0438\u044f (\u0433\u0440\u0435\u0447. \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2 \u00ab\u043d\u0430\u0434\u0433\u0440\u043e\u0431\u043d\u044b\u0439\u00bb) \u2014 \u0438\u0437\u0440\u0435\u0447\u0435\u043d\u0438\u0435 (\u0447\u0430\u0441\u0442\u043e \u0441\u0442\u0438\u0445\u043e\u0442\u0432\u043e\u0440\u043d\u043e\u0435), \u0441\u043e\u0447\u0438\u043d\u044f\u0435\u043c\u043e\u0435 \u043d\u0430 \u0441\u043b\u0443\u0447\u0430\u0439 \u0447\u044c\u0435\u0439-\u043b\u0438\u0431\u043e \u0441\u043c\u0435\u0440\u0442\u0438 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u043e\u0435 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043d\u0430\u0434\u0433\u0440\u043e\u0431\u043d\u043e\u0439 \u043d\u0430\u0434\u043f\u0438\u0441\u0438. \u0412 \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u044d\u043f\u0438\u0442\u0430\u0444\u0438\u0435\u0439 \u0441\u0447\u0438\u0442\u0430\u043b\u0430\u0441\u044c \u0440\u0435\u0447\u044c \u043d\u0430 \u0442\u043e\u0440\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0433\u043e\u0434\u0438\u0447\u043d\u044b\u0445 \u043f\u043e\u043c\u0438\u043d\u043e\u0432\u0435\u043d\u0438\u044f\u0445 \u043f\u0430\u0432\u0448\u0438\u0445 \u0437\u0430 \u043e\u0442\u0435\u0447\u0435\u0441\u0442\u0432\u043e. \u0412 \u043f\u043e\u044d\u0437\u0438\u0438 \u0441\u0442\u0438\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u044d\u043f\u0438\u0442\u0430\u0444\u0438\u0438 \u0441\u0442\u0430\u043b\u0438 \u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u0436\u0430\u043d\u0440\u043e\u043c \u043f\u0430\u043d\u0435\u0433\u0438\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e (\u044d\u043f\u043e\u0445\u0430 \u043a\u043b\u0430\u0441\u0441\u0438\u0446\u0438\u0437\u043c\u0430) \u0438\u043b\u0438, \u043f\u043e\u0434\u043e\u0431\u043d\u043e \u044d\u043f\u0438\u0433\u0440\u0430\u043c\u043c\u0435, \u0441\u0430\u0442\u0438\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u044f. \u041f\u0440\u043e\u0445\u043e\u0436\u0438\u0439! \u0422\u044b \u0438\u0434\u0435\u0448\u044c, \u043d\u043e \u043b\u044f\u0436\u0435\u0448\u044c \u0442\u0430\u043a, \u043a\u0430\u043a \u044f;\u041f\u0440\u0438\u0441\u044f\u0434\u044c \u0438 \u043e\u0442\u0434\u043e\u0445\u043d\u0438 \u043d\u0430 \u043a\u0430\u043c\u043d\u0435 \u0443 \u043c\u0435\u043d\u044f,\u0421\u043e\u0440\u0432\u0438 \u0431\u044b\u043b\u0438\u043d\u043e\u0447\u043a\u0443 \u0438 \u0432\u0441\u043f\u043e\u043c\u043d\u0438 \u043e \u0441\u0443\u0434\u044c\u0431\u0435;\u042f \u2014 \u0434\u043e\u043c\u0430, \u0442\u044b \u2014 \u0432 \u0433\u043e\u0441\u0442\u044f\u0445; \u043f\u043e\u0434\u0443\u043c\u0430\u0439 \u043e \u0441\u0435\u0431\u0435.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u5893\u8a8c\u9298\u70ba\u6587\u4f53\u540d\uff0c\u5728\u58b3\u5893\u4e2d\u6216\u58b3\u5893\u4e0a\uff0c\u4ee5\u6b7b\u8005\u751f\u5e73\u4e8b\u8e5f\u6240\u5beb\u7684\u4e00\u4efd\u7c21\u4ecb\uff0c\u5c24\u5176\u5c0d\u65bc\u5049\u5927\u6216\u503c\u5f97\u7d00\u5ff5\u7684\u4eba\u5176\u5893\u7d93\u5e38\u6709\u5893\u8a8c\u9298\uff0c\u5728\u4e2d\u570b\u548c\u897f\u65b9\u90fd\u6709\u9019\u7a2e\u7fd2\u4fd7\u7684\u5b58\u5728\uff0c\u53e6\u5916\u4e2d\u570b\u53e4\u4ee3\u9084\u6709\u796d\u6587\u3001\u884c\u72c0\u7684\u5beb\u6cd5\u3002\u4f46\u662f\u8fd1\u4ee3\u4e2d\u570b\u5df2\u4e0d\u6d41\u884c\u5beb\u5893\u8a8c\u9298\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Een grafschrift of epitaaf is een kort gedicht of enkele zinnen die zijn gewijd aan de overledene en op de grafsteen zijn gegraveerd - het lijkt daarin op een epigram. Meestal wordt de overledene ge\u00eberd met het grafschrift. Vaak ook wordt een Bijbeltekst op het graf opgenomen, of all\u00e9\u00e9n de letters R.I.P (Requiescat in pace, Latijn voor rust in vrede). De traditie van de grafschriften is al eeuwen oud. Het schrijven van opvallende grafschriften kwam in de Romeinse Republiek en het daaropvolgende keizerrijk erg in zwang. Op het graf van J.C. Bloem staat het volgende: Wat was is geweest",
+                "lang": "nl"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epigraph_(disambiguation)"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Epitaph"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30a8\u30d4\u30bf\u30d5"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Epitafium"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1772"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Epitaf"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4015056-2"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Epitaffio"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Epit\u00e1fio"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/\u00c9pitaphe"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Grafschrift"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1772"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.02q_s"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Epitafio"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Inscriptions_by_type"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Acknowledgements_of_death"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/The_day_will_come.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Epitaph"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Epitaph?oldid=744371389"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.burmastar.org.uk/epitaph.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.tandfonline.com/eprint/fByCJS8IEiui62NK5wrq/full#.U_HCzFOBq3o"
+            },
+            {
+                "type": "uri",
+                "value": "http://archive.iwm.org.uk/server/show/ConWebDoc.1261"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "An epitaph (from Greek \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2 epitaphios \"a funeral oration\" from \u1f10\u03c0\u03af epi \"at, over\" and \u03c4\u03ac\u03c6\u03bf\u03c2 taphos \"tomb\") is a short text honoring a deceased person. Strictly speaking, it refers to text that is inscribed on a tombstone or plaque, but it may also be used in a figurative sense. Some epitaphs are specified by the person themselves before their death, while others are chosen by those responsible for the burial. An epitaph may be written in prose or in poem verse; poets have been known to compose their own epitaphs prior to their death, . Most epitaphs are brief records of the family, and perhaps the career, of the deceased, often with a common expression of love or respect\u2014for example, \"beloved father of ...\"\u2014but others are more ambitious. From the Renaissance to the 19th century in Western culture, epitaphs for notable people became increasingly lengthy and pompous descriptions of their family origins, career, virtues and immediate family, often in Latin. Notably, the Laudatio Turiae, the longest known Ancient Roman epitaph, exceeds almost all of these at 180 lines; it celebrates the virtues of an honored wife, probably of a consul. Some are quotes from holy texts, or aphorisms. One approach of many epitaphs is to 'speak' to the reader and warn them about their own mortality. A wry trick of others is to request the reader to get off their resting place, inasmuch as the reader would have to be standing on the ground above the coffin to read the inscription. Some record achievements (e.g., past politicians note the years of their terms of office). Nearly all (excepting those where this is impossible by definition, such as the Tomb of the Unknown Soldier) note name, year or date of birth, and date of death. Many list family members and the relationship of the deceased to them (for example, \"Father / Mother / Son / Daughter of\").",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Un epitafio (del griego \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2), es el texto que honra al difunto, normalmente inscrito en una l\u00e1pida o placa sobre su tumba. Tradicionalmente un epitafio est\u00e1 escrito en verso, pero hay excepciones. Se han conocido muchos poetas que han compuesto su propio epitafio. El nombre Epitafio, epitaphium en lat\u00edn, es compuesto de dos voces griegas epi, sobre, y taphos, tumba, es decir inscripci\u00f3n puesta sobre una tumba, inscripci\u00f3n sepulcral. En la antigua grecia, hac\u00eda referencia a la oraci\u00f3n dicha respecto a los ciudadanos atenienses muertos en batalla. Muchos son las citas de los textos santos, o aforismos. Se considera que un epitafio bueno es uno que es memorable, o por lo menos hace uno pensar. Un truco torcido de muchos epitafios exitosos es que le 'hablan' al lector y le advierten sobre su propia mortalidad; otro es una demanda del lector para bajar de su lugar descansando, como a menudo \u00e9l le exigir\u00eda al lector que estuviera de pie en la tierra sobre el ata\u00fad leer la inscripci\u00f3n. Algunos graban los logros, (por ejemplo los pol\u00edticos notan sus logros durante su paso por un Gobierno) pero casi todos (con excepci\u00f3n de la tumba del soldado desconocido d\u00f3nde esto es imposible) el nombre de la nota, la fecha de nacimiento y fecha de muerte. Muchos epitafios fueron escritos con alg\u00fan refinamiento literario, por lo que constituyen un subg\u00e9nero literario l\u00edrico dentro del m\u00e1s general de la eleg\u00eda o poema de lamento. Son subg\u00e9neros emparentados con \u00e9l epicedio, el treno y el planto.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "L\u2019epitaffio o epitafio (in greco antico: \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03bd, epit\u00e1phion, ossia \"ci\u00f2 che sta sopra al sepolcro\") \u00e8 un'iscrizione funebre avente come scopo onorare e ricordare un defunto. Generalmente, ma non sempre, si tratta di uno o pi\u00f9 versi di una poesia: molti poeti hanno infatti composto il proprio epitaffio.Un buon epitaffio deve avere sempre qualcosa che resti impresso, o faccia pensare: un espediente abbastanza diffuso \u00e8 \"parlare\" direttamente a chi legge, dando un avviso sul significato della mortalit\u00e0. Alcuni epitaffi enumerano i grandi risultati ottenuti (un politico o un militare di carriera nominer\u00e0, per esempio, il numero degli anni di servizio al Paese). Nell'antica Grecia, specialmente ad Atene, l'epitaffio era un'orazione funebre pubblica in onore dei soldati caduti durante l'anno trascorso.Nell'antica Roma l'epitaffio si confuse con la laudatio funebris, pronunciata da un figlio o da un parente del morto. In seguito, per estensione, il nome epitaffio indic\u00f2 anche la semplice iscrizione tombale.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Als Epitaph (griechisch \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03bd \u201ezum Grab geh\u00f6rend\u201c bzw. lateinisch epitaphium, von \u1f10\u03c0\u03af epi \u201ebei, auf\u201c und \u03c4\u03ac\u03c6\u03bf\u03c2 taphos \u201eGrab\u201c; Plural Epitaphe; im Deutschen auch Epitaphium, Plural Epitaphien) wird eine Grabinschrift oder ein Grabdenkmal f\u00fcr einen Verstorbenen an einer Kirchenwand oder einem Pfeiler bezeichnet. Epitaphe k\u00f6nnen k\u00fcnstlerisch aufwendig gestaltet sein und befinden sich im Unterschied zum Grabmal nicht zwangsl\u00e4ufig am Bestattungsort. Eine Abart ist das Kenotaph.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Epit\u00e1fios (do grego antigo \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2; \"sobre a tumba\") s\u00e3o frases escritas sobre t\u00famulos, mausol\u00e9us e campas cemiteriais para homenagear pessoas ali sepultadas. Normalmente, os dizeres s\u00e3o colocados em placas de metal ou pedra. Tradicionalmente escritos em verso, alguns epit\u00e1fios s\u00e3o c\u00e9lebres como o de Robespierre: Passant, ne pleure pas ma mort (\"Passante, n\u00e3o chores minha morte\")Si je vivais tu serais mort. (\"Se eu vivesse tu estarias morto\")A vida \u00e9 noite: o sol tem v\u00e9u de pedra.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a8\u30d4\u30bf\u30d5\uff08\u82f1\u3001\u72ec\uff1aEpitaph\u3001\u4ecf\uff1a\u00c9pitaphe\uff09\u3068\u306f\u5893\u7891\u9298\u3092\u610f\u5473\u3059\u308b\u8a9e\u3067\u3042\u308b\u3002\u8a9e\u6e90\u306f\u30ae\u30ea\u30b7\u30e3\u8a9e\u3067\u300c\u5893\u306e\u4e0a\u306b\u300d\u3092\u610f\u5473\u3059\u308b\u30a8\u30d4\u30bf\u30d4\u30aa\u30b9\uff08\u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2\uff09\u304b\u3089\u3002\u6b7b\u8005\u306e\u751f\u524d\u306e\u529f\u7e3e\u3092\u305f\u305f\u3048\u3066\u5893\u77f3\u306b\u523b\u307e\u308c\u3001\u53e4\u3088\u308a\u8a69\u306e\u5f62\u5f0f\u3092\u3068\u3063\u3066\u3044\u308b\u3002\u512a\u308c\u305f\u8a69\u4eba\u306f\u751f\u524d\u306b\u81ea\u5206\u306e\u30a8\u30d4\u30bf\u30d5\u3092\u8a60\u3093\u3067\u3044\u308b\u3053\u3068\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Epitafium (z gr. \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2 epi-taphios, \u201enad grobem\u201d, \u201ena kamieniu nagrobnym\u201d) \u2013 napis umieszczony na nagrobku lub pomniku upami\u0119tniaj\u0105cy lub s\u0142awi\u0105cy zmar\u0142ego.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u042d\u043f\u0438\u0442\u0430\u0301\u0444\u0438\u044f (\u0433\u0440\u0435\u0447. \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2 \u00ab\u043d\u0430\u0434\u0433\u0440\u043e\u0431\u043d\u044b\u0439\u00bb) \u2014 \u0438\u0437\u0440\u0435\u0447\u0435\u043d\u0438\u0435 (\u0447\u0430\u0441\u0442\u043e \u0441\u0442\u0438\u0445\u043e\u0442\u0432\u043e\u0440\u043d\u043e\u0435), \u0441\u043e\u0447\u0438\u043d\u044f\u0435\u043c\u043e\u0435 \u043d\u0430 \u0441\u043b\u0443\u0447\u0430\u0439 \u0447\u044c\u0435\u0439-\u043b\u0438\u0431\u043e \u0441\u043c\u0435\u0440\u0442\u0438 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u043e\u0435 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043d\u0430\u0434\u0433\u0440\u043e\u0431\u043d\u043e\u0439 \u043d\u0430\u0434\u043f\u0438\u0441\u0438. \u0412 \u0414\u0440\u0435\u0432\u043d\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u044d\u043f\u0438\u0442\u0430\u0444\u0438\u0435\u0439 \u0441\u0447\u0438\u0442\u0430\u043b\u0430\u0441\u044c \u0440\u0435\u0447\u044c \u043d\u0430 \u0442\u043e\u0440\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0433\u043e\u0434\u0438\u0447\u043d\u044b\u0445 \u043f\u043e\u043c\u0438\u043d\u043e\u0432\u0435\u043d\u0438\u044f\u0445 \u043f\u0430\u0432\u0448\u0438\u0445 \u0437\u0430 \u043e\u0442\u0435\u0447\u0435\u0441\u0442\u0432\u043e. \u0412 \u043f\u043e\u044d\u0437\u0438\u0438 \u0441\u0442\u0438\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u044d\u043f\u0438\u0442\u0430\u0444\u0438\u0438 \u0441\u0442\u0430\u043b\u0438 \u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u0436\u0430\u043d\u0440\u043e\u043c \u043f\u0430\u043d\u0435\u0433\u0438\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e (\u044d\u043f\u043e\u0445\u0430 \u043a\u043b\u0430\u0441\u0441\u0438\u0446\u0438\u0437\u043c\u0430) \u0438\u043b\u0438, \u043f\u043e\u0434\u043e\u0431\u043d\u043e \u044d\u043f\u0438\u0433\u0440\u0430\u043c\u043c\u0435, \u0441\u0430\u0442\u0438\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u044f. \u0412 \u0445\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0441\u043a\u043e\u0439 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0438 \u044d\u043f\u0438\u0442\u0430\u0444\u0438\u044f \u0441\u043b\u0443\u0436\u0438\u0442 \u043d\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u043d\u0438\u0435\u043c \u0435\u0451 \u0447\u0438\u0442\u0430\u0442\u0435\u043b\u044f\u043c \u043e \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0432\u0441\u0442\u0440\u0435\u0447\u0435 \u0441 \u0411\u043e\u0433\u043e\u043c \u0438 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438 \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0438 \u043a \u043d\u0435\u0439. \u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0430\u044f \u044d\u043f\u0438\u0442\u0430\u0444\u0438\u044f, \u0432\u044b\u0441\u0435\u043a\u0430\u0432\u0448\u0430\u044f\u0441\u044f \u043d\u0430 \u043d\u0430\u0434\u0433\u0440\u043e\u0431\u043d\u044b\u0445 \u043a\u0430\u043c\u043d\u044f\u0445 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 XIX \u0432\u0435\u043a\u0430, \u0433\u043b\u0430\u0441\u0438\u043b\u0430: \u041f\u0440\u043e\u0445\u043e\u0436\u0438\u0439! \u0422\u044b \u0438\u0434\u0435\u0448\u044c, \u043d\u043e \u043b\u044f\u0436\u0435\u0448\u044c \u0442\u0430\u043a, \u043a\u0430\u043a \u044f;\u041f\u0440\u0438\u0441\u044f\u0434\u044c \u0438 \u043e\u0442\u0434\u043e\u0445\u043d\u0438 \u043d\u0430 \u043a\u0430\u043c\u043d\u0435 \u0443 \u043c\u0435\u043d\u044f,\u0421\u043e\u0440\u0432\u0438 \u0431\u044b\u043b\u0438\u043d\u043e\u0447\u043a\u0443 \u0438 \u0432\u0441\u043f\u043e\u043c\u043d\u0438 \u043e \u0441\u0443\u0434\u044c\u0431\u0435;\u042f \u2014 \u0434\u043e\u043c\u0430, \u0442\u044b \u2014 \u0432 \u0433\u043e\u0441\u0442\u044f\u0445; \u043f\u043e\u0434\u0443\u043c\u0430\u0439 \u043e \u0441\u0435\u0431\u0435.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u0646\u0642\u0634 \u0627\u0644\u0636\u0631\u064a\u062d \u0627\u0644\u062a\u0630\u0643\u0627\u0631\u064a \u0647\u0648 \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u062e\u0637\u0627\u0628 \u062a\u0630\u0643\u0627\u0631\u064a \u0639\u0644\u0649 \u0627\u0644\u0636\u0631\u064a\u062d \u0639\u064a\u0646\u0647 \u0644\u062a\u0643\u0631\u064a\u0645 \u0627\u0644\u0645\u062a\u0648\u0641\u0649\u060c \u0648\u063a\u0627\u0644\u0628\u064b\u0627 \u0645\u0627\u062a\u0643\u0648\u0646 \u0627\u0644\u0644\u063a\u0629 \u0644\u063a\u0629 \u0645\u062c\u0627\u0632\u064a\u0629. \u0623\u062e\u0630\u062a \u0627\u0644\u0643\u0644\u0645\u0629 \u0645\u0646 \u0643\u0644\u0645\u0629 (\u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03b9\u03bf\u03c2) \u0627\u0644\u064a\u0648\u0646\u0627\u0646\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0646\u0637\u0642 (\u0625\u0628\u064a\u062a\u0627\u0641\u064a\u0648\u0633)\u060c \u0641\u0627\u0644\u0645\u0642\u0637\u0639 \"\u0625\u0628\u064a\" \u0628\u0645\u0639\u0646\u0649 \u0641\u0648\u0642 \u0648\"\u062a\u0627\u0641\u0648\u0633\" \u0628\u0645\u0639\u0646\u0649 \u0642\u0628\u0631. \u062a\u0635\u0641\u062d (\u0641\u0646 \u0627\u0644\u0634\u0639\u0627\u0626\u0631 \u0627\u0644\u062c\u0646\u0627\u0626\u0632\u064a\u0629).",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Een grafschrift of epitaaf is een kort gedicht of enkele zinnen die zijn gewijd aan de overledene en op de grafsteen zijn gegraveerd - het lijkt daarin op een epigram. Meestal wordt de overledene ge\u00eberd met het grafschrift. Vaak ook wordt een Bijbeltekst op het graf opgenomen, of all\u00e9\u00e9n de letters R.I.P (Requiescat in pace, Latijn voor rust in vrede). De traditie van de grafschriften is al eeuwen oud. Het schrijven van opvallende grafschriften kwam in de Romeinse Republiek en het daaropvolgende keizerrijk erg in zwang. Op het graf van J.C. Bloem staat het volgende: Voorbij, voorbij, o en voorgoed voorbij Het grafschrift van Adriaan Roland Holst: Wat was is geweest",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5893\u8a8c\u9298\u70ba\u6587\u4f53\u540d\uff0c\u5728\u58b3\u5893\u4e2d\u6216\u58b3\u5893\u4e0a\uff0c\u4ee5\u6b7b\u8005\u751f\u5e73\u4e8b\u8e5f\u6240\u5beb\u7684\u4e00\u4efd\u7c21\u4ecb\uff0c\u5c24\u5176\u5c0d\u65bc\u5049\u5927\u6216\u503c\u5f97\u7d00\u5ff5\u7684\u4eba\u5176\u5893\u7d93\u5e38\u6709\u5893\u8a8c\u9298\uff0c\u5728\u4e2d\u570b\u548c\u897f\u65b9\u90fd\u6709\u9019\u7a2e\u7fd2\u4fd7\u7684\u5b58\u5728\uff0c\u53e6\u5916\u4e2d\u570b\u53e4\u4ee3\u9084\u6709\u796d\u6587\u3001\u884c\u72c0\u7684\u5beb\u6cd5\u3002\u4f46\u662f\u8fd1\u4ee3\u4e2d\u570b\u5df2\u4e0d\u6d41\u884c\u5beb\u5893\u8a8c\u9298\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Une \u00e9pitaphe  (du grec \u1f10\u03c0\u03b9\u03c4\u03ac\u03c6\u03bf\u03c2 / epi, \u00ab sur \u00bb et taphos, \u00ab tombeau \u00bb, par exemple des jeux fun\u00e8bres ou une oraison fun\u00e8bre) est une inscription fun\u00e9raire, plac\u00e9e sur une pierre tombale ou un monument fun\u00e9raire. Cela peut \u00eatre un objet donn\u00e9 \u00e0 une civilisation comme signe de paix. Dans la Gr\u00e8ce antique, l\u2019\u00e9pitaphe est un genre litt\u00e9raire : c\u2019est un \u00e9loge fun\u00e8bre ancien. En litt\u00e9rature fran\u00e7aise, l'\u00e9pitaphe est aussi un genre litt\u00e9raire rim\u00e9 : c'est surtout ce que l'on aimerait inscrire sur la pierre tombale de quelqu'un que l'on admire, ou, au contraire, que l'on n'appr\u00e9cie gu\u00e8re. Suppos\u00e9e \u00eatre inscrite sur le tombeau lui-m\u00eame, une \u00e9pitaphe peut d\u00e9buter par ci-g\u00eet ou par la formule plus moderne ici repose ou par leur pluriel ci-gisent et ici reposent.",
+                "lang": "fr"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/The_day_will_come.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744371389,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 10074,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Epitaph_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ghetto_Blaster_(Red_Aunts_album)": {
+        "http://dbpedia.org/ontology/recordLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Saltbox_(album)": {
+        "http://dbpedia.org/ontology/recordLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Epitaph_of_Gllavenica": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Epitaphs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epitaph"
+            }
+        ]
+    }
+}

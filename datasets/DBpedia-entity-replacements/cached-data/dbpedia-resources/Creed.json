@@ -1,0 +1,620 @@
+{
+    "http://dbpedia.org/resource/Article_of_Faith": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Confessions_of_Faith": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Statement_of_faith": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Brief_Statement_of_Faith": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Articles_of_faith": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Creed": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Creed": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Creed",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Glaubensbekenntnis",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Credo",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0639\u0642\u064a\u062f\u0629 \u062f\u064a\u0646\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Credo (religion)",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u4fe1\u6761",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0438\u043c\u0432\u043e\u043b \u0432\u0435\u0440\u044b",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Geloofsbelijdenis",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Credo (liturgia)",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u4fe1\u689d",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Chrze\u015bcija\u0144skie wyznania wiary",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Credo religioso",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Ein Glaubensbekenntnis ist in einer Religion ein \u00f6ffentlicher Ausdruck des pers\u00f6nlichen und kollektiven Glaubens, zu dem der oder die Sprecher sich bekennen. Ein Glaubensbekenntnis hat verschiedene Funktionen: Das Wort Glaubensbekenntnis ist eine \u00dcbersetzung von Philipp von Zesen aus dem Wort Konfession.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0639\u0642\u064a\u062f\u0629 \u0627\u0644\u062f\u064a\u0646\u064a\u0629 \u0647\u064a \u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0645\u0642\u0648\u0644\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0634\u0643\u0644 \u0623\u0633\u0627\u0633 \u0627\u0644\u0625\u064a\u0645\u0627\u0646 \u0623\u0648 \u0627\u0644\u062f\u064a\u0646\u060c \u0641\u0643\u0644 \u0645\u062a\u0628\u0639 \u0644\u0647\u0630\u0627 \u0627\u0644\u062f\u064a\u0646 \u064a\u062c\u0628 \u0623\u0646 \u064a\u0624\u0645\u0646 \u0628\u0647\u0630\u0647 \u0627\u0644\u0645\u0642\u0648\u0644\u0627\u062a \u062d\u062a\u0649 \u064a\u0635\u062f\u0642 \u062f\u062e\u0648\u0644\u0647 \u0641\u064a \u0647\u0630\u0627 \u0627\u0644\u062f\u064a\u0646\u060c \u0623\u0648 \u064a\u0639\u062a\u0628\u0631 \u062e\u0627\u0631\u062c \u0646\u0637\u0627\u0642 \u0627\u0644\u062c\u0645\u0627\u0639\u0629 \u0627\u0644\u062f\u064a\u0646\u064a\u0629. \u0641\u064a \u0627\u0644\u0625\u0633\u0644\u0627\u0645 \u062a\u0634\u0643\u0644 \u0645\u0642\u0648\u0644\u0629 \"\u0644\u0627 \u0625\u0644\u0647 \u0625\u0644\u0627 \u0627\u0644\u0644\u0647 \u0645\u062d\u0645\u062f \u0631\u0633\u0648\u0644 \u0627\u0644\u0644\u0647 \" \u0623\u0633\u0627\u0633 \u0627\u0644\u0639\u0642\u064a\u062f\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0627\u0644\u062a\u064a \u0644\u0627 \u064a\u0645\u0643\u0646 \u0644\u0623\u064a \u0645\u0633\u0644\u0645 \u0627\u0646 \u064a\u0635\u0641 \u0646\u0641\u0633\u0647 \u0623\u0646\u0647 \u0645\u0633\u0644\u0645 \u062f\u0648\u0646 \u0642\u0648\u0644\u0647\u0627 \u0648\u0627\u0644\u0644\u0625\u064a\u0645\u0627\u0646 \u0628\u0647.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0438\u0301\u043c\u0432\u043e\u043b \u0432\u0435\u0301\u0440\u044b (\u0433\u0440\u0435\u0447. \u03c3\u03cd\u03bc\u03b2\u03bf\u03bb\u03bf\u03bd) \u2014 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043e\u0441\u043d\u043e\u0432\u043e\u043f\u043e\u043b\u0430\u0433\u0430\u044e\u0449\u0438\u0445 \u0434\u043e\u0433\u043c\u0430\u0442\u043e\u0432 \u0432\u0435\u0440\u043e\u0443\u0447\u0435\u043d\u0438\u044f. \u0422\u0435\u0440\u043c\u0438\u043d \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u043e\u0442 \u0434\u0440\u0435\u0432\u043d\u0435\u0433\u0440\u0435\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u044f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0434\u0430\u043d\u043d\u043e\u0433\u043e \u0440\u043e\u0434\u0430.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u4fe1\u689d\uff08\u82f1\u8bed\uff1aCreed\uff0c\u6216confession\uff0csymbol\uff0cstatement of faith\uff09\uff0c\u5728\u5b97\u6559\u793e\u7fa4\u4e2d\uff0c\u662f\u4e00\u7a2e\u56fa\u5b9a\u800c\u5f62\u5f0f\u5316\u7684\u9673\u8ff0\uff0c\u5c07\u9019\u500b\u7fa4\u9ad4\u4e2d\u5171\u6709\u7684\u4fe1\u4ef0\uff0c\u6b78\u7d50\u70ba\u4e00\u7d44\u6838\u5fc3\u7684\u6e96\u5247\uff0c\u4f5c\u70ba\u5b97\u6559\u4fe1\u4ef0\u7684\u57fa\u790e\u3002 \u5728\u57fa\u7763\u6559\u4e2d\u7684\u4f8b\u5b50\u6709\u5c3c\u897f\u4e9e\u4fe1\u689d\uff0c\u78ba\u7acb\u4e86\u4e09\u4f4d\u4e00\u9ad4\u7b49\u57fa\u672c\u6559\u7fa9\u3002\u5929\u4e3b\u6559\u5c07\u9019\u4e9b\u4fe1\u689d\u6587\u5b57\u5316\u4e4b\u5f8c\uff0c\u6210\u70ba\u4fe1\u7d93\uff0c\u5982\u5c3c\u897f\u4e9e\u4fe1\u7d93\u3001\u4f7f\u5f92\u4fe1\u7d93\u3002 \u5728\u4f0a\u65af\u862d\u6559\u4e2d\uff0c\u5247\u6709\u6e05\u771f\u8a00\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "O Credo \u00e9 uma f\u00f3rmula doutrin\u00e1ria ou profiss\u00e3o de f\u00e9 crist\u00e3. Chama-se \u00e0s vezes um S\u00edmbolo",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "A creed (also confession, symbol, or statement of faith) is a statement of the shared beliefs of a religious community in the form of a fixed formula summarizing core tenets. One of the most widely used creeds in Christianity is the Nicene Creed, first formulated in AD 325 at the First Council of Nicaea. It was based on Christian understanding of the Canonical Gospels, the letters of the New Testament and to a lesser extent the Old Testament. Affirmation of this creed, which describes the Trinity, is generally taken as a fundamental test of orthodoxy for most Christian denominations. The Apostles' Creed is also broadly accepted. Some Christian denominations and other groups have rejected the .",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "El Credo es una profesi\u00f3n de fe que se recita en la liturgia cristiana desde el siglo V y a la cual muchos compositores han dado un arreglo musical.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Chrze\u015bcija\u0144skie wyznania wiary lub symbole wiary, to zazwyczaj kr\u00f3tkie i zwi\u0119z\u0142e, uk\u0142adane przez wsp\u00f3lnot\u0119 uczni\u00f3w Chrystusa zbiory podstawowych prawd wiary. Tradycja spisywania kr\u00f3tkich formu\u0142 wyznania wiary si\u0119ga czas\u00f3w apostolskich, szereg z nich mo\u017cna odnale\u017a\u0107 ju\u017c w pismach nowotestamentalnych.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Een geloofsbelijdenis is een geheel van artikelen waarin een geloof is samengevat, of een belangrijke formulering of spreuk die de kern van een religie uitdrukt.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u4fe1\u6761\u3068\u306f\u3001\u30ad\u30ea\u30b9\u30c8\u6559\u306e\u6559\u4f1a\u304c\u305d\u306e\u6559\u7406\u30fb\u6559\u7fa9\u3092\u795e\u3068\u4eba\u306b\u793a\u3059\u6210\u6587\u7b87\u6761\u3002\u4fe1\u7d4c\u3068\u3082\u8a33\u3055\u308c\u308b\u3002\u672c\u8a18\u4e8b\u3067\u306f\u3001\u4e3b\u306b\u30ad\u30ea\u30b9\u30c8\u6559\u4f1a\u306e\u4fe1\u6761\u306b\u3064\u3044\u3066\u8ff0\u3079\u308b\u3002 \u4fe1\u4ef0\u544a\u767d\u3068\u610f\u5473\u7684\u306b\u8fd1\u3044\u304c\u5206\u3051\u3066\u7528\u3044\u3089\u308c\u308b\u3053\u3068\u306e\u3042\u308b\u8a9e\u3067\u3042\u308b(\u8a73\u7d30\u306f\u4fe1\u4ef0\u544a\u767d\u306e\u9805\u76ee\u3092\u53c2\u7167)\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Un credo in senso religioso \u00e8 l'affermazione della propria credenza in una religione o una dottrina, con cui si esprime un simbolo di fede. Il termine deriva dal latino credo, e pu\u00f2 essere utilizzato come sinonimo di fede nel caso specifico per indicare la religione che si professa.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Le Credo (en latin : \u00ab Je crois \u00bb, 1re personne du singulier) est le terme d\u00e9signant la version latine du Symbole utilis\u00e9e aupr\u00e8s de l\u2019\u00c9glise catholique : Credo in unum Deum (Je crois en un seul Dieu). Il s'agit surtout d'un texte officiel dans l'ordinaire de la messe, Symbole de Nic\u00e9e-Constantinople.",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jewish_principles_of_faith"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Credo"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Geloofsbelijdenis"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Kredo"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Chrze\u015bcija\u0144skie_wyznania_wiary"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Kredo"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u4fe1\u6761"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Credo_(religion)"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Kr\u00e9do"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q183770"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Credo_religioso"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Credo_(liturgia)"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q183770"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Credo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Glaubensbekenntnis"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc2e0\uc870"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.048kp7h"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4021200-2"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Religious_terminology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Statements_of_faith"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicaea_icon.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Creed"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Creed?oldid=742223451"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.iclnet.org/pub/resources/christian-history.html#creeds"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.creeds.net/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.internationalcreedforpeace.co.uk/"
+            },
+            {
+                "type": "uri",
+                "value": "http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300093919"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Un credo in senso religioso \u00e8 l'affermazione della propria credenza in una religione o una dottrina, con cui si esprime un simbolo di fede. Il termine deriva dal latino credo, e pu\u00f2 essere utilizzato come sinonimo di fede nel caso specifico per indicare la religione che si professa.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Le Credo (en latin : \u00ab Je crois \u00bb, 1re personne du singulier) est le terme d\u00e9signant la version latine du Symbole utilis\u00e9e aupr\u00e8s de l\u2019\u00c9glise catholique : Credo in unum Deum (Je crois en un seul Dieu). Il s'agit surtout d'un texte officiel dans l'ordinaire de la messe, Symbole de Nic\u00e9e-Constantinople.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Glaubensbekenntnis ist in einer Religion ein \u00f6ffentlicher Ausdruck des pers\u00f6nlichen und kollektiven Glaubens, zu dem der oder die Sprecher sich bekennen. Ein Glaubensbekenntnis hat verschiedene Funktionen: \n*  Es ist Anerkennung und Ausdruck der Gemeinschaft, die durch diesen Glauben gegeben ist (z. B. beim gemeinsamen Rezitieren im Rahmen eines Gottesdienstes). \n*  Es fasst die wesentlichen Punkte ihrer Glaubenslehre zusammen. \n*  Es enth\u00e4lt eine Selbstverpflichtung, nach diesem Glauben zu leben (z. B. bei der Ordination eines kirchlichen Amtstr\u00e4gers). \n*  Es markiert die zentralen Glaubensinhalte, die eine Religion oder \u00dcberzeugung gegen andere Religionen oder Konfessionen abgrenzen. \n*  Es gibt die Richtung an, in der diese Glaubensinhalte, oft in Heiligen Schriften dargelegt, verstanden werden (sollen). \n*  Es kann in bestimmten Kampfsituationen zum Ausdruck der ultimativen Entscheidung f\u00fcr den eigenen, gegen den Glauben anderer werden. Das Wort Glaubensbekenntnis ist eine \u00dcbersetzung von Philipp von Zesen aus dem Wort Konfession.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "O Credo \u00e9 uma f\u00f3rmula doutrin\u00e1ria ou profiss\u00e3o de f\u00e9 crist\u00e3. Chama-se \u00e0s vezes um S\u00edmbolo",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Chrze\u015bcija\u0144skie wyznania wiary lub symbole wiary, to zazwyczaj kr\u00f3tkie i zwi\u0119z\u0142e, uk\u0142adane przez wsp\u00f3lnot\u0119 uczni\u00f3w Chrystusa zbiory podstawowych prawd wiary. Tradycja spisywania kr\u00f3tkich formu\u0142 wyznania wiary si\u0119ga czas\u00f3w apostolskich, szereg z nich mo\u017cna odnale\u017a\u0107 ju\u017c w pismach nowotestamentalnych.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Een geloofsbelijdenis is een geheel van artikelen waarin een geloof is samengevat, of een belangrijke formulering of spreuk die de kern van een religie uitdrukt.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0438\u0301\u043c\u0432\u043e\u043b \u0432\u0435\u0301\u0440\u044b (\u0433\u0440\u0435\u0447. \u03c3\u03cd\u03bc\u03b2\u03bf\u03bb\u03bf\u03bd) \u2014 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043e\u0441\u043d\u043e\u0432\u043e\u043f\u043e\u043b\u0430\u0433\u0430\u044e\u0449\u0438\u0445 \u0434\u043e\u0433\u043c\u0430\u0442\u043e\u0432 \u0432\u0435\u0440\u043e\u0443\u0447\u0435\u043d\u0438\u044f. \u0422\u0435\u0440\u043c\u0438\u043d \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u043e\u0442 \u0434\u0440\u0435\u0432\u043d\u0435\u0433\u0440\u0435\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u044f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0434\u0430\u043d\u043d\u043e\u0433\u043e \u0440\u043e\u0434\u0430.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u4fe1\u6761\u3068\u306f\u3001\u30ad\u30ea\u30b9\u30c8\u6559\u306e\u6559\u4f1a\u304c\u305d\u306e\u6559\u7406\u30fb\u6559\u7fa9\u3092\u795e\u3068\u4eba\u306b\u793a\u3059\u6210\u6587\u7b87\u6761\u3002\u4fe1\u7d4c\u3068\u3082\u8a33\u3055\u308c\u308b\u3002\u672c\u8a18\u4e8b\u3067\u306f\u3001\u4e3b\u306b\u30ad\u30ea\u30b9\u30c8\u6559\u4f1a\u306e\u4fe1\u6761\u306b\u3064\u3044\u3066\u8ff0\u3079\u308b\u3002 \u4fe1\u4ef0\u544a\u767d\u3068\u610f\u5473\u7684\u306b\u8fd1\u3044\u304c\u5206\u3051\u3066\u7528\u3044\u3089\u308c\u308b\u3053\u3068\u306e\u3042\u308b\u8a9e\u3067\u3042\u308b(\u8a73\u7d30\u306f\u4fe1\u4ef0\u544a\u767d\u306e\u9805\u76ee\u3092\u53c2\u7167)\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "El Credo es una profesi\u00f3n de fe que se recita en la liturgia cristiana desde el siglo V y a la cual muchos compositores han dado un arreglo musical.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0639\u0642\u064a\u062f\u0629 \u0627\u0644\u062f\u064a\u0646\u064a\u0629 \u0647\u064a \u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0645\u0642\u0648\u0644\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0634\u0643\u0644 \u0623\u0633\u0627\u0633 \u0627\u0644\u0625\u064a\u0645\u0627\u0646 \u0623\u0648 \u0627\u0644\u062f\u064a\u0646\u060c \u0641\u0643\u0644 \u0645\u062a\u0628\u0639 \u0644\u0647\u0630\u0627 \u0627\u0644\u062f\u064a\u0646 \u064a\u062c\u0628 \u0623\u0646 \u064a\u0624\u0645\u0646 \u0628\u0647\u0630\u0647 \u0627\u0644\u0645\u0642\u0648\u0644\u0627\u062a \u062d\u062a\u0649 \u064a\u0635\u062f\u0642 \u062f\u062e\u0648\u0644\u0647 \u0641\u064a \u0647\u0630\u0627 \u0627\u0644\u062f\u064a\u0646\u060c \u0623\u0648 \u064a\u0639\u062a\u0628\u0631 \u062e\u0627\u0631\u062c \u0646\u0637\u0627\u0642 \u0627\u0644\u062c\u0645\u0627\u0639\u0629 \u0627\u0644\u062f\u064a\u0646\u064a\u0629. \u0641\u064a \u0627\u0644\u0625\u0633\u0644\u0627\u0645 \u062a\u0634\u0643\u0644 \u0645\u0642\u0648\u0644\u0629 \"\u0644\u0627 \u0625\u0644\u0647 \u0625\u0644\u0627 \u0627\u0644\u0644\u0647 \u0645\u062d\u0645\u062f \u0631\u0633\u0648\u0644 \u0627\u0644\u0644\u0647 \" \u0623\u0633\u0627\u0633 \u0627\u0644\u0639\u0642\u064a\u062f\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0627\u0644\u062a\u064a \u0644\u0627 \u064a\u0645\u0643\u0646 \u0644\u0623\u064a \u0645\u0633\u0644\u0645 \u0627\u0646 \u064a\u0635\u0641 \u0646\u0641\u0633\u0647 \u0623\u0646\u0647 \u0645\u0633\u0644\u0645 \u062f\u0648\u0646 \u0642\u0648\u0644\u0647\u0627 \u0648\u0627\u0644\u0644\u0625\u064a\u0645\u0627\u0646 \u0628\u0647. \u0623\u0633\u0627\u0633 \u0627\u0644\u0627\u064a\u0645\u0627\u0646 \u0641\u064a \u0627\u0644\u0645\u0633\u064a\u062d\u064a\u0629 \u0647\u0648 \u0627\u0644\u0627\u064a\u0645\u0627\u0646 \u0628\u0627\u0644\u0644\u0647 \u0627\u0644\u0648\u0627\u062d\u062f \u0627\u0644\u0630\u064a \u0641\u064a \u0648\u0642\u062a \u0628\u0639\u064a\u0646\u0647 \u0627\u062e\u0630 \u0635\u0648\u0631\u0629 \u0627\u0644\u062c\u0633\u062f (\u062a\u062c\u0644\u0649 \u0641\u064a \u062c\u0633\u062f \u0625\u0646\u0633\u0627\u0646) \u0644\u0643\u0649 \u064a\u062e\u0644\u0635 \u0627\u0644\u0639\u0627\u0644\u0645 \u0645\u0646 \u0639\u0642\u0648\u0628\u0629 \u0627\u0644\u0645\u0648\u062a \u0627\u0644\u062a\u064a \u0627\u0633\u062a\u062d\u0642\u0647\u0627 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 \u0628\u0639\u062f \u062e\u0637\u064a\u0626\u0629 \u0627\u062f\u0645. \u0627\u0644\u0645\u0633\u064a\u062d\u064a\u0629 \u062a\u0637\u0644\u0642 \u0644\u0642\u0628 \u0627\u0644\u0627\u0628\u0646 \u0639\u0644\u0649 \u0627\u0644\u0644\u0647 \u0627\u0644\u0645\u062a\u062c\u0633\u062f (\u064a\u0633\u0648\u0639 \u0627\u0644\u0645\u0633\u064a\u062d\u060c \u0644\u0642\u0628 \u0627\u0644\u0627\u0628 \u0639\u0644\u0649 \u0627\u0644\u0644\u0647 \u0627\u0644\u0643\u0627\u0626\u0646 \u0645\u0646\u0630 \u0627\u0644\u0627\u0632\u0644 \u0648\u0627\u0644\u0649 \u0627\u0644\u0627\u0628\u062f\u060c \u0648\u0644\u0642\u0628 \u0627\u0644\u0631\u0648\u062d \u0627\u0644\u0642\u062f\u0633 \u0639\u0644\u0649 \u0631\u0648\u062d \u0627\u0644\u0644\u0647 \u0627\u0644\u062a\u064a \u064a\u062d\u0644 \u0628\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 \u0641\u064a \u0627\u0644\u0645\u0639\u0645\u0648\u062f\u064a\u0629. \u0627\u0644\u062b\u0644\u0627\u062b\u0629 \u0647\u0645 \u0627\u0644\u0642\u0627\u0628 \u0623\u0648 \u0635\u0641\u0627\u062a \u0644\u0644\u0647 \u0627\u0644\u0648\u0627\u062d\u062f. \u0627\u0644\u0644\u0647 \u0627\u0644\u0627\u0628\u0646 (\u0623\u064a \u0627\u0644\u0644\u0647 \u0627\u0644\u0645\u062a\u062c\u0633\u062f) \u0627\u0644\u0630\u064a \u0646\u0632\u0644 \u0644\u062e\u0644\u0627\u0635 \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0635\u0644\u0628 \u0648\u0645\u0627\u062a \u0648\u0642\u0627\u0645 \u0645\u0646 \u0627\u0644\u0623\u0645\u0648\u0627\u062a \u0648\u0635\u0639\u062f \u0628\u0627\u0644\u062c\u0633\u062f \u0627\u0644\u0630\u064a \u062a\u062c\u0644\u0649 \u0628\u0647 \u0625\u0644\u0649 \u0639\u0631\u0634\u0647 \u0645\u0631\u0629 \u0623\u062e\u0631\u0649.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "A creed (also confession, symbol, or statement of faith) is a statement of the shared beliefs of a religious community in the form of a fixed formula summarizing core tenets. One of the most widely used creeds in Christianity is the Nicene Creed, first formulated in AD 325 at the First Council of Nicaea. It was based on Christian understanding of the Canonical Gospels, the letters of the New Testament and to a lesser extent the Old Testament. Affirmation of this creed, which describes the Trinity, is generally taken as a fundamental test of orthodoxy for most Christian denominations. The Apostles' Creed is also broadly accepted. Some Christian denominations and other groups have rejected the . Muslims declare the shahada, or testimony: \"I bear witness that there is no god but (the One) God (Allah), and I bear witness that Muhammad is God's messenger.\" Whether Judaism is creedal has been a point of some controversy. Although some say Judaism is noncreedal in nature, others say it recognizes a single creed, the Shema Yisrael, which begins: \"Hear, O Israel: the LORD our God, the LORD is one.\"",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u4fe1\u689d\uff08\u82f1\u8bed\uff1aCreed\uff0c\u6216confession\uff0csymbol\uff0cstatement of faith\uff09\uff0c\u5728\u5b97\u6559\u793e\u7fa4\u4e2d\uff0c\u662f\u4e00\u7a2e\u56fa\u5b9a\u800c\u5f62\u5f0f\u5316\u7684\u9673\u8ff0\uff0c\u5c07\u9019\u500b\u7fa4\u9ad4\u4e2d\u5171\u6709\u7684\u4fe1\u4ef0\uff0c\u6b78\u7d50\u70ba\u4e00\u7d44\u6838\u5fc3\u7684\u6e96\u5247\uff0c\u4f5c\u70ba\u5b97\u6559\u4fe1\u4ef0\u7684\u57fa\u790e\u3002 \u5728\u57fa\u7763\u6559\u4e2d\u7684\u4f8b\u5b50\u6709\u5c3c\u897f\u4e9e\u4fe1\u689d\uff0c\u78ba\u7acb\u4e86\u4e09\u4f4d\u4e00\u9ad4\u7b49\u57fa\u672c\u6559\u7fa9\u3002\u5929\u4e3b\u6559\u5c07\u9019\u4e9b\u4fe1\u689d\u6587\u5b57\u5316\u4e4b\u5f8c\uff0c\u6210\u70ba\u4fe1\u7d93\uff0c\u5982\u5c3c\u897f\u4e9e\u4fe1\u7d93\u3001\u4f7f\u5f92\u4fe1\u7d93\u3002 \u5728\u4f0a\u65af\u862d\u6559\u4e2d\uff0c\u5247\u6709\u6e05\u771f\u8a00\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicaea_icon.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742223451,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 7212,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Statement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aventus": {
+        "http://dbpedia.org/property/endorsedBy": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Non-creedal": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Articles_of_belief": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Creedal": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Doctrinal_statement": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Symbolics": {
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Article_of_faith": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Non-credal": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Doctrinal_basis": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Creed_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Maasai_Creed": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shahada": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Guanabara_Confession_of_Faith": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/English_versions_of_the_Nicene_Creed": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Profession_of_faith": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Christian_creed": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Articles_of_Faith_(Latter_Day_Saints)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sailor's_Creed": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Creeds": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Non-creedalism": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Affirmation_of_faith": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Christian_Creed": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Articles_Of_Faith": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protestant_confessions_of_faith": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Confession_of_Faith": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/CREED": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Confessions_of_faith": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Statement_of_belief": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Creed"
+            }
+        ]
+    }
+}

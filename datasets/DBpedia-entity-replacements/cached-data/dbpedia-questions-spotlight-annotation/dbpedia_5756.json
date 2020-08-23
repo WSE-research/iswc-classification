@@ -1,0 +1,28 @@
+{
+    "@text": "What is the MoMA artwork id of the wine glass?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Museum_of_Modern_Art",
+            "@support": "8880",
+            "@types": "Wikidata:Q41176,Wikidata:Q33506,Schema:Place,DBpedia:Place,DBpedia:Museum,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "MoMA",
+            "@offset": "12",
+            "@similarityScore": "0.9999999839627379",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Wine_glass",
+            "@support": "70",
+            "@types": "",
+            "@surfaceForm": "wine glass",
+            "@offset": "35",
+            "@similarityScore": "0.9999999999460272",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,1326 @@
+{
+    "http://dbpedia.org/resource/Grose_Valley": {
+        "http://dbpedia.org/property/parent": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Great_North_Road_(New_South_Wales)": {
+        "http://dbpedia.org/property/status": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hadrian's_Wall_Path": {
+        "http://dbpedia.org/property/sights": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/University_of_Virginia": {
+        "http://dbpedia.org/ontology/campus": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ash-Shams": {
+        "http://dbpedia.org/property/criteria": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Diriyah": {
+        "http://dbpedia.org/property/criteria": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dujiangyan_irrigation_system": {
+        "http://dbpedia.org/ontology/region": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aapravasi_Ghat": {
+        "http://dbpedia.org/property/criteria": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_cultural_property_of_national_significance_in_Switzerland:_Bern_A-M": {
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/World_Heritage_Site": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Heritage": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_Site": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Memorial103743902"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoGeoEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Structure104341686"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Artifact100021939"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Site108651247"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Tract108673395"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatWorldHeritageSites"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/GeographicalArea108574314"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Location100027167"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Region108630985"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Settlement"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Area108497294"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatProtectedAreas"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatMonumentsAndMemorials"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "World Heritage Site",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Patrimonio de la Humanidad",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0648\u0642\u0639 \u062a\u0631\u0627\u062b \u0639\u0627\u0644\u0645\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Patrim\u00f3nio Mundial",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Werelderfgoed",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Lista \u015bwiatowego dziedzictwa UNESCO",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Patrimoine mondial",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0435 \u043d\u0430\u0441\u043b\u0435\u0434\u0438\u0435",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e16\u754c\u907a\u7523",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "UNESCO-Welterbe",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Patrimonio dell'umanit\u00e0",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e16\u754c\u9057\u4ea7",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Patrim\u00f3nio Mundial (portugu\u00eas europeu) ou Patrim\u00f4nio Mundial (portugu\u00eas brasileiro), ou ainda Patrim\u00f3nio da Humanidade \u00e9 uma regi\u00e3o ou \u00e1rea (denominadas \"s\u00edtios\") que pode estar localizado em um povoado, ou em vale, em rios, florestas, em uma vila, ou em montanhas, lagos, ilhas, desertos, em cidades, uma reserva natural marinha ou terrestre, resumindo, em qualquer local da Terra que vem a ser considerado pela comunidade cient\u00edfica de inigual\u00e1vel e fundamental import\u00e2ncia para a humanidade. Pode vir a ser um \u00fanico monumento ou constru\u00e7\u00e3o, ou o conjunto arquitet\u00f4nico delimitado em uma cidade, vila ou regi\u00e3o, ou toda a \u00e1rea, pode ser uma unica caverna, ou vale, ou toda a regi\u00e3o devido ao seu valor hist\u00f3rico, arqueol\u00f3gico, natural, ambiental, ou um conjunto desses fatores e vem a ser reconheci",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Werelderfgoed is cultureel en natuurlijk erfgoed dat wordt beschouwd als onvervangbaar, uniek en eigendom van de hele wereld, en waarvan het van groot belang wordt geacht om te behouden. Alleen erfgoed dat is ingeschreven op de Werelderfgoedlijst van UNESCO mag deze titel dragen. De lijst wordt jaarlijks samengesteld door de Commissie voor het Werelderfgoed, die bestaat uit vertegenwoordigers van 21 wisselende landen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0435 \u043d\u0430\u0441\u043b\u0435\u0434\u0438\u0435 \u042e\u041d\u0415\u0421\u041a\u041e (\u0430\u043d\u0433\u043b. World Heritage, \u0444\u0440. Patrimoine Mondial, \u0438\u0441\u043f. Patrimonio de la humanidad, \u043d\u0435\u043c. Weltkulturerbe) \u2014 \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u044b\u0435 \u0438\u043b\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0435 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c \u043e\u0431\u044a\u0435\u043a\u0442\u044b, \u043f\u0440\u0438\u043e\u0440\u0438\u0442\u0435\u0442\u043d\u044b\u043c\u0438 \u0437\u0430\u0434\u0430\u0447\u0430\u043c\u0438 \u043f\u043e \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044e \u043a \u043a\u043e\u0442\u043e\u0440\u044b\u043c, \u043f\u043e \u043c\u043d\u0435\u043d\u0438\u044e \u042e\u041d\u0415\u0421\u041a\u041e, \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0438\u0445 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0438 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u0438\u0437\u0430\u0446\u0438\u044f \u0432 \u0441\u0438\u043b\u0443 \u043e\u0441\u043e\u0431\u043e\u0439 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u043e\u0439, \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0438\u043b\u0438 \u044d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0437\u043d\u0430\u0447\u0438\u043c\u043e\u0441\u0442\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Lista \u015bwiatowego dziedzictwa (ang. World Heritage List; fr. Liste du patrimoine mondial) \u2013 lista obiekt\u00f3w dziedzictwa kulturalnego i dziedzictwa naturalnego o \u201ewyj\u0105tkowej powszechnej warto\u015bci\u201d dla ludzko\u015bci prowadzona przez organizacj\u0119 wyspecjalizowan\u0105 ONZ UNESCO. Lista zosta\u0142a ustanowiona na mocy Konwencji w sprawie ochrony \u015bwiatowego dziedzictwa kulturowego i naturalnego przyj\u0119tej przez UNESCO na 17. sesji w Pary\u017cu 16 listopada 1972 roku, kt\u00f3ra wesz\u0142a w \u017cycie z dniem 17 grudnia 1975 roku. Do sierpnia 2016 roku, Konwencj\u0119 przyj\u0119\u0142y lub ratyfikowa\u0142y 192 pa\u0144stwa.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e16\u754c\u907a\u7523\uff08\u305b\u304b\u3044\u3044\u3055\u3093\uff09\u306f\u30011972\u5e74\u306e\u30e6\u30cd\u30b9\u30b3\u7dcf\u4f1a\u3067\u63a1\u629e\u3055\u308c\u305f\u300c\u4e16\u754c\u306e\u6587\u5316\u907a\u7523\u53ca\u3073\u81ea\u7136\u907a\u7523\u306e\u4fdd\u8b77\u306b\u95a2\u3059\u308b\u6761\u7d04\u300d\uff08\u4e16\u754c\u907a\u7523\u6761\u7d04\uff09\u306b\u57fa\u3065\u3044\u3066\u4e16\u754c\u907a\u7523\u30ea\u30b9\u30c8\u306b\u767b\u9332\u3055\u308c\u305f\u3001\u907a\u8de1\u3001\u666f\u89b3\u3001\u81ea\u7136\u306a\u3069\u3001\u4eba\u985e\u304c\u5171\u6709\u3059\u3079\u304d\u300c\u9855\u8457\u306a\u666e\u904d\u7684\u4fa1\u5024\u300d\u3092\u6301\u3064\u7269\u4ef6\u306e\u3053\u3068\u3067\u3001\u79fb\u52d5\u304c\u4e0d\u53ef\u80fd\u306a\u4e0d\u52d5\u7523\u3084\u305d\u308c\u306b\u6e96\u305a\u308b\u3082\u306e\u304c\u5bfe\u8c61\u3068\u306a\u3063\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Patrimonio de la Humanidad o Patrimonio Mundial (v\u00e9ase patrimonio) es el t\u00edtulo conferido por la Unesco a sitios espec\u00edficos del planeta (sean bosque, monta\u00f1a, lago, cueva, desierto, edificaci\u00f3n, complejo arquitect\u00f3nico, ruta cultural, paisaje cultural o ciudad) que han sido propuestos y confirmados para su inclusi\u00f3n en la lista mantenida por el Programa Patrimonio de la Humanidad, administrado por el Comit\u00e9 del Patrimonio de la Humanidad, compuesto por 21 Estados miembros a los que elige la Asamblea General de Estados Miembros por un periodo determinado.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "A World Heritage Site is a landmark which has been officially recognized by the United Nations, specifically by UNESCO. Sites are selected on the basis of having cultural, historical, scientific or some other form of significance, and they are legally protected by international treaties. UNESCO regards these sites as being important to the collective interests of humanity. While each World Heritage Site remains part of the legal territory of the state wherein the site is located, UNESCO considers it in the interest of the international community to preserve each site.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Quella di sito patrimonio dell'umanit\u00e0 \u00e8 la denominazione ufficiale delle aree registrate nella lista del patrimonio dell'umanit\u00e0, o nella sua accezione inglese World Heritage List, della Convenzione sul patrimonio dell'umanit\u00e0. Secondo l'ultimo aggiornamento effettuato nella riunione del 40\u00b0 Comitato per il patrimonio dell'umanit\u00e0 a Istanbul tra il 10 e il 17 luglio 2016, la lista \u00e8 composta da un totale di 1052 siti (di cui 814 beni culturali, 203 naturali e 35 misti) presenti in 165 stati del mondo.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Le  patrimoine mondial, ou patrimoine de l'humanit\u00e9, d\u00e9signe un ensemble de biens qui pr\u00e9sentent une valeur universelle exceptionnelle justifiant leur inscription sur une liste \u00e9tablie par le comit\u00e9 du patrimoine mondial de l'organisation des Nations unies pour l'\u00e9ducation, la science et la culture (UNESCO). Fichier:Out of date clock icon.svg Cette section doit \u00eatre actualis\u00e9e. Des passages de cette section sont obsol\u00e8tes ou annoncent des \u00e9v\u00e9nements d\u00e9sormais pass\u00e9s. Am\u00e9liorez-le ou discutez des points \u00e0 v\u00e9rifier.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Die UNESCO verleiht den Titel Welterbe (Weltkulturerbe und Weltnaturerbe) an St\u00e4tten, die aufgrund ihrer Einzigartigkeit, Authentizit\u00e4t und Integrit\u00e4t weltbedeutend sind und von den Staaten, in denen sie liegen, f\u00fcr den Titel vorgeschlagen werden. Der Titel beruht auf der von 190 Staaten und Gebieten ratifizierten Welterbekonvention von 1972.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e16\u754c\u9057\u4ea7\uff08\u82f1\u8bed\uff1aWorld Heritage\uff1b\u6cd5\u8bed\uff1aPatrimoine mondial\uff09\uff0c\u662f\u4e00\u9879\u7531\u8054\u5408\u56fd\u652f\u6301\u3001\u8054\u5408\u56fd\u6559\u80b2\u79d1\u5b78\u6587\u5316\u7ec4\u7ec7\u8ca0\u8cac\u57f7\u884c\u7684\u570b\u969b\u516c\u7d04\u5efa\u5236\uff0c\u4ee5\u4fdd\u5b58\u5bf9\u5168\u4e16\u754c\u4eba\u985e\u90fd\u5177\u6709\u5091\u51fa\u666e\u904d\u6027\u50f9\u503c\u7684\u81ea\u7136\u6216\u6587\u5316\u8655\u6240\u4e3a\u76ee\u7684\u3002\u4e16\u754c\u9057\u4ea7\u5206\u4e3a\u81ea\u7136\u9057\u4ea7\u3001\u6587\u5316\u9057\u4ea7\u548c\u8907\u5408\u907a\u7522\u4e09\u5927\u985e\u3002\u56fd\u9645\u6587\u5316\u7eaa\u5ff5\u7269\u4e0e\u5386\u53f2\u573a\u6240\u59d4\u5458\u4f1a\u7b49\u975e\u653f\u5e9c\u7ec4\u7ec7\u4f5c\u4e3a\u8054\u5408\u56fd\u6559\u79d1\u6587\u7ec4\u7ec7\u7684\u5354\u529b\u7d44\u7e54\uff0c\u53c2\u4e0e\u4e16\u754c\u9057\u4ea7\u7684\u7504\u9009\u3001\u7ba1\u7406\u8207\u4fdd\u8b77\u5de5\u4f5c\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u062a\u0631\u0627\u062b \u0627\u0644\u0639\u0627\u0644\u0645\u064a \u0647\u064a \u0645\u0639\u0627\u0644\u0645 \u062a\u0642\u0648\u0645 \u0644\u062c\u0646\u0629 \u0627\u0644\u062a\u0631\u0627\u062b \u0627\u0644\u0639\u0627\u0644\u0645\u064a \u0641\u064a \u0627\u0644\u064a\u0648\u0646\u0633\u0643\u0648 \u0628\u062a\u0631\u0634\u064a\u062d\u0647\u0627 \u0644\u064a\u062a\u0645 \u0625\u062f\u0631\u0627\u062c\u0647\u0627 \u0636\u0645\u0646 \u0628\u0631\u0646\u0627\u0645\u062c \u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u062a\u0631\u0627\u062b \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u062f\u064a\u0631\u0647 \u0627\u0644\u064a\u0648\u0646\u0633\u0643\u0648. \u0647\u0630\u0647 \u0627\u0644\u0645\u0639\u0627\u0644\u0645 \u0642\u062f \u062a\u0643\u0648\u0646 \u0637\u0628\u064a\u0639\u064a\u0629\u060c \u0643\u0627\u0644\u063a\u0627\u0628\u0627\u062a \u0648\u0633\u0644\u0627\u0633\u0644 \u0627\u0644\u062c\u0628\u0627\u0644\u060c \u0648\u0642\u062f \u062a\u0643\u0648\u0646 \u0645\u0646 \u0635\u0646\u0639 \u0627\u0644\u0625\u0646\u0633\u0627\u0646\u060c \u0643\u0627\u0644\u0628\u0646\u0627\u064a\u0627\u062a \u0648\u0627\u0644\u0645\u062f\u0646\u060c \u0648\u0642\u062f \u062a\u0643\u0648\u0646 \u0645\u062e\u062a\u0644\u0637\u0629. \u064a\u0639\u062a\u0628\u0631 \u0643\u0644 \u0645\u0648\u0642\u0639 \u0645\u0646 \u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u062a\u0631\u0627\u062b \u0645\u0644\u0643\u0627\u064b \u0644\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u062a\u064a \u064a\u0642\u0639 \u0636\u0645\u0646 \u062d\u062f\u0648\u062f\u0647\u0627\u060c \u0648\u0644\u0643\u0646\u0647 \u064a\u062d\u0635\u0644 \u0639\u0644\u0649 \u0627\u0647\u062a\u0645\u0627\u0645 \u0645\u0646 \u0627\u0644\u0645\u062c\u062a\u0645\u0639 \u0627\u0644\u062f\u0648\u0644\u064a \u0644\u0644\u062a\u0623\u0643\u062f \u0645\u0646 \u0627\u0644\u062d\u0641\u0627\u0638 \u0639\u0644\u064a\u0647 \u0644\u0644\u0623\u062c\u064a\u0627\u0644 \u0627\u0644\u0642\u0627\u062f\u0645\u0629. \u0648\u062a\u0634\u062a\u0631\u0643 \u062c\u0645\u064a\u0639 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0623\u0639\u0636\u0627\u0621 \u0641\u064a \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629\u060c \u0648\u0627\u0644\u0628\u0627\u0644\u063a \u0639\u062f\u062f\u0647\u0627 189 \u062f\u0648\u0644\u0629\u060c \u0641\u064a \u062d\u0645\u0627\u064a\u0629 \u0648\u0627\u0644\u062d\u0641\u0627\u0638 \u0639\u0644\u0649 \u0647\u0630\u0647 \u0627\u0644\u0645\u0648\u0627\u0642\u0639.",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Table_of_World_Heritage_Sites_by_country"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Committee"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc138\uacc4\uc720\uc0b0"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4402276-1"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0c7g7"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Lista_\u015bwiatowego_dziedzictwa_UNESCO"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u4e16\u754c\u907a\u7523"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Patrimoine_mondial"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Gizateriaren_ondare"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Situs_Warisan_Dunia_UNESCO"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q9259"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/UNESCO-Welterbe"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Patrimonio_dell'umanit\u00e0"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Werelderfgoed"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039c\u03bd\u03b7\u03bc\u03b5\u03af\u03bf_\u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b1\u03c2_\u039a\u03bb\u03b7\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ac\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Patrim\u00f3nio_Mundial"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/World_Heritage_Site"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Sv\u011btov\u00e9_d\u011bdictv\u00ed"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q9259"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Patrimonio_de_la_Humanidad"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Protected_areas"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:World_Heritage_Sites"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:1972_in_the_environment"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:UNESCO"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:1972_introductions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Global_culture"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/homepage": [
+            {
+                "type": "uri",
+                "value": "http://whc.unesco.org"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/World_Heritage_Logo_global.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/World_Heritage_Site"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/World_Heritage_Site?oldid=744202695"
+            }
+        ],
+        "http://dbpedia.org/property/locationSigned": [
+            {
+                "type": "literal",
+                "value": "Paris, France",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/ratifiers": [
+            {
+                "type": "literal",
+                "value": 192,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.time.com/time/world/article/0,8599,1636166,00.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://whc.unesco.org/en/conventiontext"
+            },
+            {
+                "type": "uri",
+                "value": "http://whc.unesco.org/en/forests"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.unescochair.usi.ch/"
+            },
+            {
+                "type": "uri",
+                "value": "http://law-ref.org/HERITAGE/index.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://ocean.si.edu/blog/world-heritage-goes-marine"
+            },
+            {
+                "type": "uri",
+                "value": "http://whc.unesco.org/en/list/kml"
+            },
+            {
+                "type": "uri",
+                "value": "http://whc.unesco.org"
+            },
+            {
+                "type": "uri",
+                "value": "http://whc.unesco.org/en/list"
+            },
+            {
+                "type": "uri",
+                "value": "http://protectedplanet.net"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u4e16\u754c\u9057\u4ea7\uff08\u82f1\u8bed\uff1aWorld Heritage\uff1b\u6cd5\u8bed\uff1aPatrimoine mondial\uff09\uff0c\u662f\u4e00\u9879\u7531\u8054\u5408\u56fd\u652f\u6301\u3001\u8054\u5408\u56fd\u6559\u80b2\u79d1\u5b78\u6587\u5316\u7ec4\u7ec7\u8ca0\u8cac\u57f7\u884c\u7684\u570b\u969b\u516c\u7d04\u5efa\u5236\uff0c\u4ee5\u4fdd\u5b58\u5bf9\u5168\u4e16\u754c\u4eba\u985e\u90fd\u5177\u6709\u5091\u51fa\u666e\u904d\u6027\u50f9\u503c\u7684\u81ea\u7136\u6216\u6587\u5316\u8655\u6240\u4e3a\u76ee\u7684\u3002\u4e16\u754c\u9057\u4ea7\u5206\u4e3a\u81ea\u7136\u9057\u4ea7\u3001\u6587\u5316\u9057\u4ea7\u548c\u8907\u5408\u907a\u7522\u4e09\u5927\u985e\u3002\u56fd\u9645\u6587\u5316\u7eaa\u5ff5\u7269\u4e0e\u5386\u53f2\u573a\u6240\u59d4\u5458\u4f1a\u7b49\u975e\u653f\u5e9c\u7ec4\u7ec7\u4f5c\u4e3a\u8054\u5408\u56fd\u6559\u79d1\u6587\u7ec4\u7ec7\u7684\u5354\u529b\u7d44\u7e54\uff0c\u53c2\u4e0e\u4e16\u754c\u9057\u4ea7\u7684\u7504\u9009\u3001\u7ba1\u7406\u8207\u4fdd\u8b77\u5de5\u4f5c\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Werelderfgoed is cultureel en natuurlijk erfgoed dat wordt beschouwd als onvervangbaar, uniek en eigendom van de hele wereld, en waarvan het van groot belang wordt geacht om te behouden. Alleen erfgoed dat is ingeschreven op de Werelderfgoedlijst van UNESCO mag deze titel dragen. De lijst wordt jaarlijks samengesteld door de Commissie voor het Werelderfgoed, die bestaat uit vertegenwoordigers van 21 wisselende landen. Na de 39e sessie van de Commissie voor het Werelderfgoed in juli 2015 bevatte de Werelderfgoedlijst 1031 erfgoederen in 163 landen. Plaatsing van een monument op de Werelderfgoedlijst levert geen geld op. 191 landen hebben de Werelderfgoed Conventie geratificeerd. Ieder land is zelf verantwoordelijk voor bescherming en behoud van de eigen monumenten. Wel is er een speciaal fonds (het Werelderfgoedfonds) voor hulp bij urgente bedreigingen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u062a\u0631\u0627\u062b \u0627\u0644\u0639\u0627\u0644\u0645\u064a \u0647\u064a \u0645\u0639\u0627\u0644\u0645 \u062a\u0642\u0648\u0645 \u0644\u062c\u0646\u0629 \u0627\u0644\u062a\u0631\u0627\u062b \u0627\u0644\u0639\u0627\u0644\u0645\u064a \u0641\u064a \u0627\u0644\u064a\u0648\u0646\u0633\u0643\u0648 \u0628\u062a\u0631\u0634\u064a\u062d\u0647\u0627 \u0644\u064a\u062a\u0645 \u0625\u062f\u0631\u0627\u062c\u0647\u0627 \u0636\u0645\u0646 \u0628\u0631\u0646\u0627\u0645\u062c \u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u062a\u0631\u0627\u062b \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u062f\u064a\u0631\u0647 \u0627\u0644\u064a\u0648\u0646\u0633\u0643\u0648. \u0647\u0630\u0647 \u0627\u0644\u0645\u0639\u0627\u0644\u0645 \u0642\u062f \u062a\u0643\u0648\u0646 \u0637\u0628\u064a\u0639\u064a\u0629\u060c \u0643\u0627\u0644\u063a\u0627\u0628\u0627\u062a \u0648\u0633\u0644\u0627\u0633\u0644 \u0627\u0644\u062c\u0628\u0627\u0644\u060c \u0648\u0642\u062f \u062a\u0643\u0648\u0646 \u0645\u0646 \u0635\u0646\u0639 \u0627\u0644\u0625\u0646\u0633\u0627\u0646\u060c \u0643\u0627\u0644\u0628\u0646\u0627\u064a\u0627\u062a \u0648\u0627\u0644\u0645\u062f\u0646\u060c \u0648\u0642\u062f \u062a\u0643\u0648\u0646 \u0645\u062e\u062a\u0644\u0637\u0629. \u0627\u0646\u0637\u0644\u0642 \u0647\u0630\u0627 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0639\u0646 \u0637\u0631\u064a\u0642 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u062a\u0631\u0627\u062b \u0627\u0644\u0639\u0627\u0644\u0645\u064a \u0627\u0644\u062b\u0642\u0627\u0641\u064a \u0648\u0627\u0644\u0637\u0628\u064a\u0639\u064a \u0648\u0627\u0644\u0630\u064a \u062a\u064f\u0628\u0646\u064a \u062e\u0644\u0627\u0644 \u0627\u0644\u0645\u0624\u062a\u0645\u0631 \u0627\u0644\u0639\u0627\u0645 \u0644\u0644\u064a\u0648\u0646\u0633\u0643\u0648 \u0648\u0627\u0644\u0630\u064a \u0639\u0642\u062f \u0641\u064a 16 \u0646\u0648\u0641\u0645\u0628\u0631 1972 \u0645. \u0648\u0645\u0646\u0630 \u062a\u0648\u0642\u064a\u0639\u0647\u0627\u060c \u0641\u0642\u062f \u0635\u0627\u062f\u0642\u062a 189 \u062f\u0648\u0644\u0629 \u0639\u0644\u0649 \u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629. \u064a\u0647\u062f\u0641 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0625\u0644\u0649 \u062a\u0635\u0646\u064a\u0641 \u0648\u062a\u0633\u0645\u064a\u0629 \u0648\u0627\u0644\u062d\u0641\u0627\u0638 \u0639\u0644\u0649 \u0627\u0644\u0645\u0648\u0627\u0642\u0639 \u0630\u0627\u062a \u0627\u0644\u0623\u0647\u0645\u064a\u0629 \u0627\u0644\u062e\u0627\u0635\u0629 \u0644\u0644\u062c\u0646\u0633 \u0627\u0644\u0628\u0634\u0631\u064a\u060c \u0633\u0648\u0627\u0621 \u0643\u0627\u0646\u062a \u062b\u0642\u0627\u0641\u064a\u0629 \u0623\u0648 \u0637\u0628\u064a\u0639\u064a\u0629. \u0648\u0645\u0646 \u062e\u0644\u0627\u0644 \u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629\u060c \u062a\u062d\u0635\u0644 \u0627\u0644\u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u0645\u062f\u0631\u062c\u0629 \u0641\u064a \u0647\u0630\u0627 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0639\u0644\u0649 \u0645\u0633\u0627\u0639\u062f\u0627\u062a \u0645\u0627\u0644\u064a\u0629 \u062a\u062d\u062a \u0634\u0631\u0648\u0637 \u0645\u0639\u064a\u0646\u0629. \u0628\u0644\u063a \u0639\u062f\u062f \u0627\u0644\u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u0645\u062f\u0631\u062c\u0629 \u0641\u064a \u0647\u0630\u0647 \u0627\u0644\u0642\u0627\u0626\u0645\u0629 \u062d\u062a\u0649 \u0639\u0627\u0645 2011\u060c 936 \u0645\u0648\u0642\u0639\u0627\u064b\u060c \u0645\u0646\u0647\u0627 725 \u0645\u0648\u0642\u0639\u0627\u064b \u062b\u0642\u0627\u0641\u064a\u0627\u064b \u0648183 \u0645\u0648\u0642\u0639\u0627\u064b \u0637\u0628\u064a\u0639\u064a\u0627\u064b \u064828 \u0645\u0648\u0642\u0639\u0627\u064b \u064a\u062f\u062e\u0644 \u0636\u0645\u0646 \u0627\u0644\u0635\u0646\u0641\u064a\u0646\u060c \u0641\u064a 153 \u062f\u0648\u0644\u0629 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0623\u0639\u0636\u0627\u0621. \u0648\u062a\u0631\u0645\u0632 \u0627\u0644\u064a\u0648\u0646\u0633\u0643\u0648 \u0625\u0644\u0649 \u0643\u0644 \u0645\u0648\u0642\u0639 \u0645\u0646 \u0647\u0630\u0647 \u0627\u0644\u0645\u0648\u0627\u0642\u0639 \u0628\u0631\u0642\u0645 \u062e\u0627\u0635\u060c \u0648\u0644\u0643\u0646 \u0645\u0639 \u062a\u063a\u064a\u064a\u0631 \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0631\u0642\u064a\u064a\u0645 \u0641\u0642\u062f \u064a\u062a\u0645 \u0625\u0639\u0627\u062f\u0629 \u0625\u062f\u0631\u0627\u062c \u0628\u0639\u0636 \u0627\u0644\u0645\u0648\u0627\u0642\u0639 \u0636\u0645\u0646 \u062a\u0635\u0646\u064a\u0641 \u0623\u0643\u0628\u0631. \u0648\u0644\u0630\u0644\u0643\u060c \u0641\u0625\u0646 \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0631\u0642\u064a\u0645 \u0627\u0644\u062d\u0627\u0644\u064a \u0648\u0635\u0644 \u0625\u0644\u0649 1100 \u0628\u0627\u0644\u0631\u063a\u0645 \u0645\u0646 \u0623\u0646 \u0639\u062f\u062f \u0627\u0644\u0645\u0648\u0627\u0642\u0639 \u0623\u0642\u0644 \u0645\u0646 \u0630\u0644\u0643. \u062d\u0627\u0644\u064a\u0627\u064b\u060c \u062a\u062d\u0645\u0644 \u0625\u064a\u0637\u0627\u0644\u064a\u0627 \u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u0623\u0643\u0628\u0631 \u0641\u064a \u0639\u062f\u062f \u0627\u0644\u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u062a\u0631\u0627\u062b\u064a\u0629 \u0648\u0647\u0648 49 \u0645\u0648\u0642\u0639\u0627\u064b (\u062d\u0633\u0628 \u0627\u0644\u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u0645\u0633\u062c\u0644\u0629 \u062d\u062a\u0649 \u062d\u0632\u064a\u0631\u0627\u0646 2013). \u064a\u0639\u062a\u0628\u0631 \u0643\u0644 \u0645\u0648\u0642\u0639 \u0645\u0646 \u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u062a\u0631\u0627\u062b \u0645\u0644\u0643\u0627\u064b \u0644\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u062a\u064a \u064a\u0642\u0639 \u0636\u0645\u0646 \u062d\u062f\u0648\u062f\u0647\u0627\u060c \u0648\u0644\u0643\u0646\u0647 \u064a\u062d\u0635\u0644 \u0639\u0644\u0649 \u0627\u0647\u062a\u0645\u0627\u0645 \u0645\u0646 \u0627\u0644\u0645\u062c\u062a\u0645\u0639 \u0627\u0644\u062f\u0648\u0644\u064a \u0644\u0644\u062a\u0623\u0643\u062f \u0645\u0646 \u0627\u0644\u062d\u0641\u0627\u0638 \u0639\u0644\u064a\u0647 \u0644\u0644\u0623\u062c\u064a\u0627\u0644 \u0627\u0644\u0642\u0627\u062f\u0645\u0629. \u0648\u062a\u0634\u062a\u0631\u0643 \u062c\u0645\u064a\u0639 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0623\u0639\u0636\u0627\u0621 \u0641\u064a \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629\u060c \u0648\u0627\u0644\u0628\u0627\u0644\u063a \u0639\u062f\u062f\u0647\u0627 189 \u062f\u0648\u0644\u0629\u060c \u0641\u064a \u062d\u0645\u0627\u064a\u0629 \u0648\u0627\u0644\u062d\u0641\u0627\u0638 \u0639\u0644\u0649 \u0647\u0630\u0647 \u0627\u0644\u0645\u0648\u0627\u0642\u0639.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Patrimonio de la Humanidad o Patrimonio Mundial (v\u00e9ase patrimonio) es el t\u00edtulo conferido por la Unesco a sitios espec\u00edficos del planeta (sean bosque, monta\u00f1a, lago, cueva, desierto, edificaci\u00f3n, complejo arquitect\u00f3nico, ruta cultural, paisaje cultural o ciudad) que han sido propuestos y confirmados para su inclusi\u00f3n en la lista mantenida por el Programa Patrimonio de la Humanidad, administrado por el Comit\u00e9 del Patrimonio de la Humanidad, compuesto por 21 Estados miembros a los que elige la Asamblea General de Estados Miembros por un periodo determinado. El objetivo del programa es catalogar, preservar y dar a conocer sitios de importancia cultural o natural excepcional para la herencia com\u00fan de la humanidad. Bajo ciertas condiciones, los sitios mencionados pueden obtener financiaci\u00f3n para su conservaci\u00f3n del Fondo para la conservaci\u00f3n del Patrimonio de la Humanidad. Fue fundado por la Convenci\u00f3n para la cooperaci\u00f3n internacional en la protecci\u00f3n de la herencia cultural y natural de la humanidad, que posteriormente fue adoptada por la conferencia general de la Unesco el 16 de noviembre de 1972. Desde entonces, 190 pa\u00edses y los Territorios Palestinos han ratificado la convenci\u00f3n. Al a\u00f1o 2015, el cat\u00e1logo consta de un total de 1031 Patrimonios de la Humanidad, de los cuales 802 son culturales, 197 naturales y 32 mixtos, distribuidos en 163 pa\u00edses. Italia tiene la mayor cantidad de sitios, con 51, seguida de China, Espa\u00f1a, Francia, Alemania, M\u00e9xico e India. Adem\u00e1s, Castilla y Le\u00f3n es la regi\u00f3n del mundo con m\u00e1s bienes culturales Patrimonio de la Humanidad, con 8 bienes, por delante de las regiones italianas de la Toscana y de la Lombard\u00eda, ambas con 6 bienes. La Unesco se refiere a cada sitio Patrimonio de la Humanidad con un n\u00famero de identificaci\u00f3n \u00fanico, pero las nuevas inscripciones incluyen a menudo los sitios anteriores ahora enumerados como parte de descripciones m\u00e1s grandes. Consecuentemente, el sistema de numeraci\u00f3n termina actualmente sobre 1400, aunque realmente haya 1031 catalogados; con el a\u00f1adido de que muchos de los Patrimonios de la Humanidad se encuentran divididos en m\u00faltiples ubicaciones, a\u00fan siendo el mismo sitio, principalmente aquellos que son rutas o paisajes culturales. Cada sitio Patrimonio de la Humanidad pertenece al pa\u00eds en el que se localiza, pero se considera en el inter\u00e9s de la comunidad internacional y debe ser preservado para las futuras generaciones. La protecci\u00f3n y la conservaci\u00f3n de estos sitios son una preocupaci\u00f3n de los 193 Estados miembros de la Unesco.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Lista \u015bwiatowego dziedzictwa (ang. World Heritage List; fr. Liste du patrimoine mondial) \u2013 lista obiekt\u00f3w dziedzictwa kulturalnego i dziedzictwa naturalnego o \u201ewyj\u0105tkowej powszechnej warto\u015bci\u201d dla ludzko\u015bci prowadzona przez organizacj\u0119 wyspecjalizowan\u0105 ONZ UNESCO. Lista zosta\u0142a ustanowiona na mocy Konwencji w sprawie ochrony \u015bwiatowego dziedzictwa kulturowego i naturalnego przyj\u0119tej przez UNESCO na 17. sesji w Pary\u017cu 16 listopada 1972 roku, kt\u00f3ra wesz\u0142a w \u017cycie z dniem 17 grudnia 1975 roku. Do sierpnia 2016 roku, Konwencj\u0119 przyj\u0119\u0142y lub ratyfikowa\u0142y 192 pa\u0144stwa. Realizacj\u0105 postanowie\u0144 Konwencji, w tym prowadzeniem listy, zajmuje si\u0119 Komitet \u015awiatowego Dziedzictwa (ang. World Heritage Committee) z\u0142o\u017cony z 21 przedstawicieli Pa\u0144stw-Stron Konwencji, kt\u00f3ry w trakcie dorocznych sesji decyduje o wpisaniu obiektu na list\u0119, umieszczaniu obiekt\u00f3w na li\u015bcie \u015bwiatowego dziedzictwa w zagro\u017ceniu lub skre\u015bleniu z tych list. Nominacje, wy\u0142\u0105cznie spo\u015br\u00f3d obiekt\u00f3w umieszczonych uprzednio na narodowej Li\u015bcie Informacyjnej, zg\u0142aszane s\u0105 przez poszczeg\u00f3lne kraje. Je\u017celi wniosek o wpisanie danego obiektu na list\u0119 nie zostanie uwzgl\u0119dniony, mo\u017ce by\u0107 z\u0142o\u017cony ponownie jedynie wtedy, gdy zaistniej\u0105 wyj\u0105tkowe okoliczno\u015bci: nowe odkrycia, nowe naukowe informacje dotycz\u0105ce dobra lub inne kryteria ni\u017c prezentowane w pierwszym wniosku. Lista obejmuje (w lipcu 2016) 1052 obiekty w 165 Pa\u0144stwach-Stronach Konwencji, w tym 814 obiekt\u00f3w dziedzictwa kulturowego (K), 203 przyrodniczego (P) i 35 mieszanych (K, P).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Le  patrimoine mondial, ou patrimoine de l'humanit\u00e9, d\u00e9signe un ensemble de biens qui pr\u00e9sentent une valeur universelle exceptionnelle justifiant leur inscription sur une liste \u00e9tablie par le comit\u00e9 du patrimoine mondial de l'organisation des Nations unies pour l'\u00e9ducation, la science et la culture (UNESCO). Le but du programme est de cataloguer, nommer, et conserver les biens dits culturels ou naturels d\u2019importance pour l\u2019h\u00e9ritage commun de l\u2019humanit\u00e9. Sous certaines conditions, les biens r\u00e9pertori\u00e9s peuvent obtenir des fonds de l\u2019organisation World Heritage Fund. Le programme fut fond\u00e9 avec la Convention concernant la protection du patrimoine mondial, culturel et naturel, qui fut adopt\u00e9e \u00e0 la conf\u00e9rence g\u00e9n\u00e9rale de l\u2019UNESCO le 16 novembre 1972. Au 31 octobre 2011, l\u2019UNESCO compte 195 \u00c9tats membres, ainsi que huit membres associ\u00e9s. Fichier:Out of date clock icon.svg Cette section doit \u00eatre actualis\u00e9e. Des passages de cette section sont obsol\u00e8tes ou annoncent des \u00e9v\u00e9nements d\u00e9sormais pass\u00e9s. Am\u00e9liorez-le ou discutez des points \u00e0 v\u00e9rifier. \u00c0 l\u2019issue de la 38e session du Comit\u00e9 du patrimoine mondial, qui s\u2019est tenue \u00e0 Doha (Qatar) du 15 au 25 juin 2014, 1 007 biens y \u00e9taient inscrits r\u00e9partis dans 161 \u00c9tats. L'Italie est le pays qui en poss\u00e8de le plus grand nombre (51).",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Die UNESCO verleiht den Titel Welterbe (Weltkulturerbe und Weltnaturerbe) an St\u00e4tten, die aufgrund ihrer Einzigartigkeit, Authentizit\u00e4t und Integrit\u00e4t weltbedeutend sind und von den Staaten, in denen sie liegen, f\u00fcr den Titel vorgeschlagen werden. Der Titel beruht auf der von 190 Staaten und Gebieten ratifizierten Welterbekonvention von 1972. Im Jahr 1978 wurde mit folgenden Kultur- und Naturst\u00e4tten die Liste er\u00f6ffnet: Felsenkirchen von Lalibela (\u00c4thiopien), S\u00e4men-Nationalpark (\u00c4thiopien), Aachener Dom, Nationalpark und Meeresschutzgebiet Galapagosinseln (Ecuador), Altstadt von Quito, Historischer Nationalpark (Wikingersiedlung) L\u2019Anse aux Meadows (Kanada), Nahanni National Park Reserve (Kanada), Altstadt von Krakau (Polen), Salzbergwerke in Wieliczka und Bochnia (Polen), Insel Gor\u00e9e (Senegal), Mesa-Verde-Nationalpark (USA) und Yellowstone-Nationalpark (USA).",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e16\u754c\u907a\u7523\uff08\u305b\u304b\u3044\u3044\u3055\u3093\uff09\u306f\u30011972\u5e74\u306e\u30e6\u30cd\u30b9\u30b3\u7dcf\u4f1a\u3067\u63a1\u629e\u3055\u308c\u305f\u300c\u4e16\u754c\u306e\u6587\u5316\u907a\u7523\u53ca\u3073\u81ea\u7136\u907a\u7523\u306e\u4fdd\u8b77\u306b\u95a2\u3059\u308b\u6761\u7d04\u300d\uff08\u4e16\u754c\u907a\u7523\u6761\u7d04\uff09\u306b\u57fa\u3065\u3044\u3066\u4e16\u754c\u907a\u7523\u30ea\u30b9\u30c8\u306b\u767b\u9332\u3055\u308c\u305f\u3001\u907a\u8de1\u3001\u666f\u89b3\u3001\u81ea\u7136\u306a\u3069\u3001\u4eba\u985e\u304c\u5171\u6709\u3059\u3079\u304d\u300c\u9855\u8457\u306a\u666e\u904d\u7684\u4fa1\u5024\u300d\u3092\u6301\u3064\u7269\u4ef6\u306e\u3053\u3068\u3067\u3001\u79fb\u52d5\u304c\u4e0d\u53ef\u80fd\u306a\u4e0d\u52d5\u7523\u3084\u305d\u308c\u306b\u6e96\u305a\u308b\u3082\u306e\u304c\u5bfe\u8c61\u3068\u306a\u3063\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Patrim\u00f3nio Mundial (portugu\u00eas europeu) ou Patrim\u00f4nio Mundial (portugu\u00eas brasileiro), ou ainda Patrim\u00f3nio da Humanidade \u00e9 uma regi\u00e3o ou \u00e1rea (denominadas \"s\u00edtios\") que pode estar localizado em um povoado, ou em vale, em rios, florestas, em uma vila, ou em montanhas, lagos, ilhas, desertos, em cidades, uma reserva natural marinha ou terrestre, resumindo, em qualquer local da Terra que vem a ser considerado pela comunidade cient\u00edfica de inigual\u00e1vel e fundamental import\u00e2ncia para a humanidade. Pode vir a ser um \u00fanico monumento ou constru\u00e7\u00e3o, ou o conjunto arquitet\u00f4nico delimitado em uma cidade, vila ou regi\u00e3o, ou toda a \u00e1rea, pode ser uma unica caverna, ou vale, ou toda a regi\u00e3o devido ao seu valor hist\u00f3rico, arqueol\u00f3gico, natural, ambiental, ou um conjunto desses fatores e vem a ser reconhecida pela UNESCO fazer parte da Lista do Patrim\u00f4nio Mundial, tamb\u00e9m se inclui na lista, pela import\u00e2ncia e singularidade, manifesta\u00e7\u00f5es e rituais, como outros, reconhecendo sua dimens\u00e3o hist\u00f3rica, praticado por algumas comunidades ou povos. Esses locais ou manifesta\u00e7\u00f5es culturais s\u00e3o avaliados e definidos pela Organiza\u00e7\u00e3o das Na\u00e7\u00f5es Unidas para a Educa\u00e7\u00e3o, a Ci\u00eancia e a Cultura-UNESCO (acr\u00f4nimo de United Nations Educational, Scientific and Cultural Organization(\u00f3rg\u00e3o executivo da ONU), de fundamental import\u00e2ncia e relev\u00e2ncia, tanto, hist\u00f3rico, cultural e natural para humanidade, proporcionando, ao ser reconhecido e classificado como Patrim\u00f4nio Mundial, o status e reconhecimento oficial para lhe garantir maior conserva\u00e7\u00e3o, preserva\u00e7\u00e3o e seguran\u00e7a. V\u00e1rios s\u00edtios s\u00e3o classificados como mistos (re\u00fanem a classifica\u00e7\u00e3o de culturais e naturais) e alguns s\u00edtios s\u00e3o transfronteiri\u00e7os (sua \u00e1rea ou regi\u00e3o se distribui por dois ou mais pa\u00edses). A lista \u00e9 divulgada e atualizada ap\u00f3s as sess\u00f5es anuais da UNESCO, quando s\u00e3o expostos, debatidos, promulgados ou n\u00e3o, junto a todos os atuais pa\u00edses-membros, as solicita\u00e7\u00f5es de novas inclus\u00f5es \u00e0 Lista do Patrim\u00f4nio Mundial, que \u00e9 gerenciado pelo Comit\u00ea do Patrim\u00f4nio Mundial, composto por 21, dentre os atuais 191 pa\u00edses-membros que assinaram e ratificaram a Conven\u00e7\u00e3o para a Prote\u00e7\u00e3o do Patrim\u00f4nio Mundial, Cultural e Natural que s\u00e3o eleitos para compor o comit\u00ea por dois anos. O programa anualmente recebe novas inscri\u00e7\u00f5es de s\u00edtios, requeridas pelos pa\u00edses-membros, para integrarem a Lista do Patrim\u00f4nio Mundial. Esta nova propositura \u00e9 discriminada por extensos dossi\u00eas, com v\u00e1rios itens pr\u00e9-obrigat\u00f3rios no seu contexto, e s\u00e3o analisados, pesquisados e inspecionados (todo um processo que pode demorar anos) e sendo ele ao fim referendado e inclu\u00eddo na Lista do Patrim\u00f4nio Mundial, \u00e9 catalogado, nomeado, passando a UNESCO a salvaguardar internacionalmente a sua conserva\u00e7\u00e3o, por sua excepcional import\u00e2ncia cultural e/ou natural como patrim\u00f4nio comum da humanidade. Sob certas condi\u00e7\u00f5es, determinados s\u00edtios que integram a Lista do Patrim\u00f4nio Mundial, obt\u00eam recursos do Fundo do Patrim\u00f4nio Mundial. O programa foi criado pela Conven\u00e7\u00e3o para a Prote\u00e7\u00e3o do Patrim\u00f4nio Mundial, Cultural e Natural, homologada em 23 de Novembro de 1972 na Confer\u00eancia Geral da UNESCO realizada em Paris, Fran\u00e7a. Desde ent\u00e3o, 191 pa\u00edses ratificaram a Conven\u00e7\u00e3o, tornando-se um dos mais respeitados organismos internacionais. Atualmente s\u00f3 Liechtenstein, Nauru, Som\u00e1lia, Sud\u00e3o do Sul, Timor-Leste e Tuvalu n\u00e3o ratificaram a Conven\u00e7\u00e3o. Em 2015, 1 031 s\u00edtios, localizados em 163 pa\u00edses, integravam a Lista do Patrim\u00f4nio Mundial da UNESCO-WHC (World Heritage Convention) (Conven\u00e7\u00e3o do Patrim\u00f4nio Mundial), assim distribu\u00eddos, conforme foram reconhecidos, classificados e homologados: 802 culturais, 197 naturais e 32 mistos(*). Do total 31 s\u00edtios s\u00e3o transfronteiri\u00e7os(**) e 48 est\u00e3o seriamente amea\u00e7ados e foram inclu\u00eddos na Lista do Patrim\u00f4nio Mundial em Perigo conforme decis\u00e3o do Comit\u00ea do Patrim\u00f4nio Mundial.A It\u00e1lia \u00e9 o pa\u00eds com o maior n\u00famero de s\u00edtios que integram a Lista do Patrim\u00f4nio Mundial, com 51, seguida pela China com 48, Espanha com 44, Fran\u00e7a com 41 e Alemanha com 40. Cada s\u00edtio que integra a ista do Patrim\u00f4nio Mundial tem um n\u00famero pr\u00f3prio de identifica\u00e7\u00e3o, mas \u00e9 recorrente que algumas novas candidaturas de s\u00edtios pelos pa\u00edses membros, resultantes de pesquisas hist\u00f3ricas e arqueol\u00f3gicas, e ap\u00f3s avalia\u00e7\u00e3o pelo Comit\u00ea do Patrim\u00f4nio Mundial e homologa\u00e7\u00e3o e inclus\u00e3o na lista, englobam, ou s\u00e3o adjacentes, ou cont\u00ednuos \u00e0 s\u00edtios que j\u00e1 constavam de listas anteriores, sendo estes s\u00edtios, listados como integrantes de descri\u00e7\u00f5es maiores. Como resultado, os n\u00fameros de identifica\u00e7\u00e3o excedem 1 300, embora a listagem divulgue menos locais.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0435 \u043d\u0430\u0441\u043b\u0435\u0434\u0438\u0435 \u042e\u041d\u0415\u0421\u041a\u041e (\u0430\u043d\u0433\u043b. World Heritage, \u0444\u0440. Patrimoine Mondial, \u0438\u0441\u043f. Patrimonio de la humanidad, \u043d\u0435\u043c. Weltkulturerbe) \u2014 \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u044b\u0435 \u0438\u043b\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0435 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c \u043e\u0431\u044a\u0435\u043a\u0442\u044b, \u043f\u0440\u0438\u043e\u0440\u0438\u0442\u0435\u0442\u043d\u044b\u043c\u0438 \u0437\u0430\u0434\u0430\u0447\u0430\u043c\u0438 \u043f\u043e \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044e \u043a \u043a\u043e\u0442\u043e\u0440\u044b\u043c, \u043f\u043e \u043c\u043d\u0435\u043d\u0438\u044e \u042e\u041d\u0415\u0421\u041a\u041e, \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0438\u0445 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0438 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u0438\u0437\u0430\u0446\u0438\u044f \u0432 \u0441\u0438\u043b\u0443 \u043e\u0441\u043e\u0431\u043e\u0439 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u043e\u0439, \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0438\u043b\u0438 \u044d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0437\u043d\u0430\u0447\u0438\u043c\u043e\u0441\u0442\u0438. \u041f\u043e \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u044e \u043d\u0430 2016 \u0433\u043e\u0434 \u0432 \u0421\u043f\u0438\u0441\u043a\u0435 \u0432\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u043b\u0435\u0434\u0438\u044f \u2014 1052 \u043e\u0431\u044a\u0435\u043a\u0442\u0430, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 814 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u043c\u0438, 203 \u2014 \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u044b\u043c\u0438 \u0438 35 \u2014 \u0441\u043c\u0435\u0448\u0430\u043d\u043d\u044b\u043c\u0438 \u0432 165 \u0441\u0442\u0440\u0430\u043d\u0430\u0445-\u0447\u043b\u0435\u043d\u0430\u0445 \u041a\u043e\u043d\u0432\u0435\u043d\u0446\u0438\u0438 \u042e\u041d\u0415\u0421\u041a\u041e \u043e\u0431 \u043e\u0445\u0440\u0430\u043d\u0435 \u0432\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0433\u043e \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u043e\u0433\u043e \u0438 \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u043d\u0430\u0441\u043b\u0435\u0434\u0438\u044f. \u041a\u0430\u0436\u0434\u044b\u0439 \u043e\u0431\u044a\u0435\u043a\u0442 \u0438\u043c\u0435\u0435\u0442 \u0441\u0432\u043e\u0439 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Quella di sito patrimonio dell'umanit\u00e0 \u00e8 la denominazione ufficiale delle aree registrate nella lista del patrimonio dell'umanit\u00e0, o nella sua accezione inglese World Heritage List, della Convenzione sul patrimonio dell'umanit\u00e0. La Convenzione sul patrimonio dell'umanit\u00e0, adottata dalla Conferenza generale dell'UNESCO il 16 novembre 1972, ha lo scopo di identificare e mantenere la lista di quei siti che rappresentano delle particolarit\u00e0 di eccezionale importanza da un punto di vista culturale o naturale. Il Comitato della Convenzione, chiamato Comitato per il patrimonio dell'umanit\u00e0, ha sviluppato dei criteri precisi per l'inclusione dei siti nella lista. Secondo l'ultimo aggiornamento effettuato nella riunione del 40\u00b0 Comitato per il patrimonio dell'umanit\u00e0 a Istanbul tra il 10 e il 17 luglio 2016, la lista \u00e8 composta da un totale di 1052 siti (di cui 814 beni culturali, 203 naturali e 35 misti) presenti in 165 stati del mondo. L'Italia \u00e8 la nazione a detenere il maggior numero di siti inclusi nella lista dei patrimoni dell'umanit\u00e0 (51 siti), seguita dalla Cina (50 siti) e dalla Spagna (45 siti). Anche la Francia e la Germania hanno pi\u00f9 di 40 patrimoni, con rispettivamente 42 e 41 siti riconosciuti.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "A World Heritage Site is a landmark which has been officially recognized by the United Nations, specifically by UNESCO. Sites are selected on the basis of having cultural, historical, scientific or some other form of significance, and they are legally protected by international treaties. UNESCO regards these sites as being important to the collective interests of humanity. More specifically, a World Heritage Site is an already classified landmark on the earth, which by way of being unique in some respect as a geographically and historically identifiable piece is of special cultural or physical significance (such as either due to hosting an ancient ruins or some historical structure, building, city, complex, desert, forest, island, lake, monument, or mountain) and symbolizes a remarkable footprint of extreme human endeavour often coupled with some act of indisputable accomplishment of humanity which then serves as a surviving evidence of its intellectual existence on the planet. And with an ignoble intent of its practical conservation for posterity, but which otherwise could be subject to inherent risk of endangerment from human or animal trespassing, owing to unmonitored/uncontrolled/unrestricted nature of access or threat by natural or accelerated extinction owing to local administrative negligence, hence it would have been listed and demarcated by the United Nations Educational, Scientific and Cultural Organization (UNESCO) to have been identified or recognised and officially christened and internationally elevated through multilateral declaration by UNESCO as a universally protected zone.  The list is maintained by the international World Heritage Programme administered by the UNESCO World Heritage Committee, composed of 21 UNESCO member states which are elected by the General Assembly. The programme catalogues, names, and conserves sites of outstanding cultural or natural importance to the common culture and heritage of humanity. Under certain conditions, listed sites can obtain funds from the World Heritage Fund. The program was founded with the Convention Concerning the Protection of the World's Cultural and Natural Heritage, which was adopted by the General Conference of UNESCO on 16 November 1972. Since then, 192 states parties have ratified the convention, making it one of the most adhered to international instruments. Only Liechtenstein, Nauru, Somalia, Timor-Leste, and Tuvalu are not Parties to the Convention. As of July 2016, 1052 sites are listed: 814 cultural, 203 natural, and 35 mixed properties, in 165 states parties. According to the sites ranked by country, Italy is home to the greatest number of World Heritage Sites with 51 sites, followed by China (50), Spain (45), France (42), Germany (41), India (35) and Mexico (34). UNESCO references each World Heritage Site with an identification number; however, new inscriptions often include previous sites now listed as part of larger descriptions. Consequently, the identification numbers exceed 1,200, even though there are fewer on the list. While each World Heritage Site remains part of the legal territory of the state wherein the site is located, UNESCO considers it in the interest of the international community to preserve each site.",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/World_Heritage_Logo_global.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744202695,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 44940,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/languages": [
+            {
+                "type": "literal",
+                "value": "Arabic, English, French, Russian, and Spanish",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Convention concerning the Protection of the World's Cultural and Natural Heritage",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Place"
+            }
+        ],
+        "http://dbpedia.org/property/conditionEffective": [
+            {
+                "type": "literal",
+                "value": 20,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/dateEffective": [
+            {
+                "type": "literal",
+                "value": "1975-12-17",
+                "datatype": "http://www.w3.org/2001/XMLSchema#date"
+            }
+        ],
+        "http://dbpedia.org/property/dateSigned": [
+            {
+                "type": "literal",
+                "value": "1972-11-16",
+                "datatype": "http://www.w3.org/2001/XMLSchema#date"
+            }
+        ],
+        "http://dbpedia.org/property/depositor": [
+            {
+                "type": "literal",
+                "value": "Director-General of the United Nations Educational, Scientific and Cultural Organization",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Antigua_Guatemala_Cathedral": {
+        "http://dbpedia.org/property/functionalStatus": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Paoay_Church": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Convention_concerning_the_Protection_of_the_World_Cultural_and_Natural_Heritage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Protected_areas_of_South_Africa": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cascades_Female_Factory": {
+        "http://dbpedia.org/property/status": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ross_Female_Factory": {
+        "http://dbpedia.org/property/status": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Port_Davey_Track": {
+        "http://dbpedia.org/property/designation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/South_Coast_Track": {
+        "http://dbpedia.org/property/designation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Historic_Sites_of_South_Korea": {
+        "http://dbpedia.org/property/comments": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/San_Agustin_Church_(Manila)": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Santa_Maria_Church": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Central_University_of_Venezuela": {
+        "http://dbpedia.org/ontology/campus": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/WHS": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mont_Saint_Michel_Abbey": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mosque\u2013Cathedral_of_C\u00f3rdoba": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_Sites_in_Europe": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Miagao_Church": {
+        "http://dbpedia.org/property/heritageDesignation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ilulissat_Icefjord": {
+        "http://dbpedia.org/property/criteria": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wudang_Mountains": {
+        "http://dbpedia.org/ontology/region": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_cultural_property_of_national_significance_in_Switzerland:_Graub\u00fcnden": {
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/State_Kremlin_Palace": {
+        "http://dbpedia.org/property/designation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_World_Heritage_Centre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_Heritage_Sites_List": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_UNESCO_World_Heritage_Sites_in_Europe": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_World_Heritage_Fund": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_site": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unesco_World_Heritage_Site": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_Directory": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_List": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_world_heritage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_City": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_world_heritage_sites": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/United_Nations_World_Heritage_Site": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/United_Nations_World_Heritage_Sites": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_world_heritage_site": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_World_Heritage_Sites,_Europe": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_Heritage_Sites": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_Fund": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_properties": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_property": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Natural_Heritage_Site": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_World_Heritage_Sites_of_Europe": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_World_Heritage_Site": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_Sites": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_heritage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_heritage_sites": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_Heritage_Site": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_Convention": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_WH_Sites_in_Europe": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_the_World_Cultural_and_Natural_Heritage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_World_Heritage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_World_Heritage_Sites": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UN_World_Heritage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unesco_World_Heritage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Natural_World_Heritage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Cultural_Heritage_List": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_sites": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_heritage_site": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Cultural_Heritage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_Railway": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Convention_Concerning_the_Protection_of_the_World_Cultural_and_Natural_Heritage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_World_Heritage_site": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_World_Cultural_Heritage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_World_Heritage_Sites_in_Israel_and_Palestine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_World_Heritage_Sites_in_Korea": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_World_Heritage_List": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lists_of_World_Heritage_Sites_by_continent": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lists_of_World_Heritage_Sites_by_country": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_Sites_by_continent": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_Heritage_List": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_Heritage_site": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_Heritage_sites": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_Site_List": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_Heritage_Site.": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unesco_world_heritage_site": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_Area": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_World_Heritage_Monument": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nomination_of_UNESCO_World_Heritage_Site_Status": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_Heritage_list": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_Heritage_Programme": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patrimonito": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unesco_sites": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_World_Heritage_Tentative_List": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UNESCO_World_Heritage_status": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_cultural_property_of_national_significance_in_Switzerland:_Ticino": {
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Park_an_der_Ilm": {
+        "http://dbpedia.org/property/designation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Berges_du_Rh\u00f4ne": {
+        "http://dbpedia.org/property/status": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/World_Heritage_Site"
+            }
+        ]
+    }
+}

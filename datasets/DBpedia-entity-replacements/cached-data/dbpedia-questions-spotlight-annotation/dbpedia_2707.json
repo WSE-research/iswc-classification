@@ -1,0 +1,28 @@
+{
+    "@text": "When and where in Europe was the Super Mario Brothers introduced?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Europe",
+            "@support": "79651",
+            "@types": "Schema:Place,Schema:Continent,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Continent",
+            "@surfaceForm": "Europe",
+            "@offset": "18",
+            "@similarityScore": "0.9996548450993151",
+            "@percentageOfSecondRank": "2.1221259293137805E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Super_Mario_Bros.",
+            "@support": "1617",
+            "@types": "Wikidata:Q7889,Wikidata:Q7397,Wikidata:Q386724,Schema:CreativeWork,DBpedia:Work,DBpedia:VideoGame,DBpedia:Software",
+            "@surfaceForm": "Super Mario Brothers",
+            "@offset": "33",
+            "@similarityScore": "0.9999998197381095",
+            "@percentageOfSecondRank": "1.8026192573145538E-7"
+        }
+    ]
+}

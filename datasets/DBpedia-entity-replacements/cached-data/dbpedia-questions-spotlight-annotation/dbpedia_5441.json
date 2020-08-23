@@ -1,0 +1,28 @@
+{
+    "@text": "\"Which actor in The Godfather was educated at Hofstra University?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/The_Godfather",
+            "@support": "2040",
+            "@types": "Wikidata:Q386724,Schema:Movie,Schema:CreativeWork,DBpedia:Work,DBpedia:Wikidata:Q11424,DBpedia:Film",
+            "@surfaceForm": "The Godfather",
+            "@offset": "16",
+            "@similarityScore": "0.9999996646820073",
+            "@percentageOfSecondRank": "2.4670916498022734E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Hofstra_University",
+            "@support": "1267",
+            "@types": "Wikidata:Q43229,Wikidata:Q3918,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:EducationalOrganization,Schema:CollegeOrUniversity,DBpedia:University,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "Hofstra University",
+            "@offset": "46",
+            "@similarityScore": "0.9999242689579443",
+            "@percentageOfSecondRank": "3.2263207493212295E-5"
+        }
+    ]
+}

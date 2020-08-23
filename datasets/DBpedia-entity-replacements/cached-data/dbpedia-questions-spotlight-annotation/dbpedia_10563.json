@@ -1,0 +1,28 @@
+{
+    "@text": "What is the name of the composer of the music used in Blade Runner?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Composer",
+            "@support": "22915",
+            "@types": "",
+            "@surfaceForm": "composer",
+            "@offset": "24",
+            "@similarityScore": "0.9989593392508199",
+            "@percentageOfSecondRank": "5.600354594650616E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Blade_Runner",
+            "@support": "1642",
+            "@types": "Wikidata:Q386724,Schema:Movie,Schema:CreativeWork,DBpedia:Work,DBpedia:Wikidata:Q11424,DBpedia:Film",
+            "@surfaceForm": "Blade Runner",
+            "@offset": "54",
+            "@similarityScore": "0.999999986922589",
+            "@percentageOfSecondRank": "7.312881125769065E-9"
+        }
+    ]
+}

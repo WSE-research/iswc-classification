@@ -1,0 +1,46 @@
+{
+    "@text": "Tell me the space station with start point in Baikonur Cosmodrome Site 200 and that contains the word salyut in it's name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Start_Point_transmitting_station",
+            "@support": "4",
+            "@types": "",
+            "@surfaceForm": "start point",
+            "@offset": "31",
+            "@similarityScore": "0.9276670494387823",
+            "@percentageOfSecondRank": "0.05741905737222952"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Baikonur_Cosmodrome",
+            "@support": "1006",
+            "@types": "",
+            "@surfaceForm": "Baikonur",
+            "@offset": "46",
+            "@similarityScore": "0.9794785581401732",
+            "@percentageOfSecondRank": "0.020951394687791246"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Baikonur_Cosmodrome_Site_200",
+            "@support": "34",
+            "@types": "Wikidata:Q1353183,Schema:Place,DBpedia:Place,DBpedia:Location,DBpedia:LaunchPad,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Site 200",
+            "@offset": "66",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Salyut_programme",
+            "@support": "543",
+            "@types": "",
+            "@surfaceForm": "salyut",
+            "@offset": "102",
+            "@similarityScore": "0.999999999669285",
+            "@percentageOfSecondRank": "3.305366534357466E-10"
+        }
+    ]
+}

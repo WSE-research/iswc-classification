@@ -1,0 +1,37 @@
+{
+    "@text": "What city is the county seat of Norfolk?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "5",
+            "@similarityScore": "0.9242104335309862",
+            "@percentageOfSecondRank": "0.033263949831941114"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/County_seat",
+            "@support": "16036",
+            "@types": "",
+            "@surfaceForm": "county seat",
+            "@offset": "17",
+            "@similarityScore": "0.9999976037162247",
+            "@percentageOfSecondRank": "1.5159610438240413E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Norfolk",
+            "@support": "14523",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Norfolk",
+            "@offset": "32",
+            "@similarityScore": "0.9937187221927507",
+            "@percentageOfSecondRank": "0.005177074323322864"
+        }
+    ]
+}

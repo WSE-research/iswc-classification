@@ -1,0 +1,37 @@
+{
+    "@text": "Is the net tonnage of the MS Nordlys less than 3322.4?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Net_tonnage",
+            "@support": "78",
+            "@types": "",
+            "@surfaceForm": "net tonnage",
+            "@offset": "7",
+            "@similarityScore": "0.9999915689552382",
+            "@percentageOfSecondRank": "8.428720755032732E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Motor_ship",
+            "@support": "404",
+            "@types": "",
+            "@surfaceForm": "MS",
+            "@offset": "26",
+            "@similarityScore": "0.867374835457645",
+            "@percentageOfSecondRank": "0.10089549299198577"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Nordlys",
+            "@support": "59",
+            "@types": "Wikidata:Q386724,Wikidata:Q11032,Wikidata:Q1092563,Schema:CreativeWork,DBpedia:WrittenWork,DBpedia:Work,DBpedia:PeriodicalLiterature,DBpedia:Newspaper",
+            "@surfaceForm": "Nordlys",
+            "@offset": "29",
+            "@similarityScore": "0.9999999999776747",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

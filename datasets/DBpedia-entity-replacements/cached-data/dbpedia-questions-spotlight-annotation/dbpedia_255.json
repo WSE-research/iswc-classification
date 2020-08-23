@@ -1,0 +1,28 @@
+{
+    "@text": "\"Who is {nomination received} of {George Marshall}, which has {champion} is {Mikhail Gorbachev} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/George_Marshall",
+            "@support": "985",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "George Marshall",
+            "@offset": "34",
+            "@similarityScore": "0.9964383337934183",
+            "@percentageOfSecondRank": "0.0023065493897144887"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mikhail_Gorbachev",
+            "@support": "2637",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Mikhail Gorbachev",
+            "@offset": "77",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

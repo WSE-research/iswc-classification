@@ -1,0 +1,28 @@
+{
+    "@text": "Name a parent taxon of Spinacia oleracea",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "14",
+            "@similarityScore": "0.9996798107836454",
+            "@percentageOfSecondRank": "3.193626925438858E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Spinach",
+            "@support": "990",
+            "@types": "Wikidata:Q756,Wikidata:Q19088,DBpedia:Species,DBpedia:Plant,DBpedia:Eukaryote",
+            "@surfaceForm": "Spinacia oleracea",
+            "@offset": "23",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Is the stroke of the EMD 567 12?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Stroke",
+            "@support": "8382",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "stroke",
+            "@offset": "7",
+            "@similarityScore": "0.9996939159533534",
+            "@percentageOfSecondRank": "1.0500211661237713E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/EMD_567",
+            "@support": "111",
+            "@types": "DBpedia:Engine,DBpedia:Device,DBpedia:AutomobileEngine",
+            "@surfaceForm": "EMD 567",
+            "@offset": "21",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Give me Russia's lowest ranking at the 2018 FIFA World Cup.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Russia",
+            "@support": "124390",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Russia",
+            "@offset": "8",
+            "@similarityScore": "0.9329450379469781",
+            "@percentageOfSecondRank": "0.07013847669435762"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/FIFA",
+            "@support": "23745",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "FIFA",
+            "@offset": "44",
+            "@similarityScore": "0.9986729749149217",
+            "@percentageOfSecondRank": "0.0012066820680301186"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/FIFA_World_Cup",
+            "@support": "18251",
+            "@types": "",
+            "@surfaceForm": "World Cup",
+            "@offset": "49",
+            "@similarityScore": "0.9814688345989098",
+            "@percentageOfSecondRank": "0.009760476803119342"
+        }
+    ]
+}

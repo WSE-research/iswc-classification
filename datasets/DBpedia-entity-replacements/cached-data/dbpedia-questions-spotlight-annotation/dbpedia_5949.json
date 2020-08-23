@@ -1,0 +1,28 @@
+{
+    "@text": "Name an alcohol that contains the word \"ether\" in its name",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Alcohol",
+            "@support": "8020",
+            "@types": "",
+            "@surfaceForm": "alcohol",
+            "@offset": "8",
+            "@similarityScore": "0.858735646107081",
+            "@percentageOfSecondRank": "0.1518112880957088"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ether",
+            "@support": "1423",
+            "@types": "",
+            "@surfaceForm": "ether",
+            "@offset": "40",
+            "@similarityScore": "0.8747320683077245",
+            "@percentageOfSecondRank": "0.14216764499923806"
+        }
+    ]
+}

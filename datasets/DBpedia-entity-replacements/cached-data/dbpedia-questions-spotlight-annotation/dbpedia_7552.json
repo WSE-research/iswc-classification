@@ -1,0 +1,28 @@
+{
+    "@text": "What is the name of the cat owned by Jacinda Ardern?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Cat",
+            "@support": "7471",
+            "@types": "",
+            "@surfaceForm": "cat",
+            "@offset": "24",
+            "@similarityScore": "0.991054507479972",
+            "@percentageOfSecondRank": "0.00880126145602983"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Jacinda_Ardern",
+            "@support": "182",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Jacinda Ardern",
+            "@offset": "37",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

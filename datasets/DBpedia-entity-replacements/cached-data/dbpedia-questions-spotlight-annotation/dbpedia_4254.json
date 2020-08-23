@@ -1,0 +1,37 @@
+{
+    "@text": "Was John Williams a student at both University of California, Los Angeles and Fiorello H. LaGuardia High School?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/California",
+            "@support": "185510",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "California",
+            "@offset": "50",
+            "@similarityScore": "0.999952927780438",
+            "@percentageOfSecondRank": "3.550278239313825E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Los_Angeles",
+            "@support": "110438",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Los Angeles",
+            "@offset": "62",
+            "@similarityScore": "0.9998317339796593",
+            "@percentageOfSecondRank": "1.4715384331704157E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/LaGuardia_Airport",
+            "@support": "954",
+            "@types": "Wikidata:Q1248784,Schema:Place,Schema:Airport,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure,DBpedia:Airport",
+            "@surfaceForm": "LaGuardia",
+            "@offset": "90",
+            "@similarityScore": "0.7726710993252912",
+            "@percentageOfSecondRank": "0.2756349799470514"
+        }
+    ]
+}

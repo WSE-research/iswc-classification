@@ -1,0 +1,37 @@
+{
+    "@text": "Tell me the tungsten alloy that has an effect on tungsten carbide exposure and contains the word carbide in it's name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Tungsten",
+            "@support": "2401",
+            "@types": "",
+            "@surfaceForm": "tungsten",
+            "@offset": "12",
+            "@similarityScore": "0.9999999999605791",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Alloy",
+            "@support": "3360",
+            "@types": "",
+            "@surfaceForm": "alloy",
+            "@offset": "21",
+            "@similarityScore": "0.9999865578602476",
+            "@percentageOfSecondRank": "1.2153271246206762E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tungsten_carbide",
+            "@support": "296",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "tungsten carbide",
+            "@offset": "49",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Is the luminosity of Betelgeuse equal to 48000.0?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Luminosity",
+            "@support": "1541",
+            "@types": "",
+            "@surfaceForm": "luminosity",
+            "@offset": "7",
+            "@similarityScore": "0.8419492968332467",
+            "@percentageOfSecondRank": "0.1309199684137826"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Betelgeuse",
+            "@support": "422",
+            "@types": "Schema:Place,DBpedia:Star,DBpedia:Place,DBpedia:Location,DBpedia:CelestialBody",
+            "@surfaceForm": "Betelgeuse",
+            "@offset": "21",
+            "@similarityScore": "0.8679615418240019",
+            "@percentageOfSecondRank": "0.1521247795127061"
+        }
+    ]
+}

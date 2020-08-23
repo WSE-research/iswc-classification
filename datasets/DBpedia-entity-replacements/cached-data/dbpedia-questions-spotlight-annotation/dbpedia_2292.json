@@ -1,0 +1,37 @@
+{
+    "@text": "What fictional dog is said to be the same dog as Goofy?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Dog",
+            "@support": "12528",
+            "@types": "",
+            "@surfaceForm": "dog",
+            "@offset": "15",
+            "@similarityScore": "0.9999451571435042",
+            "@percentageOfSecondRank": "3.686746310574205E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Dog",
+            "@support": "12528",
+            "@types": "",
+            "@surfaceForm": "dog",
+            "@offset": "42",
+            "@similarityScore": "0.9999451571435042",
+            "@percentageOfSecondRank": "3.686746310574205E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Goofy",
+            "@support": "1461",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q95074,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:FictionalCharacter,DBpedia:ComicsCharacter,DBpedia:Agent",
+            "@surfaceForm": "Goofy",
+            "@offset": "49",
+            "@similarityScore": "0.999721100017402",
+            "@percentageOfSecondRank": "2.2403386035651693E-4"
+        }
+    ]
+}

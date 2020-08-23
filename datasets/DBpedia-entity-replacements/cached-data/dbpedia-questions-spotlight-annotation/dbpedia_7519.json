@@ -1,0 +1,37 @@
+{
+    "@text": "When did Augusto Pinochet become President of Chile?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Augusto_Pinochet",
+            "@support": "1559",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Augusto Pinochet",
+            "@offset": "9",
+            "@similarityScore": "0.9999584832180088",
+            "@percentageOfSecondRank": "4.1518504903285635E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+            "@support": "51563",
+            "@types": "",
+            "@surfaceForm": "President",
+            "@offset": "33",
+            "@similarityScore": "0.7399571470890475",
+            "@percentageOfSecondRank": "0.2131453297242063"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chile",
+            "@support": "46901",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Chile",
+            "@offset": "46",
+            "@similarityScore": "0.9999095348151101",
+            "@percentageOfSecondRank": "8.664226533257063E-5"
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "http://dbpedia.org/resource/Specific": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Specific_gravity"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Specific_gravity": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Specific_gravity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Specific_Gravity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Specific_gravity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Apparent_specific_gravity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Specific_gravity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SG": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Specific_gravity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Specific_gravity": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Relatieve dichtheid",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u6bd4\u91cd",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Gravit\u00e0 specifica",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Specific gravity",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u6bd4\u91cd",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Specific gravity is the ratio of the density of a substance to the density of a reference substance; equivalently, it is the ratio of the mass of a substance to the mass of a reference substance for the same given volume. Apparent specific gravity is the ratio of the weight of a volume of the substance to the weight of an equal volume of the reference substance. The reference substance is nearly always water at its densest (4\u00b0C) for liquids; for gases it is air at room temperature (21\u00b0C). Nonetheless, the temperature and pressure must be specified for both the sample and the reference. Pressure is nearly always 1 atm (101.325 kPa). Temperatures for both sample and reference vary from industry to industry. In British beer brewing, the practice for specific gravity as specified above is to m",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u6bd4\u91cd\uff08Specific gravity\uff09\u662f\u4e00\u7269\u9ad4\u6216\u8005\u6c14\u4f53\u5bc6\u5ea6\u8207\u6c34\u6216\u8005\u5e72\u7a7a\u6c14\u7684\u5bc6\u5ea6\u4e4b\u9593\u7684\u6bd4\u503c\uff0c\u70ba\u4e00\u500b\u65e0\u91cf\u7eb2\u91cf\u3002\u6bd4\u91cd\u82e5\u5927\u65bc1\uff0c\u5728\u6c34\u4e2d\u6703\u6c89\u4e0b\uff0c\u53cd\u4e4b\u82e5\u5c0f\u65bc1\uff0c\u5247\u53ef\u4ee5\u6d6e\u5728\u6c34\u4e0a\u3002\u4ee5\u6c34\u4ee5\u5916\u7684\u7269\u8cea\u7576\u4f5c\u53c3\u8003\u7269\uff0c\u901a\u5e38\u7a31\u70ba\u76f8\u5c0d\u6bd4\u91cd\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u6bd4\u91cd\uff08\u3072\u3058\u3085\u3046\uff09\u3068\u306f\u3001\u3042\u308b\u7269\u8cea\u306e\u5bc6\u5ea6\uff08\u5358\u4f4d\u4f53\u7a4d\u3042\u305f\u308a\u8cea\u91cf\uff09\u3068\u3001\u57fa\u6e96\u3068\u306a\u308b\u6a19\u6e96\u7269\u8cea\u306e\u5bc6\u5ea6\u3068\u306e\u6bd4\u3067\u3042\u308b\u3002\u901a\u5e38\u3001\u56fa\u4f53\u53ca\u3073\u6db2\u4f53\u306b\u3064\u3044\u3066\u306f\u6c34\uff08\u6e29\u5ea6\u3092\u6307\u5b9a\u3057\u306a\u3044\u5834\u5408\u306f 4 \u2103\uff09\u3001\u6c17\u4f53\u306b\u3064\u3044\u3066\u306f\u3001\u540c\u6e29\u5ea6\u3001\u540c\u5727\u529b\u3067\u306e\u7a7a\u6c17\u3092\u57fa\u6e96\u3068\u3059\u308b\u3002 \u8cea\u91cf\u540c\u58eb\u3092\u6bd4\u8f03\u3059\u308b\u884c\u70ba\u3067\u3042\u308b\u305f\u3081\u7121\u6b21\u5143\u91cf\u3068\u306a\u308b\u3002\u901a\u5e38\u306e\u6c34\uff08\u5185\u9678\u90e8\uff09\u306e\u7d044 \u2103 \u3067\u306e\u5927\u6c17\u5727\u4e0b\u306e\u7a7a\u6c17\u7b49\u304c\u6eb6\u3051\u3066\u3044\u306a\u3044\u3068\u304d\u306e\u5bc6\u5ea6\u306f 0.999972 g/cm3 \u3067\u3001\u307b\u3068\u3093\u3069 1.0 g/cm3 \u3067\u3042\u308b\u304b\u3089\u3001CGS\u5358\u4f4d\u7cfb\u3067\u8868\u3057\u305f\u6bd4\u91cd\u3068\u5bc6\u5ea6\u306e\u5024\u306f\u3001\u307b\u307c\u540c\u3058\u5024\u3068\u306a\u308b\u3002 \u6bd4\u91cd\u304c1\u3088\u308a\u3082\u5927\u304d\u3044\u7269\u8cea\u306f\u6c34\u306b\u6c88\u307f\u30011\u3088\u308a\u3082\u5c0f\u3055\u3044\u7269\u8cea\u306f\u6c34\u306b\u6d6e\u304f\u3002 \u5bc6\u5ea6\u3068\u6bd4\u91cd\u306f\u6df7\u540c\u3055\u308c\u3084\u3059\u3044\u304c\u3001\u5bc6\u5ea6\u306f\u8cea\u91cf\u3092\u4f53\u7a4d\u3067\u5272\u3063\u305f\u91cf\u3067\u3042\u308a\u3001\u6bd4\u91cd\u306f\u57fa\u6e96\u7269\u8cea\u3068\u6bd4\u3079\u305f\u5bc6\u5ea6\u6bd4\u3067\u3042\u308b\u3068\u3044\u3046\u70b9\u3067\u7570\u306a\u3063\u305f\u6982\u5ff5\u3067\u3042\u308b\u3002\u3088\u3063\u3066\u3001\u7269\u8cea\u304c\u6c34\u306b\u6d6e\u304f\u3042\u308b\u3044\u306f\u6c88\u3080\u3068\u3044\u3046\u73fe\u8c61\u306f\u3001\u5bc6\u5ea6\u3088\u308a\u3082\u6bd4\u91cd\u306b\u3088\u3063\u3066\u306e\u65b9\u304c\u5224\u65ad\u3057\u3084\u3059\u3044\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "De relatieve dichtheid van een stof is gedefinieerd als de verhouding tussen de dichtheid van die stof en die van water bij een temperatuur van 4 \u00b0C en een druk van 1 atmosfeer. Water heeft onder deze omstandigheden een dichtheid van 1000 kg/m\u00b3. De formule voor specifieke zwaartekracht is Relatieve dichtheid is dimensieloos. Stoffen met een relatieve dichtheid kleiner dan 1 hebben een lagere dichtheid dan water en blijven in water drijven. Stoffen met een relatieve dichtheid groter dan 1 hebben een hogere dichtheid dan water en zinken in water.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "La gravit\u00e0 specifica (o densit\u00e0 relativa) \u00e8 una grandezza adimensionale, definita come il rapporto tra la densit\u00e0 di un materiale e quella di un materiale di riferimento (in genere acqua per i liquidi e aria per gli aeriformi). La scelta del riferimento \u00e8 arbitraria: \u00e8 anche possibile definire la gravit\u00e0 specifica in riferimento ad altre sostanze, specificando per\u00f2 il riferimento e le condizioni di temperatura e pressione, in quanto la densit\u00e0 del materiale varia al variare della temperatura e della pressione. dove \u00e8 la densit\u00e0.",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Specific_weight"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Berat_jenis"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q10972285"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Specific_gravity"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u6bd4\u91cd"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Relatieve_dichtheid"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ube44\uc911"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q10972285"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Gravit\u00e0_specifica"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03bw_hf"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Physical_quantities"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Concepts_in_physics"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/US_Navy_111005-N-ZN781-031_Aviation_Boatswain's_Mate_(Fuel)_3rd_Class_Rolando_Calilung_tests_for_a_specific_gravity_test_on_JP-5_fuel.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Specific_gravity"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Specific_gravity?oldid=742975162"
+            }
+        ],
+        "http://dbpedia.org/property/symbols": [
+            {
+                "type": "literal",
+                "value": "SG",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "De relatieve dichtheid van een stof is gedefinieerd als de verhouding tussen de dichtheid van die stof en die van water bij een temperatuur van 4 \u00b0C en een druk van 1 atmosfeer. Water heeft onder deze omstandigheden een dichtheid van 1000 kg/m\u00b3. De formule voor specifieke zwaartekracht is Relatieve dichtheid is dimensieloos. Stoffen met een relatieve dichtheid kleiner dan 1 hebben een lagere dichtheid dan water en blijven in water drijven. Stoffen met een relatieve dichtheid groter dan 1 hebben een hogere dichtheid dan water en zinken in water.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u6bd4\u91cd\uff08Specific gravity\uff09\u662f\u4e00\u7269\u9ad4\u6216\u8005\u6c14\u4f53\u5bc6\u5ea6\u8207\u6c34\u6216\u8005\u5e72\u7a7a\u6c14\u7684\u5bc6\u5ea6\u4e4b\u9593\u7684\u6bd4\u503c\uff0c\u70ba\u4e00\u500b\u65e0\u91cf\u7eb2\u91cf\u3002\u6bd4\u91cd\u82e5\u5927\u65bc1\uff0c\u5728\u6c34\u4e2d\u6703\u6c89\u4e0b\uff0c\u53cd\u4e4b\u82e5\u5c0f\u65bc1\uff0c\u5247\u53ef\u4ee5\u6d6e\u5728\u6c34\u4e0a\u3002\u4ee5\u6c34\u4ee5\u5916\u7684\u7269\u8cea\u7576\u4f5c\u53c3\u8003\u7269\uff0c\u901a\u5e38\u7a31\u70ba\u76f8\u5c0d\u6bd4\u91cd\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Specific gravity is the ratio of the density of a substance to the density of a reference substance; equivalently, it is the ratio of the mass of a substance to the mass of a reference substance for the same given volume. Apparent specific gravity is the ratio of the weight of a volume of the substance to the weight of an equal volume of the reference substance. The reference substance is nearly always water at its densest (4\u00b0C) for liquids; for gases it is air at room temperature (21\u00b0C). Nonetheless, the temperature and pressure must be specified for both the sample and the reference. Pressure is nearly always 1 atm (101.325 kPa). Temperatures for both sample and reference vary from industry to industry. In British beer brewing, the practice for specific gravity as specified above is to multiply it by 1000. Specific gravity is commonly used in industry as a simple means of obtaining information about the concentration of solutions of various materials such as brines, hydrocarbons, sugar solutions (syrups, juices, honeys, brewers wort, must etc.) and acids.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u6bd4\u91cd\uff08\u3072\u3058\u3085\u3046\uff09\u3068\u306f\u3001\u3042\u308b\u7269\u8cea\u306e\u5bc6\u5ea6\uff08\u5358\u4f4d\u4f53\u7a4d\u3042\u305f\u308a\u8cea\u91cf\uff09\u3068\u3001\u57fa\u6e96\u3068\u306a\u308b\u6a19\u6e96\u7269\u8cea\u306e\u5bc6\u5ea6\u3068\u306e\u6bd4\u3067\u3042\u308b\u3002\u901a\u5e38\u3001\u56fa\u4f53\u53ca\u3073\u6db2\u4f53\u306b\u3064\u3044\u3066\u306f\u6c34\uff08\u6e29\u5ea6\u3092\u6307\u5b9a\u3057\u306a\u3044\u5834\u5408\u306f 4 \u2103\uff09\u3001\u6c17\u4f53\u306b\u3064\u3044\u3066\u306f\u3001\u540c\u6e29\u5ea6\u3001\u540c\u5727\u529b\u3067\u306e\u7a7a\u6c17\u3092\u57fa\u6e96\u3068\u3059\u308b\u3002 \u8cea\u91cf\u540c\u58eb\u3092\u6bd4\u8f03\u3059\u308b\u884c\u70ba\u3067\u3042\u308b\u305f\u3081\u7121\u6b21\u5143\u91cf\u3068\u306a\u308b\u3002\u901a\u5e38\u306e\u6c34\uff08\u5185\u9678\u90e8\uff09\u306e\u7d044 \u2103 \u3067\u306e\u5927\u6c17\u5727\u4e0b\u306e\u7a7a\u6c17\u7b49\u304c\u6eb6\u3051\u3066\u3044\u306a\u3044\u3068\u304d\u306e\u5bc6\u5ea6\u306f 0.999972 g/cm3 \u3067\u3001\u307b\u3068\u3093\u3069 1.0 g/cm3 \u3067\u3042\u308b\u304b\u3089\u3001CGS\u5358\u4f4d\u7cfb\u3067\u8868\u3057\u305f\u6bd4\u91cd\u3068\u5bc6\u5ea6\u306e\u5024\u306f\u3001\u307b\u307c\u540c\u3058\u5024\u3068\u306a\u308b\u3002 \u6bd4\u91cd\u304c1\u3088\u308a\u3082\u5927\u304d\u3044\u7269\u8cea\u306f\u6c34\u306b\u6c88\u307f\u30011\u3088\u308a\u3082\u5c0f\u3055\u3044\u7269\u8cea\u306f\u6c34\u306b\u6d6e\u304f\u3002 \u5bc6\u5ea6\u3068\u6bd4\u91cd\u306f\u6df7\u540c\u3055\u308c\u3084\u3059\u3044\u304c\u3001\u5bc6\u5ea6\u306f\u8cea\u91cf\u3092\u4f53\u7a4d\u3067\u5272\u3063\u305f\u91cf\u3067\u3042\u308a\u3001\u6bd4\u91cd\u306f\u57fa\u6e96\u7269\u8cea\u3068\u6bd4\u3079\u305f\u5bc6\u5ea6\u6bd4\u3067\u3042\u308b\u3068\u3044\u3046\u70b9\u3067\u7570\u306a\u3063\u305f\u6982\u5ff5\u3067\u3042\u308b\u3002\u3088\u3063\u3066\u3001\u7269\u8cea\u304c\u6c34\u306b\u6d6e\u304f\u3042\u308b\u3044\u306f\u6c88\u3080\u3068\u3044\u3046\u73fe\u8c61\u306f\u3001\u5bc6\u5ea6\u3088\u308a\u3082\u6bd4\u91cd\u306b\u3088\u3063\u3066\u306e\u65b9\u304c\u5224\u65ad\u3057\u3084\u3059\u3044\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La gravit\u00e0 specifica (o densit\u00e0 relativa) \u00e8 una grandezza adimensionale, definita come il rapporto tra la densit\u00e0 di un materiale e quella di un materiale di riferimento (in genere acqua per i liquidi e aria per gli aeriformi). La scelta del riferimento \u00e8 arbitraria: \u00e8 anche possibile definire la gravit\u00e0 specifica in riferimento ad altre sostanze, specificando per\u00f2 il riferimento e le condizioni di temperatura e pressione, in quanto la densit\u00e0 del materiale varia al variare della temperatura e della pressione. Nel caso dell'acqua, si prende come riferimento la temperatura di 4 \u00b0C oppure 15,56 \u00b0C. dove \u00e8 la densit\u00e0. Tale grandezza \u00e8 di fondamentale importanza nell'ambito della fluidostatica e in particolare nella formulazione della legge di Archimede, che spiega il galleggiamento dei corpi in un fluido.",
+                "lang": "it"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/US_Navy_111005-N-ZN781-031_Aviation_Boatswain's_Mate_(Fuel)_3rd_Class_Rolando_Calilung_tests_for_a_specific_gravity_test_on_JP-5_fuel.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742975162,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 427971,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/unit": [
+            {
+                "type": "literal",
+                "value": "Unitless",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Specific gravity",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Specific_weight": {
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Specific_gravity"
+            }
+        ]
+    }
+}

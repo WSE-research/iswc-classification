@@ -1,0 +1,28 @@
+{
+    "@text": "Name city where many movies are shot that contains the word \"Karachi\" in its name",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "5",
+            "@similarityScore": "0.9029640576924751",
+            "@percentageOfSecondRank": "0.05766578382782662"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Karachi",
+            "@support": "15256",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Karachi",
+            "@offset": "61",
+            "@similarityScore": "0.9998293477149217",
+            "@percentageOfSecondRank": "1.3527008007354748E-4"
+        }
+    ]
+}

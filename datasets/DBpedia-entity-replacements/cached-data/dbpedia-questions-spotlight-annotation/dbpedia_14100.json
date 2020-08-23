@@ -1,0 +1,28 @@
+{
+    "@text": "\"Where is {deathplace} of {Louisa Lawson}, which has {queen} is {Bill Hayden} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Louisa_Lawson",
+            "@support": "65",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Louisa Lawson",
+            "@offset": "27",
+            "@similarityScore": "0.9999999999999716",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bill_Hayden",
+            "@support": "171",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Bill Hayden",
+            "@offset": "65",
+            "@similarityScore": "0.9999999999458282",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

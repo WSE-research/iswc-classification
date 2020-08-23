@@ -1,0 +1,46 @@
+{
+    "@text": "Which builder of Ford Straight-6 engine is also the automobile latform provider of Chiva bus ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ford_Motor_Company",
+            "@support": "23230",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Ford",
+            "@offset": "17",
+            "@similarityScore": "0.8120108109751174",
+            "@percentageOfSecondRank": "0.2188468274171607"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Straight-six_engine",
+            "@support": "1519",
+            "@types": "",
+            "@surfaceForm": "Straight-6",
+            "@offset": "22",
+            "@similarityScore": "0.999999872043625",
+            "@percentageOfSecondRank": "1.279563958071525E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Car",
+            "@support": "11713",
+            "@types": "",
+            "@surfaceForm": "automobile",
+            "@offset": "52",
+            "@similarityScore": "0.9740217266356973",
+            "@percentageOfSecondRank": "0.023252483506567667"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chiva_bus",
+            "@support": "8",
+            "@types": "DUL:DesignedArtifact,Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Automobile",
+            "@surfaceForm": "Chiva bus",
+            "@offset": "83",
+            "@similarityScore": "0.9999999999995453",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

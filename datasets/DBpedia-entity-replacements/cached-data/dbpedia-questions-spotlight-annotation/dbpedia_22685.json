@@ -1,0 +1,37 @@
+{
+    "@text": "Which borough is common for Duddeston and Bordesley railway station ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Borough",
+            "@support": "3993",
+            "@types": "",
+            "@surfaceForm": "borough",
+            "@offset": "6",
+            "@similarityScore": "0.8392918867943265",
+            "@percentageOfSecondRank": "0.07091459437197904"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Duddeston",
+            "@support": "59",
+            "@types": "",
+            "@surfaceForm": "Duddeston",
+            "@offset": "28",
+            "@similarityScore": "0.9999954083981463",
+            "@percentageOfSecondRank": "4.591612779460385E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bordesley_railway_station",
+            "@support": "7",
+            "@types": "Wikidata:Q719456,Schema:Place,DBpedia:Station,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Bordesley railway station",
+            "@offset": "42",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

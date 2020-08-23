@@ -1,0 +1,37 @@
+{
+    "@text": "Is the PPP GDP per capita of Denmark more than 36429.6?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Purchasing_power_parity",
+            "@support": "892",
+            "@types": "",
+            "@surfaceForm": "PPP",
+            "@offset": "7",
+            "@similarityScore": "0.9998278406517289",
+            "@percentageOfSecondRank": "1.3189404134954274E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Gross_domestic_product",
+            "@support": "8354",
+            "@types": "",
+            "@surfaceForm": "GDP",
+            "@offset": "11",
+            "@similarityScore": "0.9993341205688068",
+            "@percentageOfSecondRank": "6.566478200399588E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Denmark",
+            "@support": "65306",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Denmark",
+            "@offset": "29",
+            "@similarityScore": "0.955637179413164",
+            "@percentageOfSecondRank": "0.02307124388609031"
+        }
+    ]
+}

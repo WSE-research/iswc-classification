@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the ancestor of the record producer from The Thrill Chaser?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Record_producer",
+            "@support": "39027",
+            "@types": "",
+            "@surfaceForm": "record producer",
+            "@offset": "27",
+            "@similarityScore": "0.9999916390824322",
+            "@percentageOfSecondRank": "8.360341072994263E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/The_Chaser",
+            "@support": "307",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Group,DBpedia:ComedyGroup,DBpedia:Agent",
+            "@surfaceForm": "Chaser",
+            "@offset": "59",
+            "@similarityScore": "0.9159370310266801",
+            "@percentageOfSecondRank": "0.08840959700640608"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "What is the faculty of Harvard Art Museum that has the subsidiary Jamie Dimon?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Harvard_Art_Museums",
+            "@support": "647",
+            "@types": "Wikidata:Q41176,Wikidata:Q33506,Schema:Place,DBpedia:Place,DBpedia:Museum,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Harvard Art Museum",
+            "@offset": "23",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Jamie_Dimon",
+            "@support": "101",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Jamie Dimon",
+            "@offset": "66",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

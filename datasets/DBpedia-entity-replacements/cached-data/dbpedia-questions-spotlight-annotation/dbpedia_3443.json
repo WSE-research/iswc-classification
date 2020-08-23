@@ -1,0 +1,28 @@
+{
+    "@text": "\"What is {main topic} of {history of Afghanistan}, which has {governor} is {Mohammed Nadir Shah} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Afghanistan",
+            "@support": "48460",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Afghanistan",
+            "@offset": "37",
+            "@similarityScore": "0.9104586825019254",
+            "@percentageOfSecondRank": "0.09578187563941554"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mohammed_Nadir_Shah",
+            "@support": "129",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Mohammed Nadir Shah",
+            "@offset": "76",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "List the soccer players whose current team has the ground Stoke-on-Trent.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Association_football",
+            "@support": "280277",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "soccer",
+            "@offset": "9",
+            "@similarityScore": "0.9997830735586649",
+            "@percentageOfSecondRank": "1.7162275712710636E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Stoke-on-Trent",
+            "@support": "2714",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Stoke-on-Trent",
+            "@offset": "58",
+            "@similarityScore": "0.9991249967882536",
+            "@percentageOfSecondRank": "8.733511760360335E-4"
+        }
+    ]
+}

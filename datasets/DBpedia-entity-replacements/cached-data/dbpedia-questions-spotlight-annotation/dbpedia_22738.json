@@ -1,0 +1,37 @@
+{
+    "@text": "Name the company which produces both  Boeing F/A-18 E/F Hornet nad CH-46 Chinook ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/A-18_Hornet",
+            "@support": "1399",
+            "@types": "",
+            "@surfaceForm": "F/A-18",
+            "@offset": "45",
+            "@similarityScore": "0.9975961646268346",
+            "@percentageOfSecondRank": "0.0024096277215081845"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Boeing_Vertol_CH-46_Sea_Knight",
+            "@support": "337",
+            "@types": "Wikidata:Q11436,DUL:DesignedArtifact,Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft",
+            "@surfaceForm": "CH-46",
+            "@offset": "67",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Boeing_CH-47_Chinook",
+            "@support": "982",
+            "@types": "Wikidata:Q11436,DUL:DesignedArtifact,Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft",
+            "@surfaceForm": "Chinook",
+            "@offset": "73",
+            "@similarityScore": "0.980602070540904",
+            "@percentageOfSecondRank": "0.009945065265625325"
+        }
+    ]
+}

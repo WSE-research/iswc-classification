@@ -1,0 +1,28 @@
+{
+    "@text": "Count the number of software which runs on Microsoft Windows and mac OS ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Microsoft_Windows",
+            "@support": "31955",
+            "@types": "Wikidata:Q7397,Wikidata:Q386724,Schema:CreativeWork,DBpedia:Work,DBpedia:Software",
+            "@surfaceForm": "Windows",
+            "@offset": "53",
+            "@similarityScore": "0.9998256353383549",
+            "@percentageOfSecondRank": "6.42277445182729E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Macintosh_operating_systems",
+            "@support": "1143",
+            "@types": "",
+            "@surfaceForm": "mac OS",
+            "@offset": "65",
+            "@similarityScore": "0.8677211366370824",
+            "@percentageOfSecondRank": "0.08165526049409093"
+        }
+    ]
+}

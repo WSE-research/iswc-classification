@@ -1,0 +1,28 @@
+{
+    "@text": "Which author inspired Susanna Clarke, and wrote Northanger Abbey?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Susanna_Clarke",
+            "@support": "98",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Susanna Clarke",
+            "@offset": "22",
+            "@similarityScore": "0.9999999999999716",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Northanger_Abbey",
+            "@support": "286",
+            "@types": "Wikidata:Q571,Wikidata:Q386724,Schema:CreativeWork,Schema:Book,Http://purl.org/ontology/bibo/Book,DBpedia:WrittenWork,DBpedia:Work,DBpedia:Book",
+            "@surfaceForm": "Northanger Abbey",
+            "@offset": "48",
+            "@similarityScore": "0.999999995098932",
+            "@percentageOfSecondRank": "4.801186067467348E-9"
+        }
+    ]
+}

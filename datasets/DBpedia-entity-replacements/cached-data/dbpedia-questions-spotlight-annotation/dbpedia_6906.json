@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the taxon for the taxon source of milk?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "13",
+            "@similarityScore": "0.999768095454985",
+            "@percentageOfSecondRank": "2.302512106327953E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "27",
+            "@similarityScore": "0.999768095454985",
+            "@percentageOfSecondRank": "2.302512106327953E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Milk",
+            "@support": "8480",
+            "@types": "",
+            "@surfaceForm": "milk",
+            "@offset": "43",
+            "@similarityScore": "0.998353774271207",
+            "@percentageOfSecondRank": "6.746955291050413E-4"
+        }
+    ]
+}

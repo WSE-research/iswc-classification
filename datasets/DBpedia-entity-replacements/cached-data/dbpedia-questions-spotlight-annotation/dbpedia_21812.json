@@ -1,0 +1,28 @@
+{
+    "@text": "Which university has affiliations to Graham Holdings and Kaplan, Inc.?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Benjamin_Graham",
+            "@support": "192",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q188094,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Economist,DBpedia:Agent",
+            "@surfaceForm": "Graham",
+            "@offset": "37",
+            "@similarityScore": "0.8542019417063447",
+            "@percentageOfSecondRank": "0.08892043008908578"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Kaplan,_Inc.",
+            "@support": "152",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Kaplan, Inc.",
+            "@offset": "57",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Is the real GDP growth rate of the USA equal to 1.6?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Real_gross_domestic_product",
+            "@support": "121",
+            "@types": "",
+            "@surfaceForm": "real GDP",
+            "@offset": "7",
+            "@similarityScore": "0.9802333033578384",
+            "@percentageOfSecondRank": "0.02016529796983354"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "USA",
+            "@offset": "35",
+            "@similarityScore": "0.9959718773244866",
+            "@percentageOfSecondRank": "0.0033294240534744936"
+        }
+    ]
+}

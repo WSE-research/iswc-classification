@@ -1,0 +1,28 @@
+{
+    "@text": "Give me all office holders who finally retired in Montpelier, Orange, Virgina?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Montpellier",
+            "@support": "3304",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Montpelier",
+            "@offset": "50",
+            "@similarityScore": "0.928290976866133",
+            "@percentageOfSecondRank": "0.06982814400072077"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Orange_S.A.",
+            "@support": "1587",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Orange",
+            "@offset": "62",
+            "@similarityScore": "0.9329230246464765",
+            "@percentageOfSecondRank": "0.05768243421803231"
+        }
+    ]
+}

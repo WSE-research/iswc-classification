@@ -1,0 +1,28 @@
+{
+    "@text": "Which country has Lockheed Martin's headquarters located in Bethesda?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Glenn_L._Martin_Company",
+            "@support": "551",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Martin",
+            "@offset": "27",
+            "@similarityScore": "0.9779056967301939",
+            "@percentageOfSecondRank": "0.016490952821069636"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bethesda_station",
+            "@support": "136",
+            "@types": "Wikidata:Q719456,Schema:Place,DBpedia:Station,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Bethesda",
+            "@offset": "60",
+            "@similarityScore": "0.9985838445014994",
+            "@percentageOfSecondRank": "9.874667614023509E-4"
+        }
+    ]
+}

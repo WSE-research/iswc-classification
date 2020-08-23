@@ -1,0 +1,28 @@
+{
+    "@text": "Is it true that the market capitalization of Apple equals to 1000000000000?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Market_capitalization",
+            "@support": "1100",
+            "@types": "",
+            "@surfaceForm": "market capitalization",
+            "@offset": "20",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Apple_Inc.",
+            "@support": "14402",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Apple",
+            "@offset": "45",
+            "@similarityScore": "0.9995533276811686",
+            "@percentageOfSecondRank": "2.83440406131123E-4"
+        }
+    ]
+}

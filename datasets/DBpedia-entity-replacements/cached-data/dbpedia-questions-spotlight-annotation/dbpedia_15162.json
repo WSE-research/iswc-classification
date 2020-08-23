@@ -1,0 +1,37 @@
+{
+    "@text": "Is the JMA Magnitude of the 2018 Osaka earthquake equal to 6.1?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Japan_Meteorological_Agency",
+            "@support": "1476",
+            "@types": "Wikidata:Q43229,Wikidata:Q327333,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:GovernmentAgency,DBpedia:Agent",
+            "@surfaceForm": "JMA",
+            "@offset": "7",
+            "@similarityScore": "0.999999999999929",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Osaka",
+            "@support": "11366",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Osaka",
+            "@offset": "33",
+            "@similarityScore": "0.984356407627538",
+            "@percentageOfSecondRank": "0.01582992755437753"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Earthquake",
+            "@support": "14119",
+            "@types": "",
+            "@surfaceForm": "earthquake",
+            "@offset": "39",
+            "@similarityScore": "0.9999733899834418",
+            "@percentageOfSecondRank": "1.577769649025811E-5"
+        }
+    ]
+}

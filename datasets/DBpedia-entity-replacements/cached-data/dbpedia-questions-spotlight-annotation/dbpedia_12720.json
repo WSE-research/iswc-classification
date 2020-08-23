@@ -1,0 +1,37 @@
+{
+    "@text": "Which sculptor, located in East Longmeadow, created the sculpture known as Battleship?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Sculpture",
+            "@support": "12995",
+            "@types": "",
+            "@surfaceForm": "sculptor",
+            "@offset": "6",
+            "@similarityScore": "0.9999808923418537",
+            "@percentageOfSecondRank": "1.4658696487143239E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/East_Longmeadow_High_School",
+            "@support": "13",
+            "@types": "Wikidata:Q43229,Wikidata:Q3914,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:School,Schema:Organization,Schema:EducationalOrganization,DBpedia:School,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "East Longmeadow",
+            "@offset": "27",
+            "@similarityScore": "0.9999592772787087",
+            "@percentageOfSecondRank": "4.072400541489913E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Battleship",
+            "@support": "6930",
+            "@types": "",
+            "@surfaceForm": "Battleship",
+            "@offset": "75",
+            "@similarityScore": "0.9998648585826859",
+            "@percentageOfSecondRank": "9.562331218087816E-5"
+        }
+    ]
+}

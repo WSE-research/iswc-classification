@@ -1,0 +1,28 @@
+{
+    "@text": "Which means {OSM relation ID} in the{Canterbury Region} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/OpenStreetMap",
+            "@support": "802",
+            "@types": "Wikidata:Q386724,Schema:WebPage,Schema:CreativeWork,DBpedia:Work,DBpedia:Website",
+            "@surfaceForm": "OSM",
+            "@offset": "13",
+            "@similarityScore": "0.9915023620013821",
+            "@percentageOfSecondRank": "0.0060907456052032355"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Canterbury,_New_Zealand",
+            "@support": "2758",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Canterbury Region",
+            "@offset": "37",
+            "@similarityScore": "0.9999999999881197",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

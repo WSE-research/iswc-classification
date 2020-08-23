@@ -1,0 +1,37 @@
+{
+    "@text": "\"Which is {on shore of} of {Conakry}, that has {tributary} is {Ribeira da Janela} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Conakry",
+            "@support": "1068",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Conakry",
+            "@offset": "28",
+            "@similarityScore": "0.9995367476082425",
+            "@percentageOfSecondRank": "3.447482457348734E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tributary",
+            "@support": "17917",
+            "@types": "",
+            "@surfaceForm": "tributary",
+            "@offset": "48",
+            "@similarityScore": "0.9999648828991321",
+            "@percentageOfSecondRank": "2.0043540306882095E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ribeira_da_Janela",
+            "@support": "9",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Ribeira da Janela",
+            "@offset": "63",
+            "@similarityScore": "0.9999999995535802",
+            "@percentageOfSecondRank": "4.4641065797801045E-10"
+        }
+    ]
+}

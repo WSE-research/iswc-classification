@@ -1,0 +1,28 @@
+{
+    "@text": "Is the gross tonnage of the Tugboat Spence greater than 151.2?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Gross_register_tonnage",
+            "@support": "1753",
+            "@types": "",
+            "@surfaceForm": "gross tonnage",
+            "@offset": "7",
+            "@similarityScore": "0.6104963621533163",
+            "@percentageOfSecondRank": "0.6366766955136182"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Spence_(tugboat)",
+            "@support": "2",
+            "@types": "Wikidata:Q11446,DUL:DesignedArtifact,Schema:Product,DBpedia:Ship,DBpedia:MeanOfTransportation",
+            "@surfaceForm": "Tugboat Spence",
+            "@offset": "28",
+            "@similarityScore": "0.9999991881314996",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

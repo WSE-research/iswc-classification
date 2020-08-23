@@ -1,0 +1,28 @@
+{
+    "@text": "What Polish multinational corporation has the most revenue?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Poland",
+            "@support": "106553",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Polish",
+            "@offset": "5",
+            "@similarityScore": "0.8451591288715211",
+            "@percentageOfSecondRank": "0.1303024694053183"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Multinational_corporation",
+            "@support": "2142",
+            "@types": "",
+            "@surfaceForm": "multinational corporation",
+            "@offset": "12",
+            "@similarityScore": "0.9999999999999574",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

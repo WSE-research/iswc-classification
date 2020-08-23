@@ -1,0 +1,28 @@
+{
+    "@text": "Was George Michael an electropop artist?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/George_Michael",
+            "@support": "1764",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "George Michael",
+            "@offset": "4",
+            "@similarityScore": "0.9995430387326586",
+            "@percentageOfSecondRank": "4.5685738456871836E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Electropop",
+            "@support": "1658",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "electropop",
+            "@offset": "22",
+            "@similarityScore": "0.9894899201862739",
+            "@percentageOfSecondRank": "0.01062160045310535"
+        }
+    ]
+}

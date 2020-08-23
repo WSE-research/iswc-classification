@@ -1,0 +1,28 @@
+{
+    "@text": "Was Mickey Mantle a left fielder in his team?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mickey_Mantle",
+            "@support": "806",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q10871364,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:BaseballPlayer,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Mickey Mantle",
+            "@offset": "4",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Left_fielder",
+            "@support": "1487",
+            "@types": "",
+            "@surfaceForm": "left fielder",
+            "@offset": "20",
+            "@similarityScore": "0.9999999999721894",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

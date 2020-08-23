@@ -1,0 +1,139 @@
+{
+    "http://dbpedia.org/resource/Relative_permeability": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Institution108053576"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActor"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatPorousMedia"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SocialGroup107950920"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Company108058098"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Organization108008335"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Relative permeability",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "In multiphase flow in porous media, the relative permeability of a phase is a dimensionless measure of the effective permeability of that phase. It is the ratio of the effective permeability of that phase to the absolute permeability. It can be viewed as an adaptation of Darcy's law to multiphase flow. For two-phase flow in porous media given steady-state conditions, we can write where is the flux, is the pressure drop, is the viscosity. The subscript indicates that the parameters are for phase . is here the phase permeability (i.e., the effective permeability of phase Relative permeability, , as where",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Relative_permeability"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.027rk79"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Relative_permeability"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Porous_media"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Fluid_dynamics"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Relative_permeability"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Relative_permeability?oldid=721298973"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://perminc.com/resources/fundamentals-of-fluid-flow-in-porous-media/chapter-2-the-porous-medium/relative-permeability/relative-permeability-curves/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "In multiphase flow in porous media, the relative permeability of a phase is a dimensionless measure of the effective permeability of that phase. It is the ratio of the effective permeability of that phase to the absolute permeability. It can be viewed as an adaptation of Darcy's law to multiphase flow. For two-phase flow in porous media given steady-state conditions, we can write where is the flux, is the pressure drop, is the viscosity. The subscript indicates that the parameters are for phase . is here the phase permeability (i.e., the effective permeability of phase ), as observed through the equation above. Relative permeability, , for phase is then defined from , as where is the permeability of the porous medium in single-phase flow, i.e., the absolute permeability. Relative permeability must be between zero and one. In applications, relative permeability is often represented as a function of water saturation; however, owing to capillary hysteresis one often resorts to a function or curve measured under drainage and another measured under imbibition. Under this approach, the flow of each phase is inhibited by the presence of the other phases. Thus the sum of relative permeabilities over all phases is less than 1. However, apparent relative permeabilities larger than 1 have been obtained since the Darcean approach disregards the viscous coupling effects derived from momentum transfer between the phases (see assumptions below). This coupling could enhance the flow instead of inhibit it. This has been observed in heavy oil petroleum reservoirs when the gas phase flows as bubbles or patches (disconnected).",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 721298973,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 8966784,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Relative_permeability": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Relative_permeability"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Phase_permeability": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Relative_permeability"
+            }
+        ]
+    }
+}

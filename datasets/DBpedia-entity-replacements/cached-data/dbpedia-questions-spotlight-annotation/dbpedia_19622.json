@@ -1,0 +1,28 @@
+{
+    "@text": "Name the river whose source place is Gloucestershire and mouth place is Southend-on-Sea ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Gloucestershire",
+            "@support": "8504",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Gloucestershire",
+            "@offset": "37",
+            "@similarityScore": "0.7394107493600544",
+            "@percentageOfSecondRank": "0.3522309164039574"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Southend-on-Sea",
+            "@support": "1934",
+            "@types": "Wikidata:Q486972,Wikidata:Q3957,Schema:Place,DBpedia:Town,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Southend-on-Sea",
+            "@offset": "72",
+            "@similarityScore": "0.9995379844330656",
+            "@percentageOfSecondRank": "4.3587227744612973E-4"
+        }
+    ]
+}

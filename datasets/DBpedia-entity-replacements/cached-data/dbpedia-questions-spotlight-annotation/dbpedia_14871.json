@@ -1,0 +1,28 @@
+{
+    "@text": "What Italian ferry has the lowest weight in tonnes ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Italy",
+            "@support": "150965",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Italian",
+            "@offset": "5",
+            "@similarityScore": "0.8322642400342448",
+            "@percentageOfSecondRank": "0.15643285263249954"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ferry",
+            "@support": "7868",
+            "@types": "",
+            "@surfaceForm": "ferry",
+            "@offset": "13",
+            "@similarityScore": "0.9995094318951341",
+            "@percentageOfSecondRank": "2.19121906468282E-4"
+        }
+    ]
+}

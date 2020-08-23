@@ -1,0 +1,28 @@
+{
+    "@text": "Is it true that people speak German in Seychelles and Republic of Congo?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Seychelles",
+            "@support": "6622",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Seychelles",
+            "@offset": "39",
+            "@similarityScore": "0.9998197860634316",
+            "@percentageOfSecondRank": "1.7474554802544642E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Democratic_Republic_of_the_Congo",
+            "@support": "17486",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Congo",
+            "@offset": "66",
+            "@similarityScore": "0.6970112186703844",
+            "@percentageOfSecondRank": "0.42651487284458034"
+        }
+    ]
+}

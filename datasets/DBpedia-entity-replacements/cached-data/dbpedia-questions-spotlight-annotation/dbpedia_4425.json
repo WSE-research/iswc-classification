@@ -1,0 +1,28 @@
+{
+    "@text": "Is Christopher Nolan a citizen of the UK?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Christopher_Nolan",
+            "@support": "826",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Christopher Nolan",
+            "@offset": "3",
+            "@similarityScore": "0.9999999900968675",
+            "@percentageOfSecondRank": "9.901776470136392E-9"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_Kingdom",
+            "@support": "196237",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "UK",
+            "@offset": "38",
+            "@similarityScore": "0.9866335222720966",
+            "@percentageOfSecondRank": "0.010816231558856955"
+        }
+    ]
+}

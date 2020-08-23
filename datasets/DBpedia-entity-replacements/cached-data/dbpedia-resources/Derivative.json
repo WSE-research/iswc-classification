@@ -1,0 +1,3381 @@
+{
+    "http://dbpedia.org/resource/Deguelin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kairine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tryptoline": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Azapride": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fluorographene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Derivative": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatFunctionsAndMappings"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/MathematicalRelation113783581"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Operator113786413"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Function113783816"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatLinearOperatorsInCalculus"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/LinearOperator113786595"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Material114580897"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Matter100020827"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Chemical114806838"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Substance100019613"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Part113809207"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Relation100031921"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatFractions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Fraction114922107"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Derivata",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Afgeleide",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Pochodna",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Derivada",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Derivada",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0634\u062a\u0642 (\u0631\u064a\u0627\u0636\u064a\u0627\u062a)",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Derivative",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "D\u00e9riv\u00e9e",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u5bfc\u6570",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u5fae\u5206",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u043d\u0430\u044f \u0444\u0443\u043d\u043a\u0446\u0438\u0438",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "In de wiskunde is de afgeleide (het differentiaalquoti\u00ebnt) een maat voor de verandering die een functie ondergaat als de argumenten van deze functie een infinitesimaal kleine verandering ondergaan. In een functie met \u00e9\u00e9n re\u00eble variabele wordt de afgeleide in een punt gegeven door de helling van de raaklijn aan de grafiek van deze functie in dat punt. Het woord afgeleide is hier in feite een afgekorte term voor het begrip afgeleide waarde. Het is een waarde die afgeleid is van de oorspronkelijke functie. Het bepalen van de afgeleide van een functie heet differenti\u00ebren.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "En analyse, le nombre d\u00e9riv\u00e9 en un \u00ab point \u00bb (r\u00e9el) x d'une fonction f \u00e0 variable et valeurs r\u00e9elles est le coefficient directeur de la tangente au graphe de f au point (x, f(x)). C'est le coefficient directeur de l'approximation affine de f en x ; ce nombre n'est donc d\u00e9fini que si cette tangente \u2014 ou cette approximation \u2014 existe. La notion de nombre d\u00e9riv\u00e9 a vu le jour au XVIIe si\u00e8cle dans les \u00e9crits de Leibniz et de Newton qui le nomme fluxion et qui le d\u00e9finit comme \u00ab le quotient ultime de deux accroissements \u00e9vanescents \u00bb. La d\u00e9riv\u00e9e de la fonction est not\u00e9e en math\u00e9matiques ou",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0627\u0644\u0639\u062f\u062f \u0627\u0644\u0645\u064f\u0634\u062a\u064e\u0642\u0651 \u0641\u064a \u0646\u0642\u0637\u0629\u060c \u0639\u0644\u0649 \u0631\u0633\u0645 \u0628\u064a\u0627\u0646\u064a \u0644\u062f\u0627\u0644\u0629 \u0630\u0627\u062a \u0645\u062a\u063a\u064a\u0631\u0627\u062a \u0648\u0642\u064a\u0645 \u062d\u0642\u064a\u0642\u064a\u0629\u060c \u0647\u0648 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0645\u0645\u0627\u0633 \u0627\u0644\u0645\u0648\u062c\u0650\u0651\u0647\u064f.\u064a\u0639\u0628\u0631 \u0627\u0644\u062a\u0641\u0627\u0636\u0644 \u0639\u0646 \u0627\u0644\u0645\u0639\u062f\u0644 \u0627\u0644\u0630\u064a \u062a\u062a\u063a\u064a\u0631 \u0628\u0647 \u0642\u064a\u0645\u0629 y \u0646\u062a\u064a\u062c\u0629 \u062a\u063a\u064a\u0631 \u0642\u064a\u0645\u0629 x \u062a\u0648\u062c\u062f \u0628\u064a\u0646\u0647\u0645\u0627 \u0639\u0644\u0627\u0642\u0629 \u0631\u064a\u0627\u0636\u064a\u0629 \u0623\u0648 \u062f\u0627\u0644\u0629 \u0631\u064a\u0627\u0636\u064a\u0629. \u0648\u062a\u0639\u0631\u0641 \u0627\u0644\u062f\u0627\u0644\u0629 \u0627\u0644\u0645\u0634\u062a\u0642\u0629 \u0628\u0623\u0646\u0647\u0627 \u0645\u064a\u0644 \u0627\u0644\u0645\u0645\u0627\u0633 \u0644\u0645\u0646\u062d\u0646\u0649 {f(x \u0639\u0646\u062f \u0623\u064a \u0646\u0642\u0637\u0629 \u0628\u0634\u0631\u0637 \u0648\u062c\u0648\u062f \u0647\u0630\u0647 \u0627\u0644\u0645\u0634\u062a\u0642\u0629 \u0623\u0648 \u0647\u064a \u0627\u0644\u0633\u0631\u0639\u0629 \u0627\u0644\u0644\u062d\u0638\u064a\u0629 \u0623\u0648 \u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u063a\u064a\u064a\u0631 \u0627\u0644\u0644\u062d\u0638\u064a \u0644\u0644\u062f\u0627\u0644\u0629.\u0646\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0631\u0645\u0632 \u0394 \u0644\u0644\u062f\u0644\u0627\u0644\u0629 \u0639\u0644\u0649 \u0627\u0644\u062a\u063a\u064a\u0631 \u0641\u064a \u0627\u0644\u0643\u0645\u064a\u0629.\u0648\u064a\u0643\u0648\u0646 \u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u063a\u064a\u0631 \u0647\u0648 \u0646\u0647\u0627\u064a\u0629 \u0646\u0633\u0628\u0629 \u062a\u063a\u064a\u0631 y \u0625\u0644\u0649 \u0646\u0633\u0628\u0629 \u062a\u063a\u064a\u0631 x : \u0639\u0646\u062f\u0645\u0627 \u0394x \u062a\u0642\u0627\u0631\u0628 0.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0301\u0434\u043d\u0430\u044f (\u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0432 \u0442\u043e\u0447\u043a\u0435) \u2014 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u0434\u0438\u0444\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0438\u0441\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f, \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u044e\u0449\u0435\u0435 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0444\u0443\u043d\u043a\u0446\u0438\u0438 (\u0432 \u0434\u0430\u043d\u043d\u043e\u0439 \u0442\u043e\u0447\u043a\u0435). \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u043f\u0440\u0435\u0434\u0435\u043b \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u043f\u0440\u0438\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u043a \u043f\u0440\u0438\u0440\u0430\u0449\u0435\u043d\u0438\u044e \u0435\u0451 \u0430\u0440\u0433\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u0440\u0438 \u0441\u0442\u0440\u0435\u043c\u043b\u0435\u043d\u0438\u0438 \u043f\u0440\u0438\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0430\u0440\u0433\u0443\u043c\u0435\u043d\u0442\u0430 \u043a \u043d\u0443\u043b\u044e, \u0435\u0441\u043b\u0438 \u0442\u0430\u043a\u043e\u0439 \u043f\u0440\u0435\u0434\u0435\u043b \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442. \u0424\u0443\u043d\u043a\u0446\u0438\u044e, \u0438\u043c\u0435\u044e\u0449\u0443\u044e \u043a\u043e\u043d\u0435\u0447\u043d\u0443\u044e \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u043d\u0443\u044e (\u0432 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0442\u043e\u0447\u043a\u0435), \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u0434\u0438\u0444\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0440\u0443\u0435\u043c\u043e\u0439 (\u0432 \u0434\u0430\u043d\u043d\u043e\u0439 \u0442\u043e\u0447\u043a\u0435). \u041f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u043d\u043e\u0439 \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0434\u0438\u0444\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0301\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u043c.\u041e\u0431\u0440\u0430\u0442\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u2014 \u043d\u0430\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u043f\u0435\u0440\u0432\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u043e\u0439 \u2014 \u0438\u043d\u0442\u0435\u0433\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u6570\u5b66\u306b\u304a\u3051\u308b\u5b9f\u5909\u6570\u51fd\u6570\u306e\u5fae\u5206\uff08\u3073\u3076\u3093\uff09\u3001\u5fae\u5206\u4fc2\u6570\u3001\u5fae\u5206\u5546\u307e\u305f\u306f\u5c0e\u51fd\u6570\uff08\u3069\u3046\u304b\u3093\u3059\u3046\u3001\u82f1: derivative\uff09\u306f\u3001\u5225\u306e\u91cf\uff08\u72ec\u7acb\u5909\u6570\uff09\u306b\u4f9d\u5b58\u3057\u3066\u6c7a\u307e\u308b\u3042\u308b\u91cf\uff08\u51fd\u6570\u306e\u5024\u3042\u308b\u3044\u306f\u5f93\u5c5e\u5909\u6570\uff09\u306e\u5909\u5316\u306e\u611f\u5ea6\u3092\u6e2c\u308b\u3082\u306e\u3067\u3042\u308b\u3002\u5fae\u5206\u306f\u5fae\u5206\u7a4d\u5206\u5b66\u306e\u57fa\u672c\u7684\u306a\u9053\u5177\u3067\u3042\u308b\u3002\u4f8b\u3048\u3070\u3001\u52d5\u304f\u7269\u4f53\u306e\u4f4d\u7f6e\u306e\u6642\u9593\u306b\u95a2\u3059\u308b\u5c0e\u51fd\u6570\u306f\u305d\u306e\u7269\u4f53\u306e\u901f\u5ea6\u3067\u3042\u308a\u3001\u3053\u308c\u306f\u6642\u9593\u304c\u9032\u3093\u3060\u3068\u304d\u305d\u306e\u7269\u4f53\u306e\u4f4d\u7f6e\u304c\u3069\u308c\u307b\u3069\u65e9\u304f\u5909\u308f\u308b\u304b\u3092\u6e2c\u308b\u3002 \u4e00\u5909\u6570\u51fd\u6570\u306e\u9069\u5f53\u306b\u9078\u3093\u3060\u5165\u529b\u5024\u306b\u304a\u3051\u308b\u5fae\u5206\u4fc2\u6570\u306f\u3001\u305d\u306e\u70b9\u306b\u304a\u3051\u308b\u51fd\u6570\u306e\u30b0\u30e9\u30d5\u306e\u63a5\u7dda\u306e\u50be\u304d\u3067\u3042\u308b\u3002\u3053\u308c\u306f\u5c0e\u51fd\u6570\u304c\u305d\u306e\u5165\u529b\u5024\u306e\u8fd1\u304f\u3067\u305d\u306e\u51fd\u6570\u306e\u6700\u9069\u7dda\u578b\u8fd1\u4f3c\u3092\u8a18\u8ff0\u3059\u308b\u3082\u306e\u3067\u3042\u308b\u3053\u3068\u3092\u610f\u5473\u3059\u308b\u3002\u305d\u306e\u3088\u3046\u306a\u7406\u7531\u3067\u3001\u5fae\u5206\u4fc2\u6570\u306f\u3057\u3070\u3057\u3070\u300c\u77ac\u9593\u306e\u5909\u5316\u7387\u300d\u3068\u3057\u3066\u8a18\u8ff0\u3055\u308c\u308b\u3002\u77ac\u9593\u306e\u5909\u5316\u7387\u306f\u72ec\u7acb\u5909\u6570\u306b\u4f9d\u5b58\u3059\u308b\u5f93\u5c5e\u5909\u6570\u3067\u3042\u308b\u3002 \u5fae\u5206\u306f\u5b9f\u591a\u5909\u6570\u51fd\u6570\u306b\u3082\u62e1\u5f35\u3067\u304d\u308b\u3002\u3053\u306e\u4e00\u822c\u5316\u306b\u304a\u3044\u3066\u3001\u5c0e\u51fd\u6570\u306f\u305d\u306e\u30b0\u30e9\u30d5\u304c\uff08\u9069\u5f53\u306a\u5909\u63db\u306e\u5f8c\uff09\u3082\u3068\u306e\u51fd\u6570\u306e\u30b0\u30e9\u30d5\u3092\u6700\u9069\u7dda\u578b\u8fd1\u4f3c\u3059\u308b\u7dda\u578b\u5909\u63db\u3068\u89e3\u91c8\u3057\u306a\u304a\u3055\u308c\u308b\u3002\u30e4\u30b3\u30d3\u884c\u5217\u306f\u3053\u306e\u7dda\u578b\u5909\u63db\u3092\u72ec\u7acb\u304a\u3088\u3073\u5f93\u5c5e\u5909\u6570\u3092\u9078\u3076\u3053\u3068\u3067\u4e0e\u3048\u3089\u308c\u308b\u57fa\u5e95\u306b\u95a2\u3057\u3066\u8868\u73fe\u3059\u308b\u884c\u5217\u3067\u3042\u308a\u3001\u72ec\u7acb\u5909\u6570\u306b\u95a2\u3059\u308b\u504f\u5fae\u5206\u3092\u7528\u3044\u3066\u8a08\u7b97\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u591a\u5909\u6570\u5b9f\u6570\u5024\u51fd\u6570\u306b\u5bfe\u3057\u3066\u3001\u30e4\u30b3\u30d3\u884c\u5217\u306f\u52fe\u914d\u306b\u7c21\u7d04\u3055\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "En matem\u00e1tica, la derivada de una funci\u00f3n mide la rapidez con la que cambia el valor de dicha funci\u00f3n matem\u00e1tica, seg\u00fan cambie el valor de su variable independiente. La derivada de una funci\u00f3n es un concepto local, es decir, se calcula como el l\u00edmite de la rapidez de cambio media de la funci\u00f3n en un cierto intervalo, cuando el intervalo considerado para la variable independiente se torna cada vez m\u00e1s peque\u00f1o. Por ello se habla del valor de la derivada de una cierta funci\u00f3n en un punto dado.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "The derivative of a function of a real variable measures the sensitivity to change of a quantity (a function value or dependent variable) which is determined by another quantity (the independent variable). Derivatives are a fundamental tool of calculus. For example, the derivative of the position of a moving object with respect to time is the object's velocity: this measures how quickly the position of the object changes when time is advanced.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "In matematica, la derivata \u00e8 la misura di quanto la crescita di una funzione cambi al variare del suo argomento. La derivata di una funzione \u00e8 una grandezza puntuale, cio\u00e8 si calcola punto per punto. Nel caso di funzioni a una variabile nel campo reale, essa \u00e8 la pendenza della tangente al grafico della funzione in quel punto e ne rappresenta la migliore approssimazione lineare. Nel caso in cui la derivata esista (cio\u00e8 la funzione sia derivabile) in ogni punto del dominio, la si pu\u00f2 vedere a sua volta come una funzione che associa a ogni punto proprio la derivata in quel punto.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Pochodna \u2013 miara szybko\u015bci zmian warto\u015bci funkcji wzgl\u0119dem zmian jej argument\u00f3w.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5bfc\u6570\uff08\u82f1\u8bed\uff1aDerivative\uff09\u662f\u5fae\u79ef\u5206\u5b66\u4e2d\u91cd\u8981\u7684\u57fa\u790e\u6982\u5ff5\u3002\u4e00\u4e2a\u51fd\u6570\u5728\u67d0\u4e00\u70b9\u7684\u5bfc\u6570\u63cf\u8ff0\u4e86\u8fd9\u4e2a\u51fd\u6570\u5728\u8fd9\u4e00\u70b9\u9644\u8fd1\u7684\u53d8\u5316\u7387\u3002\u5bfc\u6570\u7684\u672c\u8d28\u662f\u901a\u8fc7\u6781\u9650\u7684\u6982\u5ff5\u5bf9\u51fd\u6570\u8fdb\u884c\u5c40\u90e8\u7684\u7ebf\u6027\u903c\u8fd1\u3002\u5f53\u51fd\u6570 \u7684\u81ea\u53d8\u91cf\u5728\u4e00\u70b9 \u4e0a\u4ea7\u751f\u4e00\u4e2a\u589e\u91cf \u65f6\uff0c\u51fd\u6578\u8f93\u51fa\u503c\u7684\u589e\u91cf\u8207\u81ea\u8b8a\u91cf\u589e\u91cf \u7684\u6bd4\u503c\u5728 \u8d8b\u4e8e0\u65f6\u7684\u6975\u9650\u5982\u679c\u5b58\u5728\uff0c\u5373\u70ba \u5728 \u5904\u7684\u5bfc\u6570\uff0c\u8bb0\u4f5c \u3001 \u6216 \u3002\u4f8b\u5982\u5728\u8fd0\u52a8\u5b66\u4e2d\uff0c\u7269\u4f53\u7684\u4f4d\u79fb\u5bf9\u4e8e\u65f6\u95f4\u7684\u5bfc\u6570\u5c31\u662f\u7269\u4f53\u7684\u77ac\u65f6\u901f\u5ea6\u3002 \u5bfc\u6570\u662f\u51fd\u6570\u7684\u5c40\u90e8\u6027\u8d28\u3002\u4e0d\u662f\u6240\u6709\u7684\u51fd\u6570\u90fd\u6709\u5bfc\u6570\uff0c\u4e00\u4e2a\u51fd\u6570\u4e5f\u4e0d\u4e00\u5b9a\u5728\u6240\u6709\u7684\u70b9\u4e0a\u90fd\u6709\u5bfc\u6570\u3002\u82e5\u67d0\u51fd\u6570\u5728\u67d0\u4e00\u70b9\u5bfc\u6570\u5b58\u5728\uff0c\u5219\u79f0\u5176\u5728\u8fd9\u4e00\u70b9\u53ef\u5bfc\uff0c\u5426\u5219\u79f0\u4e3a\u4e0d\u53ef\u5bfc\u3002\u5982\u679c\u51fd\u6570\u7684\u81ea\u53d8\u91cf\u548c\u53d6\u503c\u90fd\u662f\u5b9e\u6570\u7684\u8bdd\uff0c\u90a3\u4e48\u51fd\u6570\u5728\u67d0\u4e00\u70b9\u7684\u5bfc\u6570\u5c31\u662f\u8be5\u51fd\u6570\u6240\u4ee3\u8868\u7684\u66f2\u7ebf\u5728\u9019\u4e00\u70b9\u4e0a\u7684\u5207\u7ebf\u659c\u7387\u3002 \u5bf9\u4e8e\u53ef\u5bfc\u7684\u51fd\u6570 \uff0c \u4e5f\u662f\u4e00\u4e2a\u51fd\u6570\uff0c\u79f0\u4f5c \u7684\u5bfc\u51fd\u6570\u3002\u5bfb\u627e\u5df2\u77e5\u7684\u51fd\u6570\u5728\u67d0\u70b9\u7684\u5bfc\u6570\u6216\u5176\u5bfc\u51fd\u6570\u7684\u8fc7\u7a0b\u79f0\u4e3a\u6c42\u5bfc\u3002\u53cd\u4e4b\uff0c\u5df2\u77e5\u5bfc\u51fd\u6570\u4e5f\u53ef\u4ee5\u5012\u8fc7\u6765\u6c42\u539f\u6765\u7684\u51fd\u6570\uff0c\u5373\u4e0d\u5b9a\u79ef\u5206\u3002\u5fae\u79ef\u5206\u57fa\u672c\u5b9a\u7406\u8bf4\u660e\u4e86\u6c42\u539f\u51fd\u6570\u4e0e\u79ef\u5206\u662f\u7b49\u4ef7\u7684\u3002\u6c42\u5bfc\u548c\u79ef\u5206\u662f\u4e00\u5bf9\u4e92\u9006\u7684\u64cd\u4f5c\uff0c\u5b83\u4eec\u90fd\u662f\u5fae\u79ef\u5206\u5b66\u4e2d\u6700\u4e3a\u57fa\u7840\u7684\u6982\u5ff5\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "No c\u00e1lculo, a derivada em um ponto de uma fun\u00e7\u00e3o representa a taxa de varia\u00e7\u00e3o instant\u00e2nea de em rela\u00e7\u00e3o a neste ponto. Um exemplo t\u00edpico \u00e9 a fun\u00e7\u00e3o velocidade que representa a taxa de varia\u00e7\u00e3o (derivada) da fun\u00e7\u00e3o espa\u00e7o. Do mesmo modo a fun\u00e7\u00e3o acelera\u00e7\u00e3o \u00e9 a derivada da fun\u00e7\u00e3o velocidade. Geometricamente, a derivada no ponto de representa a inclina\u00e7\u00e3o da reta tangente ao gr\u00e1fico desta fun\u00e7\u00e3o no ponto . A fun\u00e7\u00e3o que a cada ponto associa a derivada neste ponto de \u00e9 chamada de fun\u00e7\u00e3o derivada de f(x).",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vector_calculus"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u5fae\u5206"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Derivative_(mathematics)"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.026k0"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Derivace"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Turunan"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Derivata"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/D\u00e9riv\u00e9e"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ubbf8\ubd84"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a0\u03b1\u03c1\u03ac\u03b3\u03c9\u03b3\u03bf\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Derivada"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q29175"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q29175"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Derivada"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Deribatu"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Afgeleide"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Pochodna"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Mathematical_analysis"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Linear_operators_in_calculus"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Functions_and_mappings"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Rates"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Differential_calculus"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Tangent_to_a_curve.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Derivative"
+            }
+        ],
+        "http://dbpedia.org/property/others": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Derivative?oldid=742265379"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.textbooksonline.tn.nic.in/Books/11/Std11-Maths-EM-2.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://ocw.mit.edu/ans7870/resources/Strang/strangtext.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.its.caltech.edu/~sean/book/unabridged.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://homepage.math.uiowa.edu/~stroyan/Site/Infinitesimals.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wolframalpha.com/calculators/derivative-calculator/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.understandingcalculus.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.math.wisc.edu/~keisler/calc.html"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.khanacademy.org/math/differential-calculus/taking-derivatives/intro_differential_calc/v/newton-leibniz-and-usain-bolt"
+            },
+            {
+                "type": "uri",
+                "value": "http://synechism.org/drupal/de2de/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.lightandmatter.com/calc/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.math.umn.edu/~garrett/calculus/"
+            },
+            {
+                "type": "uri",
+                "value": "http://en.wikibooks.org/wiki/Calculus"
+            }
+        ],
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "literal",
+                "value": "Figure 3. The tangent line as limit of secants",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Figure 1. The tangent line at",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Figure 4. Animated illustration: the tangent line  as the limit of secants",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Figure 2. The secant to curve y= f determined by points  and",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/align": [
+            {
+                "type": "literal",
+                "value": "right",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/id": [
+            {
+                "type": "literal",
+                "value": "Derivative",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "p/d031260",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/image": [
+            {
+                "type": "literal",
+                "value": "Tangent-calculus.svg",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Lim-secant.svg",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Secant-calculus.svg",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Derivative GIF.gif",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/label": [
+            {
+                "type": "literal",
+                "value": "Derivative",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/onlinebooks": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/header": [
+            {
+                "type": "literal",
+                "value": "Rate of change as a limit value",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "En matem\u00e1tica, la derivada de una funci\u00f3n mide la rapidez con la que cambia el valor de dicha funci\u00f3n matem\u00e1tica, seg\u00fan cambie el valor de su variable independiente. La derivada de una funci\u00f3n es un concepto local, es decir, se calcula como el l\u00edmite de la rapidez de cambio media de la funci\u00f3n en un cierto intervalo, cuando el intervalo considerado para la variable independiente se torna cada vez m\u00e1s peque\u00f1o. Por ello se habla del valor de la derivada de una cierta funci\u00f3n en un punto dado. Un ejemplo habitual aparece al estudiar el movimiento: si una funci\u00f3n representa la posici\u00f3n de un objeto con respecto al tiempo, su derivada es la velocidad de dicho objeto. Un avi\u00f3n que realice un vuelo transatl\u00e1ntico de 4500 km entre las 12:00 y las 18:00, viaja a una velocidad media de 750 km/h. Sin embargo, puede estar viajando a velocidades mayores o menores en distintos tramos de la ruta. En particular, si entre las 15:00 y las 15:30 recorre 400 km, su velocidad media en ese tramo es de 800 km/h. Para conocer su velocidad instant\u00e1nea a las 15:20, por ejemplo, es necesario calcular la velocidad media en intervalos de tiempo cada vez menores alrededor de esta hora: entre las 15:15 y las 15:25, entre las 15:19 y las 15:21. Entonces el valor de la derivada de una funci\u00f3n en un punto puede interpretarse geom\u00e9tricamente, ya que se corresponde con la pendiente de la recta tangente a la gr\u00e1fica de la funci\u00f3n en dicho punto. La recta tangente es a su vez la gr\u00e1fica de la mejor aproximaci\u00f3n lineal de la funci\u00f3n alrededor de dicho punto. La noci\u00f3n de derivada puede generalizarse para el caso de funciones de m\u00e1s de una variable con la derivada parcial y el diferencial.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u5bfc\u6570\uff08\u82f1\u8bed\uff1aDerivative\uff09\u662f\u5fae\u79ef\u5206\u5b66\u4e2d\u91cd\u8981\u7684\u57fa\u790e\u6982\u5ff5\u3002\u4e00\u4e2a\u51fd\u6570\u5728\u67d0\u4e00\u70b9\u7684\u5bfc\u6570\u63cf\u8ff0\u4e86\u8fd9\u4e2a\u51fd\u6570\u5728\u8fd9\u4e00\u70b9\u9644\u8fd1\u7684\u53d8\u5316\u7387\u3002\u5bfc\u6570\u7684\u672c\u8d28\u662f\u901a\u8fc7\u6781\u9650\u7684\u6982\u5ff5\u5bf9\u51fd\u6570\u8fdb\u884c\u5c40\u90e8\u7684\u7ebf\u6027\u903c\u8fd1\u3002\u5f53\u51fd\u6570 \u7684\u81ea\u53d8\u91cf\u5728\u4e00\u70b9 \u4e0a\u4ea7\u751f\u4e00\u4e2a\u589e\u91cf \u65f6\uff0c\u51fd\u6578\u8f93\u51fa\u503c\u7684\u589e\u91cf\u8207\u81ea\u8b8a\u91cf\u589e\u91cf \u7684\u6bd4\u503c\u5728 \u8d8b\u4e8e0\u65f6\u7684\u6975\u9650\u5982\u679c\u5b58\u5728\uff0c\u5373\u70ba \u5728 \u5904\u7684\u5bfc\u6570\uff0c\u8bb0\u4f5c \u3001 \u6216 \u3002\u4f8b\u5982\u5728\u8fd0\u52a8\u5b66\u4e2d\uff0c\u7269\u4f53\u7684\u4f4d\u79fb\u5bf9\u4e8e\u65f6\u95f4\u7684\u5bfc\u6570\u5c31\u662f\u7269\u4f53\u7684\u77ac\u65f6\u901f\u5ea6\u3002 \u5bfc\u6570\u662f\u51fd\u6570\u7684\u5c40\u90e8\u6027\u8d28\u3002\u4e0d\u662f\u6240\u6709\u7684\u51fd\u6570\u90fd\u6709\u5bfc\u6570\uff0c\u4e00\u4e2a\u51fd\u6570\u4e5f\u4e0d\u4e00\u5b9a\u5728\u6240\u6709\u7684\u70b9\u4e0a\u90fd\u6709\u5bfc\u6570\u3002\u82e5\u67d0\u51fd\u6570\u5728\u67d0\u4e00\u70b9\u5bfc\u6570\u5b58\u5728\uff0c\u5219\u79f0\u5176\u5728\u8fd9\u4e00\u70b9\u53ef\u5bfc\uff0c\u5426\u5219\u79f0\u4e3a\u4e0d\u53ef\u5bfc\u3002\u5982\u679c\u51fd\u6570\u7684\u81ea\u53d8\u91cf\u548c\u53d6\u503c\u90fd\u662f\u5b9e\u6570\u7684\u8bdd\uff0c\u90a3\u4e48\u51fd\u6570\u5728\u67d0\u4e00\u70b9\u7684\u5bfc\u6570\u5c31\u662f\u8be5\u51fd\u6570\u6240\u4ee3\u8868\u7684\u66f2\u7ebf\u5728\u9019\u4e00\u70b9\u4e0a\u7684\u5207\u7ebf\u659c\u7387\u3002 \u5bf9\u4e8e\u53ef\u5bfc\u7684\u51fd\u6570 \uff0c \u4e5f\u662f\u4e00\u4e2a\u51fd\u6570\uff0c\u79f0\u4f5c \u7684\u5bfc\u51fd\u6570\u3002\u5bfb\u627e\u5df2\u77e5\u7684\u51fd\u6570\u5728\u67d0\u70b9\u7684\u5bfc\u6570\u6216\u5176\u5bfc\u51fd\u6570\u7684\u8fc7\u7a0b\u79f0\u4e3a\u6c42\u5bfc\u3002\u53cd\u4e4b\uff0c\u5df2\u77e5\u5bfc\u51fd\u6570\u4e5f\u53ef\u4ee5\u5012\u8fc7\u6765\u6c42\u539f\u6765\u7684\u51fd\u6570\uff0c\u5373\u4e0d\u5b9a\u79ef\u5206\u3002\u5fae\u79ef\u5206\u57fa\u672c\u5b9a\u7406\u8bf4\u660e\u4e86\u6c42\u539f\u51fd\u6570\u4e0e\u79ef\u5206\u662f\u7b49\u4ef7\u7684\u3002\u6c42\u5bfc\u548c\u79ef\u5206\u662f\u4e00\u5bf9\u4e92\u9006\u7684\u64cd\u4f5c\uff0c\u5b83\u4eec\u90fd\u662f\u5fae\u79ef\u5206\u5b66\u4e2d\u6700\u4e3a\u57fa\u7840\u7684\u6982\u5ff5\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "In matematica, la derivata \u00e8 la misura di quanto la crescita di una funzione cambi al variare del suo argomento. La derivata di una funzione \u00e8 una grandezza puntuale, cio\u00e8 si calcola punto per punto. Nel caso di funzioni a una variabile nel campo reale, essa \u00e8 la pendenza della tangente al grafico della funzione in quel punto e ne rappresenta la migliore approssimazione lineare. Nel caso in cui la derivata esista (cio\u00e8 la funzione sia derivabile) in ogni punto del dominio, la si pu\u00f2 vedere a sua volta come una funzione che associa a ogni punto proprio la derivata in quel punto. Il concetto di derivata \u00e8, insieme a quello di integrale, uno dei cardini dell'analisi matematica e del calcolo infinitesimale. Il significato pratico di derivata \u00e8 il tasso di variazione di una certa grandezza presa in considerazione. Un esempio molto noto di derivata \u00e8 la variazione della posizione di un oggetto rispetto al tempo, chiamata velocit\u00e0 istantanea.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0301\u0434\u043d\u0430\u044f (\u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0432 \u0442\u043e\u0447\u043a\u0435) \u2014 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u0434\u0438\u0444\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0438\u0441\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f, \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u044e\u0449\u0435\u0435 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0444\u0443\u043d\u043a\u0446\u0438\u0438 (\u0432 \u0434\u0430\u043d\u043d\u043e\u0439 \u0442\u043e\u0447\u043a\u0435). \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u043f\u0440\u0435\u0434\u0435\u043b \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u043f\u0440\u0438\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u043a \u043f\u0440\u0438\u0440\u0430\u0449\u0435\u043d\u0438\u044e \u0435\u0451 \u0430\u0440\u0433\u0443\u043c\u0435\u043d\u0442\u0430 \u043f\u0440\u0438 \u0441\u0442\u0440\u0435\u043c\u043b\u0435\u043d\u0438\u0438 \u043f\u0440\u0438\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0430\u0440\u0433\u0443\u043c\u0435\u043d\u0442\u0430 \u043a \u043d\u0443\u043b\u044e, \u0435\u0441\u043b\u0438 \u0442\u0430\u043a\u043e\u0439 \u043f\u0440\u0435\u0434\u0435\u043b \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442. \u0424\u0443\u043d\u043a\u0446\u0438\u044e, \u0438\u043c\u0435\u044e\u0449\u0443\u044e \u043a\u043e\u043d\u0435\u0447\u043d\u0443\u044e \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u043d\u0443\u044e (\u0432 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0442\u043e\u0447\u043a\u0435), \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u0434\u0438\u0444\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0440\u0443\u0435\u043c\u043e\u0439 (\u0432 \u0434\u0430\u043d\u043d\u043e\u0439 \u0442\u043e\u0447\u043a\u0435). \u041f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u043d\u043e\u0439 \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0434\u0438\u0444\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0301\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u043c.\u041e\u0431\u0440\u0430\u0442\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u2014 \u043d\u0430\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u043f\u0435\u0440\u0432\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u043e\u0439 \u2014 \u0438\u043d\u0442\u0435\u0433\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "En analyse, le nombre d\u00e9riv\u00e9 en un \u00ab point \u00bb (r\u00e9el) x d'une fonction f \u00e0 variable et valeurs r\u00e9elles est le coefficient directeur de la tangente au graphe de f au point (x, f(x)). C'est le coefficient directeur de l'approximation affine de f en x ; ce nombre n'est donc d\u00e9fini que si cette tangente \u2014 ou cette approximation \u2014 existe. La d\u00e9riv\u00e9e d'une fonction f est une fonction qui, \u00e0 tout nombre pour lequel f admet un nombre d\u00e9riv\u00e9, associe ce nombre d\u00e9riv\u00e9. La d\u00e9riv\u00e9e en un point d'une fonction de plusieurs variables r\u00e9elles, ou \u00e0 valeurs vectorielles (en), est plus couramment appel\u00e9e diff\u00e9rentielle de la fonction en ce point, et n'est pas trait\u00e9e ici. La notion de nombre d\u00e9riv\u00e9 a vu le jour au XVIIe si\u00e8cle dans les \u00e9crits de Leibniz et de Newton qui le nomme fluxion et qui le d\u00e9finit comme \u00ab le quotient ultime de deux accroissements \u00e9vanescents \u00bb. La d\u00e9riv\u00e9e de la fonction est not\u00e9e en math\u00e9matiques ou . On utilise aussi des notations sp\u00e9cifiques (surtout en physique) pour d\u00e9signer la d\u00e9riv\u00e9e par rapport au temps qui s'\u00e9crit avec un point surmontant la lettre (), la d\u00e9riv\u00e9e seconde s'\u00e9crivant alors gr\u00e2ce \u00e0 un tr\u00e9ma surmontant la lettre. Cette notation est appel\u00e9e \u00ab notation de Newton \u00bb. On utilise dans le m\u00eame esprit, les notations prime et seconde pour noter la d\u00e9riv\u00e9e par rapport \u00e0 l'espace. La notion de d\u00e9riv\u00e9e est une notion fondamentale en analyse. Elle permet d'\u00e9tudier les variations d'une fonction, de construire des tangentes \u00e0 une courbe et de r\u00e9soudre des probl\u00e8mes d'optimisation. En sciences, lorsqu'une grandeur est fonction du temps, la d\u00e9riv\u00e9e de cette grandeur donne la vitesse instantan\u00e9e de variation de cette grandeur, et la d\u00e9riv\u00e9e de la d\u00e9riv\u00e9e donne l'acc\u00e9l\u00e9ration. Par exemple, la vitesse instantan\u00e9e d'un mobile est la valeur \u00e0 cet instant de la d\u00e9riv\u00e9e de sa position par rapport au temps, et son acc\u00e9l\u00e9ration est la valeur \u00e0 cet instant de la d\u00e9riv\u00e9e par rapport au temps, de sa vitesse. On g\u00e9n\u00e9ralise la notion de d\u00e9riv\u00e9e en \u00e9tendant celle-ci au champ complexe et on parle alors de d\u00e9riv\u00e9e complexe. Pour une fonction de plusieurs variables r\u00e9elles, on parle de la d\u00e9riv\u00e9e partielle par rapport \u00e0 l'une de ses variables. Il existe aussi une d\u00e9finition purement alg\u00e9brique de la d\u00e9riv\u00e9e. On en trouve un exemple dans l'article polyn\u00f4me formel.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u6570\u5b66\u306b\u304a\u3051\u308b\u5b9f\u5909\u6570\u51fd\u6570\u306e\u5fae\u5206\uff08\u3073\u3076\u3093\uff09\u3001\u5fae\u5206\u4fc2\u6570\u3001\u5fae\u5206\u5546\u307e\u305f\u306f\u5c0e\u51fd\u6570\uff08\u3069\u3046\u304b\u3093\u3059\u3046\u3001\u82f1: derivative\uff09\u306f\u3001\u5225\u306e\u91cf\uff08\u72ec\u7acb\u5909\u6570\uff09\u306b\u4f9d\u5b58\u3057\u3066\u6c7a\u307e\u308b\u3042\u308b\u91cf\uff08\u51fd\u6570\u306e\u5024\u3042\u308b\u3044\u306f\u5f93\u5c5e\u5909\u6570\uff09\u306e\u5909\u5316\u306e\u611f\u5ea6\u3092\u6e2c\u308b\u3082\u306e\u3067\u3042\u308b\u3002\u5fae\u5206\u306f\u5fae\u5206\u7a4d\u5206\u5b66\u306e\u57fa\u672c\u7684\u306a\u9053\u5177\u3067\u3042\u308b\u3002\u4f8b\u3048\u3070\u3001\u52d5\u304f\u7269\u4f53\u306e\u4f4d\u7f6e\u306e\u6642\u9593\u306b\u95a2\u3059\u308b\u5c0e\u51fd\u6570\u306f\u305d\u306e\u7269\u4f53\u306e\u901f\u5ea6\u3067\u3042\u308a\u3001\u3053\u308c\u306f\u6642\u9593\u304c\u9032\u3093\u3060\u3068\u304d\u305d\u306e\u7269\u4f53\u306e\u4f4d\u7f6e\u304c\u3069\u308c\u307b\u3069\u65e9\u304f\u5909\u308f\u308b\u304b\u3092\u6e2c\u308b\u3002 \u4e00\u5909\u6570\u51fd\u6570\u306e\u9069\u5f53\u306b\u9078\u3093\u3060\u5165\u529b\u5024\u306b\u304a\u3051\u308b\u5fae\u5206\u4fc2\u6570\u306f\u3001\u305d\u306e\u70b9\u306b\u304a\u3051\u308b\u51fd\u6570\u306e\u30b0\u30e9\u30d5\u306e\u63a5\u7dda\u306e\u50be\u304d\u3067\u3042\u308b\u3002\u3053\u308c\u306f\u5c0e\u51fd\u6570\u304c\u305d\u306e\u5165\u529b\u5024\u306e\u8fd1\u304f\u3067\u305d\u306e\u51fd\u6570\u306e\u6700\u9069\u7dda\u578b\u8fd1\u4f3c\u3092\u8a18\u8ff0\u3059\u308b\u3082\u306e\u3067\u3042\u308b\u3053\u3068\u3092\u610f\u5473\u3059\u308b\u3002\u305d\u306e\u3088\u3046\u306a\u7406\u7531\u3067\u3001\u5fae\u5206\u4fc2\u6570\u306f\u3057\u3070\u3057\u3070\u300c\u77ac\u9593\u306e\u5909\u5316\u7387\u300d\u3068\u3057\u3066\u8a18\u8ff0\u3055\u308c\u308b\u3002\u77ac\u9593\u306e\u5909\u5316\u7387\u306f\u72ec\u7acb\u5909\u6570\u306b\u4f9d\u5b58\u3059\u308b\u5f93\u5c5e\u5909\u6570\u3067\u3042\u308b\u3002 \u5fae\u5206\u306f\u5b9f\u591a\u5909\u6570\u51fd\u6570\u306b\u3082\u62e1\u5f35\u3067\u304d\u308b\u3002\u3053\u306e\u4e00\u822c\u5316\u306b\u304a\u3044\u3066\u3001\u5c0e\u51fd\u6570\u306f\u305d\u306e\u30b0\u30e9\u30d5\u304c\uff08\u9069\u5f53\u306a\u5909\u63db\u306e\u5f8c\uff09\u3082\u3068\u306e\u51fd\u6570\u306e\u30b0\u30e9\u30d5\u3092\u6700\u9069\u7dda\u578b\u8fd1\u4f3c\u3059\u308b\u7dda\u578b\u5909\u63db\u3068\u89e3\u91c8\u3057\u306a\u304a\u3055\u308c\u308b\u3002\u30e4\u30b3\u30d3\u884c\u5217\u306f\u3053\u306e\u7dda\u578b\u5909\u63db\u3092\u72ec\u7acb\u304a\u3088\u3073\u5f93\u5c5e\u5909\u6570\u3092\u9078\u3076\u3053\u3068\u3067\u4e0e\u3048\u3089\u308c\u308b\u57fa\u5e95\u306b\u95a2\u3057\u3066\u8868\u73fe\u3059\u308b\u884c\u5217\u3067\u3042\u308a\u3001\u72ec\u7acb\u5909\u6570\u306b\u95a2\u3059\u308b\u504f\u5fae\u5206\u3092\u7528\u3044\u3066\u8a08\u7b97\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u591a\u5909\u6570\u5b9f\u6570\u5024\u51fd\u6570\u306b\u5bfe\u3057\u3066\u3001\u30e4\u30b3\u30d3\u884c\u5217\u306f\u52fe\u914d\u306b\u7c21\u7d04\u3055\u308c\u308b\u3002 \u5c0e\u51fd\u6570\u3092\u6c42\u3081\u308b\u904e\u7a0b\u3092\u5fae\u5206\u3042\u308b\u3044\u306f\u5fae\u5206\u6cd5\u3001\u5fae\u5206\u6f14\u7b97 (differentiation) \u3068\u8a00\u3044\u3001\u305d\u306e\u9006\u306e\u904e\u7a0b\uff08\u539f\u59cb\u51fd\u6570\u3092\u6c42\u3081\u308b\u3053\u3068\uff09\u3092\u53cd\u5fae\u5206\u3068\u3044\u3046\u3002\u5fae\u5206\u7a4d\u5206\u5b66\u306e\u57fa\u672c\u5b9a\u7406\u306f\u53cd\u5fae\u5206\u304c\u7a4d\u5206\u3068\u540c\u3058\u3067\u3042\u308b\u3053\u3068\u3092\u4e3b\u5f35\u3059\u308b\u3002\u4e00\u5909\u6570\u306e\u5fae\u5206\u7a4d\u5206\u5b66\u306b\u304a\u3044\u3066\u5fae\u5206\u3068\u7a4d\u5206\u306f\u57fa\u672c\u7684\u306a\u64cd\u4f5c\u306e\u4e8c\u672c\u67f1\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "In de wiskunde is de afgeleide (het differentiaalquoti\u00ebnt) een maat voor de verandering die een functie ondergaat als de argumenten van deze functie een infinitesimaal kleine verandering ondergaan. In een functie met \u00e9\u00e9n re\u00eble variabele wordt de afgeleide in een punt gegeven door de helling van de raaklijn aan de grafiek van deze functie in dat punt. Het woord afgeleide is hier in feite een afgekorte term voor het begrip afgeleide waarde. Het is een waarde die afgeleid is van de oorspronkelijke functie. Het bepalen van de afgeleide van een functie heet differenti\u00ebren. Als de afgeleide van een functie f gedefinieerd is voor alle punten in het domein van f, wordt de daardoor bepaalde functie de afgeleide functie of kortweg de afgeleide genoemd. Het concept van de afgeleide van een functie werd in de 17e eeuw vrijwel tegelijkertijd door Isaac Newton en Gottfried Leibniz uitgevonden.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0627\u0644\u0639\u062f\u062f \u0627\u0644\u0645\u064f\u0634\u062a\u064e\u0642\u0651 \u0641\u064a \u0646\u0642\u0637\u0629\u060c \u0639\u0644\u0649 \u0631\u0633\u0645 \u0628\u064a\u0627\u0646\u064a \u0644\u062f\u0627\u0644\u0629 \u0630\u0627\u062a \u0645\u062a\u063a\u064a\u0631\u0627\u062a \u0648\u0642\u064a\u0645 \u062d\u0642\u064a\u0642\u064a\u0629\u060c \u0647\u0648 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0645\u0645\u0627\u0633 \u0627\u0644\u0645\u0648\u062c\u0650\u0651\u0647\u064f.\u064a\u0639\u0628\u0631 \u0627\u0644\u062a\u0641\u0627\u0636\u0644 \u0639\u0646 \u0627\u0644\u0645\u0639\u062f\u0644 \u0627\u0644\u0630\u064a \u062a\u062a\u063a\u064a\u0631 \u0628\u0647 \u0642\u064a\u0645\u0629 y \u0646\u062a\u064a\u062c\u0629 \u062a\u063a\u064a\u0631 \u0642\u064a\u0645\u0629 x \u062a\u0648\u062c\u062f \u0628\u064a\u0646\u0647\u0645\u0627 \u0639\u0644\u0627\u0642\u0629 \u0631\u064a\u0627\u0636\u064a\u0629 \u0623\u0648 \u062f\u0627\u0644\u0629 \u0631\u064a\u0627\u0636\u064a\u0629. \u0648\u062a\u0639\u0631\u0641 \u0627\u0644\u062f\u0627\u0644\u0629 \u0627\u0644\u0645\u0634\u062a\u0642\u0629 \u0628\u0623\u0646\u0647\u0627 \u0645\u064a\u0644 \u0627\u0644\u0645\u0645\u0627\u0633 \u0644\u0645\u0646\u062d\u0646\u0649 {f(x \u0639\u0646\u062f \u0623\u064a \u0646\u0642\u0637\u0629 \u0628\u0634\u0631\u0637 \u0648\u062c\u0648\u062f \u0647\u0630\u0647 \u0627\u0644\u0645\u0634\u062a\u0642\u0629 \u0623\u0648 \u0647\u064a \u0627\u0644\u0633\u0631\u0639\u0629 \u0627\u0644\u0644\u062d\u0638\u064a\u0629 \u0623\u0648 \u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u063a\u064a\u064a\u0631 \u0627\u0644\u0644\u062d\u0638\u064a \u0644\u0644\u062f\u0627\u0644\u0629.\u0646\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0631\u0645\u0632 \u0394 \u0644\u0644\u062f\u0644\u0627\u0644\u0629 \u0639\u0644\u0649 \u0627\u0644\u062a\u063a\u064a\u0631 \u0641\u064a \u0627\u0644\u0643\u0645\u064a\u0629.\u0648\u064a\u0643\u0648\u0646 \u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u063a\u064a\u0631 \u0647\u0648 \u0646\u0647\u0627\u064a\u0629 \u0646\u0633\u0628\u0629 \u062a\u063a\u064a\u0631 y \u0625\u0644\u0649 \u0646\u0633\u0628\u0629 \u062a\u063a\u064a\u0631 x : \u0639\u0646\u062f\u0645\u0627 \u0394x \u062a\u0642\u0627\u0631\u0628 0. \u064a\u0645\u0643\u0646 \u0623\u0646 \u0646\u0643\u062a\u0628 \u0645\u0634\u062a\u0642 y \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644 x : (\u062a\u0631\u0645\u064a\u0632 \u0644\u0627\u064a\u0628\u0646\u0632) \u0627\u0644\u062a\u0639\u0628\u064a\u0631 \u0627\u0644\u062f\u0642\u064a\u0642 \u0639\u0646 \u0645\u0641\u0647\u0648\u0645 \u0627\u0644\u0627\u0634\u062a\u0642\u0627\u0642 \u064a\u0643\u0648\u0646 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0645\u0642\u0627\u062f\u064a\u0631 \u0644\u0627 \u0645\u062a\u0646\u0627\u0647\u064a\u0629 \u0641\u064a \u0627\u0644\u0635\u063a\u0631:",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "No c\u00e1lculo, a derivada em um ponto de uma fun\u00e7\u00e3o representa a taxa de varia\u00e7\u00e3o instant\u00e2nea de em rela\u00e7\u00e3o a neste ponto. Um exemplo t\u00edpico \u00e9 a fun\u00e7\u00e3o velocidade que representa a taxa de varia\u00e7\u00e3o (derivada) da fun\u00e7\u00e3o espa\u00e7o. Do mesmo modo a fun\u00e7\u00e3o acelera\u00e7\u00e3o \u00e9 a derivada da fun\u00e7\u00e3o velocidade. Geometricamente, a derivada no ponto de representa a inclina\u00e7\u00e3o da reta tangente ao gr\u00e1fico desta fun\u00e7\u00e3o no ponto . A fun\u00e7\u00e3o que a cada ponto associa a derivada neste ponto de \u00e9 chamada de fun\u00e7\u00e3o derivada de f(x).",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Pochodna \u2013 miara szybko\u015bci zmian warto\u015bci funkcji wzgl\u0119dem zmian jej argument\u00f3w.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "The derivative of a function of a real variable measures the sensitivity to change of a quantity (a function value or dependent variable) which is determined by another quantity (the independent variable). Derivatives are a fundamental tool of calculus. For example, the derivative of the position of a moving object with respect to time is the object's velocity: this measures how quickly the position of the object changes when time is advanced. The derivative of a function of a single variable at a chosen input value, when it exists, is the slope of the tangent line to the graph of the function at that point. The tangent line is the best linear approximation of the function near that input value. For this reason, the derivative is often described as the \"instantaneous rate of change\", the ratio of the instantaneous change in the dependent variable to that of the independent variable. Derivatives may be generalized to functions of several real variables. In this generalization, the derivative is reinterpreted as a linear transformation whose graph is (after an appropriate translation) the best linear approximation to the graph of the original function. The Jacobian matrix is the matrix that represents this linear transformation with respect to the basis given by the choice of independent and dependent variables. It can be calculated in terms of the partial derivatives with respect to the independent variables. For a real-valued function of several variables, the Jacobian matrix reduces to the gradient vector. The process of finding a derivative is called differentiation. The reverse process is called antidifferentiation. The fundamental theorem of calculus states that antidifferentiation is the same as integration. Differentiation and integration constitute the two fundamental operations in single-variable calculus.",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Tangent_to_a_curve.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742265379,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 7921,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/about": [
+            {
+                "type": "literal",
+                "value": "yes",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/title": [
+            {
+                "type": "literal",
+                "value": "Derivative",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/width": [
+            {
+                "type": "literal",
+                "value": 250,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/direction": [
+            {
+                "type": "literal",
+                "value": "vertical",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/by": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dimethylglycine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Diazonaphthoquinone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/S-Methylmethionine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2-Chloro-m-cresol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Acefylline_clofibrol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carbubarb": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fluorine_nitrate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N-Methylephedrine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aceturic_acid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cabazitaxel": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cordycepin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hypoglycin_A": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Semicarbazone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fructose_1-phosphate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/25B-NBOMe": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/8-Bromoguanosine_3',5'-cyclic_monophosphate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Acetylcysteinamide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/1-Nonylnaphthalene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/3-Bromocytisine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cornusiin_E": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N-Acetylmescaline": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N-Methyl-L-glutamic_acid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2,8-Dihydroxyadenine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/4-Aminobiphenyl": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chromone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N-Acetylgalactosamine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Palmitoylcarnitine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pyrazolone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dichloroacetamide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethyl_eicosapentaenoic_acid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/12-Hydroxyeicosatetraenoic_acid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/6-O-Methylguanine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/8-Bromoadenosine_3',5'-cyclic_monophosphate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Flavaspidic_acid_BB": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Colforsin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Oxidized_cellulose": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/19-Iodocholesterol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/4-Ethylbenzaldehyde": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Acetoxyacetylaminofluorene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bietaserpine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gallacetophenone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hydroxyacetylaminofluorene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pregnenedione": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Promegestone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lenalidomide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aminocaproic_acid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hematein": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N-Acetylglucosamine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/18-Methoxycoronaridine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N-Formylmethionine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Oxalyl_fluoride": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vinpocetine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Creatine_methyl_ester": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Disufenton_sodium": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Furazabol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hydroxycitric_acid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N-Acetylaspartic_acid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sulbutiamine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/18-Hydroxycorticosterone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/4,5-Dihydroorotic_acid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/4-Piperidinone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Benfotiamine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dimethyl_malonate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mannosamine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/1,1,2,2-Tetrachloroethane": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Iodoacetic_acid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Stearyl_palmityl_tartrate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mono-BOC-cystamine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UWA-101": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mesitylene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N-Phenethyl-4-piperidinone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Paraxanthine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Grape_seed_extract": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Octopine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pregnadiene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Demegestone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Trimegestone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/4-Dimethylaminopyridine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Actinidine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hydroxypropyl_cellulose": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aspartylglucosamine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GTS-21": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kappadione": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Menthoxypropanediol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/8-Oxo-2'-deoxyguanosine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Embraer_Legacy_600": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dibenzoylmethane": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Reaction_Engines_Scimitar": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/5-Bromouracil": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Allysine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Allobarbital": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aprobarbital": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Isodesmosine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Propallylonal": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Reposal": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/THC-O-phosphate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2,4,6-Tribromophenol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2,4-Dichlorophenol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Geiparvarin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N-II_(rocket)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N-I_(rocket)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ergothioneine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jimscaline": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/25I-NBF": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/25TFM-NBOMe": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pregnatriene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Green_tea_extract": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Elton's_quadrant": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pregnene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nestorone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rate_(mathematics)": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Name_of_Romania": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bisthiosemicarbazone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pansu_derivative": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Derivative_(calculus)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Definition_of_the_derivative": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pandinus_imperator_(Pi3)_toxin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jose_C._Ferrer": {
+        "http://dbpedia.org/ontology/raceHorse": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N1-Methyl-lysergic_acid_diethylamide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/D/dx": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Strong_derivative": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instantaneous_rates_of_change": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Derivation_(calculus)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Photobiotin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Decynium-22": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/F'(x)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2nd_derivative": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/FDU-PB-22": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type_2_Ho-I": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Derivied": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lysidine_(chemical)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/DVD-R_DL": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plasma-activated_bonding": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/CryoJet": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Coronaric_acid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thymol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fluorescein_isothiocyanate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Derivitive": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/25B-NBOH": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Canon_EF-M_lens_mount": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Albatros_W.4": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/S-algol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/KN-62": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Derative": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Derivative": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Consolidated_R2Y": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Business-to-government": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Haloprogesterone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LAE-32": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Derivative_(mathematics)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Derivative_(function)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Alternate_definition_of_derivative": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Methylphenylpiracetam": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Consolidated_C-87_Liberator_Express": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Naphthalenesulfonate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dydx": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/18-Methylaminocoronaridine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2-Methoxyethyl-18-methoxycoronaridinate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/L1A1_Self-Loading_Rifle": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pomalidomide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ajulemic_acid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Acetoxyketobemidone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tetrachloro-m-xylene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2CB-Ind": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/3-Hydroxyaspartic_acid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Diethylcarbamazine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Buprenorphine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Valpromide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Brodimoprim": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Desomorphine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Emamectin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tetroxoprim": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sucrose_octaacetate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2-Acetylaminofluorene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/25I-NBMD": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Glucose_1,6-bisphosphate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nitroarginine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Phytanoyl-CoA": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fursultiamine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/PEG-120_Jojoba": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/PEG-80_Jojoba": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/PEG-10_Sunflower_Glycerides": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/PEG-16_macadamia_glycerides": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Butallylonal": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voskhod_(rocket)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/5-Fluoroorotic_acid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fourth_derivative": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Host_card_emulation_plus": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/D_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prussian_P_4": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/NS_Class_400": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Derivative_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fifth_derivative": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Derviative_of_a_function": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Derivative_of_a_function": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/AK-103": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/AK-12": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/British_Rail_MPV": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/General_Dynamics_F-16XL": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Acute_hemorrhagic_conjunctivitis": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Differentiation_(calculus)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Metallacycle": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Higher_derivative": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Derivitives": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nirvanol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2-Bromo-LSD": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Propyphenazone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethyl_cellulose": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fluorenol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lonidamine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bash-n-the-Code": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Everolimus": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tanespimycin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/O6-Benzylguanine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Adelmidrol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/3'-Phosphoadenosine-5'-phosphosulfate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Detomidine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Maytansinoid": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tutin_(toxin)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carnitine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cinnarizine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thialbarbital": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thiamylal": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thiobutabarbital": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/1-Cyclohexylpiperazine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Para-Chloroamphetamine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Enoxolone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Calcipotriol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Debrisoquine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Perfluoro-1,3-dimethylcyclohexane": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Perfluoromethylcyclohexane": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Perfluoromethyldecalin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aminoethylpiperazine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cyclopentobarbital": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/FC-75": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hexethal": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Probarbital": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tropine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Perfluorooctane": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/3,4-Ethylidenedioxyamphetamine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/DiFMDA": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/WMS-2539": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/O-acylpseudotropine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pseudotropine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Differentation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pentacyanocyclopentadiene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fura-2-acetoxymethyl_ester": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethinyl_estradiol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Staircase_voltammetry": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ferrari_F50_GT": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mowag_Spy": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Avro_527": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Twirlin'": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Swap_(finance)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/VHDL-AMS": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Verilog-AMS": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Health_Reimbursement_Account": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nitrosoproline": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jacobi_zeta_function": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/18,19-Dehydrobuprenorphine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mallotochromene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/25P-NBOMe": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/25N-NBOMe": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thevinone": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electrohomeopathy": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Klezmer-loshn": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/1-Bromoadamantane": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biker_Cross": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cone_tracing": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Masters_Rugby_League": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/New_flamenco": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rocball": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Albatros_Dr.I": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Erin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Siacci's_theorem": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Club_420": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Beechcraft_CT-134_Musketeer": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Local_Mail_Transfer_Protocol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bell_Boeing_Quad_TiltRotor": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bristol_Biplane_Type_'T'": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tetrabromoethylene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/JIS_X_0211": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cephaloridine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Second-order_derivative_expression": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dehydroretinal": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hot_hatch": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Junkers_Ju_46": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ford_Escort_RS_Cosworth": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/PAC_Cresco": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/AEA_Silver_Dart": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/25I-NB34MD": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prime_notation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cyclooctatetraene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Open_conference": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Deriviative": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Arugosin_C": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Latin_ballad": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gobuntu": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Edubuntu": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/VW_276_Schlepperfahrzeug": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Canon_EF-S_lens_mount": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Interest_rate_cap_and_floor": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Maliakal": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Deoxyadenosine_monophosphate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Deoxyguanosine_monophosphate": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/First_derivative": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/25D-NBOMe": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/6-Chloro-MDMA": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/M1947_Johnson_auto_carbine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pepper_jack_cheese": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pratt_&_Whitney_PW1120": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nitromemantine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bennet_Alphonso": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Danazol": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Parametric_derivative": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Differentiation_(mathematics)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Naphthalocyanine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dy_dx": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/First-order_derivative_expression": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LSM-775": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/25C-NBOH": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LPD-824": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2-Bromomescaline": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2C-B-BUTTERFLY": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Trifluoromescaline": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UWA-001": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/25I-NBOH": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nonmetricity_tensor": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/L-Photo-Leucine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/4-Phenylfentanyl": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rugby_league_sevens": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Order_of_derivation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Interest_rate_future": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Variance_swap": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Basket_option": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Correlation_swap": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Differentiabillity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ordinary_derivative": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instantaneous_rate_of_change": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Quinaldine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Brunfelsamidine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aesculetin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dimethyllysergamide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2-Chlorostyrene": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instantaneous_velocities": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/25E-NBOMe": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/25CN-NBOMe": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/DVD_R_DL": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Derivative"
+            }
+        ]
+    }
+}

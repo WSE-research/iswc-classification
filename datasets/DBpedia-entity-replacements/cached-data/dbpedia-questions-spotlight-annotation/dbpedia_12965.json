@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the {follows} for {Lothair I} which has {noble title} as {monarch of Italy} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Lothair_I",
+            "@support": "492",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q116,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Monarch,DBpedia:Agent",
+            "@surfaceForm": "Lothair I",
+            "@offset": "26",
+            "@similarityScore": "0.999999999003137",
+            "@percentageOfSecondRank": "9.96834613101871E-10"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Italy",
+            "@support": "150965",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Italy",
+            "@offset": "76",
+            "@similarityScore": "0.9976369112468592",
+            "@percentageOfSecondRank": "0.0013303698870729445"
+        }
+    ]
+}

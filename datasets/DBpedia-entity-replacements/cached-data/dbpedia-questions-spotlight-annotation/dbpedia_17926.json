@@ -1,0 +1,37 @@
+{
+    "@text": "Which is {tributary} of {on harbour} of {Rodrigues} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Tributary",
+            "@support": "17917",
+            "@types": "",
+            "@surfaceForm": "tributary",
+            "@offset": "10",
+            "@similarityScore": "0.9999715349455444",
+            "@percentageOfSecondRank": "1.4980482730057571E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Harbor",
+            "@support": "3353",
+            "@types": "",
+            "@surfaceForm": "harbour",
+            "@offset": "28",
+            "@similarityScore": "0.9912232358227857",
+            "@percentageOfSecondRank": "0.0071525986098110155"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rodrigues",
+            "@support": "1218",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Rodrigues",
+            "@offset": "41",
+            "@similarityScore": "0.9999914553026612",
+            "@percentageOfSecondRank": "8.269980279141469E-6"
+        }
+    ]
+}

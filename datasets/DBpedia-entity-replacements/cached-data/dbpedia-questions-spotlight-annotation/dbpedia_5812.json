@@ -1,0 +1,37 @@
+{
+    "@text": "Is it true Tsunami has cause landslide and Little Boy ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Tsunami",
+            "@support": "4922",
+            "@types": "",
+            "@surfaceForm": "Tsunami",
+            "@offset": "11",
+            "@similarityScore": "0.9989485509139886",
+            "@percentageOfSecondRank": "0.001037625982670917"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Landslide",
+            "@support": "2465",
+            "@types": "",
+            "@surfaceForm": "landslide",
+            "@offset": "29",
+            "@similarityScore": "0.9998808509721939",
+            "@percentageOfSecondRank": "1.1622227439632715E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Little_Boy",
+            "@support": "546",
+            "@types": "Wikidata:Q728,Schema:Product,DBpedia:Weapon,DBpedia:Device",
+            "@surfaceForm": "Little Boy",
+            "@offset": "43",
+            "@similarityScore": "0.9999872091245043",
+            "@percentageOfSecondRank": "1.2120009789790536E-5"
+        }
+    ]
+}

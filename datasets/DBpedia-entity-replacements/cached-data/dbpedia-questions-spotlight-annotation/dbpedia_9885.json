@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the canonical SMILES of sucrose?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Simplified_molecular-input_line-entry_system",
+            "@support": "97",
+            "@types": "",
+            "@surfaceForm": "SMILES",
+            "@offset": "23",
+            "@similarityScore": "0.9999989566564451",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sucrose",
+            "@support": "1699",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "sucrose",
+            "@offset": "33",
+            "@similarityScore": "0.9999454313631387",
+            "@percentageOfSecondRank": "5.4358530295928246E-5"
+        }
+    ]
+}

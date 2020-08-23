@@ -1,0 +1,37 @@
+{
+    "@text": "Is Denver the largest city of Colorado?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Denver",
+            "@support": "20772",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Denver",
+            "@offset": "3",
+            "@similarityScore": "0.999503034851923",
+            "@percentageOfSecondRank": "2.1302970806651785E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "22",
+            "@similarityScore": "0.8763168139090565",
+            "@percentageOfSecondRank": "0.08815063472684265"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Colorado",
+            "@support": "50573",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Colorado",
+            "@offset": "30",
+            "@similarityScore": "0.999469883772351",
+            "@percentageOfSecondRank": "2.3031370891341758E-4"
+        }
+    ]
+}

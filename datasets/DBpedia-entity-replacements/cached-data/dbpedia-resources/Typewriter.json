@@ -1,0 +1,884 @@
+{
+    "http://dbpedia.org/resource/Chinese_typewriter": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Royal_Quiet_Deluxe": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typewriter": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Software"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Maszyna do pisania",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Machine \u00e0 \u00e9crire",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u6253\u5b57\u673a",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u30bf\u30a4\u30d7\u30e9\u30a4\u30bf\u30fc",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Schreibmaschine",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Typewriter",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0622\u0644\u0629 \u0643\u0627\u062a\u0628\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Schrijfmachine",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0438\u0448\u0443\u0449\u0430\u044f \u043c\u0430\u0448\u0438\u043d\u043a\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "M\u00e1quina de escrever",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Macchina per scrivere",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "M\u00e1quina de escribir",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Une machine \u00e0 \u00e9crire est une machine m\u00e9canographique permettant d'\u00e9crire des documents avec des caract\u00e8res imprim\u00e9s. Elle se pr\u00e9sente sous la forme d'un clavier comportant une cinquantaine de touches repr\u00e9sentant les caract\u00e8res qui seront imprim\u00e9s sur le papier. Elle peut \u00eatre portative et l\u00e9g\u00e8re (pour travailler en voyageant), ou de bureau (plus lourde et encombrante).",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Een schrijfmachine (in de volksmond ook typemachine genoemd en vroeger ook wel tikmachine) is een mechanisch schrijfinstrument, meestal voorzien van druktoetsen waarmee schrifttekens op papier gezet kunnen worden. V\u00f3\u00f3r de uitvinding van de schrijfmachine, in de 19e eeuw, werden brieven en ook offici\u00eble documenten met de hand geschreven, vaak door klerken. Sinds de opkomst van de pc, en vooral van de tekstverwerker, is de schrijfmachine vrijwel in onbruik geraakt.De voordelen van de tekstverwerker tegenover de schrijfmachine zijn:",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u6253\u5b57\u673a\u662f\u6253\u5b57\u7684\u673a\u68b0\uff0c\u624b\u52a8\u6216\u7535\u52d5\u3002\u6572\u51fb\u952e\u76d8\u4e00\u4e2a\u6309\u952e\uff0c\u8be5\u6309\u952e\u5bf9\u5e94\u7684\u5b57\u7b26\u4e4b\u5b57\u6a21\u4fbf\u6703\u6253\u51fb\u81f3\u8272\u5e26\u4e0a\uff0c\u4ece\u800c\u5728\u7eb8\u4e0a\u5370\u5236\u51fa\u8be5\u5b57\u7b26\u3002\u6bcf\u6253\u4e00\u5b57\uff0c\u6253\u5b57\u673a\u90fd\u4f1a\u5411\u6253\u5b57\u65b9\u5411\u79fb\u52a8\u4e00\u4e2a\u5b57\u5bbd\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0438\u0301\u0448\u0443\u0449\u0430\u044f \u043c\u0430\u0448\u0438\u0301\u043d\u0430 (\u0432 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043d\u043e\u0439 \u0440\u0435\u0447\u0438 \u043f\u0438\u0301\u0448\u0443\u0449\u0430\u044f \u043c\u0430\u0448\u0438\u0301\u043d\u043a\u0430; \u0432 \u043f\u0440\u043e\u0441\u0442\u043e\u0440\u0435\u0447\u0438\u0438 \u043f\u0435\u0447\u0430\u0301\u0442\u043d\u0430\u044f \u043c\u0430\u0448\u0438\u0301\u043d\u043a\u0430) \u2014 \u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439, \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0438\u043b\u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e-\u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0440\u0438\u0431\u043e\u0440, \u043e\u0441\u043d\u0430\u0449\u0451\u043d\u043d\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u043e\u043c \u043a\u043b\u0430\u0432\u0438\u0448, \u043d\u0430\u0436\u0430\u0442\u0438\u0435 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043f\u0440\u0438\u0432\u043e\u0434\u0438\u0442 \u043a \u043f\u0435\u0447\u0430\u0442\u0438 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u043d\u0430 \u043d\u043e\u0441\u0438\u0442\u0435\u043b\u0435 (\u0432 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0435 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u044d\u0442\u043e \u0431\u0443\u043c\u0430\u0433\u0430). \u0428\u0438\u0440\u043e\u043a\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0430\u0441\u044c \u0432 XIX\u2014XX \u0432\u0435\u043a\u0430\u0445. \u0412 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u043f\u0438\u0448\u0443\u0449\u0438\u0435 \u043c\u0430\u0448\u0438\u043d\u044b \u043f\u043e \u0431\u043e\u043b\u044c\u0448\u0435\u0439 \u0447\u0430\u0441\u0442\u0438 \u0432\u044b\u0448\u043b\u0438 \u0438\u0437 \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u0435\u043d\u0438\u044f, \u0438\u0445 \u0444\u0443\u043d\u043a\u0446\u0438\u044e \u0441\u0442\u0430\u043b\u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u044b, \u0443\u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0442\u0435\u0440\u0430\u043c\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Maszyna do pisania \u2013 urz\u0105dzenie mechaniczne o nap\u0119dzie r\u0119cznym lub elektrycznym, posiadaj\u0105ce klawisze, kt\u00f3re naciskane powoduj\u0105 wydrukowanie metod\u0105 typograficzn\u0105 okre\u015blonych znak\u00f3w na umieszczonym w maszynie pod\u0142o\u017cu drukowym (najcz\u0119\u015bciej papierze). Urz\u0105dzenie mo\u017ce by\u0107 r\u00f3wnie\u017c wspomagane modu\u0142em elektronicznym umo\u017cliwiaj\u0105cym zapami\u0119tywanie wpisywanego tekstu.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u30bf\u30a4\u30d7\u30e9\u30a4\u30bf\u30fc\uff08\u82f1\u8a9e: typewriter\uff09\u3068\u306f\u3001\u6587\u66f8\u3092\u4f5c\u6210\u3059\u308b\u305f\u3081\u306e\u88dc\u52a9\u3068\u3057\u3066\u4f7f\u308f\u308c\u308b\u6a5f\u68b0\u3067\u3042\u308b\u3002 \u6b27\u6587\u7528\u306e\u30bf\u30a4\u30d7\u30e9\u30a4\u30bf\u30fc\u3068\u65e5\u672c\u8a9e\u7528\u306e\u548c\u6587\u30bf\u30a4\u30d7\u30e9\u30a4\u30bf\u30fc\uff08\u548c\u6587\u30bf\u30a4\u30d7\uff09\u3067\u306f\u3001\u69cb\u9020\u304c\u5927\u304d\u304f\u7570\u306a\u308b\u3002 \u624b\u52d5\u5f0f\u3001\u96fb\u52d5\u5f0f\u3001\u96fb\u5b50\u5f0f\u3068\u30bf\u30a4\u30d7\u30e9\u30a4\u30bf\u30fc\u3082\u9032\u6b69\u3057\u305f\u304c\u3001\u6587\u7ae0\u4f5c\u6210\u306e\u305f\u3081\u306e\u6a5f\u68b0\u3068\u3057\u3066\u306f\u30ef\u30fc\u30d7\u30ed\u5c02\u7528\u6a5f\u3001\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u4e0a\u3067\u306e\u30ef\u30fc\u30d7\u30ed\u30bd\u30d5\u30c8\u3078\u3068\u79fb\u884c\u3057\u305f\u3002 \u30bf\u30a4\u30d7\u30e9\u30a4\u30bf\u30fc\u3067\u624b\u66f8\u304d\u6587\u66f8\u306e\u6e05\u66f8\u3084\u53e3\u8ff0\u7b46\u8a18\u3092\u3059\u308b\u62c5\u5f53\u8005\u3092\u30bf\u30a4\u30d4\u30b9\u30c8 (typist) \u3068\u3044\u3044\u3001\u6614\u306f\u5973\u6027\u306e\u4ee3\u8868\u7684\u306a\u8077\u696d\u306e\u4e00\u3064\u3067\u3042\u3063\u305f\u3002\u307e\u305f\u3001\u82f1\u8a9e\u570f\u3067\u306f\u8996\u899a\u969c\u5bb3\u8005\u304c\u6587\u7ae0\u3092\u66f8\u304f\u4e0a\u3067\u5f37\u529b\u306a\u52a9\u3051\u306b\u3082\u306a\u3063\u305f\uff08\u30bf\u30c3\u30c1\u30bf\u30a4\u30d4\u30f3\u30b0\uff09\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La m\u00e1quina de escribir o maquinilla es un dispositivo mec\u00e1nico, electromec\u00e1nico o electr\u00f3nico, con un conjunto de teclas (llamadas tipos) que, al ser presionadas, imprimen caracteres en un documento, normalmente papel. La persona que opera una m\u00e1quina de escribir recibe el nombre de mecan\u00f3grafo. La \u00faltima empresa dedicada a la fabricaci\u00f3n de m\u00e1quinas de escribir, la india Godrej and Boyce, cerr\u00f3 su \u00faltima f\u00e1brica en abril de 2011.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Eine Schreibmaschine ist ein von Hand oder elektromechanisch angetriebenes Ger\u00e4t, das dazu dient, Text mit Drucktypen zu schreiben und haupts\u00e4chlich auf Papier darzustellen. Zur Auswahl und zum Abdruck der Zeichen wird vorrangig eine Tastatur benutzt. Manche fr\u00fchen Modelle hatten jedoch nicht das \u00fcbliche Tastenfeld, sondern einen Zeiger, mit dem der Buchstabe oder die Ziffer vor dem Anschlag nur einer Taste auf einer Skala ausgew\u00e4hlt wurde. In ihrer Sp\u00e4tform als \u201eSchreibautomat\u201c ist die Schreibmaschine ein Vorl\u00e4ufer des Computers, dessen Tastaturbelegung weitgehend der der Schreibmaschine entspricht und in dem viele vom Maschinenschreiben bekannte Funktionen f\u00fcr die moderne Textverarbeitung \u00fcbernommen sind.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "A typewriter is a mechanical or electromechanical machine for writing in characters similar to those produced by printer's movable type by means of keyboard-operated types striking a ribbon to transfer ink or carbon impressions onto paper. Typically one character is printed on each keypress. The machine prints characters by making ink impressions of type elements similar to the sorts used in movable type letterpress printing. At the end of the nineteenth century the term typewriter was also applied to a person who used such a machine.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0622\u0644\u0629 \u0627\u0644\u0643\u0627\u062a\u0628\u0629 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 :Typewriter) \u0623\u0648 \"\u0627\u0644\u0622\u0644\u0629 \u0627\u0644\u0637\u0627\u0628\u0639\u0629\" \u064a\u0639\u0648\u062f \u062a\u0627\u0631\u064a\u062e \u0635\u0646\u0639\u0647\u0627 \u0625\u0644\u0649 1714. \u062d\u0635\u0644 \u0645\u0635\u0645\u0645\u0647\u0627 \u0648\u0645\u062e\u062a\u0631\u0639\u0647\u0627 \u0647\u0646\u0631\u064a \u0645\u064a\u0644 \u0639\u0644\u0649 \u0628\u0631\u0627\u0621\u0629 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639 \u0641\u064a \u062a\u0644\u0643 \u0627\u0644\u0633\u0646\u0629. \u0648\u062a\u0639\u062a\u0628\u0631 \u0622\u0644\u062a\u0647 \u0627\u0644\u0643\u0627\u062a\u0628\u0629 \u0627\u0644\u0623\u0645 \u0627\u0644\u0623\u0648\u0644\u0649 \u0644\u0645\u0627 \u0646\u0631\u0627\u0647 \u0645\u0646 \u0627\u0644\u0622\u0644\u0627\u062a \u0627\u0644\u0643\u0627\u062a\u0628\u0629 \u0641\u064a \u0648\u0642\u062a\u0646\u0627 \u0627\u0644\u062d\u0627\u0636\u0631. \u0648\u0644\u0643\u0646 \u0628\u0648\u062c\u0648\u062f \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0648\u0645\u0627 \u064a\u062a\u0628\u0639\u0647 \u0645\u0646 \u0627\u0644\u0622\u0644\u0627\u062a \u0627\u0644\u0637\u0627\u0628\u0639\u0629 \u064a\u0628\u062f\u0648 \u0623\u0646 \u062f\u0648\u0631 \u0627\u0644\u0622\u0644\u0629 \u0627\u0644\u0643\u0627\u062a\u0628\u0629 \u0642\u062f \u0623\u0641\u0644.\u0643\u0627\u0646 \u064a\u062a\u0637\u0644\u0639 \u0645\u0646 \u062e\u0644\u0627\u0644\u0647\u0627 \u0625\u0644\u0649 \u0627\u0633\u062a\u062d\u062f\u0627\u062b \u0646\u0638\u0627\u0645 \u062c\u062f\u064a\u062f \u0641\u064a \u0627\u0644\u0643\u062a\u0627\u0628\u0629 \u0627\u0644\u0622\u0644\u064a\u0629 \u0628\u062f\u0644\u0627 \u0645\u0646 \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u064a\u062f\u0648\u064a \u0627\u0644\u062a\u0642\u0644\u064a\u062f\u064a\u060c \u0648\u0628\u0627\u0644\u0631\u063a\u0645 \u0645\u0646 \u0623\u0647\u0645\u064a\u0629 \u0627\u0644\u0641\u0643\u0631\u0629\u060c \u0625\u0644\u0627 \u0623\u0646 \u0645\u064a\u0644 \u0641\u0634\u0644 \u0641\u064a \u0625\u0642\u0646\u0627\u0639 \u0627\u0644\u0646\u0627\u0633 \u0628\u0623\u0647\u0645\u064a\u0629 \u0627\u062e\u062a\u0631\u0627\u0639\u0647.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "La macchina per scrivere (o macchina da scrivere) \u00e8 uno strumento dotato di tastiera collegata a vari dispositivi meccanici, elettrici e/o elettronici, che permettono di ottenere su un supporto, generalmente un foglio di carta, l'impressione di caratteri (lettere, numeri, segni ortografici, segni di punteggiatura, simboli vari) simili a quelli della stampa tipografica.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "A m\u00e1quina de escrever, m\u00e1quina datilogr\u00e1fica ou m\u00e1quina de datilografia \u00e9 um equipamento mec\u00e2nico, eletromec\u00e2nico ou eletr\u00f4nico equipado com teclas que, quando acionadas, movimentam tipos, que imprimem letras, n\u00fameros e s\u00edmbolos no papel, facilitando e dando maior agilidade ao processo de escrita. Os modelos mais recentes para escrit\u00f3rios possu\u00edam mem\u00f3ria interna e pequenos monitores, com uma forma pr\u00f3xima dos primeiros computadores pessoais.",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Psac\u00ed_stroj"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Idazmakina"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30bf\u30a4\u30d7\u30e9\u30a4\u30bf\u30fc"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Schrijfmachine"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/M\u00e1quina_de_escribir"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Macchina_per_scrivere"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0393\u03c1\u03b1\u03c6\u03bf\u03bc\u03b7\u03c7\u03b1\u03bd\u03ae"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/M\u00e1quina_de_escrever"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Maszyna_do_pisania"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q46335"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Schreibmaschine"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4130975-3"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ud0c0\uc790\uae30"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q46335"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Mesin_ketik"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0c2wf"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Machine_\u00e0_\u00e9crire"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Typewriters"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Text"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Articles_with_inconsistent_citation_formats"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Italian_inventions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:1873_introductions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Underwoodfive.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Typewriter"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Typewriter?oldid=744876397"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.typewritermuseum.org/index.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.typewritercollector.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://site.xavier.edu/polt/typewriters/etc.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.telegraph.co.uk/news/worldnews/europe/russia/10173645/Kremlin-returns-to-typewriters-to-avoid-computer-leaks.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://perrier-sa.ch/musee/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.lifehackingmovie.com/2009/05/18/typewriter-minimal-text-editor-freeware/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.theguardian.com/world/2014/jul/15/germany-typewriters-espionage-nsa-spying-surveillance?CMP=twt_gu"
+            },
+            {
+                "type": "uri",
+                "value": "https://web.archive.org/web/20091028022753/http:/www.geocities.com/wbd641/PortablesIndex.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.mrmartinweb.com/type.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://qctimes.com/news/opinion/editorial/columnists/bill-wundram/article_03dd1536-4423-11de-a7be-001cc4c002e0.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.youtube.com/watch?v=2y3HK9yTqYo&hd=1"
+            },
+            {
+                "type": "uri",
+                "value": "http://typewriterrevolution.com"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.antiquetypewriters.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.eclectisaurus.com/tmtypewritermuseum.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.maquinasantigasdeescrever.com.br/historia.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://site.xavier.edu/polt/typewriters/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.upi.com/Odd_News/2011/12/19/Typewriters-experience-a-comeback/UPI-30661324327372/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.schreibmaschinenmuseum.com/en/"
+            },
+            {
+                "type": "uri",
+                "value": "http://typewritermovie.com/"
+            }
+        ],
+        "http://dbpedia.org/ontology/soundRecording": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter__1"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Eine Schreibmaschine ist ein von Hand oder elektromechanisch angetriebenes Ger\u00e4t, das dazu dient, Text mit Drucktypen zu schreiben und haupts\u00e4chlich auf Papier darzustellen. Zur Auswahl und zum Abdruck der Zeichen wird vorrangig eine Tastatur benutzt. Manche fr\u00fchen Modelle hatten jedoch nicht das \u00fcbliche Tastenfeld, sondern einen Zeiger, mit dem der Buchstabe oder die Ziffer vor dem Anschlag nur einer Taste auf einer Skala ausgew\u00e4hlt wurde. In ihrer Sp\u00e4tform als \u201eSchreibautomat\u201c ist die Schreibmaschine ein Vorl\u00e4ufer des Computers, dessen Tastaturbelegung weitgehend der der Schreibmaschine entspricht und in dem viele vom Maschinenschreiben bekannte Funktionen f\u00fcr die moderne Textverarbeitung \u00fcbernommen sind.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0438\u0301\u0448\u0443\u0449\u0430\u044f \u043c\u0430\u0448\u0438\u0301\u043d\u0430 (\u0432 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043d\u043e\u0439 \u0440\u0435\u0447\u0438 \u043f\u0438\u0301\u0448\u0443\u0449\u0430\u044f \u043c\u0430\u0448\u0438\u0301\u043d\u043a\u0430; \u0432 \u043f\u0440\u043e\u0441\u0442\u043e\u0440\u0435\u0447\u0438\u0438 \u043f\u0435\u0447\u0430\u0301\u0442\u043d\u0430\u044f \u043c\u0430\u0448\u0438\u0301\u043d\u043a\u0430) \u2014 \u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439, \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0438\u043b\u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e-\u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0440\u0438\u0431\u043e\u0440, \u043e\u0441\u043d\u0430\u0449\u0451\u043d\u043d\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u043e\u043c \u043a\u043b\u0430\u0432\u0438\u0448, \u043d\u0430\u0436\u0430\u0442\u0438\u0435 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043f\u0440\u0438\u0432\u043e\u0434\u0438\u0442 \u043a \u043f\u0435\u0447\u0430\u0442\u0438 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u043d\u0430 \u043d\u043e\u0441\u0438\u0442\u0435\u043b\u0435 (\u0432 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0435 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u044d\u0442\u043e \u0431\u0443\u043c\u0430\u0433\u0430). \u0428\u0438\u0440\u043e\u043a\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0430\u0441\u044c \u0432 XIX\u2014XX \u0432\u0435\u043a\u0430\u0445. \u0412 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u043f\u0438\u0448\u0443\u0449\u0438\u0435 \u043c\u0430\u0448\u0438\u043d\u044b \u043f\u043e \u0431\u043e\u043b\u044c\u0448\u0435\u0439 \u0447\u0430\u0441\u0442\u0438 \u0432\u044b\u0448\u043b\u0438 \u0438\u0437 \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u0435\u043d\u0438\u044f, \u0438\u0445 \u0444\u0443\u043d\u043a\u0446\u0438\u044e \u0441\u0442\u0430\u043b\u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u044b, \u0443\u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0442\u0435\u0440\u0430\u043c\u0438. \u041f\u0440\u0438\u043d\u0446\u0438\u043f \u0440\u0430\u0431\u043e\u0442\u044b \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0430 \u043f\u0438\u0448\u0443\u0449\u0438\u0445 \u043c\u0430\u0448\u0438\u043d \u0437\u0430\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u0438\u0438 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u043d\u0430 \u0431\u0443\u043c\u0430\u0433\u0443 \u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u0440\u044b\u0447\u0430\u0433\u043e\u0432, \u0437\u0430\u043a\u0430\u043d\u0447\u0438\u0432\u0430\u044e\u0449\u0438\u0445\u0441\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430\u043c\u0438 \u0441 \u043c\u0435\u0442\u0430\u043b\u043b\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0438\u043b\u0438 \u043f\u043b\u0430\u0441\u0442\u0438\u043a\u043e\u0432\u044b\u043c\u0438 \u043b\u0438\u0442\u0435\u0440\u0430\u043c\u0438. \u041f\u0440\u0438 \u043d\u0430\u0436\u0430\u0442\u0438\u0438 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0435\u0439 \u043a\u043b\u0430\u0432\u0438\u0448\u0438 \u0440\u044b\u0447\u0430\u0433 \u0443\u0434\u0430\u0440\u044f\u0435\u0442 \u043f\u043e \u043f\u0440\u043e\u043f\u0438\u0442\u0430\u043d\u043d\u043e\u0439 \u0447\u0435\u0440\u043d\u0438\u043b\u0430\u043c\u0438 \u043b\u0435\u043d\u0442\u0435, \u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044f, \u0442\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c, \u043e\u0442\u043f\u0435\u0447\u0430\u0442\u043e\u043a \u043b\u0438\u0442\u0435\u0440\u044b \u043d\u0430 \u043f\u043e\u0434\u0432\u043e\u0434\u0438\u043c\u043e\u043c \u043b\u0438\u0441\u0442\u0435 \u0431\u0443\u043c\u0430\u0433\u0438. \u041f\u0435\u0440\u0435\u0434 \u043f\u0435\u0447\u0430\u0442\u044c\u044e \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \u0441\u0438\u043c\u0432\u043e\u043b\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0441\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0441\u0434\u0432\u0438\u0433 \u0431\u0443\u043c\u0430\u0436\u043d\u043e\u0433\u043e \u043b\u0438\u0441\u0442\u0430 (\u0430 \u0442\u0430\u043a\u0436\u0435, \u043a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u043f\u0440\u043e\u043a\u0440\u0443\u0447\u0438\u0432\u0430\u043d\u0438\u0435 \u043a\u0440\u0430\u0441\u044f\u0449\u0435\u0439 \u043b\u0435\u043d\u0442\u044b). \u0414\u043b\u044f \u043f\u0435\u0447\u0430\u0442\u0438 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u043a\u043e\u043f\u0438\u0439 \u043e\u0434\u043d\u043e\u0433\u043e \u0438 \u0442\u043e\u0433\u043e \u0436\u0435 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u043b\u0438\u0441\u0442\u044b \u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043b\u044c\u043d\u043e\u0439 \u0431\u0443\u043c\u0430\u0433\u0438, \u043f\u0440\u043e\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0435\u043c\u044b\u0435 \u043c\u0435\u0436\u0434\u0443 \u043e\u0431\u044b\u0447\u043d\u044b\u043c\u0438 \u0431\u0443\u043c\u0430\u0436\u043d\u044b\u043c\u0438 \u043b\u0438\u0441\u0442\u0430\u043c\u0438. \u0415\u0441\u043b\u0438 \u0432 \u0441\u0435\u0440\u0435\u0434\u0438\u043d\u0435 XX \u0432\u0435\u043a\u0430 \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0441\u0435\u0431\u0435 \u043a\u043e\u043d\u0442\u043e\u0440\u0443 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0431\u0435\u0437 \u043f\u0438\u0448\u0443\u0449\u0435\u0439 \u043c\u0430\u0448\u0438\u043d\u044b, \u0442\u043e \u043a \u043d\u0430\u0447\u0430\u043b\u0443 XXI \u0432\u0435\u043a\u0430 \u043b\u0438\u0448\u044c \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439-\u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439, \u0442\u0430\u043a\u0438\u0445 \u043a\u0430\u043a \u0421\u043c\u0438\u0442-\u041a\u043e\u0440\u043e\u043d\u0430, Olivetti, \u0410\u0434\u043b\u0435\u0440-\u0420\u043e\u044f\u043b\u044c, \u041e\u043b\u0438\u043c\u043f\u0438\u044f, Brother, \u041d\u0430\u043a\u0430\u0434\u0437\u0438\u043c\u0430 \u0438 \u0434\u0440. \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u043b\u0438 \u0432\u044b\u043f\u0443\u0441\u043a \u0442\u0430\u043a\u043e\u0433\u043e \u0440\u043e\u0434\u0430 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432, \u043f\u0440\u0438\u0447\u0451\u043c \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u0438\u0437 \u043f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u0432 \u044d\u0442\u043e \u0432\u0440\u0435\u043c\u044f \u0437\u0430\u043d\u0438\u043c\u0430\u043b\u0438\u0441\u044c \u0432\u044b\u043f\u0443\u0441\u043a\u043e\u043c \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0445 \u043c\u043e\u0434\u0435\u043b\u0435\u0439 \u043f\u0438\u0448\u0443\u0449\u0438\u0445 \u043c\u0430\u0448\u0438\u043d. \u0412 \u0430\u043f\u0440\u0435\u043b\u0435 2011 \u0437\u0430\u043a\u0440\u044b\u043b\u0441\u044f \u0437\u0430\u0432\u043e\u0434 \u043f\u043e \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0443 \u043f\u0438\u0448\u0443\u0449\u0438\u0445 \u043c\u0430\u0448\u0438\u043d \u0432 \u041c\u0443\u043c\u0431\u0430\u0438, \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u0430\u0432\u0448\u0438\u0439 \u0438\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u0439 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 Godrej and Boyce, \u0447\u0442\u043e \u0432\u044b\u0437\u0432\u0430\u043b\u043e \u0440\u044f\u0434 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439 \u0432 \u0421\u041c\u0418 \u043e \u0437\u0430\u043a\u0440\u044b\u0442\u0438\u0438 \u00ab\u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0433\u043e \u0437\u0430\u0432\u043e\u0434\u0430 \u043f\u0438\u0448\u0443\u0449\u0438\u0445 \u043c\u0430\u0448\u0438\u043d\u043e\u043a\u00bb, \u0447\u0442\u043e \u0432\u0441\u043a\u043e\u0440\u0435 \u0431\u044b\u043b\u043e \u043e\u043f\u0440\u043e\u0432\u0435\u0440\u0433\u043d\u0443\u0442\u043e. \u0412 \u043d\u043e\u044f\u0431\u0440\u0435 2012 \u0444\u0430\u0431\u0440\u0438\u043a\u0430 Brother \u0432\u044b\u043f\u0443\u0441\u0442\u0438\u043b\u0430 \u043f\u0438\u0448\u0443\u0449\u0443\u044e \u043c\u0430\u0448\u0438\u043d\u0443, \u043d\u0430\u0437\u0432\u0430\u043d\u043d\u0443\u044e \u00ab\u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0439, \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0451\u043d\u043d\u043e\u0439 \u0432 \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438\u00bb; \u043c\u0430\u0448\u0438\u043d\u0430 \u0431\u044b\u043b\u0430 \u043f\u043e\u0434\u0430\u0440\u0435\u043d\u0430 \u043b\u043e\u043d\u0434\u043e\u043d\u0441\u043a\u043e\u043c\u0443 \u041c\u0443\u0437\u0435\u044e \u043d\u0430\u0443\u043a\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Maszyna do pisania \u2013 urz\u0105dzenie mechaniczne o nap\u0119dzie r\u0119cznym lub elektrycznym, posiadaj\u0105ce klawisze, kt\u00f3re naciskane powoduj\u0105 wydrukowanie metod\u0105 typograficzn\u0105 okre\u015blonych znak\u00f3w na umieszczonym w maszynie pod\u0142o\u017cu drukowym (najcz\u0119\u015bciej papierze). Urz\u0105dzenie mo\u017ce by\u0107 r\u00f3wnie\u017c wspomagane modu\u0142em elektronicznym umo\u017cliwiaj\u0105cym zapami\u0119tywanie wpisywanego tekstu.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u6253\u5b57\u673a\u662f\u6253\u5b57\u7684\u673a\u68b0\uff0c\u624b\u52a8\u6216\u7535\u52d5\u3002\u6572\u51fb\u952e\u76d8\u4e00\u4e2a\u6309\u952e\uff0c\u8be5\u6309\u952e\u5bf9\u5e94\u7684\u5b57\u7b26\u4e4b\u5b57\u6a21\u4fbf\u6703\u6253\u51fb\u81f3\u8272\u5e26\u4e0a\uff0c\u4ece\u800c\u5728\u7eb8\u4e0a\u5370\u5236\u51fa\u8be5\u5b57\u7b26\u3002\u6bcf\u6253\u4e00\u5b57\uff0c\u6253\u5b57\u673a\u90fd\u4f1a\u5411\u6253\u5b57\u65b9\u5411\u79fb\u52a8\u4e00\u4e2a\u5b57\u5bbd\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u30bf\u30a4\u30d7\u30e9\u30a4\u30bf\u30fc\uff08\u82f1\u8a9e: typewriter\uff09\u3068\u306f\u3001\u6587\u66f8\u3092\u4f5c\u6210\u3059\u308b\u305f\u3081\u306e\u88dc\u52a9\u3068\u3057\u3066\u4f7f\u308f\u308c\u308b\u6a5f\u68b0\u3067\u3042\u308b\u3002 \u6b27\u6587\u7528\u306e\u30bf\u30a4\u30d7\u30e9\u30a4\u30bf\u30fc\u3068\u65e5\u672c\u8a9e\u7528\u306e\u548c\u6587\u30bf\u30a4\u30d7\u30e9\u30a4\u30bf\u30fc\uff08\u548c\u6587\u30bf\u30a4\u30d7\uff09\u3067\u306f\u3001\u69cb\u9020\u304c\u5927\u304d\u304f\u7570\u306a\u308b\u3002 \u624b\u52d5\u5f0f\u3001\u96fb\u52d5\u5f0f\u3001\u96fb\u5b50\u5f0f\u3068\u30bf\u30a4\u30d7\u30e9\u30a4\u30bf\u30fc\u3082\u9032\u6b69\u3057\u305f\u304c\u3001\u6587\u7ae0\u4f5c\u6210\u306e\u305f\u3081\u306e\u6a5f\u68b0\u3068\u3057\u3066\u306f\u30ef\u30fc\u30d7\u30ed\u5c02\u7528\u6a5f\u3001\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u4e0a\u3067\u306e\u30ef\u30fc\u30d7\u30ed\u30bd\u30d5\u30c8\u3078\u3068\u79fb\u884c\u3057\u305f\u3002 \u30bf\u30a4\u30d7\u30e9\u30a4\u30bf\u30fc\u3067\u624b\u66f8\u304d\u6587\u66f8\u306e\u6e05\u66f8\u3084\u53e3\u8ff0\u7b46\u8a18\u3092\u3059\u308b\u62c5\u5f53\u8005\u3092\u30bf\u30a4\u30d4\u30b9\u30c8 (typist) \u3068\u3044\u3044\u3001\u6614\u306f\u5973\u6027\u306e\u4ee3\u8868\u7684\u306a\u8077\u696d\u306e\u4e00\u3064\u3067\u3042\u3063\u305f\u3002\u307e\u305f\u3001\u82f1\u8a9e\u570f\u3067\u306f\u8996\u899a\u969c\u5bb3\u8005\u304c\u6587\u7ae0\u3092\u66f8\u304f\u4e0a\u3067\u5f37\u529b\u306a\u52a9\u3051\u306b\u3082\u306a\u3063\u305f\uff08\u30bf\u30c3\u30c1\u30bf\u30a4\u30d4\u30f3\u30b0\uff09\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "A typewriter is a mechanical or electromechanical machine for writing in characters similar to those produced by printer's movable type by means of keyboard-operated types striking a ribbon to transfer ink or carbon impressions onto paper. Typically one character is printed on each keypress. The machine prints characters by making ink impressions of type elements similar to the sorts used in movable type letterpress printing. At the end of the nineteenth century the term typewriter was also applied to a person who used such a machine. After their invention in the 1860s, typewriters quickly became indispensable tools for practically all writing other than personal correspondence. They were widely used by professional writers, in offices, and for business correspondence in private homes. By the end of the 1980s, word processors and personal computers had largely displaced typewriters in most of these uses in the Western world, but as of the 2010s the typewriter is still prominent in many parts of the world, including India. Notable typewriter manufacturers included E. Remington and Sons, IBM, Imperial Typewriters, Oliver Typewriter Company, Olivetti, Royal Typewriter Company, Smith Corona, Underwood Typewriter Company, Adler Typewriter Company and Olympia Werke.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "A m\u00e1quina de escrever, m\u00e1quina datilogr\u00e1fica ou m\u00e1quina de datilografia \u00e9 um equipamento mec\u00e2nico, eletromec\u00e2nico ou eletr\u00f4nico equipado com teclas que, quando acionadas, movimentam tipos, que imprimem letras, n\u00fameros e s\u00edmbolos no papel, facilitando e dando maior agilidade ao processo de escrita. As primeiras m\u00e1quinas de escrever produzidas foram as manuais, com acionamento mec\u00e2nico das teclas. Posteriormente, surgiram as eletromec\u00e2nicas, com base de funcionamento mec\u00e2nico, auxiliado por um motor el\u00e9trico para diminuir o esfor\u00e7o e dar maior agilidade na escrita. Finalmente, surgiram as eletr\u00f4nicas, com acionamento dos tipos em margaridas ou esferas, capazes de alcan\u00e7ar melhor velocidade e qualidade de impress\u00e3o, al\u00e9m da possibilidade de corre\u00e7\u00e3o dos erros, com fitas corretivas. Os modelos mais recentes para escrit\u00f3rios possu\u00edam mem\u00f3ria interna e pequenos monitores, com uma forma pr\u00f3xima dos primeiros computadores pessoais.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Een schrijfmachine (in de volksmond ook typemachine genoemd en vroeger ook wel tikmachine) is een mechanisch schrijfinstrument, meestal voorzien van druktoetsen waarmee schrifttekens op papier gezet kunnen worden. V\u00f3\u00f3r de uitvinding van de schrijfmachine, in de 19e eeuw, werden brieven en ook offici\u00eble documenten met de hand geschreven, vaak door klerken. Aanvankelijk gold het niet als beleefd om een schrijfmachine te gebruiken voor een brief. Tot in de tweede helft van de twintigste eeuw schreef men sollicitatiebrieven, brieven aan het Koninklijk Huis en brieven aan vrienden met de hand. Men kan dat paradoxaal noemen, aangezien menig handschrift slecht leesbaar is. Een uitgever van boeken, daarentegen, accepteerde van de auteur uitsluitend machineschrift. Sinds de opkomst van de pc, en vooral van de tekstverwerker, is de schrijfmachine vrijwel in onbruik geraakt.De voordelen van de tekstverwerker tegenover de schrijfmachine zijn: \n*  het bekijken van tekst op een scherm zonder onmiddellijke drukkosten; \n*  de zoekfunctie, zodat schrijffouten een voor een, en identieke fouten gezamenlijk, verbeterd kunnen worden (recenter: een ingebouwd woordenboek, waarmee mogelijke fouten aangeduid en correcties gesuggereerd worden); \n*  de opslag van verschillende versies onder opeenvolgende bestandsnamen; \n*  de opslag van terugkerende briefgedeelten als \u201cbouwstenen\u201d voor gegroepeerde verzending. \n*  mogelijkheid om verschillende lettertypes, kleuren en groottes zo nodig door elkaar te gebruiken",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Une machine \u00e0 \u00e9crire est une machine m\u00e9canographique permettant d'\u00e9crire des documents avec des caract\u00e8res imprim\u00e9s. Elle se pr\u00e9sente sous la forme d'un clavier comportant une cinquantaine de touches repr\u00e9sentant les caract\u00e8res qui seront imprim\u00e9s sur le papier. Elle peut \u00eatre portative et l\u00e9g\u00e8re (pour travailler en voyageant), ou de bureau (plus lourde et encombrante). Elle a \u00e9t\u00e9 utilis\u00e9e de la fin du XIXe si\u00e8cle, notamment par les dactylographes, jusqu'\u00e0 l'apparition des machines \u00e0 m\u00e9moire \u00e9lectronique, qui pr\u00e9figurent le d\u00e9clin et le remplacement par l'ordinateur. Celui-ci met en effet \u00e0 disposition des fonctionnalit\u00e9s puissantes reposant sur les techniques de num\u00e9risation, le traitement de texte, les outils bureautiques et multim\u00e9dias, la PAO (publication assist\u00e9e par ordinateur), ou applications de diffusion, qui se trouvent aujourd'hui \u00eatre largement accessibles et utilis\u00e9s par un nombre croissant d'utilisateurs.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "La macchina per scrivere (o macchina da scrivere) \u00e8 uno strumento dotato di tastiera collegata a vari dispositivi meccanici, elettrici e/o elettronici, che permettono di ottenere su un supporto, generalmente un foglio di carta, l'impressione di caratteri (lettere, numeri, segni ortografici, segni di punteggiatura, simboli vari) simili a quelli della stampa tipografica.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "La m\u00e1quina de escribir o maquinilla es un dispositivo mec\u00e1nico, electromec\u00e1nico o electr\u00f3nico, con un conjunto de teclas (llamadas tipos) que, al ser presionadas, imprimen caracteres en un documento, normalmente papel. La persona que opera una m\u00e1quina de escribir recibe el nombre de mecan\u00f3grafo. Las m\u00e1quinas de escribir fueron herramientas indispensables en las oficinas de todo el mundo, as\u00ed como para la literatura, el cine, el teatro y cualquier actividad que requiriera escribir desde finales del siglo XIX y casi todo el siglo XX. En la d\u00e9cada de los ochenta los procesadores de texto para computadoras personales reemplazaron casi totalmente a las m\u00e1quinas de escribir en los pa\u00edses desarrollados, aunque otras regiones su uso no se vio afectado por el poco avance de las nuevas tecnolog\u00edas hasta entrado el siglo XXI. Entre las compa\u00f1\u00edas que manufacturaban m\u00e1quinas de escribir y sus accesorios se encontraban Smith-Corona, Olympia, Olivetti, Adler-Royal, Canon, Brother y Nakajima fueron las \u00faltimas compa\u00f1\u00edas occidentales que fabricaron las m\u00e1quinas de escribir mec\u00e1nicas, pues Olivetti ha dejado de producir m\u00e1quinas de escribir y Olympia solo produce dos modelos electr\u00f3nicos, todos los modelos actuales existentes son electr\u00f3nicos. La \u00faltima empresa dedicada a la fabricaci\u00f3n de m\u00e1quinas de escribir, la india Godrej and Boyce, cerr\u00f3 su \u00faltima f\u00e1brica en abril de 2011.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0622\u0644\u0629 \u0627\u0644\u0643\u0627\u062a\u0628\u0629 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 :Typewriter) \u0623\u0648 \"\u0627\u0644\u0622\u0644\u0629 \u0627\u0644\u0637\u0627\u0628\u0639\u0629\" \u064a\u0639\u0648\u062f \u062a\u0627\u0631\u064a\u062e \u0635\u0646\u0639\u0647\u0627 \u0625\u0644\u0649 1714. \u062d\u0635\u0644 \u0645\u0635\u0645\u0645\u0647\u0627 \u0648\u0645\u062e\u062a\u0631\u0639\u0647\u0627 \u0647\u0646\u0631\u064a \u0645\u064a\u0644 \u0639\u0644\u0649 \u0628\u0631\u0627\u0621\u0629 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639 \u0641\u064a \u062a\u0644\u0643 \u0627\u0644\u0633\u0646\u0629. \u0648\u062a\u0639\u062a\u0628\u0631 \u0622\u0644\u062a\u0647 \u0627\u0644\u0643\u0627\u062a\u0628\u0629 \u0627\u0644\u0623\u0645 \u0627\u0644\u0623\u0648\u0644\u0649 \u0644\u0645\u0627 \u0646\u0631\u0627\u0647 \u0645\u0646 \u0627\u0644\u0622\u0644\u0627\u062a \u0627\u0644\u0643\u0627\u062a\u0628\u0629 \u0641\u064a \u0648\u0642\u062a\u0646\u0627 \u0627\u0644\u062d\u0627\u0636\u0631. \u0648\u0644\u0643\u0646 \u0628\u0648\u062c\u0648\u062f \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0648\u0645\u0627 \u064a\u062a\u0628\u0639\u0647 \u0645\u0646 \u0627\u0644\u0622\u0644\u0627\u062a \u0627\u0644\u0637\u0627\u0628\u0639\u0629 \u064a\u0628\u062f\u0648 \u0623\u0646 \u062f\u0648\u0631 \u0627\u0644\u0622\u0644\u0629 \u0627\u0644\u0643\u0627\u062a\u0628\u0629 \u0642\u062f \u0623\u0641\u0644.\u0643\u0627\u0646 \u064a\u062a\u0637\u0644\u0639 \u0645\u0646 \u062e\u0644\u0627\u0644\u0647\u0627 \u0625\u0644\u0649 \u0627\u0633\u062a\u062d\u062f\u0627\u062b \u0646\u0638\u0627\u0645 \u062c\u062f\u064a\u062f \u0641\u064a \u0627\u0644\u0643\u062a\u0627\u0628\u0629 \u0627\u0644\u0622\u0644\u064a\u0629 \u0628\u062f\u0644\u0627 \u0645\u0646 \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u064a\u062f\u0648\u064a \u0627\u0644\u062a\u0642\u0644\u064a\u062f\u064a\u060c \u0648\u0628\u0627\u0644\u0631\u063a\u0645 \u0645\u0646 \u0623\u0647\u0645\u064a\u0629 \u0627\u0644\u0641\u0643\u0631\u0629\u060c \u0625\u0644\u0627 \u0623\u0646 \u0645\u064a\u0644 \u0641\u0634\u0644 \u0641\u064a \u0625\u0642\u0646\u0627\u0639 \u0627\u0644\u0646\u0627\u0633 \u0628\u0623\u0647\u0645\u064a\u0629 \u0627\u062e\u062a\u0631\u0627\u0639\u0647.",
+                "lang": "ar"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Underwoodfive.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744876397,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 44365,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Machine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type-writer": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type-writing": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type-writes": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electromechanical_typewriter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Personal_word_processor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Olivetti": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type_wrote": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type_machine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_first_typewriter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hansen_Writing_Ball": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electronic_typewriter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Manual_typewriter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type-wrote": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electric_typewriter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Typewriter": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Teleprinter": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typewriters": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typewriter_eraser": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Oliver_Typewriter_Company": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typebar": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Royal_Typewriter_Company": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type_writer": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typewrite": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typebars": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jaymay": {
+        "http://dbpedia.org/ontology/instrument": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Underwood_Typewriter_Company": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mark_So": {
+        "http://dbpedia.org/ontology/instrument": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/MC_Lord_Magrao": {
+        "http://dbpedia.org/ontology/instrument": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Data_Recall_Diamond": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Olivetti_Lettera_32": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Olivetti_Lettera_22": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typographic_approximation": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sholes_and_Glidden_typewriter": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type_write": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typebasket": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type_writing": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typewrites": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type_writes": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type_written": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typewrote": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Marian_Call": {
+        "http://dbpedia.org/ontology/instrument": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_type_writer": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Royal_Futura": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typewriter_keyboard": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typewriter_ribbons": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type-write": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type-written": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Personal_Word_Processor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type_writers": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type-writers": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typing_machine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type_bar": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typewritten": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Typewriter_carriage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electronic_word_processor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Typewriter"
+            }
+        ]
+    }
+}

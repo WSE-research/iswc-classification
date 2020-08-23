@@ -1,0 +1,37 @@
+{
+    "@text": "List the driver of SA MArino Grand Prix is also the Pole driver of Canadian Grand Proix ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/South_Australia",
+            "@support": "22078",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "SA",
+            "@offset": "19",
+            "@similarityScore": "0.6228085316576898",
+            "@percentageOfSecondRank": "0.4270244483525244"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Grand_Prix_motor_racing",
+            "@support": "1958",
+            "@types": "",
+            "@surfaceForm": "Grand Prix",
+            "@offset": "29",
+            "@similarityScore": "0.521840665196036",
+            "@percentageOfSecondRank": "0.7462689169929057"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Proix",
+            "@support": "3",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Proix",
+            "@offset": "82",
+            "@similarityScore": "0.7508739562469939",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

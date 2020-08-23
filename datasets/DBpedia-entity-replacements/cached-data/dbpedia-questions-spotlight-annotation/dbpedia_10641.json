@@ -1,0 +1,28 @@
+{
+    "@text": "What is the capital city in the village of Teknaf Upazila?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "20",
+            "@similarityScore": "0.7743243431868767",
+            "@percentageOfSecondRank": "0.22865050002838438"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Teknaf_Upazila",
+            "@support": "44",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Teknaf Upazila",
+            "@offset": "43",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Which is British Museum place ID for Egypt?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/British_Museum",
+            "@support": "11394",
+            "@types": "Wikidata:Q41176,Wikidata:Q33506,Schema:Place,DBpedia:Place,DBpedia:Museum,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "British Museum",
+            "@offset": "9",
+            "@similarityScore": "0.9999247130800664",
+            "@percentageOfSecondRank": "6.682397527839755E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Egypt",
+            "@support": "59696",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Egypt",
+            "@offset": "37",
+            "@similarityScore": "0.992455037638332",
+            "@percentageOfSecondRank": "0.006905693600267174"
+        }
+    ]
+}

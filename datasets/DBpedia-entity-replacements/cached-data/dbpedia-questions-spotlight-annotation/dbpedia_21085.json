@@ -1,0 +1,37 @@
+{
+    "@text": "What is the company that has products with Windows RT as its OS?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Microsoft_Windows",
+            "@support": "31955",
+            "@types": "Wikidata:Q7397,Wikidata:Q386724,Schema:CreativeWork,DBpedia:Work,DBpedia:Software",
+            "@surfaceForm": "Windows",
+            "@offset": "43",
+            "@similarityScore": "0.9992363935892238",
+            "@percentageOfSecondRank": "4.127204565551423E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+            "@support": "1452",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q15265344,DUL:SocialPerson,DUL:Agent,Schema:TelevisionStation,Schema:Organization,DBpedia:TelevisionStation,DBpedia:Organisation,DBpedia:Broadcaster,DBpedia:Agent",
+            "@surfaceForm": "RT",
+            "@offset": "51",
+            "@similarityScore": "0.8571960239514909",
+            "@percentageOfSecondRank": "0.15677495036580516"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Operating_system",
+            "@support": "13034",
+            "@types": "",
+            "@surfaceForm": "OS",
+            "@offset": "61",
+            "@similarityScore": "0.9924382167466216",
+            "@percentageOfSecondRank": "0.005042433088967707"
+        }
+    ]
+}

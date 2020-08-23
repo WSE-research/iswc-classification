@@ -1,0 +1,1077 @@
+{
+    "http://dbpedia.org/resource/Walt_Disney_World_Railroad": {
+        "http://dbpedia.org/property/vehicles": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Steam_locomotive": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Act100030358"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Locomotive"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Technology100949619"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Use100947128"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Application100949134"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Profession100609953"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Event100029378"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatSteamLocomotiveTechnologies"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Occupation100582388"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Activity100407535"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Locomotiva a vapore",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0430\u0440\u043e\u0432\u043e\u0437",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Lokomotywa parowa",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u84b8\u6c7d\u6a5f\u8eca",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u84b8\u6c17\u6a5f\u95a2\u8eca",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Locomotiva a vapor",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0642\u0627\u0637\u0631\u0629 \u0628\u062e\u0627\u0631\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Locomotora de vapor",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Stoomlocomotief",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Dampflokomotive",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Locomotive \u00e0 vapeur",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Steam locomotive",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Les premi\u00e8res locomotives, au XIXe si\u00e8cle, sont mues par une machine \u00e0 vapeur, d'o\u00f9 le nom de locomotives \u00e0 vapeur. Ce type de moteur thermique est le plus couramment utilis\u00e9 jusque dans les ann\u00e9es 1950 entre autres en Europe, et est toujours employ\u00e9 localement dans certains pays au XXIe si\u00e8cle. A l'heure actuelle, la plupart des trains sont cependant tract\u00e9s par des locomotives \u00e9lectriques ou thermiques (diesel), ou bien sont constitu\u00e9s par des rames automotrices, ou des autorails, parfois indivisibles, int\u00e9grant la motorisation r\u00e9partie sous les v\u00e9hicules et/ou \u00e0 l'int\u00e9rieur des caisses.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u84b8\u6c17\u6a5f\u95a2\u8eca\uff08\u3058\u3087\u3046\u304d\u304d\u304b\u3093\u3057\u3083\uff09\u3068\u306f\u3001\u84b8\u6c17\u6a5f\u95a2\u306b\u3088\u3063\u3066\u52d5\u304f\u6a5f\u95a2\u8eca\u306e\u3053\u3068\u3067\u3042\u308b\u3002 \u65e5\u672c\u3067\u306f Steam Locomotive \u306e\u982d\u6587\u5b57\u3092\u3068\u3063\u3066\u3001SL\uff08\u30a8\u30b9\u30a8\u30eb\uff09\u3068\u3082\u547c\u3070\u308c\u308b\u3002\u307e\u305f\u3001\u84b8\u6c17\u6a5f\u95a2\u8eca\u3001\u307e\u305f\u306f\u84b8\u6c17\u6a5f\u95a2\u8eca\u304c\u727d\u5f15\u3059\u308b\u5217\u8eca\u306e\u3053\u3068\u3092\u6c7d\u8eca\u3068\u3082\u8a00\u3046\u3002\u307e\u305f\u3001\u660e\u6cbb\u6642\u4ee3\u306b\u306f\u84b8\u6c17\u8239\u306b\u5bfe\u3057\u3066\u9678\u306e\u4e0a\u3092\u84b8\u6c17\u6a5f\u95a2\u3067\u8d70\u308b\u3053\u3068\u304b\u3089\u3001\u300c\u9678\u84b8\u6c17\u300d\uff08\u304a\u304b\u3058\u3087\u3046\u304d\uff09\u3068\u3082\u547c\u3093\u3067\u3044\u305f\u3002\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6226\u306e\u9803\u307e\u3067\u306f\u300c\u6c7d\u7f50\u8eca\u300d\uff08\u304d\u304b\u3093\u3057\u3083\uff09\u3068\u3044\u3046\u8868\u8a18\u3082\u7528\u3044\u3089\u308c\u305f\uff08\u300c\u6c7d\u7f50\u300d\u306f\u30dc\u30a4\u30e9\u30fc\u306e\u610f\uff09\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Een stoomlocomotief is een type locomotief die als energiebron een stoommachine gebruikt. De belangrijkste onderdelen van de stoomlocomotief zijn: de stoomketel met aangebouwde vuurkist, het frame met de daarin gelagerde assen en de stoommachine met de stoomverdeling.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Una locomotora de vapor es un tipo de locomotora impulsada por la acci\u00f3n del vapor de agua. Las locomotoras de vapor fueron la forma dominante de tracci\u00f3n en los ferrocarriles hasta que a mediados del siglo XX fueron reemplazadas por las locomotoras di\u00e9sel y el\u00e9ctricas.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "A steam locomotive is a railway locomotive that produces its pulling power through a steam engine. These locomotives are fueled by burning combustible material\u2014usually coal/coke, wood, or oil\u2014to produce steam in a boiler. The steam moves reciprocating pistons which are mechanically connected to the locomotive's main wheels (drivers). Both fuel and water supplies are carried with the locomotive, either on the locomotive itself or in wagons (tenders) pulled behind.The first steam locomotive, made by Richard Trevithick, first operated on 21 February 1804, three years after the road locomotive he made in 1801.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Inventata da diversi tecnologi (tra cui Richard Trevithick e George Stephenson) all'inizio dell'Ottocento, la locomotiva a vapore rivoluzion\u00f2 il sistema dei trasporti terrestri permettendo il passaggio da quelli a trazione animale a quelli a trazione meccanica, fino a diventare sinonimo di \"macchina\". Nella tecnica dei trasporti si definisce \"locomotiva\" l'insieme della macchina e del tender. Qualora le scorte di acqua e di combustibile non vengano trasportate su un veicolo apposito ma sulla macchina, il mezzo viene denominato locomotiva-tender (o locotender).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Die Dampflokomotive (kurz Dampflok, als Metapher auch Dampfross) ist eine Bauform der Lokomotive, die von Wasserdampf angetrieben wird. Neben der weit verbreiteten Regelbauart mit Dampferzeuger und Kolbendampfmaschinen gibt es Sonderbauarten wie feuerlose Lokomotiven, Zahnraddampflokomotiven, solche mit Einzelachsantrieb, Turbinen-, Kondens- und Hochdrucklokomotiven.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "A Locomotiva a vapor \u00e9 uma locomotiva propulsionada por um motor a vapor que comp\u00f5e-se de tr\u00eas partes principais: a caldeira, produzindo o vapor usando a energia do combust\u00edvel, a m\u00e1quina t\u00e9rmica, transformando a energia do vapor em trabalho mec\u00e2nico e a carro\u00e7aria, carregando a constru\u00e7\u00e3o. O vag\u00e3o-reboque (tamb\u00e9m chamado \"tender\") de uma locomotiva a vapor transporta o combust\u00edvel e a \u00e1gua necess\u00e1rios para a alimenta\u00e7\u00e3o da m\u00e1quina.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0642\u0627\u0637\u0631\u0629 \u0627\u0644\u0628\u062e\u0627\u0631\u064a\u0629 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Steam locomotive) \u064a\u0639\u0631\u0641 \u0623\u062d\u064a\u0627\u0646\u0627 \u0628\u0642\u0637\u0627\u0631 \u0627\u0644\u0641\u062d\u0645\u060c \u0647\u064a \u0642\u0627\u0637\u0631\u0629 \u0644\u0644\u0633\u0643\u0643 \u0627\u0644\u062d\u062f\u064a\u062f\u064a\u0629 \u062a\u0646\u062a\u062c \u0637\u0627\u0642\u062a\u0647\u0627 \u0645\u0646 \u062e\u0644\u0627\u0644 \u0645\u062d\u0631\u0643 \u0628\u062e\u0627\u0631\u064a \u064a\u062a\u063a\u0630\u0649 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062d\u0631\u0642 \u0628\u0639\u0636 \u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u0627\u062d\u062a\u0631\u0627\u0642 \u062a\u0643\u0648\u0646 \u0639\u0627\u062f\u0629 \u0627\u0644\u0641\u062d\u0645 \u0648\u0627\u0644\u062d\u0637\u0628 \u0648\u0627\u0644\u0646\u0641\u0637\u060c \u0644\u0625\u0646\u062a\u0627\u062c \u0627\u0644\u0628\u062e\u0627\u0631 \u0641\u064a \u0627\u0644\u0645\u0631\u062c\u0644\u060c \u0627\u0644\u0630\u064a \u064a\u062d\u0631\u0643 \u0627\u0644\u0645\u062d\u0631\u0643 \u0627\u0644\u0628\u062e\u0627\u0631\u064a. \u0648\u062a\u062c\u0631\u064a \u0643\u0644 \u0645\u0646 \u0625\u0645\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u0648\u0642\u0648\u062f \u0648\u0627\u0644\u0645\u064a\u0627\u0647 \u0645\u0639 \u0627\u0644\u0642\u0627\u0637\u0631\u0629\u060c \u0625\u0645\u0627 \u0641\u064a \u0627\u0644\u0642\u0627\u0637\u0631\u0629 \u0646\u0641\u0633\u0647\u0627 \u0623\u0648 \u0641\u064a \u0639\u0631\u0628\u0627\u062a \u062a\u0633\u062d\u0628 \u0648\u0631\u0627\u0621\u0647\u0627. \u0635\u0646\u0639\u062a \u0627\u0644\u0642\u0627\u0637\u0631\u0627\u062a \u0627\u0644\u0628\u062e\u0627\u0631\u064a\u0629 \u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0641\u064a \u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0627\u060c \u0648\u0633\u064a\u0637\u0631\u062a \u0639\u0644\u0649 \u0648\u0633\u0627\u0626\u0644 \u0627\u0644\u0646\u0642\u0644 \u0628\u0627\u0644\u0633\u0643\u0643 \u0627\u0644\u062d\u062f\u064a\u062f\u064a\u0629 \u062d\u062a\u0649 \u0645\u0646\u062a\u0635\u0641 \u0627\u0644\u0642\u0631\u0646 \u0627\u064420 \u0641\u064a \u0628\u062f\u0627\u064a\u0627\u062a\u0647 \u0641\u064a \u0648\u0642\u062a \u0645\u0628\u0643\u0631 \u062d\u062a\u0649 \u062d\u0644\u062a \u0645\u062d\u0644\u0647\u0627 \u062a\u062f\u0631\u064a\u062c\u064a\u0627 \u0627\u0644\u0642\u0637\u0627\u0631\u0627\u062a \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0648 \u0642\u0637\u0627\u0631\u0627\u062a \u0627\u0644\u062f\u064a\u0632\u0644 .",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Lokomotywa parowa (r\u00f3wnie\u017c parow\u00f3z) \u2013 lokomotywa nap\u0119dzana silnikami parowymi. Para pochodzi z kot\u0142a opalanego najcz\u0119\u015bciej w\u0119glem. Pierwsz\u0105 lokomotyw\u0119 parow\u0105 zbudowa\u0142 w 1804 roku Richard Trevithick. Za wynalazc\u0119 wsp\u00f3\u0142czesnej lokomotywy parowej uwa\u017ca si\u0119 George\u2019a Stephensona. Jego parow\u00f3z Rakieta (Rocket) z 1829 r. sta\u0142 si\u0119 pierwowzorem wszystkich dalszych konstrukcji. Ostatni\u0105 regularn\u0105 lini\u0119 zwyk\u0142ego ruchu pasa\u017cerskiego w Europie obs\u0142ugiwan\u0105 przez lokomotywy parowe zamkni\u0119to 31 marca 2014. By\u0142o to po\u0142\u0105czenie Wolsztyn \u2013 Leszno w Polsce.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u84b8\u6c7d\u6a5f\u8eca\uff0c\u53c8\u7a31\u84b8\u6c7d\u706b\u8eca\uff0c\u662f\u4ee5\u84b8\u6c7d\u673a\u505a\u70ba\u52d5\u529b\u4f86\u6e90\u7684\u9435\u8def\u6a5f\u8eca\uff0c\u4e5f\u662f\u9435\u8def\u6a5f\u8eca\u6700\u65e9\u7684\u767c\u5c55\u985e\u5225\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0430\u0440\u043e\u0432\u043e\u0301\u0437 \u2014 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043b\u043e\u043a\u043e\u043c\u043e\u0442\u0438\u0432 \u0441 \u043f\u0430\u0440\u043e\u0441\u0438\u043b\u043e\u0432\u043e\u0439 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u043e\u0439, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0449\u0438\u0439 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044f \u043f\u0430\u0440\u043e\u0432\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b. \u041f\u0430\u0440\u043e\u0432\u043e\u0437\u044b \u0431\u044b\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u043c\u0438 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0433\u0430\u044e\u0449\u0438\u043c\u0438\u0441\u044f \u043f\u043e \u0440\u0435\u043b\u044c\u0441\u0430\u043c \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u043c\u0438 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\u043c\u0438, \u0441\u0430\u043c\u043e \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u043b\u043e\u043a\u043e\u043c\u043e\u0442\u0438\u0432 \u043f\u043e\u044f\u0432\u0438\u043b\u043e\u0441\u044c \u0433\u043e\u0440\u0430\u0437\u0434\u043e \u043f\u043e\u0437\u0436\u0435 \u0438 \u0438\u043c\u0435\u043d\u043d\u043e \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u043f\u0430\u0440\u043e\u0432\u043e\u0437\u0430\u043c. \u041f\u0430\u0440\u043e\u0432\u043e\u0437 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c, \u0438 \u0440\u043e\u043b\u044c \u043f\u0430\u0440\u043e\u0432\u043e\u0437\u0430 \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0442\u0440\u0443\u0434\u043d\u043e \u043f\u0435\u0440\u0435\u043e\u0446\u0435\u043d\u0438\u0442\u044c. \u0422\u0430\u043a, \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0435\u043c\u0443 \u043f\u043e\u044f\u0432\u0438\u043b\u0441\u044f \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442, \u0438 \u0438\u043c\u0435\u043d\u043d\u043e \u043f\u0430\u0440\u043e\u0432\u043e\u0437\u044b \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u043b\u0438 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u043e\u0431\u044a\u0451\u043c \u043f\u0435\u0440\u0435\u0432\u043e\u0437\u043e\u043a \u0432 XIX \u0438 \u043f\u0435\u0440\u0432\u043e\u0439 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0435 XX \u0432\u0435\u043a\u0430, \u0441\u044b\u0433\u0440\u0430\u0432 \u043a\u043e\u043b\u043e\u0441\u0441\u0430\u043b\u044c\u043d\u0443\u044e \u0440\u043e\u043b\u044c \u0432 \u043f\u043e\u0434\u044a\u0451\u043c\u0435 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438 \u0446\u0435\u043b\u043e\u0433\u043e \u0440\u044f\u0434\u0430 \u0441\u0442\u0440\u0430\u043d. \u041f\u0430\u0440\u043e\u0432\u043e\u0437\u044b \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e \u0443\u043b\u0443\u0447\u0448\u0430\u043b\u0438\u0441\u044c \u0438 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u043b\u0438\u0441\u044c, \u0447\u0442\u043e \u043f\u0440\u0438\u0432\u0435\u043b\u043e \u043a \u0431\u043e\u043b\u044c\u0448\u043e\u043c\u0443 \u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u0438\u044e \u0438\u0445 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0439, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u0438 \u043e\u0442\u043b\u0438\u0447\u043d\u044b\u0445 \u043e\u0442 \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u043e\u0439. \u0422\u0430\u043a, \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u043f\u0430\u0440\u043e\u0432\u043e\u0437\u044b \u0431\u0435\u0437 \u0442\u0435\u043d\u0434\u0435\u0440\u0430, \u0431\u0435\u0437 \u043a\u043e\u0442\u043b\u0430 \u0438 \u0442\u043e\u043f\u043a\u0438, \u0441 \u0442\u0443\u0440\u0431\u0438\u043d\u043e\u0439 \u0432 \u043a\u0430",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_insulation"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Railway_brake"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Lubrication"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/History_of_rail_transport"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Dampflokomotive"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q171043"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Locomotiva_a_vapor"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4010989-6"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Lurrunezko_tren-makina"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Steam_circuit"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q171043"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01bz5k"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0391\u03c4\u03bc\u03ac\u03bc\u03b1\u03be\u03b1"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Locomotiva_a_vapore"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Lokomotywa_parowa"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc99d\uae30_\uae30\uad00\ucc28"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u84b8\u6c17\u6a5f\u95a2\u8eca"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Locomotive_\u00e0_vapeur"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Parn\u00ed_lokomotiva"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Lokomotif_uap"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Locomotora_de_vapor"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Stoomlocomotief"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Steam_vehicles"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:British_inventions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Steam_locomotives"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/UP_Big_Boy_4014.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Steam_locomotive"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Steam_locomotive?oldid=743864760"
+            }
+        ],
+        "http://dbpedia.org/property/text": [
+            {
+                "type": "literal",
+                "value": "Steam railroading is a pain in the butt.",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.heritagerailways.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.steamlocomotive.com/"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=_7lJAAAAIAAJ&pg=PR3"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.5at.co.uk/Red-Devil-book.shtml"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bbc.co.uk/archive/steamtrains/index.shtml"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.advanced-steam.org/"
+            }
+        ],
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "literal",
+                "value": "The state quarter representing Utah, depicting the golden spike ceremony",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "The Biedermeier Period coin featuring a steam locomotive",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Una locomotora de vapor es un tipo de locomotora impulsada por la acci\u00f3n del vapor de agua. Las locomotoras de vapor fueron la forma dominante de tracci\u00f3n en los ferrocarriles hasta que a mediados del siglo XX fueron reemplazadas por las locomotoras di\u00e9sel y el\u00e9ctricas.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Lokomotywa parowa (r\u00f3wnie\u017c parow\u00f3z) \u2013 lokomotywa nap\u0119dzana silnikami parowymi. Para pochodzi z kot\u0142a opalanego najcz\u0119\u015bciej w\u0119glem. Pierwsz\u0105 lokomotyw\u0119 parow\u0105 zbudowa\u0142 w 1804 roku Richard Trevithick. Za wynalazc\u0119 wsp\u00f3\u0142czesnej lokomotywy parowej uwa\u017ca si\u0119 George\u2019a Stephensona. Jego parow\u00f3z Rakieta (Rocket) z 1829 r. sta\u0142 si\u0119 pierwowzorem wszystkich dalszych konstrukcji. Ostatni\u0105 regularn\u0105 lini\u0119 zwyk\u0142ego ruchu pasa\u017cerskiego w Europie obs\u0142ugiwan\u0105 przez lokomotywy parowe zamkni\u0119to 31 marca 2014. By\u0142o to po\u0142\u0105czenie Wolsztyn \u2013 Leszno w Polsce.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "A steam locomotive is a railway locomotive that produces its pulling power through a steam engine. These locomotives are fueled by burning combustible material\u2014usually coal/coke, wood, or oil\u2014to produce steam in a boiler. The steam moves reciprocating pistons which are mechanically connected to the locomotive's main wheels (drivers). Both fuel and water supplies are carried with the locomotive, either on the locomotive itself or in wagons (tenders) pulled behind.The first steam locomotive, made by Richard Trevithick, first operated on 21 February 1804, three years after the road locomotive he made in 1801. Steam locomotives were first developed in Great Britain during the early 19th century and used for railway transport until the middle of the 20th century. From the early 1900s they were gradually superseded by electric and diesel locomotives, with full conversions to electric and diesel power beginning from the 1930s. The majority of steam locomotives were retired from regular service by the 1980s, though several continue to run on tourist and heritage lines.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Inventata da diversi tecnologi (tra cui Richard Trevithick e George Stephenson) all'inizio dell'Ottocento, la locomotiva a vapore rivoluzion\u00f2 il sistema dei trasporti terrestri permettendo il passaggio da quelli a trazione animale a quelli a trazione meccanica, fino a diventare sinonimo di \"macchina\". Affiancata e poi sostituita da altri sistemi di trazione (principalmente la trazione elettrica e la trazione con motori endotermici) a causa della propria bassa potenza e del proprio modesto rendimento, la trazione a vapore resta fondamentale nella storia della tecnologia anche per il contributo da essa apportato alla termodinamica. Nella tecnica dei trasporti si definisce \"locomotiva\" l'insieme della macchina e del tender. Qualora le scorte di acqua e di combustibile non vengano trasportate su un veicolo apposito ma sulla macchina, il mezzo viene denominato locomotiva-tender (o locotender).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Een stoomlocomotief is een type locomotief die als energiebron een stoommachine gebruikt. De belangrijkste onderdelen van de stoomlocomotief zijn: de stoomketel met aangebouwde vuurkist, het frame met de daarin gelagerde assen en de stoommachine met de stoomverdeling.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "A Locomotiva a vapor \u00e9 uma locomotiva propulsionada por um motor a vapor que comp\u00f5e-se de tr\u00eas partes principais: a caldeira, produzindo o vapor usando a energia do combust\u00edvel, a m\u00e1quina t\u00e9rmica, transformando a energia do vapor em trabalho mec\u00e2nico e a carro\u00e7aria, carregando a constru\u00e7\u00e3o. O vag\u00e3o-reboque (tamb\u00e9m chamado \"tender\") de uma locomotiva a vapor transporta o combust\u00edvel e a \u00e1gua necess\u00e1rios para a alimenta\u00e7\u00e3o da m\u00e1quina. As primeiras locomotivas apareceram no s\u00e9culo XIX sendo o mais popular tipo de locomotiva at\u00e9 ao fim da Segunda Guerra Mundial. No Brasil as locomotivas a vapor receberam o apelido de \"Maria-Fuma\u00e7a\" em virtude da densa nuvem de vapor e fuligem expelida por sua chamin\u00e9, sendo que no final do s\u00e9culo XIX e in\u00edcio do s\u00e9culo XX, os matutos e caipiras, davam-lhe o nome de \"Baldu\u00edna\", uma corruptela de Baldwin, a marca das locomotivas de origem norte-americana, usadas \u00e0 altura.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u84b8\u6c17\u6a5f\u95a2\u8eca\uff08\u3058\u3087\u3046\u304d\u304d\u304b\u3093\u3057\u3083\uff09\u3068\u306f\u3001\u84b8\u6c17\u6a5f\u95a2\u306b\u3088\u3063\u3066\u52d5\u304f\u6a5f\u95a2\u8eca\u306e\u3053\u3068\u3067\u3042\u308b\u3002 \u65e5\u672c\u3067\u306f Steam Locomotive \u306e\u982d\u6587\u5b57\u3092\u3068\u3063\u3066\u3001SL\uff08\u30a8\u30b9\u30a8\u30eb\uff09\u3068\u3082\u547c\u3070\u308c\u308b\u3002\u307e\u305f\u3001\u84b8\u6c17\u6a5f\u95a2\u8eca\u3001\u307e\u305f\u306f\u84b8\u6c17\u6a5f\u95a2\u8eca\u304c\u727d\u5f15\u3059\u308b\u5217\u8eca\u306e\u3053\u3068\u3092\u6c7d\u8eca\u3068\u3082\u8a00\u3046\u3002\u307e\u305f\u3001\u660e\u6cbb\u6642\u4ee3\u306b\u306f\u84b8\u6c17\u8239\u306b\u5bfe\u3057\u3066\u9678\u306e\u4e0a\u3092\u84b8\u6c17\u6a5f\u95a2\u3067\u8d70\u308b\u3053\u3068\u304b\u3089\u3001\u300c\u9678\u84b8\u6c17\u300d\uff08\u304a\u304b\u3058\u3087\u3046\u304d\uff09\u3068\u3082\u547c\u3093\u3067\u3044\u305f\u3002\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6226\u306e\u9803\u307e\u3067\u306f\u300c\u6c7d\u7f50\u8eca\u300d\uff08\u304d\u304b\u3093\u3057\u3083\uff09\u3068\u3044\u3046\u8868\u8a18\u3082\u7528\u3044\u3089\u308c\u305f\uff08\u300c\u6c7d\u7f50\u300d\u306f\u30dc\u30a4\u30e9\u30fc\u306e\u610f\uff09\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Die Dampflokomotive (kurz Dampflok, als Metapher auch Dampfross) ist eine Bauform der Lokomotive, die von Wasserdampf angetrieben wird. Neben der weit verbreiteten Regelbauart mit Dampferzeuger und Kolbendampfmaschinen gibt es Sonderbauarten wie feuerlose Lokomotiven, Zahnraddampflokomotiven, solche mit Einzelachsantrieb, Turbinen-, Kondens- und Hochdrucklokomotiven. Dampflokomotiven waren die ersten selbstfahrenden, maschinell angetriebenen Schienenfahrzeuge und dominierten den Schienenverkehr von seiner Entstehung bis zur Mitte des 20. Jahrhunderts. Dampflokomotiven waren auch Tr\u00e4ger der nunmehr einsetzenden rasanten Entwicklung der Transporttechnik sowie des nationalen wie des internationalen Handels. Mit dem Aufkommen modernerer Antriebstechnologien wurden die Dampflokomotiven wegen ihres vergleichsweise schlechten Wirkungsgrades und wegen des hohen Bedienungs-, Wartungs- und Reparaturaufwandes nach und nach von Diesel- und Elektrotriebfahrzeugen abgel\u00f6st; zum Teil gab es auch Dampflokverbote. Seit dem letzten Viertel des 20. Jahrhunderts ist der Neubau von Dampflokomotiven eine Ausnahme.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u84b8\u6c7d\u6a5f\u8eca\uff0c\u53c8\u7a31\u84b8\u6c7d\u706b\u8eca\uff0c\u662f\u4ee5\u84b8\u6c7d\u673a\u505a\u70ba\u52d5\u529b\u4f86\u6e90\u7684\u9435\u8def\u6a5f\u8eca\uff0c\u4e5f\u662f\u9435\u8def\u6a5f\u8eca\u6700\u65e9\u7684\u767c\u5c55\u985e\u5225\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0430\u0440\u043e\u0432\u043e\u0301\u0437 \u2014 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043b\u043e\u043a\u043e\u043c\u043e\u0442\u0438\u0432 \u0441 \u043f\u0430\u0440\u043e\u0441\u0438\u043b\u043e\u0432\u043e\u0439 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u043e\u0439, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0449\u0438\u0439 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044f \u043f\u0430\u0440\u043e\u0432\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b. \u041f\u0430\u0440\u043e\u0432\u043e\u0437\u044b \u0431\u044b\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u043c\u0438 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0433\u0430\u044e\u0449\u0438\u043c\u0438\u0441\u044f \u043f\u043e \u0440\u0435\u043b\u044c\u0441\u0430\u043c \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u043c\u0438 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\u043c\u0438, \u0441\u0430\u043c\u043e \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u043b\u043e\u043a\u043e\u043c\u043e\u0442\u0438\u0432 \u043f\u043e\u044f\u0432\u0438\u043b\u043e\u0441\u044c \u0433\u043e\u0440\u0430\u0437\u0434\u043e \u043f\u043e\u0437\u0436\u0435 \u0438 \u0438\u043c\u0435\u043d\u043d\u043e \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u043f\u0430\u0440\u043e\u0432\u043e\u0437\u0430\u043c. \u041f\u0430\u0440\u043e\u0432\u043e\u0437 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c, \u0438 \u0440\u043e\u043b\u044c \u043f\u0430\u0440\u043e\u0432\u043e\u0437\u0430 \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0442\u0440\u0443\u0434\u043d\u043e \u043f\u0435\u0440\u0435\u043e\u0446\u0435\u043d\u0438\u0442\u044c. \u0422\u0430\u043a, \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0435\u043c\u0443 \u043f\u043e\u044f\u0432\u0438\u043b\u0441\u044f \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442, \u0438 \u0438\u043c\u0435\u043d\u043d\u043e \u043f\u0430\u0440\u043e\u0432\u043e\u0437\u044b \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u043b\u0438 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u043e\u0431\u044a\u0451\u043c \u043f\u0435\u0440\u0435\u0432\u043e\u0437\u043e\u043a \u0432 XIX \u0438 \u043f\u0435\u0440\u0432\u043e\u0439 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0435 XX \u0432\u0435\u043a\u0430, \u0441\u044b\u0433\u0440\u0430\u0432 \u043a\u043e\u043b\u043e\u0441\u0441\u0430\u043b\u044c\u043d\u0443\u044e \u0440\u043e\u043b\u044c \u0432 \u043f\u043e\u0434\u044a\u0451\u043c\u0435 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438 \u0446\u0435\u043b\u043e\u0433\u043e \u0440\u044f\u0434\u0430 \u0441\u0442\u0440\u0430\u043d. \u041f\u0430\u0440\u043e\u0432\u043e\u0437\u044b \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e \u0443\u043b\u0443\u0447\u0448\u0430\u043b\u0438\u0441\u044c \u0438 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u043b\u0438\u0441\u044c, \u0447\u0442\u043e \u043f\u0440\u0438\u0432\u0435\u043b\u043e \u043a \u0431\u043e\u043b\u044c\u0448\u043e\u043c\u0443 \u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u0438\u044e \u0438\u0445 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0439, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u0438 \u043e\u0442\u043b\u0438\u0447\u043d\u044b\u0445 \u043e\u0442 \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u043e\u0439. \u0422\u0430\u043a, \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u043f\u0430\u0440\u043e\u0432\u043e\u0437\u044b \u0431\u0435\u0437 \u0442\u0435\u043d\u0434\u0435\u0440\u0430, \u0431\u0435\u0437 \u043a\u043e\u0442\u043b\u0430 \u0438 \u0442\u043e\u043f\u043a\u0438, \u0441 \u0442\u0443\u0440\u0431\u0438\u043d\u043e\u0439 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044f, \u0441 \u0437\u0443\u0431\u0447\u0430\u0442\u043e\u0439 \u0442\u0440\u0430\u043d\u0441\u043c\u0438\u0441\u0441\u0438\u0435\u0439. \u041e\u0434\u043d\u0430\u043a\u043e \u0441 \u0441\u0435\u0440\u0435\u0434\u0438\u043d\u044b XX \u0432\u0435\u043a\u0430 \u043f\u0430\u0440\u043e\u0432\u043e\u0437 \u0431\u044b\u043b \u0432\u044b\u043d\u0443\u0436\u0434\u0435\u043d \u0443\u0441\u0442\u0443\u043f\u0438\u0442\u044c \u0431\u043e\u043b\u0435\u0435 \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u043c \u043b\u043e\u043a\u043e\u043c\u043e\u0442\u0438\u0432\u0430\u043c \u2014 \u0442\u0435\u043f\u043b\u043e\u0432\u043e\u0437\u0430\u043c \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0432\u043e\u0437\u0430\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043f\u0440\u0435\u0432\u043e\u0441\u0445\u043e\u0434\u044f\u0442 \u043f\u0430\u0440\u043e\u0432\u043e\u0437 \u043f\u043e \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u043d\u043e\u0441\u0442\u0438. \u0422\u0435\u043c \u043d\u0435 \u043c\u0435\u043d\u0435\u0435, \u043f\u0430\u0440\u043e\u0432\u043e\u0437\u044b \u0435\u0449\u0451 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e\u0442 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c, \u0432\u043e\u0434\u044f \u043f\u043e\u0435\u0437\u0434\u0430, \u0430 \u0432 \u0440\u044f\u0434\u0435 \u0441\u0442\u0440\u0430\u043d \u043e\u043d\u0438 \u0438 \u043f\u043e\u043d\u044b\u043d\u0435 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e\u0442 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u043d\u0430 \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044f\u0445.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Les premi\u00e8res locomotives, au XIXe si\u00e8cle, sont mues par une machine \u00e0 vapeur, d'o\u00f9 le nom de locomotives \u00e0 vapeur. Ce type de moteur thermique est le plus couramment utilis\u00e9 jusque dans les ann\u00e9es 1950 entre autres en Europe, et est toujours employ\u00e9 localement dans certains pays au XXIe si\u00e8cle. A l'heure actuelle, la plupart des trains sont cependant tract\u00e9s par des locomotives \u00e9lectriques ou thermiques (diesel), ou bien sont constitu\u00e9s par des rames automotrices, ou des autorails, parfois indivisibles, int\u00e9grant la motorisation r\u00e9partie sous les v\u00e9hicules et/ou \u00e0 l'int\u00e9rieur des caisses.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0642\u0627\u0637\u0631\u0629 \u0627\u0644\u0628\u062e\u0627\u0631\u064a\u0629 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Steam locomotive) \u064a\u0639\u0631\u0641 \u0623\u062d\u064a\u0627\u0646\u0627 \u0628\u0642\u0637\u0627\u0631 \u0627\u0644\u0641\u062d\u0645\u060c \u0647\u064a \u0642\u0627\u0637\u0631\u0629 \u0644\u0644\u0633\u0643\u0643 \u0627\u0644\u062d\u062f\u064a\u062f\u064a\u0629 \u062a\u0646\u062a\u062c \u0637\u0627\u0642\u062a\u0647\u0627 \u0645\u0646 \u062e\u0644\u0627\u0644 \u0645\u062d\u0631\u0643 \u0628\u062e\u0627\u0631\u064a \u064a\u062a\u063a\u0630\u0649 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062d\u0631\u0642 \u0628\u0639\u0636 \u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u0627\u062d\u062a\u0631\u0627\u0642 \u062a\u0643\u0648\u0646 \u0639\u0627\u062f\u0629 \u0627\u0644\u0641\u062d\u0645 \u0648\u0627\u0644\u062d\u0637\u0628 \u0648\u0627\u0644\u0646\u0641\u0637\u060c \u0644\u0625\u0646\u062a\u0627\u062c \u0627\u0644\u0628\u062e\u0627\u0631 \u0641\u064a \u0627\u0644\u0645\u0631\u062c\u0644\u060c \u0627\u0644\u0630\u064a \u064a\u062d\u0631\u0643 \u0627\u0644\u0645\u062d\u0631\u0643 \u0627\u0644\u0628\u062e\u0627\u0631\u064a. \u0648\u062a\u062c\u0631\u064a \u0643\u0644 \u0645\u0646 \u0625\u0645\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u0648\u0642\u0648\u062f \u0648\u0627\u0644\u0645\u064a\u0627\u0647 \u0645\u0639 \u0627\u0644\u0642\u0627\u0637\u0631\u0629\u060c \u0625\u0645\u0627 \u0641\u064a \u0627\u0644\u0642\u0627\u0637\u0631\u0629 \u0646\u0641\u0633\u0647\u0627 \u0623\u0648 \u0641\u064a \u0639\u0631\u0628\u0627\u062a \u062a\u0633\u062d\u0628 \u0648\u0631\u0627\u0621\u0647\u0627. \u0635\u0646\u0639\u062a \u0627\u0644\u0642\u0627\u0637\u0631\u0627\u062a \u0627\u0644\u0628\u062e\u0627\u0631\u064a\u0629 \u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0641\u064a \u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0627\u060c \u0648\u0633\u064a\u0637\u0631\u062a \u0639\u0644\u0649 \u0648\u0633\u0627\u0626\u0644 \u0627\u0644\u0646\u0642\u0644 \u0628\u0627\u0644\u0633\u0643\u0643 \u0627\u0644\u062d\u062f\u064a\u062f\u064a\u0629 \u062d\u062a\u0649 \u0645\u0646\u062a\u0635\u0641 \u0627\u0644\u0642\u0631\u0646 \u0627\u064420 \u0641\u064a \u0628\u062f\u0627\u064a\u0627\u062a\u0647 \u0641\u064a \u0648\u0642\u062a \u0645\u0628\u0643\u0631 \u062d\u062a\u0649 \u062d\u0644\u062a \u0645\u062d\u0644\u0647\u0627 \u062a\u062f\u0631\u064a\u062c\u064a\u0627 \u0627\u0644\u0642\u0637\u0627\u0631\u0627\u062a \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0648 \u0642\u0637\u0627\u0631\u0627\u062a \u0627\u0644\u062f\u064a\u0632\u0644 . \u0623\u0648\u0644 \u0635\u0627\u0646\u0639 \u0644\u0644\u0642\u0637\u0627\u0631\u0627\u062a \u0647\u0648 \u0631\u064a\u062a\u0634\u0627\u0631\u062f \u062a\u0631\u064a\u0641\u064a\u062b\u064a\u0643  (1833 \u2013 1771) \u0645\u0646 \u0628\u0644\u0627\u062f \u0627\u0644\u063a\u0627\u0644\u060c \u0641\u0633\u0646\u0629 1803\u0645 \u0623\u0648\u0639\u0632 \u0627\u0644\u064a\u0647 \u0628\u0635\u0646\u0639 \u0642\u0627\u0637\u0631\u0629 \u0628\u062e\u0627\u0631\u064a\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0631\u0628\u0637 \u0628\u064a\u0646 \u0645\u0635\u0627\u0647\u0631 \u0627\u0644\u062d\u062f\u064a\u062f \u0628\u0628\u0646\u064a\u0631\u0627\u0645 \u0648\u0642\u0631\u064a\u0629 \u0623\u0628\u0631\u0633\u064a\u0646\u0648\u0646 \u0627\u0644\u062a\u064a \u062a\u0628\u0639\u062f \u062d\u0648\u0627\u0644\u064a \u062e\u0645\u0633\u0629 \u0639\u0634\u0631 \u0643\u0644\u0645 . \u0641\u0623\u0646\u062c\u0632 \u0642\u0627\u0637\u0631\u0629 \u062a\u0632\u0646 \u062e\u0645\u0633\u0629 \u0623\u0637\u0646\u0627\u0646 \u0623\u0637\u0644\u0642 \u0639\u0644\u064a\u0647\u0627 \u0627\u0633\u0645 \"\u0633\u0627\u0648\u062b \u0648\u064a\u0644\u0632\" \u0648\u0641\u064a \u0623\u0648\u0644 \u062a\u062c\u0631\u0628\u0629 \u0644\u0647\u0627 \u064a\u0648\u0645 24 \u0641\u064a\u0641\u0631\u064a 1804 \u062c\u0631\u062a \u0648\u0631\u0627\u0621\u0647\u0627 \u062d\u0645\u0648\u0644\u0629 \u062a\u0632\u0646 20 \u0637\u0646\u0627\u064b \u0648\u0628\u0633\u0631\u0639\u0629 8 \u0643\u0644\u0645 \u0641\u064a \u0627\u0644\u0633\u0627\u0639\u0629 . \u062b\u0645 \u062c\u0631\u062a \u0628\u0639\u062f \u0630\u0644\u0643 25 \u0637\u0646\u0627\u064b \u0625\u0644\u0627 \u0623\u0646 \u062b\u0642\u0644\u0647\u0627 \u0623\u062d\u062f\u062b \u0639\u0637\u0628\u0627\u064b \u0641\u064a \u0627\u0644\u0633\u0643\u0629 \u0641\u0648\u0636\u0639 \u062d\u062f \u0644\u062a\u062c\u0631\u0628\u062a\u0647\u0627 . \u0648\u0628\u0631\u0647\u0646 \u0647\u0643\u0630\u0627 \u0639\u0644\u0649 \u0623\u0646 \u0627\u0644\u0623\u062d\u0645\u0627\u0644 \u0627\u0644\u062b\u0642\u064a\u0644\u0629 \u0627\u0644\u0647\u0627\u0645\u0629 \u064a\u0645\u0643\u0646 \u062c\u0631\u0647\u0627 \u0628\u0641\u0636\u0644 \u0627\u0644\u062a\u0635\u0627\u0642 \u0627\u0644\u0639\u062c\u0644\u0627\u062a \u0628\u0627\u0644\u0633\u0643\u0629 \u0628\u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u062c\u0631\u0627\u0631\u0629 \u0645\u0646 \u0630\u0644\u0643 \u0627\u0644\u0646\u0648\u0639\u060c \u0641\u0647\u064a \u0628\u0630\u0644\u0643 \u0627\u0644\u0642\u0627\u0637\u0631\u0629 \u0627\u0644\u0627\u0645 \u0644\u062c\u0645\u064a\u0639 \u0627\u0644\u0642\u0637\u0627\u0631\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0644\u062a\u0647\u0627.",
+                "lang": "ar"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/UP_Big_Boy_4014.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743864760,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 196788,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/image": [
+            {
+                "type": "literal",
+                "value": 2007,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            },
+            {
+                "type": "literal",
+                "value": 2003,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Locomotive"
+            }
+        ],
+        "http://dbpedia.org/property/sign": [
+            {
+                "type": "literal",
+                "value": "George Thagard, Owner of the Sandstone Crag Loop Line, 2006",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/width": [
+            {
+                "type": "literal",
+                "value": 100,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Steam_trains": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\ud83d\ude82": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pufferbilly": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Steam_train": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Steam_locomotives": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Choo_choo_train": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Steamtrain": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Steam-powered_locomotive": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Steam_railway_locomotive": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Steam_Train": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Steam_locamotive": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Choo-choo_train": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Steam_loco": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SL": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Muar_State_Railway": {
+        "http://dbpedia.org/ontology/railwayRollingStock": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wiener_Neust\u00e4dter_Lokomotivfabrik": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SECR_J_class": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/George_England_and_Co.": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/American_Locomotive_Company": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LB&SCR_I1_class": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Robert_Dollar_Co._No._3": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GCR_Class_5": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GCR_Class_5A": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/South_African_Class_26_4-8-4": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LB&SCR_I3_class": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/NBR_J_class": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Steam_circuit": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Steam_locomotive": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Richard_Trevithick": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/William_Beardmore_and_Company": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kerr,_Stuart_and_Company": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Clyde_Locomotive_Company": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LB&SCR_J1_class": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plodder_Lane_engine_shed": {
+        "http://dbpedia.org/property/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Malaysia_Federal_Route_74__Taiping-Port_Weld_Railway_LineLandasan_Keretapi_Ta__1": {
+        "http://dbpedia.org/ontology/railwayRollingStock": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/M&GN_Class_C": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Canadian_Pacific_2816": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GER_Class_E22": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GER_Class_F48": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GER_Class_G15": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GER_Class_G58": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GER_Class_P43": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GER_Class_T19": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GER_Class_T26": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SR_L1_class": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Santa_Fe_2913": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Santa_Fe_2926": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GER_Class_S56": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GER_Class_C53": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LNWR_17in_Coal_Engine": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Disney's_Fort_Wilderness_Resort_and_Campground": {
+        "http://dbpedia.org/property/vehicleType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Crewe_Diesel_TMD": {
+        "http://dbpedia.org/property/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GER_Class_D27": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GER_Class_R24": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GCR_Class_8H": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LNWR_1185_Class": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LNWR_380_Class": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Canadian_Pacific_Railway_No._1278": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Canadian_Pacific_Railway_No._1293": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Illinois_Central_Railroad_No._790": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Steamtown,_U.S.A.": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/NZR_D_class_(1874)": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GWR_2251_Class": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sumter_&_Choctaw_102": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GER_Class_527": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LB&SCR_I2_class": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SECR_B1_class": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SECR_L_class": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fablok_TKh49": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Grimsby_engine_shed": {
+        "http://dbpedia.org/property/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/New_Holland_engine_shed": {
+        "http://dbpedia.org/property/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Johore_Wooden_Railway": {
+        "http://dbpedia.org/ontology/railwayRollingStock": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Canadian_Pacific_Railway_No._1246": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Union_Pacific_4012": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Steam_locomotive"
+            }
+        ]
+    }
+}

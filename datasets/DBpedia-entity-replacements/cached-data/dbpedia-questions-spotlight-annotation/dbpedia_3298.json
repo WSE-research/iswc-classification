@@ -1,0 +1,46 @@
+{
+    "@text": "Was Yul Brynner nominated for both the Academy Award for Best Actor and Drama Desk Award for Outstanding Featured Actor in a Musical?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Yul_Brynner",
+            "@support": "535",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Yul Brynner",
+            "@offset": "4",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Awards",
+            "@support": "24888",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Academy Award",
+            "@offset": "39",
+            "@similarityScore": "0.9563712685783766",
+            "@percentageOfSecondRank": "0.04473201033692341"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Award_for_Best_Actor",
+            "@support": "2328",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Best Actor",
+            "@offset": "57",
+            "@similarityScore": "0.9999786282201171",
+            "@percentageOfSecondRank": "8.077980120036652E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Drama_Desk_Award",
+            "@support": "2558",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Drama Desk Award",
+            "@offset": "72",
+            "@similarityScore": "0.9999818668823808",
+            "@percentageOfSecondRank": "9.411969008655858E-6"
+        }
+    ]
+}

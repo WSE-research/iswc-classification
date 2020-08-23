@@ -1,0 +1,46 @@
+{
+    "@text": "Were Vauxhall and Chevrolet Sales India Private subsidiaries of General Motors?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Vauxhall_Motors",
+            "@support": "1522",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Vauxhall",
+            "@offset": "5",
+            "@similarityScore": "0.9681282788302481",
+            "@percentageOfSecondRank": "0.03284821936646692"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chevrolet",
+            "@support": "10840",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Chevrolet",
+            "@offset": "18",
+            "@similarityScore": "0.9980816447816966",
+            "@percentageOfSecondRank": "0.0018235745037619997"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/India",
+            "@support": "281440",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "India",
+            "@offset": "34",
+            "@similarityScore": "0.9995792865196509",
+            "@percentageOfSecondRank": "1.9346902885459212E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/General_Motors",
+            "@support": "9224",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "General Motors",
+            "@offset": "64",
+            "@similarityScore": "0.9999994691325741",
+            "@percentageOfSecondRank": "4.40478736041576E-7"
+        }
+    ]
+}

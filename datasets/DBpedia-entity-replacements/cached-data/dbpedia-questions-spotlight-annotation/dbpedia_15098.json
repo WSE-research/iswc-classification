@@ -1,0 +1,28 @@
+{
+    "@text": "What is the number of objects in the museum collection of The Garden of Earthly Delights?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Museum",
+            "@support": "19971",
+            "@types": "",
+            "@surfaceForm": "museum",
+            "@offset": "37",
+            "@similarityScore": "0.9996785059251527",
+            "@percentageOfSecondRank": "3.1856836522605516E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Earthly_Delights_(album)",
+            "@support": "11",
+            "@types": "Wikidata:Q482994,Wikidata:Q386724,Wikidata:Q2188189,Schema:MusicAlbum,Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,DBpedia:Album",
+            "@surfaceForm": "Earthly Delights",
+            "@offset": "72",
+            "@similarityScore": "0.6575956063973832",
+            "@percentageOfSecondRank": "0.5206611570247862"
+        }
+    ]
+}

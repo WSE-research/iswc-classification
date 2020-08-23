@@ -1,0 +1,37 @@
+{
+    "@text": "Which television show's network  is BBC HD and is related to Doctor Who Confidential?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/BBC",
+            "@support": "106021",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "BBC",
+            "@offset": "36",
+            "@similarityScore": "0.9995951716583734",
+            "@percentageOfSecondRank": "1.8192198828281483E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/High-definition_television",
+            "@support": "7453",
+            "@types": "",
+            "@surfaceForm": "HD",
+            "@offset": "40",
+            "@similarityScore": "0.9910957138185505",
+            "@percentageOfSecondRank": "0.004636609011702182"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Doctor_Who_Confidential",
+            "@support": "138",
+            "@types": "Wikidata:Q386724,Wikidata:Q15416,Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow",
+            "@surfaceForm": "Doctor Who Confidential",
+            "@offset": "61",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

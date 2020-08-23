@@ -1,0 +1,46 @@
+{
+    "@text": "What political party has governed both in Baraily,MP and Jowai?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Political_party",
+            "@support": "12621",
+            "@types": "",
+            "@surfaceForm": "political party",
+            "@offset": "5",
+            "@similarityScore": "0.9984326246728171",
+            "@percentageOfSecondRank": "8.134708013223566E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Baraily",
+            "@support": "7",
+            "@types": "Wikidata:Q486972,Wikidata:Q3957,Schema:Place,DBpedia:Town,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Baraily",
+            "@offset": "42",
+            "@similarityScore": "0.8755095109505451",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Member_of_parliament",
+            "@support": "40877",
+            "@types": "",
+            "@surfaceForm": "MP",
+            "@offset": "50",
+            "@similarityScore": "0.9646827963792864",
+            "@percentageOfSecondRank": "0.013629096783284151"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Jowai",
+            "@support": "65",
+            "@types": "Wikidata:Q486972,Wikidata:Q3957,Schema:Place,DBpedia:Town,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Jowai",
+            "@offset": "57",
+            "@similarityScore": "0.9822436657712407",
+            "@percentageOfSecondRank": "0.01807727848206277"
+        }
+    ]
+}

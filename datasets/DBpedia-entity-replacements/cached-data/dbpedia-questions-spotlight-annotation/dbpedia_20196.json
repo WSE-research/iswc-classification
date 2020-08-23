@@ -1,0 +1,37 @@
+{
+    "@text": "Which mainter of  Cheasty Boulevard South is also the county seat of the King County, Washingtonsu ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Cheasty_Boulevard_South",
+            "@support": "2",
+            "@types": "Wikidata:Q34442,Schema:Place,DBpedia:RouteOfTransportation,DBpedia:Road,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Cheasty Boulevard South",
+            "@offset": "18",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/County_seat",
+            "@support": "16036",
+            "@types": "",
+            "@surfaceForm": "county seat",
+            "@offset": "54",
+            "@similarityScore": "0.9999995637817661",
+            "@percentageOfSecondRank": "2.49350104931201E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/King_County,_Washington",
+            "@support": "1906",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "King County",
+            "@offset": "73",
+            "@similarityScore": "0.9991161776424361",
+            "@percentageOfSecondRank": "8.841892255012753E-4"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Which is {notation} and the {child astronomical body} of {Sun} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Astronomical_object",
+            "@support": "872",
+            "@types": "",
+            "@surfaceForm": "astronomical body",
+            "@offset": "35",
+            "@similarityScore": "0.9999999999947988",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sun",
+            "@support": "19417",
+            "@types": "",
+            "@surfaceForm": "Sun",
+            "@offset": "58",
+            "@similarityScore": "0.9997046933651581",
+            "@percentageOfSecondRank": "1.6350850967646133E-4"
+        }
+    ]
+}

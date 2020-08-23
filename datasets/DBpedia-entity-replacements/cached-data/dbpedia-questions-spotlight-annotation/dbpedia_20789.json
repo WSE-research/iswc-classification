@@ -1,0 +1,28 @@
+{
+    "@text": "What is the birth location of the pope who was canonized by Agatha of Sicily?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Canonization",
+            "@support": "3358",
+            "@types": "",
+            "@surfaceForm": "canonized",
+            "@offset": "47",
+            "@similarityScore": "0.9986005442136487",
+            "@percentageOfSecondRank": "0.0010530232887612343"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sicily",
+            "@support": "17892",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Sicily",
+            "@offset": "70",
+            "@similarityScore": "0.9975162624012707",
+            "@percentageOfSecondRank": "0.002357386668517709"
+        }
+    ]
+}

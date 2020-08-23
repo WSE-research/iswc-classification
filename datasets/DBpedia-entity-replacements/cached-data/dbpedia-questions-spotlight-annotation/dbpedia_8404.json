@@ -1,0 +1,37 @@
+{
+    "@text": "Name the steam locomotive that is known as a tender locomotive and has the least amount of stroke.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Steam_locomotive",
+            "@support": "6764",
+            "@types": "",
+            "@surfaceForm": "steam locomotive",
+            "@offset": "9",
+            "@similarityScore": "0.9987842559392581",
+            "@percentageOfSecondRank": "0.0012172238934381671"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tender_(rail)",
+            "@support": "1121",
+            "@types": "",
+            "@surfaceForm": "tender locomotive",
+            "@offset": "45",
+            "@similarityScore": "0.9999999824629527",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Stroke",
+            "@support": "8382",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "stroke",
+            "@offset": "91",
+            "@similarityScore": "0.9998145349724046",
+            "@percentageOfSecondRank": "7.97740958079669E-5"
+        }
+    ]
+}

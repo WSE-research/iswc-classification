@@ -1,0 +1,334 @@
+{
+    "http://dbpedia.org/resource/Alphaeus": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/LivingThing100004258"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/CausalAgent100007347"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Organism100004475"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Person"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActor"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatNewTestamentPeople"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Person100007846"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Alfeu (B\u00edblia)",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Alphaeus",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0410\u043b\u0444\u0435\u0439 (\u041a\u043b\u0435\u043e\u043f)",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Alph\u00e4us",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Alfe\u00fcs",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u062d\u0644\u0641\u0649",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Alph\u00e9e (Nouveau Testament)",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e9e\u52d2\u8153",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Cleof\u00e1s",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Alphaeus is a man mentioned in the New Testament as the father of two of the Twelve Apostles, namely: \n* Saint Matthew \n* James, son of Alphaeus There were two men named Alphaeus. One of them was the father of the apostle James. His name was Alphaeus of Cleophas. Though both Matthew and James are described as being the \"son of Alphaeus\" there is no Biblical account of the two being called brothers, even in the same context where John and James or Peter and Andrew are described as being brothers.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0410\u043b\u0444\u0435\u0439 \u043c\u0443\u0436\u0447\u0438\u043d\u0430, \u0443\u043f\u043e\u043c\u0438\u043d\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u0432 \u041d\u043e\u0432\u043e\u043c \u0437\u0430\u0432\u0435\u0442\u0435 \u043a\u0430\u043a \u043e\u0442\u0435\u0446 \u0434\u0432\u0443\u0445 \u0430\u043f\u043e\u0441\u0442\u043e\u043b\u043e\u0432: \n* \u041b\u0435\u0432\u0438\u0439_\u041c\u0430\u0442\u0444\u0435\u0439 \n* \u0418\u0430\u043a\u043e\u0432_\u0410\u043b\u0444\u0435\u0435\u0432 \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u043f\u043e\u0434 \u044d\u0442\u0438\u043c \u0438\u043c\u0435\u043d\u0435\u043c \u043f\u043e\u0434\u0440\u0430\u0437\u0443\u043c\u0435\u0441\u0430\u044e\u0442\u0441\u044f \u0434\u0432\u0430 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430. \u0418 \u041c\u0430\u0442\u0444\u0435\u0439, \u0438 \u0418\u0430\u043a\u043e\u0432 \u043d\u0430\u0437\u0432\u0430\u043d\u044b \"\u0410\u043b\u0444\u0435\u0435\u0432\" \u0438\u043b\u0438 \"\u0441\u044b\u043d \u0410\u043b\u0444\u0435\u044f\", \u043d\u043e \u043d\u0435\u0442 \u043d\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u043f\u0440\u044f\u043c\u043e\u0433\u043e \u0443\u043f\u043e\u043c\u0438\u043d\u0430\u043d\u0438\u044f \u043d\u0430 \u0442\u043e, \u0447\u0442\u043e \u043e\u043d\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0431\u044b\u043b\u0438 \u0431\u0440\u0430\u0442\u044c\u044f\u043c\u0438. \u0410\u043b\u0444\u0435\u0439 \u0442\u0430\u043a\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u043f\u043e\u0434 \u0438\u043c\u0435\u043d\u0435\u043c \u041a\u043b\u0435\u043e\u043f, \u044d\u0442\u043e \u0438\u043c\u044f \u0442\u0430\u043a\u0436\u0435 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0415\u0432\u0430\u043d\u0435\u0433\u043b\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": " Pour les articles homonymes, voir Alph\u00e9e. Alph\u00e9e, du grec \u1f09\u03bb\u03c6\u03b1\u03af\u03bf\u03c5 qualifie deux disciples de J\u00e9sus membres du groupe des douze ap\u00f4tres: Jacques Alph\u00e9e et L\u00e9vi Alph\u00e9e (Marc 2.14). L\u00e9vi est une appellation de l'ap\u00f4tre Matthieu qui \u00e9tait probablement un L\u00e9vite. Depuis la proposition de saint J\u00e9r\u00f4me (J\u00e9r\u00f4me de Stridon) au IVe si\u00e8cle, Alph\u00e9e est consid\u00e9r\u00e9 \u2014 en particulier dans l'\u00e9glise latine \u2014 comme le nom du p\u00e8re de Jacques le Juste qualifi\u00e9 de \u00ab fr\u00e8re du Seigneur \u00bb ou fr\u00e8re de J\u00e9sus dans de tr\u00e8s nombreuses sources antiques. Pour s'opposer \u00e0 ceux qui voyait en Jacques Alph\u00e9e un fr\u00e8re de J\u00e9sus, saint J\u00e9r\u00f4me a propos\u00e9 de voir en Alph\u00e9e un autre nom pour Clopas. Pour lui Jacques le Juste n'aurait \u00e9t\u00e9 qu'un cousin de J\u00e9sus, appel\u00e9 fr\u00e8re dans les sources antiques. Ce point de vue ne fait tout",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Alfe\u00fcs wordt in het Nieuwe Testament genoemd als vader van twee apostelen: \n* Matte\u00fcs Levi \n* Jakobus Er zijn geen noemenswaardige tradities die de apostelen Matte\u00fcs en Jakobus tot zonen van dezelfde vader maken. Er zou dan in elk geval sprake moeten zijn van twee verschillende mannen met de naam Alfe\u00fcs, die elk de vader waren van een apostel.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Alph\u00e4us ist ein im Neuen Testament zweifach vorkommender Name.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Cleof\u00e1s es el nombre con el que se hace referencia a dos personas que aparecen en La Biblia. Una de ellas es Cleof\u00e1s, uno de los disc\u00edpulos a quien Jes\u00fas en su resurrecci\u00f3n se aparece en la localidad de Emaus (Lucas, 24,18). Su fecha en el martirologio es el 25 de septiembre. La otra persona es Clop\u00e1s, tambi\u00e9n referida como Cleof\u00e1s. La \u00fanica referencia que existe de \u00e9l es a trav\u00e9s de la menci\u00f3n de una tal Mar\u00eda he teu Klopa, traducida generalmente como Mar\u00eda, mujer de Clop\u00e1s. Muchos creen que Clop\u00e1s es la transliterraci\u00f3n griega de Alphaeus, un nombre en arameo, que llega al espa\u00f1ol como Alfeo.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Alfeu \u00e9 uma personagem b\u00edblico do Novo Testamento citado como o pai do ap\u00f3stolo Tiago, filho de Alfeu e, provavelmente, de Judas Tadeu e de Mateus, chamado Levi, filho de Alfeu.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e9e\u52d2\u8153\uff08\u53e4\u5e0c\u814a\u8bed\uff1a\u1f09\u03bb\u03c6\u03b1\u03af\u03bf\u03c5\uff0c\u82f1\u8bed\uff1aAlphaeus\uff09\uff0c\u51fa\u73fe\u5728\u300a\u65b0\u7d04\u300b\u4e2d\u7684\u4eba\u540d\uff0c\u5b83\u662f\u4e00\u500b\u5e0c\u81d8\u6587\u540d\u5b57\uff0c\u8207\u5b83\u5c0d\u61c9\u7684\u5e0c\u4f2f\u4f86\u6587\u540d\u5b57\u70ba\u9769\u7f85\u7f77\u3002\u5728\u65b0\u7d04\u4e2d\uff0c\u540d\u53eb\u4e9e\u52d2\u8153\u7684\u4eba\u6709\u4e09\u500b\uff0d\u4f7f\u5f92\u99ac\u592a\u7684\u7236\u89aa\uff0c\u4f7f\u5f92\u96c5\u5404\u7684\u7236\u89aa\uff0c\u4ee5\u53ca\u4f7f\u5f92\u7336\u5927\u7684\u7236\u89aa\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u062d\u0644\u0641\u0649 \u062c\u0627\u0621 \u0630\u0643\u0631\u0647 \u0641\u064a \u0627\u0644\u0639\u0647\u062f \u0627\u0644\u062c\u062f\u064a\u062f \u0644\u0627\u062b\u0646\u064a\u0646 \u0645\u0646 \u0631\u0633\u0644 \u0627\u0644\u0645\u0633\u064a\u062d \u0627\u0644\u0627\u062b\u0646\u064a \u0639\u0634\u0631: \n*  \u064a\u0639\u0642\u0648\u0628 \u0628\u0646 \u062d\u0644\u0641\u0649 \n*  \u062a\u062f\u0627\u0648\u0633 \u0647\u0646\u0627\u0643 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u062a\u064a \u062a\u0642\u0648\u0644 \u0627\u0646 \u062d\u0644\u0641\u0649 \u0647\u0648 \u0643\u0644\u0648\u0628\u0627 \u0648\u0627\u0646\u0647 \u062a\u0631\u0628\u0637\u0647 \u0639\u0644\u0627\u0642\u0629 \u0642\u0631\u0628\u0649 \u0645\u0639 \u064a\u0633\u0648\u0639 \u0627\u0644\u0645\u0633\u064a\u062d.\u064a\u0642\u0648\u0644 \u0644\u0648\u0642\u0627 \u0627\u0644\u0625\u0646\u062c\u064a\u0644\u0649: \u0623\u0646 \u062c\u0628\u0631\u0627\u0626\u064a\u0644 \u0627\u0644\u0645\u0644\u0627\u0643 \u0623\u0637\u0644\u0639 \u0645\u0631\u064a\u0645 \u0639\u0644\u0649 \u0623\u0646 \u0646\u0633\u064a\u0628\u062a\u0647\u0627 \u0623\u0644\u064a\u0635\u0627\u0628\u0627\u062a \u062d\u0628\u0644\u0649 \u0628\u0627\u0628\u0646 \u0641\u064a \u0634\u064a\u062e\u0648\u062d\u062a\u0647\u0627 (\u0644\u0648\u0642\u0627 1 : 26). \u0647\u0630\u0627 \u0645\u0639\u0646\u0627\u0647 \u0623\u0646 \u0647\u0646\u0627\u0643 \u0635\u0644\u0629 \u0646\u0633\u0628 \u0628\u064a\u0646 \u0645\u0631\u064a\u0645 \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0648\u0623\u0644\u064a\u0635\u0627\u0628\u062a \u0648\u0623\u0646 \u0643\u0644\u0648\u0628\u0627 \u0632\u0648\u062c \u0623\u062e\u062a\u0647\u0627 \u0647\u0648 \u0634\u0642\u064a\u0642 \u0623\u0644\u064a\u0635\u0627\u0628\u0627\u062a \u0648\u0642\u062f \u062a\u0632\u0648\u062c \u0645\u0646 \u0645\u0631\u064a\u0645 \u0623\u062e\u062a \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0648\u0623\u0646\u062c\u0628 \u0645\u0646\u0647\u0627 \u064a\u0639\u0642\u0648\u0628 \u0648\u064a\u0648\u0633\u0649 \u0648\u0633\u0645\u0639\u0627\u0646 \u0648\u064a\u0647\u0648\u0630\u0627.",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1542853"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Alph\u00e4us"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Alfe\u00fcs"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Alphaeus"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Alphaeus"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1542853"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Alfeus"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Alph\u00e9e_(Nouveau_Testament)"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.025rt99"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Alfeu_(B\u00edblia)"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Cleof\u00e1s"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:People_in_the_canonical_gospels"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/name": [
+            {
+                "type": "literal",
+                "value": "Alphaeus",
+                "lang": "en"
+            }
+        ],
+        "http://purl.org/dc/terms/description": [
+            {
+                "type": "literal",
+                "value": "biblical character",
+                "lang": "en"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/gender": [
+            {
+                "type": "literal",
+                "value": "male",
+                "lang": "en"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Alphaeus"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Alphaeus?oldid=743650234"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.catholic.org/saints/saint.php?saint_id=1275"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Alfe\u00fcs wordt in het Nieuwe Testament genoemd als vader van twee apostelen: \n* Matte\u00fcs Levi \n* Jakobus Er zijn geen noemenswaardige tradities die de apostelen Matte\u00fcs en Jakobus tot zonen van dezelfde vader maken. Er zou dan in elk geval sprake moeten zijn van twee verschillende mannen met de naam Alfe\u00fcs, die elk de vader waren van een apostel.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Alphaeus is a man mentioned in the New Testament as the father of two of the Twelve Apostles, namely: \n* Saint Matthew \n* James, son of Alphaeus There were two men named Alphaeus. One of them was the father of the apostle James. His name was Alphaeus of Cleophas. Though both Matthew and James are described as being the \"son of Alphaeus\" there is no Biblical account of the two being called brothers, even in the same context where John and James or Peter and Andrew are described as being brothers. Alphaeus is traditionally identified with Clopas, based on the identification from parallel Gospel accounts of  Mary, the mother of James the third woman with Mary Magdalene and Salome wife of Zebedee beside the cross in Matthew with Mary, the wife of Clopas, the third woman in John's account. The Catholic Encyclopedia suggests that etymologically, the names Clopas and Alphaeus are different, but that they could still be the same person. Other sources propose that Alphaeus, Clophas and Cleophas are variant attempts to render the Aramaic H in Aramaic Hilfai into Greek as aspirated, or K.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Alfeu \u00e9 uma personagem b\u00edblico do Novo Testamento citado como o pai do ap\u00f3stolo Tiago, filho de Alfeu e, provavelmente, de Judas Tadeu e de Mateus, chamado Levi, filho de Alfeu.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": " Pour les articles homonymes, voir Alph\u00e9e. Alph\u00e9e, du grec \u1f09\u03bb\u03c6\u03b1\u03af\u03bf\u03c5 qualifie deux disciples de J\u00e9sus membres du groupe des douze ap\u00f4tres: Jacques Alph\u00e9e et L\u00e9vi Alph\u00e9e (Marc 2.14). L\u00e9vi est une appellation de l'ap\u00f4tre Matthieu qui \u00e9tait probablement un L\u00e9vite. Depuis la proposition de saint J\u00e9r\u00f4me (J\u00e9r\u00f4me de Stridon) au IVe si\u00e8cle, Alph\u00e9e est consid\u00e9r\u00e9 \u2014 en particulier dans l'\u00e9glise latine \u2014 comme le nom du p\u00e8re de Jacques le Juste qualifi\u00e9 de \u00ab fr\u00e8re du Seigneur \u00bb ou fr\u00e8re de J\u00e9sus dans de tr\u00e8s nombreuses sources antiques. Pour s'opposer \u00e0 ceux qui voyait en Jacques Alph\u00e9e un fr\u00e8re de J\u00e9sus, saint J\u00e9r\u00f4me a propos\u00e9 de voir en Alph\u00e9e un autre nom pour Clopas. Pour lui Jacques le Juste n'aurait \u00e9t\u00e9 qu'un cousin de J\u00e9sus, appel\u00e9 fr\u00e8re dans les sources antiques. Ce point de vue ne fait toutefois pas consensus ni parmi les \u00c9glises chr\u00e9tiennes, ni parmi les historiens. Dans les textes antiques de la tradition chr\u00e9tienne, Alph\u00e9e est inconnu dans d'autres circonstances que celles qui sert \u00e0 pr\u00e9ciser de quel Jacques il est question, Jacques d'Alph\u00e9e (\u1f38\u03ac\u03ba\u03c9\u03b2\u03bf\u03c2 \u1f41 \u03c4\u03bf\u1fe6 \u1f09\u03bb\u03c6\u03b1\u03af\u03bf\u03c5). Apr\u00e8s la proposition de J\u00e9r\u00f4me de Stridon (fin du IVe si\u00e8cle), il devient un synonyme de Clopas (et m\u00eame parfois de Cl\u00e9ophas). Une bonne part des ex\u00e9g\u00e8tes et des critiques l'emploient comme synonyme de Clopas et d\u00e9signent donc le mari de Marie Salom\u00e9 aussi bien par le nom Clopas que par le nom Alph\u00e9e. Dans la L\u00e9gende dor\u00e9e, l'\u00e9poux de Marie Salom\u00e9 est appel\u00e9 Alph\u00e9e. Quelles que soient les nombreuses sources chr\u00e9tiennes qui parlent de ces deux personnages, il n'y a aucune indication que les ap\u00f4tres Jacques et Matthieu \u2014 tous deux distingu\u00e9s par le qualificatif \"d'Alph\u00e9e\" \u2014 aient \u00e9t\u00e9 fr\u00e8res. Pour Robert Eisenman, \u1f09\u03bb\u03c6\u03b1\u03af\u03bf\u03c5 pourrait-\u00eatre une forme grecque par laquelle on d\u00e9signait le fils qui dans les familles pieuses \u00e9tait consacr\u00e9 \u00e0 Dieu d\u00e8s sa naissance. Jacques et L\u00e9vi d'Alph\u00e9e auraient ainsi \u00e9t\u00e9 consacr\u00e9s \u00e0 Dieu, c'est-\u00e0-dire qu'ils auraient \u00e9t\u00e9 des nazir \u00e0 vie, ce qui correspond \u00e0 la description qu'H\u00e9g\u00e9sippe fait de \u00ab Jacques, le fr\u00e8re du Seigneur \u00bb puisqu'il le pr\u00e9sente comme un nazir \u00e0 vie, assurant les fonctions de grand pr\u00eatre qui entrait seul dans le saint des saints et passant ses jours dans le Temple \u00e0 interc\u00e9der pour son peuple.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u062d\u0644\u0641\u0649 \u062c\u0627\u0621 \u0630\u0643\u0631\u0647 \u0641\u064a \u0627\u0644\u0639\u0647\u062f \u0627\u0644\u062c\u062f\u064a\u062f \u0644\u0627\u062b\u0646\u064a\u0646 \u0645\u0646 \u0631\u0633\u0644 \u0627\u0644\u0645\u0633\u064a\u062d \u0627\u0644\u0627\u062b\u0646\u064a \u0639\u0634\u0631: \n*  \u064a\u0639\u0642\u0648\u0628 \u0628\u0646 \u062d\u0644\u0641\u0649 \n*  \u062a\u062f\u0627\u0648\u0633 \u0647\u0646\u0627\u0643 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u062a\u064a \u062a\u0642\u0648\u0644 \u0627\u0646 \u062d\u0644\u0641\u0649 \u0647\u0648 \u0643\u0644\u0648\u0628\u0627 \u0648\u0627\u0646\u0647 \u062a\u0631\u0628\u0637\u0647 \u0639\u0644\u0627\u0642\u0629 \u0642\u0631\u0628\u0649 \u0645\u0639 \u064a\u0633\u0648\u0639 \u0627\u0644\u0645\u0633\u064a\u062d.\u064a\u0642\u0648\u0644 \u0644\u0648\u0642\u0627 \u0627\u0644\u0625\u0646\u062c\u064a\u0644\u0649: \u0623\u0646 \u062c\u0628\u0631\u0627\u0626\u064a\u0644 \u0627\u0644\u0645\u0644\u0627\u0643 \u0623\u0637\u0644\u0639 \u0645\u0631\u064a\u0645 \u0639\u0644\u0649 \u0623\u0646 \u0646\u0633\u064a\u0628\u062a\u0647\u0627 \u0623\u0644\u064a\u0635\u0627\u0628\u0627\u062a \u062d\u0628\u0644\u0649 \u0628\u0627\u0628\u0646 \u0641\u064a \u0634\u064a\u062e\u0648\u062d\u062a\u0647\u0627 (\u0644\u0648\u0642\u0627 1 : 26). \u0647\u0630\u0627 \u0645\u0639\u0646\u0627\u0647 \u0623\u0646 \u0647\u0646\u0627\u0643 \u0635\u0644\u0629 \u0646\u0633\u0628 \u0628\u064a\u0646 \u0645\u0631\u064a\u0645 \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0648\u0623\u0644\u064a\u0635\u0627\u0628\u062a \u0648\u0623\u0646 \u0643\u0644\u0648\u0628\u0627 \u0632\u0648\u062c \u0623\u062e\u062a\u0647\u0627 \u0647\u0648 \u0634\u0642\u064a\u0642 \u0623\u0644\u064a\u0635\u0627\u0628\u0627\u062a \u0648\u0642\u062f \u062a\u0632\u0648\u062c \u0645\u0646 \u0645\u0631\u064a\u0645 \u0623\u062e\u062a \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0648\u0623\u0646\u062c\u0628 \u0645\u0646\u0647\u0627 \u064a\u0639\u0642\u0648\u0628 \u0648\u064a\u0648\u0633\u0649 \u0648\u0633\u0645\u0639\u0627\u0646 \u0648\u064a\u0647\u0648\u0630\u0627. \u0648\u0642\u062f \u0627\u0646\u062a\u062e\u0628 \u064a\u0633\u0648\u0639 \u0627\u0644\u0645\u0633\u064a\u062d \u0643\u0644 \u0645\u0646 \u064a\u0639\u0642\u0648\u0628 \u0648\u064a\u0647\u0648\u0630\u0627 \u0623\u0628\u0646\u0627\u0621 \u062d\u0644\u0641\u0649 \u0627\u0644\u0645\u0635\u062d\u0641 \u0643\u0644\u0648\u0628\u0627 \u0636\u0645\u0646 \u0627\u0644\u0627\u062b\u0646\u0649 \u0639\u0634\u0631 \u0631\u0633\u0648\u0644\u0627. \u0623\u0645\u0627 \u0643\u0644\u0648\u0628\u0627 \u0623\u0628\u064a\u0647\u0645 \u0641\u0627\u0646\u062a\u062e\u0628\u0647 \u0636\u0645\u0646 \u0627\u0644\u0633\u0628\u0639\u0648\u0646 \u0631\u0633\u0648\u0644\u0627 \u0648\u0642\u062f \u0638\u0647\u0631 \u0644\u0647 \u0627\u0644\u0631\u0628 \u0628\u0639\u062f \u0642\u064a\u0627\u0645\u062a\u0647 \u0628\u064a\u0646\u0645\u0627 \u0643\u0627\u0646 \u0641\u064a \u0637\u0631\u064a\u0642\u0647 \u0625\u0644\u0649 \u0639\u0645\u0648\u0627\u0633 \u0645\u0639 \u0644\u0648\u0642\u0627 \u0627\u0644\u0631\u0633\u0648\u0644 \u0648\u0642\u062f \u0630\u0643\u0631\u0647 \u0627\u0644\u0623\u062e\u064a\u0631 \u0628\u0627\u0644\u0627\u0633\u0645 \u0628\u0623\u0646\u0647 \u0643\u0627\u0646 \u064a\u062f\u0639\u0649 \u0643\u0644\u064a\u0648\u0628\u0627\u0633 (\u0644\u0648\u0642\u0627 24 : 13\u060c 18).",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Alph\u00e4us ist ein im Neuen Testament zweifach vorkommender Name.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e9e\u52d2\u8153\uff08\u53e4\u5e0c\u814a\u8bed\uff1a\u1f09\u03bb\u03c6\u03b1\u03af\u03bf\u03c5\uff0c\u82f1\u8bed\uff1aAlphaeus\uff09\uff0c\u51fa\u73fe\u5728\u300a\u65b0\u7d04\u300b\u4e2d\u7684\u4eba\u540d\uff0c\u5b83\u662f\u4e00\u500b\u5e0c\u81d8\u6587\u540d\u5b57\uff0c\u8207\u5b83\u5c0d\u61c9\u7684\u5e0c\u4f2f\u4f86\u6587\u540d\u5b57\u70ba\u9769\u7f85\u7f77\u3002\u5728\u65b0\u7d04\u4e2d\uff0c\u540d\u53eb\u4e9e\u52d2\u8153\u7684\u4eba\u6709\u4e09\u500b\uff0d\u4f7f\u5f92\u99ac\u592a\u7684\u7236\u89aa\uff0c\u4f7f\u5f92\u96c5\u5404\u7684\u7236\u89aa\uff0c\u4ee5\u53ca\u4f7f\u5f92\u7336\u5927\u7684\u7236\u89aa\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0410\u043b\u0444\u0435\u0439 \u043c\u0443\u0436\u0447\u0438\u043d\u0430, \u0443\u043f\u043e\u043c\u0438\u043d\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u0432 \u041d\u043e\u0432\u043e\u043c \u0437\u0430\u0432\u0435\u0442\u0435 \u043a\u0430\u043a \u043e\u0442\u0435\u0446 \u0434\u0432\u0443\u0445 \u0430\u043f\u043e\u0441\u0442\u043e\u043b\u043e\u0432: \n* \u041b\u0435\u0432\u0438\u0439_\u041c\u0430\u0442\u0444\u0435\u0439 \n* \u0418\u0430\u043a\u043e\u0432_\u0410\u043b\u0444\u0435\u0435\u0432 \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u043f\u043e\u0434 \u044d\u0442\u0438\u043c \u0438\u043c\u0435\u043d\u0435\u043c \u043f\u043e\u0434\u0440\u0430\u0437\u0443\u043c\u0435\u0441\u0430\u044e\u0442\u0441\u044f \u0434\u0432\u0430 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430. \u0418 \u041c\u0430\u0442\u0444\u0435\u0439, \u0438 \u0418\u0430\u043a\u043e\u0432 \u043d\u0430\u0437\u0432\u0430\u043d\u044b \"\u0410\u043b\u0444\u0435\u0435\u0432\" \u0438\u043b\u0438 \"\u0441\u044b\u043d \u0410\u043b\u0444\u0435\u044f\", \u043d\u043e \u043d\u0435\u0442 \u043d\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u043f\u0440\u044f\u043c\u043e\u0433\u043e \u0443\u043f\u043e\u043c\u0438\u043d\u0430\u043d\u0438\u044f \u043d\u0430 \u0442\u043e, \u0447\u0442\u043e \u043e\u043d\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0431\u044b\u043b\u0438 \u0431\u0440\u0430\u0442\u044c\u044f\u043c\u0438. \u0410\u043b\u0444\u0435\u0439 \u0442\u0430\u043a\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u043f\u043e\u0434 \u0438\u043c\u0435\u043d\u0435\u043c \u041a\u043b\u0435\u043e\u043f, \u044d\u0442\u043e \u0438\u043c\u044f \u0442\u0430\u043a\u0436\u0435 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0415\u0432\u0430\u043d\u0435\u0433\u043b\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Cleof\u00e1s es el nombre con el que se hace referencia a dos personas que aparecen en La Biblia. Una de ellas es Cleof\u00e1s, uno de los disc\u00edpulos a quien Jes\u00fas en su resurrecci\u00f3n se aparece en la localidad de Emaus (Lucas, 24,18). Su fecha en el martirologio es el 25 de septiembre. La otra persona es Clop\u00e1s, tambi\u00e9n referida como Cleof\u00e1s. La \u00fanica referencia que existe de \u00e9l es a trav\u00e9s de la menci\u00f3n de una tal Mar\u00eda he teu Klopa, traducida generalmente como Mar\u00eda, mujer de Clop\u00e1s. Muchos creen que Clop\u00e1s es la transliterraci\u00f3n griega de Alphaeus, un nombre en arameo, que llega al espa\u00f1ol como Alfeo.",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743650234,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 1327852,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Man"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Alphaeus": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Alphaeus"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Alpheus": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Alphaeus"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Alphaeus_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Alphaeus"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Matthew_the_Apostle": {
+        "http://dbpedia.org/ontology/parent": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Alphaeus"
+            }
+        ]
+    }
+}

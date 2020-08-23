@@ -1,0 +1,28 @@
+{
+    "@text": "Is the MV Loch Tarbert gross tonnage less than 168.8?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/MV_Loch_Tarbert",
+            "@support": "2",
+            "@types": "Wikidata:Q11446,DUL:DesignedArtifact,Schema:Product,DBpedia:Ship,DBpedia:MeanOfTransportation",
+            "@surfaceForm": "MV Loch Tarbert",
+            "@offset": "7",
+            "@similarityScore": "0.9999999999992895",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Gross_tonnage",
+            "@support": "478",
+            "@types": "",
+            "@surfaceForm": "gross tonnage",
+            "@offset": "23",
+            "@similarityScore": "0.99121269593987",
+            "@percentageOfSecondRank": "0.006785293488903233"
+        }
+    ]
+}

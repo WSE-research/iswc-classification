@@ -1,0 +1,37 @@
+{
+    "@text": "Was the JMA magnitude of the 2013 Lushan earthquake 6.9?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Japan_Meteorological_Agency",
+            "@support": "1476",
+            "@types": "Wikidata:Q43229,Wikidata:Q327333,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:GovernmentAgency,DBpedia:Agent",
+            "@surfaceForm": "JMA",
+            "@offset": "8",
+            "@similarityScore": "0.9999999994922604",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Moment_magnitude_scale",
+            "@support": "1658",
+            "@types": "",
+            "@surfaceForm": "magnitude",
+            "@offset": "12",
+            "@similarityScore": "0.924807853134633",
+            "@percentageOfSecondRank": "0.07705494481146377"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/2013_Lushan_earthquake",
+            "@support": "16",
+            "@types": "Wikidata:Q1656682,DUL:Event,Schema:Event,DBpedia:NaturalEvent,DBpedia:Event,DBpedia:Earthquake",
+            "@surfaceForm": "Lushan earthquake",
+            "@offset": "34",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

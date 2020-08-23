@@ -1,0 +1,46 @@
+{
+    "@text": "Name the venue in Romania that had diplomatic relations in Israel during World War I.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Romania",
+            "@support": "58481",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Romania",
+            "@offset": "18",
+            "@similarityScore": "0.9987530685624942",
+            "@percentageOfSecondRank": "8.142895394858491E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Diplomacy",
+            "@support": "3879",
+            "@types": "",
+            "@surfaceForm": "diplomatic relations",
+            "@offset": "35",
+            "@similarityScore": "0.9999711440482086",
+            "@percentageOfSecondRank": "1.1974289882600702E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Israel",
+            "@support": "114301",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Israel",
+            "@offset": "59",
+            "@similarityScore": "0.9999749501174541",
+            "@percentageOfSecondRank": "1.3683393017148591E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/World_War_I",
+            "@support": "117975",
+            "@types": "",
+            "@surfaceForm": "World War I",
+            "@offset": "73",
+            "@similarityScore": "0.9999898593184775",
+            "@percentageOfSecondRank": "9.611095356508915E-6"
+        }
+    ]
+}

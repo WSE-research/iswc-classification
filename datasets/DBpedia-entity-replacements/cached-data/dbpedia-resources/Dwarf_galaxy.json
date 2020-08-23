@@ -1,0 +1,582 @@
+{
+    "http://dbpedia.org/resource/UGC_5692": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Henize_2-10": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dwarf_galaxy": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Galaxy108270938"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Collection107951464"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatGalaxies"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Galaxy"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatDwarfGalaxies"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u0645\u062c\u0631\u0629 \u0642\u0632\u0645\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Galaxie naine",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u77ee\u5c0f\u9280\u6cb3",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Galaxia enana",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u77ee\u661f\u7cfb",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Galassia nana",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Gal\u00e1xia an\u00e3",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Galaktyka kar\u0142owata",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Dwarf galaxy",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u0430\u0440\u043b\u0438\u043a\u043e\u0432\u0430\u044f \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Dwergsterrenstelsel",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Zwerggalaxie",
+                "lang": "de"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Una galassia nana \u00e8 una galassia composta da alcuni miliardi di stelle, poche se confrontate con i 200/400 miliardi circa di stelle della Via Lattea, la nostra galassia. La Grande Nube di Magellano, con oltre 30 miliardi di stelle, \u00e8 a volte classificata come galassia nana. Il suo nome \u00e8 dovuto al prefisso d (Dwarf, in lingua inglese \"nano\") che precede la categoria della galassia. Le galassie nane si differenziano in base alla morfologia: \n*  Galassie nane ellittiche (dE)  \n*  Galassie nane sferoidali (dSph) \n*  Galassie Nane Irregolari (dI)",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0645\u062c\u0631\u0629 \u0642\u0632\u0645\u0629 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: dwarf galaxy) \u0647\u064a \u0645\u062c\u0631\u0629 \u0635\u063a\u064a\u0631\u0629 \u062a\u062a\u0643\u0648\u0646 \u0645\u0646 \u0639\u062f\u0629 \u0628\u0644\u0627\u064a\u064a\u0646 \u0645\u0646 \u0627\u0644\u0646\u062c\u0648\u0645 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0628\u0627\u0644\u0645\u0642\u0627\u0631\u0646\u0629 \u0628\u0645\u062c\u0631\u062a\u0646\u0627 \u060c \u0645\u062c\u0631\u0629 \u062f\u0631\u0628 \u0627\u0644\u062a\u0628\u0627\u0646\u0629 \u060c \u0627\u0644\u062a\u064a \u062a\u062d\u0648\u064a 200 \u0625\u0644\u0649 400 \u0645\u0644\u064a\u0627\u0631 \u0645\u0646 \u0627\u0644\u0646\u062c\u0648\u0645. \u0648\u062a\u0635\u0646\u0641 \u0633\u062d\u0627\u0628\u0629 \u0645\u0627\u062c\u0644\u0627\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u062a\u064a \u062a\u0646\u062a\u0645\u064a \u0625\u0644\u0649 \u0645\u062c\u0631\u062a\u0646\u0627 \u0645\u0646 \u0630\u0644\u0643 \u0627\u0644\u0646\u0648\u0639 .",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Galaktyka kar\u0142owata \u2013 ma\u0142a galaktyka zawieraj\u0105ca, zazwyczaj, od miliona do kilku miliard\u00f3w gwiazd.Nie ma \u015bci\u015ble okre\u015blonych rozmiar\u00f3w, wyznaczaj\u0105cych g\u00f3rn\u0105 granic\u0119 dla galaktyk kar\u0142owatych, ale galaktyka o \u015brednicy poni\u017cej 40 000 lat \u015bwietlnych mo\u017ce by\u0107 uwa\u017cana za kar\u0142owat\u0105[potrzebny przypis]. Do tej klasy galaktyk zaliczane s\u0105 m.in. Ma\u0142y Ob\u0142ok Magellana i Wielki Ob\u0142ok Magellana. Galaktyki kar\u0142owate dzielone s\u0105 na nast\u0119puj\u0105ce typy morfologiczne:",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u77ee\u661f\u7cfb\u662f\u7531\u6578\u5341\u5104\u9846\u6046\u661f\u7d44\u6210\uff0c\u4e00\u7a2e\u6bd4\u8f03\u5c0f\u7684\u661f\u7cfb\uff0c\u6bd4\u6211\u5011\u9280\u6cb3\u7cfb\u6709\u4e8c\u5343\u81f3\u56db\u5343\u5104\u9846\u6046\u661f\u5c11\u4e86\u8a31\u591a\u3002\u5927\u9ea5\u54f2\u502b\u661f\u7cfb\uff0c\u5927\u7d04\u6709300\u5104\u9846\u6046\u661f\uff0c\u7576\u5728\u8a0e\u8ad6\u5728\u9280\u6cb3\u7cfb\u5468\u570d\u7684\u661f\u7cfb\u6642\uff0c\u6709\u6642\u4e5f\u6703\u88ab\u6b78\u985e\u70ba\u77ee\u661f\u7cfb\u3002 \u5728\u672c\u661f\u7cfb\u7fa4\u6709\u8a31\u591a\u7684\u77ee\u661f\u7cfb\uff1a\u9019\u4e9b\u5c0f\u661f\u7cfb\u591a\u6578\u90fd\u4ee5\u8ecc\u9053\u74b0\u7e5e\u8457\u5927\u661f\u7cfb\uff0c\u50cf\u662f\u9280\u6cb3\u7cfb\u3001\u4ed9\u5973\u5ea7\u661f\u7cfb\u3001\u548c\u4e09\u89d2\u5ea7\u661f\u7cfb\u3002 \u9280\u6cb3\u7cfb\u670914\u500b\u5df2\u77e5\u7684\u77ee\u661f\u7cfb\u74b0\u7e5e\u8457\uff0c\u53c3\u8003\u9280\u6cb3\u7cfb\u6709\u66f4\u591a\u7684\u8cc7\u6599\u3002 \u77ee\u661f\u7cfb\u6709\u8a31\u591a\u4e0d\u540c\u7684\u5206\u985e\u6cd5\uff1a \n*  \u6a62\u5713\u661f\u7cfb: \u77ee\u6a62\u5713\u661f\u7cfb \uff08dE\uff09\u548c\u6b21\u5206\u985e\u77ee\u6a62\u7403\u661f\u7cfb\uff08dSph\uff09 \n*  \u4e0d\u898f\u5247\u661f\u7cfb: \u77ee\u4e0d\u898f\u5247\u661f\u7cfb (dI) \n*  \u87ba\u65cb\u661f\u7cfb: \u77ee\u87ba\u65cb\u661f\u7cfb \u54c8\u6bd4\u661f\u7cfb\u662f\u7528\u4f86\u63cf\u8ff0\u66f4\u5c0f\u548c\u66f4\u6697\u6de1\u7684\u661f\u7cfb\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Une galaxie naine est une petite galaxie compos\u00e9e de l'ordre de 10 milliards d'\u00e9toiles, un nombre relativement faible par rapport aux 200 \u00e0 400 milliards d'\u00e9toiles de la Voie lact\u00e9e. Ces galaxies gravitent souvent autour de galaxies plus importantes comme la Voie lact\u00e9e, la galaxie d'Androm\u00e8de ou la galaxie du Triangle. La Voie lact\u00e9e poss\u00e8de plus d'une trentaine de galaxies naines connues qui gravitent autour d'elle. La galaxie d'Androm\u00e8de poss\u00e8de aussi ses galaxies naines satellites.Ces deux grandes galaxies et leur galaxies naines satellites forment le Groupe local.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Zwerggalaxien sind extragalaktische Sternsysteme, die zwischen den kleineren Kugelsternhaufen und den gr\u00f6\u00dferen \u201enormalen\u201c Galaxien liegen. Im Allgemeinen geht man heute davon aus, dass es keine grundlegenden Unterschiede zwischen \u201enormalen\u201c Galaxien und Zwerggalaxien als Systemen gibt und deren Eigenschaften dazwischen einen kontinuierlichen \u00dcbergang vollziehen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "A gal\u00e1xia an\u00e3 \u00e9 um aglomerado relativamente pequenos de estrelas que geralmente orbitam em torno de gal\u00e1xias maiores, por isso tamb\u00e9m conhecidas como gal\u00e1xias sat\u00e9lites. Uma gal\u00e1xia an\u00e3 \u00e9 composta de at\u00e9 alguns bilh\u00f5es de estrelas - um n\u00famero pequeno se comparado \u00e0 nossa gal\u00e1xia, a Via L\u00e1ctea, de estimadas 200-400 bilh\u00f5es de estrelas. A maioria das gal\u00e1xias forma-se em associa\u00e7\u00e3o com uma subst\u00e2ncia misteriosa apelidada de mat\u00e9ria escura ou a partir de g\u00e1s contendo metais, com isso as gal\u00e1xias an\u00e3s s\u00e3o tipicamente muito dif\u00edceis de detectar, dado o seu baixo brilho.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "A dwarf galaxy is a small galaxy composed of about 100 million up to several billion stars, a small number compared to the Milky Way's 200\u2013400 billion stars. The Large Magellanic Cloud, which closely orbits the Milky Way and contains over 30 billion stars, is sometimes classified as a dwarf galaxy; others consider it a full-fledged galaxy. Dwarf galaxies' formation and activity are thought to be heavily influenced by interactions with larger galaxies. Astronomers identify numerous types of dwarf galaxies, based on their shape and composition.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Een dwergsterrenstelsel (Engels: dwarf galaxy) is een sterrenstelsel met beduidend minder sterren dan een standaard sterrenstelsel. De uiterste grens waarbij een sterrenstelsel nog als dwergsterrenstelsel telt is niet precies bekend. Er zijn vele dwergsterrenstelsels in de lokale Groep. Vaak cirkelen ze rond grotere sterrenstelsels zoals de Melkweg en de Andromedanevel.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Una galaxia enana es una galaxia peque\u00f1a compuesta por varios millones de estrellas, pudiendo llegar hasta unos pocos miles de millones, en contraposici\u00f3n a una galaxia \u00abnormal\u00bb compuesta por muchos miles de millones, pudiendo llegar hasta los cientos de miles de millones de estrellas, y a las galaxias \u00abgigantes\u00bb compuestas hasta por billones de estrellas. Si en lugar de la cantidad de estrellas se considera su tama\u00f1o, las enanas miden desde unos pocos p\u00e1rsecs hasta los 10 000 aproximadamente, en contraposici\u00f3n al resto, que pueden llegar e incluso superar ampliamente los 100 000 parsecs.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u77ee\u5c0f\u9280\u6cb3\uff08\u308f\u3044\u3057\u3087\u3046\u304e\u3093\u304c\u3001dwarf galaxy\uff09\u306f\u6570\u5341\u5104\u500b\u4ee5\u4e0b\u306e\u6052\u661f\u304b\u3089\u306a\u308b\u5c0f\u3055\u306a\u9280\u6cb3\u3067\u3042\u308b\u3002\u6211\u3005\u306e\u9280\u6cb3\u7cfb\u306b\u306f2000\u5104\uff5e4000\u5104\u500b\u306e\u661f\u304c\u542b\u307e\u308c\u3066\u3044\u308b\u304c\u3001\u77ee\u5c0f\u9280\u6cb3\u306e\u898f\u6a21\u306f\u3053\u306e\u7d041/100\u4ee5\u4e0b\u3067\u3042\u308a\u3001\u7279\u306b\u5c0f\u898f\u6a21\u306a\u77ee\u5c0f\u6955\u5186\u9280\u6cb3\u306f\u7403\u72b6\u661f\u56e3\u3068\u533a\u5225\u3067\u304d\u306a\u3044\u307b\u3069\u3067\u3042\u308b\u3002\u9280\u6cb3\u7cfb\u306e\u4f34\u9280\u6cb3\u306e\u4e00\u3064\u3067\u3042\u308b\u5927\u30de\u30bc\u30e9\u30f3\u96f2\u306b\u306f300\u5104\u500b\u4ee5\u4e0a\u306e\u661f\u304c\u3042\u308b\u304c\u3001\u77ee\u5c0f\u9280\u6cb3\u306b\u5206\u985e\u3055\u308c\u308b\u5834\u5408\u3082\u3042\u308b\u3002 \u6211\u3005\u306e\u9280\u6cb3\u7cfb\u304c\u5c5e\u3059\u308b\u5c40\u90e8\u9280\u6cb3\u7fa4\u306b\u306f\u305f\u304f\u3055\u3093\u306e\u77ee\u5c0f\u9280\u6cb3\u304c\u5b58\u5728\u3059\u308b\u3002\u3053\u308c\u3089\u306e\u5c0f\u3055\u306a\u9280\u6cb3\u306f\u3001\u9280\u6cb3\u7cfb\u3084\u30a2\u30f3\u30c9\u30ed\u30e1\u30c0\u9280\u6cb3 (M31)\u3001\u3055\u3093\u304b\u304f\u5ea7\u9280\u6cb3 (M33) \u306a\u3069\u3001\u3088\u308a\u5927\u304d\u306a\u9280\u6cb3\u306e\u5468\u308a\u3092\u5468\u56de\u3057\u3066\u3044\u308b\u3053\u3068\u304c\u591a\u3044\u3002\u9280\u6cb3\u7cfb\u306e\u5468\u56f2\u306b\u306f12\u500b\u306e\u77ee\u5c0f\u9280\u6cb3\u304c\u5468\u56de\u3057\u3066\u3044\u308b\u3053\u3068\u304c\u77e5\u3089\u308c\u3066\u3044\u308b\u3002\u661f\u306e\u6570\u304c\u5c11\u306a\u304f\u7d76\u5bfe\u7b49\u7d1a\u3082\u4f4e\u3044\u305f\u3081\u3001\u5c40\u90e8\u9280\u6cb3\u7fa4\u306b\u5c5e\u3059\u308b\u3082\u306e\u4ee5\u5916\u306f\u308f\u305a\u304b\u3057\u304b\u77e5\u3089\u308c\u3066\u3044\u306a\u3044\u304c\u3001\u5b87\u5b99\u5168\u4f53\u306b\u308f\u305f\u3063\u3066\u591a\u6570\u5b58\u5728\u3057\u3001\u591a\u304f\u306f\u5927\u578b\u306e\u9280\u6cb3\u306e\u5468\u56f2\u3092\u56de\u3063\u3066\u3044\u308b\u3082\u306e\u3068\u8003\u3048\u3089\u308c\u308b\u3002 \u77ee\u5c0f\u9280\u6cb3\u306e\u5927\u90e8\u5206\u306f\u661f\u9593\u7269\u8cea\u3092\u307b\u3068\u3093\u3069\u6301\u3063\u3066\u304a\u3089\u305a\u3001\u4e3b\u3068\u3057\u3066\u7a2e\u65cfII\u306e\u661f\u3067\u69cb\u6210\u3055\u308c\u3066\u3044\u308b\u3002\u77ee\u5c0f\u9280\u6cb3\u306f\u8cea\u91cf\u304c\u5c0f\u3055\u304f\u91cd\u529b\u3082\u5f31\u3044\u305f\u3081\u3001\u8a95\u751f\u306e\u969b\u306b\u8d77\u3053\u3063\u305f\u30b9\u30bf\u30fc\u30d0\u30fc\u30b9\u30c8\u306b\u3088\u308a\u661f\u9593\u7269\u8cea\u304c\u52a0\u71b1\u3055\u308c\u3066\u9280\u6cb3\u5916\u3078\u62e1\u6563\u3057\u3066\u3057\u307e\u3063\u305f\u305f\u3081\u3068\u63a8\u6e2c\u3055\u308c\u308b\u3002 \u77ee\u5c0f\u9280\u6cb3\u3082\u901a\u5e38\u306e\u9280\u6cb3\u3068\u540c\u69d8\u306b\u3001\u5f62\u614b\u3054\u3068\u306b\u4ee5\u4e0b\u306e\u3088\u3046\u306a\u69d8\u3005\u306a\u5206\u985e\u306b\u5206\u3051\u3089\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u0430\u0301\u0440\u043b\u0438\u043a\u043e\u0432\u0430\u044f \u0433\u0430\u043b\u0430\u0301\u043a\u0442\u0438\u043a\u0430 \u2014 \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0430, \u0441\u043e\u0441\u0442\u043e\u044f\u0449\u0430\u044f \u0438\u0437 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u043c\u0438\u043b\u043b\u0438\u0430\u0440\u0434\u043e\u0432 \u0437\u0432\u0451\u0437\u0434 (\u0447\u0442\u043e \u043e\u0447\u0435\u043d\u044c \u043c\u0430\u043b\u043e \u043f\u043e \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044e, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0441 \u043d\u0430\u0448\u0435\u0439 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u043e\u0439, \u043d\u0430\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u044e\u0449\u0435\u0439 \u043e\u043a\u043e\u043b\u043e 200\u2014400 \u043c\u0438\u043b\u043b\u0438\u0430\u0440\u0434\u043e\u0432 \u0437\u0432\u0451\u0437\u0434). \u041a \u043a\u0430\u0440\u043b\u0438\u043a\u043e\u0432\u044b\u043c \u043e\u0442\u043d\u043e\u0441\u044f\u0442 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438 \u0441\u043e \u0441\u0432\u0435\u0442\u0438\u043c\u043e\u0441\u0442\u044c\u044e \u043c\u0435\u043d\u044c\u0448\u0435 109 L\u2609 (\u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u0432 100 \u0440\u0430\u0437 \u043c\u0435\u043d\u044c\u0448\u0435 \u0441\u0432\u0435\u0442\u0438\u043c\u043e\u0441\u0442\u0438 \u041c\u043b\u0435\u0447\u043d\u043e\u0433\u043e \u041f\u0443\u0442\u0438), \u0447\u0442\u043e \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u221216m \u0430\u0431\u0441\u043e\u043b\u044e\u0442\u043d\u043e\u0439 \u0437\u0432\u0451\u0437\u0434\u043d\u043e\u0439 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0435. \u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u041c\u0430\u0433\u0435\u043b\u043b\u0430\u043d\u043e\u0432\u043e \u041e\u0431\u043b\u0430\u043a\u043e, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0449\u0435\u0435 30 \u043c\u043b\u0440\u0434 \u0437\u0432\u0451\u0437\u0434, \u0438\u043d\u043e\u0433\u0434\u0430 \u043a\u043b\u0430\u0441\u0441\u0438\u0444\u0438\u0446\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u043a\u0430\u0440\u043b\u0438\u043a\u043e\u0432\u0430\u044f \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0430, \u0432 \u0442\u043e \u0432\u0440\u0435\u043c\u044f \u043a\u0430\u043a \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442 \u0435\u0451 \u043a\u0430\u043a \u043f\u043e\u043b\u043d\u043e\u0446\u0435\u043d\u043d\u0443\u044e \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0443, \u0434\u0432\u0438\u0436\u0443\u0449\u0443\u044e\u0441\u044f \u0432\u043e\u043a\u0440\u0443\u0433 \u041c\u043b\u0435\u0447\u043d\u043e\u0433\u043e \u041f\u0443\u0442\u0438.",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Galaksi_katai"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q190438"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Gal\u00e1xia_an\u00e3"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q190438"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Zwerggalaxie"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03txwx"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u77ee\u5c0f\u9280\u6cb3"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4253341-7"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Trpasli\u010d\u00ed_galaxie"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Galaxie_naine"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Galaxia_enana"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc65c\uc18c\uc740\ud558"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039d\u03ac\u03bd\u03bf\u03c2_\u03b3\u03b1\u03bb\u03b1\u03be\u03af\u03b1\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Galassia_nana"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Dwergsterrenstelsel"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Dwarf_galaxy"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Galaktyka_kar\u0142owata"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Dwarf_galaxies"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Galaxy_morphological_types"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Large.mc.arp.750pix.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Dwarf_galaxy"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Dwarf_galaxy?oldid=736130069"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.astro.uu.se/~ns/mwsat.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.space.com/scienceastronomy/070115_mm_hobbit_galaxies.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://sciencenow.sciencemag.org/cgi/content/full/2007/109/1"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u041a\u0430\u0301\u0440\u043b\u0438\u043a\u043e\u0432\u0430\u044f \u0433\u0430\u043b\u0430\u0301\u043a\u0442\u0438\u043a\u0430 \u2014 \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0430, \u0441\u043e\u0441\u0442\u043e\u044f\u0449\u0430\u044f \u0438\u0437 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u043c\u0438\u043b\u043b\u0438\u0430\u0440\u0434\u043e\u0432 \u0437\u0432\u0451\u0437\u0434 (\u0447\u0442\u043e \u043e\u0447\u0435\u043d\u044c \u043c\u0430\u043b\u043e \u043f\u043e \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044e, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0441 \u043d\u0430\u0448\u0435\u0439 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u043e\u0439, \u043d\u0430\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u044e\u0449\u0435\u0439 \u043e\u043a\u043e\u043b\u043e 200\u2014400 \u043c\u0438\u043b\u043b\u0438\u0430\u0440\u0434\u043e\u0432 \u0437\u0432\u0451\u0437\u0434). \u041a \u043a\u0430\u0440\u043b\u0438\u043a\u043e\u0432\u044b\u043c \u043e\u0442\u043d\u043e\u0441\u044f\u0442 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438 \u0441\u043e \u0441\u0432\u0435\u0442\u0438\u043c\u043e\u0441\u0442\u044c\u044e \u043c\u0435\u043d\u044c\u0448\u0435 109 L\u2609 (\u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u0432 100 \u0440\u0430\u0437 \u043c\u0435\u043d\u044c\u0448\u0435 \u0441\u0432\u0435\u0442\u0438\u043c\u043e\u0441\u0442\u0438 \u041c\u043b\u0435\u0447\u043d\u043e\u0433\u043e \u041f\u0443\u0442\u0438), \u0447\u0442\u043e \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u221216m \u0430\u0431\u0441\u043e\u043b\u044e\u0442\u043d\u043e\u0439 \u0437\u0432\u0451\u0437\u0434\u043d\u043e\u0439 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0435. \u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u041c\u0430\u0433\u0435\u043b\u043b\u0430\u043d\u043e\u0432\u043e \u041e\u0431\u043b\u0430\u043a\u043e, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0449\u0435\u0435 30 \u043c\u043b\u0440\u0434 \u0437\u0432\u0451\u0437\u0434, \u0438\u043d\u043e\u0433\u0434\u0430 \u043a\u043b\u0430\u0441\u0441\u0438\u0444\u0438\u0446\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u043a\u0430\u0440\u043b\u0438\u043a\u043e\u0432\u0430\u044f \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0430, \u0432 \u0442\u043e \u0432\u0440\u0435\u043c\u044f \u043a\u0430\u043a \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442 \u0435\u0451 \u043a\u0430\u043a \u043f\u043e\u043b\u043d\u043e\u0446\u0435\u043d\u043d\u0443\u044e \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0443, \u0434\u0432\u0438\u0436\u0443\u0449\u0443\u044e\u0441\u044f \u0432\u043e\u043a\u0440\u0443\u0433 \u041c\u043b\u0435\u0447\u043d\u043e\u0433\u043e \u041f\u0443\u0442\u0438. \u041e\u0447\u0435\u043d\u044c \u0441\u0438\u043b\u044c\u043d\u043e \u0440\u0430\u0437\u043d\u044f\u0442\u0441\u044f \u043a\u0430\u0440\u043b\u0438\u043a\u043e\u0432\u044b\u0435 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438 \u043f\u043e \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u043d\u043e\u0439 \u044f\u0440\u043a\u043e\u0441\u0442\u0438. \u0415\u0441\u043b\u0438 \u043e\u0431\u044b\u0447\u043d\u044b\u0435 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438 \u0438\u043c\u0435\u044e\u0442 \u0441\u0440\u0435\u0434\u043d\u044e\u044e \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u043d\u0443\u044e \u044f\u0440\u043a\u043e\u0441\u0442\u044c \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u0440\u0430\u0432\u043d\u0443\u044e \u044f\u0440\u043a\u043e\u0441\u0442\u0438 \u043d\u043e\u0447\u043d\u043e\u0433\u043e \u043d\u0435\u0431\u0430, \u0442\u043e \u043a\u0430\u0440\u043b\u0438\u043a\u043e\u0432\u044b\u0435 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438 \u043e\u0442\u043b\u0438\u0447\u0430\u044e\u0442\u0441\u044f \u0434\u0440\u0443\u0433 \u043e\u0442 \u0434\u0440\u0443\u0433\u0430 \u043f\u043e \u0441\u0432\u043e\u0435\u0439 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u043d\u043e\u0439 \u044f\u0440\u043a\u043e\u0441\u0442\u0438 \u0431\u043e\u043b\u0435\u0435 \u0447\u0435\u043c \u043d\u0430 10m.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Une galaxie naine est une petite galaxie compos\u00e9e de l'ordre de 10 milliards d'\u00e9toiles, un nombre relativement faible par rapport aux 200 \u00e0 400 milliards d'\u00e9toiles de la Voie lact\u00e9e. Ces galaxies gravitent souvent autour de galaxies plus importantes comme la Voie lact\u00e9e, la galaxie d'Androm\u00e8de ou la galaxie du Triangle. La Voie lact\u00e9e poss\u00e8de plus d'une trentaine de galaxies naines connues qui gravitent autour d'elle. La plus grande d'entre-elles est le Grand Nuage de Magellan, d'un diam\u00e8tre d'environ 15000 ann\u00e9es-lumi\u00e8re.Les deux plus petites, la galaxie naine de la Car\u00e8ne et Leo II ont un diam\u00e8tre d'environ 1600 ann\u00e9es-lumi\u00e8re. La galaxie d'Androm\u00e8de poss\u00e8de aussi ses galaxies naines satellites.Ces deux grandes galaxies et leur galaxies naines satellites forment le Groupe local. Les galaxies naines pr\u00e9sentent plusieurs morphologies diff\u00e9rentes : \n*  galaxie naine elliptique et le sous-type galaxie naine sph\u00e9ro\u00efdale \n*  galaxie naine irr\u00e9guli\u00e8re \n*  galaxie naine spirale",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "A gal\u00e1xia an\u00e3 \u00e9 um aglomerado relativamente pequenos de estrelas que geralmente orbitam em torno de gal\u00e1xias maiores, por isso tamb\u00e9m conhecidas como gal\u00e1xias sat\u00e9lites. Uma gal\u00e1xia an\u00e3 \u00e9 composta de at\u00e9 alguns bilh\u00f5es de estrelas - um n\u00famero pequeno se comparado \u00e0 nossa gal\u00e1xia, a Via L\u00e1ctea, de estimadas 200-400 bilh\u00f5es de estrelas. A maioria das gal\u00e1xias forma-se em associa\u00e7\u00e3o com uma subst\u00e2ncia misteriosa apelidada de mat\u00e9ria escura ou a partir de g\u00e1s contendo metais, com isso as gal\u00e1xias an\u00e3s s\u00e3o tipicamente muito dif\u00edceis de detectar, dado o seu baixo brilho. H\u00e1 muitas gal\u00e1xias an\u00e3s no Grupo local - essas gal\u00e1xias frequentemente orbitam gal\u00e1xias maiores, como Andr\u00f4meda, gal\u00e1xia do Tri\u00e2ngulo e a Via L\u00e1ctea - com as Nuvens de Magalh\u00e3es. A Grande Nuvem de Magalh\u00e3es, com mais de 30 bilh\u00f5es de estrelas, \u00e9 considerada por uns uma gal\u00e1xia an\u00e3, enquanto outros a consideram uma gal\u00e1xia comum orbitando a Via L\u00e1ctea.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Una galassia nana \u00e8 una galassia composta da alcuni miliardi di stelle, poche se confrontate con i 200/400 miliardi circa di stelle della Via Lattea, la nostra galassia. La Grande Nube di Magellano, con oltre 30 miliardi di stelle, \u00e8 a volte classificata come galassia nana. Il suo nome \u00e8 dovuto al prefisso d (Dwarf, in lingua inglese \"nano\") che precede la categoria della galassia. Le galassie nane orbitano normalmente intorno a galassie molto pi\u00f9 grandi. Essendo oggetti non molto luminosi, sono note solo le galassie nane del gruppo locale, ovvero dell'ammasso di galassie di cui fanno parte la Via Lattea, la Galassia di Andromeda e la Galassia del Triangolo. La Via Lattea possiede 14 galassie nane note in orbita attorno a s\u00e8. Le galassie nane si differenziano in base alla morfologia: \n*  Galassie nane ellittiche (dE)  \n*  Galassie nane sferoidali (dSph) \n*  Galassie Nane Irregolari (dI) Alcune galassie nane note sono quelle ellittiche del Sagittario e del Cane Maggiore \u00c8 stata scoperta recentemente una nuova tipologia: le galassie nane ultra-compatte, caratterizzate da dimensioni molto piccole: 100 - 200 anni luce di diametro.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0645\u062c\u0631\u0629 \u0642\u0632\u0645\u0629 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: dwarf galaxy) \u0647\u064a \u0645\u062c\u0631\u0629 \u0635\u063a\u064a\u0631\u0629 \u062a\u062a\u0643\u0648\u0646 \u0645\u0646 \u0639\u062f\u0629 \u0628\u0644\u0627\u064a\u064a\u0646 \u0645\u0646 \u0627\u0644\u0646\u062c\u0648\u0645 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0628\u0627\u0644\u0645\u0642\u0627\u0631\u0646\u0629 \u0628\u0645\u062c\u0631\u062a\u0646\u0627 \u060c \u0645\u062c\u0631\u0629 \u062f\u0631\u0628 \u0627\u0644\u062a\u0628\u0627\u0646\u0629 \u060c \u0627\u0644\u062a\u064a \u062a\u062d\u0648\u064a 200 \u0625\u0644\u0649 400 \u0645\u0644\u064a\u0627\u0631 \u0645\u0646 \u0627\u0644\u0646\u062c\u0648\u0645. \u0648\u062a\u0635\u0646\u0641 \u0633\u062d\u0627\u0628\u0629 \u0645\u0627\u062c\u0644\u0627\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u062a\u064a \u062a\u0646\u062a\u0645\u064a \u0625\u0644\u0649 \u0645\u062c\u0631\u062a\u0646\u0627 \u0645\u0646 \u0630\u0644\u0643 \u0627\u0644\u0646\u0648\u0639 .",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "A dwarf galaxy is a small galaxy composed of about 100 million up to several billion stars, a small number compared to the Milky Way's 200\u2013400 billion stars. The Large Magellanic Cloud, which closely orbits the Milky Way and contains over 30 billion stars, is sometimes classified as a dwarf galaxy; others consider it a full-fledged galaxy. Dwarf galaxies' formation and activity are thought to be heavily influenced by interactions with larger galaxies. Astronomers identify numerous types of dwarf galaxies, based on their shape and composition.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u77ee\u661f\u7cfb\u662f\u7531\u6578\u5341\u5104\u9846\u6046\u661f\u7d44\u6210\uff0c\u4e00\u7a2e\u6bd4\u8f03\u5c0f\u7684\u661f\u7cfb\uff0c\u6bd4\u6211\u5011\u9280\u6cb3\u7cfb\u6709\u4e8c\u5343\u81f3\u56db\u5343\u5104\u9846\u6046\u661f\u5c11\u4e86\u8a31\u591a\u3002\u5927\u9ea5\u54f2\u502b\u661f\u7cfb\uff0c\u5927\u7d04\u6709300\u5104\u9846\u6046\u661f\uff0c\u7576\u5728\u8a0e\u8ad6\u5728\u9280\u6cb3\u7cfb\u5468\u570d\u7684\u661f\u7cfb\u6642\uff0c\u6709\u6642\u4e5f\u6703\u88ab\u6b78\u985e\u70ba\u77ee\u661f\u7cfb\u3002 \u5728\u672c\u661f\u7cfb\u7fa4\u6709\u8a31\u591a\u7684\u77ee\u661f\u7cfb\uff1a\u9019\u4e9b\u5c0f\u661f\u7cfb\u591a\u6578\u90fd\u4ee5\u8ecc\u9053\u74b0\u7e5e\u8457\u5927\u661f\u7cfb\uff0c\u50cf\u662f\u9280\u6cb3\u7cfb\u3001\u4ed9\u5973\u5ea7\u661f\u7cfb\u3001\u548c\u4e09\u89d2\u5ea7\u661f\u7cfb\u3002 \u9280\u6cb3\u7cfb\u670914\u500b\u5df2\u77e5\u7684\u77ee\u661f\u7cfb\u74b0\u7e5e\u8457\uff0c\u53c3\u8003\u9280\u6cb3\u7cfb\u6709\u66f4\u591a\u7684\u8cc7\u6599\u3002 \u77ee\u661f\u7cfb\u6709\u8a31\u591a\u4e0d\u540c\u7684\u5206\u985e\u6cd5\uff1a \n*  \u6a62\u5713\u661f\u7cfb: \u77ee\u6a62\u5713\u661f\u7cfb \uff08dE\uff09\u548c\u6b21\u5206\u985e\u77ee\u6a62\u7403\u661f\u7cfb\uff08dSph\uff09 \n*  \u4e0d\u898f\u5247\u661f\u7cfb: \u77ee\u4e0d\u898f\u5247\u661f\u7cfb (dI) \n*  \u87ba\u65cb\u661f\u7cfb: \u77ee\u87ba\u65cb\u661f\u7cfb \u54c8\u6bd4\u661f\u7cfb\u662f\u7528\u4f86\u63cf\u8ff0\u66f4\u5c0f\u548c\u66f4\u6697\u6de1\u7684\u661f\u7cfb\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Zwerggalaxien sind extragalaktische Sternsysteme, die zwischen den kleineren Kugelsternhaufen und den gr\u00f6\u00dferen \u201enormalen\u201c Galaxien liegen. Im Allgemeinen geht man heute davon aus, dass es keine grundlegenden Unterschiede zwischen \u201enormalen\u201c Galaxien und Zwerggalaxien als Systemen gibt und deren Eigenschaften dazwischen einen kontinuierlichen \u00dcbergang vollziehen. W\u00e4hrend bei den Zwerggalaxien jedoch mit abnehmender absoluter Helligkeit auch ihre Oberfl\u00e4chenhelligkeit (i. e. Leuchtkraftdichte) abnimmt, nimmt bei den gro\u00dfen elliptischen Galaxien mit Zunahme der absoluten Helligkeit ihre Oberfl\u00e4chenhelligkeit ab.Kriterien wie zum Beispiel die absolute Helligkeit, die Fl\u00e4chenhelligkeit, der Halblichtradius, der Durchmesser, die Masse oder die Anzahl der Sterne dienen den Zielen und Erfordernissen der jeweiligen Untersuchung.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u77ee\u5c0f\u9280\u6cb3\uff08\u308f\u3044\u3057\u3087\u3046\u304e\u3093\u304c\u3001dwarf galaxy\uff09\u306f\u6570\u5341\u5104\u500b\u4ee5\u4e0b\u306e\u6052\u661f\u304b\u3089\u306a\u308b\u5c0f\u3055\u306a\u9280\u6cb3\u3067\u3042\u308b\u3002\u6211\u3005\u306e\u9280\u6cb3\u7cfb\u306b\u306f2000\u5104\uff5e4000\u5104\u500b\u306e\u661f\u304c\u542b\u307e\u308c\u3066\u3044\u308b\u304c\u3001\u77ee\u5c0f\u9280\u6cb3\u306e\u898f\u6a21\u306f\u3053\u306e\u7d041/100\u4ee5\u4e0b\u3067\u3042\u308a\u3001\u7279\u306b\u5c0f\u898f\u6a21\u306a\u77ee\u5c0f\u6955\u5186\u9280\u6cb3\u306f\u7403\u72b6\u661f\u56e3\u3068\u533a\u5225\u3067\u304d\u306a\u3044\u307b\u3069\u3067\u3042\u308b\u3002\u9280\u6cb3\u7cfb\u306e\u4f34\u9280\u6cb3\u306e\u4e00\u3064\u3067\u3042\u308b\u5927\u30de\u30bc\u30e9\u30f3\u96f2\u306b\u306f300\u5104\u500b\u4ee5\u4e0a\u306e\u661f\u304c\u3042\u308b\u304c\u3001\u77ee\u5c0f\u9280\u6cb3\u306b\u5206\u985e\u3055\u308c\u308b\u5834\u5408\u3082\u3042\u308b\u3002 \u6211\u3005\u306e\u9280\u6cb3\u7cfb\u304c\u5c5e\u3059\u308b\u5c40\u90e8\u9280\u6cb3\u7fa4\u306b\u306f\u305f\u304f\u3055\u3093\u306e\u77ee\u5c0f\u9280\u6cb3\u304c\u5b58\u5728\u3059\u308b\u3002\u3053\u308c\u3089\u306e\u5c0f\u3055\u306a\u9280\u6cb3\u306f\u3001\u9280\u6cb3\u7cfb\u3084\u30a2\u30f3\u30c9\u30ed\u30e1\u30c0\u9280\u6cb3 (M31)\u3001\u3055\u3093\u304b\u304f\u5ea7\u9280\u6cb3 (M33) \u306a\u3069\u3001\u3088\u308a\u5927\u304d\u306a\u9280\u6cb3\u306e\u5468\u308a\u3092\u5468\u56de\u3057\u3066\u3044\u308b\u3053\u3068\u304c\u591a\u3044\u3002\u9280\u6cb3\u7cfb\u306e\u5468\u56f2\u306b\u306f12\u500b\u306e\u77ee\u5c0f\u9280\u6cb3\u304c\u5468\u56de\u3057\u3066\u3044\u308b\u3053\u3068\u304c\u77e5\u3089\u308c\u3066\u3044\u308b\u3002\u661f\u306e\u6570\u304c\u5c11\u306a\u304f\u7d76\u5bfe\u7b49\u7d1a\u3082\u4f4e\u3044\u305f\u3081\u3001\u5c40\u90e8\u9280\u6cb3\u7fa4\u306b\u5c5e\u3059\u308b\u3082\u306e\u4ee5\u5916\u306f\u308f\u305a\u304b\u3057\u304b\u77e5\u3089\u308c\u3066\u3044\u306a\u3044\u304c\u3001\u5b87\u5b99\u5168\u4f53\u306b\u308f\u305f\u3063\u3066\u591a\u6570\u5b58\u5728\u3057\u3001\u591a\u304f\u306f\u5927\u578b\u306e\u9280\u6cb3\u306e\u5468\u56f2\u3092\u56de\u3063\u3066\u3044\u308b\u3082\u306e\u3068\u8003\u3048\u3089\u308c\u308b\u3002 \u77ee\u5c0f\u9280\u6cb3\u306e\u5927\u90e8\u5206\u306f\u661f\u9593\u7269\u8cea\u3092\u307b\u3068\u3093\u3069\u6301\u3063\u3066\u304a\u3089\u305a\u3001\u4e3b\u3068\u3057\u3066\u7a2e\u65cfII\u306e\u661f\u3067\u69cb\u6210\u3055\u308c\u3066\u3044\u308b\u3002\u77ee\u5c0f\u9280\u6cb3\u306f\u8cea\u91cf\u304c\u5c0f\u3055\u304f\u91cd\u529b\u3082\u5f31\u3044\u305f\u3081\u3001\u8a95\u751f\u306e\u969b\u306b\u8d77\u3053\u3063\u305f\u30b9\u30bf\u30fc\u30d0\u30fc\u30b9\u30c8\u306b\u3088\u308a\u661f\u9593\u7269\u8cea\u304c\u52a0\u71b1\u3055\u308c\u3066\u9280\u6cb3\u5916\u3078\u62e1\u6563\u3057\u3066\u3057\u307e\u3063\u305f\u305f\u3081\u3068\u63a8\u6e2c\u3055\u308c\u308b\u3002 \u77ee\u5c0f\u9280\u6cb3\u3082\u901a\u5e38\u306e\u9280\u6cb3\u3068\u540c\u69d8\u306b\u3001\u5f62\u614b\u3054\u3068\u306b\u4ee5\u4e0b\u306e\u3088\u3046\u306a\u69d8\u3005\u306a\u5206\u985e\u306b\u5206\u3051\u3089\u308c\u308b\u3002 \n*  \u6955\u5186\u9280\u6cb3 - \u77ee\u5c0f\u6955\u5186\u9280\u6cb3\u3084\u305d\u306e\u5c0f\u5206\u985e\u3067\u3042\u308b\u77ee\u5c0f\u6955\u5186\u4f53\u9280\u6cb3 \n*  \u4e0d\u898f\u5247\u9280\u6cb3 - \u77ee\u5c0f\u4e0d\u898f\u5247\u9280\u6cb3 \n*  \u6e26\u5dfb\u9280\u6cb3 - \u77ee\u5c0f\u6e26\u5dfb\u9280\u6cb3\u3001\u77ee\u5c0f\u68d2\u6e26\u5dfb\u9280\u6cb3",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Una galaxia enana es una galaxia peque\u00f1a compuesta por varios millones de estrellas, pudiendo llegar hasta unos pocos miles de millones, en contraposici\u00f3n a una galaxia \u00abnormal\u00bb compuesta por muchos miles de millones, pudiendo llegar hasta los cientos de miles de millones de estrellas, y a las galaxias \u00abgigantes\u00bb compuestas hasta por billones de estrellas. Si en lugar de la cantidad de estrellas se considera su tama\u00f1o, las enanas miden desde unos pocos p\u00e1rsecs hasta los 10 000 aproximadamente, en contraposici\u00f3n al resto, que pueden llegar e incluso superar ampliamente los 100 000 parsecs.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Galaktyka kar\u0142owata \u2013 ma\u0142a galaktyka zawieraj\u0105ca, zazwyczaj, od miliona do kilku miliard\u00f3w gwiazd.Nie ma \u015bci\u015ble okre\u015blonych rozmiar\u00f3w, wyznaczaj\u0105cych g\u00f3rn\u0105 granic\u0119 dla galaktyk kar\u0142owatych, ale galaktyka o \u015brednicy poni\u017cej 40 000 lat \u015bwietlnych mo\u017ce by\u0107 uwa\u017cana za kar\u0142owat\u0105[potrzebny przypis]. Do tej klasy galaktyk zaliczane s\u0105 m.in. Ma\u0142y Ob\u0142ok Magellana i Wielki Ob\u0142ok Magellana. Galaktyki kar\u0142owate s\u0105 dynamicznie zwi\u0105zane z wi\u0119kszymi galaktykami. Liczne galaktyki kar\u0142owate wchodz\u0105 w sk\u0142ad grupy lokalnej, zar\u00f3wno b\u0119d\u0105c satelitami wi\u0119kszych galaktyk, Drogi Mlecznej i galaktyki Andromedy, jak te\u017c wyst\u0119puj\u0105c samotnie. Galaktyki kar\u0142owate dzielone s\u0105 na nast\u0119puj\u0105ce typy morfologiczne: \n*  kar\u0142owate galaktyki eliptyczne (dE) i ich podtyp - kar\u0142owate galaktyki sferoidalne (dSph) \n*  kar\u0142owate galaktyki nieregularne (dI) \n*  kar\u0142owate galaktyki spiralne",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Een dwergsterrenstelsel (Engels: dwarf galaxy) is een sterrenstelsel met beduidend minder sterren dan een standaard sterrenstelsel. De uiterste grens waarbij een sterrenstelsel nog als dwergsterrenstelsel telt is niet precies bekend. Er zijn vele dwergsterrenstelsels in de lokale Groep. Vaak cirkelen ze rond grotere sterrenstelsels zoals de Melkweg en de Andromedanevel. Om de Melkweg zweven 19 bekende dwergsterrenstelsels. Recente ontdekkingen hebben ertoe geleid dat astronomen geloven dat de grootste bolvormige sterrenhoop in de Melkweg, de Omega Centauri, in feite de kern is van een dwergsterrenstelsel met een zwart gat in het midden.",
+                "lang": "nl"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Large.mc.arp.750pix.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 736130069,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 964475,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/BCD_galaxies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Blue_compact_dwarf_galaxies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dwarf": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dwarf_galaxies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ultra_compact_dwarf_galaxy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Dwarf_galaxy": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/AGC_198691": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Blue_compact_dwarf_galaxy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hobbit_Galaxy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Blue_compact_dwarf": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ultra_compact_dwarfs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ultra-compact_dwarf": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ultra-compact_dwarf_galaxy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dwarf_Galaxy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UCD_galaxy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ultra_compact_dwarf": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UCD_galaxies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ultracompact_dwarf_galaxy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ultra-compact_dwarfs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ultra-compact_dwarf_galaxies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ultracompact_dwarf": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ultra_compact_dwarf_galaxies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ultracompact_dwarfs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ultracompact_dwarf_galaxies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/BCD_galaxy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dwarf_galaxy"
+            }
+        ]
+    }
+}

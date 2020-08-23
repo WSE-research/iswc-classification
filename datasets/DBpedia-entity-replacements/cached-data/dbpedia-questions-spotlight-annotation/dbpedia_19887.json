@@ -1,0 +1,28 @@
+{
+    "@text": "Does KOMC play Gospel Music?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/KCAX",
+            "@support": "5",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q15265344,DUL:SocialPerson,DUL:Agent,Schema:RadioStation,Schema:Organization,DBpedia:RadioStation,DBpedia:Organisation,DBpedia:Broadcaster,DBpedia:Agent",
+            "@surfaceForm": "KOMC",
+            "@offset": "5",
+            "@similarityScore": "0.9999999641437121",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Gospel",
+            "@support": "7851",
+            "@types": "",
+            "@surfaceForm": "Gospel",
+            "@offset": "15",
+            "@similarityScore": "0.8090669349000701",
+            "@percentageOfSecondRank": "0.2294826779588762"
+        }
+    ]
+}

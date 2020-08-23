@@ -1,0 +1,46 @@
+{
+    "@text": "Can you tell me which dwarf planet with the largest argument of periapsis has a moon called Dysnomia?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Dwarf_planet",
+            "@support": "845",
+            "@types": "",
+            "@surfaceForm": "dwarf planet",
+            "@offset": "22",
+            "@similarityScore": "0.9998808251995602",
+            "@percentageOfSecondRank": "1.1918900477142601E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Apsis",
+            "@support": "2909",
+            "@types": "",
+            "@surfaceForm": "periapsis",
+            "@offset": "64",
+            "@similarityScore": "0.9999999999637055",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Patricia_Briggs",
+            "@support": "73",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "moon called",
+            "@offset": "80",
+            "@similarityScore": "0.9999999880882627",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Anomic_aphasia",
+            "@support": "80",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "Dysnomia",
+            "@offset": "92",
+            "@similarityScore": "0.9865924079057211",
+            "@percentageOfSecondRank": "0.012432734709988125"
+        }
+    ]
+}

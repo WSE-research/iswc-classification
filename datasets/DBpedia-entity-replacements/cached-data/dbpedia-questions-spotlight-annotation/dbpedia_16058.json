@@ -1,0 +1,46 @@
+{
+    "@text": "Is it true that the common equity tier 1 capital ratio CETI of the BNP Paribas is less than 14.16?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Stock",
+            "@support": "5424",
+            "@types": "",
+            "@surfaceForm": "equity",
+            "@offset": "27",
+            "@similarityScore": "0.680666213274801",
+            "@percentageOfSecondRank": "0.46625303398940193"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tier_1_capital",
+            "@support": "92",
+            "@types": "",
+            "@surfaceForm": "tier 1 capital",
+            "@offset": "34",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Communication_with_extraterrestrial_intelligence",
+            "@support": "43",
+            "@types": "",
+            "@surfaceForm": "CETI",
+            "@offset": "55",
+            "@similarityScore": "0.9999875743318741",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/BNP_Paribas",
+            "@support": "901",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:BankOrCreditUnion,DBpedia:Organisation,DBpedia:Company,DBpedia:Bank,DBpedia:Agent",
+            "@surfaceForm": "BNP Paribas",
+            "@offset": "67",
+            "@similarityScore": "0.9999995624562066",
+            "@percentageOfSecondRank": "4.3754399431260897E-7"
+        }
+    ]
+}

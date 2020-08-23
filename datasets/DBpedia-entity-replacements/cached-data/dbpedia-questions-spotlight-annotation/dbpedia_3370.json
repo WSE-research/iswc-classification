@@ -1,0 +1,28 @@
+{
+    "@text": "Was cancer the cause of death of Paul Newman?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Cancer",
+            "@support": "28507",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "cancer",
+            "@offset": "4",
+            "@similarityScore": "0.9994778897425457",
+            "@percentageOfSecondRank": "2.1956545781375814E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Paul_Newman",
+            "@support": "1523",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Paul Newman",
+            "@offset": "33",
+            "@similarityScore": "0.9999999939070392",
+            "@percentageOfSecondRank": "2.6545272141452367E-9"
+        }
+    ]
+}

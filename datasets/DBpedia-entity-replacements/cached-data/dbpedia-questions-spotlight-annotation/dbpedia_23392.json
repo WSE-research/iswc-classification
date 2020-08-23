@@ -1,0 +1,28 @@
+{
+    "@text": "Was the wife of president Lincoln called Mary?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Abraham_Lincoln",
+            "@support": "12389",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Lincoln",
+            "@offset": "26",
+            "@similarityScore": "0.9745777313992848",
+            "@percentageOfSecondRank": "0.025277314151172466"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mary_I_of_England",
+            "@support": "3256",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Mary",
+            "@offset": "41",
+            "@similarityScore": "0.6415287831898404",
+            "@percentageOfSecondRank": "0.34047240674467316"
+        }
+    ]
+}

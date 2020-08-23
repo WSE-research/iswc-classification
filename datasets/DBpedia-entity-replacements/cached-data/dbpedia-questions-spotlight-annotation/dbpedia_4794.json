@@ -1,0 +1,28 @@
+{
+    "@text": "Who gave the {member of crew of} of {cosmonaut mission} of {Scott E. Parazynski} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Astronaut",
+            "@support": "6028",
+            "@types": "",
+            "@surfaceForm": "cosmonaut",
+            "@offset": "37",
+            "@similarityScore": "0.9999999999959925",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Robert_Falcon_Scott",
+            "@support": "1050",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Scott",
+            "@offset": "60",
+            "@similarityScore": "0.5981712429228704",
+            "@percentageOfSecondRank": "0.402955517430435"
+        }
+    ]
+}

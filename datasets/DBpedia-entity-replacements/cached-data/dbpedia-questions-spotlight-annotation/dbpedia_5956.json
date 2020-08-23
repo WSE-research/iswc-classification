@@ -1,0 +1,28 @@
+{
+    "@text": "Is Isaac Newton born in Westminster Abbey?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Isaac_Newton",
+            "@support": "4097",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q901,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Scientist,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Isaac Newton",
+            "@offset": "3",
+            "@similarityScore": "0.9999999999881624",
+            "@percentageOfSecondRank": "1.1780640851356042E-11"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Westminster_Abbey",
+            "@support": "4554",
+            "@types": "Wikidata:Q41176,Schema:Place,Schema:LandmarksOrHistoricalBuildings,DBpedia:Place,DBpedia:Location,DBpedia:HistoricBuilding,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Westminster Abbey",
+            "@offset": "24",
+            "@similarityScore": "0.9999939537413418",
+            "@percentageOfSecondRank": "6.0453189138600915E-6"
+        }
+    ]
+}

@@ -1,0 +1,574 @@
+{
+    "http://dbpedia.org/resource/Decision_tree_learning": {
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gini": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Gini_coefficient": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chiriqu\u00ed_Province": {
+        "http://dbpedia.org/property/blankNameSec": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gini_coefficient": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Software"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Information106634376"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Message106598915"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Measure100033615"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Index106639674"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SystemOfMeasurement113577171"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Scale113850304"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Standard107260623"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Index113851067"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Communication100033020"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatEconomicIndicators"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatGlobalization-relatedIndices"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Fact106636259"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Coefficient de Gini",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0639\u0627\u0645\u0644 \u062c\u064a\u0646\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Gini coefficient",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u30b8\u30cb\u4fc2\u6570",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Coeficiente de Gini",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442 \u0414\u0436\u0438\u043d\u0438",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Coefficiente di Gini",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Coeficiente de Gini",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u57fa\u5c3c\u7cfb\u6570",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Gini-co\u00ebffici\u00ebnt",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Gini-Koeffizient",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Wsp\u00f3\u0142czynnik Giniego",
+                "lang": "pl"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0645\u0639\u0627\u0645\u0644 \u062c\u064a\u0646\u064a (\u0646\u0633\u0628\u0629 \u0644\u0644\u0639\u0627\u0644\u0645 \u0643\u0648\u0631\u0627\u062f\u0648 \u062c\u064a\u0646\u064a) \u0645\u0646 \u0627\u0644\u0645\u0642\u0627\u064a\u064a\u0633 \u0627\u0644\u0647\u0627\u0645\u0629 \u0648\u0627\u0644\u0623\u0643\u062b\u0631 \u0634\u064a\u0648\u0639\u0627 \u0641\u064a \u0642\u064a\u0627\u0633 \u0639\u062f\u0627\u0644\u0629 \u062a\u0648\u0632\u064a\u0639 \u0627\u0644\u062f\u062e\u0644 \u0627\u0644\u0642\u0648\u0645\u064a\u060c \u062a\u0639\u062a\u0645\u062f \u0641\u0643\u0631\u062a\u0647 \u0639\u0644\u0649 \u0645\u0646\u062d\u0646\u0649 \u0644\u0648\u0631\u0646\u0632\u060c \u064a\u0645\u062a\u0627\u0632 \u0645\u0639\u0627\u0645\u0644 \u062c\u064a\u0646\u064a \u0628\u0623\u0646\u0647 \u064a\u0639\u0637\u064a \u0642\u064a\u0627\u0633\u0627 \u0631\u0642\u0645\u064a\u0627 \u0644\u0639\u062f\u0627\u0644\u0629 \u0627\u0644\u062a\u0648\u0632\u064a\u0639\u060c \u0648\u062a\u062a\u0644\u062e\u0635 \u0641\u0643\u0631\u062a\u0647 \u0628\u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u0645\u062d\u0635\u0648\u0631\u0629 \u0628\u064a\u0646 \u0645\u0646\u062d\u0646\u0649 \u0644\u0648\u0631\u0646\u0632 \u0648\u0628\u064a\u0646 \u062e\u0637 \u0627\u0644\u0645\u0633\u0627\u0648\u0627\u0629 (\u0627\u0644\u062e\u0637 \u0627\u0644\u0642\u0637\u0631\u064a \u0627\u0644\u0648\u0627\u0635\u0644 \u0628\u064a\u0646 \u0646\u0642\u0637\u0629 \u0627\u0644\u0627\u0635\u0640\u0644 \u0648\u0627\u0644\u0646\u0642\u0640\u0637\u0629 (1\u060c1) \u0641\u064a \u0627\u0644\u0631\u0633\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u064a) \u0648\u0636\u0631\u0628 \u0647\u0630\u0647 \u0627\u0644\u0645\u0633\u0627\u062d\u0629 \u0628\u0640 2\u060c \u0648\u0630\u0644\u0643 \u0644\u0623\u0646 \u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u0645\u062b\u0644\u062b \u0627\u0644\u0645\u062d\u0635\u0648\u0631\u0629 \u0628\u064a\u0646 \u062e\u0637 \u0627\u0644\u062a\u0633\u0627\u0648\u064a \u0648\u0627\u0644\u0625\u062d\u062f\u0627\u062b\u064a\u064a\u0646 \u0627\u0644\u0623\u0641\u0642\u064a \u0648\u0627\u0644\u0639\u0645\u0648\u062f\u064a \u062a\u0633\u0627\u0648\u064a 0.5\u060c \u0644\u0630\u0627 \u0641\u0625\u0646 \u0645\u0639\u0627\u0645\u0644 \u062c\u064a\u0646\u064a \u064a\u0646\u062d\u0635\u0631 \u0628\u064a\u0646 \u0627\u0644\u0635\u0641\u0631 \u0648\u0627\u0644\u0648\u0627\u062d\u062f\u060c \u062d\u064a\u062b \u064a\u0643\u0648\u0646 \u0635\u0641\u0631\u0627 \u0639\u0646\u062f\u0645\u0627 \u064a\u0646\u0637\u0628\u0642 \u0645\u0646\u062d\u0646\u0649 \u0644\u0648\u0631\u0646\u0632 \u0639\u0644\u0649 \u062e\u0637 \u0627\u0644\u062a\u0633\u0627\u0648\u064a \u0648\u062a\u0643\u0648\u0646 \u0627\u0644\u0645\u0633\u0627\u062d\u0629 \u0645\u0633\u0627\u0648\u064a\u0629 \u0644\u0644\u0635\u0641\u0631 \u0648\u064a\u0643\u0648\u0646 \u0639\u0646\u062f\u0647\u0627 \u062a\u0648\u0632\u064a\u0639 \u0627\u0644\u062f\u062e\u0644 \u0645\u062a\u0633\u0627\u0648\u064a\u0627 \u0644\u062c\u0645\u064a\u0639 \u0623\u0641\u0631\u0627\u062f \u0627\u0644\u0645\u062c\u062a\u0645\u0639 (\u0627\u0644\u062a\u0648\u0632\u064a\u0639 \u0627\u0644\u0623\u0645\u062b\u0644 \u0644\u0644\u062f\u062e\u0644)\u060c \u0628\u064a\u0646\u0645\u0627 \u064a\u0643\u0648\u0646 \u0645\u0639\u0627\u0645\u0644 \u062c\u064a\u0646\u064a \u0645\u0633\u0627\u0648\u064a\u0627 \u0644\u0644\u0648\u0627\u062d\u062f \u0639",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Wsp\u00f3\u0142czynnik Giniego, wska\u017anik Giniego, indeks Giniego \u2013 stosowana w statystyce miara koncentracji (nier\u00f3wnomierno\u015bci) rozk\u0142adu zmiennej losowej. Nazwa wsp\u00f3\u0142czynnika pochodzi od nazwiska jego tw\u00f3rcy, w\u0142oskiego statystyka Corrado Giniego.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "O Coeficiente de Gini \u00e9 uma medida de desigualdade desenvolvida pelo estat\u00edstico italiano Corrado Gini, e publicada no documento \"Variabilit\u00e0 e mutabilit\u00e0\" (\"Variabilidade e mutabilidade\" em italiano), em 1912. Pode ser usado para qualquer distribui\u00e7\u00e3o embora seja comumente utilizado para medir a desigualdade de distribui\u00e7\u00e3o de renda.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Der Gini-Koeffizient oder auch Gini-Index ist ein statistisches Ma\u00df, das vom italienischen Statistiker Corrado Gini zur Darstellung von Ungleichverteilungen entwickelt wurde. Ungleichverteilungskoeffizienten lassen sich f\u00fcr jegliche Verteilungen berechnen. Beispielsweise gilt der Gini-Koeffizient in der Wirtschaftswissenschaft, aber auch in der Geographie als Ma\u00dfstab f\u00fcr die Einkommens- und Verm\u00f6gensverteilung einzelner L\u00e4nder und somit als Hilfsmittel zur Klassifizierung von L\u00e4ndern und ihrem zugeh\u00f6rigen Entwicklungsstand.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u5805\u5c3c\u7cfb\u6578\uff08\u82f1\u8bed\uff1aGini coefficient\uff09\uff0c\u662f20\u4e16\u7eaa\u521d\u610f\u5927\u5229\u5b66\u8005\u79d1\u62c9\u591a\u00b7\u57fa\u5c3c\u6839\u636e\u52b3\u4f26\u8328\u66f2\u7ebf\u6240\u5b9a\u7fa9\u7684\u5224\u65ad\u5e74\u6536\u5165\u5206\u914d\u516c\u5e73\u7a0b\u5ea6\u7684\u6307\u6807\u3002\u662f\u6bd4\u4f8b\u6578\u503c\uff0c\u57280\u548c1\u4e4b\u9593\u3002\u5805\u5c3c\u6307\u6578\uff08Gini index\uff09\u662f\u6307\u5805\u5c3c\u7cfb\u6578\u4e58100\u500d\u4f5c\u767e\u5206\u6bd4\u8868\u793a\u3002\u5728\u6c11\u4f17\u6536\u5165\u4e2d\uff0c\u5982\u5805\u5c3c\u7cfb\u6578\u6700\u5927\u4e3a\u201c1\u201d\uff0c\u6700\u5c0f\u7b49\u4e8e\u201c0\u201d\u3002\u524d\u8005\u8868\u793a\u5c45\u6c11\u4e4b\u95f4\u7684\u5e74\u6536\u5165\u5206\u914d\u7edd\u5bf9\u4e0d\u5e73\u5747\uff08\u5373\u8be5\u5e74\u6240\u6709\u6536\u5165\u90fd\u96c6\u4e2d\u5728\u4e00\u500b\u4eba\u624b\u88cf\uff0c\u5176\u9918\u7684\u570b\u6c11\u6c92\u6709\u6536\u5165\uff09\uff0c\u800c\u540e\u8005\u5219\u8868\u793a\u5c45\u6c11\u4e4b\u95f4\u7684\u8be5\u5e74\u6536\u5165\u5206\u914d\u7edd\u5bf9\u5e73\u5747\uff0c\u5373\u4eba\u4e0e\u4eba\u4e4b\u95f4\u6536\u5165\u7edd\u5bf9\u5e73\u7b49\uff0c\u8fd9\u5805\u5c3c\u7cfb\u6578\u7684\u5b9e\u9645\u6570\u503c\u53ea\u80fd\u4ecb\u4e8e\u8fd9\u4e24\u79cd\u6781\u7aef\u60c5\u51b5\uff0c\u53730\uff5e1\u4e4b\u95f4\u3002\u5805\u5c3c\u7cfb\u6578\u8d8a\u5c0f\uff0c\u5e74\u6536\u5165\u5206\u914d\u8d8a\u5e73\u5747\uff0c\u5805\u5c3c\u7cfb\u6570\u8d8a\u5927\uff0c\u5e74\u6536\u5165\u5206\u914d\u8d8a\u4e0d\u5e73\u5747\u3002\u8981\u6ce8\u610f\u57fa\u5c3c\u7cfb\u6570\u53ea\u8ba1\u7b97\u67d0\u4e00\u65f6\u6bb5\uff0c\u5982\u4e00\u5e74\u7684\u6536\u5165\uff0c\u4e0d\u8ba1\u7b97\u5df2\u6709\u8d22\u4ea7\uff0c\u56e0\u6b64\u5b83\u4e0d\u80fd\u53cd\u6620\u56fd\u6c11\u7684\u603b\u79ef\u7d2f\u8d22\u5bcc\u5206\u914d\u60c5\u51b5\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u30b8\u30cb\u4fc2\u6570\uff08\u30b8\u30cb\u3051\u3044\u3059\u3046\u3001\u82f1: Gini coefficient\uff09\u3068\u306f\u3001\u4e3b\u306b\u793e\u4f1a\u306b\u304a\u3051\u308b\u6240\u5f97\u5206\u914d\u306e\u4e0d\u5e73\u7b49\u3055\u3092\u6e2c\u308b\u6307\u6a19\u3002\u30ed\u30fc\u30ec\u30f3\u30c4\u66f2\u7dda\u3092\u3082\u3068\u306b\u30011936\u5e74\u306b\u30a4\u30bf\u30ea\u30a2\u306e\u7d71\u8a08\u5b66\u8005\u3001\u30b3\u30c3\u30e9\u30c9\u30fb\u30b8\u30cb\u306b\u3088\u3063\u3066\u8003\u6848\u3055\u308c\u305f\u3002\u6240\u5f97\u5206\u914d\u306e\u4e0d\u5e73\u7b49\u3055\u4ee5\u5916\u306b\u3082\u3001\u5bcc\u306e\u504f\u5728\u6027\u3084\u30a8\u30cd\u30eb\u30ae\u30fc\u6d88\u8cbb\u306b\u304a\u3051\u308b\u4e0d\u5e73\u7b49\u3055\u306a\u3069\u306b\u5fdc\u7528\u3055\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "The Gini coefficient (sometimes expressed as a Gini ratio or a normalized Gini index) (/d\u0292ini/ jee-nee) is a measure of statistical dispersion intended to represent the income distribution of a nation's residents, and is the most commonly used measure of inequality. It was developed by the Italian statistician and sociologist Corrado Gini and published in his 1912 paper Variability and Mutability (Italian: Variabilit\u00e0 e mutabilit\u00e0).",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Il coefficiente di Gini, introdotto dallo statistico italiano Corrado Gini, \u00e8 una misura della diseguaglianza di una distribuzione. \u00c8 spesso usato come indice di concentrazione per misurare la diseguaglianza nella distribuzione del reddito o anche della ricchezza. \u00c8 un numero compreso tra 0 ed 1. Valori bassi del coefficiente indicano una distribuzione abbastanza omogenea, con il valore 0 che corrisponde alla pura equidistribuzione, ad esempio la situazione in cui tutti percepiscono esattamente lo stesso reddito; valori alti del coefficiente indicano una distribuzione pi\u00f9 diseguale, con il valore 1 che corrisponde alla massima concentrazione, ovvero la situazione dove una persona percepisca tutto il reddito del paese mentre tutti gli altri hanno un reddito nullo.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442 \u0414\u0436\u0438\u043d\u0438 \u2014 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c \u0441\u0442\u0435\u043f\u0435\u043d\u0438 \u0440\u0430\u0441\u0441\u043b\u043e\u0435\u043d\u0438\u044f \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u044b \u0438\u043b\u0438 \u0440\u0435\u0433\u0438\u043e\u043d\u0430 \u043f\u043e \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044e \u043a \u043a\u0430\u043a\u043e\u043c\u0443-\u043b\u0438\u0431\u043e \u0438\u0437\u0443\u0447\u0430\u0435\u043c\u043e\u043c\u0443 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0443. \u041a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442 \u0414\u0436\u0438\u043d\u0438 \u0438\u0437\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u043e\u0442 0 \u0434\u043e 1. \u0427\u0435\u043c \u0431\u043b\u0438\u0436\u0435 \u0435\u0433\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043a \u043d\u0443\u043b\u044e, \u0442\u0435\u043c \u0431\u043e\u043b\u0435\u0435 \u0440\u0430\u0432\u043d\u043e\u043c\u0435\u0440\u043d\u043e \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c. \u0418\u043d\u043e\u0433\u0434\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u043f\u0440\u043e\u0446\u0435\u043d\u0442\u043d\u043e\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u044d\u0442\u043e\u0433\u043e \u043a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442\u0430, \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u043c\u043e\u0435 \u0438\u043d\u0434\u0435\u043a\u0441\u043e\u043c \u0414\u0436\u0438\u043d\u0438. \u0418\u043d\u043e\u0433\u0434\u0430 \u043a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442 \u0414\u0436\u0438\u043d\u0438 (\u043a\u0430\u043a \u0438 \u043a\u0440\u0438\u0432\u0443\u044e \u041b\u043e\u0440\u0435\u043d\u0446\u0430) \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \u0442\u0430\u043a\u0436\u0435 \u0438 \u0434\u043b\u044f \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0443\u0440\u043e\u0432\u043d\u044f \u043d\u0435\u0440\u0430\u0432\u0435\u043d\u0441\u0442\u0432\u0430 \u043f\u043e \u043d\u0430\u043a\u043e\u043f\u043b\u0435\u043d\u043d\u043e\u043c\u0443 \u0431\u043e\u0433\u0430\u0442\u0441\u0442\u0432\u0443, \u043e\u0434\u043d\u0430\u043a\u043e \u0432 \u0442\u0430\u043a\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u044b\u043c \u0443\u0441\u043b\u043e\u0432\u0438\u0435\u043c \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043d\u0435\u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0447\u0438\u0441\u0442\u044b\u0445 \u0430\u043a\u0442\u0438\u0432\u043e\u0432 \u0434\u043e\u043c\u043e\u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u0430.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "De Gini-co\u00ebffici\u00ebnt is een getal waarin de mate van ongelijkheid van ontwikkelingen en verschijnselen wordt uitgedrukt. De co\u00ebffici\u00ebnt is ontwikkeld door de Italiaanse statisticus Corrado Gini en in 1912 gepubliceerd in zijn artikel Variabilit\u00e0 e mutabilit\u00e0.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "El coeficiente de Gini es una medida de la desigualdad ideada por el estad\u00edstico italiano Corrado Gini. Normalmente se utiliza para medir la desigualdad en los ingresos, dentro de un pa\u00eds, pero puede utilizarse para medir cualquier forma de distribuci\u00f3n desigual. El coeficiente de Gini es un n\u00famero entre 0 y 1, en donde 0 se corresponde con la perfecta igualdad (todos tienen los mismos ingresos) y donde el valor 1 se corresponde con la perfecta desigualdad (una persona tiene todos los ingresos y los dem\u00e1s ninguno).",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Le coefficient de Gini est une mesure statistique de la dispersion d'une distribution dans une population donn\u00e9e, d\u00e9velopp\u00e9e par le statisticien italien Corrado Gini. Le coefficient de Gini est un nombre variant de 0 \u00e0 1, o\u00f9 0 signifie l'\u00e9galit\u00e9 parfaite et 1 signifie une in\u00e9galit\u00e9 parfaite (par exemple un salari\u00e9 et tous les autres ne le sont pas).Ce coefficient est tr\u00e8s utilis\u00e9 pour mesurer l'in\u00e9galit\u00e9 des revenus dans un pays.",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Decision_tree_learning"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Generalized_entropy_index"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/List_of_countries_by_income_equality"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Gini-co\u00ebffici\u00ebnt"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q162455"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc9c0\ub2c8_\uacc4\uc218"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Coefficiente_di_Gini"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Gini-Koeffizient"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Wsp\u00f3\u0142czynnik_Giniego"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Gini_coefficient"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30b8\u30cb\u4fc2\u6570"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Giniho_koeficient"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Coeficiente_de_Gini"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Koefisien_Gini"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Coeficiente_de_Gini"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Coefficient_de_Gini"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Giniren_koefiziente"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03cmm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q162455"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Economic_indicators"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Index_numbers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Demographic_economics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Welfare_economics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Economic_inequality"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Summary_statistics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Distribution_of_wealth"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Income_distribution"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Special:FilePath/Economics_Gini_coefficient2.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Gini_coefficient"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Gini_coefficient?oldid=743078263"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.forbes.com/forbes/2003/0317/098.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://image.guardian.co.uk/sys-files/Guardian/documents/2009/03/13/inequality.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://econwpa.repec.org/eps/em/papers/0511/0511004.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTPOVERTY/EXTPA/0,,contentMDK:20238991~menuPK:492138~pagePK:148956~piPK:216618~theSitePK:430367,00.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://economics.dal.ca/RePEc/dal/wparch/howgini.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://utip.gov.utexas.edu/tutorials/theo_basic_ineq_measures.doc"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bundesbank.de/download/bankenaufsicht/dkp/200503dkp_b.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://shlegeris.com/gini"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wider.unu.edu/research/Database/en_GB/database/"
+            },
+            {
+                "type": "uri",
+                "value": "http://inequality.org/unequal-americas-income-distribution/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.theresearchkitchen.com/archives/219"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.oecd.org/els/social/inequality/GU"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.census.gov/prod/2011pubs/p60-239.pdf"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "De Gini-co\u00ebffici\u00ebnt is een getal waarin de mate van ongelijkheid van ontwikkelingen en verschijnselen wordt uitgedrukt. De co\u00ebffici\u00ebnt is ontwikkeld door de Italiaanse statisticus Corrado Gini en in 1912 gepubliceerd in zijn artikel Variabilit\u00e0 e mutabilit\u00e0.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Der Gini-Koeffizient oder auch Gini-Index ist ein statistisches Ma\u00df, das vom italienischen Statistiker Corrado Gini zur Darstellung von Ungleichverteilungen entwickelt wurde. Ungleichverteilungskoeffizienten lassen sich f\u00fcr jegliche Verteilungen berechnen. Beispielsweise gilt der Gini-Koeffizient in der Wirtschaftswissenschaft, aber auch in der Geographie als Ma\u00dfstab f\u00fcr die Einkommens- und Verm\u00f6gensverteilung einzelner L\u00e4nder und somit als Hilfsmittel zur Klassifizierung von L\u00e4ndern und ihrem zugeh\u00f6rigen Entwicklungsstand. Der Gini-Koeffizient wird aus der Lorenz-Kurve abgeleitet und nimmt einen Wert zwischen 0 (bei einer gleichm\u00e4\u00dfigen Verteilung) und 1 (wenn nur eine Person das komplette Einkommen erh\u00e4lt, d. h. bei maximaler Ungleichverteilung) an. Mit einer gleichm\u00e4\u00dfigen Verteilung ist dabei nicht die Gleichverteilung im wahrscheinlichkeitstheoretischen Sinne gemeint, sondern eine Verteilung mit einer Varianz von 0. Im h\u00e4ufigsten Anwendungsfall, der Einkommensverteilung in einem Staat, hei\u00dft das, dass das Einkommen jedes Erwachsenen gleich hoch ist, und nicht etwa, dass verschiedene Einkommen(sklassen) gleich h\u00e4ufig sind.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "El coeficiente de Gini es una medida de la desigualdad ideada por el estad\u00edstico italiano Corrado Gini. Normalmente se utiliza para medir la desigualdad en los ingresos, dentro de un pa\u00eds, pero puede utilizarse para medir cualquier forma de distribuci\u00f3n desigual. El coeficiente de Gini es un n\u00famero entre 0 y 1, en donde 0 se corresponde con la perfecta igualdad (todos tienen los mismos ingresos) y donde el valor 1 se corresponde con la perfecta desigualdad (una persona tiene todos los ingresos y los dem\u00e1s ninguno). El \u00edndice de Gini es el coeficiente de Gini expresado en referencia a 100 como m\u00e1ximo, en vez de como 1, y es igual al coeficiente de Gini multiplicado por 100. Una variaci\u00f3n de dos c\u00e9ntesimas del coeficiente de Gini (o dos unidades del \u00edndice) equivale a una distribuci\u00f3n de un 7% de riqueza del sector m\u00e1s pobre de la poblaci\u00f3n (por debajo de la mediana) al m\u00e1s rico (por encima de la mediana). Aunque el coeficiente de Gini se utiliza sobre todo para medir la desigualdad en los ingresos, tambi\u00e9n puede utilizarse para medir la desigualdad en la riqueza. Este uso requiere que nadie disponga de una riqueza neta negativa.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "The Gini coefficient (sometimes expressed as a Gini ratio or a normalized Gini index) (/d\u0292ini/ jee-nee) is a measure of statistical dispersion intended to represent the income distribution of a nation's residents, and is the most commonly used measure of inequality. It was developed by the Italian statistician and sociologist Corrado Gini and published in his 1912 paper Variability and Mutability (Italian: Variabilit\u00e0 e mutabilit\u00e0). The Gini coefficient measures the inequality among values of a frequency distribution (for example, levels of income). A Gini coefficient of zero expresses perfect equality, where all values are the same (for example, where everyone has the same income). A Gini coefficient of 1 (or 100%) expresses maximal inequality among values (e.g., for a large number of people, where only one person has all the income or consumption, and all others have none, the Gini coefficient will be very nearly one). However, a value greater than one may occur if some persons represent negative contribution to the total (for example, having negative income or wealth). For larger groups, values close to or above 1 are very unlikely in practice. Given the normalization of both the cumulative population and the cumulative share of income used to calculate the Gini coefficient, the measure is not overly sensitive to the specifics of the income distribution, but rather only on how incomes vary relative to the other members of a population. The exception to this is in the redistribution of wealth resulting in a minimum income for all people. When the population is sorted, if their income distribution were to approximate a well known function, then some representative values could be calculated. The Gini coefficient was proposed by Gini as a measure of inequality of income or wealth. For OECD countries, in the late 20th century, considering the effect of taxes and transfer payments, the income Gini coefficient ranged between 0.24 and 0.49, with Slovenia the lowest and Chile the highest. African countries had the highest pre-tax Gini coefficients in 2008\u20132009, with South Africa the world's highest, variously estimated to be 0.63 to 0.7, although this figure drops to 0.52 after social assistance is taken into account, and drops again to 0.47 after taxation. The global income Gini coefficient in 2005 has been estimated to be between 0.61 and 0.68 by various sources. There are some issues in interpreting a Gini coefficient. The same value may result from many different distribution curves. The demographic structure should be taken into account. Countries with an aging population, or with a baby boom, experience an increasing pre-tax Gini coefficient even if real income distribution for working adults remains constant. Scholars have devised over a dozen variants of the Gini coefficient.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u5805\u5c3c\u7cfb\u6578\uff08\u82f1\u8bed\uff1aGini coefficient\uff09\uff0c\u662f20\u4e16\u7eaa\u521d\u610f\u5927\u5229\u5b66\u8005\u79d1\u62c9\u591a\u00b7\u57fa\u5c3c\u6839\u636e\u52b3\u4f26\u8328\u66f2\u7ebf\u6240\u5b9a\u7fa9\u7684\u5224\u65ad\u5e74\u6536\u5165\u5206\u914d\u516c\u5e73\u7a0b\u5ea6\u7684\u6307\u6807\u3002\u662f\u6bd4\u4f8b\u6578\u503c\uff0c\u57280\u548c1\u4e4b\u9593\u3002\u5805\u5c3c\u6307\u6578\uff08Gini index\uff09\u662f\u6307\u5805\u5c3c\u7cfb\u6578\u4e58100\u500d\u4f5c\u767e\u5206\u6bd4\u8868\u793a\u3002\u5728\u6c11\u4f17\u6536\u5165\u4e2d\uff0c\u5982\u5805\u5c3c\u7cfb\u6578\u6700\u5927\u4e3a\u201c1\u201d\uff0c\u6700\u5c0f\u7b49\u4e8e\u201c0\u201d\u3002\u524d\u8005\u8868\u793a\u5c45\u6c11\u4e4b\u95f4\u7684\u5e74\u6536\u5165\u5206\u914d\u7edd\u5bf9\u4e0d\u5e73\u5747\uff08\u5373\u8be5\u5e74\u6240\u6709\u6536\u5165\u90fd\u96c6\u4e2d\u5728\u4e00\u500b\u4eba\u624b\u88cf\uff0c\u5176\u9918\u7684\u570b\u6c11\u6c92\u6709\u6536\u5165\uff09\uff0c\u800c\u540e\u8005\u5219\u8868\u793a\u5c45\u6c11\u4e4b\u95f4\u7684\u8be5\u5e74\u6536\u5165\u5206\u914d\u7edd\u5bf9\u5e73\u5747\uff0c\u5373\u4eba\u4e0e\u4eba\u4e4b\u95f4\u6536\u5165\u7edd\u5bf9\u5e73\u7b49\uff0c\u8fd9\u5805\u5c3c\u7cfb\u6578\u7684\u5b9e\u9645\u6570\u503c\u53ea\u80fd\u4ecb\u4e8e\u8fd9\u4e24\u79cd\u6781\u7aef\u60c5\u51b5\uff0c\u53730\uff5e1\u4e4b\u95f4\u3002\u5805\u5c3c\u7cfb\u6578\u8d8a\u5c0f\uff0c\u5e74\u6536\u5165\u5206\u914d\u8d8a\u5e73\u5747\uff0c\u5805\u5c3c\u7cfb\u6570\u8d8a\u5927\uff0c\u5e74\u6536\u5165\u5206\u914d\u8d8a\u4e0d\u5e73\u5747\u3002\u8981\u6ce8\u610f\u57fa\u5c3c\u7cfb\u6570\u53ea\u8ba1\u7b97\u67d0\u4e00\u65f6\u6bb5\uff0c\u5982\u4e00\u5e74\u7684\u6536\u5165\uff0c\u4e0d\u8ba1\u7b97\u5df2\u6709\u8d22\u4ea7\uff0c\u56e0\u6b64\u5b83\u4e0d\u80fd\u53cd\u6620\u56fd\u6c11\u7684\u603b\u79ef\u7d2f\u8d22\u5bcc\u5206\u914d\u60c5\u51b5\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0645\u0639\u0627\u0645\u0644 \u062c\u064a\u0646\u064a (\u0646\u0633\u0628\u0629 \u0644\u0644\u0639\u0627\u0644\u0645 \u0643\u0648\u0631\u0627\u062f\u0648 \u062c\u064a\u0646\u064a) \u0645\u0646 \u0627\u0644\u0645\u0642\u0627\u064a\u064a\u0633 \u0627\u0644\u0647\u0627\u0645\u0629 \u0648\u0627\u0644\u0623\u0643\u062b\u0631 \u0634\u064a\u0648\u0639\u0627 \u0641\u064a \u0642\u064a\u0627\u0633 \u0639\u062f\u0627\u0644\u0629 \u062a\u0648\u0632\u064a\u0639 \u0627\u0644\u062f\u062e\u0644 \u0627\u0644\u0642\u0648\u0645\u064a\u060c \u062a\u0639\u062a\u0645\u062f \u0641\u0643\u0631\u062a\u0647 \u0639\u0644\u0649 \u0645\u0646\u062d\u0646\u0649 \u0644\u0648\u0631\u0646\u0632\u060c \u064a\u0645\u062a\u0627\u0632 \u0645\u0639\u0627\u0645\u0644 \u062c\u064a\u0646\u064a \u0628\u0623\u0646\u0647 \u064a\u0639\u0637\u064a \u0642\u064a\u0627\u0633\u0627 \u0631\u0642\u0645\u064a\u0627 \u0644\u0639\u062f\u0627\u0644\u0629 \u0627\u0644\u062a\u0648\u0632\u064a\u0639\u060c \u0648\u062a\u062a\u0644\u062e\u0635 \u0641\u0643\u0631\u062a\u0647 \u0628\u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u0645\u062d\u0635\u0648\u0631\u0629 \u0628\u064a\u0646 \u0645\u0646\u062d\u0646\u0649 \u0644\u0648\u0631\u0646\u0632 \u0648\u0628\u064a\u0646 \u062e\u0637 \u0627\u0644\u0645\u0633\u0627\u0648\u0627\u0629 (\u0627\u0644\u062e\u0637 \u0627\u0644\u0642\u0637\u0631\u064a \u0627\u0644\u0648\u0627\u0635\u0644 \u0628\u064a\u0646 \u0646\u0642\u0637\u0629 \u0627\u0644\u0627\u0635\u0640\u0644 \u0648\u0627\u0644\u0646\u0642\u0640\u0637\u0629 (1\u060c1) \u0641\u064a \u0627\u0644\u0631\u0633\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u064a) \u0648\u0636\u0631\u0628 \u0647\u0630\u0647 \u0627\u0644\u0645\u0633\u0627\u062d\u0629 \u0628\u0640 2\u060c \u0648\u0630\u0644\u0643 \u0644\u0623\u0646 \u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u0645\u062b\u0644\u062b \u0627\u0644\u0645\u062d\u0635\u0648\u0631\u0629 \u0628\u064a\u0646 \u062e\u0637 \u0627\u0644\u062a\u0633\u0627\u0648\u064a \u0648\u0627\u0644\u0625\u062d\u062f\u0627\u062b\u064a\u064a\u0646 \u0627\u0644\u0623\u0641\u0642\u064a \u0648\u0627\u0644\u0639\u0645\u0648\u062f\u064a \u062a\u0633\u0627\u0648\u064a 0.5\u060c \u0644\u0630\u0627 \u0641\u0625\u0646 \u0645\u0639\u0627\u0645\u0644 \u062c\u064a\u0646\u064a \u064a\u0646\u062d\u0635\u0631 \u0628\u064a\u0646 \u0627\u0644\u0635\u0641\u0631 \u0648\u0627\u0644\u0648\u0627\u062d\u062f\u060c \u062d\u064a\u062b \u064a\u0643\u0648\u0646 \u0635\u0641\u0631\u0627 \u0639\u0646\u062f\u0645\u0627 \u064a\u0646\u0637\u0628\u0642 \u0645\u0646\u062d\u0646\u0649 \u0644\u0648\u0631\u0646\u0632 \u0639\u0644\u0649 \u062e\u0637 \u0627\u0644\u062a\u0633\u0627\u0648\u064a \u0648\u062a\u0643\u0648\u0646 \u0627\u0644\u0645\u0633\u0627\u062d\u0629 \u0645\u0633\u0627\u0648\u064a\u0629 \u0644\u0644\u0635\u0641\u0631 \u0648\u064a\u0643\u0648\u0646 \u0639\u0646\u062f\u0647\u0627 \u062a\u0648\u0632\u064a\u0639 \u0627\u0644\u062f\u062e\u0644 \u0645\u062a\u0633\u0627\u0648\u064a\u0627 \u0644\u062c\u0645\u064a\u0639 \u0623\u0641\u0631\u0627\u062f \u0627\u0644\u0645\u062c\u062a\u0645\u0639 (\u0627\u0644\u062a\u0648\u0632\u064a\u0639 \u0627\u0644\u0623\u0645\u062b\u0644 \u0644\u0644\u062f\u062e\u0644)\u060c \u0628\u064a\u0646\u0645\u0627 \u064a\u0643\u0648\u0646 \u0645\u0639\u0627\u0645\u0644 \u062c\u064a\u0646\u064a \u0645\u0633\u0627\u0648\u064a\u0627 \u0644\u0644\u0648\u0627\u062d\u062f \u0639\u0646\u062f\u0645\u0627 \u064a\u0646\u0637\u0628\u0642 \u0645\u0646\u062d\u0646\u0649 \u0644\u0648\u0631\u0646\u0632 \u0639\u0644\u0649 \u0627\u0644\u062e\u0637 \u0627\u0644\u0623\u0641\u0642\u064a \u0648\u0627\u0644\u062e\u0637 \u0627\u0644\u0639\u0645\u0648\u062f\u064a \u0648\u062a\u0643\u0648\u0646 \u0627\u0644\u0645\u0633\u0627\u062d\u0629 \u0628\u064a\u0646 \u062e\u0637 \u0627\u0644\u062a\u0633\u0627\u0648\u064a \u0648\u0645\u0646\u062d\u0646\u0649 \u0644\u0648\u0631\u0646\u0632 \u062a\u0633\u0627\u0648\u064a 0.5 \u0648\u062a\u0643\u0648\u0646 \u0639\u0646\u062f\u0647\u0627 \u0642\u064a\u0645\u0629 \u0645\u0639\u0627\u0645\u0644 \u062c\u064a\u0646\u064a \u0645\u0633\u0627\u0648\u064a\u0629 \u0644\u0644\u0648\u0627\u062d\u062f \u0627\u0644\u0635\u062d\u064a\u062d \u0648\u0641\u064a \u0647\u0630\u0647 \u0627\u0644\u062d\u0627\u0644\u0629 \u064a\u0643\u0648\u0646 \u062a\u0648\u0632\u064a\u0639 \u0627\u0644\u062f\u062e\u0644 \u0641\u064a \u0623\u0633\u0648\u0623 \u0623\u062d\u0648\u0627\u0644\u0647\u060c \u0623\u064a \u0623\u0646\u0647 \u0643\u0644\u0645\u0627 \u0643\u0627\u0646\u062a \u0642\u064a\u0645\u0629 \u0645\u0639\u0627\u0645\u0644 \u062c\u064a\u0646\u064a \u0635\u063a\u064a\u0631\u0629 \u0643\u0644\u0645\u0627 \u0643\u0627\u0646\u062a \u0639\u062f\u0627\u0644\u0629 \u062a\u0648\u0632\u064a\u0639 \u0627\u0644\u062f\u062e\u0644 \u0623\u0641\u0636\u0644. \u0645\u0634\u0627\u0631\u064a\u0639 \u0634\u0642\u064a\u0642\u0629 \u0641\u064a \u0643\u0648\u0645\u0646\u0632 \u0635\u0648\u0631 \u0648\u0645\u0644\u0641\u0627\u062a \u0639\u0646: \u0645\u0639\u0627\u0645\u0644 \u062c\u064a\u0646\u064a \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0631\u064a\u0627\u0636\u064a\u0627\u062a \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0639\u0644\u0645 \u0627\u0644\u0628\u064a\u0626\u062925\u0628\u0643 \u0647\u0630\u0647 \u0628\u0630\u0631\u0629 \u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0628\u062d\u0627\u062c\u0629 \u0644\u0644\u062a\u0648\u0633\u064a\u0639. \u0634\u0627\u0631\u0643 \u0641\u064a \u062a\u062d\u0631\u064a\u0631\u0647\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "O Coeficiente de Gini \u00e9 uma medida de desigualdade desenvolvida pelo estat\u00edstico italiano Corrado Gini, e publicada no documento \"Variabilit\u00e0 e mutabilit\u00e0\" (\"Variabilidade e mutabilidade\" em italiano), em 1912. Pode ser usado para qualquer distribui\u00e7\u00e3o embora seja comumente utilizado para medir a desigualdade de distribui\u00e7\u00e3o de renda.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442 \u0414\u0436\u0438\u043d\u0438 \u2014 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c \u0441\u0442\u0435\u043f\u0435\u043d\u0438 \u0440\u0430\u0441\u0441\u043b\u043e\u0435\u043d\u0438\u044f \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u044b \u0438\u043b\u0438 \u0440\u0435\u0433\u0438\u043e\u043d\u0430 \u043f\u043e \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044e \u043a \u043a\u0430\u043a\u043e\u043c\u0443-\u043b\u0438\u0431\u043e \u0438\u0437\u0443\u0447\u0430\u0435\u043c\u043e\u043c\u0443 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0443. \u041a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442 \u0414\u0436\u0438\u043d\u0438 \u0438\u0437\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u043e\u0442 0 \u0434\u043e 1. \u0427\u0435\u043c \u0431\u043b\u0438\u0436\u0435 \u0435\u0433\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043a \u043d\u0443\u043b\u044e, \u0442\u0435\u043c \u0431\u043e\u043b\u0435\u0435 \u0440\u0430\u0432\u043d\u043e\u043c\u0435\u0440\u043d\u043e \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c. \u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0447\u0430\u0441\u0442\u043e \u0432 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0440\u0430\u0441\u0447\u0451\u0442\u0430\u0445 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0438\u0437\u0443\u0447\u0430\u0435\u043c\u043e\u0433\u043e \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0430 \u0431\u0435\u0440\u0451\u0442\u0441\u044f \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0433\u043e\u0434\u043e\u0432\u043e\u0433\u043e \u0434\u043e\u0445\u043e\u0434\u0430. \u041a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442 \u0414\u0436\u0438\u043d\u0438 \u043c\u043e\u0436\u043d\u043e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0438\u0442\u044c \u043a\u0430\u043a \u043c\u0430\u043a\u0440\u043e\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c, \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u044e\u0449\u0438\u0439 \u0434\u0438\u0444\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0430\u0446\u0438\u044e \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 \u0434\u043e\u0445\u043e\u0434\u043e\u0432 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u0432 \u0432\u0438\u0434\u0435 \u0441\u0442\u0435\u043f\u0435\u043d\u0438 \u043e\u0442\u043a\u043b\u043e\u043d\u0435\u043d\u0438\u044f \u0444\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0434\u043e\u0445\u043e\u0434\u043e\u0432 \u043e\u0442 \u0430\u0431\u0441\u043e\u043b\u044e\u0442\u043d\u043e \u0440\u0430\u0432\u043d\u043e\u0433\u043e \u0438\u0445 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u043c\u0435\u0436\u0434\u0443 \u0436\u0438\u0442\u0435\u043b\u044f\u043c\u0438 \u0441\u0442\u0440\u0430\u043d\u044b. \u0418\u043d\u043e\u0433\u0434\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u043f\u0440\u043e\u0446\u0435\u043d\u0442\u043d\u043e\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u044d\u0442\u043e\u0433\u043e \u043a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442\u0430, \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u043c\u043e\u0435 \u0438\u043d\u0434\u0435\u043a\u0441\u043e\u043c \u0414\u0436\u0438\u043d\u0438. \u0418\u043d\u043e\u0433\u0434\u0430 \u043a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442 \u0414\u0436\u0438\u043d\u0438 (\u043a\u0430\u043a \u0438 \u043a\u0440\u0438\u0432\u0443\u044e \u041b\u043e\u0440\u0435\u043d\u0446\u0430) \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \u0442\u0430\u043a\u0436\u0435 \u0438 \u0434\u043b\u044f \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0443\u0440\u043e\u0432\u043d\u044f \u043d\u0435\u0440\u0430\u0432\u0435\u043d\u0441\u0442\u0432\u0430 \u043f\u043e \u043d\u0430\u043a\u043e\u043f\u043b\u0435\u043d\u043d\u043e\u043c\u0443 \u0431\u043e\u0433\u0430\u0442\u0441\u0442\u0432\u0443, \u043e\u0434\u043d\u0430\u043a\u043e \u0432 \u0442\u0430\u043a\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u044b\u043c \u0443\u0441\u043b\u043e\u0432\u0438\u0435\u043c \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043d\u0435\u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0447\u0438\u0441\u0442\u044b\u0445 \u0430\u043a\u0442\u0438\u0432\u043e\u0432 \u0434\u043e\u043c\u043e\u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u0430. \u0422\u0430\u043a\u0436\u0435 \u0438\u043d\u0434\u0435\u043a\u0441 \u0414\u0436\u0438\u043d\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u0432 \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u043c \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0438 \u0434\u043b\u044f \u043f\u0440\u0435\u0434\u0441\u043a\u0430\u0437\u0430\u043d\u0438\u044f \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u044b\u0445 \u0432\u0435\u043b\u0438\u0447\u0438\u043d. \u0421\u043c\u044b\u0441\u043b \u0435\u0433\u043e \u2014 \u043f\u043e\u0433\u0440\u0435\u0448\u043d\u043e\u0441\u0442\u044c \u0434\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u043d\u0430\u0441\u0442\u043e\u043b\u044c\u043a\u043e \u0440\u0430\u0432\u043d\u043e\u043c\u0435\u0440\u043d\u043e\u0439, \u043d\u0430\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043c\u043e\u0436\u043d\u043e.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Il coefficiente di Gini, introdotto dallo statistico italiano Corrado Gini, \u00e8 una misura della diseguaglianza di una distribuzione. \u00c8 spesso usato come indice di concentrazione per misurare la diseguaglianza nella distribuzione del reddito o anche della ricchezza. \u00c8 un numero compreso tra 0 ed 1. Valori bassi del coefficiente indicano una distribuzione abbastanza omogenea, con il valore 0 che corrisponde alla pura equidistribuzione, ad esempio la situazione in cui tutti percepiscono esattamente lo stesso reddito; valori alti del coefficiente indicano una distribuzione pi\u00f9 diseguale, con il valore 1 che corrisponde alla massima concentrazione, ovvero la situazione dove una persona percepisca tutto il reddito del paese mentre tutti gli altri hanno un reddito nullo.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Le coefficient de Gini est une mesure statistique de la dispersion d'une distribution dans une population donn\u00e9e, d\u00e9velopp\u00e9e par le statisticien italien Corrado Gini. Le coefficient de Gini est un nombre variant de 0 \u00e0 1, o\u00f9 0 signifie l'\u00e9galit\u00e9 parfaite et 1 signifie une in\u00e9galit\u00e9 parfaite (par exemple un salari\u00e9 et tous les autres ne le sont pas).Ce coefficient est tr\u00e8s utilis\u00e9 pour mesurer l'in\u00e9galit\u00e9 des revenus dans un pays. Math\u00e9matiquement, le coefficient de Gini est \u00e9quivalent \u00e0 l'\u00e9cart moyen relatif (l'\u00e9cart moyen divis\u00e9 par la moyenne pour le mettre \u00e0 l'\u00e9chelle) : il s'agit donc bien d'une mesure de dispersion de valeurs num\u00e9riques ; dans le cas de revenus d'une mesure d'in\u00e9galit\u00e9 \u00e9conomique.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u30b8\u30cb\u4fc2\u6570\uff08\u30b8\u30cb\u3051\u3044\u3059\u3046\u3001\u82f1: Gini coefficient\uff09\u3068\u306f\u3001\u4e3b\u306b\u793e\u4f1a\u306b\u304a\u3051\u308b\u6240\u5f97\u5206\u914d\u306e\u4e0d\u5e73\u7b49\u3055\u3092\u6e2c\u308b\u6307\u6a19\u3002\u30ed\u30fc\u30ec\u30f3\u30c4\u66f2\u7dda\u3092\u3082\u3068\u306b\u30011936\u5e74\u306b\u30a4\u30bf\u30ea\u30a2\u306e\u7d71\u8a08\u5b66\u8005\u3001\u30b3\u30c3\u30e9\u30c9\u30fb\u30b8\u30cb\u306b\u3088\u3063\u3066\u8003\u6848\u3055\u308c\u305f\u3002\u6240\u5f97\u5206\u914d\u306e\u4e0d\u5e73\u7b49\u3055\u4ee5\u5916\u306b\u3082\u3001\u5bcc\u306e\u504f\u5728\u6027\u3084\u30a8\u30cd\u30eb\u30ae\u30fc\u6d88\u8cbb\u306b\u304a\u3051\u308b\u4e0d\u5e73\u7b49\u3055\u306a\u3069\u306b\u5fdc\u7528\u3055\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Wsp\u00f3\u0142czynnik Giniego, wska\u017anik Giniego, indeks Giniego \u2013 stosowana w statystyce miara koncentracji (nier\u00f3wnomierno\u015bci) rozk\u0142adu zmiennej losowej. Nazwa wsp\u00f3\u0142czynnika pochodzi od nazwiska jego tw\u00f3rcy, w\u0142oskiego statystyka Corrado Giniego.",
+                "lang": "pl"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Special:FilePath/Economics_Gini_coefficient2.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743078263,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 12883,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Measure"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Genie_Coefficient": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gini_Coefficient": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gini_index": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gini_Index": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gini_curve": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gini_coefficent": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gini_Co-efficient": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gini_ratio": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gini-coefficient": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gini_coefficient"
+            }
+        ]
+    }
+}

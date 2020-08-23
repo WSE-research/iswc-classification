@@ -1,0 +1,28 @@
+{
+    "@text": "What is the DVN id for Anne Frank?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/1001_Vrouwen_uit_de_Nederlandse_geschiedenis",
+            "@support": "38",
+            "@types": "Wikidata:Q571,Wikidata:Q386724,Schema:CreativeWork,Schema:Book,Http://purl.org/ontology/bibo/Book,DBpedia:WrittenWork,DBpedia:Work,DBpedia:Book",
+            "@surfaceForm": "DVN",
+            "@offset": "12",
+            "@similarityScore": "0.9744753035937381",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Anne_Frank",
+            "@support": "1441",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Anne Frank",
+            "@offset": "23",
+            "@similarityScore": "0.9999999999906919",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

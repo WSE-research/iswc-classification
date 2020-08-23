@@ -1,0 +1,37 @@
+{
+    "@text": "What is the human spaceflight with the lowest apoapsis whose location of landing is Kazakhstan ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Human_spaceflight",
+            "@support": "1003",
+            "@types": "",
+            "@surfaceForm": "human spaceflight",
+            "@offset": "12",
+            "@similarityScore": "0.9987689855590772",
+            "@percentageOfSecondRank": "0.00115367737027198"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Apsis",
+            "@support": "2909",
+            "@types": "",
+            "@surfaceForm": "apoapsis",
+            "@offset": "46",
+            "@similarityScore": "0.9999999997954632",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Kazakhstan",
+            "@support": "19329",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Kazakhstan",
+            "@offset": "84",
+            "@similarityScore": "0.9998802119288865",
+            "@percentageOfSecondRank": "9.016830004135642E-5"
+        }
+    ]
+}

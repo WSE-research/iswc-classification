@@ -1,0 +1,28 @@
+{
+    "@text": "Who gave the{ZIP+4} of {resident in} of {James Ellroy} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/ZIP_Code",
+            "@support": "7318",
+            "@types": "",
+            "@surfaceForm": "ZIP+4",
+            "@offset": "13",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/James_Ellroy",
+            "@support": "234",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "James Ellroy",
+            "@offset": "41",
+            "@similarityScore": "0.9999999999982094",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

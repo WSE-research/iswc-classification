@@ -1,0 +1,28 @@
+{
+    "@text": "Who are some basketball players who played for Phoenix Suns?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Basketball",
+            "@support": "84173",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "basketball",
+            "@offset": "13",
+            "@similarityScore": "0.9979189295960508",
+            "@percentageOfSecondRank": "0.0020746835873116528"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Phoenix_Suns",
+            "@support": "3922",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:BasketballTeam,DBpedia:Agent",
+            "@surfaceForm": "Phoenix Suns",
+            "@offset": "47",
+            "@similarityScore": "0.9999999819360569",
+            "@percentageOfSecondRank": "4.7705714569808105E-9"
+        }
+    ]
+}

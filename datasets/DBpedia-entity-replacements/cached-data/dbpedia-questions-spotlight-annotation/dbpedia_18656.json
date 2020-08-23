@@ -1,0 +1,46 @@
+{
+    "@text": "What is the name of the television show whose company is Paramount Television and theme music composer is Gary Portnoy?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Paramount_Television",
+            "@support": "500",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Paramount Television",
+            "@offset": "57",
+            "@similarityScore": "0.9997252245845176",
+            "@percentageOfSecondRank": "1.6708756041320256E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Theme_music",
+            "@support": "2510",
+            "@types": "",
+            "@surfaceForm": "theme music",
+            "@offset": "82",
+            "@similarityScore": "0.9996533225847121",
+            "@percentageOfSecondRank": "2.0105039391772424E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Composer",
+            "@support": "22915",
+            "@types": "",
+            "@surfaceForm": "composer",
+            "@offset": "94",
+            "@similarityScore": "0.999294375831746",
+            "@percentageOfSecondRank": "3.537363256756403E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Gary_Portnoy",
+            "@support": "32",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Gary Portnoy",
+            "@offset": "106",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

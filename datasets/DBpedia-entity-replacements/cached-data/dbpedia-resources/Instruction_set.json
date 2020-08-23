@@ -1,0 +1,696 @@
+{
+    "http://en.wikipedia.org/wiki/Instruction_set": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instruction_set": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatProgrammingLanguages"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/ProgrammingLanguage106898352"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/ArtificialLanguage106894544"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Language106282651"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Communication100033020"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatAssemblyLanguages"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/AssemblyLanguage106899310"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u547d\u4ee4\u30bb\u30c3\u30c8",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Conjunto de instrucciones",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Instructieset",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u043d\u0430\u0431\u043e\u0440\u0430 \u043a\u043e\u043c\u0430\u043d\u0434",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Conjunto de instru\u00e7\u00f5es",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Instruction set",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u6307\u4ee4\u96c6\u67b6\u69cb",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Jeu d'instructions",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Instruction set",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Befehlssatz",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Model programowy procesora",
+                "lang": "pl"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0648 \u0627\u0644\u0627\u0648\u0627\u0645\u0631  (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Instruction set) \u0647\u064a \u0642\u0627\u0626\u0645\u0629 \u0628\u062c\u0645\u064a\u0639 \u0627\u0644\u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0645\u062a\u0627\u062d\u0629 \u0628\u0645\u062e\u062a\u0644\u0641 \u0623\u0634\u0643\u0627\u0644\u0647\u0627 \u0627\u0644\u062a\u064a \u064a\u0645\u0643\u0646 \u0644\u0645\u0639\u0627\u0644\u062c \u0645\u0627 (\u0648\u062d\u062f\u0629 \u0645\u0639\u0627\u0644\u062c\u0629 \u0645\u0631\u0643\u0632\u064a\u0629) \u0623\u0646 \u064a\u0642\u0648\u0645 \u0628\u062a\u0646\u0641\u064a\u0630\u0647\u0627. \u062a\u062a\u0636\u0645\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a: \n*  \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u062d\u0633\u0627\u0628\u064a\u0629: \u0645\u062b\u0644 \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0644\u062c\u0645\u0639 \u0648\u0627\u0644\u0637\u0631\u062d \n*  \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0645\u0646\u0637\u0642\u064a\u0629: \u0643\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0644\u0636\u0631\u0628 \u0627\u0644\u0645\u0646\u0637\u0642\u064a AND \u0648\u0627\u0644\u062c\u0645\u0639 \u0627\u0644\u0645\u0646\u0637\u0642\u064a OR \u0648\u0627\u0644\u0646\u0641\u064a \u0627\u0644\u0645\u0646\u0637\u0642\u064a NOT \n*  \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0646\u0642\u0644 \u0627\u0644\u0645\u0639\u0637\u064a\u0627\u062a: \u0627\u0644\u062a\u064a \u062a\u0642\u0648\u0645 \u0628\u0646\u0642\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0633\u0640\u0651\u0640\u0650\u0640\u062c\u0640\u0640\u0650\u0640\u0644\u0627\u0651\u062a \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0644\u0644\u0645\u0639\u0627\u0644\u062c \u0648\u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0623\u0648 \u0627\u0644\u0645\u0643\u062f\u0633 \u0623\u0648 \u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u062f\u062e\u0644 \u0648\u0627\u0644\u062e\u0631\u062c \n*  \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0644\u062a\u062d\u0643\u0645 \u0628\u0633\u064a\u0631 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c: \u0643\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0644\u0642\u0641\u0632 \u0627\u0644\u063a\u064a\u0631 \u0627\u0644\u0645\u0634\u0631\u0648\u0637 \u0648\u0627\u0644\u0642\u0641\u0632 \u0627\u0644\u0645\u0634\u0631\u0648\u0637 \u0648\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0633\u062a\u062f\u0639\u0627\u0621 \u0627\u0644\u0628\u0631\u0627\u0645\u062c \u0627\u0644\u0641\u0631\u0639\u064a\u0629 \u0648\u0627\u0644\u0639\u0648\u062f\u0629 \u0645\u0646\u0647\u0627",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Een instructieset is de verzameling van alle mogelijke machinecodes die een processor kan verwerken. De instructies worden als binaire codes in het geheugen gezet, het programmeren zelf gebeurt in assembleertalen of (meestal) hogere programmeertalen. De meeste moderne processors hebben een zeer uitgebreide instructieset, waarbij een enkele instructie meerdere functies kan uitvoeren. Bijvoorbeeld: \"haal de waarde op die op de geheugenplaats staat die door register X wordt aangewezen, tel deze op bij de waarde in het werkregister en laat register X naar de volgende geheugenplaats wijzen\".",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Un conjunto de instrucciones, repertorio de instrucciones, juego de instrucciones o ISA (del ingl\u00e9s instruction set architecture, \u00abarquitectura del conjunto de instrucciones\u00bb) es una especificaci\u00f3n que detalla las instrucciones que una unidad central de procesamiento puede entender y ejecutar, o el conjunto de todos los comandos implementados por un dise\u00f1o particular de una CPU. El t\u00e9rmino describe los aspectos del procesador generalmente visibles para un programador, incluyendo los tipos de datos nativos, las instrucciones, los registros, la arquitectura de memoria y las interrupciones, entre otros aspectos.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Model programowy procesora (ang. ISA - Instruction Set Architecture), czasem tak\u017ce nie\u015bci\u015ble architektura procesora \u2212 og\u00f3lne okre\u015blenie dotycz\u0105ce organizacji, funkcjonalno\u015bci i zasad dzia\u0142ania procesora, widoczne z punktu widzenia programisty jako dost\u0119pne mechanizmy programowania. Na model programowy procesora sk\u0142adaj\u0105 si\u0119 m.in.: \n*  lista rozkaz\u00f3w procesora \n*  typy danych \n*  dost\u0119pne tryby adresowania \n*  zestaw rejestr\u00f3w dost\u0119pnych dla programisty \n*  zasady obs\u0142ugi wyj\u0105tk\u00f3w i przerwa\u0144",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Conjunto de instru\u00e7\u00f5es (tradu\u00e7\u00e3o de instruction set) s\u00e3o as opera\u00e7\u00f5es que um processador, microprocessador, microcontrolador, CPU ou outros perif\u00e9ricos program\u00e1veis suporta, fornece ou disponibiliza para o programador, ou seja, \u00e9 a representa\u00e7\u00e3o em mnem\u00f4nicos do c\u00f3digo de m\u00e1quina, com a finalidade de facilitar o acesso ao componente. Cada componente possui o seu pr\u00f3prio conjunto de instru\u00e7\u00f5es, que \u00e9 fornecido pelo fabricante, que tamb\u00e9m costuma fornecer ou disponibilizar um montador assembly, que transforma o conjunto de instru\u00e7\u00f5es em c\u00f3digo de m\u00e1quina para ser utilizado pelo componente.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u043d\u0430\u0431\u043e\u0440\u0430 \u043a\u043e\u043c\u0430\u043d\u0434 (\u0430\u043d\u0433\u043b. instruction set architecture, ISA) \u2014 \u0447\u0430\u0441\u0442\u044c \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430, \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0449\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u0443\u0435\u043c\u0443\u044e \u0447\u0430\u0441\u0442\u044c \u044f\u0434\u0440\u0430 \u043c\u0438\u043a\u0440\u043e\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430. \u041d\u0430 \u044d\u0442\u043e\u043c \u0443\u0440\u043e\u0432\u043d\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0442\u0441\u044f \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0432 \u043c\u0438\u043a\u0440\u043e\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0435 \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u043e\u0433\u043e \u0442\u0438\u043f\u0430: \n*  \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u043f\u0430\u043c\u044f\u0442\u0438, \n*  \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0441 \u0432\u043d\u0435\u0448\u043d\u0438\u043c\u0438 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430\u043c\u0438 \u0432\u0432\u043e\u0434\u0430/ \u0432\u044b\u0432\u043e\u0434\u0430, \n*  \u0440\u0435\u0436\u0438\u043c\u044b \u0430\u0434\u0440\u0435\u0441\u0430\u0446\u0438\u0438, \n*  \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u044b, \n*  \u043c\u0430\u0448\u0438\u043d\u043d\u044b\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u044b, \n*  \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u0442\u0438\u043f\u044b \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445 (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0441 \u043f\u043b\u0430\u0432\u0430\u044e\u0449\u0435\u0439 \u0437\u0430\u043f\u044f\u0442\u043e\u0439, \u0446\u0435\u043b\u043e\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0435 \u0442\u0438\u043f\u044b \u0438 \u0442 . \u0434.), \n*  \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0438 \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u043d\u0438\u0439 \u0438 \u0438\u0441\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0439.\u041c\u0438\u043a\u0440\u043e\u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "In informatica ed elettronica un instruction set, o Instruction Set Architecture (ISA), (in lingua italiana insieme d'istruzioni) descrive quegli aspetti dell'architettura di un calcolatore che sono visibili al programmatore. Si tratta di fatto dell'insieme di istruzioni base che il processore pu\u00f2 compiere e che costituiscono dunque il suo linguaggio macchina, a partire dal quale vengono scritti i relativi programmi nei vari linguaggi di programmazione a pi\u00f9 alto livello di astrazione.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "An instruction set, or instruction set architecture (ISA), is the part of the computer architecture related to programming, including the native data types, instructions, registers, addressing modes, memory architecture, interrupt and exception handling, and external I/O. An ISA includes a specification of the set of opcodes (machine language), and the native commands implemented by a particular processor.. An instruction set is the interface between a computer's software and its hardware, and thereby enables the independent development of these two computing realms.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Le jeu d'instructions est l'ensemble des instructions machines qu'un processeur d'ordinateur peut ex\u00e9cuter. Ces instructions machines permettent d'effectuer des op\u00e9rations \u00e9l\u00e9mentaires (addition, ET logique\u2026) ou plus complexes (division, passage en mode basse consommation\u2026). Le jeu d'instructions d\u00e9finit quelles sont les instructions support\u00e9es par le processeur. Le jeu d'instructions pr\u00e9cise aussi quels sont les registres du processeur manipulables par le programmeur (les registres architecturaux). Parmi les jeux d'instructions principaux des ann\u00e9es 1980 \u00e0 2010, nous avons :",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u6307\u4ee4\u96c6\u67b6\u69cb\uff08\u82f1\u8bed\uff1aInstruction Set Architecture\uff0c\u7e2e\u5beb\u70baISA\uff09\uff0c\u53c8\u7a31\u6307\u4ee4\u96c6\u6216\u6307\u4ee4\u96c6\u4f53\u7cfb\uff0c\u662f\u8ba1\u7b97\u673a\u4f53\u7cfb\u7ed3\u6784\u4e2d\u8207\u7a0b\u5e8f\u8a2d\u8a08\u6709\u95dc\u7684\u90e8\u5206\uff0c\u5305\u542b\u4e86\u57fa\u672c\u6570\u636e\u7c7b\u578b\uff0c\u6307\u4ee4\u96c6\uff0c\u5bc4\u5b58\u5668\uff0c\u5bfb\u5740\u6a21\u5f0f\uff0c\u5b58\u50a8\u4f53\u7cfb\uff0c\u4e2d\u65b7\uff0c\u7570\u5e38\u8655\u7406\u4ee5\u53ca\u5916\u90e8I/O\u3002\u6307\u4ee4\u96c6\u67b6\u69cb\u5305\u542b\u4e00\u7cfb\u5217\u7684opcode\u5373\u64cd\u4f5c\u7801\uff08\u6a5f\u5668\u8a9e\u8a00\uff09\uff0c\u4ee5\u53ca\u7531\u7279\u5b9a\u8655\u7406\u5668\u6267\u884c\u7684\u57fa\u672c\u547d\u4ee4\u3002 \u6307\u4ee4\u96c6\u4f53\u7cfb\u4e0e\u5fae\u67b6\u6784\uff08\u4e00\u5957\u7528\u4e8e\u6267\u884c\u6307\u4ee4\u96c6\u7684\u5fae\u5904\u7406\u5668\u8bbe\u8ba1\u65b9\u6cd5\uff09\u4e0d\u540c\u3002\u4f7f\u7528\u4e0d\u540c\u5fae\u67b6\u69cb\u7684\u96fb\u8166\u53ef\u4ee5\u5171\u4eab\u4e00\u79cd\u6307\u4ee4\u96c6\u3002\u4f8b\u5982\uff0cIntel\u7684Pentium\u548cAMD\u7684AMD Athlon\uff0c\u5169\u8005\u51e0\u4e4e\u63a1\u7528\u76f8\u540c\u7248\u672c\u7684x86\u6307\u4ee4\u96c6\u4f53\u7cfb\uff0c\u4f46\u662f\u5169\u8005\u5728\u5185\u90e8\u8bbe\u8ba1\u4e0a\u6709\u672c\u8d28\u7684\u533a\u522b\u3002 \u4e00\u4e9b\u865b\u64ec\u6a5f\u5668\u652f\u6301\u57fa\u4e8eSmalltalk\uff0cJava\u865b\u64ec\u6a5f\uff0c\u5fae\u8edf\u7684\u516c\u5171\u8a9e\u8a00\u8fd0\u884c\u65f6\u865b\u64ec\u6a5f\u6240\u751f\u6210\u7684\u5b57\u8282\u7801\uff0c\u4ed6\u5011\u7684\u6307\u4ee4\u96c6\u4f53\u7cfb\u5c07bytecode\uff08\u5b57\u8282\u7801\uff09\u4ece\u4f5c\u4e3a\u4e00\u822c\u624b\u6bb5\u7684\u4ee3\u7801\u8def\u5f84\u7ffb\u8b6f\u6210\u672c\u5730\u7684\u6a5f\u5668\u8a9e\u8a00\uff0c\u5e76\u901a\u8fc7\u89e3\u8bd1\u6267\u884c\u5e76\u4e0d\u5e38\u7528\u7684\u4ee3\u7801\u8def\u5f84\uff0c\u5168\u7f8e\u9054\u4ee5\u76f8\u540c\u7684\u65b9\u5f0f\u5f00\u53d1\u4e86\u57fa\u4e8ex86\u6307\u4ee4\u4f53\u7cfb\u7684VLIW\u8655\u7406\u5668\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Der Befehlssatz (englisch: instruction set) eines Prozessors ist in der Rechnerarchitektur die Menge der Maschinenbefehle, die ein bestimmter Prozessor ausf\u00fchren kann. Je nach Prozessor variiert der Umfang des Befehlssatzes zwischen 46 und \u00fcber 500 Befehlen. CISC-Prozessoren haben tendenziell gr\u00f6\u00dfere Befehlss\u00e4tze als RISC-Prozessoren, gleiches gilt f\u00fcr neuere Prozessoren gegen\u00fcber \u00e4lteren Prozessoren. In erweitertem Sinn bezeichnet der Begriff \u201eBefehlssatz\u201c den Befehlsvorrat (auch Synonym f\u00fcr \u201eBefehlssatz\u201c) einer Programmiersprache im Allgemeinen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u547d\u4ee4\u30bb\u30c3\u30c8\uff08\u3081\u3044\u308c\u3044\u305b\u3063\u3068\u3001instruction set\uff09\u306f\u3001\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u306e\u30cf\u30fc\u30c9\u30a6\u30a7\u30a2\u306b\u5bfe\u3057\u3066\u547d\u4ee4\u3092\u4f1d\u3048\u308b\u305f\u3081\u306e\u8a00\u8449\u306e\u8a9e\u5f59\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Conjunto_de_instrucciones"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.02qdnc0"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Set_instruksi"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q272683"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uba85\ub839\uc5b4_\uc9d1\ud569"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Jeu_d'instructions"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q272683"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Befehlssatz"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Instruction_set"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Model_programowy_procesora"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0cvbt"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u547d\u4ee4\u30bb\u30c3\u30c8"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4129931-0"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0391\u03c1\u03c7\u03b9\u03c4\u03b5\u03ba\u03c4\u03bf\u03bd\u03b9\u03ba\u03ae_\u03c3\u03c5\u03bd\u03cc\u03bb\u03bf\u03c5_\u03b5\u03bd\u03c4\u03bf\u03bb\u03ce\u03bd"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Instructieset"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Instruk\u010dn\u00ed_sada"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Conjunto_de_instru\u00e7\u00f5es"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Instruction_set"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Instruction_set_architectures"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Central_processing_unit"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Instruction_processing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Microprocessors"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Instruction_set"
+            }
+        ],
+        "http://dbpedia.org/property/reason": [
+            {
+                "type": "literal",
+                "value": "Not reliable. Just some random mailing list.",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Instruction_set?oldid=744010451"
+            }
+        ],
+        "http://dbpedia.org/property/date": [
+            {
+                "type": "literal",
+                "value": "July 2014",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.textfiles.com/programming/CARDS/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cs.clemson.edu/~mark/hist.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.smith.edu/~thiebaut/ArtOfAssembly/CH04/CH04-3.html#HEADING3-79"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "An instruction set, or instruction set architecture (ISA), is the part of the computer architecture related to programming, including the native data types, instructions, registers, addressing modes, memory architecture, interrupt and exception handling, and external I/O. An ISA includes a specification of the set of opcodes (machine language), and the native commands implemented by a particular processor.. An instruction set is the interface between a computer's software and its hardware, and thereby enables the independent development of these two computing realms.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0648 \u0627\u0644\u0627\u0648\u0627\u0645\u0631  (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Instruction set) \u0647\u064a \u0642\u0627\u0626\u0645\u0629 \u0628\u062c\u0645\u064a\u0639 \u0627\u0644\u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0645\u062a\u0627\u062d\u0629 \u0628\u0645\u062e\u062a\u0644\u0641 \u0623\u0634\u0643\u0627\u0644\u0647\u0627 \u0627\u0644\u062a\u064a \u064a\u0645\u0643\u0646 \u0644\u0645\u0639\u0627\u0644\u062c \u0645\u0627 (\u0648\u062d\u062f\u0629 \u0645\u0639\u0627\u0644\u062c\u0629 \u0645\u0631\u0643\u0632\u064a\u0629) \u0623\u0646 \u064a\u0642\u0648\u0645 \u0628\u062a\u0646\u0641\u064a\u0630\u0647\u0627. \u062a\u062a\u0636\u0645\u0646 \u0647\u0630\u0647 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a: \n*  \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u062d\u0633\u0627\u0628\u064a\u0629: \u0645\u062b\u0644 \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0644\u062c\u0645\u0639 \u0648\u0627\u0644\u0637\u0631\u062d \n*  \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0645\u0646\u0637\u0642\u064a\u0629: \u0643\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0644\u0636\u0631\u0628 \u0627\u0644\u0645\u0646\u0637\u0642\u064a AND \u0648\u0627\u0644\u062c\u0645\u0639 \u0627\u0644\u0645\u0646\u0637\u0642\u064a OR \u0648\u0627\u0644\u0646\u0641\u064a \u0627\u0644\u0645\u0646\u0637\u0642\u064a NOT \n*  \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0646\u0642\u0644 \u0627\u0644\u0645\u0639\u0637\u064a\u0627\u062a: \u0627\u0644\u062a\u064a \u062a\u0642\u0648\u0645 \u0628\u0646\u0642\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0633\u0640\u0651\u0640\u0650\u0640\u062c\u0640\u0640\u0650\u0640\u0644\u0627\u0651\u062a \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0644\u0644\u0645\u0639\u0627\u0644\u062c \u0648\u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0623\u0648 \u0627\u0644\u0645\u0643\u062f\u0633 \u0623\u0648 \u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u062f\u062e\u0644 \u0648\u0627\u0644\u062e\u0631\u062c \n*  \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0644\u062a\u062d\u0643\u0645 \u0628\u0633\u064a\u0631 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c: \u0643\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0644\u0642\u0641\u0632 \u0627\u0644\u063a\u064a\u0631 \u0627\u0644\u0645\u0634\u0631\u0648\u0637 \u0648\u0627\u0644\u0642\u0641\u0632 \u0627\u0644\u0645\u0634\u0631\u0648\u0637 \u0648\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0633\u062a\u062f\u0639\u0627\u0621 \u0627\u0644\u0628\u0631\u0627\u0645\u062c \u0627\u0644\u0641\u0631\u0639\u064a\u0629 \u0648\u0627\u0644\u0639\u0648\u062f\u0629 \u0645\u0646\u0647\u0627 \u0625\u0646 \u0628\u0646\u064a\u0629 \u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a (instruction set architecture) \u0647\u064a \u0627\u0644\u0642\u0633\u0645 \u0645\u0646 \u0628\u0646\u064a\u0629 \u0627\u0644\u062d\u0627\u0633\u0628 \u0627\u0644\u0645\u0631\u062a\u0628\u0637 \u0628\u0627\u0644\u0628\u0631\u0645\u062c\u0629 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0647\u0630\u0647 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0648\u064a\u0634\u0645\u0644 \u0630\u0644\u0643 \u0623\u0646\u0645\u0627\u0637 \u0627\u0644\u0645\u0639\u0637\u064a\u0627\u062a \u0627\u0644\u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0634\u0643\u0644 \u0645\u0628\u0627\u0634\u0631\u060c \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a\u060c \u0627\u0644\u0633\u0640\u0651\u0640\u0650\u0640\u062c\u0640\u0640\u0650\u0640\u0644\u0627\u0651\u062a\u060c \u0623\u0646\u0645\u0627\u0637 \u0627\u0644\u0639\u0646\u0648\u0646\u0629\u060c \u062a\u0646\u0638\u064a\u0645 \u0627\u0644\u0630\u0627\u0643\u0631\u0629\u060c \u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0627\u062a \u0648\u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0627\u0633\u062a\u062b\u0646\u0627\u0621\u0627\u062a \u0648\u0627\u0644\u062f\u062e\u0644/\u0627\u0644\u062e\u0631\u062c \u0645\u0639 \u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u062e\u0627\u0631\u062c\u064a.\u0648\u0628\u0646\u064a\u0629 \u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u062a\u062a\u0636\u0645\u0646 \u062a\u0641\u0635\u064a\u0644 \u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646 \u0634\u064a\u0641\u0631\u0627\u062a \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a (Op-codes) \u0648\u0647\u064a \u0627\u0644\u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0623\u0635\u0644\u064a\u0629 \u0627\u0644\u0645\u0646\u0641\u0630\u0629 \u0645\u0646 \u0642\u0628\u0644 \u062a\u0635\u0645\u064a\u0645 \u0645\u0639\u0627\u0644\u062c\u0627\u062a \u0645\u062d\u062f\u062f. \u0625\u0646 \u0628\u0646\u064a\u0629 \u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u062a\u062e\u062a\u0644\u0641 \u0639\u0646 \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u0645\u064a\u0643\u0631\u0648\u064a\u0629 (microarchitecture) \u0648\u0627\u0644\u062a\u064a \u0647\u064a \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646 \u062a\u0642\u0646\u064a\u0627\u062a \u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0627\u062a \u0648\u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u0629 \u0644\u0625\u0646\u062c\u0627\u0632 \u0648\u062a\u062d\u0642\u064a\u0642 \u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a. \u0641\u062d\u0648\u0627\u0633\u0628 \u0628\u0628\u0646\u0649 \u0645\u064a\u0643\u0631\u0648\u064a\u0629 \u0645\u062e\u062a\u0644\u0641\u0629 \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u062a\u0634\u0627\u0631\u0643 \u0628\u0645\u062c\u0645\u0648\u0639\u0629 \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0645\u0634\u062a\u0631\u0643\u0629. \u0639\u0644\u0649 \u0633\u0628\u064a\u0644 \u0627\u0644\u0645\u062b\u0627\u0644 \u0645\u0639\u0627\u0644\u062c \u0628\u0646\u062a\u064a\u0648\u0645 (Pentium) \u0645\u0646 \u0625\u0646\u062a\u0627\u062c \u0634\u0631\u0643\u0629 \u0625\u0646\u062a\u0644 (Intel) \u0648\u0645\u0639\u0627\u0644\u062c AMD Athlon \u064a\u0646\u0641\u0630\u0627\u0646 \u0646\u0633\u062e\u062a\u064a\u0646 \u0645\u062a\u0634\u0627\u0628\u0647\u062a\u064a\u0646 \u0625\u0644\u0649 \u062d\u062f \u0643\u0628\u064a\u0631 \u0645\u0646 \u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0627\u0629 x86 \u0648\u0644\u0643\u0646 \u064a\u0645\u0644\u0643\u0627\u0646 \u0628\u0646\u064a\u0629 \u0645\u064a\u0643\u0631\u0648\u064a\u0629 \u0645\u062e\u062a\u0644\u0641\u0629 \u0628\u0634\u0643\u0644 \u0643\u0628\u064a\u0631.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Le jeu d'instructions est l'ensemble des instructions machines qu'un processeur d'ordinateur peut ex\u00e9cuter. Ces instructions machines permettent d'effectuer des op\u00e9rations \u00e9l\u00e9mentaires (addition, ET logique\u2026) ou plus complexes (division, passage en mode basse consommation\u2026). Le jeu d'instructions d\u00e9finit quelles sont les instructions support\u00e9es par le processeur. Le jeu d'instructions pr\u00e9cise aussi quels sont les registres du processeur manipulables par le programmeur (les registres architecturaux). Parmi les jeux d'instructions principaux des ann\u00e9es 1980 \u00e0 2010, nous avons : \n*  x86 ; \n*  PowerPC ; \n*  SPARC ; \n*  ARM ; \n*  Alpha ; \n*  VAX ; \n*  68000 ; \n*  MIPS.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Conjunto de instru\u00e7\u00f5es (tradu\u00e7\u00e3o de instruction set) s\u00e3o as opera\u00e7\u00f5es que um processador, microprocessador, microcontrolador, CPU ou outros perif\u00e9ricos program\u00e1veis suporta, fornece ou disponibiliza para o programador, ou seja, \u00e9 a representa\u00e7\u00e3o em mnem\u00f4nicos do c\u00f3digo de m\u00e1quina, com a finalidade de facilitar o acesso ao componente. Cada componente possui o seu pr\u00f3prio conjunto de instru\u00e7\u00f5es, que \u00e9 fornecido pelo fabricante, que tamb\u00e9m costuma fornecer ou disponibilizar um montador assembly, que transforma o conjunto de instru\u00e7\u00f5es em c\u00f3digo de m\u00e1quina para ser utilizado pelo componente. No caso dos processadores, quando o conjunto de instru\u00e7\u00f5es for reduzido leva-o a ter o nome de RISC e se forem complexas o nome de CISC.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u043d\u0430\u0431\u043e\u0440\u0430 \u043a\u043e\u043c\u0430\u043d\u0434 (\u0430\u043d\u0433\u043b. instruction set architecture, ISA) \u2014 \u0447\u0430\u0441\u0442\u044c \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430, \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0449\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u0443\u0435\u043c\u0443\u044e \u0447\u0430\u0441\u0442\u044c \u044f\u0434\u0440\u0430 \u043c\u0438\u043a\u0440\u043e\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430. \u041d\u0430 \u044d\u0442\u043e\u043c \u0443\u0440\u043e\u0432\u043d\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0442\u0441\u044f \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0432 \u043c\u0438\u043a\u0440\u043e\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0435 \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u043e\u0433\u043e \u0442\u0438\u043f\u0430: \n*  \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u043f\u0430\u043c\u044f\u0442\u0438, \n*  \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0441 \u0432\u043d\u0435\u0448\u043d\u0438\u043c\u0438 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430\u043c\u0438 \u0432\u0432\u043e\u0434\u0430/ \u0432\u044b\u0432\u043e\u0434\u0430, \n*  \u0440\u0435\u0436\u0438\u043c\u044b \u0430\u0434\u0440\u0435\u0441\u0430\u0446\u0438\u0438, \n*  \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u044b, \n*  \u043c\u0430\u0448\u0438\u043d\u043d\u044b\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u044b, \n*  \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u0442\u0438\u043f\u044b \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445 (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0441 \u043f\u043b\u0430\u0432\u0430\u044e\u0449\u0435\u0439 \u0437\u0430\u043f\u044f\u0442\u043e\u0439, \u0446\u0435\u043b\u043e\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0435 \u0442\u0438\u043f\u044b \u0438 \u0442 . \u0434.), \n*  \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0438 \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u043d\u0438\u0439 \u0438 \u0438\u0441\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0439.\u041c\u0438\u043a\u0440\u043e\u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u041e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u043c\u043e\u0434\u0435\u043b\u044c, \u0442\u043e\u043f\u043e\u043b\u043e\u0433\u0438\u044e \u0438 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044e ISA \u043d\u0430 \u043c\u0438\u043a\u0440\u043e\u0441\u0445\u0435\u043c\u0435 \u043c\u0438\u043a\u0440\u043e\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430. \u041d\u0430 \u044d\u0442\u043e\u043c \u0443\u0440\u043e\u0432\u043d\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f: \n*  \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f \u0438 \u0432\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u044c \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0445 \u0431\u043b\u043e\u043a\u043e\u0432 \u0426\u041f, \n*  \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430 \u044f\u0434\u0435\u0440, \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432, \u0410\u041b\u0423, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0438\u0445 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f, \n*  \u0431\u043b\u043e\u043a\u043e\u0432 \u043f\u0440\u0435\u0434\u0441\u043a\u0430\u0437\u0430\u043d\u0438\u044f \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u043e\u0432, \n*  \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u0432, \n*  \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u043a\u044d\u0448-\u043f\u0430\u043c\u044f\u0442\u0438, \n*  \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0441 \u0432\u043d\u0435\u0448\u043d\u0438\u043c\u0438 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430\u043c\u0438. \u0412 \u0440\u0430\u043c\u043a\u0430\u0445 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u043c\u0438\u043a\u0440\u043e\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u043e\u0432, \u043c\u0438\u043a\u0440\u043e\u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u0441\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0435\u043c \u0440\u0430\u0441\u0448\u0438\u0440\u044f\u0435\u0442\u0441\u044f \u043f\u0443\u0442\u0451\u043c \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u043e\u0432\u044b\u0445 \u0443\u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0439 \u0438 \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0438 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u043a\u043e\u043c\u0430\u043d\u0434 \u0441 \u0446\u0435\u043b\u044c\u044e \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u044d\u043d\u0435\u0440\u0433\u043e\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043d\u0438\u044f \u0438 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439 \u043c\u0438\u043a\u0440\u043e\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u0438\u043c\u043e\u0441\u0442\u044c \u0441 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0435\u0439 \u0432\u0435\u0440\u0441\u0438\u0435\u0439 ISA. \u0423\u0440\u043e\u0432\u043d\u0438, \u0440\u0435\u0430\u043b\u0438\u0437\u0443\u0435\u043c\u044b\u0435 \u0432 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0435, \u043c\u0438\u043a\u0440\u043e\u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0435 \u0438 \u0432 \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0435 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u043e\u0432 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0438\u0445 \u0432\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u044c \u043e\u043f\u0438\u0441\u0430\u043d\u044b \u043d\u0430 \u0440\u0438\u0441. 1 \u0432 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0435 White Paper Inside Intel\u00aeCore\u2122 Microarchitecture (\u0430\u043d\u0433\u043b.)",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u6307\u4ee4\u96c6\u67b6\u69cb\uff08\u82f1\u8bed\uff1aInstruction Set Architecture\uff0c\u7e2e\u5beb\u70baISA\uff09\uff0c\u53c8\u7a31\u6307\u4ee4\u96c6\u6216\u6307\u4ee4\u96c6\u4f53\u7cfb\uff0c\u662f\u8ba1\u7b97\u673a\u4f53\u7cfb\u7ed3\u6784\u4e2d\u8207\u7a0b\u5e8f\u8a2d\u8a08\u6709\u95dc\u7684\u90e8\u5206\uff0c\u5305\u542b\u4e86\u57fa\u672c\u6570\u636e\u7c7b\u578b\uff0c\u6307\u4ee4\u96c6\uff0c\u5bc4\u5b58\u5668\uff0c\u5bfb\u5740\u6a21\u5f0f\uff0c\u5b58\u50a8\u4f53\u7cfb\uff0c\u4e2d\u65b7\uff0c\u7570\u5e38\u8655\u7406\u4ee5\u53ca\u5916\u90e8I/O\u3002\u6307\u4ee4\u96c6\u67b6\u69cb\u5305\u542b\u4e00\u7cfb\u5217\u7684opcode\u5373\u64cd\u4f5c\u7801\uff08\u6a5f\u5668\u8a9e\u8a00\uff09\uff0c\u4ee5\u53ca\u7531\u7279\u5b9a\u8655\u7406\u5668\u6267\u884c\u7684\u57fa\u672c\u547d\u4ee4\u3002 \u6307\u4ee4\u96c6\u4f53\u7cfb\u4e0e\u5fae\u67b6\u6784\uff08\u4e00\u5957\u7528\u4e8e\u6267\u884c\u6307\u4ee4\u96c6\u7684\u5fae\u5904\u7406\u5668\u8bbe\u8ba1\u65b9\u6cd5\uff09\u4e0d\u540c\u3002\u4f7f\u7528\u4e0d\u540c\u5fae\u67b6\u69cb\u7684\u96fb\u8166\u53ef\u4ee5\u5171\u4eab\u4e00\u79cd\u6307\u4ee4\u96c6\u3002\u4f8b\u5982\uff0cIntel\u7684Pentium\u548cAMD\u7684AMD Athlon\uff0c\u5169\u8005\u51e0\u4e4e\u63a1\u7528\u76f8\u540c\u7248\u672c\u7684x86\u6307\u4ee4\u96c6\u4f53\u7cfb\uff0c\u4f46\u662f\u5169\u8005\u5728\u5185\u90e8\u8bbe\u8ba1\u4e0a\u6709\u672c\u8d28\u7684\u533a\u522b\u3002 \u4e00\u4e9b\u865b\u64ec\u6a5f\u5668\u652f\u6301\u57fa\u4e8eSmalltalk\uff0cJava\u865b\u64ec\u6a5f\uff0c\u5fae\u8edf\u7684\u516c\u5171\u8a9e\u8a00\u8fd0\u884c\u65f6\u865b\u64ec\u6a5f\u6240\u751f\u6210\u7684\u5b57\u8282\u7801\uff0c\u4ed6\u5011\u7684\u6307\u4ee4\u96c6\u4f53\u7cfb\u5c07bytecode\uff08\u5b57\u8282\u7801\uff09\u4ece\u4f5c\u4e3a\u4e00\u822c\u624b\u6bb5\u7684\u4ee3\u7801\u8def\u5f84\u7ffb\u8b6f\u6210\u672c\u5730\u7684\u6a5f\u5668\u8a9e\u8a00\uff0c\u5e76\u901a\u8fc7\u89e3\u8bd1\u6267\u884c\u5e76\u4e0d\u5e38\u7528\u7684\u4ee3\u7801\u8def\u5f84\uff0c\u5168\u7f8e\u9054\u4ee5\u76f8\u540c\u7684\u65b9\u5f0f\u5f00\u53d1\u4e86\u57fa\u4e8ex86\u6307\u4ee4\u4f53\u7cfb\u7684VLIW\u8655\u7406\u5668\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Een instructieset is de verzameling van alle mogelijke machinecodes die een processor kan verwerken. De instructies worden als binaire codes in het geheugen gezet, het programmeren zelf gebeurt in assembleertalen of (meestal) hogere programmeertalen. De meeste moderne processors hebben een zeer uitgebreide instructieset, waarbij een enkele instructie meerdere functies kan uitvoeren. Bijvoorbeeld: \"haal de waarde op die op de geheugenplaats staat die door register X wordt aangewezen, tel deze op bij de waarde in het werkregister en laat register X naar de volgende geheugenplaats wijzen\". Iedere processorfamilie heeft over het algemeen een eigen instructieset die niet uitwisselbaar is met die van andere. Dit betekent dat programma's die voor een bepaald processortype gemaakt zijn niet zonder meer op een ander type kunnen werken. Met hercompileren, emulators of crosscompilers kan dit probleem ondervangen worden.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Model programowy procesora (ang. ISA - Instruction Set Architecture), czasem tak\u017ce nie\u015bci\u015ble architektura procesora \u2212 og\u00f3lne okre\u015blenie dotycz\u0105ce organizacji, funkcjonalno\u015bci i zasad dzia\u0142ania procesora, widoczne z punktu widzenia programisty jako dost\u0119pne mechanizmy programowania. Na model programowy procesora sk\u0142adaj\u0105 si\u0119 m.in.: \n*  lista rozkaz\u00f3w procesora \n*  typy danych \n*  dost\u0119pne tryby adresowania \n*  zestaw rejestr\u00f3w dost\u0119pnych dla programisty \n*  zasady obs\u0142ugi wyj\u0105tk\u00f3w i przerwa\u0144 Procesory posiadaj\u0105ce ten sam model programowy s\u0105 ze sob\u0105 kompatybilne, co oznacza, \u017ce mog\u0105 wykonywa\u0107 te same programy i generowa\u0107 te same rezultaty. W pocz\u0105tkowej historii procesor\u00f3w model programowy procesora zale\u017ca\u0142 od fizycznej implementacji procesora i niejednokrotnie ca\u0142kowicie z niej wynika\u0142. Obecnie tendencja jest odwrotna i stosuje si\u0119 bardzo r\u00f3\u017cne implementacje fizyczne (mikroarchitektury) pochodz\u0105ce od r\u00f3\u017cnych producent\u00f3w, natomiast realizuj\u0105ce ten sam ISA. Przyk\u0142adami modeli programowych mog\u0105 by\u0107: \n*  IA-32 i procesory: \n*  i386, \n*  Pentium, \n*  K6, \n*  Athlon - implementacja jako RISC, \n*  Crusoe, Itanium - implementacja jako VLIW \n*  SPARC i procesory: \n*  UltraSPARC, \n*  SPARC64 \n*  AMD64 i procesory \n*  Athlon 64 i wzwy\u017c \n*  Pentium 4 Prescott i wzwy\u017c",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Un conjunto de instrucciones, repertorio de instrucciones, juego de instrucciones o ISA (del ingl\u00e9s instruction set architecture, \u00abarquitectura del conjunto de instrucciones\u00bb) es una especificaci\u00f3n que detalla las instrucciones que una unidad central de procesamiento puede entender y ejecutar, o el conjunto de todos los comandos implementados por un dise\u00f1o particular de una CPU. El t\u00e9rmino describe los aspectos del procesador generalmente visibles para un programador, incluyendo los tipos de datos nativos, las instrucciones, los registros, la arquitectura de memoria y las interrupciones, entre otros aspectos. Existen principalmente tres tipos: CISC (Complex Instruction Set Computer), RISC (Reduced Instruction Set Computer) y SISC (Simple Instruction Set Computing). La arquitectura del conjunto de instrucciones (ISA) se emplea a veces para distinguir este conjunto de caracter\u00edsticas de la microarquitectura, que son los elementos y t\u00e9cnicas que se emplean para implementar el conjunto de instrucciones. Entre estos elementos se encuentran las microinstrucciones y los sistemas de cach\u00e9. Procesadores con diferentes dise\u00f1os internos pueden compartir un conjunto de instrucciones; por ejemplo, el Intel Pentium y AMD Athlon implementan versiones casi id\u00e9nticas del conjunto de instrucciones x86, aunque tienen dise\u00f1os diferentes.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Der Befehlssatz (englisch: instruction set) eines Prozessors ist in der Rechnerarchitektur die Menge der Maschinenbefehle, die ein bestimmter Prozessor ausf\u00fchren kann. Je nach Prozessor variiert der Umfang des Befehlssatzes zwischen 46 und \u00fcber 500 Befehlen. CISC-Prozessoren haben tendenziell gr\u00f6\u00dfere Befehlss\u00e4tze als RISC-Prozessoren, gleiches gilt f\u00fcr neuere Prozessoren gegen\u00fcber \u00e4lteren Prozessoren. In erweitertem Sinn bezeichnet der Begriff \u201eBefehlssatz\u201c den Befehlsvorrat (auch Synonym f\u00fcr \u201eBefehlssatz\u201c) einer Programmiersprache im Allgemeinen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u547d\u4ee4\u30bb\u30c3\u30c8\uff08\u3081\u3044\u308c\u3044\u305b\u3063\u3068\u3001instruction set\uff09\u306f\u3001\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u306e\u30cf\u30fc\u30c9\u30a6\u30a7\u30a2\u306b\u5bfe\u3057\u3066\u547d\u4ee4\u3092\u4f1d\u3048\u308b\u305f\u3081\u306e\u8a00\u8449\u306e\u8a9e\u5f59\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "In informatica ed elettronica un instruction set, o Instruction Set Architecture (ISA), (in lingua italiana insieme d'istruzioni) descrive quegli aspetti dell'architettura di un calcolatore che sono visibili al programmatore. Si tratta di fatto dell'insieme di istruzioni base che il processore pu\u00f2 compiere e che costituiscono dunque il suo linguaggio macchina, a partire dal quale vengono scritti i relativi programmi nei vari linguaggi di programmazione a pi\u00f9 alto livello di astrazione. A volte, il termine \"instruction set architecture\" \u00e8 usato anche per distinguere l'insieme suddetto di caratteristiche dalla microarchitettura, che \u00e8 l'insieme di tecniche di progettazione utilizzate per implementare l'instruction set (tra cui microcodice, pipeline, sistemi di cache e cos\u00ec via).",
+                "lang": "it"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744010451,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 47772,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Part"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/0-operand_instruction_set": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Register_pressure": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instruction_set_architecture": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Load/Store_instruction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Load/store_instruction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instruction_width": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instruction_(computer_science)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instruction_set_architectures": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instruction_Set": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Zero-address_machine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Zero_address_machine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instruction_Set_Architecture": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Code_density": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instruction_Sets": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instruction(s)_(computer_science)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instruction_(computing)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Native_instruction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Arithmetic/logic_instruction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Arithmetic_and_logic_operation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Arithmetic_and_logic_operations": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Load_and_store_instructions": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fixed-length_instruction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fixed-length_instruction_set": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fixed-width_instruction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fixed-width_instruction_set": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fixed_length_instruction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fixed_length_instruction_set": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fixed_width_instruction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fixed_width_instruction_set": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Variable-length_instruction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Variable-length_instruction_set": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Variable-width_instruction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Variable-width_instruction_set": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Variable_length_instruction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Variable_length_instruction_set": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Variable_width_instruction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Variable_width_instruction_set": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Instruction": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Instruction_set"
+            }
+        ]
+    }
+}

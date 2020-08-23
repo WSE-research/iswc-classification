@@ -1,0 +1,46 @@
+{
+    "@text": "Name the island with archipelago as Society Islands and has the largest city named Faaa ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Archipelago",
+            "@support": "3931",
+            "@types": "",
+            "@surfaceForm": "archipelago",
+            "@offset": "21",
+            "@similarityScore": "0.9996514276126791",
+            "@percentageOfSecondRank": "1.1393284228148236E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Society_Islands",
+            "@support": "687",
+            "@types": "Wikidata:Q23442,Schema:Place,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Island",
+            "@surfaceForm": "Society Islands",
+            "@offset": "36",
+            "@similarityScore": "0.9999999999998863",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "72",
+            "@similarityScore": "0.8517317529813903",
+            "@percentageOfSecondRank": "0.1263362836220029"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Faaa",
+            "@support": "46",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Faaa",
+            "@offset": "83",
+            "@similarityScore": "0.9999999758037038",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

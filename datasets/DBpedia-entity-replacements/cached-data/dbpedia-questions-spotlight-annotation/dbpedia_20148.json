@@ -1,0 +1,28 @@
+{
+    "@text": "Do the asiana airlines fly  to Jeju airport?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Asiana_Airlines",
+            "@support": "278",
+            "@types": "Wikidata:Q46970,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline,DBpedia:Agent",
+            "@surfaceForm": "asiana airlines",
+            "@offset": "7",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Jeju_International_Airport",
+            "@support": "77",
+            "@types": "Wikidata:Q1248784,Schema:Place,Schema:Airport,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure,DBpedia:Airport",
+            "@surfaceForm": "Jeju",
+            "@offset": "31",
+            "@similarityScore": "0.9514524659524617",
+            "@percentageOfSecondRank": "0.049366910031943836"
+        }
+    ]
+}

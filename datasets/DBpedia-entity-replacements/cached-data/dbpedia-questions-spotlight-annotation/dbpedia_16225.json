@@ -1,0 +1,28 @@
+{
+    "@text": "\"Where is {home town} of {Mata Hari}, which has {partner town} is {Bordeaux} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mata_Hari",
+            "@support": "352",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Mata Hari",
+            "@offset": "26",
+            "@similarityScore": "0.9999999181792736",
+            "@percentageOfSecondRank": "5.93045871170612E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bordeaux",
+            "@support": "7682",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Bordeaux",
+            "@offset": "67",
+            "@similarityScore": "0.9582347110981413",
+            "@percentageOfSecondRank": "0.03146643203774499"
+        }
+    ]
+}

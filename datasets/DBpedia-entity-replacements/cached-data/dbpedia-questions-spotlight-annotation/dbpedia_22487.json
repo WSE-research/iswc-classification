@@ -1,0 +1,28 @@
+{
+    "@text": "Which Texas based company  was founded by Jim Harris ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Texas",
+            "@support": "136284",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Texas",
+            "@offset": "6",
+            "@similarityScore": "0.9988099205402271",
+            "@percentageOfSecondRank": "9.748360607270462E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Jim_Harris_(politician)",
+            "@support": "48",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Jim Harris",
+            "@offset": "42",
+            "@similarityScore": "0.9862990911825891",
+            "@percentageOfSecondRank": "0.011904761904761781"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Is Keith Richards and Rock and jazz musician?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Keith_Richards",
+            "@support": "2010",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Keith Richards",
+            "@offset": "3",
+            "@similarityScore": "0.9999999999998295",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Jazz",
+            "@support": "48445",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "jazz",
+            "@offset": "31",
+            "@similarityScore": "0.9999772232788784",
+            "@percentageOfSecondRank": "1.1803469809772464E-5"
+        }
+    ]
+}

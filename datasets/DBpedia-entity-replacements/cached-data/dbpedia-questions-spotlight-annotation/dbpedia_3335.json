@@ -1,0 +1,37 @@
+{
+    "@text": "Which is {birthplace} {state} of {Victor Emmanuel I of Sardinia} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Victor_Emmanuel_I_of_Sardinia",
+            "@support": "138",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Victor Emmanuel I",
+            "@offset": "34",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Emmanuel_I_(Nestorian_patriarch)",
+            "@support": "10",
+            "@types": "",
+            "@surfaceForm": "Emmanuel I",
+            "@offset": "41",
+            "@similarityScore": "0.9999990797434435",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sardinia",
+            "@support": "7117",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Sardinia",
+            "@offset": "55",
+            "@similarityScore": "0.8953815931916194",
+            "@percentageOfSecondRank": "0.11684030021761066"
+        }
+    ]
+}

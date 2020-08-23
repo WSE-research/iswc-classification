@@ -1,0 +1,37 @@
+{
+    "@text": "Which football teams are in a city where Oakland Athletics were the tenants?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Association_football",
+            "@support": "280277",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "football",
+            "@offset": "6",
+            "@similarityScore": "0.7190693412745017",
+            "@percentageOfSecondRank": "0.36833841077897067"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "30",
+            "@similarityScore": "0.8928854942848224",
+            "@percentageOfSecondRank": "0.057819494909262685"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Oakland_Athletics",
+            "@support": "6400",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:BaseballTeam,DBpedia:Agent",
+            "@surfaceForm": "Oakland Athletics",
+            "@offset": "41",
+            "@similarityScore": "0.9998300894828738",
+            "@percentageOfSecondRank": "3.804064676799501E-5"
+        }
+    ]
+}

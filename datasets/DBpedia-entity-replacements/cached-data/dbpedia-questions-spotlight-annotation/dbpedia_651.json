@@ -1,0 +1,37 @@
+{
+    "@text": "Does Lauren Bacall belong to Arab and Ashkenzai Jews ethnical groups?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Lauren_Bacall",
+            "@support": "862",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Lauren Bacall",
+            "@offset": "5",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Arabic",
+            "@support": "34232",
+            "@types": "Wikidata:Q34770,Wikidata:Q315,Schema:Language,DBpedia:Language",
+            "@surfaceForm": "Arab",
+            "@offset": "29",
+            "@similarityScore": "0.6851915756537182",
+            "@percentageOfSecondRank": "0.39332762535665156"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Jews",
+            "@support": "76658",
+            "@types": "Wikidata:Q41710,DBpedia:EthnicGroup",
+            "@surfaceForm": "Jews",
+            "@offset": "48",
+            "@similarityScore": "0.8839183432829547",
+            "@percentageOfSecondRank": "0.04552427873765977"
+        }
+    ]
+}

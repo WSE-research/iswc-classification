@@ -1,0 +1,472 @@
+{
+    "http://dbpedia.org/resource/Insulin_(medication)": {
+        "http://dbpedia.org/property/legalUs": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Frovatriptan": {
+        "http://dbpedia.org/property/legalStatus": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pharmacy_medicines": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sanofi": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription_Only_Medicines": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription_medication": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ibuprofen": {
+        "http://dbpedia.org/property/legalUs": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Prescription_drug": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Leo_Pharma": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Oxytetracycline": {
+        "http://dbpedia.org/property/legalStatus": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription_Drug": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription_drug": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Drug"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u8655\u65b9\u85e5",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Verschreibungspflicht",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u51e6\u65b9\u7b8b\u533b\u85ac\u54c1",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u062f\u0648\u0627\u0621 \u0627\u0644\u0648\u0635\u0641\u0627\u062a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Prescription drug",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "MSRM",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u51e6\u65b9\u7b8b\u533b\u85ac\u54c1\uff08\u3057\u3087\u307b\u3046\u305b\u3093\u3044\u3084\u304f\u3072\u3093\u3001prescription medication\uff09\u3068\u306f\u3001\u533b\u5e2b\u306e\u51e6\u65b9\u7b8b\u3092\u5fc5\u8981\u3068\u3057\u3001\u85ac\u5264\u5e2b\u306b\u3088\u308b\u8abf\u5264\u306b\u3088\u3063\u3066\u51e6\u65b9\u3055\u308c\u308b\u533b\u85ac\u54c1\u306e\u3053\u3068\u3067\u3042\u308b\u3002\u3053\u308c\u306b\u5bfe\u3057\u3001\u51e6\u65b9\u7b8b\u4e0d\u8981\u3067\u85ac\u5c40\u4ee5\u5916\u3067\u8cfc\u5165\u3059\u308b\u3053\u3068\u3082\u3067\u304d\u308b\u4e00\u822c\u7528\u533b\u85ac\u54c1\u304c\u3042\u308b\u3002\u304b\u3064\u3066\u300c\u7b8b\u300d\u306e\u5b57\u304c\u5e38\u7528\u6f22\u5b57\u306b\u542b\u307e\u308c\u3066\u3044\u306a\u304b\u3063\u305f\u305f\u3081\u51e6\u65b9\u305b\u3093\u533b\u85ac\u54c1\u3068\u8868\u8a18\u3055\u308c\u3066\u3044\u305f\u3002 \u88fd\u85ac\u7523\u696d\u306b\u3088\u308b\u9069\u5fdc\u5916\u3078\u306e\u9055\u6cd5\u306a\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u304c\u4e00\u822c\u5316\u3057\u3066\u304a\u308a\u3001\u305d\u308c\u306f\u6b7b\u4ea1\u3084\u91cd\u7be4\u306a\u526f\u4f5c\u7528\u3068\u3044\u3063\u305f\u5371\u967a\u6027\u3092\u5ea6\u5916\u8996\u3057\u3066\u884c\u308f\u308c\u3066\u3044\u308b\u3002\u30a2\u30e1\u30ea\u30ab\u3067\u306f\u85ac\u7269\u306e\u904e\u5270\u6442\u53d6\u306b\u3088\u308b\u6b7b\u4ea1\u306e\u904e\u534a\u6570\u304c\u51e6\u65b9\u305b\u3093\u533b\u85ac\u54c1\u3068\u306a\u3063\u3066\u304d\u305f\u3002\u82f1\u7c73\u3067\u904b\u8ee2\u6b7b\u4ea1\u4e8b\u6545\u3092\u4e0a\u56de\u308a\u3001\u56fd\u969b\u7684\u306a\u61f8\u5ff5\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "A prescription drug (also prescription medication or prescription medicine) is a pharmaceutical drug that legally requires a medical prescription to be dispensed. In contrast, over-the-counter drugs can be obtained without a prescription. The reason for this difference in substance control is the potential scope of misuse, from drug abuse to practicing medicine without a license and without sufficient education. Different jurisdictions have different definitions of what constitutes a prescription drug.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Die Verschreibungspflicht (Deutschland, Schweiz und S\u00fcdtirol) oder Rezeptpflicht (\u00d6sterreich, umgangssprachlich auch Deutschland) ist eine Verkaufsabgrenzung f\u00fcr Arzneimittel und Medizinprodukte und z\u00e4hlt zu den Routinema\u00dfnahmen der Pharmakovigilanz. Arzneimittel, die ohne Verschreibung abgegeben werden d\u00fcrfen, werden umgangssprachlich auch als rezeptfrei bezeichnet (siehe OTC-Arzneimittel).",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "MSRM \u00e9 a abreviatura de \"Medicamento Sujeito a Receita M\u00e9dica\"",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0623\u062f\u0648\u064a\u0629 \u0627\u0644\u0648\u0635\u0641\u0627\u062a \u0647\u064a \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u0627\u0644\u062a\u064a \u064a\u062c\u0628 \u0639\u0644\u0649 \u0627\u0644\u0635\u064a\u062f\u0644\u064a \u0627\u0644\u0625\u0645\u062a\u0646\u0627\u0639 \u0639\u0646 \u0635\u0631\u0641\u0647\u0627 \u0628\u062f\u0648\u0646 \u0648\u0635\u0641\u0629 \u0637\u0628\u064a\u0629\u060c \u0648\u062a\u0645\u062b\u0644 \u0647\u0630\u0647 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0623\u0643\u062b\u0631 \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u0648\u062a\u0633\u062a\u062b\u0646\u0649 \u0645\u0646\u0647\u0627 \u0623\u062f\u0648\u064a\u0629 \u0645\u062a\u0627\u062d\u0629 \u0628\u062f\u0648\u0646 \u0648\u0635\u0641\u0629 \u0623\u0648 \u0623\u062f\u0648\u064a\u0629 \u0627\u0644\u0637\u0627\u0648\u0644\u0629 (OTC). \u064a\u0634\u064a\u0631 \u0645\u0635\u0637\u0644\u062d \u0627\u0644\u0648\u0635\u0641\u0629 \u0627\u0644\u0637\u0628\u064a\u0629 (\u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0623\u064a\u0636\u064b\u0627 \u0628\u0627\u0633\u0645 \u0648\u0635\u0641\u0629 \u0627\u0644\u062f\u0648\u0627\u0621 \u0623\u0648 \u0627\u0644\u062f\u0648\u0627\u0621 \u0627\u0644\u0645\u0648\u0635\u0648\u0641) \u0628\u0645\u062b\u0627\u0628\u0629 \u062f\u0648\u0627\u0621 \u0645\u0631\u062e\u0635 \u064a\u0646\u0638\u0645\u0647 \u062a\u0634\u0631\u064a\u0639 \u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0648\u0635\u0641\u0629 \u0637\u0628\u064a\u0629 \u0642\u0628\u0644 \u0627\u0644\u062a\u0645\u0643\u0646 \u0645\u0646 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u064a\u0647. \u0648\u064a\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0645\u0635\u0637\u0644\u062d \u0644\u062a\u0645\u064a\u064a\u0632\u0647 \u0639\u0646 \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u0627\u0644\u0645\u062a\u0627\u062d\u0629 \u062f\u0648\u0646 \u0648\u0635\u0641\u0629 \u0637\u0628\u064a\u0629 \u0648\u0627\u0644\u062a\u064a \u064a\u0645\u0643\u0646 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u064a\u0647\u0627 \u062f\u0648\u0646 \u0648\u0635\u0641\u0629 \u0637\u0628\u064a\u0629. \u0648\u062a\u062a\u0628\u0646\u0649 \u0627\u0644\u0627\u062e\u062a\u0635\u0627\u0635\u0627\u062a \u0627\u0644\u0642\u0636\u0627\u0626\u064a\u0629 \u0627\u0644\u0645\u062e\u062a\u0644\u0641\u0629 \u062a\u0639\u0631\u064a\u0641\u0627\u062a \u0645\u062e\u062a\u0644\u0641\u0629 \u0644\u0645\u0627 \u064a\u0645\u062b\u0644 \u0648\u0635\u0641\u0629 \u0637\u0628\u064a\u0629.[\u0628\u062d\u0627\u062c\u0629 \u0644\u0645\u0635\u062f\u0631]",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u8655\u65b9\u85e5\uff08prescription drug\u3001prescription medication\u3001prescription medicine\uff09\u662f\u836f\u54c1\u7ba1\u7406\u4e0a\u7684\u754c\u5b9a\uff0c\u6307\u987b\u51ed\u6267\u4e1a\u533b\u5e08\u3001\u6267\u4e1a\u52a9\u7406\u533b\u5e08\u5904\u65b9\u6216\u836f\u623f\u5de5\u4f5c\u4eba\u5458\u540c\u610f\u5373\u53ef\u8c03\u914d\u3001\u8d2d\u4e70\u548c\u4f7f\u7528\u7684\u836f\u54c1\u3002\u5904\u65b9\u836f\u4e3b\u8981\u662f\u6297\u751f\u7d20\u3002\u8207\u4e4b\u76f8\u5c0d\uff0c\u975e\u5904\u65b9\u836f\u4e0d\u9700\u8981\u51ed\u6267\u4e1a\u533b\u5e08\u6216\u6267\u4e1a\u52a9\u7406\u533b\u5e08\u5904\u65b9\u5373\u53ef\u81ea\u884c\u5224\u65ad\u3001\u8d2d\u4e70\u548c\u4f7f\u7528\u3002\u8fdb\u5165\u836f\u54c1\u6d41\u901a\u9886\u57df\u7684\u5904\u65b9\u836f\uff0c\u5176\u76f8\u5e94\u7684\u8b66\u793a\u8bed\u5e94\u7531\u751f\u4ea7\u4f01\u4e1a\u9192\u76ee\u5730\u5370\u5236\u5728\u836f\u54c1\u5305\u88c5\u6216\u4f7f\u7528\u8bf4\u660e\u4e66\u4e0a\uff0c\u5177\u4f53\u5185\u5bb9\u4e3a\uff1a\u201c\u5904\u65b9\u836f\uff1a\u51ed\u533b\u5e08\u5904\u65b9\u9500\u552e\u3001\u8d2d\u4e70\u548c\u4f7f\u7528\u201d\uff0c\u6b64\u5916\uff0c\u5728\u4e2d\u570b\u5927\u9678\u7684\u8655\u65b9\u85e5\u65e0\u201cOTC\u201d\u6807\u8bc6\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1643563"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u51e6\u65b9\u7b8b\u533b\u85ac\u54c1"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1643563"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/MSRM"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Verschreibungspflicht"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01_7r6"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Pharmacy"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Pharmaceuticals_policy"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Drugs"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Clinical_pharmacology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Advanced_practice_registered_nursing"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Prescription_drug"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Prescription_drug?oldid=735265966"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.legislation.gov.uk/uksi/1997/1830/made"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.usatoday.com/news/health/2006-06-12-teens-pharm-drugs_x.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.yaleeconomicreview.com/spring2005/optimallevelofregulation.php"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ema.europa.eu/ema/index.jsp?curl=pages/about_us/general/general_content_000109.jsp&mid=WC0b01ac0580028a47"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "A prescription drug (also prescription medication or prescription medicine) is a pharmaceutical drug that legally requires a medical prescription to be dispensed. In contrast, over-the-counter drugs can be obtained without a prescription. The reason for this difference in substance control is the potential scope of misuse, from drug abuse to practicing medicine without a license and without sufficient education. Different jurisdictions have different definitions of what constitutes a prescription drug. \"Rx\" (\u211e) is often used as a short form for prescription drug in North America- a contraction of the Latin word \"recipe\" (an imperative form of \"recipere\") meaning \"take\". Prescription drugs are often dispensed together with a monograph (in Europe, a Patient Information Leaflet or PIL) that gives detailed information about the drug. The use of prescription drugs has been increasing since the 1960s. In the U.S., 88% of older adults (62\u201385 years) use at least 1 prescription drug, while 36% take at least 5 prescription medicines concurrently.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Die Verschreibungspflicht (Deutschland, Schweiz und S\u00fcdtirol) oder Rezeptpflicht (\u00d6sterreich, umgangssprachlich auch Deutschland) ist eine Verkaufsabgrenzung f\u00fcr Arzneimittel und Medizinprodukte und z\u00e4hlt zu den Routinema\u00dfnahmen der Pharmakovigilanz. Der Verschreibungspflicht unterliegende Mittel d\u00fcrfen nur gegen Vorlage einer \u00e4rztlichen, zahn\u00e4rztlichen oder tier\u00e4rztlichen Verschreibung abgegeben werden. Dadurch sollen Patienten vor unm\u00e4\u00dfigen Nebenwirkungen durch die Arzneimittelanwendung gesch\u00fctzt werden. Insbesondere bei neuen Arzneimitteln sind die Nebenwirkungen in der Regel noch nicht vollst\u00e4ndig bekannt; seltene Nebenwirkungen eines Medikaments k\u00f6nnen nur durch breite Verwendung erkannt werden. Auch soll der Missbrauch von Arzneimitteln verhindert werden. Arzneimittel, die ohne Verschreibung abgegeben werden d\u00fcrfen, werden umgangssprachlich auch als rezeptfrei bezeichnet (siehe OTC-Arzneimittel).",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0623\u062f\u0648\u064a\u0629 \u0627\u0644\u0648\u0635\u0641\u0627\u062a \u0647\u064a \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u0627\u0644\u062a\u064a \u064a\u062c\u0628 \u0639\u0644\u0649 \u0627\u0644\u0635\u064a\u062f\u0644\u064a \u0627\u0644\u0625\u0645\u062a\u0646\u0627\u0639 \u0639\u0646 \u0635\u0631\u0641\u0647\u0627 \u0628\u062f\u0648\u0646 \u0648\u0635\u0641\u0629 \u0637\u0628\u064a\u0629\u060c \u0648\u062a\u0645\u062b\u0644 \u0647\u0630\u0647 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0623\u0643\u062b\u0631 \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u0648\u062a\u0633\u062a\u062b\u0646\u0649 \u0645\u0646\u0647\u0627 \u0623\u062f\u0648\u064a\u0629 \u0645\u062a\u0627\u062d\u0629 \u0628\u062f\u0648\u0646 \u0648\u0635\u0641\u0629 \u0623\u0648 \u0623\u062f\u0648\u064a\u0629 \u0627\u0644\u0637\u0627\u0648\u0644\u0629 (OTC). \u064a\u0634\u064a\u0631 \u0645\u0635\u0637\u0644\u062d \u0627\u0644\u0648\u0635\u0641\u0629 \u0627\u0644\u0637\u0628\u064a\u0629 (\u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0623\u064a\u0636\u064b\u0627 \u0628\u0627\u0633\u0645 \u0648\u0635\u0641\u0629 \u0627\u0644\u062f\u0648\u0627\u0621 \u0623\u0648 \u0627\u0644\u062f\u0648\u0627\u0621 \u0627\u0644\u0645\u0648\u0635\u0648\u0641) \u0628\u0645\u062b\u0627\u0628\u0629 \u062f\u0648\u0627\u0621 \u0645\u0631\u062e\u0635 \u064a\u0646\u0638\u0645\u0647 \u062a\u0634\u0631\u064a\u0639 \u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0648\u0635\u0641\u0629 \u0637\u0628\u064a\u0629 \u0642\u0628\u0644 \u0627\u0644\u062a\u0645\u0643\u0646 \u0645\u0646 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u064a\u0647. \u0648\u064a\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0645\u0635\u0637\u0644\u062d \u0644\u062a\u0645\u064a\u064a\u0632\u0647 \u0639\u0646 \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u0627\u0644\u0645\u062a\u0627\u062d\u0629 \u062f\u0648\u0646 \u0648\u0635\u0641\u0629 \u0637\u0628\u064a\u0629 \u0648\u0627\u0644\u062a\u064a \u064a\u0645\u0643\u0646 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u064a\u0647\u0627 \u062f\u0648\u0646 \u0648\u0635\u0641\u0629 \u0637\u0628\u064a\u0629. \u0648\u062a\u062a\u0628\u0646\u0649 \u0627\u0644\u0627\u062e\u062a\u0635\u0627\u0635\u0627\u062a \u0627\u0644\u0642\u0636\u0627\u0626\u064a\u0629 \u0627\u0644\u0645\u062e\u062a\u0644\u0641\u0629 \u062a\u0639\u0631\u064a\u0641\u0627\u062a \u0645\u062e\u062a\u0644\u0641\u0629 \u0644\u0645\u0627 \u064a\u0645\u062b\u0644 \u0648\u0635\u0641\u0629 \u0637\u0628\u064a\u0629.[\u0628\u062d\u0627\u062c\u0629 \u0644\u0645\u0635\u062f\u0631] \u064a\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0627\u062e\u062a\u0635\u0627\u0631 \"Rx\" \u063a\u0627\u0644\u0628\u064b\u0627 \u0643\u0635\u064a\u063a\u0629 \u0645\u062e\u062a\u0635\u0631\u0629 \u0644\u0644\u0648\u0635\u0641\u0629 \u0627\u0644\u0637\u0628\u064a\u0629 \u0641\u064a \u0623\u0645\u0631\u064a\u0643\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629. \u0648\u0647\u0648 \u0627\u062e\u062a\u0635\u0627\u0631 \u0644\u0644\u0645\u0635\u0637\u0644\u062d \u0627\u0644\u0644\u0627\u062a\u064a\u0646\u064a \"\u0648\u0635\u0641\u0629\" \u0648\u0647\u064a \u0635\u064a\u063a\u0629 \u0623\u0645\u0631 \u0645\u0646 \u0643\u0644\u0645\u0629 \"\u064a\u0633\u062a\u0644\u0645\" \u0628\u0645\u0639\u0646\u0649 \"\u064a\u062a\u0646\u0627\u0648\u0644\".[\u0628\u062d\u0627\u062c\u0629 \u0644\u0645\u0635\u062f\u0631] \u064a\u062a\u0645 \u063a\u0627\u0644\u0628\u064b\u0627 \u0635\u0631\u0641 \u0627\u0644\u0648\u0635\u0641\u0627\u062a \u0627\u0644\u0637\u0628\u064a\u0629 \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u062f\u0631\u0627\u0633\u0629 (\u0641\u064a \u0623\u0648\u0631\u0648\u0628\u0627\u060c \u062a\u0643\u0648\u0646 \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0646\u0634\u0631\u0629 \u0628\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0645\u0631\u064a\u0636 \u0623\u0648 \u0645\u0627 \u064a\u0639\u0631\u0641 \u0627\u062e\u062a\u0635\u0627\u0631\u064b\u0627 \u0628\u0627\u0633\u0645 PIL) \u062a\u0642\u062f\u0645 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u062a\u0641\u0635\u064a\u0644\u064a\u0629 \u0628\u0634\u0623\u0646 \u0627\u0644\u062f\u0648\u0627\u0621.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u8655\u65b9\u85e5\uff08prescription drug\u3001prescription medication\u3001prescription medicine\uff09\u662f\u836f\u54c1\u7ba1\u7406\u4e0a\u7684\u754c\u5b9a\uff0c\u6307\u987b\u51ed\u6267\u4e1a\u533b\u5e08\u3001\u6267\u4e1a\u52a9\u7406\u533b\u5e08\u5904\u65b9\u6216\u836f\u623f\u5de5\u4f5c\u4eba\u5458\u540c\u610f\u5373\u53ef\u8c03\u914d\u3001\u8d2d\u4e70\u548c\u4f7f\u7528\u7684\u836f\u54c1\u3002\u5904\u65b9\u836f\u4e3b\u8981\u662f\u6297\u751f\u7d20\u3002\u8207\u4e4b\u76f8\u5c0d\uff0c\u975e\u5904\u65b9\u836f\u4e0d\u9700\u8981\u51ed\u6267\u4e1a\u533b\u5e08\u6216\u6267\u4e1a\u52a9\u7406\u533b\u5e08\u5904\u65b9\u5373\u53ef\u81ea\u884c\u5224\u65ad\u3001\u8d2d\u4e70\u548c\u4f7f\u7528\u3002\u8fdb\u5165\u836f\u54c1\u6d41\u901a\u9886\u57df\u7684\u5904\u65b9\u836f\uff0c\u5176\u76f8\u5e94\u7684\u8b66\u793a\u8bed\u5e94\u7531\u751f\u4ea7\u4f01\u4e1a\u9192\u76ee\u5730\u5370\u5236\u5728\u836f\u54c1\u5305\u88c5\u6216\u4f7f\u7528\u8bf4\u660e\u4e66\u4e0a\uff0c\u5177\u4f53\u5185\u5bb9\u4e3a\uff1a\u201c\u5904\u65b9\u836f\uff1a\u51ed\u533b\u5e08\u5904\u65b9\u9500\u552e\u3001\u8d2d\u4e70\u548c\u4f7f\u7528\u201d\uff0c\u6b64\u5916\uff0c\u5728\u4e2d\u570b\u5927\u9678\u7684\u8655\u65b9\u85e5\u65e0\u201cOTC\u201d\u6807\u8bc6\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "MSRM \u00e9 a abreviatura de \"Medicamento Sujeito a Receita M\u00e9dica\"",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u51e6\u65b9\u7b8b\u533b\u85ac\u54c1\uff08\u3057\u3087\u307b\u3046\u305b\u3093\u3044\u3084\u304f\u3072\u3093\u3001prescription medication\uff09\u3068\u306f\u3001\u533b\u5e2b\u306e\u51e6\u65b9\u7b8b\u3092\u5fc5\u8981\u3068\u3057\u3001\u85ac\u5264\u5e2b\u306b\u3088\u308b\u8abf\u5264\u306b\u3088\u3063\u3066\u51e6\u65b9\u3055\u308c\u308b\u533b\u85ac\u54c1\u306e\u3053\u3068\u3067\u3042\u308b\u3002\u3053\u308c\u306b\u5bfe\u3057\u3001\u51e6\u65b9\u7b8b\u4e0d\u8981\u3067\u85ac\u5c40\u4ee5\u5916\u3067\u8cfc\u5165\u3059\u308b\u3053\u3068\u3082\u3067\u304d\u308b\u4e00\u822c\u7528\u533b\u85ac\u54c1\u304c\u3042\u308b\u3002\u304b\u3064\u3066\u300c\u7b8b\u300d\u306e\u5b57\u304c\u5e38\u7528\u6f22\u5b57\u306b\u542b\u307e\u308c\u3066\u3044\u306a\u304b\u3063\u305f\u305f\u3081\u51e6\u65b9\u305b\u3093\u533b\u85ac\u54c1\u3068\u8868\u8a18\u3055\u308c\u3066\u3044\u305f\u3002 \u88fd\u85ac\u7523\u696d\u306b\u3088\u308b\u9069\u5fdc\u5916\u3078\u306e\u9055\u6cd5\u306a\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u304c\u4e00\u822c\u5316\u3057\u3066\u304a\u308a\u3001\u305d\u308c\u306f\u6b7b\u4ea1\u3084\u91cd\u7be4\u306a\u526f\u4f5c\u7528\u3068\u3044\u3063\u305f\u5371\u967a\u6027\u3092\u5ea6\u5916\u8996\u3057\u3066\u884c\u308f\u308c\u3066\u3044\u308b\u3002\u30a2\u30e1\u30ea\u30ab\u3067\u306f\u85ac\u7269\u306e\u904e\u5270\u6442\u53d6\u306b\u3088\u308b\u6b7b\u4ea1\u306e\u904e\u534a\u6570\u304c\u51e6\u65b9\u305b\u3093\u533b\u85ac\u54c1\u3068\u306a\u3063\u3066\u304d\u305f\u3002\u82f1\u7c73\u3067\u904b\u8ee2\u6b7b\u4ea1\u4e8b\u6545\u3092\u4e0a\u56de\u308a\u3001\u56fd\u969b\u7684\u306a\u61f8\u5ff5\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 735265966,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 359238,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Adapalene": {
+        "http://dbpedia.org/property/legalUs": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aventis_Pharma": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription_Only": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription-only_medicine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription_drugs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Legend_drug": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription_medicine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription_fee": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lumiracoxib": {
+        "http://dbpedia.org/property/legalStatus": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Co-codamol": {
+        "http://dbpedia.org/property/legalUk": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Almotriptan": {
+        "http://dbpedia.org/property/legalStatus": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mebendazole": {
+        "http://dbpedia.org/property/legalUk": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Free_prescription": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription_medicines": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethical_drug": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescriptions,_drug": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription_only_medicine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Perscription_drug": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription-only_drug": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription-only_medicines": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prescription-only_medication": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Prescription_drug"
+            }
+        ]
+    }
+}

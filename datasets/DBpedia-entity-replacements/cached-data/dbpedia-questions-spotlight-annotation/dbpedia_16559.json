@@ -1,0 +1,28 @@
+{
+    "@text": "did Stan Lee create Captain America?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Stan_Lee",
+            "@support": "2734",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:ComicsCreator,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Stan Lee",
+            "@offset": "4",
+            "@similarityScore": "0.9999999863014751",
+            "@percentageOfSecondRank": "1.3691624394179447E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Captain_America",
+            "@support": "6758",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q95074,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:FictionalCharacter,DBpedia:ComicsCharacter,DBpedia:Agent",
+            "@surfaceForm": "Captain America",
+            "@offset": "20",
+            "@similarityScore": "0.9992609259469171",
+            "@percentageOfSecondRank": "7.279482615465728E-4"
+        }
+    ]
+}

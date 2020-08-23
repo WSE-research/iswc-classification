@@ -1,0 +1,37 @@
+{
+    "@text": "When did Antoine Laurent Lavoisier cease to be a citizen of the French Republic?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Louis_St._Laurent",
+            "@support": "336",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:PrimeMinister,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Laurent",
+            "@offset": "17",
+            "@similarityScore": "0.7421404776349595",
+            "@percentageOfSecondRank": "0.19278394628672615"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Antoine_Lavoisier",
+            "@support": "639",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q901,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Scientist,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Lavoisier",
+            "@offset": "25",
+            "@similarityScore": "0.9999999999748184",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/France",
+            "@support": "256130",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "French Republic",
+            "@offset": "64",
+            "@similarityScore": "0.9319164673733933",
+            "@percentageOfSecondRank": "0.0652855173000253"
+        }
+    ]
+}

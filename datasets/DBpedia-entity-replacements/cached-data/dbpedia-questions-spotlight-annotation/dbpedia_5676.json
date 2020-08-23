@@ -1,0 +1,28 @@
+{
+    "@text": "Does the Peugeot 107 have a wheelbase that is equal to 2340?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Peugeot_107",
+            "@support": "41",
+            "@types": "DUL:DesignedArtifact,Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Automobile",
+            "@surfaceForm": "Peugeot 107",
+            "@offset": "9",
+            "@similarityScore": "0.9999999999997158",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Wheelbase",
+            "@support": "1131",
+            "@types": "",
+            "@surfaceForm": "wheelbase",
+            "@offset": "28",
+            "@similarityScore": "0.9937175101730275",
+            "@percentageOfSecondRank": "0.006322073779675732"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "The conjugate acid of ammonia has what chemical compound?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Acid",
+            "@support": "8253",
+            "@types": "",
+            "@surfaceForm": "acid",
+            "@offset": "14",
+            "@similarityScore": "0.9991755933186224",
+            "@percentageOfSecondRank": "8.248334898507137E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ammonia",
+            "@support": "5039",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "ammonia",
+            "@offset": "22",
+            "@similarityScore": "0.9999974250477847",
+            "@percentageOfSecondRank": "1.6871347844148571E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chemical_compound",
+            "@support": "3471",
+            "@types": "",
+            "@surfaceForm": "chemical compound",
+            "@offset": "39",
+            "@similarityScore": "0.9994899096482946",
+            "@percentageOfSecondRank": "5.10350676648164E-4"
+        }
+    ]
+}

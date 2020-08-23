@@ -1,0 +1,28 @@
+{
+    "@text": "Which company produced the car which was a new version of Daewoo's Tico?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Daewoo_Motors",
+            "@support": "276",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Daewoo",
+            "@offset": "58",
+            "@similarityScore": "0.9975519143143816",
+            "@percentageOfSecondRank": "0.001547461693475058"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Daewoo_Tico",
+            "@support": "26",
+            "@types": "DUL:DesignedArtifact,Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Automobile",
+            "@surfaceForm": "Tico",
+            "@offset": "67",
+            "@similarityScore": "0.9999823991791439",
+            "@percentageOfSecondRank": "1.4247830030537088E-5"
+        }
+    ]
+}

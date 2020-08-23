@@ -1,0 +1,28 @@
+{
+    "@text": "Who are the shareholder of the soccer club for whom Steve Holland plays?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Association_football",
+            "@support": "280277",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "soccer",
+            "@offset": "31",
+            "@similarityScore": "0.9997730736368395",
+            "@percentageOfSecondRank": "1.886085865708076E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Molly_Hatchet",
+            "@support": "266",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q215380,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:MusicGroup,DBpedia:Organisation,DBpedia:Group,DBpedia:Band,DBpedia:Agent",
+            "@surfaceForm": "Steve Holland",
+            "@offset": "52",
+            "@similarityScore": "0.9973517233859667",
+            "@percentageOfSecondRank": "0.0022420832426452283"
+        }
+    ]
+}

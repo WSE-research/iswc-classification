@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the {twinned administrative body} and the {contains administrative territorial entity} of {Lisbon} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Territorial_entity",
+            "@support": "131",
+            "@types": "",
+            "@surfaceForm": "administrative territorial entity",
+            "@offset": "61",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Lisbon",
+            "@support": "17327",
+            "@types": "Schema:Place,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Lisbon",
+            "@offset": "100",
+            "@similarityScore": "0.9999404411037055",
+            "@percentageOfSecondRank": "2.8272504473913255E-5"
+        }
+    ]
+}

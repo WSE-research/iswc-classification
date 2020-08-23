@@ -1,0 +1,28 @@
+{
+    "@text": "Which taxon is named after David Bowie?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "6",
+            "@similarityScore": "0.9996972502780735",
+            "@percentageOfSecondRank": "3.0175671941304197E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/David_Bowie",
+            "@support": "7700",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "David Bowie",
+            "@offset": "27",
+            "@similarityScore": "0.9999999426904668",
+            "@percentageOfSecondRank": "3.233726006391802E-8"
+        }
+    ]
+}

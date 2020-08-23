@@ -1,0 +1,28 @@
+{
+    "@text": "What flammable gas with a safety classification and labelling of NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response has the highest pKa?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/NFPA_704",
+            "@support": "50",
+            "@types": "",
+            "@surfaceForm": "NFPA 704",
+            "@offset": "65",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Acid_dissociation_constant",
+            "@support": "694",
+            "@types": "",
+            "@surfaceForm": "pKa",
+            "@offset": "181",
+            "@similarityScore": "0.9999999999999716",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

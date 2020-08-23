@@ -1,0 +1,28 @@
+{
+    "@text": "Is it true that the memory capacity of the diskette equals to 1152?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Computer_data_storage",
+            "@support": "2756",
+            "@types": "",
+            "@surfaceForm": "memory",
+            "@offset": "20",
+            "@similarityScore": "0.6209127493142377",
+            "@percentageOfSecondRank": "0.4333621318210648"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Floppy_disk",
+            "@support": "2242",
+            "@types": "",
+            "@surfaceForm": "diskette",
+            "@offset": "43",
+            "@similarityScore": "0.9999999914370079",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

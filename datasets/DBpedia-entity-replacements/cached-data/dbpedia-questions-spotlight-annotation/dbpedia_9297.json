@@ -1,0 +1,37 @@
+{
+    "@text": "Who is the child of Charles Martel, who also has a brother called Remigius of Rouen?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Charles_VII_of_France",
+            "@support": "1725",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Charles",
+            "@offset": "20",
+            "@similarityScore": "0.8749441750173169",
+            "@percentageOfSecondRank": "0.0725522075135962"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Remigius_of_Rouen",
+            "@support": "13",
+            "@types": "",
+            "@surfaceForm": "Remigius",
+            "@offset": "66",
+            "@similarityScore": "0.9999897066981288",
+            "@percentageOfSecondRank": "1.0293405120643983E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rouen",
+            "@support": "4725",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Rouen",
+            "@offset": "78",
+            "@similarityScore": "0.9369760066629577",
+            "@percentageOfSecondRank": "0.06667081537472473"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "@text": "\"Who is {born at} of {Leopold I, Holy Roman Emperor}, where {county seat for} is {Austria-Hungary} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Leopold_Mozart",
+            "@support": "579",
+            "@types": "",
+            "@surfaceForm": "Leopold",
+            "@offset": "22",
+            "@similarityScore": "0.5838772257966444",
+            "@percentageOfSecondRank": "0.6004769813727413"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Holy_Roman_Emperor",
+            "@support": "4415",
+            "@types": "",
+            "@surfaceForm": "Holy Roman Emperor",
+            "@offset": "33",
+            "@similarityScore": "0.9656208290133317",
+            "@percentageOfSecondRank": "0.03559557184515614"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/County_seat",
+            "@support": "16036",
+            "@types": "",
+            "@surfaceForm": "county seat",
+            "@offset": "61",
+            "@similarityScore": "0.9999969541871452",
+            "@percentageOfSecondRank": "1.419914351336365E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Austria-Hungary",
+            "@support": "13699",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Austria-Hungary",
+            "@offset": "82",
+            "@similarityScore": "0.9999970064608774",
+            "@percentageOfSecondRank": "2.017729603082285E-6"
+        }
+    ]
+}

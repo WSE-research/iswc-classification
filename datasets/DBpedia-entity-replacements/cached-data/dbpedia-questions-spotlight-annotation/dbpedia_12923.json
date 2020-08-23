@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me the boy band that contains the wotd westlife in their name",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Boy_band",
+            "@support": "2357",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "boy band",
+            "@offset": "12",
+            "@similarityScore": "0.999999999986926",
+            "@percentageOfSecondRank": "1.3078557133512483E-11"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Westlife",
+            "@support": "1364",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q215380,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:MusicGroup,DBpedia:Organisation,DBpedia:Group,DBpedia:Band,DBpedia:Agent",
+            "@surfaceForm": "westlife",
+            "@offset": "44",
+            "@similarityScore": "0.9999999999990337",
+            "@percentageOfSecondRank": "8.460341828253702E-13"
+        }
+    ]
+}

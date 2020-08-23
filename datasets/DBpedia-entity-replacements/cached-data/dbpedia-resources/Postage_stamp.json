@@ -1,0 +1,596 @@
+{
+    "http://dbpedia.org/resource/Gordon_H._Torrey": {
+        "http://dbpedia.org/ontology/significantProject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Waterlow_and_Sons": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Postage_stamp": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/MusicalWork"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Znaczek pocztowy",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Postzegel",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u043e\u0447\u0442\u043e\u0432\u0430\u044f \u043c\u0430\u0440\u043a\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Selo postal",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Timbre postal",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Postage stamp",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Briefmarke",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Francobollo",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u5207\u624b",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0637\u0627\u0628\u0639 \u0628\u0631\u064a\u062f",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u90ae\u7968",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Sello postal",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Eine Briefmarke, in Deutschland fr\u00fcher amtlich Postwertzeichen, ist die Best\u00e4tigung eines postalischen Bef\u00f6rderungsunternehmens \u00fcber die Zahlung des aufgedruckten Betrages. Sie wird meist in mehreren als Briefmarkenbogen auf Papier gedruckt, ist \u00fcblicherweise rechteckig und r\u00fcckseitig mit einer Gummierung versehen. Beim Trennen aus dem perforierten Bogen entsteht die typische Z\u00e4hnung an den R\u00e4ndern. Bei der Inanspruchnahme der Bef\u00f6rderungsleistung oder einer anderen Leistung des Unternehmens, f\u00fcr die keine andere Zahlungsart zwingend vorgeschrieben ist, wird die Zahlung des Entgeltes/der Geb\u00fchr durch das Aufkleben der Briefmarke an der hierf\u00fcr vorgesehenen Stelle nachgewiesen. Um eine erneute Benutzung zu verhindern, wird die Briefmarke regelm\u00e4\u00dfig mit einem Poststempel entwertet, wobei auc",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Een postzegel is een klein stukje bedrukt papier (tegenwoordig meestal gegomd of zelfklevend), met een bepaalde waarde. Door een frankeergeldige postzegel op een poststuk te plakken, wordt aangetoond dat de afzender porto heeft betaald.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Selo postal \u00e9 uma estampilha, adesiva ou fixa, bem com a estampa produzida por meio de m\u00e1quina de franquear correspond\u00eancia, destinada a comprovar o pagamento da presta\u00e7\u00e3o de um servi\u00e7o postal, de acordo com a legisla\u00e7\u00e3o brasileira.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u90ae\u7968\u662f\u90f5\u653f\u6a5f\u95dc\u767c\u884c\uff0c\u4f9b\u5bc4\u905e\u90f5\u4ef6\u8cbc\u7528\u7684\u90f5\u8cc7\u6191\u8b49\u3002\u53d1\u9001\u8005\u4e3a\u90ae\u653f\u670d\u52a1\u4ed8\u8d39\u7684\u4e00\u79cd\u5f62\u5f0f\u3002\u53d1\u9001\u8005\u4f1a\u5c06\u90ae\u7968\u8d34\u5728\u4fe1\u4ef6\u4e0a\uff0c\u518d\u7531\u90ae\u5c40\u76d6\u7ae0(\u901a\u5e38\u662f\u90f5\u6233)\u9500\u503c\uff0c\u4ee5\u7528\u4e8e\u5728\u90f5\u4ef6\u88ab\u5bc4\u51fa\u524d\uff0c\u8b49\u660e\u5bc4\u90f5\u4eba\u5df2\u652f\u4ed8\u5168\u90e8\u6216\u90e8\u5206\u50b3\u905e\u8cbb\u7528\u3002\u70ba\u65b9\u4fbf\u4f7f\u7528\uff0c\u90f5\u7968\u56db\u5468\u4e00\u822c\u6703\u6253\u4e0a\u9f52\u5b54\uff0c\u80cc\u9762\u5247\u52a0\u4e0a\u4e00\u5c64\u80cc\u81a0\u3002\u4e16\u754c\u4e0a\u7684\u7b2c\u4e00\u679a\u90f5\u7968\u662f\u82f1\u56fd\u7684\u9ed1\u4fbf\u58eb\u3002\u90f5\u7968\u767c\u884c\u7531\u570b\u5bb6\u7ba1\u7406\uff0c\u901a\u5e38\u662f\u570b\u5bb6\u4e3b\u6b0a\u7684\u8c61\u5fb5\uff0c\u751a\u81f3\u662f\u67d0\u4e9b\u56fd\u5bb6\u91cd\u8981\u7684\u8d22\u6e90\uff0c\u5982\u5217\u652f\u6566\u58eb\u767b\u3002\u90f5\u7968\u662f\u6536\u85cf\u54c1\uff0c\u96c6\u90f5\u5df2\u7d93\u6210\u70ba\u4e16\u754c\u91cd\u8981\u98a8\u6f6e\u4e4b\u4e00\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0637\u0627\u0628\u0639 \u0627\u0644\u0628\u0631\u064a\u062f \u0623\u0648 \u0627\u0644\u0637\u0627\u0628\u0639 \u0627\u0644\u0628\u0631\u064a\u062f\u064a \u0639\u0644\u0627\u0645\u0629 \u0645\u0645\u064a\u0632\u0629 \u062a\u0648\u0636\u0639 \u0639\u0644\u0649 \u0623\u063a\u0644\u0641\u0629 \u0648\u0645\u0638\u0627\u0631\u0641 \u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0623\u0648 \u0627\u0644\u0631\u0632\u0645 \u0627\u0644\u0645\u0639\u062f\u0629 \u0644\u0644\u0625\u0631\u0633\u0627\u0644 \u0628\u0627\u0644\u0628\u0631\u064a\u062f \u062a\u0628\u064a\u0646 \u0628\u0623\u0646 \u0623\u062c\u0631\u0629 \u0627\u0644\u0628\u0631\u064a\u062f \u0645\u062f\u0641\u0648\u0639\u0629 \u0645\u0633\u0628\u0642\u064b\u0627. \u0627\u0644\u0637\u0627\u0628\u0639 \u064a\u0645\u0643\u0646 \u0627\u0646 \u064a\u0644\u0635\u0642 \u0639\u0644\u0649 \u0648\u062b\u064a\u0642\u0629 \u0645\u0627 \u062a\u0628\u064a\u0646 \u0628\u0627\u0646 \u0627\u0644\u0631\u0633\u0648\u0645 \u0642\u062f \u062f\u0641\u0639\u062a \u0648\u0627\u0646 \u0627\u0644\u0648\u062b\u064a\u0642\u0629 \u0623\u0635\u0648\u0644\u064a\u0629 \u0648\u0645\u0639\u062a\u0645\u062f\u0629. \u062a\u0635\u062f\u0631 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0637\u0648\u0627\u0628\u0639 \u0627\u0644\u0628\u0631\u064a\u062f\u064a\u0629 \u0628\u0645\u0646\u0627\u0633\u0628\u0627\u062a \u0645\u062e\u062a\u0644\u0641\u0629 \u062a\u062e\u0644\u064a\u062f\u0622 \u0644\u062a\u0644\u0643 \u0627\u0644\u0645\u0646\u0627\u0633\u0628\u0629 \u0648\u062a\u0628\u0627\u0639 \u062a\u0644\u0643 \u0627\u0644\u0637\u0648\u0627\u0628\u0639 \u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645\u0647\u0627 \u0641\u064a \u0627\u0644\u0628\u0631\u064a\u062f \u0625\u0636\u0627\u0641\u0629 \u0644\u062c\u0627\u0645\u0639\u064a \u0627\u0644\u0637\u0648\u0627\u0628\u0639 \u0648\u0627\u0644\u0647\u0648\u0627\u0629 \u0627\u0644\u0630\u064a\u0646 \u064a\u0628\u062d\u062b\u0648\u0646 \u0639\u0646 \u0627\u0644\u0637\u0648\u0627\u0628\u0639 \u0627\u0644\u0646\u0641\u064a\u0633\u0629 \u0648\u0627\u0644\u0642\u062f\u064a\u0645\u0629 \u0648\u0627\u0644\u0646\u0627\u062f\u0631\u0629. \u062a\u0633\u062f \u0628\u0639\u0636 \u0627\u0644\u062f\u0648\u0644 \u062c\u0632\u0621 \u0645\u0646 \u0645\u0648\u0627\u0632\u0646\u062a\u0647\u0627 \u0627\u0644\u0645\u0627\u0644\u064a\u0629 \u0645\u0646 \u0642\u064a\u0645 \u0627\u0644\u0637\u0648\u0627\u0628\u0639 \u0627\u0644\u0645\u0628\u0627\u0639\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u043e\u0447\u0442\u043e\u0432\u0430\u044f \u043c\u0430\u0440\u043a\u0430 \u2014 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u043d\u0430\u043a \u043f\u043e\u0447\u0442\u043e\u0432\u043e\u0439 \u043e\u043f\u043b\u0430\u0442\u044b, \u0432\u044b\u043f\u0443\u0441\u043a\u0430\u0435\u043c\u044b\u0439 \u0438 \u043f\u0440\u043e\u0434\u0430\u0432\u0430\u0435\u043c\u044b\u0439 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c\u0438 (\u0438 \u0438\u043d\u044b\u043c\u0438) \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u043c\u0438 \u0432\u0435\u0434\u043e\u043c\u0441\u0442\u0432\u0430\u043c\u0438 \u0438 \u043e\u0431\u043b\u0430\u0434\u0430\u044e\u0449\u0438\u0439 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u0439 \u043d\u043e\u043c\u0438\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c\u044e (\u043d\u043e\u043c\u0438\u043d\u0430\u043b\u043e\u043c). \u0421\u043b\u0443\u0436\u0438\u0442 \u0434\u043b\u044f \u043e\u0431\u043b\u0435\u0433\u0447\u0435\u043d\u0438\u044f \u0441\u0431\u043e\u0440\u043e\u0432 \u0437\u0430 \u043f\u0435\u0440\u0435\u0441\u044b\u043b\u043a\u0443 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043e\u0432 (\u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0439), \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u044f\u0435\u043c\u044b\u0445 \u043f\u043e\u0447\u0442\u043e\u0439. \u0424\u0440\u0430\u043d\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u044d\u0442\u0438\u043c \u0437\u043d\u0430\u043a\u043e\u043c, \u0442\u043e \u0435\u0441\u0442\u044c \u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f (\u043d\u0430\u043a\u043b\u0435\u0439\u043a\u0430 \u043d\u0430 \u043d\u0435\u0433\u043e \u043c\u0430\u0440\u043a\u0438), \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0443\u0435\u0442 \u043e \u0444\u0430\u043a\u0442\u0435 \u043e\u043f\u043b\u0430\u0442\u044b \u0443\u0441\u043b\u0443\u0433 \u043f\u043e\u0447\u0442\u043e\u0432\u043e\u0433\u043e \u0432\u0435\u0434\u043e\u043c\u0441\u0442\u0432\u0430 (\u043f\u0440\u0435\u0436\u0434\u0435 \u0432\u0441\u0435\u0433\u043e \u2014 \u043f\u0435\u0440\u0435\u0441\u044b\u043b\u043a\u0438 \u0438 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u043a\u043e\u0440\u0440\u0435\u0441\u043f\u043e\u043d\u0434\u0435\u043d\u0446\u0438\u0438: \u043f\u0438\u0441\u0435\u043c, \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u043a \u0438 \u0442. \u043f.). \u041f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0435 \u043c\u0430\u0440\u043a\u0438 \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u044b \u0434\u043b\u044f \u0444\u0440\u0430\u043d\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u0438\u0441\u0435\u043c, \u0438\u0445 \u0442\u0430\u043a\u0436\u0435 \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u0444\u0440\u0430\u043d\u043a\u043e-\u043c\u0430\u0440\u043a\u0430\u043c\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u5207\u624b\uff08\u304d\u3063\u3066\uff09\u3068\u306f\u3001\u90f5\u4fbf\u4e8b\u696d\u3067\u884c\u308f\u308c\u308b\u8af8\u3005\u306e\u30b5\u30fc\u30d3\u30b9\u306e\u3001\u6599\u91d1\u524d\u7d0d\u3092\u8a3c\u660e\u3059\u308b\u8a3c\u7d19\u3067\u3042\u308b\u3002\u307e\u305f\u90f5\u4fbf\u5207\u624b\u3068\u3082\u547c\u79f0\u3059\u308b\u3002\u307e\u305f\u5ba3\u4f1d\u5a92\u4f53\u3068\u3057\u3066\u7528\u3044\u3089\u308c\u305f\u308a\u3001\u53e4\u92ad\u3084\u9aa8\u8463\u54c1\u3068\u540c\u69d8\u306b\u53ce\u96c6\u54c1\u306e\u5bfe\u8c61\u3068\u306a\u308b\u5834\u5408\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "A postage stamp is a small piece of paper that is purchased and displayed on an item of mail as evidence of payment of postage. Typically, stamps are printed on special custom-made paper, show a national designation and a denomination (value) on the front, and have an adhesive gum on the back or are self-adhesive. Postage stamps are purchased from a postal administration or other authorized vendor, and are used to pay for the costs involved in moving mail, as well as other business necessities such as insurance and registration. They are sometimes a source of net profit to the issuing agency, especially when sold to collectors who will not actually use them for postage.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Il francobollo \u00e8 una carta-valore, stampato da una parte e gommato sul retro, che serve per l'affrancatura dei servizi di corrispondenza. Adoperato dall'amministrazione postale autorizzata dallo stato emittente, rappresenta la prova del pagamento anticipato per prestazioni quali la spedizione di una lettera o di un pacco ad un destinatario. Quando un francobollo non \u00e8 pi\u00f9 adatto al suo compito, ad esempio per variazione delle tariffe postali, l'amministrazione emittente pu\u00f2 determinarne la cessazione del suo uso ponendolo \"fuori corso\". Data la natura di valori emessi da uno stato la contraffazione dei francobolli \u00e8 un reato.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Wykonywany jest r\u00f3\u017cnymi technikami drukarskimi (typografia, litografia, offset, staloryt, rotograwiura) i na r\u00f3\u017cnych rodzajach papieru (cz\u0119sto ze znakami wodnymi) na podstawie projektu grafika. Znaczek pocztowy nale\u017cy do druk\u00f3w akcydensowych. Znaczki mog\u0105 przybiera\u0107 r\u00f3\u017cne kszta\u0142ty, nie tylko prostok\u0105ta (w tym kwadratu). Spotyka si\u0119 znaczki owalne, tr\u00f3jk\u0105tne i pi\u0119ciok\u0105tne. Sierra Leone i Tonga wypu\u015bci\u0142y samoprzylepne znaczki w kszta\u0142cie owoc\u00f3w. R\u00f3\u017cne s\u0105 r\u00f3wnie\u017c materia\u0142y, z kt\u00f3rych wykonuje si\u0119 znaczki. Mo\u017cna trafi\u0107 na znaczki z folii (nawet srebrnej lub z\u0142otej), plastiku, a nawet drewna.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Un sello postal, estampilla, estampa, sello o timbre es un comprobante del pago previo de los env\u00edos efectuados por correo en forma de etiqueta, generalmente engomada, o directamente impreso. El sello es un peque\u00f1o papel cuya forma m\u00e1s usual es rectangular o cuadrada, qu\u00e9 se pega en un sobre y que indica que la persona que realiza el env\u00edo pag\u00f3 el servicio. El arte correo utiliza a menudo este medio y este formato para su difusi\u00f3n creando falsos sellos postales de todo tipo.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Le timbre postal ou timbre-poste est un morceau de papier support d'un graphisme, g\u00e9n\u00e9ralement enduit d'un adh\u00e9sif, qui appos\u00e9 sur un courrier sert \u00e0 indiquer que l'exp\u00e9diteur a pay\u00e9 l'affranchissement.La collection et l'\u00e9tude des timbres postaux et fiscaux sont appel\u00e9es la philat\u00e9lie. Les timbres sont un march\u00e9 tr\u00e8s pr\u00e9cieux et populaire pour des collectionneurs.",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/List_of_notable_postage_stamps"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.068vv"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0393\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03cc\u03c3\u03b7\u03bc\u03bf"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Po\u0161tovn\u00ed_zn\u00e1mka"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q37930"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Briefmarke"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Prangko"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Timbre_postal"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q37930"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Zigilu"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u5207\u624b"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Francobollo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4008242-8"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Znaczek_pocztowy"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc6b0\ud45c"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Selo_postal"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Sello_postal"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Postzegel"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Postal_system"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Philatelic_terminology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Paper_products"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Scottish_inventions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:British_inventions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Postage_stamps"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicaragua1_1913.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Postage_stamp"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Postage_stamp?oldid=744503680"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.stampnews.com"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.sammler.com/stamps/history.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.oldstampcollecting.com"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Eine Briefmarke, in Deutschland fr\u00fcher amtlich Postwertzeichen, ist die Best\u00e4tigung eines postalischen Bef\u00f6rderungsunternehmens \u00fcber die Zahlung des aufgedruckten Betrages. Sie wird meist in mehreren als Briefmarkenbogen auf Papier gedruckt, ist \u00fcblicherweise rechteckig und r\u00fcckseitig mit einer Gummierung versehen. Beim Trennen aus dem perforierten Bogen entsteht die typische Z\u00e4hnung an den R\u00e4ndern. Bei der Inanspruchnahme der Bef\u00f6rderungsleistung oder einer anderen Leistung des Unternehmens, f\u00fcr die keine andere Zahlungsart zwingend vorgeschrieben ist, wird die Zahlung des Entgeltes/der Geb\u00fchr durch das Aufkleben der Briefmarke an der hierf\u00fcr vorgesehenen Stelle nachgewiesen. Um eine erneute Benutzung zu verhindern, wird die Briefmarke regelm\u00e4\u00dfig mit einem Poststempel entwertet, wobei auch andere Entwertungsmethoden (etwa per Kugelschreiber) bis heute \u00fcblich sind. Die Verwendung von Briefmarken findet fast nur noch im Rahmen privat versendeter Postst\u00fccke statt. Bei der Frankatur von gewerblicher Post wurde sie in der Regel meist von der Freistempelung mittels einer Frankiermaschine und bei Gro\u00dfversendern durch DV-Freimachung verdr\u00e4ngt.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Selo postal \u00e9 uma estampilha, adesiva ou fixa, bem com a estampa produzida por meio de m\u00e1quina de franquear correspond\u00eancia, destinada a comprovar o pagamento da presta\u00e7\u00e3o de um servi\u00e7o postal, de acordo com a legisla\u00e7\u00e3o brasileira. Um selo postal \u00e9 um papel adesivo que prova o pagamento de uma taxa por servi\u00e7os postais. Normalmente um pequeno ret\u00e2ngulo anexado a um envelope, o selo significa que a pessoa tem o envio total ou parcialmente pagos para a entrega. Os selos de correio s\u00e3o a mais popular forma de pagamento para correspond\u00eancia varejo; alternativas incluem envelopes postais pr\u00e9-pagos e m\u00e1quina de franquia postal. O estudo dos selos \u00e9 Filatelia. Cole\u00e7\u00e3o de selos \u00e9 um hobby de colecionar selos.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Il francobollo \u00e8 una carta-valore, stampato da una parte e gommato sul retro, che serve per l'affrancatura dei servizi di corrispondenza. Adoperato dall'amministrazione postale autorizzata dallo stato emittente, rappresenta la prova del pagamento anticipato per prestazioni quali la spedizione di una lettera o di un pacco ad un destinatario. Quando un francobollo non \u00e8 pi\u00f9 adatto al suo compito, ad esempio per variazione delle tariffe postali, l'amministrazione emittente pu\u00f2 determinarne la cessazione del suo uso ponendolo \"fuori corso\". Data la natura di valori emessi da uno stato la contraffazione dei francobolli \u00e8 un reato. L'etimologia della parola francobollo deriva da franco, cio\u00e8 libero da spese o tasse, e bollo, ad indicare la sua autenticit\u00e0 e autorit\u00e0. Ideato dall'inglese Rowland Hill, tradizionalmente \u00e8 in carta, di forma quadrangolare, da incollare all'oggetto di una spedizione postale. In rari casi sono stati prodotti francobolli di altre forme, rotondi (Nuova Zelanda), triangolari, pentagonali o di forma non geometrica come nel caso dei francobolli a forma di frutta di Sierra Leone e Tonga. Raramente sono stati anche prodotti francobolli non di carta, come i francobolli della Svizzera fatti parzialmente di pizzo o della DDR composti da fibre sintetiche. Sono stati inoltre emessi francobolli su lamine metalliche. La Repubblica Italiana il 2 luglio 2007 per commemorare il patrimonio artistico rappresentato dalla Basilica di San Vincenzo in Galliano di Cant\u00f9 ha emesso un francobollo in legno impiallacciato di betulla.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u5207\u624b\uff08\u304d\u3063\u3066\uff09\u3068\u306f\u3001\u90f5\u4fbf\u4e8b\u696d\u3067\u884c\u308f\u308c\u308b\u8af8\u3005\u306e\u30b5\u30fc\u30d3\u30b9\u306e\u3001\u6599\u91d1\u524d\u7d0d\u3092\u8a3c\u660e\u3059\u308b\u8a3c\u7d19\u3067\u3042\u308b\u3002\u307e\u305f\u90f5\u4fbf\u5207\u624b\u3068\u3082\u547c\u79f0\u3059\u308b\u3002\u307e\u305f\u5ba3\u4f1d\u5a92\u4f53\u3068\u3057\u3066\u7528\u3044\u3089\u308c\u305f\u308a\u3001\u53e4\u92ad\u3084\u9aa8\u8463\u54c1\u3068\u540c\u69d8\u306b\u53ce\u96c6\u54c1\u306e\u5bfe\u8c61\u3068\u306a\u308b\u5834\u5408\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u043e\u0447\u0442\u043e\u0432\u0430\u044f \u043c\u0430\u0440\u043a\u0430 \u2014 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u043d\u0430\u043a \u043f\u043e\u0447\u0442\u043e\u0432\u043e\u0439 \u043e\u043f\u043b\u0430\u0442\u044b, \u0432\u044b\u043f\u0443\u0441\u043a\u0430\u0435\u043c\u044b\u0439 \u0438 \u043f\u0440\u043e\u0434\u0430\u0432\u0430\u0435\u043c\u044b\u0439 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c\u0438 (\u0438 \u0438\u043d\u044b\u043c\u0438) \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u043c\u0438 \u0432\u0435\u0434\u043e\u043c\u0441\u0442\u0432\u0430\u043c\u0438 \u0438 \u043e\u0431\u043b\u0430\u0434\u0430\u044e\u0449\u0438\u0439 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u0439 \u043d\u043e\u043c\u0438\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c\u044e (\u043d\u043e\u043c\u0438\u043d\u0430\u043b\u043e\u043c). \u0421\u043b\u0443\u0436\u0438\u0442 \u0434\u043b\u044f \u043e\u0431\u043b\u0435\u0433\u0447\u0435\u043d\u0438\u044f \u0441\u0431\u043e\u0440\u043e\u0432 \u0437\u0430 \u043f\u0435\u0440\u0435\u0441\u044b\u043b\u043a\u0443 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043e\u0432 (\u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0439), \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u044f\u0435\u043c\u044b\u0445 \u043f\u043e\u0447\u0442\u043e\u0439. \u0424\u0440\u0430\u043d\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u044d\u0442\u0438\u043c \u0437\u043d\u0430\u043a\u043e\u043c, \u0442\u043e \u0435\u0441\u0442\u044c \u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f (\u043d\u0430\u043a\u043b\u0435\u0439\u043a\u0430 \u043d\u0430 \u043d\u0435\u0433\u043e \u043c\u0430\u0440\u043a\u0438), \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0443\u0435\u0442 \u043e \u0444\u0430\u043a\u0442\u0435 \u043e\u043f\u043b\u0430\u0442\u044b \u0443\u0441\u043b\u0443\u0433 \u043f\u043e\u0447\u0442\u043e\u0432\u043e\u0433\u043e \u0432\u0435\u0434\u043e\u043c\u0441\u0442\u0432\u0430 (\u043f\u0440\u0435\u0436\u0434\u0435 \u0432\u0441\u0435\u0433\u043e \u2014 \u043f\u0435\u0440\u0435\u0441\u044b\u043b\u043a\u0438 \u0438 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u043a\u043e\u0440\u0440\u0435\u0441\u043f\u043e\u043d\u0434\u0435\u043d\u0446\u0438\u0438: \u043f\u0438\u0441\u0435\u043c, \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u043a \u0438 \u0442. \u043f.). \u041f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0435 \u043c\u0430\u0440\u043a\u0438 \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u044b \u0434\u043b\u044f \u0444\u0440\u0430\u043d\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u0438\u0441\u0435\u043c, \u0438\u0445 \u0442\u0430\u043a\u0436\u0435 \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u0444\u0440\u0430\u043d\u043a\u043e-\u043c\u0430\u0440\u043a\u0430\u043c\u0438. \u041e\u0431\u044b\u0447\u043d\u043e \u043c\u0430\u0440\u043a\u0430 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u043e\u0431\u043e\u0439 \u043b\u0438\u0441\u0442\u043e\u043a \u0431\u0443\u043c\u0430\u0433\u0438 \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u0440\u0430\u0437\u043c\u0435\u0440\u0430, \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043f\u0440\u044f\u043c\u043e\u0443\u0433\u043e\u043b\u044c\u043d\u043e\u0439 \u0444\u043e\u0440\u043c\u044b, \u043a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u0441 \u0437\u0443\u0431\u0446\u043e\u0432\u043a\u043e\u0439 \u0438 \u043a\u043b\u0435\u0435\u043c, \u043d\u0430\u043d\u0435\u0441\u0451\u043d\u043d\u044b\u043c \u043d\u0430 \u043e\u0431\u043e\u0440\u043e\u0442\u043d\u0443\u044e \u0441\u0442\u043e\u0440\u043e\u043d\u0443. \u041f\u043e\u043c\u0438\u043c\u043e \u043d\u043e\u043c\u0438\u043d\u0430\u043b\u0430, \u043d\u0430 \u043c\u0430\u0440\u043a\u0430\u0445 \u043c\u043e\u0436\u0435\u0442 \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u043e\u0447\u0442\u043e\u0432\u043e\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438, \u0438\u0445 \u0432\u044b\u043f\u0443\u0441\u0442\u0438\u0432\u0448\u0435\u0439; \u0437\u0430\u0447\u0430\u0441\u0442\u0443\u044e \u043d\u0430 \u043d\u0435\u0439 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u044b \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u0441\u0438\u043c\u0432\u043e\u043b\u044b, \u0434\u0435\u043a\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u044b \u0438 \u0440\u0438\u0441\u0443\u043d\u043a\u0438. \u041f\u043e\u0447\u0442\u043e\u0432\u044b\u0435 \u043c\u0430\u0440\u043a\u0438 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043e\u043c \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f (\u0441\u043c. \u0424\u0438\u043b\u0430\u0442\u0435\u043b\u0438\u044f).",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u90ae\u7968\u662f\u90f5\u653f\u6a5f\u95dc\u767c\u884c\uff0c\u4f9b\u5bc4\u905e\u90f5\u4ef6\u8cbc\u7528\u7684\u90f5\u8cc7\u6191\u8b49\u3002\u53d1\u9001\u8005\u4e3a\u90ae\u653f\u670d\u52a1\u4ed8\u8d39\u7684\u4e00\u79cd\u5f62\u5f0f\u3002\u53d1\u9001\u8005\u4f1a\u5c06\u90ae\u7968\u8d34\u5728\u4fe1\u4ef6\u4e0a\uff0c\u518d\u7531\u90ae\u5c40\u76d6\u7ae0(\u901a\u5e38\u662f\u90f5\u6233)\u9500\u503c\uff0c\u4ee5\u7528\u4e8e\u5728\u90f5\u4ef6\u88ab\u5bc4\u51fa\u524d\uff0c\u8b49\u660e\u5bc4\u90f5\u4eba\u5df2\u652f\u4ed8\u5168\u90e8\u6216\u90e8\u5206\u50b3\u905e\u8cbb\u7528\u3002\u70ba\u65b9\u4fbf\u4f7f\u7528\uff0c\u90f5\u7968\u56db\u5468\u4e00\u822c\u6703\u6253\u4e0a\u9f52\u5b54\uff0c\u80cc\u9762\u5247\u52a0\u4e0a\u4e00\u5c64\u80cc\u81a0\u3002\u4e16\u754c\u4e0a\u7684\u7b2c\u4e00\u679a\u90f5\u7968\u662f\u82f1\u56fd\u7684\u9ed1\u4fbf\u58eb\u3002\u90f5\u7968\u767c\u884c\u7531\u570b\u5bb6\u7ba1\u7406\uff0c\u901a\u5e38\u662f\u570b\u5bb6\u4e3b\u6b0a\u7684\u8c61\u5fb5\uff0c\u751a\u81f3\u662f\u67d0\u4e9b\u56fd\u5bb6\u91cd\u8981\u7684\u8d22\u6e90\uff0c\u5982\u5217\u652f\u6566\u58eb\u767b\u3002\u90f5\u7968\u662f\u6536\u85cf\u54c1\uff0c\u96c6\u90f5\u5df2\u7d93\u6210\u70ba\u4e16\u754c\u91cd\u8981\u98a8\u6f6e\u4e4b\u4e00\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Le timbre postal ou timbre-poste est un morceau de papier support d'un graphisme, g\u00e9n\u00e9ralement enduit d'un adh\u00e9sif, qui appos\u00e9 sur un courrier sert \u00e0 indiquer que l'exp\u00e9diteur a pay\u00e9 l'affranchissement.La collection et l'\u00e9tude des timbres postaux et fiscaux sont appel\u00e9es la philat\u00e9lie. Les timbres sont un march\u00e9 tr\u00e8s pr\u00e9cieux et populaire pour des collectionneurs.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Wykonywany jest r\u00f3\u017cnymi technikami drukarskimi (typografia, litografia, offset, staloryt, rotograwiura) i na r\u00f3\u017cnych rodzajach papieru (cz\u0119sto ze znakami wodnymi) na podstawie projektu grafika. Znaczek pocztowy nale\u017cy do druk\u00f3w akcydensowych. Znaczki mog\u0105 przybiera\u0107 r\u00f3\u017cne kszta\u0142ty, nie tylko prostok\u0105ta (w tym kwadratu). Spotyka si\u0119 znaczki owalne, tr\u00f3jk\u0105tne i pi\u0119ciok\u0105tne. Sierra Leone i Tonga wypu\u015bci\u0142y samoprzylepne znaczki w kszta\u0142cie owoc\u00f3w. R\u00f3\u017cne s\u0105 r\u00f3wnie\u017c materia\u0142y, z kt\u00f3rych wykonuje si\u0119 znaczki. Mo\u017cna trafi\u0107 na znaczki z folii (nawet srebrnej lub z\u0142otej), plastiku, a nawet drewna. Corocznie 9 pa\u017adziernika obchodzony jest Dzie\u0144 Znaczka Pocztowego.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "A postage stamp is a small piece of paper that is purchased and displayed on an item of mail as evidence of payment of postage. Typically, stamps are printed on special custom-made paper, show a national designation and a denomination (value) on the front, and have an adhesive gum on the back or are self-adhesive. Postage stamps are purchased from a postal administration or other authorized vendor, and are used to pay for the costs involved in moving mail, as well as other business necessities such as insurance and registration. They are sometimes a source of net profit to the issuing agency, especially when sold to collectors who will not actually use them for postage. Stamps are usually rectangular, but triangles or other shapes are occasionally used. The stamp is affixed to an envelope or other postal cover (e.g., packet, box, mailing cylinder) the customer wishes to send. The item is then processed by the postal system, where a postmark, sometimes known as a cancellation mark, is usually applied in overlapping manner to stamp and cover. This procedure marks the stamp as used to prevent its reuse. In modern usage, postmarks generally indicate the date and point of origin of the mailing. The mailed item is then delivered to the address the customer has applied to the envelope or parcel. Postage stamps have facilitated the delivery of mail since the 1840s. Before then, ink and hand-stamps (hence the word 'stamp'), usually made from wood or cork, were often used to frank the mail and confirm the payment of postage. The first adhesive postage stamp, commonly referred to as the Penny Black, was issued in the United Kingdom in 1840. The invention of the stamp was part of an attempt to reform and improve the postal system in the United Kingdom of Great Britain and Ireland, which, in the early 19th century, was in disarray and rife with corruption. There are varying accounts of the inventor or inventors of the stamp. Before the introduction of postage stamps, mail in the UK was paid for by the recipient, a system that was associated with an irresolvable problem: the costs of delivering mail were not recoverable by the postal service when recipients were unable or unwilling to pay for delivered items, and senders had no incentive to restrict the number, size, or weight of items sent, whether or not they would ultimately be paid for. The postage stamp resolved this issue in a simple and elegant manner, with the additional benefit of room for an element of beauty to be introduced. Concurrently with the first stamps, the UK offered wrappers for mail. Later related inventions include postal stationery such as prepaid-postage envelopes, post cards, lettercards, aerogrammes, postage meters, and, more recently, specialty boxes and envelopes provided free to the customer by the U.S. postal service for priority or express mailing. The postage stamp afforded convenience for both the mailer and postal officials, more effectively recovered costs for the postal service, and ultimately resulted in a better, faster postal system. With the conveniences stamps offered, their use resulted in greatly increased mailings during the 19th and 20th centuries. Postage stamps during this era were the most popular way of paying for mail; however, by the end of the 20th century were rapidly being eclipsed by the use of metered postage and bulk mailing by businesses. As postage stamps with their engraved imagery began to appear on a widespread basis, historians and collectors began to take notice. The study of postage stamps and their use is referred to as philately. Stamp collecting can be both a hobby and a form of historical study and reference, as government-issued postage stamps and their mailing systems have always been involved with the history of nations.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Een postzegel is een klein stukje bedrukt papier (tegenwoordig meestal gegomd of zelfklevend), met een bepaalde waarde. Door een frankeergeldige postzegel op een poststuk te plakken, wordt aangetoond dat de afzender porto heeft betaald.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0637\u0627\u0628\u0639 \u0627\u0644\u0628\u0631\u064a\u062f \u0623\u0648 \u0627\u0644\u0637\u0627\u0628\u0639 \u0627\u0644\u0628\u0631\u064a\u062f\u064a \u0639\u0644\u0627\u0645\u0629 \u0645\u0645\u064a\u0632\u0629 \u062a\u0648\u0636\u0639 \u0639\u0644\u0649 \u0623\u063a\u0644\u0641\u0629 \u0648\u0645\u0638\u0627\u0631\u0641 \u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0623\u0648 \u0627\u0644\u0631\u0632\u0645 \u0627\u0644\u0645\u0639\u062f\u0629 \u0644\u0644\u0625\u0631\u0633\u0627\u0644 \u0628\u0627\u0644\u0628\u0631\u064a\u062f \u062a\u0628\u064a\u0646 \u0628\u0623\u0646 \u0623\u062c\u0631\u0629 \u0627\u0644\u0628\u0631\u064a\u062f \u0645\u062f\u0641\u0648\u0639\u0629 \u0645\u0633\u0628\u0642\u064b\u0627. \u0627\u0644\u0637\u0627\u0628\u0639 \u064a\u0645\u0643\u0646 \u0627\u0646 \u064a\u0644\u0635\u0642 \u0639\u0644\u0649 \u0648\u062b\u064a\u0642\u0629 \u0645\u0627 \u062a\u0628\u064a\u0646 \u0628\u0627\u0646 \u0627\u0644\u0631\u0633\u0648\u0645 \u0642\u062f \u062f\u0641\u0639\u062a \u0648\u0627\u0646 \u0627\u0644\u0648\u062b\u064a\u0642\u0629 \u0623\u0635\u0648\u0644\u064a\u0629 \u0648\u0645\u0639\u062a\u0645\u062f\u0629. \u062a\u0635\u062f\u0631 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0637\u0648\u0627\u0628\u0639 \u0627\u0644\u0628\u0631\u064a\u062f\u064a\u0629 \u0628\u0645\u0646\u0627\u0633\u0628\u0627\u062a \u0645\u062e\u062a\u0644\u0641\u0629 \u062a\u062e\u0644\u064a\u062f\u0622 \u0644\u062a\u0644\u0643 \u0627\u0644\u0645\u0646\u0627\u0633\u0628\u0629 \u0648\u062a\u0628\u0627\u0639 \u062a\u0644\u0643 \u0627\u0644\u0637\u0648\u0627\u0628\u0639 \u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645\u0647\u0627 \u0641\u064a \u0627\u0644\u0628\u0631\u064a\u062f \u0625\u0636\u0627\u0641\u0629 \u0644\u062c\u0627\u0645\u0639\u064a \u0627\u0644\u0637\u0648\u0627\u0628\u0639 \u0648\u0627\u0644\u0647\u0648\u0627\u0629 \u0627\u0644\u0630\u064a\u0646 \u064a\u0628\u062d\u062b\u0648\u0646 \u0639\u0646 \u0627\u0644\u0637\u0648\u0627\u0628\u0639 \u0627\u0644\u0646\u0641\u064a\u0633\u0629 \u0648\u0627\u0644\u0642\u062f\u064a\u0645\u0629 \u0648\u0627\u0644\u0646\u0627\u062f\u0631\u0629. \u062a\u0633\u062f \u0628\u0639\u0636 \u0627\u0644\u062f\u0648\u0644 \u062c\u0632\u0621 \u0645\u0646 \u0645\u0648\u0627\u0632\u0646\u062a\u0647\u0627 \u0627\u0644\u0645\u0627\u0644\u064a\u0629 \u0645\u0646 \u0642\u064a\u0645 \u0627\u0644\u0637\u0648\u0627\u0628\u0639 \u0627\u0644\u0645\u0628\u0627\u0639\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Un sello postal, estampilla, estampa, sello o timbre es un comprobante del pago previo de los env\u00edos efectuados por correo en forma de etiqueta, generalmente engomada, o directamente impreso. El sello es un peque\u00f1o papel cuya forma m\u00e1s usual es rectangular o cuadrada, qu\u00e9 se pega en un sobre y que indica que la persona que realiza el env\u00edo pag\u00f3 el servicio. El arte correo utiliza a menudo este medio y este formato para su difusi\u00f3n creando falsos sellos postales de todo tipo. Los sellos de valor variable o ATM[cita requerida] son aquellos impresos y distribuidos a trav\u00e9s de m\u00e1quinas. \u00c9stas imprimen el valor de franqueo deseado por el usuario en un papel especial y el sello o estampilla resultante puede ser empleado para franqueo como un sello \"tradicional\".",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicaragua1_1913.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744503680,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 25126,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Piece"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mail_art": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/James_H._Baxter": {
+        "http://dbpedia.org/ontology/significantProject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Postage_stamp": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Postal_stamp": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Calvin_Waters_Christian": {
+        "http://dbpedia.org/ontology/significantProject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/James_J._Matejka_Jr.": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Saul_Newbury": {
+        "http://dbpedia.org/ontology/significantProject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vincent_Domanski_Jr.": {
+        "http://dbpedia.org/ontology/significantProject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/William_Woodbury_Hicks": {
+        "http://dbpedia.org/ontology/significantProject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Adhesive_postage_stamp": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Stamp_(postage)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Postage_stamp/how_dispensed": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Post_stamp": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Postage_stamp_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Leon_Vincent_Rapkin": {
+        "http://dbpedia.org/ontology/significantProject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Henry_Ellis_Harris": {
+        "http://dbpedia.org/ontology/significantProject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/George_Wendell_Brett": {
+        "http://dbpedia.org/ontology/significantProject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Varro_Eugene_Tyler": {
+        "http://dbpedia.org/ontology/significantProject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Korea_Minting_and_Security_Printing_Corporation": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Trish_Kaufmann": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Stamp": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Postage_stamps": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Joh._Ensched\u00e9": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Solomon_Glass": {
+        "http://dbpedia.org/ontology/significantProject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Postage_Stamp": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Charles_Foster_Richards": {
+        "http://dbpedia.org/ontology/significantProject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Col._Charles_S._Hamilton": {
+        "http://dbpedia.org/ontology/significantProject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Postage_stamp"
+            }
+        ]
+    }
+}

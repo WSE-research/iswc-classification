@@ -1,0 +1,37 @@
+{
+    "@text": "For what song did Kid Cudi receive the Grammy Award for Best Rap/Sung Performance?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Kid_Cudi",
+            "@support": "822",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Kid Cudi",
+            "@offset": "18",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Grammy_Award",
+            "@support": "22241",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Grammy Award",
+            "@offset": "39",
+            "@similarityScore": "0.9947997823132556",
+            "@percentageOfSecondRank": "0.003965239918645666"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sung_Performance",
+            "@support": "350",
+            "@types": "",
+            "@surfaceForm": "Best Rap/Sung Performance",
+            "@offset": "56",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

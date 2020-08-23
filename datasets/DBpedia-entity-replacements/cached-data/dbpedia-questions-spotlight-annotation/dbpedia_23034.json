@@ -1,0 +1,28 @@
+{
+    "@text": "What is the highest mountain in Germany?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mountain",
+            "@support": "17196",
+            "@types": "",
+            "@surfaceForm": "mountain",
+            "@offset": "20",
+            "@similarityScore": "0.9989879545633744",
+            "@percentageOfSecondRank": "9.541817108120671E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Germany",
+            "@support": "216576",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Germany",
+            "@offset": "32",
+            "@similarityScore": "0.9941736648555901",
+            "@percentageOfSecondRank": "0.0036074930232042127"
+        }
+    ]
+}

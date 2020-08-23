@@ -1,0 +1,28 @@
+{
+    "@text": "Where is the death location of Amon Goth, which has twin cities named Milan?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Amon_G\u00f6th",
+            "@support": "110",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:MilitaryPerson,DBpedia:Agent",
+            "@surfaceForm": "Amon Goth",
+            "@offset": "31",
+            "@similarityScore": "0.9999999715148538",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Milan",
+            "@support": "30122",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Milan",
+            "@offset": "70",
+            "@similarityScore": "0.9834099868309737",
+            "@percentageOfSecondRank": "0.01667308565752879"
+        }
+    ]
+}

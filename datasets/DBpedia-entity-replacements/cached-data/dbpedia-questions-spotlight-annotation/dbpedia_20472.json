@@ -1,0 +1,37 @@
+{
+    "@text": "Does Beth Tweddle play for the City of Liverpool gymnast club?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Beth_Tweddle",
+            "@support": "105",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Gymnast,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Beth Tweddle",
+            "@offset": "5",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Liverpool",
+            "@support": "33019",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Liverpool",
+            "@offset": "39",
+            "@similarityScore": "0.9304999870096737",
+            "@percentageOfSecondRank": "0.07206048923736451"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Gymnastics",
+            "@support": "5573",
+            "@types": "",
+            "@surfaceForm": "gymnast",
+            "@offset": "49",
+            "@similarityScore": "0.999821483981889",
+            "@percentageOfSecondRank": "1.7854722573834385E-4"
+        }
+    ]
+}

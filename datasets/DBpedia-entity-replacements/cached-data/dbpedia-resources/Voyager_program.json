@@ -1,0 +1,866 @@
+{
+    "http://dbpedia.org/resource/Voyager_programme": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager_Terra": {
+        "http://dbpedia.org/property/naming": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pioneer_program": {
+        "http://dbpedia.org/property/after": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titan_IIIE": {
+        "http://dbpedia.org/property/payloads": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager_program": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SocialGroup107950920"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Organization108008335"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatMissionsToJupiter"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatMissionsToNeptune"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActor"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Mission108403225"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatMissionsToUranus"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/TelevisionShow"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatMissionsToSaturn"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/NongovernmentalOrganization108009834"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u30dc\u30a4\u30b8\u30e3\u30fc\u8a08\u753b",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Programma Voyager",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Programme Voyager",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0641\u0648\u064a\u0627\u062c\u0631",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Voyager",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u043e\u044f\u0434\u0436\u0435\u0440",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Programa Voyager",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Voyager program",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Program Voyager",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Voyager-Programm",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Voyagerprogramma",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u822a\u6d77\u5bb6\u8a08\u756b",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u00ab\u0412\u043e\u0301\u044f\u0434\u0436\u0435\u0440\u00bb (\u0430\u043d\u0433\u043b. voyager, \u043e\u0442 \u0444\u0440. voyageur \u2014 \u00ab\u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u00bb) \u2014 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0434\u0432\u0443\u0445 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043e\u0432, \u0437\u0430\u043f\u0443\u0449\u0435\u043d\u043d\u044b\u0445 \u0432 1977 \u0433\u043e\u0434\u0443, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u043f\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044e \u0434\u0430\u043b\u044c\u043d\u0438\u0445 \u043f\u043b\u0430\u043d\u0435\u0442 \u0421\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0441 \u0443\u0447\u0430\u0441\u0442\u0438\u0435\u043c \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043e\u0432 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0435\u0440\u0438\u0438. \u0410\u043f\u043f\u0430\u0440\u0430\u0442\u044b \u0441\u0435\u0440\u0438\u0438 \u00ab\u0412\u043e\u044f\u0434\u0436\u0435\u0440\u00bb \u2014 \u044d\u0442\u043e \u0432\u044b\u0441\u043e\u043a\u043e\u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0435 \u0440\u043e\u0431\u043e\u0442\u044b, \u043e\u0441\u043d\u0430\u0449\u0451\u043d\u043d\u044b\u0435 \u043d\u0430\u0443\u0447\u043d\u044b\u043c\u0438 \u043f\u0440\u0438\u0431\u043e\u0440\u0430\u043c\u0438 \u0434\u043b\u044f \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0432\u043d\u0435\u0448\u043d\u0438\u0445 \u043f\u043b\u0430\u043d\u0435\u0442, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c\u0438 \u044d\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430\u043c\u0438, \u0440\u0430\u043a\u0435\u0442\u043d\u044b\u043c\u0438 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044f\u043c\u0438, \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430\u043c\u0438, \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u043c\u0438 \u0440\u0430\u0434\u0438\u043e\u0441\u0432\u044f\u0437\u0438 \u0438 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f. \u041e\u0431\u0449\u0430\u044f \u043c\u0430\u0441\u0441\u0430 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u0430 \u2014 \u043e\u043a\u043e\u043b\u043e 721 \u043a\u0433.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u822a\u6d77\u5bb6\u8a08\u756b\uff08\u4ea6\u79f0\u822a\u6d77\u5bb6\u8ba1\u5212\uff0c\u82f1\u8bed\uff1aVoyager program\uff09\u662f\u7f8e\u570b\u7684\u7121\u4eba\u592a\u7a7a\u63a2\u6e2c\u885b\u661f\u8a08\u756b\uff0c\u5305\u62ec\u822a\u6d77\u5bb61\u865f\u8207\u822a\u6d77\u5bb62\u865f\u63a2\u6e2c\u885b\u661f\u3002\u5b83\u5011\u90fd\u57281977\u5e74\u767c\u5c04\uff0c\u4e26\u5f9e1970\u5e74\u4ee3\u672b\u958b\u59cb\u63a2\u6e2c\u592a\u967d\u7cfb\u7684\u884c\u661f\u3002\u96d6\u7136\u822a\u6d77\u5bb6\u8a08\u756b\u4e00\u958b\u59cb\u53ea\u8a2d\u8a08\u91dd\u5c0d\u6728\u661f\u8207\u571f\u661f\u4f86\u9032\u884c\u63a2\u6e2c\uff0c\u4e0d\u904e\u9019\u5169\u500b\u885b\u661f\u6700\u7d42\u90fd\u62b5\u9054\u592a\u967d\u7cfb\u908a\u7de3\uff0c\u4e26\u6301\u7e8c\u50b3\u56de\u76f8\u95dc\u8cc7\u8a0a\u3002\u822a\u6d77\u5bb61\u865f\u82072\u865f\u76ee\u524d\u4ecd\u6301\u7e8c\u671d\u592a\u967d\u7cfb\u5916\u524d\u9032\uff0c\u800c\u822a\u6d77\u5bb61\u865f\u5247\u662f\u76ee\u524d\u8ddd\u96e2\u5730\u7403\u6700\u9060\u7684\u4eba\u9020\u7269\u9ad4\u3002 \u822a\u6d77\u5bb61\u865f\u82072\u865f\u885b\u661f\u90fd\u7372\u5f97\u5927\u91cf\u95dc\u65bc\u592a\u967d\u7cfb\u6c23\u9ad4\u884c\u661f\u7684\u8cc7\u6599\uff0c\u5927\u5e45\u589e\u52a0\u5929\u6587\u5b78\u5bb6\u5c0d\u65bc\u5b83\u5011\u7684\u8a8d\u8b58\u3002\u800c\u885b\u661f\u8ecc\u9053\u7684\u8b8a\u5316\u4e5f\u88ab\u79d1\u5b78\u5bb6\u7528\u4f86\u7814\u7a76\u6d77\u738b\u661f\u5916\u5929\u9ad4\u7684\u5b58\u5728\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Il programma Voyager \u00e8 un programma scientifico statunitense che ha condotto al lancio nel 1977 di due sonde spaziali, chiamate Voyager 1 e Voyager 2, per l'esplorazione del sistema solare esterno. Nella fase iniziale del programma entrambe le sonde hanno osservato i pianeti Giove e Saturno. La sonda Voyager 2 \u00e8 stata in grado di osservare anche i pianeti Urano e Nettuno sfruttando un allineamento planetario vantaggioso che si verific\u00f2 alla fine degli anni settanta. A oggi (2015) Voyager 2 \u00e8 l'unica sonda ad aver effettuato un passaggio ravvicinato di Urano e di Nettuno.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Voyager \u00e9 o nome de um programa norte-americano de pesquisa espacial da NASA iniciado em 1977 com o lan\u00e7amento de duas miss\u00f5es, a Voyager 1 e Voyager 2, com o objetivo inicial de estudar os planetas J\u00fapiter e Saturno e suas respectivas luas. Posteriormente foi ampliado com a inclus\u00e3o das primeiras explora\u00e7\u00f5es de Urano e Netuno e o estudo do espa\u00e7o ap\u00f3s a orbita de Plut\u00e3o. Em 1990, com seus objetivos no sistema solar atingidos, iniciou-se um novo programa chamado Miss\u00e3o Interestelar Voyager. Em 2004 a Voyager 1 e em 2007 a Voyager 2 sa\u00edram da Heliosfera entrando em uma regi\u00e3o conhecida como Heliosheath que \u00e9 a fronteira do sistema solar com o espa\u00e7o interestelar.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Het Voyagerprogramma is een Amerikaans ruimtevaartprogramma van twee onbemande ruimtevaartschepen.  In 1961 werkte de 25-jarige wiskundestudent Michael Minovitch als vakantiewerker bij het Jet Propulsion Laboratory. Hij berekende dat het zwaartekrachtveld van een planeet niet het eind van een missie betekent, maar een ruimtetuig kon versnellen. Versnellen in het zonnestelsel betekent verder van de zon af en dat betekende dat missies naar de buitenste planeten mogelijk waren door het enorme zwaartekrachtveld van Jupiter te gebruiken.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "The Voyager program is a continuing American scientific program that employs two robotic probes, Voyager 1 and Voyager 2, to study the outer Solar System. They were launched in 1977 to take advantage of a favorable alignment of Jupiter, Saturn, Uranus, and Neptune, and are now exploring the outer boundary of the heliosphere in interstellar space. Although their original mission was to study only the planetary systems of Jupiter and Saturn, Voyager 2 continued on to Uranus and Neptune, and both Voyagers are now tasked with exploring interstellar space. Their mission has been extended three times, and both probes continue to collect and relay useful scientific data. Neither Uranus nor Neptune has been visited by any probe other than Voyager 2.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0628\u0631\u0646\u0627\u0645\u062c \u0641\u0648\u064a\u0627\u062c\u0631  (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Voyager program) \u0647\u0648 \u0628\u0631\u0646\u0627\u0645\u062c \u0644\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0641\u0636\u0627\u0621 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0646\u0627\u0633\u0627 \u062a\u0645 \u0628\u0645\u0648\u062c\u0628\u0647 \u0627\u0637\u0644\u0627\u0642 \u0627\u0644\u0645\u0633\u0628\u0627\u0631\u064a\u0646 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u064a\u0646 \u0641\u0648\u064a\u0627\u062c\u0631 1 \u0648 \u0641\u0648\u064a\u0627\u062c\u0631 2 \u0627\u0644\u0644\u0630\u0627\u0646 \u062a\u0645 \u0627\u0631\u0633\u0627\u0644\u0647\u0645\u0627 \u0625\u0644\u0649 \u0627\u0644\u0643\u0648\u0627\u0643\u0628 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629. \u0641\u0648\u064a\u0627\u062c\u0631 1 \u062a\u0645 \u0625\u0637\u0644\u0627\u0642\u0647 \u0641\u064a 5 \u0633\u0628\u062a\u0645\u0628\u0631\u060c 1977. \u0645\u0646 \u0642\u0627\u0639\u062f\u0629 \u0643\u064a\u0628 \u0643\u0627\u0646\u0627\u0641\u064a\u0631\u0627\u0644. \u0645\u0631 \u0628\u0627\u0644\u0642\u0631\u0628 \u0645\u0646 \u0643\u0648\u0643\u0628 \u0627\u0644\u0645\u0634\u062a\u0631\u064a \u0641\u064a \u0639\u0627\u0645 1979 \u0648\u0632\u062d\u0644 \u0641\u064a \u0639\u0627\u0645 1980. \u0648\u0641\u0648\u064a\u0627\u062c\u0631 2 \u0623\u0631\u0633\u0644 \u0641\u064a 20 \u0623\u063a\u0633\u0637\u0633\u060c 1977 \u0645\u0631 \u0628\u0632\u062d\u0644 \u0648\u0627\u0644\u0645\u0634\u062a\u0631\u0649 \u0644\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0648\u0631\u0627\u0646\u0648\u0633 \u0641\u064a \u0639\u0627\u0645 1986 \u0648\u0646\u0628\u062a\u0648\u0646 \u0641\u064a \u0639\u0627\u0645 1989. \u0641\u0648\u064a\u0627\u062c\u0631 2 \u0647\u0648 \u0627\u0644\u0645\u0633\u0628\u0627\u0631 \u0627\u0644\u0648\u062d\u064a\u062f \u0627\u0644\u0630\u064a \u0632\u0627\u0631 \u062a\u0644\u0643 \u0627\u0644\u0643\u0648\u0627\u0643\u0628 \u062d\u062a\u0649 \u0627\u0644\u0627\u0646.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u30dc\u30a4\u30b8\u30e3\u30fc\u8a08\u753b\uff08\u30dc\u30a4\u30b8\u30e3\u30fc\u3051\u3044\u304b\u304f\u3001\u82f1: Voyager program\uff09\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u822a\u7a7a\u5b87\u5b99\u5c40(NASA)\u306b\u3088\u308b\u592a\u967d\u7cfb\u306e\u5916\u60d1\u661f\u304a\u3088\u3073\u592a\u967d\u7cfb\u5916\u306e\u63a2\u67fb\u8a08\u753b\u3067\u3042\u308b\u30022\u6a5f\u306e\u7121\u4eba\u60d1\u661f\u63a2\u67fb\u6a5f\u30dc\u30a4\u30b8\u30e3\u30fc\uff08\u82f1: Voyager\uff09\u3092\u7528\u3044\u305f\u63a2\u67fb\u8a08\u753b\u3067\u3042\u308a\u30011977\u5e74\u306b\u6253\u3061\u4e0a\u3052\u3089\u308c\u305f\u3002\u60d1\u661f\u914d\u7f6e\u306e\u95a2\u4fc2\u306b\u3088\u308a\u3001\u6728\u661f\u30fb\u571f\u661f\u30fb\u5929\u738b\u661f\u30fb\u6d77\u738b\u661f\u3092\u9023\u7d9a\u7684\u306b\u63a2\u67fb\u3059\u308b\u3053\u3068\u304c\u53ef\u80fd\u3067\u3042\u3063\u305f\u6a5f\u4f1a\u3092\u5229\u7528\u3057\u3066\u6253\u3061\u4e0a\u3052\u3089\u308c\u3066\u3044\u308b\u30021\u53f7\u30fb2\u53f7\u3068\u3082\u5916\u60d1\u661f\u306e\u9bae\u660e\u306a\u6620\u50cf\u64ae\u5f71\u306b\u6210\u529f\u3057\u3001\u65b0\u885b\u661f\u306a\u3069\u591a\u6570\u306e\u767a\u898b\u306b\u8ca2\u732e\u3057\u305f\u3002 2\u6a5f\u306e\u63a2\u67fb\u6a5f\u306e\u4ed5\u69d8\u306f\u53cc\u65b9\u3068\u3082\u91cd\u91cf721.9kg\u3001\u51fa\u529b420W\u3068\u307b\u307c\u540c\u3058\u3067\u3042\u308b\u304c\u30012\u53f7\u304c\u3088\u308a\u5bb9\u91cf\u306e\u5927\u304d\u3044\u96fb\u6e90\u3092\u642d\u8f09\u3057\u3066\u3044\u308b\u3002\u5f53\u521d\u306e\u4e88\u5b9a\u3067\u306f\u6253\u3061\u4e0a\u3052\u3089\u308c\u308b\u63a2\u67fb\u6a5f\u306e\u540d\u79f0\u306f\u30de\u30ea\u30ca\u30fc11\u53f7\u30fb12\u53f7\u3060\u3063\u305f\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Das Voyager-Programm ist ein Forschungsprogramm der NASA zur Erkundung des \u00e4u\u00dferen Planetensystems und des interstellaren Raums. Es umfasst Planung, Bau und Forschungsmission der beiden Raumsonden Voyager 1 und Voyager 2. Diese starteten im Jahr 1977. Die beiden Missionen dauern bis heute an.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Se denomina Voyager a cualquiera de las dos sondas espaciales estadounidenses enviadas a los planetas exteriores. La Voyager 1 fue lanzada el 5 de septiembre de 1977 desde Cabo Ca\u00f1averal. Pas\u00f3 por J\u00fapiter en 1979 y por Saturno en 1980. La Voyager 2 fue enviada el 20 de agosto de 1977, pasando por J\u00fapiter y Saturno para llegar a Urano en 1986 y Neptuno en 1989. La Voyager 2 es la \u00fanica sonda que ha visitado esos dos planetas.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Program Voyager \u2013 bezza\u0142ogowy program badawczy, po\u015bwi\u0119cony badaniom planet\u2013olbrzym\u00f3w i zewn\u0119trznej cz\u0119\u015bci heliosfery za pomoc\u0105 dw\u00f3ch bli\u017aniaczych sond kosmicznych. Pierwszymi celami misji by\u0142y badania Jowisza (w 1979 roku) i Saturna (w latach 1980 i 1981). Voyager 2 przelecia\u0142 tak\u017ce obok Urana (w 1986 roku) i Neptuna (w 1989 roku), czego nie dokona\u0142a dot\u0105d (stan na 2015) \u017cadna inna sonda. Sondy Voyager 1 i Voyager 2 wystrzelono rakiet\u0105 Titan 3E w 1977 roku wykorzystuj\u0105c korzystny uk\u0142ad planet. Pocz\u0105tkowo mia\u0142y by\u0107 kontynuacj\u0105 programu Mariner (loty 11 i 12, okre\u015blane te\u017c jako program Mariner Jupiter\u2013Saturn), w marcu 1977 roku nazw\u0119 zmieniono na program Voyager. Obie sondy pozostaj\u0105 aktywne (stan na sierpie\u0144 2016); Voyager 2 bada obecnie najdalsze obszary heliosfery, natomiast Voyager 1 prz",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Le programme Voyager est un programme d'exploration robotique de l'agence spatiale am\u00e9ricaine de la NASA dont l'objectif est d'\u00e9tudier les plan\u00e8tes ext\u00e9rieures du Syst\u00e8me solaire. Il comprend deux sondes spatiales identiques Voyager 1 et Voyager 2 lanc\u00e9es en 1977 qui ont survol\u00e9 les plan\u00e8tes Jupiter, Saturne, Uranus, Neptune ainsi que 48 de leurs satellites. Les donn\u00e9es collect\u00e9es par les 9 instruments port\u00e9s par chaque sonde en font sans doute la mission d'exploration du Syst\u00e8me solaire la plus fructueuse sur le plan scientifique de toute l'histoire spatiale. Les sondes Voyager sont les premi\u00e8res \u00e0 effectuer un survol d'Uranus et Neptune et les secondes \u00e0 \u00e9tudier Jupiter et Saturne. Voyager 1 et 2 ont permis d'obtenir des informations d\u00e9taill\u00e9es sur l'atmosph\u00e8re de Jupiter, Saturne et Ura",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Programa_Voyager"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0cvj4"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q155311"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1_\u0392\u03cc\u03b3\u03b9\u03b1\u03c4\u03b6\u03b5\u03c1"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Programme_Voyager"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Program_Voyager"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Voyager_program"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ubcf4\uc774\uc800_\uacc4\ud68d"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Programma_Voyager"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Program_Voyager"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Voyagerprogramma"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Voyager"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Voyager-Programm"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Program_Voyager"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q155311"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30dc\u30a4\u30b8\u30e3\u30fc\u8a08\u753b"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:NASA_programs"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Voyager_program"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Missions_to_Saturn"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Space_program_of_the_United_States"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Missions_to_Uranus"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Missions_to_Neptune"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Flagship_Program"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Missions_to_Jupiter"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Voyager_probes_with_the_outer_worlds.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Voyager_program"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Voyager_program?oldid=744007850"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://descanso.jpl.nasa.gov/DPSummary/Descanso4--Voyager_new.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdcftp.gsfc.nasa.gov/spacecraft_data/voyager/voyager1/radio_science_rss/"
+            },
+            {
+                "type": "uri",
+                "value": "http://web.mit.edu/space/www/voyager/voyager.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdcftp.gsfc.nasa.gov/spacecraft_data/voyager/voyager1/particle/lecp/"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdcftp.gsfc.nasa.gov/spacecraft_data/voyager/voyager1/planet_radio_ast_pra/planetary_radio_%20astronomy_data/"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdcftp.gsfc.nasa.gov/spacecraft_data/voyager/voyager1/magnetic_fields/"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdcftp.gsfc.nasa.gov/spacecraft_data/voyager/voyager1/particle/crs/"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1977-084A-13"
+            },
+            {
+                "type": "uri",
+                "value": "http://starbrite.jpl.nasa.gov/pds/viewInstrumentProfile.jsp?INSTRUMENT_ID=LECP&INSTRUMENT_HOST_ID=VG2"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdcftp.gsfc.nasa.gov/spacecraft_data/voyager/voyager1/infrared_interferometer_spectrometer_iris/"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1977-084A-10"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1977-084A-11"
+            },
+            {
+                "type": "uri",
+                "value": "http://starbrite.jpl.nasa.gov/pds/viewHostProfile.jsp?INSTRUMENT_HOST_ID=VG2"
+            },
+            {
+                "type": "uri",
+                "value": "http://starbrite.jpl.nasa.gov/pds/viewInstrumentProfile.jsp?INSTRUMENT_ID=UVS&amp;INSTRUMENT_HOST_ID=VG1"
+            },
+            {
+                "type": "uri",
+                "value": "http://starbrite.jpl.nasa.gov/pds/viewInstrumentProfile.jsp?INSTRUMENT_ID=PWS&INSTRUMENT_HOST_ID=VG2"
+            },
+            {
+                "type": "uri",
+                "value": "http://starbrite.jpl.nasa.gov/pds/viewInstrumentProfile.jsp?INSTRUMENT_ID=RSS-VG1S&amp;INSTRUMENT_HOST_ID=VG1"
+            },
+            {
+                "type": "uri",
+                "value": "http://starbrite.jpl.nasa.gov/pds/viewInstrumentProfile.jsp?INSTRUMENT_ID=PPS&INSTRUMENT_HOST_ID=VG2"
+            },
+            {
+                "type": "uri",
+                "value": "http://starbrite.jpl.nasa.gov/pds/viewInstrumentProfile.jsp?INSTRUMENT_ID=PRA&INSTRUMENT_HOST_ID=VG2"
+            },
+            {
+                "type": "uri",
+                "value": "http://starbrite.jpl.nasa.gov/pds/viewInstrumentProfile.jsp?INSTRUMENT_ID=MAG&INSTRUMENT_HOST_ID=VG2"
+            },
+            {
+                "type": "uri",
+                "value": "http://starbrite.jpl.nasa.gov/pds/viewInstrumentProfile.jsp?INSTRUMENT_ID=PLS&INSTRUMENT_HOST_ID=VG2"
+            },
+            {
+                "type": "uri",
+                "value": "http://starbrite.jpl.nasa.gov/pds/viewInstrumentProfile.jsp?INSTRUMENT_ID=ISSN&INSTRUMENT_HOST_ID=VG2"
+            },
+            {
+                "type": "uri",
+                "value": "http://sd-www.jhuapl.edu/VOYAGER/"
+            },
+            {
+                "type": "uri",
+                "value": "http://starbrite.jpl.nasa.gov/pds/viewInstrumentProfile.jsp?INSTRUMENT_ID=ISSW&INSTRUMENT_HOST_ID=VG2"
+            },
+            {
+                "type": "uri",
+                "value": "http://voyager.jpl.nasa.gov/spacecraft/spacecraftlife.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://voyager.jpl.nasa.gov/mission/weekly-reports/2010-05-07.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://voyager.jpl.nasa.gov/mission/weekly-reports/2010-05-14.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://voyager.jpl.nasa.gov/mission/weekly-reports/"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1977-084A-07"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1977-084A-08"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1977-084A-05"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1977-084A-06"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1977-084A-02"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1977-084A-04"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.jpl.nasa.gov/news/fact_sheets/voyager.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1977-084A-01"
+            },
+            {
+                "type": "uri",
+                "value": "http://voyager.jpl.nasa.gov"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/voyager/uvs/instrument.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/voyager/rss/index.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/voyager/uvs/data.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/voyager/pps/data.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/voyager/pps/instrument.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/voyager/iss/instrument.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/voyager/iss/raw_images.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/voyager/iris/original_volume.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/voyager/iss/index.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/voyager/iris/expanded_volumes.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/voyager/iris/instrument.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/vol/VGIRIS_0002_peer_review/"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/vol/VG_2803_peer_review/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.stickings90.webspace.virginmedia.com/voyager.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1977-084A-03"
+            },
+            {
+                "type": "uri",
+                "value": "http://nssdcftp.gsfc.nasa.gov/spacecraft_data/voyager/voyager1/plasma/"
+            },
+            {
+                "type": "uri",
+                "value": "http://ppi.pds.nasa.gov/search/?filter=VG_1501,VG_1601,VG_PLS&title=Voyager_1_Plasma_Science_Investigation"
+            },
+            {
+                "type": "uri",
+                "value": "http://ppi.pds.nasa.gov/search/?filter=VG_230,VG_231,VG_232,VG_233&title=Voyager_1_Radio_Science_Investigation"
+            },
+            {
+                "type": "uri",
+                "value": "http://ppi.pds.nasa.gov/search/?filter=VG_1501,VG_1601,VGMA_1&title=Voyager_1_Magnetometer_Investigation"
+            },
+            {
+                "type": "uri",
+                "value": "http://ppi.pds.nasa.gov/search/?filter=VG_1501,VG_1601,VGPR_1201&title=Voyager_1_Planetary_Radio_Astronomy_Investigation"
+            },
+            {
+                "type": "uri",
+                "value": "http://ppi.pds.nasa.gov/search/?filter=VG_1501,VG_1601&title=Voyager_1_Cosmic_Ray_Investigation"
+            },
+            {
+                "type": "uri",
+                "value": "http://ppi.pds.nasa.gov/search/?filter=VG_1501,VG_1601,VGLE_&title=Voyager_1_Low-Energy_Charge_Particle_Investigation_at_Saturn"
+            },
+            {
+                "type": "uri",
+                "value": "http://vgrmag.gsfc.nasa.gov/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.heavens-above.com/SolarEscape.aspx"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.sciencefriday.com/pages/2007/Aug/hour1_082407.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-rings.seti.org/vol/VGIRIS_0001_peer_review/"
+            },
+            {
+                "type": "uri",
+                "value": "http://pds-imaging.jpl.nasa.gov/Admin/resources/cd_voyager.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19840027171_1984027171.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www-pw.physics.uiowa.edu/plasma-wave/voyager/"
+            },
+            {
+                "type": "uri",
+                "value": "http://ppi.pds.nasa.gov/search/search.jsp?k=voyager+pws"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.hopkins.k12.mn.us/pages/high/courses/online/astro/course_documents/exploration_of_space/nasa/unmanned_space_exploration/unmanned_exploration.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://voyager.gsfc.nasa.gov/"
+            },
+            {
+                "type": "uri",
+                "value": "http://voyager-mac.umd.edu/"
+            },
+            {
+                "type": "uri",
+                "value": "http://voyager.ftecs.com/default.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://starbrite.jpl.nasa.gov/pds/viewInstrumentProfile.jsp?INSTRUMENT_ID=CRS&amp;INSTRUMENT_HOST_ID=VG1"
+            },
+            {
+                "type": "uri",
+                "value": "http://starbrite.jpl.nasa.gov/pds/viewInstrumentProfile.jsp?INSTRUMENT_ID=IRIS&INSTRUMENT_HOST_ID=VG2"
+            },
+            {
+                "type": "uri",
+                "value": "http://space.umd.edu/Voyager/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Het Voyagerprogramma is een Amerikaans ruimtevaartprogramma van twee onbemande ruimtevaartschepen.  In 1961 werkte de 25-jarige wiskundestudent Michael Minovitch als vakantiewerker bij het Jet Propulsion Laboratory. Hij berekende dat het zwaartekrachtveld van een planeet niet het eind van een missie betekent, maar een ruimtetuig kon versnellen. Versnellen in het zonnestelsel betekent verder van de zon af en dat betekende dat missies naar de buitenste planeten mogelijk waren door het enorme zwaartekrachtveld van Jupiter te gebruiken. In 1965 ontdekte Gary Flandro dat Jupiter, Saturnus, Uranus en Neptunus eens in de 176 jaar zo aan de hemel stonden dat het met \u00e9\u00e9n missie mogelijk was alle vier de planeten te bezoeken. De eerstvolgende keer dat deze planeetstand zou voorkomen was in 1977. Men begreep onmiddellijk dat deze kans niet gemist kon worden en ging aan de slag. De Pioneer 10-missie testte of het mogelijk was voorbij Jupiter te geraken, de Pioneer 11 testte of het mogelijk was voorbij Saturnus te geraken. Vervolgens werden twee ruimtesondes die gebouwd waren voor het Marinerprogramma omgedoopt tot Voyager 1 en Voyager 2. Voor het communiceren met de Voyager-sondes was niet voldoende infrastructuur aanwezig. Dit leidde tot de bouw van het Deep Space Network, bestaande uit schotelparken in Goldstone te Californi\u00eb, Madrid en Canberra te Australi\u00eb. De locaties zijn zorgvuldig gekozen opdat altijd \u00e9\u00e9n van de stations de Voyager-sondes in ontvangst kon hebben. Het was de bedoeling meerdere ruimtetuigen met het Deep Space Network te bedienen dus werden op de locaties 34-meter- en 70-meterradiotelescopen neergezet, waarbij de 34-metertelescopen voornamelijk dienen voor communicatie tot aan Jupiter en de 70-metertelescopen gebruikt worden voor communicatie met verderweg gelegen sondes. Vandaag de dag is het Deep Space Network sterk uitgebreid.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "The Voyager program is a continuing American scientific program that employs two robotic probes, Voyager 1 and Voyager 2, to study the outer Solar System. They were launched in 1977 to take advantage of a favorable alignment of Jupiter, Saturn, Uranus, and Neptune, and are now exploring the outer boundary of the heliosphere in interstellar space. Although their original mission was to study only the planetary systems of Jupiter and Saturn, Voyager 2 continued on to Uranus and Neptune, and both Voyagers are now tasked with exploring interstellar space. Their mission has been extended three times, and both probes continue to collect and relay useful scientific data. Neither Uranus nor Neptune has been visited by any probe other than Voyager 2. On August 25, 2012, data from Voyager 1 indicated that it had become the first human-made object to enter interstellar space, traveling \"further than anyone, or anything, in history\". As of 2013, Voyager 1 was moving with a velocity of 17 kilometers per second (11 mi/s) relative to the Sun. Voyager 2 is expected to enter interstellar space by 2016, and its plasma spectrometer should provide the first direct measurements of the density and temperature of the interstellar plasma. Data and photographs collected by the Voyagers' cameras, magnetometers, and other instruments revealed previously unknown details about each of the giant planets and their moons. Close-up images from the spacecraft charted Jupiter\u2019s complex cloud forms, winds, and storm systems and discovered volcanic activity on its moon Io. Saturn\u2019s rings were found to have enigmatic braids, kinks, and spokes and to be accompanied by a myriad of \"ringlets.\" At Uranus Voyager 2 discovered a substantial magnetic field around the planet and 10 additional moons. Its flyby of Neptune uncovered three complete rings and six hitherto unknown moons as well as a planetary magnetic field and complex, widely distributed auroras. Voyager 2 is still the only spacecraft to have visited the ice giants. The Voyager spacecraft were built at the Jet Propulsion Laboratory in Southern California, and they were paid for by the National Aeronautics and Space Administration (NASA), which also paid for their launchings from Cape Canaveral, Florida, their tracking, and everything else concerning the space probes.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0628\u0631\u0646\u0627\u0645\u062c \u0641\u0648\u064a\u0627\u062c\u0631  (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Voyager program) \u0647\u0648 \u0628\u0631\u0646\u0627\u0645\u062c \u0644\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0641\u0636\u0627\u0621 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0646\u0627\u0633\u0627 \u062a\u0645 \u0628\u0645\u0648\u062c\u0628\u0647 \u0627\u0637\u0644\u0627\u0642 \u0627\u0644\u0645\u0633\u0628\u0627\u0631\u064a\u0646 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u064a\u0646 \u0641\u0648\u064a\u0627\u062c\u0631 1 \u0648 \u0641\u0648\u064a\u0627\u062c\u0631 2 \u0627\u0644\u0644\u0630\u0627\u0646 \u062a\u0645 \u0627\u0631\u0633\u0627\u0644\u0647\u0645\u0627 \u0625\u0644\u0649 \u0627\u0644\u0643\u0648\u0627\u0643\u0628 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629. \u0641\u0648\u064a\u0627\u062c\u0631 1 \u062a\u0645 \u0625\u0637\u0644\u0627\u0642\u0647 \u0641\u064a 5 \u0633\u0628\u062a\u0645\u0628\u0631\u060c 1977. \u0645\u0646 \u0642\u0627\u0639\u062f\u0629 \u0643\u064a\u0628 \u0643\u0627\u0646\u0627\u0641\u064a\u0631\u0627\u0644. \u0645\u0631 \u0628\u0627\u0644\u0642\u0631\u0628 \u0645\u0646 \u0643\u0648\u0643\u0628 \u0627\u0644\u0645\u0634\u062a\u0631\u064a \u0641\u064a \u0639\u0627\u0645 1979 \u0648\u0632\u062d\u0644 \u0641\u064a \u0639\u0627\u0645 1980. \u0648\u0641\u0648\u064a\u0627\u062c\u0631 2 \u0623\u0631\u0633\u0644 \u0641\u064a 20 \u0623\u063a\u0633\u0637\u0633\u060c 1977 \u0645\u0631 \u0628\u0632\u062d\u0644 \u0648\u0627\u0644\u0645\u0634\u062a\u0631\u0649 \u0644\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0648\u0631\u0627\u0646\u0648\u0633 \u0641\u064a \u0639\u0627\u0645 1986 \u0648\u0646\u0628\u062a\u0648\u0646 \u0641\u064a \u0639\u0627\u0645 1989. \u0641\u0648\u064a\u0627\u062c\u0631 2 \u0647\u0648 \u0627\u0644\u0645\u0633\u0628\u0627\u0631 \u0627\u0644\u0648\u062d\u064a\u062f \u0627\u0644\u0630\u064a \u0632\u0627\u0631 \u062a\u0644\u0643 \u0627\u0644\u0643\u0648\u0627\u0643\u0628 \u062d\u062a\u0649 \u0627\u0644\u0627\u0646. \u0627\u0644\u0645\u0631\u0643\u0628\u062a\u064a\u0646 \u0641\u0648\u064a\u0627\u062c\u0631 \u0647\u0645\u0627 \u0645\u0646 \u0627\u0644\u0645\u0631\u0643\u0628\u0627\u062a \u0627\u0644\u0642\u0644\u064a\u0644\u0629 \u0627\u0644\u062a\u064a \u0623\u0631\u0633\u0644\u062a \u0644\u0627\u0633\u062a\u0643\u0634\u0627\u0641 \u0627\u0644\u0643\u0648\u0627\u0643\u0628 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629 \u0648\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0645\u0627 \u0628\u0639\u062f\u0647\u0645\u0627\u060c \u0643\u0644 \u0648\u0627\u062d\u062f\u0629 \u0645\u0646 \u0627\u0644\u0645\u0631\u0643\u0628\u062a\u064a\u0646 \u0643\u0627\u0646\u062a \u0644\u0647\u0627 \u0623\u0647\u062f\u0627\u0641 \u0623\u0633\u0627\u0633\u064a\u0629 \u0644\u0644\u0642\u064a\u0627\u0645 \u0628\u0647\u0627 \u0641\u064a \u0643\u0644 \u0643\u0648\u0643\u0628 \u0645\u062d\u062f\u062f \u0644\u0647\u0627 \u0632\u064a\u0627\u0631\u062a\u0647:\u0645\u062b\u0644 \u0627\u0644\u062a\u062d\u0642\u0642 \u0645\u0646 \u062d\u0631\u0643\u0629 \u0648\u0628\u0646\u064a\u0629 \u0648\u062a\u0631\u0643\u064a\u0628\u0629 \u0627\u0644\u0623\u063a\u0644\u0641\u0629 \u0627\u0644\u062c\u0648\u064a\u0629 \u0648\u0627\u0644\u062d\u0642\u0648\u0644 \u0627\u0644\u0645\u063a\u0646\u0627\u0637\u064a\u0633\u064a\u0629 \u0644\u0644\u0643\u0648\u0627\u0643\u0628 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629\u060c \u0628\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0625\u062c\u0631\u0627\u0621 \u0642\u064a\u0627\u0633\u0627\u062a \u0639\u0644\u0649 \u0623\u0642\u0645\u0627\u0631\u0647 \u062a\u0644\u0643 \u0627\u0644\u0643\u0648\u0627\u0643\u0628. \u0627\u0628\u062a\u062f\u0627\u0621 \u0645\u0646 \u064a\u0648\u0645 \u0627\u0644\u062e\u0645\u064a\u0633 21 \u0645\u0627\u0631\u0633 2013 \u0635\u0627\u0631\u062a \u0645\u0631\u0643\u0628\u0629 \u0641\u0648\u064a\u0627\u062c\u06311 \u060c \u0623\u0648\u0644 \u0645\u0631\u0643\u0628\u0629 \u0623\u0631\u0636\u064a\u0629 \u062a\u063a\u0627\u062f\u0631 \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0634\u0645\u0633\u064a\u060c \u0648\u0644\u0627\u0632\u0627\u0644\u062a \u0645\u0647\u0645\u062a\u0647\u0645\u0627 \u0641\u064a \u0627\u0643\u062a\u0634\u0627\u0641 \u0627\u0644\u0643\u0648\u0627\u0643\u0628 \u0627\u0644\u0628\u0639\u064a\u062f\u0629 \u0645\u0633\u062a\u0645\u0631\u0629 \u062d\u062a\u0649 \u0627\u0644\u0622\u0646",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Il programma Voyager \u00e8 un programma scientifico statunitense che ha condotto al lancio nel 1977 di due sonde spaziali, chiamate Voyager 1 e Voyager 2, per l'esplorazione del sistema solare esterno. Nella fase iniziale del programma entrambe le sonde hanno osservato i pianeti Giove e Saturno. La sonda Voyager 2 \u00e8 stata in grado di osservare anche i pianeti Urano e Nettuno sfruttando un allineamento planetario vantaggioso che si verific\u00f2 alla fine degli anni settanta. A oggi (2015) Voyager 2 \u00e8 l'unica sonda ad aver effettuato un passaggio ravvicinato di Urano e di Nettuno. Entrambe le sonde hanno prodotto grandi quantit\u00e0 di informazioni sui giganti gassosi del sistema solare. In particolare i dati ottenuti da Voyager 2 sulla massa di Nettuno hanno consentito di porre limiti all'ipotetica esistenza di nuovi pianeti massicci situati oltre l'orbita di Plutone (un pianeta di questo tipo \u00e8 detto comunemente Pianeta X). Attualmente le due sonde stanno fornendo dati utili a caratterizzare l'eliopausa, la regione in cui la pressione esercitata dalle particelle del vento solare diminuisce fino diventare pari a quella delle particelle provenienti dall'esterno del sistema solare. A differenza delle sonde del Programma Pioneer, ormai non pi\u00f9 funzionanti, entrambe le sonde Voyager continuano a oggi (2015) a trasmettere dati alle stazioni a terra mentre stanno viaggiando verso l'esterno del sistema solare. Le batterie termoelettriche a isotopi radioattivi di cui sono dotate consentono ancora diversi anni di vita operativa (stimata fino al 2025), anche se diversi strumenti sono stati via via disattivati per ridurre l'assorbimento di energia. A partire dalla fine del 2003 la sonda Voyager 1 ha iniziato l'attraversamento dell'eliopausa. Al 7 luglio 2013 si ritiene che la sonda si trovi in una regione del sistema solare denominata elioguaina. Voyager 1 ha raggiunto una distanza di 100 unit\u00e0 astronomiche (UA) dal Sole il 15 agosto 2006. Nel 2013 ha raggiunto una distanza di circa 125 UA dal Sole.Voyager 2 ha raggiunto una distanza di 100 UA dal Sole il 7 novembre 2012. Le due sonde sono state costruite presso il Jet Propulsion Laboratory, struttura finanziata dalla NASA. A bordo di ognuna di esse si trova una copia del Voyager Golden Record, un disco registrato che contiene immagini e suoni della Terra insieme a una selezione musicale. Sulla custodia del disco, anch'essa metallica, sono incise le istruzioni per accedere alle registrazioni in caso di ritrovamento.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Program Voyager \u2013 bezza\u0142ogowy program badawczy, po\u015bwi\u0119cony badaniom planet\u2013olbrzym\u00f3w i zewn\u0119trznej cz\u0119\u015bci heliosfery za pomoc\u0105 dw\u00f3ch bli\u017aniaczych sond kosmicznych. Pierwszymi celami misji by\u0142y badania Jowisza (w 1979 roku) i Saturna (w latach 1980 i 1981). Voyager 2 przelecia\u0142 tak\u017ce obok Urana (w 1986 roku) i Neptuna (w 1989 roku), czego nie dokona\u0142a dot\u0105d (stan na 2015) \u017cadna inna sonda. Sondy Voyager 1 i Voyager 2 wystrzelono rakiet\u0105 Titan 3E w 1977 roku wykorzystuj\u0105c korzystny uk\u0142ad planet. Pocz\u0105tkowo mia\u0142y by\u0107 kontynuacj\u0105 programu Mariner (loty 11 i 12, okre\u015blane te\u017c jako program Mariner Jupiter\u2013Saturn), w marcu 1977 roku nazw\u0119 zmieniono na program Voyager. Obie sondy pozostaj\u0105 aktywne (stan na sierpie\u0144 2016); Voyager 2 bada obecnie najdalsze obszary heliosfery, natomiast Voyager 1 przekroczy\u0142 w 2012 roku heliosfer\u0119 i przesy\u0142a dane z przestrzeni mi\u0119dzygwiezdnej. Obie misje dostarczy\u0142y bardzo wielu informacji o planetach\u2013olbrzymach Uk\u0142adu S\u0142onecznego, ich ksi\u0119\u017cycach i pier\u015bcieniach. W roku 1998 Voyager 1 pod wzgl\u0119dem oddalenia od S\u0142o\u0144ca wyprzedzi\u0142 sond\u0119 Pioneer 10 (zmierzaj\u0105c\u0105 w przeciwnym kierunku) i sta\u0142 si\u0119 najdalszym sztucznym obiektem w kosmosie. Voyager 1 przekroczy\u0142 szok ko\u0144cowy w grudniu 2004 roku, a Voyager 2 uczyni\u0142 to w sierpniu 2007 roku. Obydwie sondy przemierza\u0142y p\u0142aszcz Uk\u0142adu S\u0142onecznego, przesy\u0142aj\u0105c pierwsze dane o tym obszarze. W sierpniu 2012 roku Voyager 1 opu\u015bci\u0142 heliosfer\u0119; sondy kontynuuj\u0105 lot, pokonuj\u0105c dziennie oko\u0142o 1,5 mln km. Sondy zosta\u0142y zbudowane w nale\u017c\u0105cym do NASA Jet Propulsion Laboratory w Pasadenie. Do ka\u017cdej z nich jest do\u0142\u0105czony Voyager Golden Record.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u00ab\u0412\u043e\u0301\u044f\u0434\u0436\u0435\u0440\u00bb (\u0430\u043d\u0433\u043b. voyager, \u043e\u0442 \u0444\u0440. voyageur \u2014 \u00ab\u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u00bb) \u2014 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0434\u0432\u0443\u0445 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043e\u0432, \u0437\u0430\u043f\u0443\u0449\u0435\u043d\u043d\u044b\u0445 \u0432 1977 \u0433\u043e\u0434\u0443, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u043f\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044e \u0434\u0430\u043b\u044c\u043d\u0438\u0445 \u043f\u043b\u0430\u043d\u0435\u0442 \u0421\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0441 \u0443\u0447\u0430\u0441\u0442\u0438\u0435\u043c \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043e\u0432 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0435\u0440\u0438\u0438. \u0412\u0441\u0435\u0433\u043e \u0431\u044b\u043b\u043e \u0441\u043e\u0437\u0434\u0430\u043d\u043e \u0438 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043e \u0432 \u043a\u043e\u0441\u043c\u043e\u0441 \u0434\u0432\u0430 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u0430 \u0441\u0435\u0440\u0438\u0438 \u00ab\u0412\u043e\u044f\u0434\u0436\u0435\u0440\u00bb: \u00ab\u0412\u043e\u044f\u0434\u0436\u0435\u0440-1\u00bb \u0438 \u00ab\u0412\u043e\u044f\u0434\u0436\u0435\u0440-2\u00bb. \u0410\u043f\u043f\u0430\u0440\u0430\u0442\u044b \u0431\u044b\u043b\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u044b \u0432 \u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u0440\u0435\u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f (\u0430\u043d\u0433\u043b. Jet Propulsion Laboratory \u2014 JPL) \u041d\u0410\u0421\u0410. \u041f\u0440\u043e\u0435\u043a\u0442 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0443\u0441\u043f\u0435\u0448\u043d\u044b\u0445 \u0438 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u043c\u0435\u0436\u043f\u043b\u0430\u043d\u0435\u0442\u043d\u044b\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u2014 \u043e\u0431\u0430 \u00ab\u0412\u043e\u044f\u0434\u0436\u0435\u0440\u0430\u00bb \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u043f\u0435\u0440\u0435\u0434\u0430\u043b\u0438 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0441\u043d\u0438\u043c\u043a\u0438 \u042e\u043f\u0438\u0442\u0435\u0440\u0430 \u0438 \u0421\u0430\u0442\u0443\u0440\u043d\u0430, \u0430 \u00ab\u0412\u043e\u044f\u0434\u0436\u0435\u0440-2\u00bb \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0434\u043e\u0441\u0442\u0438\u0433 \u0423\u0440\u0430\u043d\u0430 \u0438 \u041d\u0435\u043f\u0442\u0443\u043d\u0430. \u00ab\u0412\u043e\u044f\u0434\u0436\u0435\u0440\u044b\u00bb \u0441\u0442\u0430\u043b\u0438 \u0442\u0440\u0435\u0442\u044c\u0438\u043c \u0438 \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u044b\u043c \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u0430\u043c\u0438, \u043f\u043b\u0430\u043d \u043f\u043e\u043b\u0451\u0442\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043f\u0440\u0435\u0434\u0443\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u043b \u0432\u044b\u043b\u0435\u0442 \u0437\u0430 \u043f\u0440\u0435\u0434\u0435\u043b\u044b \u0421\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b (\u043f\u0435\u0440\u0432\u044b\u043c\u0438 \u0434\u0432\u0443\u043c\u044f \u0431\u044b\u043b\u0438 \u00ab\u041f\u0438\u043e\u043d\u0435\u0440-10\u00bb \u0438 \u00ab\u041f\u0438\u043e\u043d\u0435\u0440-11\u00bb). \u041f\u0435\u0440\u0432\u044b\u043c \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043e\u043c, \u0434\u043e\u0441\u0442\u0438\u0433\u0448\u0438\u043c \u0433\u0440\u0430\u043d\u0438\u0446 \u0421\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0438 \u0432\u044b\u0448\u0435\u0434\u0448\u0438\u043c \u0437\u0430 \u0435\u0451 \u043f\u0440\u0435\u0434\u0435\u043b\u044b, \u0441\u0442\u0430\u043b \u00ab\u0412\u043e\u044f\u0434\u0436\u0435\u0440-1\u00bb. \u0410\u043f\u043f\u0430\u0440\u0430\u0442\u044b \u0441\u0435\u0440\u0438\u0438 \u00ab\u0412\u043e\u044f\u0434\u0436\u0435\u0440\u00bb \u2014 \u044d\u0442\u043e \u0432\u044b\u0441\u043e\u043a\u043e\u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0435 \u0440\u043e\u0431\u043e\u0442\u044b, \u043e\u0441\u043d\u0430\u0449\u0451\u043d\u043d\u044b\u0435 \u043d\u0430\u0443\u0447\u043d\u044b\u043c\u0438 \u043f\u0440\u0438\u0431\u043e\u0440\u0430\u043c\u0438 \u0434\u043b\u044f \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0432\u043d\u0435\u0448\u043d\u0438\u0445 \u043f\u043b\u0430\u043d\u0435\u0442, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c\u0438 \u044d\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430\u043c\u0438, \u0440\u0430\u043a\u0435\u0442\u043d\u044b\u043c\u0438 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044f\u043c\u0438, \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430\u043c\u0438, \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u043c\u0438 \u0440\u0430\u0434\u0438\u043e\u0441\u0432\u044f\u0437\u0438 \u0438 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f. \u041e\u0431\u0449\u0430\u044f \u043c\u0430\u0441\u0441\u0430 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u0430 \u2014 \u043e\u043a\u043e\u043b\u043e 721 \u043a\u0433.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Le programme Voyager est un programme d'exploration robotique de l'agence spatiale am\u00e9ricaine de la NASA dont l'objectif est d'\u00e9tudier les plan\u00e8tes ext\u00e9rieures du Syst\u00e8me solaire. Il comprend deux sondes spatiales identiques Voyager 1 et Voyager 2 lanc\u00e9es en 1977 qui ont survol\u00e9 les plan\u00e8tes Jupiter, Saturne, Uranus, Neptune ainsi que 48 de leurs satellites. Les donn\u00e9es collect\u00e9es par les 9 instruments port\u00e9s par chaque sonde en font sans doute la mission d'exploration du Syst\u00e8me solaire la plus fructueuse sur le plan scientifique de toute l'histoire spatiale. Les sondes Voyager sont les premi\u00e8res \u00e0 effectuer un survol d'Uranus et Neptune et les secondes \u00e0 \u00e9tudier Jupiter et Saturne. Voyager 1 et 2 ont permis d'obtenir des informations d\u00e9taill\u00e9es sur l'atmosph\u00e8re de Jupiter, Saturne et Uranus. Les sondes Voyager ont r\u00e9v\u00e9l\u00e9 de nombreux d\u00e9tails sur les anneaux de Saturne, permis de d\u00e9couvrir les anneaux de Jupiter et ont fourni les premi\u00e8res images d\u00e9taill\u00e9es des anneaux d'Uranus et de Neptune. Les sondes ont d\u00e9couvert en tout 33 nouvelles lunes. Elles ont r\u00e9v\u00e9l\u00e9 l'activit\u00e9 volcanique de Io et la structure \u00e9trange d'Europe. La NASA met sur pied en 1972 le programme Voyager pour exploiter une conjonction des plan\u00e8tes ext\u00e9rieures exceptionnelle qui doit permettre aux sondes de survoler plusieurs des plan\u00e8tes pratiquement sans d\u00e9pense en carburant, en utilisant l'assistance gravitationnelle. Malgr\u00e9 les contraintes budg\u00e9taires li\u00e9es \u00e0 un climat \u00e9conomique et politique peu favorable \u00e0 l'espace, la NASA apr\u00e8s avoir renonc\u00e9 \u00e0 un projet plus ambitieux, parvient \u00e0 construire deux engins parfaitement adapt\u00e9s \u00e0 ce programme complexe comme vont le prouver la long\u00e9vit\u00e9 et la qualit\u00e9 du mat\u00e9riel scientifique r\u00e9colt\u00e9 par les deux sondes. Voyager 1 et 2 sont dans leur cat\u00e9gorie des engins lourds, 800 kg \u00e0 comparer aux 235 kg des sondes Pioneer charg\u00e9es de jouer le r\u00f4le d'\u00e9claireur, car elles emportent plus de 100 kg d'instrumentation scientifique. Les sondes Voyager sont, en 2014, toujours en \u00e9tat de fonctionnement ; plusieurs de leurs instruments continuent \u00e0 transmettre des informations sur le milieu environnant. Voyager 1 a quitt\u00e9 l'h\u00e9liosph\u00e8re en d\u00e9cembre 2004 pour se diriger vers l'h\u00e9liopause qui marque la limite de l'influence du vent solaire. En septembre 2013, la sonde devient officiellement le premier objet de fabrication humaine \u00e0 sortir de notre Syst\u00e8me solaire, mais elle en \u00e9tait d\u00e9j\u00e0 sortie depuis le mois d'ao\u00fbt 2012. Se d\u00e9pla\u00e7ant \u00e0 plus de 17 km/s par rapport au Soleil, Voyageur 1, porteur d'un message symbolique de l'Humanit\u00e9, devrait \u00eatre la premi\u00e8re sonde spatiale \u00e0 passer \u00e0 proximit\u00e9 d'une autre \u00e9toile dans 40 000 ans. Bien avant, vers 2020, la sonde aura cess\u00e9 de fonctionner du fait de la d\u00e9faillance des thermocouples des g\u00e9n\u00e9rateurs thermo\u00e9lectriques \u00e0 radioisotope qui lui fournissent son \u00e9nergie.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u30dc\u30a4\u30b8\u30e3\u30fc\u8a08\u753b\uff08\u30dc\u30a4\u30b8\u30e3\u30fc\u3051\u3044\u304b\u304f\u3001\u82f1: Voyager program\uff09\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u822a\u7a7a\u5b87\u5b99\u5c40(NASA)\u306b\u3088\u308b\u592a\u967d\u7cfb\u306e\u5916\u60d1\u661f\u304a\u3088\u3073\u592a\u967d\u7cfb\u5916\u306e\u63a2\u67fb\u8a08\u753b\u3067\u3042\u308b\u30022\u6a5f\u306e\u7121\u4eba\u60d1\u661f\u63a2\u67fb\u6a5f\u30dc\u30a4\u30b8\u30e3\u30fc\uff08\u82f1: Voyager\uff09\u3092\u7528\u3044\u305f\u63a2\u67fb\u8a08\u753b\u3067\u3042\u308a\u30011977\u5e74\u306b\u6253\u3061\u4e0a\u3052\u3089\u308c\u305f\u3002\u60d1\u661f\u914d\u7f6e\u306e\u95a2\u4fc2\u306b\u3088\u308a\u3001\u6728\u661f\u30fb\u571f\u661f\u30fb\u5929\u738b\u661f\u30fb\u6d77\u738b\u661f\u3092\u9023\u7d9a\u7684\u306b\u63a2\u67fb\u3059\u308b\u3053\u3068\u304c\u53ef\u80fd\u3067\u3042\u3063\u305f\u6a5f\u4f1a\u3092\u5229\u7528\u3057\u3066\u6253\u3061\u4e0a\u3052\u3089\u308c\u3066\u3044\u308b\u30021\u53f7\u30fb2\u53f7\u3068\u3082\u5916\u60d1\u661f\u306e\u9bae\u660e\u306a\u6620\u50cf\u64ae\u5f71\u306b\u6210\u529f\u3057\u3001\u65b0\u885b\u661f\u306a\u3069\u591a\u6570\u306e\u767a\u898b\u306b\u8ca2\u732e\u3057\u305f\u3002 2\u6a5f\u306e\u63a2\u67fb\u6a5f\u306e\u4ed5\u69d8\u306f\u53cc\u65b9\u3068\u3082\u91cd\u91cf721.9kg\u3001\u51fa\u529b420W\u3068\u307b\u307c\u540c\u3058\u3067\u3042\u308b\u304c\u30012\u53f7\u304c\u3088\u308a\u5bb9\u91cf\u306e\u5927\u304d\u3044\u96fb\u6e90\u3092\u642d\u8f09\u3057\u3066\u3044\u308b\u3002\u5f53\u521d\u306e\u4e88\u5b9a\u3067\u306f\u6253\u3061\u4e0a\u3052\u3089\u308c\u308b\u63a2\u67fb\u6a5f\u306e\u540d\u79f0\u306f\u30de\u30ea\u30ca\u30fc11\u53f7\u30fb12\u53f7\u3060\u3063\u305f\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Se denomina Voyager a cualquiera de las dos sondas espaciales estadounidenses enviadas a los planetas exteriores. La Voyager 1 fue lanzada el 5 de septiembre de 1977 desde Cabo Ca\u00f1averal. Pas\u00f3 por J\u00fapiter en 1979 y por Saturno en 1980. La Voyager 2 fue enviada el 20 de agosto de 1977, pasando por J\u00fapiter y Saturno para llegar a Urano en 1986 y Neptuno en 1989. La Voyager 2 es la \u00fanica sonda que ha visitado esos dos planetas.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u822a\u6d77\u5bb6\u8a08\u756b\uff08\u4ea6\u79f0\u822a\u6d77\u5bb6\u8ba1\u5212\uff0c\u82f1\u8bed\uff1aVoyager program\uff09\u662f\u7f8e\u570b\u7684\u7121\u4eba\u592a\u7a7a\u63a2\u6e2c\u885b\u661f\u8a08\u756b\uff0c\u5305\u62ec\u822a\u6d77\u5bb61\u865f\u8207\u822a\u6d77\u5bb62\u865f\u63a2\u6e2c\u885b\u661f\u3002\u5b83\u5011\u90fd\u57281977\u5e74\u767c\u5c04\uff0c\u4e26\u5f9e1970\u5e74\u4ee3\u672b\u958b\u59cb\u63a2\u6e2c\u592a\u967d\u7cfb\u7684\u884c\u661f\u3002\u96d6\u7136\u822a\u6d77\u5bb6\u8a08\u756b\u4e00\u958b\u59cb\u53ea\u8a2d\u8a08\u91dd\u5c0d\u6728\u661f\u8207\u571f\u661f\u4f86\u9032\u884c\u63a2\u6e2c\uff0c\u4e0d\u904e\u9019\u5169\u500b\u885b\u661f\u6700\u7d42\u90fd\u62b5\u9054\u592a\u967d\u7cfb\u908a\u7de3\uff0c\u4e26\u6301\u7e8c\u50b3\u56de\u76f8\u95dc\u8cc7\u8a0a\u3002\u822a\u6d77\u5bb61\u865f\u82072\u865f\u76ee\u524d\u4ecd\u6301\u7e8c\u671d\u592a\u967d\u7cfb\u5916\u524d\u9032\uff0c\u800c\u822a\u6d77\u5bb61\u865f\u5247\u662f\u76ee\u524d\u8ddd\u96e2\u5730\u7403\u6700\u9060\u7684\u4eba\u9020\u7269\u9ad4\u3002 \u822a\u6d77\u5bb61\u865f\u82072\u865f\u885b\u661f\u90fd\u7372\u5f97\u5927\u91cf\u95dc\u65bc\u592a\u967d\u7cfb\u6c23\u9ad4\u884c\u661f\u7684\u8cc7\u6599\uff0c\u5927\u5e45\u589e\u52a0\u5929\u6587\u5b78\u5bb6\u5c0d\u65bc\u5b83\u5011\u7684\u8a8d\u8b58\u3002\u800c\u885b\u661f\u8ecc\u9053\u7684\u8b8a\u5316\u4e5f\u88ab\u79d1\u5b78\u5bb6\u7528\u4f86\u7814\u7a76\u6d77\u738b\u661f\u5916\u5929\u9ad4\u7684\u5b58\u5728\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Voyager \u00e9 o nome de um programa norte-americano de pesquisa espacial da NASA iniciado em 1977 com o lan\u00e7amento de duas miss\u00f5es, a Voyager 1 e Voyager 2, com o objetivo inicial de estudar os planetas J\u00fapiter e Saturno e suas respectivas luas. Posteriormente foi ampliado com a inclus\u00e3o das primeiras explora\u00e7\u00f5es de Urano e Netuno e o estudo do espa\u00e7o ap\u00f3s a orbita de Plut\u00e3o. Em 1990, com seus objetivos no sistema solar atingidos, iniciou-se um novo programa chamado Miss\u00e3o Interestelar Voyager. Em 2004 a Voyager 1 e em 2007 a Voyager 2 sa\u00edram da Heliosfera entrando em uma regi\u00e3o conhecida como Heliosheath que \u00e9 a fronteira do sistema solar com o espa\u00e7o interestelar. Com seus sistemas eletr\u00f4nicos alimentados por pequenos geradores nucleares, as sondas Voyager poder\u00e3o continuar em funcionamento at\u00e9 aproximadamente a d\u00e9cada de 2020.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Das Voyager-Programm ist ein Forschungsprogramm der NASA zur Erkundung des \u00e4u\u00dferen Planetensystems und des interstellaren Raums. Es umfasst Planung, Bau und Forschungsmission der beiden Raumsonden Voyager 1 und Voyager 2. Diese starteten im Jahr 1977. Die beiden Missionen dauern bis heute an.",
+                "lang": "de"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Voyager_probes_with_the_outer_worlds.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744007850,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 47795,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Voyager_program": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager:_Sounds_Of_The_Cosmos": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager_Interstellar_Mission": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager_III": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Voyager_program": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Space_probes_Voyager": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager_Program": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager_spacecraft": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager_probes": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carolyn_Porco": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager_3": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager_0": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager_mission": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mariner_Jupiter-Saturn": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager_Project": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager_probe": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voyager_Space_Probe": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Voyager_program"
+            }
+        ]
+    }
+}

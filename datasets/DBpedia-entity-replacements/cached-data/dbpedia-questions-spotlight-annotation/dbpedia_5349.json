@@ -1,0 +1,37 @@
+{
+    "@text": "Is 40.5 Australia's central government debt as a percent of GDP?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Australia",
+            "@support": "189357",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Australia",
+            "@offset": "8",
+            "@similarityScore": "0.9978720700094084",
+            "@percentageOfSecondRank": "0.001505488172781929"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Government_debt",
+            "@support": "1159",
+            "@types": "",
+            "@surfaceForm": "government debt",
+            "@offset": "28",
+            "@similarityScore": "0.9986131671780291",
+            "@percentageOfSecondRank": "0.0012550822990592227"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Gross_domestic_product",
+            "@support": "8354",
+            "@types": "",
+            "@surfaceForm": "GDP",
+            "@offset": "60",
+            "@similarityScore": "0.9999961570930879",
+            "@percentageOfSecondRank": "2.688039408785445E-6"
+        }
+    ]
+}

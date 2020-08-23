@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me  international association football national teams competition  whose name has the word cup in it.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/FIFA",
+            "@support": "23745",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "international",
+            "@offset": "9",
+            "@similarityScore": "0.8746734997151216",
+            "@percentageOfSecondRank": "0.11888215803240199"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Association_football",
+            "@support": "280277",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "football",
+            "@offset": "35",
+            "@similarityScore": "0.9880357055246707",
+            "@percentageOfSecondRank": "0.007357464819521641"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "In which city was the film star of Singhasan Battisi born ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "9",
+            "@similarityScore": "0.8284412945957954",
+            "@percentageOfSecondRank": "0.11315605523004747"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Singhasan_Battisi",
+            "@support": "25",
+            "@types": "Wikidata:Q571,Wikidata:Q386724,Schema:CreativeWork,Schema:Book,Http://purl.org/ontology/bibo/Book,DBpedia:WrittenWork,DBpedia:Work,DBpedia:Book",
+            "@surfaceForm": "Singhasan Battisi",
+            "@offset": "35",
+            "@similarityScore": "0.999999999999929",
+            "@percentageOfSecondRank": "6.731011299152288E-14"
+        }
+    ]
+}

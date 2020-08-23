@@ -1,0 +1,28 @@
+{
+    "@text": "Is the Chiva Bus by the Ford Motor Company?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Chiva_bus",
+            "@support": "8",
+            "@types": "DUL:DesignedArtifact,Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Automobile",
+            "@surfaceForm": "Chiva Bus",
+            "@offset": "7",
+            "@similarityScore": "0.9999999999995595",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ford_Motor_Company",
+            "@support": "23230",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Ford Motor Company",
+            "@offset": "24",
+            "@similarityScore": "0.9989482257007145",
+            "@percentageOfSecondRank": "9.982881242069982E-4"
+        }
+    ]
+}

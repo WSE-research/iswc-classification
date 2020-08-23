@@ -1,0 +1,37 @@
+{
+    "@text": "Is Sloth in the Chordate phylum?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Sloth",
+            "@support": "815",
+            "@types": "Wikidata:Q7377,Wikidata:Q729,Wikidata:Q19088,DBpedia:Species,DBpedia:Mammal,DBpedia:Eukaryote,DBpedia:Animal",
+            "@surfaceForm": "Sloth",
+            "@offset": "3",
+            "@similarityScore": "0.9981034010843091",
+            "@percentageOfSecondRank": "9.64084032573643E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chordate",
+            "@support": "489",
+            "@types": "",
+            "@surfaceForm": "Chordate",
+            "@offset": "16",
+            "@similarityScore": "0.9999999993485602",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Phylum",
+            "@support": "1978",
+            "@types": "",
+            "@surfaceForm": "phylum",
+            "@offset": "25",
+            "@similarityScore": "0.9999983846689106",
+            "@percentageOfSecondRank": "1.6130388900907302E-6"
+        }
+    ]
+}

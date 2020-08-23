@@ -1,0 +1,28 @@
+{
+    "@text": "When did Hawaii become a state in the United States?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Hawaii",
+            "@support": "31185",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Hawaii",
+            "@offset": "9",
+            "@similarityScore": "0.998835337320535",
+            "@percentageOfSecondRank": "5.199406661027499E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "38",
+            "@similarityScore": "0.9999156472133806",
+            "@percentageOfSecondRank": "4.796013039452536E-5"
+        }
+    ]
+}

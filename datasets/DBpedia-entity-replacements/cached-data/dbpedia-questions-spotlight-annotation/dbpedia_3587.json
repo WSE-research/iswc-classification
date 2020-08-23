@@ -1,0 +1,46 @@
+{
+    "@text": "What city is both the death location of Carlos Gardel and the twin city of Cali?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "5",
+            "@similarityScore": "0.8651042494302487",
+            "@percentageOfSecondRank": "0.10306464717258221"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Carlos_Gardel",
+            "@support": "399",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Carlos Gardel",
+            "@offset": "40",
+            "@similarityScore": "0.999999999999929",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "twin city",
+            "@offset": "62",
+            "@similarityScore": "0.975082383304421",
+            "@percentageOfSecondRank": "0.025554370701301277"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cali",
+            "@support": "2204",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Cali",
+            "@offset": "75",
+            "@similarityScore": "0.9983665057169581",
+            "@percentageOfSecondRank": "0.0012993913092468313"
+        }
+    ]
+}

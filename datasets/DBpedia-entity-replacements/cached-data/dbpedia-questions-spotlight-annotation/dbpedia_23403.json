@@ -1,0 +1,28 @@
+{
+    "@text": "Which species does an elephant belong?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Species",
+            "@support": "158628",
+            "@types": "",
+            "@surfaceForm": "species",
+            "@offset": "6",
+            "@similarityScore": "0.9999989307482228",
+            "@percentageOfSecondRank": "3.4275878088167946E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Elephant",
+            "@support": "4740",
+            "@types": "Wikidata:Q7377,Wikidata:Q729,Wikidata:Q19088,DBpedia:Species,DBpedia:Mammal,DBpedia:Eukaryote,DBpedia:Animal",
+            "@surfaceForm": "elephant",
+            "@offset": "22",
+            "@similarityScore": "0.9699627374053917",
+            "@percentageOfSecondRank": "0.018152873290118936"
+        }
+    ]
+}

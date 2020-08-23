@@ -1,0 +1,46 @@
+{
+    "@text": "\"How is {found in species} of {citric acid}, which has {type genus} is {Carl Linnaeus} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Species",
+            "@support": "158628",
+            "@types": "",
+            "@surfaceForm": "species",
+            "@offset": "18",
+            "@similarityScore": "0.999999348668651",
+            "@percentageOfSecondRank": "4.1190272473092316E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Acid",
+            "@support": "8253",
+            "@types": "",
+            "@surfaceForm": "acid",
+            "@offset": "38",
+            "@similarityScore": "0.9997272596275878",
+            "@percentageOfSecondRank": "2.2421490767863086E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Type_genus",
+            "@support": "661",
+            "@types": "",
+            "@surfaceForm": "type genus",
+            "@offset": "56",
+            "@similarityScore": "0.9999998383290307",
+            "@percentageOfSecondRank": "1.6167075272798312E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Carl_Linnaeus",
+            "@support": "7712",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q901,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Scientist,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Carl Linnaeus",
+            "@offset": "72",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

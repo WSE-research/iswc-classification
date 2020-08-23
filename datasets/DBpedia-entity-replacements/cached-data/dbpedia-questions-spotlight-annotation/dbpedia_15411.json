@@ -1,0 +1,28 @@
+{
+    "@text": "When did Novak Djokovic become a professional tennis player?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Novak_Djokovic",
+            "@support": "2541",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q10833314,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:TennisPlayer,DBpedia:Person,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Novak Djokovic",
+            "@offset": "9",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tennis",
+            "@support": "38009",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "tennis",
+            "@offset": "46",
+            "@similarityScore": "0.9999745924198533",
+            "@percentageOfSecondRank": "1.745483005681858E-5"
+        }
+    ]
+}

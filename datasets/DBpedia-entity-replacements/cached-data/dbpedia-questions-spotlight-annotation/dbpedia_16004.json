@@ -1,0 +1,46 @@
+{
+    "@text": "Did Steve Wozniak go to college and the University of California, Berkeley and Foothill College?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Steve_Wozniak",
+            "@support": "497",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Steve Wozniak",
+            "@offset": "4",
+            "@similarityScore": "0.9999999999999574",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/California",
+            "@support": "185510",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "California",
+            "@offset": "54",
+            "@similarityScore": "0.9999358715578155",
+            "@percentageOfSecondRank": "3.662866282702263E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/George_Berkeley",
+            "@support": "596",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q4964182,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Philosopher,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Berkeley",
+            "@offset": "66",
+            "@similarityScore": "0.569508372234756",
+            "@percentageOfSecondRank": "0.3138620416025135"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Foothill_College",
+            "@support": "120",
+            "@types": "Wikidata:Q43229,Wikidata:Q3918,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:EducationalOrganization,Schema:CollegeOrUniversity,DBpedia:University,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "Foothill College",
+            "@offset": "79",
+            "@similarityScore": "0.9999999999999716",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

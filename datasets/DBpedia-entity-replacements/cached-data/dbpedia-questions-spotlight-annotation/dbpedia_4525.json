@@ -1,0 +1,37 @@
+{
+    "@text": "What is the next steel bridge crossing upstream of London Bridge?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Steel",
+            "@support": "14497",
+            "@types": "",
+            "@surfaceForm": "steel",
+            "@offset": "17",
+            "@similarityScore": "0.9995072722588659",
+            "@percentageOfSecondRank": "1.5512392821742256E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bridge",
+            "@support": "11859",
+            "@types": "",
+            "@surfaceForm": "bridge",
+            "@offset": "23",
+            "@similarityScore": "0.9997891660383538",
+            "@percentageOfSecondRank": "1.6688222039661378E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/London_Bridge",
+            "@support": "1351",
+            "@types": "Wikidata:Q12280,Schema:Place,DBpedia:RouteOfTransportation,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:Bridge,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "London Bridge",
+            "@offset": "51",
+            "@similarityScore": "0.7711099191474042",
+            "@percentageOfSecondRank": "0.2968161805814645"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the {dominion of the British Empire} for {history of topic} of {history of Australia}",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/British_Empire",
+            "@support": "20068",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Empire",
+            "@offset": "36",
+            "@similarityScore": "0.8862876878788887",
+            "@percentageOfSecondRank": "0.062473904015220606"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Australia",
+            "@support": "189357",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Australia",
+            "@offset": "82",
+            "@similarityScore": "0.9975633192487934",
+            "@percentageOfSecondRank": "0.0016614588633587586"
+        }
+    ]
+}

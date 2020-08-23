@@ -1,0 +1,37 @@
+{
+    "@text": "who is the {replaces} for {Philip VI of France} which {position held} as {King of France} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Philip_VI_of_France",
+            "@support": "529",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Philip VI",
+            "@offset": "27",
+            "@similarityScore": "0.9859781530025878",
+            "@percentageOfSecondRank": "0.0074646642387059285"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/France",
+            "@support": "256130",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "France",
+            "@offset": "40",
+            "@similarityScore": "0.9956514309181207",
+            "@percentageOfSecondRank": "0.00296200080593385"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/France",
+            "@support": "256130",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "France",
+            "@offset": "82",
+            "@similarityScore": "0.9956514309181207",
+            "@percentageOfSecondRank": "0.00296200080593385"
+        }
+    ]
+}

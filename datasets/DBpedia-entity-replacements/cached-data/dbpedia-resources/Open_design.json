@@ -1,0 +1,449 @@
+{
+    "http://dbpedia.org/resource/Open_design": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Appliance102729965"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Device103183080"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Furniture103405725"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Furnishing103405265"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Instrumentality103575240"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Computer103082979"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Philosophy106158346"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatOpenMethodologies"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Epistemology106166748"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Methodology106166898"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Machine103699975"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Table104379243"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/ConsoleTable103092883"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/HumanisticDiscipline106153846"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Discipline105996646"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatVideoGameConsoles"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatOpenComputers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Content105809192"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Cognition100023271"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Artifact100021939"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/KnowledgeDomain105999266"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Dise\u00f1o abierto",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Design aberto",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Open design",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u041e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Open design",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "El dise\u00f1o abierto o dise\u00f1o libre es el desarrollo de productos f\u00edsicos, m\u00e1quinas y sistemas mediante el uso de informaci\u00f3n del dise\u00f1o compartida p\u00fablicamente. El dise\u00f1o abierto implica la realizaci\u00f3n de software libre y de c\u00f3digo abierto (FOSS), as\u00ed como tambi\u00e9n de hardware de fuente abierta. El proceso se facilita en general a trav\u00e9s de Internet, a menudo llev\u00e1ndose a cabo sin compensaci\u00f3n monetaria. Los objetivos y la filosof\u00eda son id\u00e9nticos a los del movimiento de c\u00f3digo abierto, pero aplicados en el desarrollo de productos f\u00edsicos en lugar de software.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u041e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 (\u0430\u043d\u0433\u043b. open design) \u2014 \u0441\u043f\u043e\u0441\u043e\u0431 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0438 \u0441\u043e\u043f\u0440\u043e\u0432\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u044d\u043a\u0441\u043f\u043b\u0443\u0430\u0442\u0430\u0446\u0438\u0438 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438\u0437\u0434\u0435\u043b\u0438\u0439, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043c\u0430\u0448\u0438\u043d \u0438 \u0441\u0438\u0441\u0442\u0435\u043c, \u043f\u0443\u0442\u0451\u043c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u0443\u0431\u043b\u0438\u0447\u043d\u043e\u0439 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043e \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0438. \u041f\u0440\u043e\u0446\u0435\u0441\u0441, \u043a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u0438\u0434\u0451\u0442 \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0435\u0442\u0438 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442, \u043b\u0438\u0446\u0435\u043d\u0437\u0438\u0439 Creative Commons \u0438 \u0447\u0430\u0441\u0442\u043e \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0437 \u043c\u043e\u043d\u0435\u0442\u0438\u0437\u0430\u0446\u0438\u0438 \u0432\u043e\u0437\u043d\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043d\u0438\u044f. \u0426\u0435\u043b\u0438 \u0438 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u044b \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0433\u043e \u043a\u043e\u0434\u0430, \u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u043c\u043e \u043a \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438\u0437\u0434\u0435\u043b\u0438\u0439, \u0430 \u043d\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "A express\u00e3o design aberto (open design) remete a projetos e a\u00e7\u00f5es na \u00e1era do design que permitam a livre participa\u00e7\u00e3o nas mais diversas fases de cria\u00e7\u00e3o de um projeto, sendo as equipes compostas tanto por produtores multidisciplinares quanto por usu\u00e1rios.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "L'Open design o progettazione aperta \u00e8 lo sviluppo di prodotti fisici, macchine e sistemi attraverso l'uso di informazione progettuale condivisa pubblicamente.Questo processo \u00e8 facilitato da Internet \u00e8 spesso \u00e8 conseguito senza alcun compenso monetario.Gli obiettivi e la filosofia sono identici all'Open Source ma risiede in un differente paradigma.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Open design is the development of physical products, machines and systems through use of publicly shared design information. Open design involves the making of both free and open-source software (FOSS) as well as open-source hardware. The process is generally facilitated by the Internet and often performed without monetary compensation. The goals and philosophy are identical to that of the open-source movement, but are implemented for the development of physical products rather than software. Open design is a form of co-creation, where the final product is designed by the users, rather than an external stakeholder such as a private company.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1759164"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1759164"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0b6f90x"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Open_design"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Design_aberto"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Open_design"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Uzebox"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0475km"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Dise\u00f1o_abierto"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Free_culture_movement"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Open_design"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Design"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Open-source_hardware"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Reprap_Darwin.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Open_design"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Open_design?oldid=741445091"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://flosshub.org/sites/flosshub.org/files/meyer.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://e-conomy.berkeley.edu/publications/wp/wp140.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.opendesignnow.org"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wired.com/magazine/2010/01/ff_newrevolution"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.conftool.com/iced09/index.php?page=browseSessions&form_session=44"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.we-magazine.net/we-volume-02/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.we-magazine.net/we-volume-02/the-emergence-of-open-design-and-open-manufacturing/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.worldchanging.com/archives/005359.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ohanda.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.designbreak.org"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cis.at/de/Schwerpunkte/cis-projekte/downloads/ci-convention-2011-2/at_download/file"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "L'Open design o progettazione aperta \u00e8 lo sviluppo di prodotti fisici, macchine e sistemi attraverso l'uso di informazione progettuale condivisa pubblicamente.Questo processo \u00e8 facilitato da Internet \u00e8 spesso \u00e8 conseguito senza alcun compenso monetario.Gli obiettivi e la filosofia sono identici all'Open Source ma risiede in un differente paradigma. I principi dell'open design derivano dai movimenti open source e del software libero. Nel 1997 Eric S. Raymond, Tim O'Reilly and Larry Augustin definiscono l'Open Source come un'espressione alternativa di Software libero, nel 1997 Bruce Perens pubblic\u00f2 la definizione di Open Source.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Open design is the development of physical products, machines and systems through use of publicly shared design information. Open design involves the making of both free and open-source software (FOSS) as well as open-source hardware. The process is generally facilitated by the Internet and often performed without monetary compensation. The goals and philosophy are identical to that of the open-source movement, but are implemented for the development of physical products rather than software. Open design is a form of co-creation, where the final product is designed by the users, rather than an external stakeholder such as a private company.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u041e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 (\u0430\u043d\u0433\u043b. open design) \u2014 \u0441\u043f\u043e\u0441\u043e\u0431 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0438 \u0441\u043e\u043f\u0440\u043e\u0432\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u044d\u043a\u0441\u043f\u043b\u0443\u0430\u0442\u0430\u0446\u0438\u0438 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438\u0437\u0434\u0435\u043b\u0438\u0439, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043c\u0430\u0448\u0438\u043d \u0438 \u0441\u0438\u0441\u0442\u0435\u043c, \u043f\u0443\u0442\u0451\u043c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u0443\u0431\u043b\u0438\u0447\u043d\u043e\u0439 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043e \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0438. \u041f\u0440\u043e\u0446\u0435\u0441\u0441, \u043a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u0438\u0434\u0451\u0442 \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0435\u0442\u0438 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442, \u043b\u0438\u0446\u0435\u043d\u0437\u0438\u0439 Creative Commons \u0438 \u0447\u0430\u0441\u0442\u043e \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0441\u044f \u0431\u0435\u0437 \u043c\u043e\u043d\u0435\u0442\u0438\u0437\u0430\u0446\u0438\u0438 \u0432\u043e\u0437\u043d\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043d\u0438\u044f. \u0426\u0435\u043b\u0438 \u0438 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u044b \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0433\u043e \u043a\u043e\u0434\u0430, \u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u043c\u043e \u043a \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438\u0437\u0434\u0435\u043b\u0438\u0439, \u0430 \u043d\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "A express\u00e3o design aberto (open design) remete a projetos e a\u00e7\u00f5es na \u00e1era do design que permitam a livre participa\u00e7\u00e3o nas mais diversas fases de cria\u00e7\u00e3o de um projeto, sendo as equipes compostas tanto por produtores multidisciplinares quanto por usu\u00e1rios.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "El dise\u00f1o abierto o dise\u00f1o libre es el desarrollo de productos f\u00edsicos, m\u00e1quinas y sistemas mediante el uso de informaci\u00f3n del dise\u00f1o compartida p\u00fablicamente. El dise\u00f1o abierto implica la realizaci\u00f3n de software libre y de c\u00f3digo abierto (FOSS), as\u00ed como tambi\u00e9n de hardware de fuente abierta. El proceso se facilita en general a trav\u00e9s de Internet, a menudo llev\u00e1ndose a cabo sin compensaci\u00f3n monetaria. Los objetivos y la filosof\u00eda son id\u00e9nticos a los del movimiento de c\u00f3digo abierto, pero aplicados en el desarrollo de productos f\u00edsicos en lugar de software.",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Reprap_Darwin.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 741445091,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 1113784,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Development"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Open_collaborative_design": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Open-engineering": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Open_engineering": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Open_design": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Open-source_design": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Open_machine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/AguaClara": {
+        "http://dbpedia.org/property/method": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Open_Design": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Open_source_design": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Uzebox": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Open-source_engineering": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Open_source_engineering": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Open-design": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Open_design"
+            }
+        ]
+    }
+}

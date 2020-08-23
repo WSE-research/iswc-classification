@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the Indian census area code of Himachal Pradesh?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Census_of_India",
+            "@support": "1335",
+            "@types": "",
+            "@surfaceForm": "Indian census",
+            "@offset": "13",
+            "@similarityScore": "0.8112511416533339",
+            "@percentageOfSecondRank": "0.23266390432169487"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Telephone_numbering_plan",
+            "@support": "2576",
+            "@types": "",
+            "@surfaceForm": "area code",
+            "@offset": "27",
+            "@similarityScore": "0.9973533344008685",
+            "@percentageOfSecondRank": "0.0025560009254070714"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Himachal_Pradesh",
+            "@support": "4437",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Himachal Pradesh",
+            "@offset": "40",
+            "@similarityScore": "0.9968991244158376",
+            "@percentageOfSecondRank": "0.003094791124362571"
+        }
+    ]
+}

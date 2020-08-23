@@ -1,0 +1,28 @@
+{
+    "@text": "What is the name of Napoleon horse?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Napoleon",
+            "@support": "21061",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Napoleon",
+            "@offset": "20",
+            "@similarityScore": "0.9999981298273051",
+            "@percentageOfSecondRank": "6.770542125711434E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Horse",
+            "@support": "12987",
+            "@types": "Wikidata:Q7377,Wikidata:Q729,Wikidata:Q19088,DBpedia:Species,DBpedia:Mammal,DBpedia:Eukaryote,DBpedia:Animal",
+            "@surfaceForm": "horse",
+            "@offset": "29",
+            "@similarityScore": "0.997753530386784",
+            "@percentageOfSecondRank": "0.0013085435748232401"
+        }
+    ]
+}

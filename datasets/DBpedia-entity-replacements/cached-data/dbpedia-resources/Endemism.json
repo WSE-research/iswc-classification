@@ -1,0 +1,506 @@
+{
+    "http://dbpedia.org/resource/Holocene_extinction": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Endemism_in_birds": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Endemism": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/PopulatedPlace"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Endemismo",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u56fa\u6709\u7a2e",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Endemismo",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Endemism",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u042d\u043d\u0434\u0435\u043c\u0438\u043a",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Endemit",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Endemismo",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u7279\u6709\u7a2e",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u062a\u0648\u0637\u0646",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "End\u00e9misme",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Endemie (biogeografie)",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Endemit",
+                "lang": "de"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Endemism is the ecological state of a species being unique to a defined geographic location, such as an island, nation, country or other defined zone, or habitat type; organisms that are indigenous to a place are not endemic to it if they are also found elsewhere. The extreme opposite of endemism is cosmopolitan distribution. An alternative term for a species that is endemic is precinctive, which applies to species (and subspecific categories) that are restricted to a defined geographical area.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Als Endemiten (von altgriechisch \u1f14\u03bd\u03b4\u03b7\u03bc\u03bf\u03c2 \u00e9nd\u0113mos \u201aeinheimisch\u2018; ungenau oft auch Endemismen im Plural) werden in der Biologie Pflanzen oder Tiere bezeichnet, die nur in einer bestimmten, r\u00e4umlich klar abgegrenzten Umgebung vorkommen. Diese sind in diesem Gebiet endemisch. Dabei kann es sich um Arten, Gattungen oder Familien von Lebewesen handeln, die ausschlie\u00dflich auf bestimmten Inseln oder Inselgruppen, Gebirgen, in einzelnen T\u00e4lern oder Gew\u00e4ssersystemen heimisch sind. Beispiel: Die Darwinfinken sind auf den Galapagosinseln endemisch, da sie weltweit nirgendwo sonst vorkommen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u7279\u6709\u7a2e\uff08endemic species\uff0c\u6307\u7279\u6709\u6027\u4e4b\u73fe\u8c61\u6216\u6027\u8cea\uff0c\u82f1\u6587\u70baendemism\uff09\u662f\u6307\u300c\u56e0\u6b77\u53f2\u3001\u751f\u614b\u6216\u751f\u7406\u56e0\u7d20\u7b49\u539f\u56e0\uff0c\u9020\u6210\u5176\u5206\u5e03\u50c5\u4fb7\u9650\u65bc\u67d0\u4e00\u7279\u5b9a\u7684\u5730\u7406\u5340\u57df\u6216\u5927\u9678\uff0c\u800c\u672a\u5728\u5176\u4ed6\u5730\u65b9\u4e2d\u51fa\u73fe\u300d\u7684\u7269\u7a2e\u3002\u6709\u4e9b\u7279\u6709\u7a2e\u539f\u4f86\u5c31\u8d77\u6e90\u65bc\u8a72\u5730\u5340\uff0c\u9019\u4e9b\u7269\u7a2e\u56e0\u6b64\u53c8\u53ef\u4ee5\u7a31\u70ba\u8a72\u5730\u5340\u7684\u56fa\u6709\u7a2e\u6216\u571f\u8457\u7a2e\uff0c\u6bd4\u5982\u8aaa\u7121\u5c3e\u718a\u548c\u7d05\u888b\u9f20\uff0c\u90fd\u50c5\u7522\u65bc\u6fb3\u6d32\uff0c\u800c\u672a\u5728\u4e16\u754c\u4e0a\u7684\u5176\u4ed6\u5730\u65b9\u767c\u73fe\u904e\uff0c\u56e0\u6b64\u5169\u8005\u90fd\u662f\u6fb3\u6d32\u7684\u56fa\u6709\u7a2e\u52d5\u7269\u3002\u6709\u4e9b\u5247\u662f\u5f9e\u5176\u4ed6\u5730\u5340\u9077\u4f86\u7684\uff0c\u6bd4\u5982\u8aaa\u5357\u7f8e\u6d32\u7684\u99f1\u99ac\uff08Lama guanicoe\uff09\uff0c\u6839\u64da\u53e4\u751f\u7269\u5b78\u7684\u8cc7\u6599\uff0c\u5b83\u539f\u767c\u751f\u65bc\u5317\u7f8e\u6d32\uff0c\u662f\u5317\u7f8e\u6d32\u7684\u56fa\u6709\u7a2e\uff0c\u5f8c\u4f86\u537b\u5728\u539f\u7522\u5730\u7d55\u6ec5\u4e86\uff0c\u73fe\u5728\u7684\u99dd\u99ac\u53ea\u5206\u5e03\u5728\u5357\u7f8e\u6d32\uff0c\u6210\u70ba\u8a72\u6d32\u7684\u7279\u6709\u7a2e\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Endemie of endemisme is het verschijnsel dat een organisme (of liever taxon) van nature uitsluitend voorkomt in \u00e9\u00e9n afgegrensd geografisch gebied, zoals eilanden in de oceaan, ge\u00efsoleerde bergen, meren en riviersystemen. Indien een soort enkel daar voorkomt, spreekt men van een endeem of van endemische soort. Endemisme is een biogeografisch begrip: het gaat om de geografische verspreidingsgebieden (areaal) van taxa. Kosmopolieten zijn daarentegen soorten die verspreid zijn over een groot deel van de wereld; ze hebben een kosmopolitische verspreiding.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062a\u0648\u0637\u0646 \u0647\u0648 \u0627\u0644\u062a\u0648\u0627\u062c\u062f \u0627\u0644\u0637\u0628\u064a\u0639\u064a \u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0628\u064a\u0648\u0644\u0648\u062c\u064a\u0629 (\u062d\u064a\u0648\u0627\u0646\u064a\u0629 \u0627\u0648 \u0646\u0628\u0627\u062a\u064a\u0629) \u0628\u0635\u0641\u0629 \u062d\u0635\u0631\u064a\u0629 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u062c\u063a\u0631\u0627\u0641\u064a\u0629 \u0645\u062d\u062f\u062f\u0629 . \u0627\u0644\u062a\u0648\u0637\u0646 \u0644\u0645\u0643\u0627\u0646 \u0623\u0648 \u0645\u0646\u0637\u0642\u0629 \u064a\u0639\u0646\u064a \u0623\u0646\u0647 \u064a\u0648\u062c\u062f \u0641\u0642\u0637 \u0641\u064a \u0630\u0644\u0643 \u0627\u0644\u0645\u0643\u0627\u0646 \u0645\u0646 \u0627\u0644\u0639\u0627\u0644\u0645 \u0648\u0644\u064a\u0633 \u0641\u064a \u0623\u064a \u0645\u0643\u0627\u0646 \u0622\u062e\u0631. \u0645\u062b\u0644\u0627\u060c \u0641\u0635\u0627\u0626\u0644 \u0639\u062f\u064a\u062f\u0629 \u0645\u0646 \u0627\u0644\u0644\u064a\u0645\u0648\u0631 \u0645\u062a\u0648\u0637\u0646\u0629 \u0641\u064a \u062c\u0632\u064a\u0631\u0629 \u0645\u062f\u063a\u0634\u0642\u0631. \u0639\u0648\u0627\u0645\u0644 \u0628\u062f\u0646\u064a\u0629\u060c \u0645\u0646\u0627\u062e\u064a\u0629 \u0648\u062d\u064a\u0648\u064a\u0629 \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u0633\u0627\u0647\u0645 \u0641\u064a \u0627\u0644\u062a\u0648\u0637\u0646. \u0645\u062b\u0644\u0627\u060c \u0637\u0627\u0626\u0631 \u062a\u0645\u064a\u0631 \u0628\u0631\u062a\u0642\u0627\u0644\u064a \u0627\u0644\u0635\u062f\u0631 \u0645\u062a\u0648\u0637\u0646 \u0644\u0644\u0641\u0646\u0628\u0648\u0633\u060c \u0623\u064a \u0623\u0646\u0647 \u064a\u0648\u062c\u062f \u0641\u0642\u0637 \u0641\u064a \u0646\u0648\u0639 \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0646\u0628\u0627\u062a\u064a\u0629 \u0644\u0644\u0641\u0646\u0628\u0648\u0633 \u0641\u064a \u062c\u0646\u0648\u0628 \u063a\u0631\u0628 \u062c\u0646\u0648\u0628 \u0623\u0641\u0631\u064a\u0642\u064a\u0627. \u0646\u0638\u0631\u064a\u0629 \u0623\u062e\u0631\u0649\u060c \u0625\u0646\u0647 \u062a\u0648\u0632\u064a\u0639 \u0643\u0648\u0646\u064a.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u042d\u043d\u0434\u0435\u0301\u043c\u0438\u043a\u0438, \u0438\u043b\u0438 \u044d\u043d\u0434\u0435\u0301\u043c\u044b (\u043e\u0442 \u0433\u0440\u0435\u0447. \u1f14\u03bd\u03b4\u03b7\u03bc\u03bf\u03c2 \u2014 \u043c\u0435\u0441\u0442\u043d\u044b\u0439) \u2014 \u0432\u0438\u0434\u044b, \u0440\u043e\u0434\u044b, \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0442\u0430\u043a\u0441\u043e\u043d\u044b \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u0438 \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0439, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043e\u0431\u0438\u0442\u0430\u044e\u0442 \u043d\u0430 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u043c \u0430\u0440\u0435\u0430\u043b\u0435, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u044b \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0433\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u044c\u044e. \u042d\u043d\u0434\u0435\u043c\u0438\u0447\u043d\u044b\u0435 \u0432\u0438\u0434\u044b \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0439 \u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u044b\u043c \u0430\u0440\u0435\u0430\u043b\u043e\u043c \u0438, \u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e, \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0439 \u0447\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c\u044e, \u0447\u0430\u0441\u0442\u043e \u0437\u0430\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u0432 \u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438 \u043a\u0430\u043a \u0440\u0435\u0434\u043a\u0438\u0435 \u0438\u043b\u0438 \u0438\u0441\u0447\u0435\u0437\u0430\u044e\u0449\u0438\u0435 \u0432\u0438\u0434\u044b.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Endemit \u2013 takson (najcz\u0119\u015bciej gatunek) rzadko spotykany, unikatowy dla danego miejsca albo regionu, wyst\u0119puj\u0105cy na ograniczonym obszarze, nigdzie indziej niewyst\u0119puj\u0105cy naturalnie. Obszar wyst\u0119powania endemit\u00f3w mo\u017ce stanowi\u0107 ich dawny area\u0142 \u017cyciowy (refugium) pozosta\u0142y po minionym okresie geologicznym. Przyczyn\u0105 endemizmu mo\u017ce by\u0107 r\u00f3wnie\u017c bariera przestrzenna, np. na izolowanych wyspach, w jaskiniach, gdzie z powodu geograficznej izolacji, czyli braku kontaktu ze swoim gatunkiem (paleoendemity), wraz z nowymi warunkami \u017cycia przez dostatecznie d\u0142ugi okres wyewoluowa\u0142y formy zupe\u0142nie r\u00f3\u017cne od gatunk\u00f3w nieodizolowanych (neoendemity).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Endemismo es un t\u00e9rmino utilizado en biolog\u00eda para indicar que la distribuci\u00f3n de un tax\u00f3n est\u00e1 limitada a un \u00e1mbito geogr\u00e1fico reducido y que no se encuentra de forma natural en ninguna otra parte del mundo. Por ello, cuando se indica que una especie es end\u00e9mica de cierta regi\u00f3n, significa que solo es posible encontrarla de forma natural en ese lugar.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "L'end\u00e9misme caract\u00e9rise la pr\u00e9sence naturelle d'un groupe biologique exclusivement dans une r\u00e9gion g\u00e9ographique d\u00e9limit\u00e9e. Ce concept, utilis\u00e9 en biog\u00e9ographie, peut s'appliquer aux esp\u00e8ces comme aux autres taxons et peut concerner toutes sortes d'\u00eatres vivants : animaux, v\u00e9g\u00e9taux ou autres. Les esp\u00e8ces end\u00e9miques d'une aire g\u00e9ographique forment un sous-ensemble des esp\u00e8ces pr\u00e9sentes naturellement sans que l'homme en soit la cause, appel\u00e9es esp\u00e8ces indig\u00e8nes. Mais de nombreuses esp\u00e8ces indig\u00e8nes peuvent ne pas \u00eatre end\u00e9miques si elles existent naturellement dans d'autres r\u00e9gions de la plan\u00e8te.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Em biologia, bot\u00e2nica e zoologia chamam-se endemismos (do grego endemos, ou seja, ind\u00edgena) grupos taxon\u00f3micos que se desenvolveram numa regi\u00e3o restrita. Em geral o endemismo \u00e9 resultado da separa\u00e7\u00e3o de esp\u00e9cies, que passam a se reproduzir em regi\u00f5es diferentes, dando origem a esp\u00e9cies com formas diferentes de evolu\u00e7\u00e3o. O endemismo \u00e9 causado por mecanismos de isolamento, alagamentos, movimenta\u00e7\u00e3o de placas tect\u00f4nicas. Por exemplo, devido \u00e0 deriva continental, as esp\u00e9cies de Madag\u00e1scar ou da Austr\u00e1lia s\u00e3o exemplos flagrantes de endemismos.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u56fa\u6709\u7a2e\uff08\u3053\u3086\u3046\u3057\u3085\uff09\u3068\u306f\u3001\u305d\u306e\u56fd\u3001\u3042\u308b\u3044\u306f\u305d\u306e\u5730\u57df\u306b\u3057\u304b\u751f\u606f\u30fb\u751f\u80b2\u30fb\u7e41\u6b96\u3057\u306a\u3044\u751f\u7269\u5b66\u4e0a\u306e\u7a2e\u3002\u7279\u7523\u7a2e\u3068\u3082\u8a00\u3046\u3002\u5927\u9678\u306a\u3069\u304b\u3089\u9694\u7d76\u3055\u308c\u3066\u3044\u308b\u5cf6\u5dbc\u306a\u3069\u3067\u591a\u304f\u898b\u3089\u308c\u308b\u3002\u5730\u57df\u500b\u4f53\u7fa4\u306e\u7d76\u6ec5\u304c\u3001\u5373\u5ea7\u306b\u7a2e\u305d\u306e\u3082\u306e\u306e\u7d76\u6ec5\u306b\u3064\u306a\u304c\u308b\u306e\u3067\u3001\u4fdd\u8b77\u5bfe\u8c61\u3068\u3057\u3066\u91cd\u8981\u3067\u3042\u308b\u3002 \u65e5\u672c\u306b\u3057\u304b\u5206\u5e03\u3057\u306a\u3044\u52d5\u690d\u7269\u306e\u7a2e\u306f\u3001\u65e5\u672c\u56fa\u6709\u7a2e\u3068\u3044\u3046\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "L'endemismo \u00e8 il fenomeno per cui alcune specie animali o vegetali sono esclusive di un dato territorio. Anche se, tecnicamente, il termine endemismo si pu\u00f2 applicare anche a territori vastissimi, come interi continenti (per esempio gli armadilli sono endemici dell'America), risultano interessanti gli endemismi relativi ad areali molto ristretti come quelli insulari, a volte estesi solo per qualche chilometro quadrato.",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03rqj8"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0395\u03bd\u03b4\u03b7\u03bc\u03b9\u03c3\u03bc\u03cc\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Endemit"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Endemisme"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u56fa\u6709\u7a2e"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Endemie_(biogeografie)"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/End\u00e9misme"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Endemismo"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uace0\uc720\uc885"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q123452"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Endemismo"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Endemit"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Endemit"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Endemismo"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q123452"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Endemismo"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Biology_terminology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Endemism"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Habitat"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Biodiversity"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Orange-breasted_Sunbird_(Nectarinia_violacea).jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Endemism"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Endemism?oldid=740571494"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.macroecology.ca/pdf/consbiol1997.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www-museum.unl.edu/research/entomology/BiogeographyWS/Morrone1994.pdf"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Endemism is the ecological state of a species being unique to a defined geographic location, such as an island, nation, country or other defined zone, or habitat type; organisms that are indigenous to a place are not endemic to it if they are also found elsewhere. The extreme opposite of endemism is cosmopolitan distribution. An alternative term for a species that is endemic is precinctive, which applies to species (and subspecific categories) that are restricted to a defined geographical area. The word endemic is from New Latin end\u0113micus, from Greek \u03b5\u03bd\u03b4\u03ae\u03bc\u03bf\u03c2, end\u0113mos, \"native.\" End\u0113mos is formed of en meaning \"in,\" and d\u0113mos meaning \"the people.\" The term, precinctive, has been suggested by some scientists, and was first used in botany by MacCaughey in 1917. It is the equivalent of \"endemism\". Precinction was perhaps first used by Frank and McCoy. Precinctive seems to have been coined by David Sharp of the Hawaiian fauna in 1900: \"I use the word precinctive in the sense of 'confined to the area under discussion' \u2026 'precinctive forms' means those forms that are confined to the area specified.\" That definition excludes artificial confinement of examples by humans in far-off botanical gardens or zoological parks.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "L'endemismo \u00e8 il fenomeno per cui alcune specie animali o vegetali sono esclusive di un dato territorio. Anche se, tecnicamente, il termine endemismo si pu\u00f2 applicare anche a territori vastissimi, come interi continenti (per esempio gli armadilli sono endemici dell'America), risultano interessanti gli endemismi relativi ad areali molto ristretti come quelli insulari, a volte estesi solo per qualche chilometro quadrato.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "L'end\u00e9misme caract\u00e9rise la pr\u00e9sence naturelle d'un groupe biologique exclusivement dans une r\u00e9gion g\u00e9ographique d\u00e9limit\u00e9e. Ce concept, utilis\u00e9 en biog\u00e9ographie, peut s'appliquer aux esp\u00e8ces comme aux autres taxons et peut concerner toutes sortes d'\u00eatres vivants : animaux, v\u00e9g\u00e9taux ou autres. Une esp\u00e8ce end\u00e9mique (ou un taxon end\u00e9mique) est obligatoirement par rapport \u00e0 un territoire nomm\u00e9  : le koala est end\u00e9mique de l'Australie, le cypr\u00e8s de Lambert est un arbre end\u00e9mique de la Californie (m\u00eame s'il a ensuite \u00e9t\u00e9 plant\u00e9 dans le monde entier), l'arganier est un arbre end\u00e9mique du Maroc et d'une partie de l'Alg\u00e9rie. Les esp\u00e8ces end\u00e9miques d'une aire g\u00e9ographique forment un sous-ensemble des esp\u00e8ces pr\u00e9sentes naturellement sans que l'homme en soit la cause, appel\u00e9es esp\u00e8ces indig\u00e8nes. Mais de nombreuses esp\u00e8ces indig\u00e8nes peuvent ne pas \u00eatre end\u00e9miques si elles existent naturellement dans d'autres r\u00e9gions de la plan\u00e8te. Le taux d\u2019end\u00e9misme est l'un des indicateurs et \u00e9l\u00e9ments d'appr\u00e9ciation de la biodiversit\u00e9 ; par exemple, pour l'Europe, quatre esp\u00e8ces end\u00e9miques europ\u00e9ennes sur cinq vivent dans la seule zone m\u00e9diterran\u00e9enne, aire biog\u00e9ographique o\u00f9 plus de 50 % des 25 000 esp\u00e8ces de phan\u00e9rogames et de cryptogames vasculaires vivent (chiffre \u00e0 comparer aux 15 000 esp\u00e8ces de la flore sup\u00e9rieure d'Australie, qui vivent sur une aire trois fois plus vaste). C'est pourquoi la M\u00e9diterran\u00e9e et ses abords sont consid\u00e9r\u00e9s comme l'un des \u00ab hotspots \u00bb plan\u00e9taires pour la biodiversit\u00e9.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Endemismo es un t\u00e9rmino utilizado en biolog\u00eda para indicar que la distribuci\u00f3n de un tax\u00f3n est\u00e1 limitada a un \u00e1mbito geogr\u00e1fico reducido y que no se encuentra de forma natural en ninguna otra parte del mundo. Por ello, cuando se indica que una especie es end\u00e9mica de cierta regi\u00f3n, significa que solo es posible encontrarla de forma natural en ese lugar. El endemismo puede considerarse dentro de un abanico muy amplio de escalas geogr\u00e1ficas. As\u00ed, un organismo puede ser end\u00e9mico de una cima monta\u00f1osa o un lago, de una cordillera o un sistema fluvial, de una isla, de un pa\u00eds o incluso de un continente. Normalmente el concepto se aplica a especies, pero tambi\u00e9n puede usarse para otros taxones como subespecies, variedades, g\u00e9neros, familias,... etc. Un tax\u00f3n se considera end\u00e9mico cuando es exclusivo de una zona concreta. Generalmente, la palabra endemismo debe ir acompa\u00f1ada de otra informaci\u00f3n que especifique de d\u00f3nde es exclusivo. Por ejemplo, el Pinz\u00f3n azul del Teide, decimos que es un endemismo tinerfe\u00f1o, porque es exclusivo de la isla de Tenerife.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Em biologia, bot\u00e2nica e zoologia chamam-se endemismos (do grego endemos, ou seja, ind\u00edgena) grupos taxon\u00f3micos que se desenvolveram numa regi\u00e3o restrita. Em geral o endemismo \u00e9 resultado da separa\u00e7\u00e3o de esp\u00e9cies, que passam a se reproduzir em regi\u00f5es diferentes, dando origem a esp\u00e9cies com formas diferentes de evolu\u00e7\u00e3o. O endemismo \u00e9 causado por mecanismos de isolamento, alagamentos, movimenta\u00e7\u00e3o de placas tect\u00f4nicas. Por exemplo, devido \u00e0 deriva continental, as esp\u00e9cies de Madag\u00e1scar ou da Austr\u00e1lia s\u00e3o exemplos flagrantes de endemismos. A ocorr\u00eancia de endemismos depende por isso da mobilidade dos organismos. As plantas e peixes de \u00e1gua doce s\u00e3o os mais afetados por processos end\u00e9micos, visto que a mobilidade \u00e9 feita de forma mais restrita do que as aves ou mam\u00edferos. Algumas doen\u00e7as e pragas, ao serem pr\u00f3prias de determinadas regi\u00f5es, por decorrerem de factores ecol\u00f3gicos espec\u00edficos dessas regi\u00f5es, s\u00e3o tamb\u00e9m end\u00e9micas. Podemos classificar os endemismos, principalmente na \u00e1rea da bot\u00e2nica, quanto \u00e0 sua origem, em: endemismos aut\u00f3ctones, endemismos paleog\u00e9nicos (ou rel\u00edquias) e endemismos neog\u00e9nicos. A Mata Atl\u00e2ntica \u00e9 um dos biomas mais ricos em plantas end\u00eamicas do mundo.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u56fa\u6709\u7a2e\uff08\u3053\u3086\u3046\u3057\u3085\uff09\u3068\u306f\u3001\u305d\u306e\u56fd\u3001\u3042\u308b\u3044\u306f\u305d\u306e\u5730\u57df\u306b\u3057\u304b\u751f\u606f\u30fb\u751f\u80b2\u30fb\u7e41\u6b96\u3057\u306a\u3044\u751f\u7269\u5b66\u4e0a\u306e\u7a2e\u3002\u7279\u7523\u7a2e\u3068\u3082\u8a00\u3046\u3002\u5927\u9678\u306a\u3069\u304b\u3089\u9694\u7d76\u3055\u308c\u3066\u3044\u308b\u5cf6\u5dbc\u306a\u3069\u3067\u591a\u304f\u898b\u3089\u308c\u308b\u3002\u5730\u57df\u500b\u4f53\u7fa4\u306e\u7d76\u6ec5\u304c\u3001\u5373\u5ea7\u306b\u7a2e\u305d\u306e\u3082\u306e\u306e\u7d76\u6ec5\u306b\u3064\u306a\u304c\u308b\u306e\u3067\u3001\u4fdd\u8b77\u5bfe\u8c61\u3068\u3057\u3066\u91cd\u8981\u3067\u3042\u308b\u3002 \u65e5\u672c\u306b\u3057\u304b\u5206\u5e03\u3057\u306a\u3044\u52d5\u690d\u7269\u306e\u7a2e\u306f\u3001\u65e5\u672c\u56fa\u6709\u7a2e\u3068\u3044\u3046\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u7279\u6709\u7a2e\uff08endemic species\uff0c\u6307\u7279\u6709\u6027\u4e4b\u73fe\u8c61\u6216\u6027\u8cea\uff0c\u82f1\u6587\u70baendemism\uff09\u662f\u6307\u300c\u56e0\u6b77\u53f2\u3001\u751f\u614b\u6216\u751f\u7406\u56e0\u7d20\u7b49\u539f\u56e0\uff0c\u9020\u6210\u5176\u5206\u5e03\u50c5\u4fb7\u9650\u65bc\u67d0\u4e00\u7279\u5b9a\u7684\u5730\u7406\u5340\u57df\u6216\u5927\u9678\uff0c\u800c\u672a\u5728\u5176\u4ed6\u5730\u65b9\u4e2d\u51fa\u73fe\u300d\u7684\u7269\u7a2e\u3002\u6709\u4e9b\u7279\u6709\u7a2e\u539f\u4f86\u5c31\u8d77\u6e90\u65bc\u8a72\u5730\u5340\uff0c\u9019\u4e9b\u7269\u7a2e\u56e0\u6b64\u53c8\u53ef\u4ee5\u7a31\u70ba\u8a72\u5730\u5340\u7684\u56fa\u6709\u7a2e\u6216\u571f\u8457\u7a2e\uff0c\u6bd4\u5982\u8aaa\u7121\u5c3e\u718a\u548c\u7d05\u888b\u9f20\uff0c\u90fd\u50c5\u7522\u65bc\u6fb3\u6d32\uff0c\u800c\u672a\u5728\u4e16\u754c\u4e0a\u7684\u5176\u4ed6\u5730\u65b9\u767c\u73fe\u904e\uff0c\u56e0\u6b64\u5169\u8005\u90fd\u662f\u6fb3\u6d32\u7684\u56fa\u6709\u7a2e\u52d5\u7269\u3002\u6709\u4e9b\u5247\u662f\u5f9e\u5176\u4ed6\u5730\u5340\u9077\u4f86\u7684\uff0c\u6bd4\u5982\u8aaa\u5357\u7f8e\u6d32\u7684\u99f1\u99ac\uff08Lama guanicoe\uff09\uff0c\u6839\u64da\u53e4\u751f\u7269\u5b78\u7684\u8cc7\u6599\uff0c\u5b83\u539f\u767c\u751f\u65bc\u5317\u7f8e\u6d32\uff0c\u662f\u5317\u7f8e\u6d32\u7684\u56fa\u6709\u7a2e\uff0c\u5f8c\u4f86\u537b\u5728\u539f\u7522\u5730\u7d55\u6ec5\u4e86\uff0c\u73fe\u5728\u7684\u99dd\u99ac\u53ea\u5206\u5e03\u5728\u5357\u7f8e\u6d32\uff0c\u6210\u70ba\u8a72\u6d32\u7684\u7279\u6709\u7a2e\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062a\u0648\u0637\u0646 \u0647\u0648 \u0627\u0644\u062a\u0648\u0627\u062c\u062f \u0627\u0644\u0637\u0628\u064a\u0639\u064a \u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0628\u064a\u0648\u0644\u0648\u062c\u064a\u0629 (\u062d\u064a\u0648\u0627\u0646\u064a\u0629 \u0627\u0648 \u0646\u0628\u0627\u062a\u064a\u0629) \u0628\u0635\u0641\u0629 \u062d\u0635\u0631\u064a\u0629 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u062c\u063a\u0631\u0627\u0641\u064a\u0629 \u0645\u062d\u062f\u062f\u0629 . \u0627\u0644\u062a\u0648\u0637\u0646 \u0644\u0645\u0643\u0627\u0646 \u0623\u0648 \u0645\u0646\u0637\u0642\u0629 \u064a\u0639\u0646\u064a \u0623\u0646\u0647 \u064a\u0648\u062c\u062f \u0641\u0642\u0637 \u0641\u064a \u0630\u0644\u0643 \u0627\u0644\u0645\u0643\u0627\u0646 \u0645\u0646 \u0627\u0644\u0639\u0627\u0644\u0645 \u0648\u0644\u064a\u0633 \u0641\u064a \u0623\u064a \u0645\u0643\u0627\u0646 \u0622\u062e\u0631. \u0645\u062b\u0644\u0627\u060c \u0641\u0635\u0627\u0626\u0644 \u0639\u062f\u064a\u062f\u0629 \u0645\u0646 \u0627\u0644\u0644\u064a\u0645\u0648\u0631 \u0645\u062a\u0648\u0637\u0646\u0629 \u0641\u064a \u062c\u0632\u064a\u0631\u0629 \u0645\u062f\u063a\u0634\u0642\u0631. \u0639\u0648\u0627\u0645\u0644 \u0628\u062f\u0646\u064a\u0629\u060c \u0645\u0646\u0627\u062e\u064a\u0629 \u0648\u062d\u064a\u0648\u064a\u0629 \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u0633\u0627\u0647\u0645 \u0641\u064a \u0627\u0644\u062a\u0648\u0637\u0646. \u0645\u062b\u0644\u0627\u060c \u0637\u0627\u0626\u0631 \u062a\u0645\u064a\u0631 \u0628\u0631\u062a\u0642\u0627\u0644\u064a \u0627\u0644\u0635\u062f\u0631 \u0645\u062a\u0648\u0637\u0646 \u0644\u0644\u0641\u0646\u0628\u0648\u0633\u060c \u0623\u064a \u0623\u0646\u0647 \u064a\u0648\u062c\u062f \u0641\u0642\u0637 \u0641\u064a \u0646\u0648\u0639 \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0646\u0628\u0627\u062a\u064a\u0629 \u0644\u0644\u0641\u0646\u0628\u0648\u0633 \u0641\u064a \u062c\u0646\u0648\u0628 \u063a\u0631\u0628 \u062c\u0646\u0648\u0628 \u0623\u0641\u0631\u064a\u0642\u064a\u0627. \u0647\u0646\u0627\u0643 \u0641\u0626\u062a\u0627\u0646 \u0645\u062a\u0641\u0631\u0639\u062a\u0627\u0646 \u0645\u0646 \u0627\u0644\u062a\u0648\u0637\u0646 \u0647\u0645\u0627 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: paleoendemism) \u0648(\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: neoendemism). \u0627\u0644\u0623\u0648\u0644 - \u0628\u0627\u0644\u0648\u0625\u0646\u062f\u064a\u0645\u064a\u0632\u0645 - \u064a\u0634\u064a\u0631 \u0625\u0644\u0649 \u0623\u0646\u0648\u0627\u0639 \u0643\u0627\u0646\u062a \u0645\u0646\u062a\u0634\u0631\u0629 \u0642\u0628\u0644\u0627 \u0648\u0644\u0643\u0646\u0647\u0627 \u0627\u0644\u0622\u0646 \u0645\u0642\u062a\u0635\u0631\u0629 \u0639\u0644\u0649 \u0645\u0646\u0637\u0642\u0629 \u0635\u063a\u064a\u0631\u0629. \u0623\u0645\u0627 \u0646\u064a\u0648\u0625\u0646\u062f\u064a\u0645\u064a\u0632\u0645 \u064a\u0634\u064a\u0631 \u0625\u0644\u0649 \u0623\u0646\u0648\u0627\u0639 \u0638\u0647\u0631\u062a \u0645\u0624\u062e\u0631\u0627 \u0645\u062b\u0644\u0627 \u0646\u0648\u0639 \u0628\u0639\u062f \u0648\u0623\u0635\u0628\u062d \u0645\u0639\u0632\u0648\u0644 \u062a\u0646\u0627\u0633\u0644\u064a\u0627 \u0623\u0648 \u0622\u062e\u0631 \u0643\u0648\u0646 \u062a\u0647\u062c\u064a\u0646 \u062a\u0627\u0644\u0649 \u0648\u064a\u0635\u0646\u0641 \u0627\u0644\u0622\u0646 \u0643\u0646\u0648\u0639 \u0645\u0646\u0641\u0635\u0644. \u0647\u0630\u0647 \u0639\u0645\u0644\u064a\u0629 \u0634\u0627\u0626\u0639\u0629 \u0641\u064a \u0627\u0644\u0646\u0628\u0627\u062a\u0627\u062a \u062e\u0627\u0635\u0629 \u062a\u0644\u0643 \u0627\u0644\u062a\u064a \u062a\u0638\u0647\u0631 \u062a\u0639\u062f\u062f\u0627\u064b \u0641\u064a \u0627\u0644\u0643\u0631\u0648\u0645\u0648\u0633\u0648\u0645\u0627\u062a. \u0646\u0638\u0631\u064a\u0629 \u0623\u062e\u0631\u0649\u060c \u0625\u0646\u0647 \u062a\u0648\u0632\u064a\u0639 \u0643\u0648\u0646\u064a. \u0627\u0644\u0623\u0646\u0648\u0627\u0639 \u0623\u0648 \u0627\u0644\u0641\u0635\u0627\u0626\u0644 \u0627\u0644\u0645\u062a\u0648\u0637\u0646\u0629 \u0645\u062d\u062a\u0645\u0644 \u062e\u0627\u0635\u0629 \u0623\u0646 \u062a\u062a\u0637\u0648\u0631 \u0639\u0644\u0649 \u0627\u0644\u062c\u0632\u0631 \u0628\u0633\u0628\u0628 \u0627\u0646\u0639\u0632\u0627\u0644\u0647\u0627 \u0627\u0644\u062c\u063a\u0631\u0627\u0641\u064a\u060c \u0648\u0647\u0630\u0627 \u064a\u0634\u0645\u0644 \u0645\u062c\u0645\u0648\u0639\u0627\u062a \u0627\u0644\u062c\u0632\u0631 \u0627\u0644\u0628\u0639\u064a\u062f\u0629 \u0645\u062b\u0644 \u0647\u0627\u0648\u0627\u064a \u0648\u062c\u0632\u0631 \u063a\u0627\u0644\u0627\u0628\u0627\u063a\u0648\u0633 \u0648\u0633\u0642\u0637\u0631\u0649. \u0627\u0644\u062a\u0648\u0637\u0646 \u064a\u0645\u0643\u0646 \u0627\u0646 \u064a\u062d\u062f\u062b \u0623\u064a\u0636\u0627 \u0641\u064a \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0639\u0632\u0648\u0644\u0629 \u062d\u064a\u0648\u064a\u0627 \u0645\u062b\u0644 \u0645\u0631\u062a\u0641\u0639\u0627\u062a \u0623\u062b\u064a\u0648\u0628\u064a\u0627 \u0623\u0648 \u0645\u0633\u0637\u062d\u0627\u062a \u0645\u0627\u0626\u064a\u0629 \u0643\u0628\u064a\u0631\u0629 \u0643\u0628\u062d\u064a\u0631\u0629 \u0628\u0627\u064a\u0643\u0627\u0644. \u0627\u0644\u0645\u062a\u0648\u0637\u0646\u0627\u062a \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u0635\u0628\u062d \u0628\u0633\u0647\u0648\u0644\u0629 \u0645\u0646\u0642\u0631\u0636\u0629 \u0623\u0648 \u0645\u0647\u062f\u062f\u0629 \u0628\u0627\u0644\u0627\u0646\u0642\u0631\u0627\u0636 \u0628\u0633\u0628\u0628 \u0645\u0648\u0637\u0646\u0647\u0627 \u0627\u0644\u0645\u062d\u062f\u062f \u0648\u0627\u0644\u062a\u0639\u0631\u0636 \u0644\u0623\u0641\u0639\u0627\u0644 \u0627\u0644\u0625\u0646\u0633\u0627\u0646\u060c \u0628\u0645\u0627 \u0641\u064a \u0630\u0644\u0643 \u0625\u062f\u062e\u0627\u0644 \u0627\u0644\u0643\u0627\u0626\u0646\u0627\u062a \u0627\u0644\u062c\u062f\u064a\u062f\u0629. \u0643\u0627\u0646 \u0647\u0646\u0627\u0643 \u0645\u0644\u0627\u064a\u064a\u0646 \u0645\u0646 \u0637\u0627\u0626\u0631 \u0646\u0648\u0621 \u0628\u0631\u0645\u0648\u062f\u0627 \u0648\u0634\u062c\u0631 \u0623\u0631\u0632 \u0628\u0631\u0645\u0648\u062f\u0627 - \u0641\u064a \u0627\u0644\u0648\u0627\u0642\u0639 \u0639\u0631\u0639\u0631 - \u0641\u064a \u0628\u0631\u0645\u0648\u062f\u0627 \u0639\u0646\u062f\u0645\u0627 \u0627\u0633\u062a\u0648\u0637\u0646\u062a \u0641\u064a \u0628\u062f\u0627\u064a\u0629 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0633\u0627\u0628\u0639 \u0639\u0634\u0631\u060c \u0641\u064a \u0646\u0647\u0627\u064a\u0629 \u0627\u0644\u0642\u0631\u0646 \u0627\u0639\u062a\u0642\u062f \u0623\u0646 \u0637\u0627\u0626\u0631 \u0627\u0644\u0646\u0648\u0621 \u0625\u0646\u0642\u0631\u0636. \u0634\u062c\u0631 \u0627\u0644\u0623\u0631\u0632 \u062e\u0631\u0628\u0647 \u0642\u0631\u0648\u0646 \u0645\u0646 \u0628\u0646\u0627\u0621 \u0627\u0644\u0633\u0641\u0646 \u0648\u0643\u0627\u062f \u064a\u0646\u0642\u0631\u0636 \u0641\u064a \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0639\u0634\u0631\u064a\u0646 \u0628\u0633\u0628\u0628 \u0625\u062f\u062e\u0627\u0644 \u0637\u0641\u064a\u0644\u064a. \u0648\u0627\u0644\u064a\u0648\u0645 \u0637\u0627\u0626\u0631 \u0627\u0644\u0646\u0648\u0621 \u0648\u0634\u062c\u0631 \u0627\u0644\u0623\u0631\u0632 \u0646\u0627\u062f\u0631\u0627\u0646 \u062c\u062f\u0627\u060c \u0645\u062b\u0644 \u0627\u0644\u0623\u0646\u0648\u0627\u0639 \u0627\u0644\u0623\u062e\u0631\u0649 \u0627\u0644\u0645\u062a\u0648\u0637\u0646\u0629 \u0623\u0648 \u0627\u0644\u0645\u062d\u0644\u064a\u0629 \u0641\u064a \u0628\u0631\u0645\u0648\u062f\u0627. \u0627\u0644\u0643\u0627\u0626\u0646\u0627\u062a \u0627\u0644\u0645\u062a\u0648\u0637\u0646\u0629 \u0644\u064a\u0633\u062a \u0645\u062b\u0644 \u0627\u0644\u0643\u0627\u0626\u0646\u0627\u062a \u0627\u0644\u0623\u0635\u064a\u0644\u0629\u060c \u0641\u0627\u0644\u0643\u0627\u0626\u0646 \u0627\u0644\u0623\u0635\u064a\u0644 \u0641\u064a \u0645\u0643\u0627\u0646 \u064a\u0645\u0643\u0646 \u0623\u0646 \u064a\u0643\u0648\u0646 \u0645\u062d\u0644\u064a\u0627 \u0641\u064a \u0645\u0648\u0627\u0642\u0639 \u0623\u062e\u0631\u0649 \u0623\u064a\u0636\u0627. \u0627\u0644\u0646\u0648\u0639 \u0627\u0644\u062f\u062e\u064a\u0644\u060c \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0623\u064a\u0636\u0627 \u0628\u0627\u0644\u0646\u0648\u0639 \u0627\u0644\u0645\u062c\u0644\u0648\u0628 \u0623\u0648 \u0627\u0644\u0645\u062a\u062c\u0646\u0633 \u0647\u0648 \u0643\u0627\u0626\u0646 \u0644\u064a\u0633 \u0623\u0635\u064a\u0644\u0627 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u0623\u0648 \u0645\u0643\u0627\u0646 \u0645\u0639\u064a\u0646. \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0639\u0644\u0645 \u0627\u0644\u0623\u062d\u064a\u0627\u0621 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0639\u0644\u0645 \u0627\u0644\u0646\u0628\u0627\u062a\u0645\u0634\u0627\u0631\u064a\u0639 \u0634\u0642\u064a\u0642\u0629 \u0641\u064a \u0643\u0648\u0645\u0646\u0632 \u0635\u0648\u0631 \u0648\u0645\u0644\u0641\u0627\u062a \u0639\u0646: [[Commons:Category:|\u062a\u0648\u0637\u0646]]25\u0628\u0643 \u0647\u0630\u0647 \u0628\u0630\u0631\u0629 \u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0645\u0648\u0636\u0648\u0639 \u0645\u062a\u0639\u0644\u0651\u0642 \u0628\u0627\u0644\u0628\u064a\u0626\u0629 \u0628\u062d\u0627\u062c\u0629 \u0644\u0644\u062a\u0648\u0633\u064a\u0639. \u0634\u0627\u0631\u0643 \u0641\u064a \u062a\u062d\u0631\u064a\u0631\u0647\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u042d\u043d\u0434\u0435\u0301\u043c\u0438\u043a\u0438, \u0438\u043b\u0438 \u044d\u043d\u0434\u0435\u0301\u043c\u044b (\u043e\u0442 \u0433\u0440\u0435\u0447. \u1f14\u03bd\u03b4\u03b7\u03bc\u03bf\u03c2 \u2014 \u043c\u0435\u0441\u0442\u043d\u044b\u0439) \u2014 \u0432\u0438\u0434\u044b, \u0440\u043e\u0434\u044b, \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0442\u0430\u043a\u0441\u043e\u043d\u044b \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u0438 \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0439, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043e\u0431\u0438\u0442\u0430\u044e\u0442 \u043d\u0430 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u043c \u0430\u0440\u0435\u0430\u043b\u0435, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u044b \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0433\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u044c\u044e. \u042d\u043d\u0434\u0435\u043c\u0438\u0447\u043d\u044b\u0435 \u0432\u0438\u0434\u044b \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0439 \u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u044b\u043c \u0430\u0440\u0435\u0430\u043b\u043e\u043c \u0438, \u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e, \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0439 \u0447\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c\u044e, \u0447\u0430\u0441\u0442\u043e \u0437\u0430\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u0432 \u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438 \u043a\u0430\u043a \u0440\u0435\u0434\u043a\u0438\u0435 \u0438\u043b\u0438 \u0438\u0441\u0447\u0435\u0437\u0430\u044e\u0449\u0438\u0435 \u0432\u0438\u0434\u044b. \u0422\u0430\u043a\u0430\u044f \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430 \u0442\u0430\u043a\u0441\u043e\u043d\u0430, \u043a\u0430\u043a \u043e\u0431\u0438\u0442\u0430\u043d\u0438\u0435 \u043d\u0430 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u043c \u0430\u0440\u0435\u0430\u043b\u0435, \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u044d\u043d\u0434\u0435\u043c\u0438\u0437\u043c\u043e\u043c. \u042d\u043d\u0434\u0435\u043c\u0438\u0437\u043c\u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043f\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u043e\u0441\u043c\u043e\u043f\u043e\u043b\u0438\u0442\u0438\u0437\u043c. \u0420\u0430\u0437\u0432\u0438\u0442\u0438\u044e \u044d\u043d\u0434\u0435\u043c\u0438\u0437\u043c\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u044e\u0442: \u0433\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0438\u0437\u043e\u043b\u044f\u0446\u0438\u044f; \u043a\u043b\u0438\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0438 \u044d\u0434\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f; \u0431\u0438\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0444\u0430\u043a\u0442\u043e\u0440\u044b (\u043f\u0430\u0440\u0430\u0437\u0438\u0442\u0438\u0437\u043c, \u043a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0446\u0438\u044f \u0438 \u0442. \u043f.). \u0414\u043b\u044f \u0432\u0438\u0434\u0430 (\u0438\u043b\u0438 \u043f\u043e\u0434\u0432\u0438\u0434\u0430) \u044d\u043d\u0434\u0435\u043c\u0438\u0437\u043c \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043a\u0440\u0430\u0439\u043d\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d \u0432\u0435\u0441\u044c\u043c\u0430 \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0435\u0439. \u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0430\u0440\u0435\u0430\u043b \u0432\u0435\u0440\u0431\u0435\u0439\u043d\u0438\u043a\u0430 Lysimachia minoricensis \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0432\u0441\u0435\u0433\u043e \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u043d\u044b\u0445 \u043a\u0438\u043b\u043e\u043c\u0435\u0442\u0440\u043e\u0432 \u043d\u0430 \u043e\u0441\u0442\u0440\u043e\u0432\u0435 \u041c\u0435\u043d\u043e\u0440\u043a\u0430. \u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0431\u043e\u0433\u0430\u0442\u044b \u044d\u043d\u0434\u0435\u043c\u0438\u0447\u043d\u044b\u043c\u0438 \u0444\u043e\u0440\u043c\u0430\u043c\u0438 \u043e\u043a\u0435\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430, \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0433\u043e\u0440\u043d\u044b\u0435 \u0434\u043e\u043b\u0438\u043d\u044b \u0438 \u0432\u043e\u0434\u043e\u0451\u043c\u044b, \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u043e\u0442 \u0434\u0440\u0443\u0433\u0438\u0445 \u0430\u043d\u0430\u043b\u043e\u0433\u0438\u0447\u043d\u044b\u0445 \u043f\u043e \u0431\u0438\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430\u043c \u0432\u043e\u0434\u043e\u0451\u043c\u043e\u0432.\u0412 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u0432\u043e \u0444\u043b\u043e\u0440\u0435 \u043d\u0430 \u043e\u0441\u0442\u0440\u043e\u0432\u0435 \u0421\u0432\u044f\u0442\u043e\u0439 \u0415\u043b\u0435\u043d\u044b \u043e\u043a\u043e\u043b\u043e 85 % \u0432\u0438\u0434\u043e\u0432 \u044d\u043d\u0434\u0435\u043c\u0438\u0447\u043d\u044b, \u0430 \u043d\u0430 \u0413\u0430\u043b\u0430\u043f\u0430\u0433\u043e\u0441\u0441\u043a\u0438\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u0430\u0445 \u2014 \u0434\u043e 97 %. \u0412 \u0444\u0430\u0443\u043d\u0435 \u0438 \u0444\u043b\u043e\u0440\u0435 \u043e\u0437\u0435\u0440\u0430 \u0411\u0430\u0439\u043a\u0430\u043b \u2014 \u0434\u043e 75% \u044d\u043d\u0434\u0435\u043c\u0438\u043a\u043e\u0432.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Endemie of endemisme is het verschijnsel dat een organisme (of liever taxon) van nature uitsluitend voorkomt in \u00e9\u00e9n afgegrensd geografisch gebied, zoals eilanden in de oceaan, ge\u00efsoleerde bergen, meren en riviersystemen. Indien een soort enkel daar voorkomt, spreekt men van een endeem of van endemische soort. Endemisme is een biogeografisch begrip: het gaat om de geografische verspreidingsgebieden (areaal) van taxa. Kosmopolieten zijn daarentegen soorten die verspreid zijn over een groot deel van de wereld; ze hebben een kosmopolitische verspreiding. Endemie is een belangrijk verschijnsel in de biogeografie, omdat het endemisch zijn van een organisme impliceert dat dat organisme \u00f3f in zijn huidige verspreidingsgebied ontstaan is en zich nooit verder heeft verspreid, \u00f3f in zijn huidige verspreidingsgebied ontstaan is, zich ooit verder heeft verspreid maar zich door uitsterven elders weer tot zijn oorsprongsgebied heeft beperkt, \u00f3f elders is ontstaan en op het enige, huidige verspreidingsgebied na uitgestorven is. De term endemisch moet niet verward worden met de term \"inheems\". Inheems in een bepaald gebied houdt slechts in dat de soort van nature \u2013 dat wil zeggen spontaan en zonder menselijke invloed \u2013 voorkomt.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Als Endemiten (von altgriechisch \u1f14\u03bd\u03b4\u03b7\u03bc\u03bf\u03c2 \u00e9nd\u0113mos \u201aeinheimisch\u2018; ungenau oft auch Endemismen im Plural) werden in der Biologie Pflanzen oder Tiere bezeichnet, die nur in einer bestimmten, r\u00e4umlich klar abgegrenzten Umgebung vorkommen. Diese sind in diesem Gebiet endemisch. Dabei kann es sich um Arten, Gattungen oder Familien von Lebewesen handeln, die ausschlie\u00dflich auf bestimmten Inseln oder Inselgruppen, Gebirgen, in einzelnen T\u00e4lern oder Gew\u00e4ssersystemen heimisch sind. Beispiel: Die Darwinfinken sind auf den Galapagosinseln endemisch, da sie weltweit nirgendwo sonst vorkommen. Eine Festlegung, bis zu welcher Fl\u00e4chengr\u00f6\u00dfe dieser Begriff verwendet wird, gibt es nicht. F\u00fcr einen ganzen Kontinent endemische Arten, aber auch h\u00f6here taxonomische Einheiten, finden sich etwa f\u00fcr Amerika (\u201eNeuwelt\u201c-Species) oder Australien. Kontinent\u00fcbergreifende Vorkommen finden sich dann beispielsweise in der Pflanzenfamilie der Bromeliengew\u00e4chse, urspr\u00fcnglich in Amerika, und sonst nur in einer Region Westafrikas.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Endemit \u2013 takson (najcz\u0119\u015bciej gatunek) rzadko spotykany, unikatowy dla danego miejsca albo regionu, wyst\u0119puj\u0105cy na ograniczonym obszarze, nigdzie indziej niewyst\u0119puj\u0105cy naturalnie. Obszar wyst\u0119powania endemit\u00f3w mo\u017ce stanowi\u0107 ich dawny area\u0142 \u017cyciowy (refugium) pozosta\u0142y po minionym okresie geologicznym. Przyczyn\u0105 endemizmu mo\u017ce by\u0107 r\u00f3wnie\u017c bariera przestrzenna, np. na izolowanych wyspach, w jaskiniach, gdzie z powodu geograficznej izolacji, czyli braku kontaktu ze swoim gatunkiem (paleoendemity), wraz z nowymi warunkami \u017cycia przez dostatecznie d\u0142ugi okres wyewoluowa\u0142y formy zupe\u0142nie r\u00f3\u017cne od gatunk\u00f3w nieodizolowanych (neoendemity). Gatunki endemiczne w zasadzie tak s\u0105 przystosowane do swoich warunk\u00f3w \u017cycia, \u017ce nie toleruj\u0105 wi\u0119kszych waha\u0144 \u015brodowiska, a cz\u0119sto wykazuj\u0105 cechy w\u0105skiej specjalizacji (s\u0105 stenobiontami). Gatunki endemiczne cz\u0119sto nale\u017c\u0105 do gatunk\u00f3w zagro\u017conych, gdy\u017c s\u0105 bardzo podatne na choroby i wra\u017cliwe na inne zaburzenia (np. kontakt z cz\u0142owiekiem). Mianem endemitu mo\u017cna te\u017c okre\u015bla\u0107 wy\u017csze od gatunku taksony (rodzaj, rodzina), je\u015bli ich wyst\u0119powanie faktycznie ogranicza si\u0119 do konkretnego, stosunkowo niewielkiego obszaru (wyspy, szczytu g\u00f3rskiego czy jeziora, np. 9 rodzaj\u00f3w i 1 rodzina ryb g\u0142owaczowc\u00f3w z jeziora Bajka\u0142 to endemity). Endemitem nazywane s\u0105 te\u017c taksony ni\u017csze ni\u017c gatunek np. Leucoium vernum subsp. carpaticum \u2013 endemit wschodniokarpacki. Przyk\u0142adami fauny endemicznej s\u0105 \u017c\u00f3\u0142wie s\u0142oniowe, a tak\u017ce legwan morski z Galapagos, australijski koala czy rogoz\u0105b australijski, a tak\u017ce hatteria (Nowa Zelandia) i dront dodo (Maskareny).Na obszarze Polski najwi\u0119ksze skupisko gatunk\u00f3w endemicznych wyst\u0119puje na obszarach g\u00f3rskich, szczeg\u00f3lnie w Tatrach (np. skalnica tatrza\u0144ska, chru\u015bcik Allogamus starmachi), znacznie mniej endemicznych takson\u00f3w znajdujemy w Sudetach. Gatunki, kt\u00f3re wyst\u0119puj\u0105 g\u0142\u00f3wnie w okre\u015blonej strefie geograficznej lub okolicy, jednak przekraczaj\u0105 nieco swym zasi\u0119giem ten teren i na niewielkiej liczbie stanowisk wyst\u0119puj\u0105 w bliskich okolicach swojego g\u0142\u00f3wnego obszaru wyst\u0119powania nazywamy subendemitami. Przyk\u0142adem subendemitu we florze Polski jest brzoza ojcowska. Przeciwie\u0144stwem gatunk\u00f3w endemicznych s\u0105 gatunki kosmopolityczne, bardzo szeroko rozpowszechnione.",
+                "lang": "pl"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Orange-breasted_Sunbird_(Nectarinia_violacea).jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 740571494,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 937971,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/State"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bird_endemism": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Island_endemic": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Endemism": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Endemic_(ecology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Endemic_regions": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Precinctivity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Endemism_in_Birds": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hawaii": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hawaiian_Islands": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Glossary_of_botanical_terms": {
+        "http://dbpedia.org/property/content": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Endemic": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shamil_Shetekauri": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Endemics": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Endemid_(ecology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Endemic_species": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Endemite": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Endemic_(biology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Endemism_(ecology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Endemic_fauna": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Endemism"
+            }
+        ]
+    }
+}

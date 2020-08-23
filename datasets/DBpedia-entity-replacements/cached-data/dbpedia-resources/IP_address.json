@@ -1,0 +1,956 @@
+{
+    "http://dbpedia.org/resource/IP_Code": {
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_address": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Rule106652242"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Direction106786629"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Protocol106665108"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/RecordLabel"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatNetworkLayerProtocols"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Communication100033020"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatInternetProtocols"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Message106598915"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Signal106791372"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Symbol106806469"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatIdentifiers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Identifier107270601"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Adres IP",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Direcci\u00f3n IP",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "IP\u30a2\u30c9\u30ec\u30b9",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "IP\u5730\u5740",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "IP-\u0430\u0434\u0440\u0435\u0441",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "IP-adres",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Endere\u00e7o IP",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "IP-Adresse",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "IP address",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Indirizzo IP",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0639\u0646\u0648\u0627\u0646 \u0622\u064a \u0628\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Adresse IP",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u7db2\u969b\u7db2\u8def\u5354\u5b9a\u4f4d\u5740\uff08\u82f1\u8bed\uff1aInternet Protocol Address\uff0c\u53c8\u8b6f\u70ba\u7f51\u9645\u534f\u8bae\u5730\u5740\uff09\uff0c\u7e2e\u5beb\u70baIP\u5730\u5740\uff08IP Address\uff09\uff0c\u662f\u5206\u914d\u7d66\u7db2\u8def\u4e0a\u4f7f\u7528\u7db2\u969b\u5354\u8b70\u7684\u88dd\u7f6e\u7684\u6578\u5b57\u6a19\u7c64\u3002\u5e38\u898b\u7684IP\u4f4d\u5740\u5206\u70baIPv4\u8207IPv6\u5169\u5927\u985e\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Endere\u00e7o IP, de forma gen\u00e9rica, \u00e9 uma identifica\u00e7\u00e3o de um dispositivo (computador, impressora, etc) em uma rede local ou p\u00fablica. Cada computador na internet possui um IP (Internet Protocol ou Protocolo de internet) \u00fanico, que \u00e9 o meio em que as m\u00e1quinas usam para se comunicarem na Internet. Para um melhor uso dos endere\u00e7os de equipamentos em rede pelas pessoas, utiliza-se a forma de endere\u00e7os de dom\u00ednio, tal como \"www.wikipedia.org\". Cada endere\u00e7o de dom\u00ednio \u00e9 convertido em um endere\u00e7o IP pelo DNS (Domain Name System). Este processo de convers\u00e3o \u00e9 conhecido como \"resolu\u00e7\u00e3o de nomes\".",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Una direcci\u00f3n IP es un n\u00famero que identifica, de manera l\u00f3gica y jer\u00e1rquica, a una Interfaz en red (elemento de comunicaci\u00f3n/conexi\u00f3n) de un dispositivo (computadora, tableta, port\u00e1til, smartphone) que utilice el protocolo IP (Internet Protocol), que corresponde al nivel de red del modelo TCP/IP. La direcci\u00f3n IP no debe confundirse con la direcci\u00f3n MAC, que es un identificador de 48 bits para identificar de forma \u00fanica la tarjeta de red y no depende del protocolo de conexi\u00f3n utilizado ni de la red.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0639\u0646\u0648\u0627\u0646 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: IP address) \u0647\u0648 \u0627\u0644\u0645\u0639\u0631\u0641 \u0627\u0644\u0631\u0642\u0645\u064a \u0644\u0623\u064a \u062c\u0647\u0627\u0632 (\u062d\u0627\u0633\u0648\u0628\u060c \u0647\u0627\u062a\u0641 \u0645\u062d\u0645\u0648\u0644\u060c \u0622\u0644\u0629 \u0637\u0627\u0628\u0639\u0629\u060c \u0645\u0648\u062c\u0647) \u0645\u0631\u062a\u0628\u0637 \u0628\u0634\u0628\u0643\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a\u064a\u0629 \u062a\u0639\u0645\u0644 \u0628\u062d\u0632\u0645\u0629 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a\u060c \u0633\u0648\u0627\u0621 \u0623\u0643\u0627\u0646\u062a \u0634\u0628\u0643\u0629 \u0645\u062d\u0644\u064a\u0629 \u0623\u0648 \u0634\u0628\u0643\u0629 \u0627\u0644\u0634\u0628\u0643\u0627\u062a \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a. \u064a\u0642\u0627\u0628\u0644 \u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0622\u064a \u0628\u064a \u0645\u062b\u0644\u0627 \u0641\u064a \u0634\u0628\u0643\u0627\u062a \u0627\u0644\u0647\u0627\u062a\u0641 \u0631\u0642\u0645 \u0627\u0644\u0647\u0627\u062a\u0641.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Une adresse IP (avec IP pour Internet Protocol) est un num\u00e9ro d'identification qui est attribu\u00e9 de fa\u00e7on permanente ou provisoire \u00e0 chaque appareil connect\u00e9 \u00e0 un r\u00e9seau informatique utilisant l'Internet Protocol. L'adresse IP est \u00e0 la base du syst\u00e8me d'acheminement (le routage) des messages sur Internet.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Een IP-adres, waarin IP staat voor Internet Protocol, is een adres waarmee een NIC (network interface card of controller), of in het Nederlands 'netwerkkaart', van een host in een netwerk eenduidig geadresseerd kan worden binnen het TCP/IP-model, de standaard van \"het\" internet.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "IP\u30a2\u30c9\u30ec\u30b9\uff08\u30a2\u30a4\u30d4\u30fc\u30a2\u30c9\u30ec\u30b9\u3001\u82f1: Internet Protocol address\uff09\u3068\u306f\u3001IP\u306b\u304a\u3044\u3066\u30d1\u30b1\u30c3\u30c8\u3092\u9001\u53d7\u4fe1\u3059\u308b\u6a5f\u5668\u3092\u5224\u5225\u3059\u308b\u305f\u3081\u306e\u756a\u53f7\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Eine IP-Adresse ist eine Adresse in Computernetzen, die \u2013 wie das Internet \u2013 auf dem Internetprotokoll (IP) basiert. Sie wird Ger\u00e4ten zugewiesen, die an das Netz angebunden sind, und macht die Ger\u00e4te so adressierbar und damit erreichbar. Die IP-Adresse kann einen einzelnen Empf\u00e4nger oder eine Gruppe von Empf\u00e4ngern bezeichnen (Multicast, Broadcast). Umgekehrt k\u00f6nnen einem Computer mehrere IP-Adressen zugeordnet sein.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "IP-\u0430\u0434\u0440\u0435\u0441 (\u02cca\u026a \u02c8pi\u02d0-\u0430\u0434\u0440\u0435\u0441; \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u043b\u043e\u0432\u043e\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043f\u043e\u043b\u0443\u043a\u0430\u043b\u044c\u043a\u043e\u0439 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e IP address, \u0441\u043e\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u0435\u043c (\u0431\u0443\u043a\u0432\u0435\u043d\u043d\u043e\u0439 \u0430\u0431\u0431\u0440\u0435\u0432\u0438\u0430\u0442\u0443\u0440\u043e\u0439) \u043e\u0442 \u0430\u043d\u0433\u043b. Internet Protocol Address \u00ab\u0430\u0434\u0440\u0435\u0441 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430\u00bb) \u2014 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0435\u0442\u0435\u0432\u043e\u0439 \u0430\u0434\u0440\u0435\u0441 \u0443\u0437\u043b\u0430 \u0432 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0439 \u0441\u0435\u0442\u0438, \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u043e\u0439 \u043f\u043e \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0443 IP. \u0412 \u0441\u0435\u0442\u0438 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u0430\u044f \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0430\u0434\u0440\u0435\u0441\u0430; \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u0440\u0430\u0431\u043e\u0442\u044b \u0432 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0435\u0442\u0438 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0430\u0434\u0440\u0435\u0441\u0430 \u0432 \u043f\u0440\u0435\u0434\u0435\u043b\u0430\u0445 \u0441\u0435\u0442\u0438. \u0412 \u0432\u0435\u0440\u0441\u0438\u0438 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430 IPv4 IP-\u0430\u0434\u0440\u0435\u0441 \u0438\u043c\u0435\u0435\u0442 \u0434\u043b\u0438\u043d\u0443 4 \u0431\u0430\u0439\u0442\u0430, \u0430 \u0432 \u0432\u0435\u0440\u0441\u0438\u0438 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430 IPv6 IP-\u0430\u0434\u0440\u0435\u0441 \u0438\u043c\u0435\u0435\u0442 \u0434\u043b\u0438\u043d\u0443 16 \u0431\u0430\u0439\u0442.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Un indirizzo IP (dall'inglese Internet Protocol address) - in informatica e nelle telecomunicazioni - \u00e8 un'etichetta numerica che identifica univocamente un dispositivo detto host collegato a una rete informatica che utilizza l'Internet Protocol come protocollo di rete.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Adres IP (ang. IP address) \u2013 liczba nadawana interfejsowi sieciowemu, grupie interfejs\u00f3w (broadcast, multicast), b\u0105d\u017a ca\u0142ej sieci komputerowej w protokole IP, s\u0142u\u017c\u0105ca identyfikacji element\u00f3w sieci w warstwie trzeciej modelu OSI \u2013 w obr\u0119bie sieci lokalnej oraz poza ni\u0105 (tzw. adres publiczny). W najpopularniejszej wersji czwartej (IPv4) jest zapisywany zwykle w podziale na oktety zapisywane w systemie dziesi\u0119tnym i oddzielane kropkami, rzadziej szesnastkowym b\u0105d\u017a dw\u00f3jkowym (oddzielane dwukropkami b\u0105d\u017a spacjami).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "An Internet Protocol address (IP address) is a numerical label assigned to each device (e.g., computer, printer) participating in a computer network that uses the Internet Protocol for communication. An IP address serves two principal functions: host or network interface identification and location addressing. Its role has been characterized as follows: \"A name indicates what we seek. An address indicates where it is. A route indicates how to get there.\"",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/IP_helbide"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/IP_adresa"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Direcci\u00f3n_IP"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0394\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7_IP"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Adres_IP"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q11135"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/IP-Adresse"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/IP_\uc8fc\uc18c"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Adresse_IP"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03vms"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Alamat_IP"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/IP\u30a2\u30c9\u30ec\u30b9"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q11135"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Indirizzo_IP"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/IP-adres"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Endere\u00e7o_IP"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/IP_address"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:IP_addresses"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Ipv4_address.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/IP_address"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/IP_address?oldid=735318313"
+            }
+        ],
+        "http://dbpedia.org/property/date": [
+            {
+                "type": "literal",
+                "value": "August 2016",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.3com.com/other/pdfs/infra/corpinfo/en_US/501302.pdf"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Adres IP (ang. IP address) \u2013 liczba nadawana interfejsowi sieciowemu, grupie interfejs\u00f3w (broadcast, multicast), b\u0105d\u017a ca\u0142ej sieci komputerowej w protokole IP, s\u0142u\u017c\u0105ca identyfikacji element\u00f3w sieci w warstwie trzeciej modelu OSI \u2013 w obr\u0119bie sieci lokalnej oraz poza ni\u0105 (tzw. adres publiczny). Adres IP nie jest \"numerem rejestracyjnym\" komputera \u2013 nie identyfikuje jednoznacznie fizycznego urz\u0105dzenia \u2013 mo\u017ce si\u0119 dowolnie cz\u0119sto zmienia\u0107 (np. przy ka\u017cdym wej\u015bciu do sieci Internet) jak r\u00f3wnie\u017c kilka urz\u0105dze\u0144 mo\u017ce dzieli\u0107 jeden publiczny adres IP. Ustalenie prawdziwego adresu IP u\u017cytkownika, do kt\u00f3rego nast\u0119powa\u0142a transmisja w danym czasie jest mo\u017cliwe dla systemu/sieci odpornej na przypadki tzw. IP spoofingu (por. man in the middle, zapora sieciowa, ettercap) \u2013 na podstawie historycznych zapis\u00f3w systemowych. W najpopularniejszej wersji czwartej (IPv4) jest zapisywany zwykle w podziale na oktety zapisywane w systemie dziesi\u0119tnym i oddzielane kropkami, rzadziej szesnastkowym b\u0105d\u017a dw\u00f3jkowym (oddzielane dwukropkami b\u0105d\u017a spacjami).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Una direcci\u00f3n IP es un n\u00famero que identifica, de manera l\u00f3gica y jer\u00e1rquica, a una Interfaz en red (elemento de comunicaci\u00f3n/conexi\u00f3n) de un dispositivo (computadora, tableta, port\u00e1til, smartphone) que utilice el protocolo IP (Internet Protocol), que corresponde al nivel de red del modelo TCP/IP. La direcci\u00f3n IP no debe confundirse con la direcci\u00f3n MAC, que es un identificador de 48 bits para identificar de forma \u00fanica la tarjeta de red y no depende del protocolo de conexi\u00f3n utilizado ni de la red. La direcci\u00f3n IP puede cambiar muy a un condorvall menudo por cambios en la red o porque el dispositivo encargado dentro de la red de asignar las direcciones IP decida asignar otra IP (por ejemplo, con el protocolo DHCP). A esta forma de asignaci\u00f3n de direcci\u00f3n IP se denomina tambi\u00e9n direcci\u00f3n IP din\u00e1mica (normalmente abreviado como IP din\u00e1mica). Los sitios de Internet que por su naturaleza necesitan estar permanentemente conectados generalmente tienen una direcci\u00f3n IP fija (com\u00fanmente, IP fija o IP est\u00e1tica). Esta no cambia con el tiempo. Los servidores de correo, DNS, FTP p\u00fablicos y servidores de p\u00e1ginas web necesariamente deben contar con una direcci\u00f3n IP fija o est\u00e1tica, ya que de esta forma se permite su localizaci\u00f3n en la red. Los dispositivos se conectan entre s\u00ed mediante sus respectivas direcciones IP. Sin embargo, para las personas es m\u00e1s f\u00e1cil recordar un nombre de dominio que los n\u00fameros de la direcci\u00f3n IP. Los servidores de nombres de dominio DNS, \"traducen\" el nombre de dominio en una direcci\u00f3n IP. Si la direcci\u00f3n IP din\u00e1mica cambia, es suficiente actualizar la informaci\u00f3n en el servidor DNS. El resto de las personas seguir\u00e1n accediendo al dispositivo por el nombre de dominio.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Een IP-adres, waarin IP staat voor Internet Protocol, is een adres waarmee een NIC (network interface card of controller), of in het Nederlands 'netwerkkaart', van een host in een netwerk eenduidig geadresseerd kan worden binnen het TCP/IP-model, de standaard van \"het\" internet. Elke computer die is aangesloten op het internet of netwerk heeft een nummer waarmee deze zichtbaar is voor alle andere computers op het internet. Men kan dit vergelijken met telefoonnummers. Om het mogelijk te maken dat computers elkaar kunnen vinden en identificeren, hebben deze hun eigen nummer nodig. Deze nummers zijn de IP-adressen. Een IP-adres op internet is meestal gekoppeld aan een bedrijf of instantie. Zo is het te achterhalen waar bewerkingen onder een IP-adres vandaan komen. Bij mensen die vanuit huis werken identificeert het IP-adres hun internetprovider. Bijdragen op het internet zijn hierdoor bijna nooit werkelijk anoniem. De persoon achter een IP-adres is in de meeste gevallen te achterhalen, soms direct, maar soms alleen met medewerking van justitie. Deze vraagt vervolgens bij de betreffende provider op wie dat adres op dat moment gebruikte.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "IP\u30a2\u30c9\u30ec\u30b9\uff08\u30a2\u30a4\u30d4\u30fc\u30a2\u30c9\u30ec\u30b9\u3001\u82f1: Internet Protocol address\uff09\u3068\u306f\u3001IP\u306b\u304a\u3044\u3066\u30d1\u30b1\u30c3\u30c8\u3092\u9001\u53d7\u4fe1\u3059\u308b\u6a5f\u5668\u3092\u5224\u5225\u3059\u308b\u305f\u3081\u306e\u756a\u53f7\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Endere\u00e7o IP, de forma gen\u00e9rica, \u00e9 uma identifica\u00e7\u00e3o de um dispositivo (computador, impressora, etc) em uma rede local ou p\u00fablica. Cada computador na internet possui um IP (Internet Protocol ou Protocolo de internet) \u00fanico, que \u00e9 o meio em que as m\u00e1quinas usam para se comunicarem na Internet. Para um melhor uso dos endere\u00e7os de equipamentos em rede pelas pessoas, utiliza-se a forma de endere\u00e7os de dom\u00ednio, tal como \"www.wikipedia.org\". Cada endere\u00e7o de dom\u00ednio \u00e9 convertido em um endere\u00e7o IP pelo DNS (Domain Name System). Este processo de convers\u00e3o \u00e9 conhecido como \"resolu\u00e7\u00e3o de nomes\".",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u7db2\u969b\u7db2\u8def\u5354\u5b9a\u4f4d\u5740\uff08\u82f1\u8bed\uff1aInternet Protocol Address\uff0c\u53c8\u8b6f\u70ba\u7f51\u9645\u534f\u8bae\u5730\u5740\uff09\uff0c\u7e2e\u5beb\u70baIP\u5730\u5740\uff08IP Address\uff09\uff0c\u662f\u5206\u914d\u7d66\u7db2\u8def\u4e0a\u4f7f\u7528\u7db2\u969b\u5354\u8b70\u7684\u88dd\u7f6e\u7684\u6578\u5b57\u6a19\u7c64\u3002\u5e38\u898b\u7684IP\u4f4d\u5740\u5206\u70baIPv4\u8207IPv6\u5169\u5927\u985e\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Eine IP-Adresse ist eine Adresse in Computernetzen, die \u2013 wie das Internet \u2013 auf dem Internetprotokoll (IP) basiert. Sie wird Ger\u00e4ten zugewiesen, die an das Netz angebunden sind, und macht die Ger\u00e4te so adressierbar und damit erreichbar. Die IP-Adresse kann einen einzelnen Empf\u00e4nger oder eine Gruppe von Empf\u00e4ngern bezeichnen (Multicast, Broadcast). Umgekehrt k\u00f6nnen einem Computer mehrere IP-Adressen zugeordnet sein. Die IP-Adresse wird verwendet, um Daten von ihrem Absender zum vorgesehenen Empf\u00e4nger transportieren zu k\u00f6nnen. \u00c4hnlich der Postanschrift auf einem Briefumschlag werden Datenpakete mit einer IP-Adresse versehen, die den Empf\u00e4nger eindeutig identifiziert. Aufgrund dieser Adresse k\u00f6nnen die \u201ePoststellen\u201c, die Router, entscheiden, in welche Richtung das Paket weitertransportiert werden soll. Im Gegensatz zu Postadressen sind IP-Adressen nicht an einen bestimmten Ort gebunden. Die bekannteste Notation der heute gel\u00e4ufigen IPv4-Adressen besteht aus vier Zahlen, die Werte von 0 bis 255 annehmen k\u00f6nnen und mit einem Punkt getrennt werden, beispielsweise 192.0.2.42. Technisch gesehen ist die Adresse eine 32-stellige (IPv4) oder 128-stellige (IPv6) Bin\u00e4rzahl.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "An Internet Protocol address (IP address) is a numerical label assigned to each device (e.g., computer, printer) participating in a computer network that uses the Internet Protocol for communication. An IP address serves two principal functions: host or network interface identification and location addressing. Its role has been characterized as follows: \"A name indicates what we seek. An address indicates where it is. A route indicates how to get there.\" The designers of the Internet Protocol defined an IP address as a 32-bit number and this system, known as Internet Protocol Version 4 (IPv4), is still in use today. However, because of the growth of the Internet and the predicted depletion of available addresses, a new version of IP (IPv6), using 128 bits for the address, was developed in 1995. IPv6 was standardized as  in 1998, and its deployment has been ongoing since the mid-2000s. IP addresses are usually written and displayed in human-readable notations, such as 172.16.254.1 (IPv4), and 2001:db8:0:1234:0:567:8:1 (IPv6). The Internet Assigned Numbers Authority (IANA) manages the IP address space allocations globally and delegates five regional Internet registries (RIRs) to allocate IP address blocks to local Internet registries (Internet service providers) and other entities.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Un indirizzo IP (dall'inglese Internet Protocol address) - in informatica e nelle telecomunicazioni - \u00e8 un'etichetta numerica che identifica univocamente un dispositivo detto host collegato a una rete informatica che utilizza l'Internet Protocol come protocollo di rete. Assolve essenzialmente a due funzioni: identificare un dispositivo sulla rete e di conseguenza fornire il percorso per essere raggiunto da un altro terminale o dispositivo di rete in una comunicazione dati a pacchetto. L'indirizzo IP viene assegnato a una interfaccia (ad esempio una scheda di rete) che identifica l'host di rete, che pu\u00f2 essere un personal computer, un palmare, uno smartphone, un router, o anche un elettrodomestico. Va considerato, infatti, che un host pu\u00f2 contenere pi\u00f9 di una interfaccia: ad esempio, un router ha diverse interfacce (minimo due) per ognuna delle quali occorre un indirizzo IP.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0639\u0646\u0648\u0627\u0646 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: IP address) \u0647\u0648 \u0627\u0644\u0645\u0639\u0631\u0641 \u0627\u0644\u0631\u0642\u0645\u064a \u0644\u0623\u064a \u062c\u0647\u0627\u0632 (\u062d\u0627\u0633\u0648\u0628\u060c \u0647\u0627\u062a\u0641 \u0645\u062d\u0645\u0648\u0644\u060c \u0622\u0644\u0629 \u0637\u0627\u0628\u0639\u0629\u060c \u0645\u0648\u062c\u0647) \u0645\u0631\u062a\u0628\u0637 \u0628\u0634\u0628\u0643\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a\u064a\u0629 \u062a\u0639\u0645\u0644 \u0628\u062d\u0632\u0645\u0629 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a\u060c \u0633\u0648\u0627\u0621 \u0623\u0643\u0627\u0646\u062a \u0634\u0628\u0643\u0629 \u0645\u062d\u0644\u064a\u0629 \u0623\u0648 \u0634\u0628\u0643\u0629 \u0627\u0644\u0634\u0628\u0643\u0627\u062a \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a. \u064a\u0642\u0627\u0628\u0644 \u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0622\u064a \u0628\u064a \u0645\u062b\u0644\u0627 \u0641\u064a \u0634\u0628\u0643\u0627\u062a \u0627\u0644\u0647\u0627\u062a\u0641 \u0631\u0642\u0645 \u0627\u0644\u0647\u0627\u062a\u0641. \u0641\u064a \u0627\u0644\u0648\u0642\u062a \u0627\u0644\u062d\u0627\u0644\u064a \u064a\u0648\u062c\u062f \u0625\u0635\u062f\u0627\u0631\u064a\u0646 \u0644\u0639\u0646\u0627\u0648\u064a\u0646 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a\u060c \u0627\u0644\u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u0631\u0627\u0628\u0639 (\u0648\u0647\u0648 \u0627\u0644\u0623\u0643\u062b\u0631 \u0634\u064a\u0648\u0639\u0627) \u0648\u0627\u0644\u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u0633\u0627\u062f\u0633. \u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0622\u064a \u0628\u064a \u0641\u064a \u0627\u0644\u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u0631\u0627\u0628\u0639 \u064a\u062e\u0632\u0646 \u0639\u0644\u0649 32 \u0628\u062a(\u0623\u064a 4 \u0628\u0627\u064a\u062a) \u0648\u064a\u0643\u062a\u0628 \u0639\u0644\u0649 \u0634\u0643\u0644 4 \u0627\u0631\u0642\u0627\u0645 (\u0645\u0646 0 \u0625\u0644\u0649 255) \u062a\u0641\u0635\u0644\u0647\u0627 \u0646\u0642\u0627\u0637 (\u0645\u062b\u0644\u0627 10.20.30.1) \u0641\u064a \u062d\u064a\u0646 \u0623\u0646 \u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u0633\u0627\u062f\u0633 \u064a\u062e\u0632\u0646 \u0639\u0644\u0649 128 \u0628\u062a (\u0623\u064a 16 \u0628\u0627\u064a\u062a) \u0648\u064a\u0643\u062a\u0628 \u0639\u0644\u0649 \u0634\u0643\u0644 8 \u0645\u062c\u0645\u0648\u0639\u0627\u062a \u0645\u0646 16 \u0628\u062a (\u0628\u062a\u0631\u0645\u064a\u0632 \u0627\u0644\u0623\u0633\u0627\u0633 16) \u064a\u0641\u0635\u0644 \u0628\u064a\u0646\u0647\u0627 \u0627\u0644\u0631\u0645\u0632 : (\u0645\u062b\u0627\u0644 - 1fff:0000:0a88:85a3:0000:0000:ac1f:8001).",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "IP-\u0430\u0434\u0440\u0435\u0441 (\u02cca\u026a \u02c8pi\u02d0-\u0430\u0434\u0440\u0435\u0441; \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u043b\u043e\u0432\u043e\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043f\u043e\u043b\u0443\u043a\u0430\u043b\u044c\u043a\u043e\u0439 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e IP address, \u0441\u043e\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u0435\u043c (\u0431\u0443\u043a\u0432\u0435\u043d\u043d\u043e\u0439 \u0430\u0431\u0431\u0440\u0435\u0432\u0438\u0430\u0442\u0443\u0440\u043e\u0439) \u043e\u0442 \u0430\u043d\u0433\u043b. Internet Protocol Address \u00ab\u0430\u0434\u0440\u0435\u0441 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430\u00bb) \u2014 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0435\u0442\u0435\u0432\u043e\u0439 \u0430\u0434\u0440\u0435\u0441 \u0443\u0437\u043b\u0430 \u0432 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0439 \u0441\u0435\u0442\u0438, \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u043e\u0439 \u043f\u043e \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0443 IP. \u0412 \u0441\u0435\u0442\u0438 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u0430\u044f \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0430\u0434\u0440\u0435\u0441\u0430; \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u0440\u0430\u0431\u043e\u0442\u044b \u0432 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0435\u0442\u0438 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0430\u0434\u0440\u0435\u0441\u0430 \u0432 \u043f\u0440\u0435\u0434\u0435\u043b\u0430\u0445 \u0441\u0435\u0442\u0438. \u0412 \u0432\u0435\u0440\u0441\u0438\u0438 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430 IPv4 IP-\u0430\u0434\u0440\u0435\u0441 \u0438\u043c\u0435\u0435\u0442 \u0434\u043b\u0438\u043d\u0443 4 \u0431\u0430\u0439\u0442\u0430, \u0430 \u0432 \u0432\u0435\u0440\u0441\u0438\u0438 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430 IPv6 IP-\u0430\u0434\u0440\u0435\u0441 \u0438\u043c\u0435\u0435\u0442 \u0434\u043b\u0438\u043d\u0443 16 \u0431\u0430\u0439\u0442.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Une adresse IP (avec IP pour Internet Protocol) est un num\u00e9ro d'identification qui est attribu\u00e9 de fa\u00e7on permanente ou provisoire \u00e0 chaque appareil connect\u00e9 \u00e0 un r\u00e9seau informatique utilisant l'Internet Protocol. L'adresse IP est \u00e0 la base du syst\u00e8me d'acheminement (le routage) des messages sur Internet. Il existe des adresses IP de version 4 (sur 32 bits, soit 4 octets) et de version 6 (sur 128 bits, soit 16 octets). La version 4 est actuellement la plus utilis\u00e9e : elle est g\u00e9n\u00e9ralement repr\u00e9sent\u00e9e en notation d\u00e9cimale avec quatre nombres compris entre 0 et 255, s\u00e9par\u00e9s par des points, ce qui donne par exemple : 172.16.254.1 (l'adresse qui figure sur l'image ci-dessous). Les plages d'adresses IPv4 \u00e9tant proches de la saturation, les op\u00e9rateurs incitent \u00e0 la transition d'IPv4 vers IPv6",
+                "lang": "fr"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Ipv4_address.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 735318313,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 14921,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Label"
+            }
+        ],
+        "http://dbpedia.org/property/bot": [
+            {
+                "type": "literal",
+                "value": "medic",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shared_IP_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/IP_address": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IPA_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Autoconfiguration_ip_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/I/P": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/I/P_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Autoconfiguration_IP_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_location": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/I.P._address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Net_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_Adress": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dynamic_IP_addresses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dedicated_IP_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Internet_Protocol_Address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ip_addresses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_Address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_addresss": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dynamic_IP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dynamic_IP_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dynamic_ip": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dynamic_ip_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Static_IP_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Internet_Address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_mapping": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_address_conflict": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Internet_Protocol_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Internet_protocol_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Server_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_addressing": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_adress": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Internet_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_Addressing": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Static_ip_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ip_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_addresses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Static_IP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP\u5730\u5740": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Public_IP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Internet_protocol_Address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sticky_dynamic_IP_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sticky_ip": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP-Address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dedicated_IP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IPDi_Zhi": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Address_autoconfiguration": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Public_IP_Address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Public_IP_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/I._P._address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Network_prefix": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ip_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sticky_IP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dynamic_ip_range": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Inet_address": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IPLocation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IPaddress": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/I.P._Addresses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_Addresses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Internet_Protocol_Addresses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sticky_dynamic_IP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shared_IP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Static_IP_addresses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_Address_Conflict": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_Address_conflict": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_address_Conflict": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ip_address_conflict": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP_add": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dynamic_IPs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Address": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IP": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/IP_address"
+            }
+        ]
+    }
+}

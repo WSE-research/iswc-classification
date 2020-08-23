@@ -1,0 +1,28 @@
+{
+    "@text": "Is the precipitation height for the January 2016 United States winter storm equal to 38.3?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Precipitation",
+            "@support": "4900",
+            "@types": "",
+            "@surfaceForm": "precipitation",
+            "@offset": "7",
+            "@similarityScore": "0.9998381412240878",
+            "@percentageOfSecondRank": "1.5574529989270192E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/January_2016_United_States_blizzard",
+            "@support": "46",
+            "@types": "",
+            "@surfaceForm": "January 2016 United States winter storm",
+            "@offset": "36",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

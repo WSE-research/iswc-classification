@@ -1,0 +1,317 @@
+{
+    "http://en.wikipedia.org/wiki/Fermi_gas": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Fermi_gas"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fermi_gas": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatFermions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/NaturalObject100019128"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Fermion109279161"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Band"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Particle109386422"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Body109224911"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u0424\u0435\u0440\u043c\u0438-\u0433\u0430\u0437",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Ideales Fermigas",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Gas di Fermi",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "G\u00e1s de Fermi",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u063a\u0627\u0632 \u0641\u064a\u0631\u0645\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Gas de Fermi",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Gaz Fermiego",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Fermi gas",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u8cbb\u7c73\u6c23\u9ad4",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "A Fermi gas is an ensemble of a large number of fermions (named after Enrico Fermi). Fermions are particles that obey Fermi\u2013Dirac statistics. These statistics determine the energy distribution of fermions in a Fermi gas in thermal equilibrium, and is characterized by their number density, temperature, and the set of available energy states.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u5728\u7269\u7406\u5b66\u4e2d\uff0c\u8cbb\u7c73\u6c23\u9ad4\uff08Fermi gas\uff09\uff0c\u53c8\u7a31\u70ba\u81ea\u7531\u7535\u5b50\u6c23\u9ad4\uff08free electron gas\uff09\u3001\u8d39\u7c73\u539f\u5b50\u6c14\u4f53\uff0c\u662f\u4e00\u4e2a\u91cf\u5b50\u7edf\u8ba1\u529b\u5b66\u4e2d\u7684\u7406\u60f3\u6a21\u578b\uff0c\u6307\u7684\u662f\u4e00\u7fa4\u4e0d\u76f8\u4e92\u4f5c\u7528\u7684\u8cbb\u7c73\u5b50\u3002 \u8cbb\u7c73\u6c23\u9ad4\u662f\u7406\u60f3\u6c23\u9ad4\u7684\u91cf\u5b50\u529b\u5b78\u7248\u672c\u3002\u5728\u91d1\u5c6c\u5167\u7684\u96fb\u5b50\u3001\u5728\u534a\u5c0e\u9ad4\u5167\u7684\u96fb\u5b50\u6216\u5728\u4e2d\u5b50\u661f\u88cf\u7684\u4e2d\u5b50\uff0c\u90fd\u53ef\u4ee5\u88ab\u8996\u70ba\u8fd1\u4f3c\u65bc\u8cbb\u7c73\u6c23\u9ad4\u3002\u8655\u65bc\u71b1\u529b\u5e73\u8861\u7684\u8cbb\u7c73\u6c23\u9ad4\u88cf\uff0c\u8cbb\u7c73\u5b50\u7684\u80fd\u91cf\u5206\u5e03\uff0c\u662f\u7531\u5b83\u5011\u7684\u6578\u76ee\u5bc6\u5ea6\uff08number density\uff09\u3001\u6eab\u5ea6\u3001\u8207\u5c1a\u5b58\u5728\u80fd\u91cf\u91cf\u5b50\u614b\u96c6\u5408\uff0c\u4f9d\u7167\u8cbb\u7c73-\u72c4\u62c9\u514b\u7d71\u8a08\u7684\u65b9\u7a0b\u5f0f\u800c\u8868\u5fb5\u3002\u6ce1\u5229\u4e0d\u76f8\u5bb9\u539f\u7406\u95e1\u660e\uff0c\u4e0d\u5141\u8a31\u5169\u500b\u6216\u5169\u500b\u4ee5\u4e0a\u7684\u8cbb\u7c73\u5b50\u4f54\u7528\u540c\u4e00\u4e2a\u91cf\u5b50\u614b\u3002\u56e0\u6b64\uff0c\u5728\u7d55\u5c0d\u96f6\u5ea6\uff0c\u8cbb\u7c73\u6c23\u9ad4\u7684\u7e3d\u80fd\u91cf\u5927\u65bc\u8cbb\u7c73\u5b50\u6578\u91cf\u8207\u55ae\u7368\u7c92\u5b50\u57fa\u614b\u80fd\u91cf\u7684\u4e58\u7a4d\uff0c\u4e26\u4e14\uff0c\u8cbb\u7c73\u6c23\u9ad4\u7684\u58d3\u529b\uff0c\u7a31\u70ba\u300c\u7c21\u4f75\u58d3\u529b\u300d\uff0c\u4e0d\u7b49\u65bc\u96f6\u3002\u9019\u8207\u7d93\u5178\u7406\u60f3\u6c23\u9ad4\u7684\u73fe\u8c61\u6709\u5f88\u660e\u986f\u7684\u4e0d\u540c\u3002\u7c21\u4f75\u58d3\u529b\u4f7f\u5f97\u4e2d\u5b50\u661f\u6216\u767d\u77ee\u661f\u80fd\u5920\u62b5\u6297\u842c\u6709\u5f15\u529b\u7684\u58d3\u7e2e\uff0c\u56e0\u800c\u5f97\u5230\u7a69\u5b9a\u5e73\u8861\uff0c\u4e0d\u81f4\u5411\u5167\u7206\u584c\u3002 \u5728\u4f4e\u6e29\u4e0b\uff0c\u73bb\u8272\u539f\u5b50\u6c14\u4f53\u53ef\u4ee5\u5f62\u6210\u73bb\u8272-\u7231\u56e0\u65af\u5766\u51dd\u805a\uff08Bose-Einstein condensation, BEC\uff09\uff0c\u8fd9\u662f\u7531\u7231\u56e0\u65af\u5766\u57281925\u5e74\u7684\u7406\u8bba\u800c\u9884\u8a00\u7684\u3002\u8d39\u7c73\u5b50\u7531\u4e8e\u6ce1\u5229\u4e0d\u76f8\u5bb9\u539f\u7406\uff0c\u4e0d\u80fd\u5f62\u6210BEC\u3002\u4f46\u53ef\u901a\u8fc7Feshbach\u5171\u632f\uff0c\u5229\u7528\u78c1\u573a\u8c03\u8282\u8d39\u7c73\u539f\u5b50\u95f4\u7684\u76f8\u4e92\u4f5c\u7528\uff0c\u4f7f\u8d39\u7c73\u5b50\u914d\u5bf9\u8f6c\u53d8\u6210\u73bb\u8272\u578b\u7c92\u5b50\u800c\u5f62\u6210BEC\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Un gas de Fermi es un modelo f\u00edsico, un sistema ideal de fermiones libres, es decir, que no interact\u00faan entre s\u00ed, a diferencia de un l\u00edquido de Fermi, en el que s\u00ed existen interacciones. Puesto que protones, neutrones y electrones est\u00e1n descritos por la estad\u00edstica de Fermi, se pueden describir en una primera aproximaci\u00f3n con este modelo de gas de Fermi los nucleones en el interior del n\u00facleo at\u00f3mico, los neutrones en una estrella de neutrones o los electrones de conducci\u00f3n de un metal o semiconductor.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Gaz Fermiego, (gaz elektronowy Fermiego, gaz fermion\u00f3w) jest to model opisuj\u0105cy idealny gaz kwantowy nieoddzia\u0142uj\u0105cych fermion\u00f3w. Jest kwantowomechanicznym odpowiednikiem klasycznego gazu doskona\u0142ego dla cz\u0105stek podlegaj\u0105cych statystyce Fermiego-Diraca. Zachowanie elektron\u00f3w w metalach i p\u00f3\u0142przewodnikach, neutron\u00f3w w gwiazdach neutronowych mo\u017ce by\u0107 z pewnym przybli\u017ceniem w niekt\u00f3rych sytuacjach opisywane przez idealny gaz Fermiego.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Als Fermigas (nach Enrico Fermi, der es 1926 erstmals vorstellte) bezeichnet man in der Quantenphysik ein System identischer Teilchen vom Typ Fermion, die in so gro\u00dfer Anzahl vorliegen, dass man sich zur Systembeschreibung auf statistische Aussagen beschr\u00e4nken muss. Im Unterschied zum Gas in der klassischen Physik gilt hier das quantentheoretische Ausschlie\u00dfungsprinzip. \n*  das Elektronengas, das in metallischen Festk\u00f6rpern und Halbleitern f\u00fcr die elektrische Leitf\u00e4higkeit sorgt \n*  Protonen und Neutronen im Atomkern \n*  Neutronen in Neutronensternen \n*  fl\u00fcssiges Helium-3.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "In fisica, in particolare in meccanica statistica, un gas di Fermi \u00e8 un gas di fermioni. La statistica di Fermi-Dirac permette di determinare la distribuzione dell'energia per un gas di fermioni all'equilibrio termico conoscendone la densit\u00e0, la temperatura ed il set di stati energetici possibili. Con questo modello possono essere in prima approssimazione descritti i nucleoni all'interno del nucleo atomico o gli elettroni di conduzione in un metallo.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u063a\u0627\u0632 \u0641\u064a\u0631\u0645\u064a \u0647\u0648 \u0623\u062f\u0627\u0621 \u0644\u0639\u062f\u062f \u0643\u0628\u064a\u0631 \u0645\u0646 \u0627\u0644\u0641\u0631\u0645\u064a\u0648\u0646\u0627\u062a \u0627\u0644\u062a\u064a \u0633\u0645\u064a\u062a \u0628\u0625\u0633\u0645 \u0645\u0643\u062a\u0634\u0641\u0647\u0627 \u0627\u0646\u0631\u064a\u0643\u0648 \u0641\u064a\u0631\u0645\u064a\u060c \u0648\u0647\u064a \u062c\u0633\u064a\u0645\u0627\u062a \u062a\u062e\u0636\u0639 \u0644\u0625\u062d\u0635\u0627\u0621 \u0641\u064a\u0631\u0645\u064a \u062f\u064a\u0631\u0627\u0643 \u0627\u0644\u0630\u064a \u064a\u062d\u062f\u062f \u062a\u0648\u0632\u064a\u0639 \u0637\u0627\u0642\u0629 \u0627\u0644\u0641\u0631\u0645\u064a\u0648\u0646\u0627\u062a \u0641\u064a \u063a\u0627\u0632 \u0641\u064a\u0631\u0645\u064a \u0639\u0646\u062f \u0627\u0644\u062a\u0648\u0627\u0632\u0646 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u060c \u0648\u062a\u062a\u0645\u064a\u0632 \u0628\u0643\u062b\u0627\u0641\u0629 \u0639\u062f\u062f\u064a\u0629  \u0648\u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0648\u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646 \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u062a\u0627\u062d\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Um g\u00e1s de f\u00e9rmions, g\u00e1s de Fermi ou g\u00e1s de el\u00e9trons livres \u00e9 um conjunto de f\u00e9rmions n\u00e3o interativos. \u00c9 a vers\u00e3o na Mec\u00e2nica Qu\u00e2ntica de um g\u00e1s ideal, para o caso de part\u00edculas fermi\u00f4nicas. El\u00e9trons em metais e semicondutores e n\u00eautrons em estrelas de n\u00eautrons podem aproximadamente ser considerados gases de Fermi.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0424\u0435\u0301\u0440\u043c\u0438-\u0433\u0430\u0437 (\u0438\u043b\u0438 \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u044b\u0439 \u0433\u0430\u0437 \u0424\u0435\u0301\u0440\u043c\u0438 \u2014 \u0414\u0438\u0440\u0430\u0301\u043a\u0430) \u2014 \u0433\u0430\u0437, \u0441\u043e\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u0438\u0437 \u0447\u0430\u0441\u0442\u0438\u0446, \u0443\u0434\u043e\u0432\u043b\u0435\u0442\u0432\u043e\u0440\u044f\u044e\u0449\u0438\u0445 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0435 \u0424\u0435\u0440\u043c\u0438 \u2014 \u0414\u0438\u0440\u0430\u043a\u0430, \u0438\u043c\u0435\u044e\u0449\u0438\u0445 \u043c\u0430\u043b\u0443\u044e \u043c\u0430\u0441\u0441\u0443 \u0438 \u0432\u044b\u0441\u043e\u043a\u0443\u044e \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u044e. \u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u044b \u0432 \u043c\u0435\u0442\u0430\u043b\u043b\u0435. \u0412 \u043f\u0435\u0440\u0432\u043e\u043c \u043f\u0440\u0438\u0431\u043b\u0438\u0436\u0435\u043d\u0438\u0438 \u043c\u043e\u0436\u043d\u043e \u0441\u0447\u0438\u0442\u0430\u0442\u044c, \u0447\u0442\u043e \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b, \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439 \u043d\u0430 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u044b \u0432 \u043c\u0435\u0442\u0430\u043b\u043b\u0435, \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u0439 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u043e\u0439 \u0438 \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0441\u0438\u043b\u044c\u043d\u043e\u043c\u0443 \u044d\u043a\u0440\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0437\u0430\u0440\u044f\u0436\u0435\u043d\u043d\u044b\u043c\u0438 \u0438\u043e\u043d\u0430\u043c\u0438 \u043c\u043e\u0436\u043d\u043e \u043f\u0440\u0435\u043d\u0435\u0431\u0440\u0435\u0447\u044c \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0441\u0442\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043e\u0442\u0442\u0430\u043b\u043a\u0438\u0432\u0430\u043d\u0438\u0435\u043c \u043c\u0435\u0436\u0434\u0443 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0430\u043c\u0438. \u0422\u043e\u0433\u0434\u0430 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u044b \u043c\u0435\u0442\u0430\u043b\u043b\u0430 \u043c\u043e\u0436\u043d\u043e \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c \u043a\u0430\u043a \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u044b\u0439 \u0433\u0430\u0437 \u0424\u0435\u0440\u043c\u0438 \u2014 \u0414\u0438\u0440\u0430\u043a\u0430.",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Free_electron_model"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Fermi_gas"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1072904"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Ideales_Fermigas"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.018vz5"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1072904"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Fermiho_plyn"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ud398\ub974\ubbf8_\uae30\uccb4"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/G\u00e1s_de_Fermi"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Fermi_gas"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Gas_di_Fermi"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Gaz_Fermiego"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Gas_de_Fermi"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Fermi\u2013Dirac_statistics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Ideal_gas"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Fermi_gas"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Fermi_gas?oldid=736413760"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Gaz Fermiego, (gaz elektronowy Fermiego, gaz fermion\u00f3w) jest to model opisuj\u0105cy idealny gaz kwantowy nieoddzia\u0142uj\u0105cych fermion\u00f3w. Jest kwantowomechanicznym odpowiednikiem klasycznego gazu doskona\u0142ego dla cz\u0105stek podlegaj\u0105cych statystyce Fermiego-Diraca. Zachowanie elektron\u00f3w w metalach i p\u00f3\u0142przewodnikach, neutron\u00f3w w gwiazdach neutronowych mo\u017ce by\u0107 z pewnym przybli\u017ceniem w niekt\u00f3rych sytuacjach opisywane przez idealny gaz Fermiego.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u063a\u0627\u0632 \u0641\u064a\u0631\u0645\u064a \u0647\u0648 \u0623\u062f\u0627\u0621 \u0644\u0639\u062f\u062f \u0643\u0628\u064a\u0631 \u0645\u0646 \u0627\u0644\u0641\u0631\u0645\u064a\u0648\u0646\u0627\u062a \u0627\u0644\u062a\u064a \u0633\u0645\u064a\u062a \u0628\u0625\u0633\u0645 \u0645\u0643\u062a\u0634\u0641\u0647\u0627 \u0627\u0646\u0631\u064a\u0643\u0648 \u0641\u064a\u0631\u0645\u064a\u060c \u0648\u0647\u064a \u062c\u0633\u064a\u0645\u0627\u062a \u062a\u062e\u0636\u0639 \u0644\u0625\u062d\u0635\u0627\u0621 \u0641\u064a\u0631\u0645\u064a \u062f\u064a\u0631\u0627\u0643 \u0627\u0644\u0630\u064a \u064a\u062d\u062f\u062f \u062a\u0648\u0632\u064a\u0639 \u0637\u0627\u0642\u0629 \u0627\u0644\u0641\u0631\u0645\u064a\u0648\u0646\u0627\u062a \u0641\u064a \u063a\u0627\u0632 \u0641\u064a\u0631\u0645\u064a \u0639\u0646\u062f \u0627\u0644\u062a\u0648\u0627\u0632\u0646 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u060c \u0648\u062a\u062a\u0645\u064a\u0632 \u0628\u0643\u062b\u0627\u0641\u0629 \u0639\u062f\u062f\u064a\u0629  \u0648\u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0648\u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646 \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u062a\u0627\u062d\u0629. \u0645\u0646 \u0645\u0628\u062f\u0623 \u0628\u0627\u0648\u0644\u064a \u0644\u0627\u064a\u0645\u0643\u0646 \u0644\u0623\u064a \u062d\u0627\u0644\u0629 \u0643\u0645\u064a\u0629 \u0623\u0646 \u062a\u0623\u062e\u0630 \u0623\u0643\u062b\u0631 \u0645\u0646 \u0641\u0631\u0645\u064a\u0648\u0646 \u0648\u0627\u062d\u062f \u0628\u062e\u0635\u0627\u0626\u0635 \u0645\u062a\u0645\u0627\u062b\u0644\u0629. \u0644\u0630\u0627 \u0641\u063a\u0627\u0632 \u0641\u064a\u0631\u0645\u064a \u0639\u0644\u0649 \u0627\u0644\u0639\u0643\u0633 \u0645\u0646 \u063a\u0627\u0632 \u0628\u0648\u0632 \u0644\u0627\u064a\u0645\u0643\u0646\u0647 \u0627\u0644\u062a\u0643\u062b\u0641 \u0625\u0644\u0649 \u062a\u0643\u0627\u062b\u0641 \u0628\u0648\u0632 \u0648\u0623\u064a\u0646\u0634\u062a\u0627\u064a\u0646. \u0641\u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0627\u062c\u0645\u0627\u0644\u064a\u0629 \u0644\u063a\u0627\u0632 \u0641\u064a\u0631\u0645\u064a \u0641\u064a \u062f\u0631\u062c\u0629 \u0627\u0644\u0635\u0641\u0631 \u0627\u0644\u0645\u0637\u0644\u0642 \u0647\u0648 \u0623\u0643\u0628\u0631 \u0645\u0646 \u0645\u062c\u0645\u0648\u0639 \u0627\u0644\u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0642\u0627\u0639\u064a\u0629 \u0644\u062c\u0633\u064a\u0645 \u0645\u0641\u0631\u062f \u0644\u0623\u0646 \u0645\u0628\u062f\u0623 \u0628\u0627\u0648\u0644\u064a \u064a\u0639\u0631\u0636 \u0646\u0648\u0639\u0627 \u0645\u0646 \u0627\u0644\u062a\u0641\u0627\u0639\u0644 \u0623\u0648 \u0627\u0644\u0636\u063a\u0637 \u0627\u0644\u0630\u064a \u064a\u062d\u0627\u0641\u0638 \u0639\u0644\u0649 \u0627\u0644\u0641\u0631\u0645\u064a\u0648\u0646\u0627\u062a \u0645\u0646\u0641\u0635\u0644\u0629 \u0648\u0645\u062a\u062d\u0631\u0643\u0629. \u0644\u0647\u0630\u0627 \u0627\u0644\u0633\u0628\u0628 \u0641\u0625\u0646 \u0636\u063a\u0637 \u063a\u0627\u0632 \u0641\u064a\u0631\u0645\u064a \u0644\u064a\u0633 \u0635\u0641\u0631\u064a\u0627 \u062d\u062a\u0649 \u0641\u064a \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u0635\u0641\u0631\u060c \u0639\u0644\u0649 \u0627\u0644\u0639\u0643\u0633 \u0645\u0646 \u0627\u0644\u063a\u0627\u0632 \u0627\u0644\u0645\u062b\u0627\u0644\u064a \u0627\u0644\u0643\u0644\u0627\u0633\u064a\u0643\u064a\u060c \u0648\u064a\u0633\u0645\u0649 \u0647\u0630\u0627 \u0628\u0627\u0644\u0636\u063a\u0637 \u0627\u0644\u0645\u0646\u062d\u0637 \u0627\u0644\u0630\u064a \u064a\u062d\u0627\u0641\u0638 \u0639\u0644\u0649 \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u0627\u0644\u0646\u062c\u0645 \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u064a (\u063a\u0627\u0632 \u0641\u064a\u0631\u0645\u064a \u0645\u0646 \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a) \u0623\u0648 \u0646\u062c\u0645 \u0642\u0632\u0645 \u0623\u0628\u064a\u0636 (\u063a\u0627\u0632 \u0641\u064a\u0631\u0645\u064a \u0645\u0646 \u0627\u0644\u0627\u0644\u0643\u062a\u0631\u0648\u0646\u0627\u062a) \u0636\u062f \u0633\u062d\u0628 \u0627\u0644\u062c\u0627\u0630\u0628\u064a\u0629 \u0625\u0644\u0649 \u0627\u0644\u062f\u0627\u062e\u0644\u060c \u0648\u0627\u0644\u062a\u064a \u062a\u0633\u0628\u0628 \u0628\u0625\u0646\u0647\u064a\u0627\u0631 \u0627\u0644\u0646\u062c\u0645 \u0627\u0644\u0638\u0627\u0647\u0631\u064a \u0625\u0644\u0649 \u062b\u0642\u0628 \u0623\u0633\u0648\u062f. \u0625\u0644\u0627 \u0625\u0630\u0627 \u0643\u0627\u0646 \u062d\u062c\u0645 \u0627\u0644\u0646\u062c\u0645 \u0647\u0627\u0626\u0644\u0627 \u0628\u0645\u0627 \u064a\u0643\u0641\u064a \u0644\u0644\u062a\u063a\u0644\u0628 \u0639\u0644\u0649 \u0636\u063a\u0637 \u0627\u0644\u0627\u0646\u062d\u0637\u0627\u0637. \u0645\u0646 \u0627\u0644\u0645\u0645\u0643\u0646 \u0645\u0639\u0631\u0641\u0629 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0641\u064a\u0631\u0645\u064a \u062a\u062d\u062a \u0645\u0627\u064a\u0645\u0643\u0646 \u0627\u0639\u062a\u0628\u0627\u0631\u0647 \u063a\u0627\u0632\u0627 \u0645\u0646\u062d\u0644 (\u062a\u0642\u0631\u064a\u0628\u0627 \u064a\u0633\u062a\u0645\u062f \u0627\u0644\u0636\u063a\u0637 \u062d\u0635\u0631\u064a\u0627 \u0645\u0628\u062f\u0623 \u0628\u0627\u0648\u0644\u064a). \u0648\u062a\u0639\u062a\u0645\u062f \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u062a\u0644\u0643 \u0639\u0644\u0649 \u0643\u062a\u0644\u0629 \u0627\u0644\u0641\u0631\u0645\u064a\u0648\u0646\u0627\u062a \u0648\u0643\u062b\u0627\u0641\u0629 \u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u0633\u062a\u0648\u064a\u0627\u062a. \u0641\u0641\u064a \u0627\u0644\u0645\u0639\u0627\u062f\u0646 \u062a\u0643\u0648\u0646 \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0641\u064a\u0631\u0645\u064a \u0644\u063a\u0627\u0632 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646 \u0639\u062f\u0629 \u0622\u0644\u0627\u0641 \u0643\u0644\u0641\u0646\u060c \u0644\u0630\u0627 \u062a\u0639\u062a\u0628\u0631 \u062a\u0644\u0643 \u0645\u0646\u062d\u0644\u0629 \u0641\u064a \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0628\u0634\u0631\u064a\u0629. \u0648\u064a\u0637\u0644\u0642 \u0639\u0644\u0649 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0642\u0635\u0648\u0649 \u0644\u0644\u0641\u0631\u0645\u064a\u0648\u0646\u0627\u062a \u0641\u064a \u062f\u0631\u062c\u0629 \u0627\u0644\u0635\u0641\u0631 \u0627\u0633\u0645 \u0637\u0627\u0642\u0629 \u0641\u064a\u0631\u0645\u064a.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Als Fermigas (nach Enrico Fermi, der es 1926 erstmals vorstellte) bezeichnet man in der Quantenphysik ein System identischer Teilchen vom Typ Fermion, die in so gro\u00dfer Anzahl vorliegen, dass man sich zur Systembeschreibung auf statistische Aussagen beschr\u00e4nken muss. Im Unterschied zum Gas in der klassischen Physik gilt hier das quantentheoretische Ausschlie\u00dfungsprinzip. Das ideale Fermigas ist eine Modellvorstellung hierzu, in der man die gegenseitige Wechselwirkung der Teilchen v\u00f6llig vernachl\u00e4ssigt, analog zum idealen Gas in der klassischen Physik. Dies stellt eine starke Vereinfachung dar, vereinfacht aber die Formeln so, dass in vielen praktisch wichtigen F\u00e4llen physikalisch korrekte Voraussagen gemacht werden k\u00f6nnen, z. B. f\u00fcr \n*  das Elektronengas, das in metallischen Festk\u00f6rpern und Halbleitern f\u00fcr die elektrische Leitf\u00e4higkeit sorgt \n*  Protonen und Neutronen im Atomkern \n*  Neutronen in Neutronensternen \n*  fl\u00fcssiges Helium-3.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u5728\u7269\u7406\u5b66\u4e2d\uff0c\u8cbb\u7c73\u6c23\u9ad4\uff08Fermi gas\uff09\uff0c\u53c8\u7a31\u70ba\u81ea\u7531\u7535\u5b50\u6c23\u9ad4\uff08free electron gas\uff09\u3001\u8d39\u7c73\u539f\u5b50\u6c14\u4f53\uff0c\u662f\u4e00\u4e2a\u91cf\u5b50\u7edf\u8ba1\u529b\u5b66\u4e2d\u7684\u7406\u60f3\u6a21\u578b\uff0c\u6307\u7684\u662f\u4e00\u7fa4\u4e0d\u76f8\u4e92\u4f5c\u7528\u7684\u8cbb\u7c73\u5b50\u3002 \u8cbb\u7c73\u6c23\u9ad4\u662f\u7406\u60f3\u6c23\u9ad4\u7684\u91cf\u5b50\u529b\u5b78\u7248\u672c\u3002\u5728\u91d1\u5c6c\u5167\u7684\u96fb\u5b50\u3001\u5728\u534a\u5c0e\u9ad4\u5167\u7684\u96fb\u5b50\u6216\u5728\u4e2d\u5b50\u661f\u88cf\u7684\u4e2d\u5b50\uff0c\u90fd\u53ef\u4ee5\u88ab\u8996\u70ba\u8fd1\u4f3c\u65bc\u8cbb\u7c73\u6c23\u9ad4\u3002\u8655\u65bc\u71b1\u529b\u5e73\u8861\u7684\u8cbb\u7c73\u6c23\u9ad4\u88cf\uff0c\u8cbb\u7c73\u5b50\u7684\u80fd\u91cf\u5206\u5e03\uff0c\u662f\u7531\u5b83\u5011\u7684\u6578\u76ee\u5bc6\u5ea6\uff08number density\uff09\u3001\u6eab\u5ea6\u3001\u8207\u5c1a\u5b58\u5728\u80fd\u91cf\u91cf\u5b50\u614b\u96c6\u5408\uff0c\u4f9d\u7167\u8cbb\u7c73-\u72c4\u62c9\u514b\u7d71\u8a08\u7684\u65b9\u7a0b\u5f0f\u800c\u8868\u5fb5\u3002\u6ce1\u5229\u4e0d\u76f8\u5bb9\u539f\u7406\u95e1\u660e\uff0c\u4e0d\u5141\u8a31\u5169\u500b\u6216\u5169\u500b\u4ee5\u4e0a\u7684\u8cbb\u7c73\u5b50\u4f54\u7528\u540c\u4e00\u4e2a\u91cf\u5b50\u614b\u3002\u56e0\u6b64\uff0c\u5728\u7d55\u5c0d\u96f6\u5ea6\uff0c\u8cbb\u7c73\u6c23\u9ad4\u7684\u7e3d\u80fd\u91cf\u5927\u65bc\u8cbb\u7c73\u5b50\u6578\u91cf\u8207\u55ae\u7368\u7c92\u5b50\u57fa\u614b\u80fd\u91cf\u7684\u4e58\u7a4d\uff0c\u4e26\u4e14\uff0c\u8cbb\u7c73\u6c23\u9ad4\u7684\u58d3\u529b\uff0c\u7a31\u70ba\u300c\u7c21\u4f75\u58d3\u529b\u300d\uff0c\u4e0d\u7b49\u65bc\u96f6\u3002\u9019\u8207\u7d93\u5178\u7406\u60f3\u6c23\u9ad4\u7684\u73fe\u8c61\u6709\u5f88\u660e\u986f\u7684\u4e0d\u540c\u3002\u7c21\u4f75\u58d3\u529b\u4f7f\u5f97\u4e2d\u5b50\u661f\u6216\u767d\u77ee\u661f\u80fd\u5920\u62b5\u6297\u842c\u6709\u5f15\u529b\u7684\u58d3\u7e2e\uff0c\u56e0\u800c\u5f97\u5230\u7a69\u5b9a\u5e73\u8861\uff0c\u4e0d\u81f4\u5411\u5167\u7206\u584c\u3002 \u5728\u4f4e\u6e29\u4e0b\uff0c\u73bb\u8272\u539f\u5b50\u6c14\u4f53\u53ef\u4ee5\u5f62\u6210\u73bb\u8272-\u7231\u56e0\u65af\u5766\u51dd\u805a\uff08Bose-Einstein condensation, BEC\uff09\uff0c\u8fd9\u662f\u7531\u7231\u56e0\u65af\u5766\u57281925\u5e74\u7684\u7406\u8bba\u800c\u9884\u8a00\u7684\u3002\u8d39\u7c73\u5b50\u7531\u4e8e\u6ce1\u5229\u4e0d\u76f8\u5bb9\u539f\u7406\uff0c\u4e0d\u80fd\u5f62\u6210BEC\u3002\u4f46\u53ef\u901a\u8fc7Feshbach\u5171\u632f\uff0c\u5229\u7528\u78c1\u573a\u8c03\u8282\u8d39\u7c73\u539f\u5b50\u95f4\u7684\u76f8\u4e92\u4f5c\u7528\uff0c\u4f7f\u8d39\u7c73\u5b50\u914d\u5bf9\u8f6c\u53d8\u6210\u73bb\u8272\u578b\u7c92\u5b50\u800c\u5f62\u6210BEC\u3002 \u7531\u65bc\u524d\u8ff0\u5b9a\u7fa9\u5ffd\u7565\u4e86\u7c92\u5b50\u8207\u7c92\u5b50\u4e4b\u9593\u7684\u76f8\u4e92\u4f5c\u7528\uff0c\u8cbb\u7c73\u6c23\u9ad4\u554f\u984c\u7d04\u5316\u70ba\u7814\u7a76\u4e00\u7fa4\u7368\u7acb\u7684\u8cbb\u7c73\u5b50\u7684\u7269\u7406\u884c\u70ba\u7684\u554f\u984c\u3002\u9019\u554f\u984c\u672c\u8eab\u76f8\u7576\u5bb9\u6613\u89e3\u6790\u3002\u4e00\u4e9b\u66f4\u6df1\u5967\uff0c\u66f4\u9032\u968e\uff0c\u66f4\u7cbe\u5bc6\u7684\u7406\u8ad6\uff0c\u727d\u6d89\u5230\u7c92\u5b50\u8207\u7c92\u5b50\u4e4b\u9593\u7684\u4e92\u76f8\u4f5c\u7528\u7684\u7406\u8ad6\uff08\u50cf\u8cbb\u7c73\u6db2\u9ad4\u7406\u8ad6\u6216\u76f8\u4e92\u4f5c\u7528\u7684\u5fae\u64fe\u7406\u8ad6\uff09\uff0c\u6642\u5e38\u6703\u4ee5\u8cbb\u7c73\u6c23\u9ad4\u554f\u984c\u70ba\u7814\u7a76\u7684\u958b\u7aef\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Um g\u00e1s de f\u00e9rmions, g\u00e1s de Fermi ou g\u00e1s de el\u00e9trons livres \u00e9 um conjunto de f\u00e9rmions n\u00e3o interativos. \u00c9 a vers\u00e3o na Mec\u00e2nica Qu\u00e2ntica de um g\u00e1s ideal, para o caso de part\u00edculas fermi\u00f4nicas. El\u00e9trons em metais e semicondutores e n\u00eautrons em estrelas de n\u00eautrons podem aproximadamente ser considerados gases de Fermi. A distribui\u00e7\u00e3o de energia dos f\u00e9rmions em um g\u00e1s de Fermi em equil\u00edbrio t\u00e9rmico \u00e9 determinada por sua densidade, pela temperatura e pelos estados de energia dispon\u00edveis, via a estat\u00edstica de Fermi-Dirac. Pelo princ\u00edpio de exclus\u00e3o de Pauli, nenhum estado qu\u00e2ntico pode ser ocupado por mais que um f\u00e9rmion, ent\u00e3o a energia total do g\u00e1s de Fermi \u00e0 temperatura do zero absoluto \u00e9 t\u00e3o grande quanto o produto do n\u00famero de part\u00edculas pelo estado de energia de cada part\u00edcula. Por esta raz\u00e3o, a press\u00e3o de um g\u00e1s Fermi \u00e9 diferente de zero na temperatura de zero absoluto, em contraste com um g\u00e1s ideal cl\u00e1ssico. Esta ent\u00e3o chamada press\u00e3o de degeneresc\u00eancia estabiliza uma estrela de n\u00eautrons (um g\u00e1s de Fermi de n\u00eautrons) ou uma estrela an\u00e3 branca (um g\u00e1s de Fermi de el\u00e9trons) contra a tra\u00e7\u00e3o interna da gravidade. \u00c9 poss\u00edvel definir uma temperatura de Fermi abaixo do qual o g\u00e1s pode ser considerado degenerado. Esta temperatura depende da massa dos f\u00e9rmions e da energia da densidade dos estados. Para metais, a temperatura do g\u00e1s de el\u00e9trons de Fermi \u00e9 geralmente de muitos milhares de kelvins, quando ent\u00e3o eles podem ser considerados degenerados. A m\u00e1xima energia dos f\u00e9rmions a temperatura do zero absoluto \u00e9 chamada energia de Fermi. A superf\u00edcie da energia de Fermi no momento espacial \u00e9 chamada superf\u00edcie de Fermi. Desde que as intera\u00e7\u00f5es s\u00e3o negligenciadas por defini\u00e7\u00e3o, o problema de tratar propriedades do equil\u00edbrio e o comportamento din\u00e2mico de um g\u00e1s de Fermi se reduz ao estudo do comportamento de part\u00edculas independentes e isoladas. Como est\u00e1, \u00e9 ainda relativamente trat\u00e1vel e d\u00e1 forma ao ponto de servir de base para teorias mais avan\u00e7adas (tais como a teoria do l\u00edquido de Fermi ou a teoria perturbacional) as quais levam em conta as intera\u00e7\u00f5es com algum grau de exatid\u00e3o.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "In fisica, in particolare in meccanica statistica, un gas di Fermi \u00e8 un gas di fermioni. La statistica di Fermi-Dirac permette di determinare la distribuzione dell'energia per un gas di fermioni all'equilibrio termico conoscendone la densit\u00e0, la temperatura ed il set di stati energetici possibili. Con questo modello possono essere in prima approssimazione descritti i nucleoni all'interno del nucleo atomico o gli elettroni di conduzione in un metallo.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "A Fermi gas is an ensemble of a large number of fermions (named after Enrico Fermi). Fermions are particles that obey Fermi\u2013Dirac statistics. These statistics determine the energy distribution of fermions in a Fermi gas in thermal equilibrium, and is characterized by their number density, temperature, and the set of available energy states. By the Pauli exclusion principle, no quantum state can be occupied by more than one fermion with an identical set of quantum numbers. Thus a non-interacting Fermi gas, unlike a Bose gas, is prohibited from condensing into a Bose\u2013Einstein condensate, although interacting Fermi gases might. The total energy of the Fermi gas at absolute zero is larger than the sum of the single-particle ground states because the Pauli principle implies a sort of interaction or pressure that keeps fermions separated and moving. For this reason, the pressure of a Fermi gas is non-zero even at zero temperature, in contrast to that of a classical ideal gas. This so-called degeneracy pressure stabilizes a neutron star (a Fermi gas of neutrons) or a white dwarf star (a Fermi gas of electrons) against the inward pull of gravity, which would ostensibly collapse the star into a black hole. Only when a star is sufficiently massive to overcome the degeneracy pressure can it collapse into a singularity. It is possible to define a Fermi temperature below which the gas can be considered degenerate (its pressure derives almost exclusively from the Pauli principle). This temperature depends on the mass of the fermions and the density of energy states. For metals, the electron gas's Fermi temperature is generally many thousands of kelvins, so in human applications they can be considered degenerate. The maximum energy of the fermions at zero temperature is called the Fermi energy. The Fermi energy surface in momentum space is known as the Fermi surface.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Un gas de Fermi es un modelo f\u00edsico, un sistema ideal de fermiones libres, es decir, que no interact\u00faan entre s\u00ed, a diferencia de un l\u00edquido de Fermi, en el que s\u00ed existen interacciones. Puesto que protones, neutrones y electrones est\u00e1n descritos por la estad\u00edstica de Fermi, se pueden describir en una primera aproximaci\u00f3n con este modelo de gas de Fermi los nucleones en el interior del n\u00facleo at\u00f3mico, los neutrones en una estrella de neutrones o los electrones de conducci\u00f3n de un metal o semiconductor. La distribuci\u00f3n de la energ\u00eda de los fermiones en un gas de Fermi en equilibrio t\u00e9rmico se determina por su densidad, temperatura, y el conjunto de estados de energ\u00eda disponible, a trav\u00e9s de la estad\u00edstica de Fermi-Dirac. Por el principio de Pauli, ning\u00fan estado cu\u00e1ntico puede ser ocupado por m\u00e1s de un fermi\u00f3n (con propiedades id\u00e9nticas), y as\u00ed un gas de Fermi, a diferencia de un gas de Bose, est\u00e1 prohibido que condense en un condensado de Bose-Einstein. Por lo tanto la energ\u00eda total del gas de Fermi en el cero absoluto es mayor que la suma de las energ\u00edas de los estados fundamentales de las part\u00edculas aisladas, debido a que el principio de Pauli act\u00faa como una especie de interacci\u00f3n/presi\u00f3n que mantiene a los fermiones separados y en movimiento.Por esta raz\u00f3n, la presi\u00f3n de un gas de Fermi es distinta de cero, incluso a temperatura cero, en contraste con la de un gas ideal cl\u00e1sico. Esta llamada presi\u00f3n de degeneraci\u00f3n estabiliza una estrella de neutrones (un gas de Fermi de neutrones) o una estrella enana blanca (un gas de Fermi de electrones) contra la fuerza centr\u00edpeta de la gravedad, que aparentemente provocar\u00eda el colapso de la estrella en un agujero negro. S\u00f3lo cuando una estrella es suficientemente masiva para superar la presi\u00f3n de degeneraci\u00f3n puede colapsar en una singularidad.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0424\u0435\u0301\u0440\u043c\u0438-\u0433\u0430\u0437 (\u0438\u043b\u0438 \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u044b\u0439 \u0433\u0430\u0437 \u0424\u0435\u0301\u0440\u043c\u0438 \u2014 \u0414\u0438\u0440\u0430\u0301\u043a\u0430) \u2014 \u0433\u0430\u0437, \u0441\u043e\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u0438\u0437 \u0447\u0430\u0441\u0442\u0438\u0446, \u0443\u0434\u043e\u0432\u043b\u0435\u0442\u0432\u043e\u0440\u044f\u044e\u0449\u0438\u0445 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0435 \u0424\u0435\u0440\u043c\u0438 \u2014 \u0414\u0438\u0440\u0430\u043a\u0430, \u0438\u043c\u0435\u044e\u0449\u0438\u0445 \u043c\u0430\u043b\u0443\u044e \u043c\u0430\u0441\u0441\u0443 \u0438 \u0432\u044b\u0441\u043e\u043a\u0443\u044e \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u044e. \u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u044b \u0432 \u043c\u0435\u0442\u0430\u043b\u043b\u0435. \u0412 \u043f\u0435\u0440\u0432\u043e\u043c \u043f\u0440\u0438\u0431\u043b\u0438\u0436\u0435\u043d\u0438\u0438 \u043c\u043e\u0436\u043d\u043e \u0441\u0447\u0438\u0442\u0430\u0442\u044c, \u0447\u0442\u043e \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b, \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439 \u043d\u0430 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u044b \u0432 \u043c\u0435\u0442\u0430\u043b\u043b\u0435, \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u0439 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u043e\u0439 \u0438 \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0441\u0438\u043b\u044c\u043d\u043e\u043c\u0443 \u044d\u043a\u0440\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0437\u0430\u0440\u044f\u0436\u0435\u043d\u043d\u044b\u043c\u0438 \u0438\u043e\u043d\u0430\u043c\u0438 \u043c\u043e\u0436\u043d\u043e \u043f\u0440\u0435\u043d\u0435\u0431\u0440\u0435\u0447\u044c \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0441\u0442\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043e\u0442\u0442\u0430\u043b\u043a\u0438\u0432\u0430\u043d\u0438\u0435\u043c \u043c\u0435\u0436\u0434\u0443 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0430\u043c\u0438. \u0422\u043e\u0433\u0434\u0430 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u044b \u043c\u0435\u0442\u0430\u043b\u043b\u0430 \u043c\u043e\u0436\u043d\u043e \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c \u043a\u0430\u043a \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u044b\u0439 \u0433\u0430\u0437 \u0424\u0435\u0440\u043c\u0438 \u2014 \u0414\u0438\u0440\u0430\u043a\u0430.",
+                "lang": "ru"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 736413760,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 181983,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ensemble"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sea_of_charge": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Fermi_gas"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fermi_gas_model": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Fermi_gas"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fermi_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Fermi_gas"
+            }
+        ]
+    }
+}

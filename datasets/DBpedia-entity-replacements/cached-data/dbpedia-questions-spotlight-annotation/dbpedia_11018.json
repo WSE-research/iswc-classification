@@ -1,0 +1,28 @@
+{
+    "@text": "Is the size of the British Museum place thesaurus equal to 45883?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/British_Museum",
+            "@support": "11394",
+            "@types": "Wikidata:Q41176,Wikidata:Q33506,Schema:Place,DBpedia:Place,DBpedia:Museum,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "British Museum",
+            "@offset": "19",
+            "@similarityScore": "0.9999679953031253",
+            "@percentageOfSecondRank": "3.1111433582871945E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Thesaurus",
+            "@support": "338",
+            "@types": "",
+            "@surfaceForm": "thesaurus",
+            "@offset": "40",
+            "@similarityScore": "0.9999999885784377",
+            "@percentageOfSecondRank": "1.142011933690945E-8"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Is it true that the foreign transaction fee of the Santander 1plus Visa Card equals to 0?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Banco_Santander",
+            "@support": "604",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:BankOrCreditUnion,DBpedia:Organisation,DBpedia:Company,DBpedia:Bank,DBpedia:Agent",
+            "@surfaceForm": "Santander",
+            "@offset": "51",
+            "@similarityScore": "0.9865356474983743",
+            "@percentageOfSecondRank": "0.013347405151223606"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Visa_Inc.",
+            "@support": "1500",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:BankOrCreditUnion,DBpedia:Organisation,DBpedia:Company,DBpedia:Bank,DBpedia:Agent",
+            "@surfaceForm": "Visa Card",
+            "@offset": "67",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

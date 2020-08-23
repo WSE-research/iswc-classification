@@ -1,0 +1,37 @@
+{
+    "@text": "Which tenant of New Sanno Hotel is the military branch of the Gary Holder-Winfield ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/New_Sanno_Hotel",
+            "@support": "7",
+            "@types": "Wikidata:Q41176,Wikidata:Q27686,Schema:Place,Schema:Hotel,DBpedia:Place,DBpedia:Location,DBpedia:Hotel,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "New Sanno Hotel",
+            "@offset": "16",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Military_branch",
+            "@support": "120",
+            "@types": "",
+            "@surfaceForm": "military branch",
+            "@offset": "39",
+            "@similarityScore": "0.9999999943327396",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Gary_Holder-Winfield",
+            "@support": "2",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Gary Holder-Winfield",
+            "@offset": "62",
+            "@similarityScore": "0.9999737295947905",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

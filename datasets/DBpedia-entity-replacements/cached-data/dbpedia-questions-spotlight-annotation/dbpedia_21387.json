@@ -1,0 +1,28 @@
+{
+    "@text": "What team does John McGeever play for, which also employed Ben Dreith at some time?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/John_McGeever",
+            "@support": "3",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q14128148,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:GridironFootballPlayer,DBpedia:Athlete,DBpedia:AmericanFootballPlayer,DBpedia:Agent",
+            "@surfaceForm": "John McGeever",
+            "@offset": "15",
+            "@similarityScore": "0.9996763175106305",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ben_Dreith",
+            "@support": "43",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Ben Dreith",
+            "@offset": "59",
+            "@similarityScore": "0.9999999999999716",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,336 @@
+{
+    "http://dbpedia.org/resource/Flash_point": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Species"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Punto de inflamabilidad",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0646\u0642\u0637\u0629 \u0627\u0644\u0648\u0645\u064a\u0636",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u0432\u0441\u043f\u044b\u0448\u043a\u0438",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Flammpunkt",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Vlampunt",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u95ea\u70b9",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Point d'\u00e9clair",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Temperatura zap\u0142onu",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5f15\u706b\u70b9",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Punto di infiammabilit\u00e0",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Flash point",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Ponto de fulgor",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Der Flammpunkt eines Stoffes ist die niedrigste Temperatur, bei der sich \u00fcber einem Stoff ein z\u00fcndf\u00e4higes Dampf-Luft-Gemisch bilden kann. Der Verbrennungsvorgang stoppt in der Regel kurze Zeit nach der Z\u00fcndung wieder, da bei dieser Temperatur noch nicht gen\u00fcgend brennbare D\u00e4mpfe entstehen, um die Verbrennung aufrechtzuerhalten. Ist das Volumen des Gemisches gro\u00df genug, kann es explodieren. Unterhalb des Flammpunktes kann sich die Flammfront nicht von der Z\u00fcndquelle weg ausbreiten, da die W\u00e4rme aus der Oxidation nicht ausreicht, um das Gemisch auf die zur Verbrennung n\u00f6tige Temperatur aufzuheizen. Literaturwerte f\u00fcr Flammpunkte gelten allgemein f\u00fcr einen Luftdruck von 1013 mbar. Bei h\u00f6herem Druck steigt zwar der Dampfdruck geringf\u00fcgig, der Flammpunkt erh\u00f6ht sich jedoch, weil der brennbare D",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Il punto di infiammabilit\u00e0 o punto di fiamma (in inglese flash point) di un combustibile \u00e8 la temperatura pi\u00f9 bassa alla quale si formano vapori in quantit\u00e0 tale che in presenza di ossigeno (aria) e di un innesco danno luogo al fenomeno della combustione.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "El punto de inflamabilidad es el conjunto de condiciones de entorno en que una sustancia combustible inflamable, est\u00e1 en condiciones de iniciar una combusti\u00f3n si se le aplica una fuente de calor a suficiente temperatura, llegando al punto de ignici\u00f3n. La diferencia entre punto de inflamabilidad y punto de ignici\u00f3n, es que en el primero, el combustible est\u00e1 en condiciones de inflamarse, pero le falta el calor de ignici\u00f3n. Una vez retirada la fuente de calor externa pueden ocurrir dos cosas: que se mantenga la combusti\u00f3n iniciada, o que se apague el fuego por si solo.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Le point d'\u00e9clair ou point d'inflammabilit\u00e9 (en anglais : flash point) correspond \u00e0 la temp\u00e9rature la plus basse \u00e0 laquelle un corps combustible \u00e9met suffisamment de vapeurs pour former, avec l\u2019air ambiant, un m\u00e9lange gazeux qui s\u2019enflamme sous l\u2019effet d\u2019une source d\u2019\u00e9nergie calorifique telle qu\u2019une flamme pilote, mais pas suffisamment pour que la combustion s\u2019entretienne d\u2019elle-m\u00eame (pour ceci, il faut atteindre le point d'inflammation). Si l\u2019inflammation ne n\u00e9cessite pas de flamme pilote, on parle alors d\u2019auto-inflammation.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u5f15\u706b\u70b9\uff08\u3044\u3093\u304b\u3066\u3093\u3001\u82f1: flash point\uff09\u3068\u306f\u3001\u7269\u8cea\u304c\u63ee\u767a\u3057\u3066\u7a7a\u6c17\u3068\u53ef\u71c3\u6027\u306e\u6df7\u5408\u7269\u3092\u4f5c\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u6700\u4f4e\u6e29\u5ea6\u3067\u3042\u308b\u3002\u3053\u306e\u6e29\u5ea6\u3067\u71c3\u713c\u304c\u59cb\u307e\u308b\u305f\u3081\u306b\u306f\u70b9\u706b\u6e90\uff08\u88f8\u706b\u3001\u706b\u82b1\u306a\u3069\uff09\u304c\u5fc5\u8981\u3067\u3042\u308b\u3002\u307e\u305f\u5f15\u706b\u70b9\u304e\u308a\u304e\u308a\u3067\u306f\u3001\u3044\u3063\u305f\u3093\u5f15\u706b\u3057\u3066\u3082\u70b9\u706b\u6e90\u304c\u306a\u304f\u306a\u308c\u3070\u706b\u306f\u6d88\u3048\u3066\u3057\u307e\u3046\u3002\u71c3\u713c\u304c\u7d99\u7d9a\u3059\u308b\u305f\u3081\u306b\u306f\u3055\u3089\u306b\u6570\u5ea6\u9ad8\u3044\u6e29\u5ea6\u304c\u5fc5\u8981\u3067\u3001\u3053\u308c\u3092\u71c3\u713c\u70b9\u3068\u3044\u3046\u3002\u3055\u3089\u306b\u9ad8\u6e29\u306b\u306a\u308b\u3068\u70b9\u706b\u6e90\u304c\u7121\u304f\u3068\u3082\u81ea\u767a\u7684\u306b\u71c3\u713c\u304c\u59cb\u307e\u308a\u3001\u3053\u306e\u6e29\u5ea6\u3092\u767a\u706b\u70b9\u3068\u3044\u3046\u3002 \u5f15\u706b\u70b9\u306f\u3001\u706b\u707d\u4e88\u9632\u306e\u898b\u5730\u304b\u3089\u3001\u71c3\u6599\u3084\u305d\u306e\u4ed6\u306e\u6db2\u4f53\u306e\u5371\u967a\u6027\u3092\u8868\u73fe\u3059\u308b\u305f\u3081\u306b\u7528\u3044\u3089\u308c\u308b\u3002\u4f8b\u3048\u3070\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u3067\u306f\u5f15\u706b\u70b9\u304c\u83ef\u6c0f100\u5ea6\uff08\u6442\u6c0f37.8\u5ea6\uff09\u4ee5\u4e0b\u306e\u6db2\u4f53\u3092\u5f15\u706b\u6027(flammable)\u3001\u305d\u308c\u4ee5\u4e0a\u306e\u6db2\u4f53\u3092\u53ef\u71c3\u6027(combustible)\u3068\u533a\u5206\u3059\u308b\u3002\u307e\u305f\u65e5\u672c\u306e\u6d88\u9632\u6cd5\u3067\u306f\u3001\u7b2c4\u985e\u5371\u967a\u7269\uff08\u5f15\u706b\u6027\u6db2\u4f53\uff09\u3092\u305d\u306e\u5f15\u706b\u70b9\u306b\u5fdc\u3058\u3066\u3055\u3089\u306b\u533a\u5206\u3057\u3066\u6570\u91cf\u898f\u5236\u3092\u884c\u3063\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Temperatura zap\u0142onu \u2013 minimalna temperatura, w kt\u00f3rej dana substancja wytwarza tak\u0105 ilo\u015b\u0107 pary, kt\u00f3ra ulega zapaleniu si\u0119 po zbli\u017ceniu p\u0142omienia.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Ponto de fulgor, ou Ponto de Inflama\u00e7\u00e3o, \u00e9 a menor temperatura na qual um combust\u00edvel liberta vapor em quantidade suficiente para formar uma mistura inflam\u00e1vel por uma fonte externa de calor. O ponto de fulgor, ou ponto de inflama\u00e7\u00e3o, n\u00e3o \u00e9 suficiente para que a combust\u00e3o seja mantida. Trata-se de um dado importante para classifica\u00e7\u00e3o dos produtos combust\u00edveis, em especial no que se refere \u00e0 seguran\u00e7a, aos riscos de transporte, armazenagem e manuseamento.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Het vlampunt van een chemische stof is de laagste temperatuur waarbij de stof nog genoeg damp afgeeft om tot ontbranding te kunnen komen wanneer hij in contact komt met een ontstekingsbron. Het vlampunt moet niet worden verward met de zelfontbrandingstemperatuur. Dat is de temperatuur waarbij een damp/lucht-mengsel spontaan tot ontbranding komt. Het vlampunt is kenmerkend voor de kans dat er door een vonk of een gloeiend voorwerp brand ontstaat.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "The flash point of a volatile material is the lowest temperature at which vapors of the material will ignite, given an ignition source. The flash point is not to be confused with the autoignition temperature (the temperature at which the vapor ignites without an ignition source) or with the fire point (the lowest temperature at which the vapor will keep burning after having been ignited and the ignition source has been removed). The autoignition is higher than the flash point, because at the flash point the vapor may cease to burn when the ignition source is removed.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u2014 \u043d\u0430\u0438\u043c\u0435\u043d\u044c\u0448\u0430\u044f \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u043b\u0435\u0442\u0443\u0447\u0435\u0433\u043e \u043a\u043e\u043d\u0434\u0435\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430, \u043f\u0440\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043f\u0430\u0440\u044b \u043d\u0430\u0434 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c\u044e \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u044b \u0432\u0441\u043f\u044b\u0445\u0438\u0432\u0430\u0442\u044c \u0432 \u0432\u043e\u0437\u0434\u0443\u0445\u0435 \u043f\u043e\u0434 \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430 \u0437\u0430\u0436\u0438\u0433\u0430\u043d\u0438\u044f, \u043e\u0434\u043d\u0430\u043a\u043e \u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u043e\u0435 \u0433\u043e\u0440\u0435\u043d\u0438\u0435 \u043f\u043e\u0441\u043b\u0435 \u0443\u0434\u0430\u043b\u0435\u043d\u0438\u044f \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430 \u0437\u0430\u0436\u0438\u0433\u0430\u043d\u0438\u044f \u043d\u0435 \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u0435\u0442. \u0412\u0441\u043f\u044b\u0448\u043a\u0430 \u2014 \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u0441\u0433\u043e\u0440\u0430\u043d\u0438\u0435 \u0441\u043c\u0435\u0441\u0438 \u043f\u0430\u0440\u043e\u0432 \u043b\u0435\u0442\u0443\u0447\u0435\u0433\u043e \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u0441 \u0432\u043e\u0437\u0434\u0443\u0445\u043e\u043c, \u0441\u043e\u043f\u0440\u043e\u0432\u043e\u0436\u0434\u0430\u044e\u0449\u0435\u0435\u0441\u044f \u043a\u0440\u0430\u0442\u043a\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u043c \u0432\u0438\u0434\u0438\u043c\u044b\u043c \u0441\u0432\u0435\u0447\u0435\u043d\u0438\u0435\u043c. \u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0443 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u043e\u0442\u043b\u0438\u0447\u0430\u0442\u044c \u043a\u0430\u043a \u043e\u0442 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0432\u043e\u0441\u043f\u043b\u0430\u043c\u0435\u043d\u0435\u043d\u0438\u044f, \u043f\u0440\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0433\u043e\u0440\u044e\u0447\u0435\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u043e \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e \u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u043e \u0433\u043e\u0440\u0435\u0442\u044c \u043f\u043e\u0441\u043b\u0435 \u043f\u0440\u0435\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430 \u0437\u0430\u0436\u0438\u0433\u0430\u043d\u0438\u044f, \u0442\u0430\u043a \u0438 \u043e\u0442 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0441\u0430\u043c\u043e\u0432\u043e\u0441\u043f\u043b\u0430\u043c\u0435\u043d\u0435\u043d\u0438\u044f, \u043f\u0440\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0434\u043b\u044f \u0438\u043d\u0438\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0433\u043e\u0440\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u0432\u0437\u0440\u044b\u0432\u0430 \u043d\u0435 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u0432\u043d\u0435\u0448\u043d\u0438\u0439 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0437\u0430\u0436\u0438\u0433\u0430\u043d\u0438\u044f.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u0646\u0642\u0637\u0629 \u0627\u0644\u0648\u0645\u064a\u0636 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: flash point ) \u0644\u0633\u0627\u0626\u0644 \u0633\u0631\u064a\u0639 \u0627\u0644\u0627\u0634\u062a\u0639\u0627\u0644 \u0647\u064a \u0623\u062f\u0646\u0649 \u062f\u0631\u062c\u0627\u062a \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u064a\u0645\u0643\u0646 \u0623\u0646 \u064a\u0634\u0643\u0644 \u0639\u0646\u062f\u0647\u0627 \u0645\u0632\u064a\u062c \u0645\u0639 \u0627\u0644\u0647\u0648\u0627\u0621 \u0642\u0627\u0628\u0644 \u0644\u0644\u0627\u0634\u062a\u0639\u0627\u0644. \u0648\u0639\u0646\u062f \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0647\u0630\u0647 \u064a\u0645\u0643\u0646 \u0625\u064a\u0642\u0627\u0641 \u0627\u0634\u062a\u0639\u0627\u0644 \u0627\u0644\u0628\u062e\u0627\u0631 \u0639\u0646\u062f \u0625\u0632\u0627\u0644\u0629 \u0645\u0635\u062f\u0631 \u0627\u0644\u0625\u0634\u0639\u0627\u0644. \u0648\u0639\u0646\u062f \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0623\u0639\u0644\u0649 \u0642\u0644\u064a\u0644\u0627\u060c \u0646\u0642\u0637\u0629 \u0627\u0644\u0627\u0634\u062a\u0639\u0627\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Fire point)\u060c \u062a\u0639\u0631\u0641 \u0628\u0623\u0646\u0647\u0627 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u062a\u064a \u064a\u0633\u062a\u0645\u0631 \u0641\u064a\u0647\u0627 \u0627\u0644\u0628\u062e\u0627\u0631 \u0628\u0627\u0644\u0627\u062d\u062a\u0631\u0627\u0642 \u0628\u0639\u062f \u0625\u0634\u0639\u0627\u0644\u0647. \u0644\u0627 \u064a\u062a\u0639\u0644\u0642 \u0623\u064a \u0645\u0646 \u0647\u0630\u0647 \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0628\u062f\u0631\u062c\u0627\u062a \u062d\u0631\u0627\u0631\u0629 \u0645\u0635\u062f\u0631 \u0627\u0644\u0625\u0634\u0639\u0627\u0644 \u0623\u0648 \u0627\u0644\u0633\u0627\u0626\u0644 \u0627\u0644\u0645\u062d\u062a\u0631\u0642\u060c \u0627\u0644\u062a\u064a \u062a\u0643\u0648\u0646 \u0623\u0639\u0644\u0649 \u0645\u0646 \u0630\u0644\u0643 \u0628\u0643\u062b\u064a\u0631. \u062a\u0633\u062a\u062e\u062f\u0645 \u0646\u0642\u0637\u0629 \u0627\u0644\u0648\u0645\u064a\u0636 \u0643\u062b\u064a\u0631\u064b\u0627 \u0643\u0633\u0645\u0629 \u062a\u0648\u0635\u064a\u0641 \u0644\u0644\u0648\u0642\u0648\u062f \u0627\u0644\u0633\u0627\u0626\u0644\u060c \u0648\u0644\u0643\u0646\u0647\u0627 \u062a\u0633\u062a\u062e\u062f\u0645 \u0623\u064a\u0636\u064b\u0627 \u0644\u0648\u0635\u0641 \u0627\u0644\u0633\u0648\u0627\u0626\u0644 \u0627\u0644\u062a\u064a \u0644\u0627 \u062a\u0633\u062a\u062e\u062f\u0645 \u0628\u063a\u0631\u0636 \u0627\u0644\u0648\u0642\u0648\u062f.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u95ea\u70b9\uff08\u82f1\u8bed\uff1aFlash point\uff09\u662f\u6307\u53ef\u71c3\u6027\u6db2\u4f53\u6325\u53d1\u51fa\u7684\u84b8\u6c7d\u5728\u4e0e\u7a7a\u6c14\u6df7\u5408\u5f62\u6210\u53ef\u71c3\u6027\u6df7\u5408\u7269\u5e76\u8fbe\u5230\u4e00\u5b9a\u6d53\u5ea6\u4e4b\u540e\uff0c\u9047\u4e00\u5b9a\u7684\u6eab\u5ea6\u4e0b\u6642\u80fd\u591f\u9583\u720d\u8d77\u706b\u7684\u6700\u4f4e\u6e29\u5ea6\u3002\u5728\u9019\u6eab\u5ea6\u4e0b\u71c3\u71d2\u7121\u6cd5\u6301\u7e8c\uff0c\u4f46\u5982\u679c\u6eab\u5ea6\u7e7c\u7e8c\u6500\u5347\u5247\u53ef\u80fd\u5f15\u767c\u5927\u706b\u3002\u548c\u71c3\u9ede\uff08\u82f1\u8bed\uff1aFire point\uff09\u4e0d\u540c\u7684\u662f\uff0c\u71c3\u9ede\u662f\u6307\u53ef\u71c3\u6027\u7269\u8cea\u80fd\u5920\u6301\u7e8c\u71c3\u71d2\u7684\u6700\u4f4e\u6eab\u5ea6\uff0c\u9ad8\u65bc\u95ea\u70b9\u3002\u4e00\u822c\u6765\u8bf4\uff0c\u71c3\u9ede\u53ef\u5047\u5b9a\u70ba\u6bd4\u9583\u706b\u9ede\u9ad810\u2103\u5de6\u53f3\u3002\u95ea\u70b9\u7684\u9ad8\u4f4e\u4e5f\u662f\u71c3\u6db2\u662f\u5426\u5b89\u5168\u7684\u91cd\u8981\u6307\u6807\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Ponto_de_fulgor"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc778\ud654\uc810"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01q34g"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q194376"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q194376"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Titik_nyala"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Teplota_vzplanut\u00ed"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Punto_de_inflamabilidad"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Point_d'\u00e9clair"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Flammpunkt"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Flash_point"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Temperatura_zap\u0142onu"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a3\u03b7\u03bc\u03b5\u03af\u03bf_\u03b1\u03bd\u03ac\u03c6\u03bb\u03b5\u03be\u03b7\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Vlampunt"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u5f15\u706b\u70b9"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Punto_di_infiammabilit\u00e0"
+            },
+            {
+                "type": "uri",
+                "value": "http://sw.cyc.com/concept/Mx4rwO0bIJwpEbGdrcN5Y29ycA"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Threshold_temperatures"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Combustion"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Special:FilePath/Flaming_cocktails.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Flash_point"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Flash_point?oldid=742769804"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Der Flammpunkt eines Stoffes ist die niedrigste Temperatur, bei der sich \u00fcber einem Stoff ein z\u00fcndf\u00e4higes Dampf-Luft-Gemisch bilden kann. Der Verbrennungsvorgang stoppt in der Regel kurze Zeit nach der Z\u00fcndung wieder, da bei dieser Temperatur noch nicht gen\u00fcgend brennbare D\u00e4mpfe entstehen, um die Verbrennung aufrechtzuerhalten. Ist das Volumen des Gemisches gro\u00df genug, kann es explodieren. Unterhalb des Flammpunktes kann sich die Flammfront nicht von der Z\u00fcndquelle weg ausbreiten, da die W\u00e4rme aus der Oxidation nicht ausreicht, um das Gemisch auf die zur Verbrennung n\u00f6tige Temperatur aufzuheizen. Literaturwerte f\u00fcr Flammpunkte gelten allgemein f\u00fcr einen Luftdruck von 1013 mbar. Bei h\u00f6herem Druck steigt zwar der Dampfdruck geringf\u00fcgig, der Flammpunkt erh\u00f6ht sich jedoch, weil der brennbare Dampf durch mehr Luftmolek\u00fcle \u201everd\u00fcnnt\u201c wird.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Het vlampunt van een chemische stof is de laagste temperatuur waarbij de stof nog genoeg damp afgeeft om tot ontbranding te kunnen komen wanneer hij in contact komt met een ontstekingsbron. Het vlampunt moet niet worden verward met de zelfontbrandingstemperatuur. Dat is de temperatuur waarbij een damp/lucht-mengsel spontaan tot ontbranding komt. Het vlampunt is kenmerkend voor de kans dat er door een vonk of een gloeiend voorwerp brand ontstaat.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Ponto de fulgor, ou Ponto de Inflama\u00e7\u00e3o, \u00e9 a menor temperatura na qual um combust\u00edvel liberta vapor em quantidade suficiente para formar uma mistura inflam\u00e1vel por uma fonte externa de calor. O ponto de fulgor, ou ponto de inflama\u00e7\u00e3o, n\u00e3o \u00e9 suficiente para que a combust\u00e3o seja mantida. Por mistura inflam\u00e1vel, para a obten\u00e7\u00e3o do ponto de fulgor, entenda-se a quantidade de g\u00e1s ou vapor misturada com o ar atmosf\u00e9rico suficiente para iniciar uma inflama\u00e7\u00e3o em contacto com uma fonte de calor (isto \u00e9, a queima abrupta do g\u00e1s ou vapor), sem que haja a combust\u00e3o do combust\u00edvel emitente. Outro detalhe verificado \u00e9 que, ao retirar-se a fonte de calor, acaba a inflama\u00e7\u00e3o (queima) da mistura. Trata-se de um dado importante para classifica\u00e7\u00e3o dos produtos combust\u00edveis, em especial no que se refere \u00e0 seguran\u00e7a, aos riscos de transporte, armazenagem e manuseamento. O ponto de fulgor n\u00e3o deve ser confundido com a temperatura de autoigni\u00e7\u00e3o, a qual n\u00e3o requer uma fonte de igni\u00e7\u00e3o, ou o ponto de combust\u00e3o, a temperatura na qual o vapor continua a queimar ap\u00f3s ter sofrido igni\u00e7\u00e3o. Nem o ponto de fulgor, nem o ponto de combust\u00e3o s\u00e3o dependentes da temperatura da fonte de igni\u00e7\u00e3o, que \u00e9 muito mais elevada. O ponto de fulgor \u00e9 frequentemente usado como uma caracter\u00edstica descritiva de l\u00edquidos combust\u00edveis e \u00e9 tamb\u00e9m usado para ajudar a caracterizar os perigos de inflama\u00e7\u00e3o de l\u00edquidos. O conceito de ponto de fulgor refere-se tanto a l\u00edquidos inflam\u00e1veis quanto a combust\u00edveis. Existem v\u00e1rios padr\u00f5es para definir-se cada termo. L\u00edquidos com um ponto de fulgor menor que 60,5\u00b0C ou 37,8\u00b0C, dependendo do padr\u00e3o sendo aplicado, s\u00e3o considerados inflam\u00e1veis, enquanto l\u00edquidos com pontos de fulgor acima de certas temperaturas s\u00e3o considerados combust\u00edveis.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u95ea\u70b9\uff08\u82f1\u8bed\uff1aFlash point\uff09\u662f\u6307\u53ef\u71c3\u6027\u6db2\u4f53\u6325\u53d1\u51fa\u7684\u84b8\u6c7d\u5728\u4e0e\u7a7a\u6c14\u6df7\u5408\u5f62\u6210\u53ef\u71c3\u6027\u6df7\u5408\u7269\u5e76\u8fbe\u5230\u4e00\u5b9a\u6d53\u5ea6\u4e4b\u540e\uff0c\u9047\u4e00\u5b9a\u7684\u6eab\u5ea6\u4e0b\u6642\u80fd\u591f\u9583\u720d\u8d77\u706b\u7684\u6700\u4f4e\u6e29\u5ea6\u3002\u5728\u9019\u6eab\u5ea6\u4e0b\u71c3\u71d2\u7121\u6cd5\u6301\u7e8c\uff0c\u4f46\u5982\u679c\u6eab\u5ea6\u7e7c\u7e8c\u6500\u5347\u5247\u53ef\u80fd\u5f15\u767c\u5927\u706b\u3002\u548c\u71c3\u9ede\uff08\u82f1\u8bed\uff1aFire point\uff09\u4e0d\u540c\u7684\u662f\uff0c\u71c3\u9ede\u662f\u6307\u53ef\u71c3\u6027\u7269\u8cea\u80fd\u5920\u6301\u7e8c\u71c3\u71d2\u7684\u6700\u4f4e\u6eab\u5ea6\uff0c\u9ad8\u65bc\u95ea\u70b9\u3002\u4e00\u822c\u6765\u8bf4\uff0c\u71c3\u9ede\u53ef\u5047\u5b9a\u70ba\u6bd4\u9583\u706b\u9ede\u9ad810\u2103\u5de6\u53f3\u3002\u95ea\u70b9\u7684\u9ad8\u4f4e\u4e5f\u662f\u71c3\u6db2\u662f\u5426\u5b89\u5168\u7684\u91cd\u8981\u6307\u6807\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "The flash point of a volatile material is the lowest temperature at which vapors of the material will ignite, given an ignition source. The flash point is not to be confused with the autoignition temperature (the temperature at which the vapor ignites without an ignition source) or with the fire point (the lowest temperature at which the vapor will keep burning after having been ignited and the ignition source has been removed). The autoignition is higher than the flash point, because at the flash point the vapor may cease to burn when the ignition source is removed. Neither the flash point nor the fire point is dependent on the temperature of the ignition source, which is much higher.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Le point d'\u00e9clair ou point d'inflammabilit\u00e9 (en anglais : flash point) correspond \u00e0 la temp\u00e9rature la plus basse \u00e0 laquelle un corps combustible \u00e9met suffisamment de vapeurs pour former, avec l\u2019air ambiant, un m\u00e9lange gazeux qui s\u2019enflamme sous l\u2019effet d\u2019une source d\u2019\u00e9nergie calorifique telle qu\u2019une flamme pilote, mais pas suffisamment pour que la combustion s\u2019entretienne d\u2019elle-m\u00eame (pour ceci, il faut atteindre le point d'inflammation). Si l\u2019inflammation ne n\u00e9cessite pas de flamme pilote, on parle alors d\u2019auto-inflammation. Le point d\u2019inflammabilit\u00e9, autre nom du point d'\u00e9clair, est un concept p\u00e9trolier et les premiers appareils qui permettent de d\u00e9finir un point d\u2019\u00e9clair ont \u00e9t\u00e9 d\u00e9crits dans des normes p\u00e9troli\u00e8res. Il faut donc toujours pr\u00e9ciser l\u2019appareil qui a \u00e9t\u00e9 utilis\u00e9 quand on donne une valeur de point d\u2019\u00e9clair. La valeur d\u00e9pend non seulement de l\u2019appareil mais \u00e9galement de la bonne vue de l\u2019op\u00e9rateur qui doit d\u00e9celer le d\u00e9but d\u2019inflammation.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0646\u0642\u0637\u0629 \u0627\u0644\u0648\u0645\u064a\u0636 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: flash point ) \u0644\u0633\u0627\u0626\u0644 \u0633\u0631\u064a\u0639 \u0627\u0644\u0627\u0634\u062a\u0639\u0627\u0644 \u0647\u064a \u0623\u062f\u0646\u0649 \u062f\u0631\u062c\u0627\u062a \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u064a\u0645\u0643\u0646 \u0623\u0646 \u064a\u0634\u0643\u0644 \u0639\u0646\u062f\u0647\u0627 \u0645\u0632\u064a\u062c \u0645\u0639 \u0627\u0644\u0647\u0648\u0627\u0621 \u0642\u0627\u0628\u0644 \u0644\u0644\u0627\u0634\u062a\u0639\u0627\u0644. \u0648\u0639\u0646\u062f \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0647\u0630\u0647 \u064a\u0645\u0643\u0646 \u0625\u064a\u0642\u0627\u0641 \u0627\u0634\u062a\u0639\u0627\u0644 \u0627\u0644\u0628\u062e\u0627\u0631 \u0639\u0646\u062f \u0625\u0632\u0627\u0644\u0629 \u0645\u0635\u062f\u0631 \u0627\u0644\u0625\u0634\u0639\u0627\u0644. \u0648\u0639\u0646\u062f \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0623\u0639\u0644\u0649 \u0642\u0644\u064a\u0644\u0627\u060c \u0646\u0642\u0637\u0629 \u0627\u0644\u0627\u0634\u062a\u0639\u0627\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Fire point)\u060c \u062a\u0639\u0631\u0641 \u0628\u0623\u0646\u0647\u0627 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u062a\u064a \u064a\u0633\u062a\u0645\u0631 \u0641\u064a\u0647\u0627 \u0627\u0644\u0628\u062e\u0627\u0631 \u0628\u0627\u0644\u0627\u062d\u062a\u0631\u0627\u0642 \u0628\u0639\u062f \u0625\u0634\u0639\u0627\u0644\u0647. \u0644\u0627 \u064a\u062a\u0639\u0644\u0642 \u0623\u064a \u0645\u0646 \u0647\u0630\u0647 \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0628\u062f\u0631\u062c\u0627\u062a \u062d\u0631\u0627\u0631\u0629 \u0645\u0635\u062f\u0631 \u0627\u0644\u0625\u0634\u0639\u0627\u0644 \u0623\u0648 \u0627\u0644\u0633\u0627\u0626\u0644 \u0627\u0644\u0645\u062d\u062a\u0631\u0642\u060c \u0627\u0644\u062a\u064a \u062a\u0643\u0648\u0646 \u0623\u0639\u0644\u0649 \u0645\u0646 \u0630\u0644\u0643 \u0628\u0643\u062b\u064a\u0631. \u062a\u0633\u062a\u062e\u062f\u0645 \u0646\u0642\u0637\u0629 \u0627\u0644\u0648\u0645\u064a\u0636 \u0643\u062b\u064a\u0631\u064b\u0627 \u0643\u0633\u0645\u0629 \u062a\u0648\u0635\u064a\u0641 \u0644\u0644\u0648\u0642\u0648\u062f \u0627\u0644\u0633\u0627\u0626\u0644\u060c \u0648\u0644\u0643\u0646\u0647\u0627 \u062a\u0633\u062a\u062e\u062f\u0645 \u0623\u064a\u0636\u064b\u0627 \u0644\u0648\u0635\u0641 \u0627\u0644\u0633\u0648\u0627\u0626\u0644 \u0627\u0644\u062a\u064a \u0644\u0627 \u062a\u0633\u062a\u062e\u062f\u0645 \u0628\u063a\u0631\u0636 \u0627\u0644\u0648\u0642\u0648\u062f.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u2014 \u043d\u0430\u0438\u043c\u0435\u043d\u044c\u0448\u0430\u044f \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u043b\u0435\u0442\u0443\u0447\u0435\u0433\u043e \u043a\u043e\u043d\u0434\u0435\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430, \u043f\u0440\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043f\u0430\u0440\u044b \u043d\u0430\u0434 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c\u044e \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u044b \u0432\u0441\u043f\u044b\u0445\u0438\u0432\u0430\u0442\u044c \u0432 \u0432\u043e\u0437\u0434\u0443\u0445\u0435 \u043f\u043e\u0434 \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430 \u0437\u0430\u0436\u0438\u0433\u0430\u043d\u0438\u044f, \u043e\u0434\u043d\u0430\u043a\u043e \u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u043e\u0435 \u0433\u043e\u0440\u0435\u043d\u0438\u0435 \u043f\u043e\u0441\u043b\u0435 \u0443\u0434\u0430\u043b\u0435\u043d\u0438\u044f \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430 \u0437\u0430\u0436\u0438\u0433\u0430\u043d\u0438\u044f \u043d\u0435 \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u0435\u0442. \u0412\u0441\u043f\u044b\u0448\u043a\u0430 \u2014 \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u0441\u0433\u043e\u0440\u0430\u043d\u0438\u0435 \u0441\u043c\u0435\u0441\u0438 \u043f\u0430\u0440\u043e\u0432 \u043b\u0435\u0442\u0443\u0447\u0435\u0433\u043e \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u0441 \u0432\u043e\u0437\u0434\u0443\u0445\u043e\u043c, \u0441\u043e\u043f\u0440\u043e\u0432\u043e\u0436\u0434\u0430\u044e\u0449\u0435\u0435\u0441\u044f \u043a\u0440\u0430\u0442\u043a\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u043c \u0432\u0438\u0434\u0438\u043c\u044b\u043c \u0441\u0432\u0435\u0447\u0435\u043d\u0438\u0435\u043c. \u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0443 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u043e\u0442\u043b\u0438\u0447\u0430\u0442\u044c \u043a\u0430\u043a \u043e\u0442 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0432\u043e\u0441\u043f\u043b\u0430\u043c\u0435\u043d\u0435\u043d\u0438\u044f, \u043f\u0440\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0433\u043e\u0440\u044e\u0447\u0435\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u043e \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e \u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u043e \u0433\u043e\u0440\u0435\u0442\u044c \u043f\u043e\u0441\u043b\u0435 \u043f\u0440\u0435\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430 \u0437\u0430\u0436\u0438\u0433\u0430\u043d\u0438\u044f, \u0442\u0430\u043a \u0438 \u043e\u0442 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0441\u0430\u043c\u043e\u0432\u043e\u0441\u043f\u043b\u0430\u043c\u0435\u043d\u0435\u043d\u0438\u044f, \u043f\u0440\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0434\u043b\u044f \u0438\u043d\u0438\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0433\u043e\u0440\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u0432\u0437\u0440\u044b\u0432\u0430 \u043d\u0435 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u0432\u043d\u0435\u0448\u043d\u0438\u0439 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0437\u0430\u0436\u0438\u0433\u0430\u043d\u0438\u044f. \u041f\u043e \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0435 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u0438\u0437 \u0433\u0440\u0443\u043f\u043f\u044b \u0433\u043e\u0440\u044e\u0447\u0438\u0445 \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u0435\u0439 \u0432\u044b\u0434\u0435\u043b\u044f\u044e\u0442 \u043b\u0435\u0433\u043a\u043e\u0432\u043e\u0441\u043f\u043b\u0430\u043c\u0435\u043d\u044f\u044e\u0449\u0438\u0435\u0441\u044f. \u041b\u0435\u0433\u043a\u043e\u0432\u043e\u0441\u043f\u043b\u0430\u043c\u0435\u043d\u044f\u044e\u0449\u0438\u043c\u0438\u0441\u044f \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0433\u043e\u0440\u044e\u0447\u0438\u0435 \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u0438 \u0441 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u043e\u0439 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u043d\u0435 \u0431\u043e\u043b\u0435\u0435 61 \u00b0C \u0432 \u0437\u0430\u043a\u0440\u044b\u0442\u043e\u043c \u0442\u0438\u0433\u043b\u0435 (\u0437. \u0442.) \u0438\u043b\u0438 66 \u00b0C \u0432 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u043c \u0442\u0438\u0433\u043b\u0435 (\u043e. \u0442.). \u0416\u0438\u0434\u043a\u043e\u0441\u0442\u0438 \u0441 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u043e\u0439 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u043d\u0435 \u0431\u043e\u043b\u0435\u0435 28 \u00b0C \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u043e\u0441\u043e\u0431\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u043c\u0438. \u0414\u043b\u044f \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u0440\u0430\u0441\u0447\u0451\u0442\u043d\u044b\u0435 \u0438\u043b\u0438 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b. \u041a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u043f\u0440\u0438 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0438 \u0443\u043a\u0430\u0437\u0430\u043d\u0438\u044f \u043d\u0430 \u043c\u0435\u0442\u043e\u0434 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u043c\u0435\u0442\u043e\u0434 \u041f\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u2014 \u041c\u0430\u0440\u0442\u0435\u043d\u0441\u0430.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u5f15\u706b\u70b9\uff08\u3044\u3093\u304b\u3066\u3093\u3001\u82f1: flash point\uff09\u3068\u306f\u3001\u7269\u8cea\u304c\u63ee\u767a\u3057\u3066\u7a7a\u6c17\u3068\u53ef\u71c3\u6027\u306e\u6df7\u5408\u7269\u3092\u4f5c\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u6700\u4f4e\u6e29\u5ea6\u3067\u3042\u308b\u3002\u3053\u306e\u6e29\u5ea6\u3067\u71c3\u713c\u304c\u59cb\u307e\u308b\u305f\u3081\u306b\u306f\u70b9\u706b\u6e90\uff08\u88f8\u706b\u3001\u706b\u82b1\u306a\u3069\uff09\u304c\u5fc5\u8981\u3067\u3042\u308b\u3002\u307e\u305f\u5f15\u706b\u70b9\u304e\u308a\u304e\u308a\u3067\u306f\u3001\u3044\u3063\u305f\u3093\u5f15\u706b\u3057\u3066\u3082\u70b9\u706b\u6e90\u304c\u306a\u304f\u306a\u308c\u3070\u706b\u306f\u6d88\u3048\u3066\u3057\u307e\u3046\u3002\u71c3\u713c\u304c\u7d99\u7d9a\u3059\u308b\u305f\u3081\u306b\u306f\u3055\u3089\u306b\u6570\u5ea6\u9ad8\u3044\u6e29\u5ea6\u304c\u5fc5\u8981\u3067\u3001\u3053\u308c\u3092\u71c3\u713c\u70b9\u3068\u3044\u3046\u3002\u3055\u3089\u306b\u9ad8\u6e29\u306b\u306a\u308b\u3068\u70b9\u706b\u6e90\u304c\u7121\u304f\u3068\u3082\u81ea\u767a\u7684\u306b\u71c3\u713c\u304c\u59cb\u307e\u308a\u3001\u3053\u306e\u6e29\u5ea6\u3092\u767a\u706b\u70b9\u3068\u3044\u3046\u3002 \u5f15\u706b\u70b9\u306f\u3001\u706b\u707d\u4e88\u9632\u306e\u898b\u5730\u304b\u3089\u3001\u71c3\u6599\u3084\u305d\u306e\u4ed6\u306e\u6db2\u4f53\u306e\u5371\u967a\u6027\u3092\u8868\u73fe\u3059\u308b\u305f\u3081\u306b\u7528\u3044\u3089\u308c\u308b\u3002\u4f8b\u3048\u3070\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u3067\u306f\u5f15\u706b\u70b9\u304c\u83ef\u6c0f100\u5ea6\uff08\u6442\u6c0f37.8\u5ea6\uff09\u4ee5\u4e0b\u306e\u6db2\u4f53\u3092\u5f15\u706b\u6027(flammable)\u3001\u305d\u308c\u4ee5\u4e0a\u306e\u6db2\u4f53\u3092\u53ef\u71c3\u6027(combustible)\u3068\u533a\u5206\u3059\u308b\u3002\u307e\u305f\u65e5\u672c\u306e\u6d88\u9632\u6cd5\u3067\u306f\u3001\u7b2c4\u985e\u5371\u967a\u7269\uff08\u5f15\u706b\u6027\u6db2\u4f53\uff09\u3092\u305d\u306e\u5f15\u706b\u70b9\u306b\u5fdc\u3058\u3066\u3055\u3089\u306b\u533a\u5206\u3057\u3066\u6570\u91cf\u898f\u5236\u3092\u884c\u3063\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Il punto di infiammabilit\u00e0 o punto di fiamma (in inglese flash point) di un combustibile \u00e8 la temperatura pi\u00f9 bassa alla quale si formano vapori in quantit\u00e0 tale che in presenza di ossigeno (aria) e di un innesco danno luogo al fenomeno della combustione.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Temperatura zap\u0142onu \u2013 minimalna temperatura, w kt\u00f3rej dana substancja wytwarza tak\u0105 ilo\u015b\u0107 pary, kt\u00f3ra ulega zapaleniu si\u0119 po zbli\u017ceniu p\u0142omienia.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "El punto de inflamabilidad es el conjunto de condiciones de entorno en que una sustancia combustible inflamable, est\u00e1 en condiciones de iniciar una combusti\u00f3n si se le aplica una fuente de calor a suficiente temperatura, llegando al punto de ignici\u00f3n. La diferencia entre punto de inflamabilidad y punto de ignici\u00f3n, es que en el primero, el combustible est\u00e1 en condiciones de inflamarse, pero le falta el calor de ignici\u00f3n. Una vez retirada la fuente de calor externa pueden ocurrir dos cosas: que se mantenga la combusti\u00f3n iniciada, o que se apague el fuego por si solo. Si se consideran unas condiciones normales de presi\u00f3n (presi\u00f3n atmosf\u00e9rica normal de 101,3 kPa), esas condiciones se reducen a una temperatura m\u00ednima y una proporci\u00f3n determinada de vapor de combustible en el aire ambiente, que puede darse en una peque\u00f1a parte del mismo. Son importantes tanto la temperatura como la mezcla. De hecho la temperatura puede ser relativamente baja, la mayor\u00eda de las veces inferior a las normales en el ambiente, pero a esa temperatura los combustibles l\u00edquidos empiezan a desprender vapores que, al mezclarse con el ox\u00edgeno del aire u otro comburente, pueden dar las condiciones, para que cualquier chispa que alcance la temperatura de ignici\u00f3n necesaria, inicie el fuego. Entre estas condiciones es fundamental la proporci\u00f3n de los gases con el aire y, tanto si la proporci\u00f3n de gases es escasa, como si es excesiva, no se producir\u00e1 la ignici\u00f3n. La diferencia con el punto de ignici\u00f3n es que en ese caso se ha producido ya la inflamaci\u00f3n, es decir, se ha aplicado el calor de ignici\u00f3n. Para medir el punto de inflamabilidad se usa el aparato de Pensky-Martens. Temperatura de inflamabilidad de algunas sustancias:",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Special:FilePath/Flaming_cocktails.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742769804,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 286681,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Temperature"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Flash_point": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Flash_point"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Flash_Point": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Flash_point"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Which English film has the longest average shot length?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/English_people",
+            "@support": "19366",
+            "@types": "Wikidata:Q41710,DBpedia:EthnicGroup",
+            "@surfaceForm": "English",
+            "@offset": "6",
+            "@similarityScore": "0.6047461412070418",
+            "@percentageOfSecondRank": "0.5552729634027957"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Shot_(filmmaking)",
+            "@support": "439",
+            "@types": "",
+            "@surfaceForm": "average shot length",
+            "@offset": "35",
+            "@similarityScore": "0.9999999998684928",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

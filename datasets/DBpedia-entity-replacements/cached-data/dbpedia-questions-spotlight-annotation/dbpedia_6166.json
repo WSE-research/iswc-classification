@@ -1,0 +1,28 @@
+{
+    "@text": "Give me the big city with the largest fiscal/tax revenue located in the region of Metro Manila.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Cities_of_the_Philippines",
+            "@support": "2084",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "16",
+            "@similarityScore": "0.7518077015259809",
+            "@percentageOfSecondRank": "0.30258483467854724"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Metro_Manila",
+            "@support": "4183",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Metro Manila",
+            "@offset": "82",
+            "@similarityScore": "0.9999999999447482",
+            "@percentageOfSecondRank": "5.523971559420491E-11"
+        }
+    ]
+}

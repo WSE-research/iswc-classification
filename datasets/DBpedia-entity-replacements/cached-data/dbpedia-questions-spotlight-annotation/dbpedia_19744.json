@@ -1,0 +1,37 @@
+{
+    "@text": "Which institution of the Alton Ochsner is also the alma mater of John Michael Seabright ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Alton_Ochsner",
+            "@support": "30",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q901,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Scientist,DBpedia:Person,DBpedia:Medician,DBpedia:Agent",
+            "@surfaceForm": "Alton Ochsner",
+            "@offset": "25",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Alma_mater",
+            "@support": "1854",
+            "@types": "",
+            "@surfaceForm": "alma mater",
+            "@offset": "51",
+            "@similarityScore": "0.999998565605557",
+            "@percentageOfSecondRank": "1.0184686432851102E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/John_Michael_Seabright",
+            "@support": "5",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q16533,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Judge,DBpedia:Agent",
+            "@surfaceForm": "John Michael Seabright",
+            "@offset": "65",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "@text": "What Taiwanese election for the President and Vice President of China had the fewest ballots cast?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taiwan",
+            "@support": "66758",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Taiwanese",
+            "@offset": "5",
+            "@similarityScore": "0.5215953478758163",
+            "@percentageOfSecondRank": "0.7403261627320752"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+            "@support": "51563",
+            "@types": "",
+            "@surfaceForm": "President",
+            "@offset": "32",
+            "@similarityScore": "0.9092873705396101",
+            "@percentageOfSecondRank": "0.05649260108854978"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Vice_President_of_the_United_States",
+            "@support": "9522",
+            "@types": "",
+            "@surfaceForm": "Vice President",
+            "@offset": "46",
+            "@similarityScore": "0.9818759918081562",
+            "@percentageOfSecondRank": "0.017250407563591086"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/China",
+            "@support": "192191",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "China",
+            "@offset": "64",
+            "@similarityScore": "0.9847607484042367",
+            "@percentageOfSecondRank": "0.014632528260023866"
+        }
+    ]
+}

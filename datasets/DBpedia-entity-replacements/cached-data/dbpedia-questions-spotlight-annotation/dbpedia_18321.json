@@ -1,0 +1,28 @@
+{
+    "@text": "Is Judy Garland a character of End of the Rainbow?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Judy_Garland",
+            "@support": "2464",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Judy Garland",
+            "@offset": "3",
+            "@similarityScore": "0.9999999999997584",
+            "@percentageOfSecondRank": "2.401582633098255E-13"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rainbow",
+            "@support": "1152",
+            "@types": "",
+            "@surfaceForm": "Rainbow",
+            "@offset": "42",
+            "@similarityScore": "0.9874753567128275",
+            "@percentageOfSecondRank": "0.011220978442792254"
+        }
+    ]
+}

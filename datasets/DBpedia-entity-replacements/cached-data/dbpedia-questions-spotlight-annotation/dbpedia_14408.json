@@ -1,0 +1,37 @@
+{
+    "@text": "\"Who is not same as Alexander III of Russia, whose tomb is Archbasilica of St. John Lateran?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Alexander_the_Great",
+            "@support": "7346",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Alexander",
+            "@offset": "20",
+            "@similarityScore": "0.5443322395839749",
+            "@percentageOfSecondRank": "0.580472292952249"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Russia",
+            "@support": "124390",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Russia",
+            "@offset": "37",
+            "@similarityScore": "0.9925179663078645",
+            "@percentageOfSecondRank": "0.007191553930338875"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Archbasilica_of_St._John_Lateran",
+            "@support": "728",
+            "@types": "Wikidata:Q41176,Schema:Place,Schema:LandmarksOrHistoricalBuildings,DBpedia:Place,DBpedia:Location,DBpedia:HistoricBuilding,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Lateran",
+            "@offset": "84",
+            "@similarityScore": "0.9327613793797122",
+            "@percentageOfSecondRank": "0.07117224858986439"
+        }
+    ]
+}

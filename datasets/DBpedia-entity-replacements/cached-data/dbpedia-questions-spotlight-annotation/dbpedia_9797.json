@@ -1,0 +1,37 @@
+{
+    "@text": "Is Ulysses S. Grant the owner of Cincinnati?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Odysseus",
+            "@support": "3149",
+            "@types": "",
+            "@surfaceForm": "Ulysses",
+            "@offset": "3",
+            "@similarityScore": "0.9953939601773915",
+            "@percentageOfSecondRank": "0.004445401301599726"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ulysses_S._Grant",
+            "@support": "5553",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Grant",
+            "@offset": "14",
+            "@similarityScore": "0.9999787560736889",
+            "@percentageOfSecondRank": "1.4350357533943634E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cincinnati",
+            "@support": "21338",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Cincinnati",
+            "@offset": "33",
+            "@similarityScore": "0.9982181101773524",
+            "@percentageOfSecondRank": "8.988485548375033E-4"
+        }
+    ]
+}

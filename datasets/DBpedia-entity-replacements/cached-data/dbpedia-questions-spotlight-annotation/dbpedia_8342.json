@@ -1,0 +1,37 @@
+{
+    "@text": "When and where did Henry I of France and Anne of Kiev get married?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Henry_I_of_France",
+            "@support": "310",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Henry I",
+            "@offset": "19",
+            "@similarityScore": "0.9814375237698272",
+            "@percentageOfSecondRank": "0.018533484762194016"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/France",
+            "@support": "256130",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "France",
+            "@offset": "30",
+            "@similarityScore": "0.9969391167270868",
+            "@percentageOfSecondRank": "0.0019081762723016055"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Kiev",
+            "@support": "19971",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Kiev",
+            "@offset": "49",
+            "@similarityScore": "0.9997932398681051",
+            "@percentageOfSecondRank": "8.72721614501835E-5"
+        }
+    ]
+}

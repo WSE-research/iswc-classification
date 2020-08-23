@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me the road bridge which contains the word viaduct in it's name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Bridge",
+            "@support": "11859",
+            "@types": "",
+            "@surfaceForm": "bridge",
+            "@offset": "17",
+            "@similarityScore": "0.9995056829349532",
+            "@percentageOfSecondRank": "4.590782652392832E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Viaduct",
+            "@support": "2270",
+            "@types": "",
+            "@surfaceForm": "viaduct",
+            "@offset": "48",
+            "@similarityScore": "0.9998037472666707",
+            "@percentageOfSecondRank": "1.6569662438786523E-4"
+        }
+    ]
+}

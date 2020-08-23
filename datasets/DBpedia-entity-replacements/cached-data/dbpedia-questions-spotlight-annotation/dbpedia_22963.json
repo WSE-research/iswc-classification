@@ -1,0 +1,37 @@
+{
+    "@text": "Is Anne Hidalgo the mayor of Paris?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Anne_Hidalgo",
+            "@support": "74",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Anne Hidalgo",
+            "@offset": "3",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mayor",
+            "@support": "19123",
+            "@types": "",
+            "@surfaceForm": "mayor",
+            "@offset": "20",
+            "@similarityScore": "0.9987664976771846",
+            "@percentageOfSecondRank": "3.680267304815195E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Paris",
+            "@support": "125794",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Paris",
+            "@offset": "29",
+            "@similarityScore": "0.99994752922756",
+            "@percentageOfSecondRank": "5.1380070706146944E-5"
+        }
+    ]
+}

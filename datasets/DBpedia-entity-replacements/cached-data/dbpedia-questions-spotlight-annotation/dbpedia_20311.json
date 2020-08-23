@@ -1,0 +1,28 @@
+{
+    "@text": "Was Neil Armstrong on the Gemini 8 mission?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Neil_Armstrong",
+            "@support": "1041",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q11631,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Astronaut,DBpedia:Agent",
+            "@surfaceForm": "Neil Armstrong",
+            "@offset": "4",
+            "@similarityScore": "0.9999999999885034",
+            "@percentageOfSecondRank": "7.814476158530323E-12"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Gemini_8",
+            "@support": "109",
+            "@types": "Schema:Place,DBpedia:Satellite,DBpedia:Place,DBpedia:Location,DBpedia:CelestialBody,DBpedia:ArtificialSatellite",
+            "@surfaceForm": "Gemini 8",
+            "@offset": "26",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

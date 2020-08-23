@@ -1,0 +1,37 @@
+{
+    "@text": "Who is the child of Albert I, Prince of Monaco?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Albert_I_of_Belgium",
+            "@support": "634",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Albert I",
+            "@offset": "20",
+            "@similarityScore": "0.9761689810531798",
+            "@percentageOfSecondRank": "0.023855957543235735"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Prince",
+            "@support": "3758",
+            "@types": "",
+            "@surfaceForm": "Prince",
+            "@offset": "30",
+            "@similarityScore": "0.9230305277988078",
+            "@percentageOfSecondRank": "0.04032649291668148"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Monaco",
+            "@support": "7604",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Monaco",
+            "@offset": "40",
+            "@similarityScore": "0.9986116432516426",
+            "@percentageOfSecondRank": "0.0013290660203026867"
+        }
+    ]
+}

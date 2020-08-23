@@ -1,0 +1,37 @@
+{
+    "@text": "Which  NASA astronaut was on mission Gemini 8?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/NASA",
+            "@support": "33369",
+            "@types": "Wikidata:Q43229,Wikidata:Q327333,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:GovernmentAgency,DBpedia:Agent",
+            "@surfaceForm": "NASA",
+            "@offset": "7",
+            "@similarityScore": "0.9999789420202678",
+            "@percentageOfSecondRank": "1.968364366171897E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Astronaut",
+            "@support": "6028",
+            "@types": "",
+            "@surfaceForm": "astronaut",
+            "@offset": "12",
+            "@similarityScore": "0.9999967076284462",
+            "@percentageOfSecondRank": "3.0287805223489386E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Gemini_8",
+            "@support": "109",
+            "@types": "Schema:Place,DBpedia:Satellite,DBpedia:Place,DBpedia:Location,DBpedia:CelestialBody,DBpedia:ArtificialSatellite",
+            "@surfaceForm": "Gemini 8",
+            "@offset": "37",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

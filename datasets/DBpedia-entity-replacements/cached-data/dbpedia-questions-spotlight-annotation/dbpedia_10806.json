@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the Florentine musea Inventario 1890 ID for The Birth of Venus?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Florence",
+            "@support": "21230",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Florentine",
+            "@offset": "13",
+            "@similarityScore": "0.9999831204874393",
+            "@percentageOfSecondRank": "1.6331683137729622E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Musea",
+            "@support": "144",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q18127,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:RecordLabel,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "musea",
+            "@offset": "24",
+            "@similarityScore": "0.9999999422356626",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Venus",
+            "@support": "7136",
+            "@types": "Wikidata:Q634,Schema:Place,DBpedia:Planet,DBpedia:Place,DBpedia:Location,DBpedia:CelestialBody",
+            "@surfaceForm": "Venus",
+            "@offset": "66",
+            "@similarityScore": "0.9818783003719957",
+            "@percentageOfSecondRank": "0.009209968910765644"
+        }
+    ]
+}

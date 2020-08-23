@@ -1,0 +1,28 @@
+{
+    "@text": "What is the largest city in the country where the San Marcos River originates?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "20",
+            "@similarityScore": "0.8823681561310941",
+            "@percentageOfSecondRank": "0.07336570204393456"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/San_Marcos_Department",
+            "@support": "192",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "San Marcos",
+            "@offset": "50",
+            "@similarityScore": "0.9880591349874639",
+            "@percentageOfSecondRank": "0.011494634642300232"
+        }
+    ]
+}

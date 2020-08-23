@@ -1,0 +1,28 @@
+{
+    "@text": "What city was Phil LaMarr born in?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "5",
+            "@similarityScore": "0.8240538623402408",
+            "@percentageOfSecondRank": "0.11696226961846434"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Phil_LaMarr",
+            "@support": "461",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Phil LaMarr",
+            "@offset": "14",
+            "@similarityScore": "0.9999999999998437",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

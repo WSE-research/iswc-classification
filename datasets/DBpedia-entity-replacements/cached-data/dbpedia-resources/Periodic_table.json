@@ -1,0 +1,885 @@
+{
+    "http://en.wikipedia.org/wiki/Periodic_table": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dmitri_Mendeleev": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_table": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/MusicalWork"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u5143\u7d20\u5468\u671f\u8868",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Periodic table",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u062c\u062f\u0648\u0644 \u062f\u0648\u0631\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u5468\u671f\u8868",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Tabela peri\u00f3dica",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Periodensystem",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Periodiek systeem",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Tavola periodica degli elementi",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Tableau p\u00e9riodique des \u00e9l\u00e9ments",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Tabla peri\u00f3dica de los elementos",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Uk\u0142ad okresowy pierwiastk\u00f3w",
+                "lang": "pl"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "A tabela peri\u00f3dica \u00e9 uma disposi\u00e7\u00e3o sistem\u00e1tica dos elementos qu\u00edmicos ordenados por seus n\u00fameros at\u00f4micos, configura\u00e7\u00e3o eletr\u00f4nica, e recorr\u00eancia das propriedades peri\u00f3dicas. Este ordenamento mostra tend\u00eancias peri\u00f3dicas , tais como elementos com comportamentos similares na mesma coluna. Tamb\u00e9m mostra quatro blocos retangulares com propriedades qu\u00edmicas similares. Em geral, dentro de uma linha (per\u00edodo) os elementos s\u00e3o met\u00e1licos na esquerda e n\u00e3o-met\u00e1licos na direita.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Das Periodensystem (Langfassung Periodensystem der Elemente, abgek\u00fcrzt PSE) stellt alle chemischen Elemente mit steigender Kernladung (Ordnungszahl) und entsprechend ihren chemischen Eigenschaften eingeteilt in Perioden sowie Haupt- und Nebengruppen dar. Es wurde 1869 unabh\u00e4ngig voneinander und fast identisch von zwei Chemikern aufgestellt, zun\u00e4chst von dem Russen Dmitri Mendelejew (1834\u20131907) und wenige Monate sp\u00e4ter von dem Deutschen Lothar Meyer (1830\u20131895). Historisch war das Periodensystem f\u00fcr die Vorhersage der Entdeckung neuer Elemente und deren Eigenschaften von besonderer Bedeutung. Heute dient es vor allem der \u00dcbersicht.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062d\u062f\u064a\u062b \u0644\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0648\u0627\u0644\u0630\u064a \u064a\u0639\u0631\u0641 \u0623\u064a\u0636\u0627 \u0628\u0640 (\u062c\u062f\u0648\u0644 \u0645\u0646\u062f\u0644\u064a\u0641\u060c \u0623\u0648 \u0627\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a \u0644\u0644\u0639\u0646\u0627\u0635\u0631\u060c \u0623\u0648 \u0627\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a) \u0648\u0647\u0648 \u0639\u0631\u0636 \u062c\u062f\u0648\u0644\u064a \u0644\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0627\u0644\u0645\u0639\u0631\u0648\u0641\u0629. \u0639\u0644\u0649 \u0627\u0644\u0631\u063a\u0645 \u0645\u0646 \u0648\u062c\u0648\u062f \u062c\u062f\u0627\u0648\u0644 \u0633\u0628\u0642\u062a \u062c\u062f\u0648\u0644 \u0645\u0646\u062f\u0644\u064a\u064a\u0641 \u0625\u0644\u0627 \u0623\u0646 \u0628\u0646\u0627\u0621 \u0647\u0630\u0627 \u0627\u0644\u062c\u062f\u0648\u0644 \u064a\u0639\u0632\u0649 \u0628\u0634\u0643\u0644 \u0639\u0627\u0645 \u0625\u0644\u0649 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a \u0627\u0644\u0631\u0648\u0633\u064a \u062f\u064a\u0645\u062a\u0631\u064a \u0645\u0646\u062f\u0644\u064a\u0641, \u062d\u064a\u062b \u0642\u0627\u0645 \u0641\u064a \u0639\u0627\u0645 1869 \u0628\u062a\u0631\u062a\u064a\u0628 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0628\u0627\u0644\u0627\u0639\u062a\u0645\u0627\u062f \u0639\u0644\u0649 \u0627\u0644\u0633\u0644\u0648\u0643 (\u0627\u0644\u062f\u0648\u0631\u064a) \u0644\u0644\u062e\u0635\u0627\u0626\u0635 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0644\u0644\u0639\u0646\u0627\u0635\u0631\u060c \u062b\u0645 \u0642\u0627\u0645 \u0647\u0646\u0631\u064a \u0645\u0648\u0632\u0644\u064a \u0639\u0627\u0645 1911 \u0628\u0625\u0639\u0627\u062f\u0629 \u062a\u0631\u062a\u064a\u0628 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0628\u062d\u0633\u0628 \u0627\u0644\u0639\u062f\u062f \u0627\u0644\u0630\u0631\u064a\u060c \u0623\u064a \u0639\u062f\u062f \u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0646\u0627\u062a \u0627\u0644\u0645\u0648\u062c\u0648\u062f\u0629 \u0628\u0643\u0644 \u0639\u0646\u0635\u0631.\u0648\u0645\u0639 \u0645\u0631\u0648\u0631 \u0627\u0644\u0648\u0642\u062a \u062a\u0645 \u062a\u0639\u062f\u064a\u0644 \u0645\u062e\u0637\u0637 \u0627\u0644\u062c\u062f\u0648\u0644 \u0645\u0631\u0627\u062a \u0639\u062f\u064a\u062f\u0629\u060c \u062d\u064a\u062b \u0623\u0636\u064a\u0641\u062a \u0639\u0646\u0627\u0635\u0631 \u062c\u062f\u064a\u062f\u0629 \u0645\u0643\u062a\u0634\u0641\u0629\u060c \u0643\u0645\u0627 \u0623\u0636\u064a\u0641\u062a \u0646\u0645\u0627\u0630\u062c \u0646\u0638\u0631\u064a\u0629 \u0637\u0648\u0631\u062a \u0644\u062a\u0641\u0633\u064a\u0631 \u0633\u0644\u0648\u0643 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "La tabla peri\u00f3dica de los elementos es una disposici\u00f3n de los elementos qu\u00edmicos en forma de tabla, ordenados por su n\u00famero at\u00f3mico (n\u00famero de protones), por su configuraci\u00f3n de electrones y sus propiedades qu\u00edmicas. Este ordenamiento muestra tendencias peri\u00f3dicas, como elementos con comportamiento similar en la misma columna. En palabras de Theodor Benfey, la tabla y la ley peri\u00f3dica \u00abson el coraz\u00f3n de la qu\u00edmica \u2014comparables a lo que la teor\u00eda de la evoluci\u00f3n en biolog\u00eda (que sucedi\u00f3 al concepto de la Gran Cadena del Ser) y las leyes de la termodin\u00e1mica en la f\u00edsica cl\u00e1sica\u00bb.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0435\u0440\u0438\u043e\u0434\u0438\u0301\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u0301\u043c\u0430 \u0445\u0438\u043c\u0438\u0301\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u043b\u0435\u043c\u0435\u0301\u043d\u0442\u043e\u0432 (\u0442\u0430\u0431\u043b\u0438\u0301\u0446\u0430 \u041c\u0435\u043d\u0434\u0435\u043b\u0435\u0301\u0435\u0432\u0430) \u2014 \u043a\u043b\u0430\u0441\u0441\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432, \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0449\u0430\u044f \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u044c \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0441\u0432\u043e\u0439\u0441\u0442\u0432 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u043e\u0442 \u0437\u0430\u0440\u044f\u0434\u0430 \u0430\u0442\u043e\u043c\u043d\u043e\u0433\u043e \u044f\u0434\u0440\u0430. \u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435\u043c \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0437\u0430\u043a\u043e\u043d\u0430, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u0438\u043c \u0445\u0438\u043c\u0438\u043a\u043e\u043c \u0414. \u0418. \u041c\u0435\u043d\u0434\u0435\u043b\u0435\u0435\u0432\u044b\u043c \u0432 1869 \u0433\u043e\u0434\u0443. \u0415\u0451 \u043f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0431\u044b\u043b \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d \u0414. \u0418. \u041c\u0435\u043d\u0434\u0435\u043b\u0435\u0435\u0432\u044b\u043c \u0432 1869\u20141871 \u0433\u043e\u0434\u0430\u0445 \u0438 \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u043b \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u044c \u0441\u0432\u043e\u0439\u0441\u0442\u0432 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u043e\u0442 \u0438\u0445 \u0430\u0442\u043e\u043c\u043d\u043e\u0433\u043e \u0432\u0435\u0441\u0430 (\u043f\u043e-\u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u043c\u0443, \u043e\u0442 \u0430\u0442\u043e\u043c\u043d\u043e\u0439 \u043c\u0430\u0441\u0441\u044b). \u0412\u0441\u0435\u0433\u043e \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u043e \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0441\u043e\u0442\u0435\u043d \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b (\u0430\u043d\u0430\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043a\u0440\u0438\u0432\u044b\u0445, \u0442\u0430\u0431\u043b\u0438\u0446, \u0433\u0435\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0444\u0438\u0433\u0443\u0440 \u0438 \u0442. \u043f.). \u0412 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f \u0441\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u0432 \u0434\u0432\u0443\u043c\u0435\u0440\u043d\u0443\u044e \u0442\u0430\u0431\u043b\u0438\u0446\u0443, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043a\u0430\u0436\u0434\u044b\u0439 \u0441\u0442\u043e\u043b\u0431\u0435\u0446 (\u0433\u0440\u0443\u043f\u043f\u0430) \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0444\u0438\u0437\u0438\u043a\u043e-\u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430, ",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u5316\u5b78\u5143\u7d20\u9031\u671f\u8868\u662f\u6839\u64da\u539f\u5b50\u5e8f\u5f9e\u5c0f\u81f3\u5927\u6392\u5e8f\u7684\u5316\u5b78\u5143\u7d20\u5217\u8868\u3002\u5217\u8868\u5927\u9ad4\u5448\u9577\u65b9\u5f62\uff0c\u67d0\u4e9b\u5143\u7d20\u9031\u671f\u4e2d\u7559\u6709\u7a7a\u683c\uff0c\u4f7f\u7279\u6027\u76f8\u8fd1\u7684\u5143\u7d20\u6b78\u5728\u540c\u4e00\u65cf\u4e2d\uff0c\u5982\u9e75\u7d20\u53ca\u60f0\u6027\u6c23\u9ad4\u3002\u9019\u4f7f\u9031\u671f\u8868\u4e2d\u5f62\u6210\u5143\u7d20\u5206\u5340\u3002\u7531\u65bc\u9031\u671f\u8868\u80fd\u5920\u6e96\u78ba\u5730\u9810\u6e2c\u5404\u7a2e\u5143\u7d20\u7684\u7279\u6027\u53ca\u5176\u4e4b\u9593\u7684\u95dc\u4fc2\uff0c\u56e0\u6b64\u5b83\u5728\u5316\u5b78\u53ca\u5176\u4ed6\u79d1\u5b78\u7bc4\u7587\u4e2d\u88ab\u5ee3\u6cdb\u4f7f\u7528\uff0c\u4f5c\u70ba\u5206\u6790\u5316\u5b78\u884c\u70ba\u6642\u5341\u5206\u6709\u7528\u7684\u6846\u67b6\u3002 \u73fe\u4ee3\u7684\u9031\u671f\u8868\u7531\u5fb7\u7c73\u7279\u91cc\u00b7\u9580\u6377\u5217\u592b\u65bc1869\u5e74\u5275\u9020\uff0c\u7528\u4ee5\u5c55\u73fe\u7576\u6642\u5df2\u77e5\u5143\u7d20\u7279\u6027\u7684\u9031\u671f\u6027\u3002\u81ea\u6b64\uff0c\u96a8\u8457\u65b0\u5143\u7d20\u7684\u63a2\u7d22\u767c\u73fe\u548c\u7406\u8ad6\u6a21\u578b\u7684\u767c\u5c55\uff0c\u9031\u671f\u8868\u7684\u5916\u89c0\u66fe\u7d93\u904e\u6539\u8b8a\u53ca\u64f4\u5f35\u3002\u901a\u904e\u9019\u7a2e\u5217\u8868\u65b9\u5f0f\uff0c\u9580\u6377\u5217\u592b\u4e5f\u9810\u6e2c\u4e86\u4e00\u4e9b\u7576\u6642\u672a\u77e5\u5143\u7d20\u7684\u7279\u6027\uff0c\u4ee5\u586b\u88dc\u9031\u671f\u8868\u4e2d\u7684\u7a7a\u683c\u3002\u5176\u5f8c\u767c\u73fe\u7684\u65b0\u5143\u7d20\u7684\u78ba\u6709\u76f8\u4f3c\u7684\u7279\u6027\uff0c\u4f7f\u4ed6\u7684\u9810\u6e2c\u5f97\u5230\u8a3c\u5be6\u3002 \u5316\u5b78\u5143\u7d20\u9031\u671f\u8868\u5c06\u5404\u4e2a\u5316\u5b66\u5143\u7d20\u4f9d\u636e\u539f\u5b50\u5e8f\u7f16\u53f7\uff0c\u5e76\u4f9d\u6b64\u6392\u5217\u3002\u539f\u5b50\u5e8f\u5f9e1\uff08\u6c2b\uff09\u81f3118\uff08Og\uff09\u7684\u6240\u6709\u5143\u7d20\u90fd\u5df2\u88ab\u53d1\u73b0\u5e76\u6210\u529f\u5408\u6210\uff0c\u5176\u4e2d\u7b2c113\u3001115\u3001117\u3001118\u53f7\u5143\u7d20\u57282015\u5e7412\u670830\u65e5\u88abIUPAC\u786e\u8ba4\u3002 \u800c\u5176\u4e2d\u76f4\u5230\u9272\u7684\u5143\u7d20\u90fd\u5728\u81ea\u7136\u754c\u4e2d\u5b58\u5728\uff0c\u5176\u9918\u7684\uff08\u4ea6\u5305\u62ec\u773e\u591a\u653e\u5c04\u6027\u540c\u4f4d\u7d20\uff09\u90fd\u662f\u5728\u5be6\u9a57\u5ba4\u4e2d\u5408\u6210\u7684\u3002\u76ee\u524dUuo\u4e4b\u5f8c\u7684\u5143\u7d20\u7684\u5408\u6210\u6b63\u5728\u9032\u884c\u4e2d\uff0c\u5e36\u51fa\u4e86\u5982\u4f55\u64f4\u5c55\u5143\u7d20\u9031\u671f\u8868\u7684\u554f\u984c\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Uk\u0142ad okresowy pierwiastk\u00f3w (potocznie: tablica Mendelejewa) \u2013 zestawienie wszystkich pierwiastk\u00f3w chemicznych w postaci rozbudowanej tabeli, uporz\u0105dkowanych wed\u0142ug ich rosn\u0105cej liczby atomowej, grupuj\u0105ce pierwiastki wed\u0142ug ich cyklicznie powtarzaj\u0105cych si\u0119 podobie\u0144stw w\u0142a\u015bciwo\u015bci, zgodnie z prawem okresowo\u015bci Dmitrija Mendelejewa.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5468\u671f\u8868\uff08\u3057\u3085\u3046\u304d\u3072\u3087\u3046\u3001\u82f1: periodic table\uff09\u306f\u3001\u7269\u8cea\u3092\u69cb\u6210\u3059\u308b\u57fa\u672c\u5358\u4f4d\u3067\u3042\u308b\u5143\u7d20\u3092\u3001\u305d\u308c\u305e\u308c\u304c\u6301\u3064\u7269\u7406\u7684\u307e\u305f\u306f\u5316\u5b66\u7684\u6027\u8cea\u304c\u4f3c\u305f\u3082\u306e\u540c\u58eb\u304c\u4e26\u3076\u3088\u3046\u306b\u6c7a\u3081\u3089\u308c\u305f\u898f\u5247\uff08\u5468\u671f\u5f8b\uff09\u306b\u5f93\u3063\u3066\u914d\u5217\u3057\u305f\u8868\u3067\u3042\u308b\u3002\u3053\u308c\u306f\u539f\u5247\u7684\u306b\u3001\u5de6\u4e0a\u304b\u3089\u539f\u5b50\u756a\u53f7\u306e\u9806\u306b\u4e26\u3076\u3088\u3046\u4f5c\u6210\u3055\u308c\u3066\u3044\u308b\u3002\u5468\u671f\u8868\u4e0a\u3067\u5143\u7d20\u306f\u305d\u306e\u539f\u5b50\u306e\u96fb\u5b50\u914d\u7f6e\u306b\u5f93\u3063\u3066\u4e26\u3079\u3089\u308c\u3001\u4f3c\u305f\u6027\u8cea\u306e\u5143\u7d20\u304c\u898f\u5247\u7684\u306b\u51fa\u73fe\u3059\u308b\u3002 \u540c\u69d8\u306e\u4e3b\u65e8\u3092\u5143\u306b\u4f5c\u6210\u3055\u308c\u305f\u5148\u99c6\u7684\u306a\u8868\u3082\u5b58\u5728\u3059\u308b\u304c\u3001\u4e00\u822c\u306b\u5468\u671f\u8868\u306f1869\u5e74\u306b\u30ed\u30b7\u30a2\u306e\u5316\u5b66\u8005\u30c9\u30df\u30c8\u30ea\u30fb\u30e1\u30f3\u30c7\u30ec\u30fc\u30a8\u30d5\u306b\u3088\u3063\u3066\u63d0\u6848\u3055\u308c\u305f\u3001\u539f\u5b50\u91cf\u9806\u306b\u4e26\u3079\u305f\u5143\u7d20\u304c\u3042\u308b\u5468\u56de\u3067\u50be\u5411\u304c\u8fd1\u4f3c\u3057\u305f\u6027\u8cea\u3092\u793a\u3059\u5468\u671f\u7684\u306a\u7279\u5fb4\u3092\u4f8b\u8a3c\u3057\u305f\u8868\u306b\u59cb\u307e\u308b\u3068\u898b\u306a\u3055\u308c\u3066\u3044\u308b\u3002\u3053\u306e\u8868\u306e\u5f62\u5f0f\u306f\u3001\u65b0\u5143\u7d20\u306e\u767a\u898b\u3084\u7406\u8ad6\u69cb\u7bc9\u306a\u3069\u5143\u7d20\u306b\u5bfe\u3059\u308b\u77e5\u898b\u304c\u7a4d\u307f\u91cd\u306a\u308b\u3068\u3068\u3082\u306b\u6539\u826f\u3055\u308c\u3001\u73fe\u5728\u3067\u306f\u5404\u5143\u7d20\u306e\u3075\u308b\u307e\u3044\u3092\u8aac\u660e\u3059\u308b\u6d17\u7df4\u3055\u308c\u305f\u8868\u3068\u306a\u3063\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Le tableau p\u00e9riodique des \u00e9l\u00e9ments, \u00e9galement appel\u00e9 table de Mendele\u00efev, classification p\u00e9riodique des \u00e9l\u00e9ments (CPE) ou simplement tableau p\u00e9riodique, repr\u00e9sente tous les \u00e9l\u00e9ments chimiques, ordonn\u00e9s par num\u00e9ro atomique croissant et organis\u00e9s en fonction de leur configuration \u00e9lectronique, laquelle sous-tend leurs propri\u00e9t\u00e9s chimiques.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "La tavola periodica degli elementi (o semplicemente tavola periodica) \u00e8 lo schema con cui sono ordinati gli elementi chimici sulla base del loro numero atomico Z e del numero di elettroni presenti negli orbitali atomici s, p, d e f. La tavola periodica degli elementi \u00e8 stata ideata dal chimico russo Dmitrij Ivanovi\u010d Mendeleev nel 1869, e, in modo indipendente, dal chimico tedesco Julius Lothar Meyer (1830 - 1895). La tavola contava in principio numerosi spazi vuoti, previsti per gli elementi che sarebbero stati scoperti in futuro, alcuni dei quali nella seconda met\u00e0 del Novecento.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Het periodiek systeem, of voluit het periodiek systeem der elementen, is een tabel met daarin de chemische elementen, geordend volgens hun atoomnummers (aantal protonen in de atoomkern), zodanig dat elementen met vergelijkbare elektronenconfiguratie (en daardoor met vergelijkbare stofeigenschappen) boven elkaar staan. De tabel bevat vier rechthoekige blokken: de s-, p-, d- en f-blokken. Over het algemeen zijn binnen \u00e9\u00e9n rij (periode) de elementen die aan de linkerkant staan metalen en die aan de rechterkant niet-metalen.",
+                "lang": "nl"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q10693"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03cc\u03c2_\u03c0\u03af\u03bd\u03b1\u03ba\u03b1\u03c2_\u03c4\u03c9\u03bd_\u03c7\u03b7\u03bc\u03b9\u03ba\u03ce\u03bd_\u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03c9\u03bd"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Uk\u0142ad_okresowy_pierwiastk\u00f3w"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Periodick\u00e1_tabulka"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Taula_periodikoa"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc8fc\uae30\uc728\ud45c"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u5468\u671f\u8868"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Tabela_peri\u00f3dica"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Tabla_peri\u00f3dica_de_los_elementos"
+            },
+            {
+                "type": "uri",
+                "value": "http://sw.cyc.com/concept/Mx4rv_VCjJwpEbGdrcN5Y29ycA"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4125872-1"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q10693"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Periodiek_systeem"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Tabel_periodik"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Periodensystem"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Tavola_periodica_degli_elementi"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Tableau_p\u00e9riodique_des_\u00e9l\u00e9ments"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.05rbs"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Russian_inventions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Dmitri_Mendeleev"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Periodic_table"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:1869_works"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Classification_systems"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/14LaAc_periodic_table_IIb.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Periodic_table"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Periodic_table?oldid=744932185"
+            }
+        ],
+        "http://dbpedia.org/property/number": [
+            {
+                "type": "literal",
+                "value": 120,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/direction": [
+            {
+                "type": "literal",
+                "value": "vertical",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.periodicvideos.com"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.meta-synthesis.com/webbook/35_pt/pt_database.php"
+            },
+            {
+                "type": "uri",
+                "value": "http://iupac.org/what-we-do/periodic-table-of-elements"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.meta-synthesis.com/webbook/35_pt/pt_database.php?PT_id=360"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.meta-synthesis.com/webbook/35_pt/pt_database.php?PT_id=456"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.webelements.com"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ptable.com"
+            }
+        ],
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "literal",
+                "value": "Periodic table with eight rows, extended to element 172",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Mendeleev's periodic table from his book",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Dmitri Mendeleev, watercolor by Ilya Repin's",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u5468\u671f\u8868\uff08\u3057\u3085\u3046\u304d\u3072\u3087\u3046\u3001\u82f1: periodic table\uff09\u306f\u3001\u7269\u8cea\u3092\u69cb\u6210\u3059\u308b\u57fa\u672c\u5358\u4f4d\u3067\u3042\u308b\u5143\u7d20\u3092\u3001\u305d\u308c\u305e\u308c\u304c\u6301\u3064\u7269\u7406\u7684\u307e\u305f\u306f\u5316\u5b66\u7684\u6027\u8cea\u304c\u4f3c\u305f\u3082\u306e\u540c\u58eb\u304c\u4e26\u3076\u3088\u3046\u306b\u6c7a\u3081\u3089\u308c\u305f\u898f\u5247\uff08\u5468\u671f\u5f8b\uff09\u306b\u5f93\u3063\u3066\u914d\u5217\u3057\u305f\u8868\u3067\u3042\u308b\u3002\u3053\u308c\u306f\u539f\u5247\u7684\u306b\u3001\u5de6\u4e0a\u304b\u3089\u539f\u5b50\u756a\u53f7\u306e\u9806\u306b\u4e26\u3076\u3088\u3046\u4f5c\u6210\u3055\u308c\u3066\u3044\u308b\u3002\u5468\u671f\u8868\u4e0a\u3067\u5143\u7d20\u306f\u305d\u306e\u539f\u5b50\u306e\u96fb\u5b50\u914d\u7f6e\u306b\u5f93\u3063\u3066\u4e26\u3079\u3089\u308c\u3001\u4f3c\u305f\u6027\u8cea\u306e\u5143\u7d20\u304c\u898f\u5247\u7684\u306b\u51fa\u73fe\u3059\u308b\u3002 \u540c\u69d8\u306e\u4e3b\u65e8\u3092\u5143\u306b\u4f5c\u6210\u3055\u308c\u305f\u5148\u99c6\u7684\u306a\u8868\u3082\u5b58\u5728\u3059\u308b\u304c\u3001\u4e00\u822c\u306b\u5468\u671f\u8868\u306f1869\u5e74\u306b\u30ed\u30b7\u30a2\u306e\u5316\u5b66\u8005\u30c9\u30df\u30c8\u30ea\u30fb\u30e1\u30f3\u30c7\u30ec\u30fc\u30a8\u30d5\u306b\u3088\u3063\u3066\u63d0\u6848\u3055\u308c\u305f\u3001\u539f\u5b50\u91cf\u9806\u306b\u4e26\u3079\u305f\u5143\u7d20\u304c\u3042\u308b\u5468\u56de\u3067\u50be\u5411\u304c\u8fd1\u4f3c\u3057\u305f\u6027\u8cea\u3092\u793a\u3059\u5468\u671f\u7684\u306a\u7279\u5fb4\u3092\u4f8b\u8a3c\u3057\u305f\u8868\u306b\u59cb\u307e\u308b\u3068\u898b\u306a\u3055\u308c\u3066\u3044\u308b\u3002\u3053\u306e\u8868\u306e\u5f62\u5f0f\u306f\u3001\u65b0\u5143\u7d20\u306e\u767a\u898b\u3084\u7406\u8ad6\u69cb\u7bc9\u306a\u3069\u5143\u7d20\u306b\u5bfe\u3059\u308b\u77e5\u898b\u304c\u7a4d\u307f\u91cd\u306a\u308b\u3068\u3068\u3082\u306b\u6539\u826f\u3055\u308c\u3001\u73fe\u5728\u3067\u306f\u5404\u5143\u7d20\u306e\u3075\u308b\u307e\u3044\u3092\u8aac\u660e\u3059\u308b\u6d17\u7df4\u3055\u308c\u305f\u8868\u3068\u306a\u3063\u3066\u3044\u308b\u3002 \u5468\u671f\u8868\u306f\u3001\u932c\u91d1\u8853\u5e2b\u3001\u5316\u5b66\u8005\u3001\u7269\u7406\u5b66\u8005\u3001\u305d\u306e\u4ed6\u306e\u79d1\u5b66\u8005\u306a\u3069\u3001\u7121\u6570\u306e\u4eba\u305f\u3061\u306b\u3088\u308b\u77e5\u306e\u96c6\u5927\u6210\u3067\u3042\u308b\u3002\u5143\u7d20\u306e\u6027\u8cea\u3092\u7c21\u6f54\u304b\u3064\u5b8c\u6210\u5ea6\u304c\u9ad8\u304f\u793a\u3057\u305f\u5468\u671f\u8868\u306f\u300c\u5316\u5b66\u306e\u30d0\u30a4\u30d6\u30eb\u300d\u3068\u3082\u547c\u3070\u308c\u308b\u3002\u73fe\u5728\u3001\u5468\u671f\u8868\u306f\u5316\u5b66\u306e\u3042\u3089\u3086\u308b\u5206\u91ce\u306b\u3066\u3001\u53cd\u5fdc\u306e\u5206\u985e\u3084\u4f53\u7cfb\u5316\u304a\u3088\u3073\u6bd4\u8f03\u3092\u884c\u3046\u305f\u3081\u306e\u67a0\u7d44\u307f\u3092\u4e0e\u3048\u308b\u3082\u306e\u3068\u3057\u3066\u3001\u6c4e\u7528\u7684\u306b\u7528\u3044\u3089\u308c\u3066\u3044\u308b\u3002\u305d\u3057\u3066\u3001\u5316\u5b66\u3060\u3051\u3067\u306a\u304f\u7269\u7406\u5b66\u3001\u751f\u7269\u5b66\u3001\u5316\u5b66\u5de5\u5b66\u3092\u4e2d\u5fc3\u306b\u5de5\u5b66\u5168\u4f53\u306b\u3001\u591a\u304f\u306e\u6cd5\u5247\u3092\u793a\u3059\u8868\u3068\u3057\u3066\u7528\u3044\u3089\u308c\u308b\u30022015\u5e74\u73fe\u5728\u306e\u5468\u671f\u8868\u3067\u306f\u3001\u767a\u898b\u5831\u544a\u304c\u306a\u3055\u308c\u3066\u3044\u308b118\u756a\u76ee\u307e\u3067\u306e\u5143\u7d20\u3092\u542b\u3080\u3082\u306e\u304c\u4e00\u822c\u7684\u3067\u3042\u308b\u304c\u3001\u672a\u767a\u898b\u5143\u7d20\u3092\u542b\u3081\u305f172\u756a\u76ee\u307e\u3067\u306e\u5143\u7d20\u3092\u542b\u3080\u5468\u671f\u8868\u3082\u767a\u8868\u3055\u308c\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Het periodiek systeem, of voluit het periodiek systeem der elementen, is een tabel met daarin de chemische elementen, geordend volgens hun atoomnummers (aantal protonen in de atoomkern), zodanig dat elementen met vergelijkbare elektronenconfiguratie (en daardoor met vergelijkbare stofeigenschappen) boven elkaar staan. De tabel bevat vier rechthoekige blokken: de s-, p-, d- en f-blokken. Over het algemeen zijn binnen \u00e9\u00e9n rij (periode) de elementen die aan de linkerkant staan metalen en die aan de rechterkant niet-metalen. De rijen van de tabel worden periodes genoemd; de kolommen heten groepen. Zes groepen (kolommen) hebben namen en nummers: bijvoorbeeld, de elementen uit groep 17 zijn de halogenen en in groep 18 zijn de edelgassen. Het periodiek systeem kan gebruikt worden om overeenkomsten te vinden tussen de eigenschappen van elementen, en de eigenschappen te ontdekken van nieuwe of nog onbekende elementen. Het periodiek systeem is een nuttig raamwerk om chemisch gedrag mee te analyseren, en het wordt uitgebreid gebruikt in de chemie en andere natuurwetenschappen. Hoewel er voorgangers bestaan, werd de eerste herkenbare tabel gepubliceerd door Dmitri Mendelejev in 1869. Hij ontwikkelde zijn tabel om periodieke trends aan te tonen in de toen bekende elementen. Mendelejev voorspelde ook enkele eigenschappen van toen onbekende elementen, waarvan hij verwachtte dat die de gaten in de tabel zouden vullen. Toen die elementen werden ontdekt, bleken zijn voorspellingen grotendeels correct te zijn geweest. Het periodieke systeem van Mendelejev is sindsdien uitgebreid en verfijnd door het ontdekken of synthetiseren van meer nieuwe elementen en het ontwikkelen van nieuwe theoretische modellen om het chemisch gedrag te verklaren. De elementen met atoomnummer 1 (waterstof) tot en met 118 (ununoctium) zijn inmiddels ontdekt of gesynthetiseerd. De eerste 94 elementen komen voor in de natuur, hoewel sommige daarvan zeer schaars zijn en eerst in een laboratorium gesynthetiseerd werden voordat ze in de natuur ontdekt werden. Elementen met atoomnummer 95 tot 118 zijn enkel gesynthetiseerd in laboratoria. Van verschillende elementen die in de natuur voorkomen, zijn synthetische radionucliden (niet in de natuur voorkomende radioactieve isotopen) in laboratoria geproduceerd. Aangenomen wordt dat de elementen 95 tot 100 ooit in de natuur voorkwamen, maar nu niet meer.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0435\u0440\u0438\u043e\u0434\u0438\u0301\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u0301\u043c\u0430 \u0445\u0438\u043c\u0438\u0301\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u043b\u0435\u043c\u0435\u0301\u043d\u0442\u043e\u0432 (\u0442\u0430\u0431\u043b\u0438\u0301\u0446\u0430 \u041c\u0435\u043d\u0434\u0435\u043b\u0435\u0301\u0435\u0432\u0430) \u2014 \u043a\u043b\u0430\u0441\u0441\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432, \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0449\u0430\u044f \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u044c \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0441\u0432\u043e\u0439\u0441\u0442\u0432 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u043e\u0442 \u0437\u0430\u0440\u044f\u0434\u0430 \u0430\u0442\u043e\u043c\u043d\u043e\u0433\u043e \u044f\u0434\u0440\u0430. \u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435\u043c \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0437\u0430\u043a\u043e\u043d\u0430, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u0438\u043c \u0445\u0438\u043c\u0438\u043a\u043e\u043c \u0414. \u0418. \u041c\u0435\u043d\u0434\u0435\u043b\u0435\u0435\u0432\u044b\u043c \u0432 1869 \u0433\u043e\u0434\u0443. \u0415\u0451 \u043f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0431\u044b\u043b \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d \u0414. \u0418. \u041c\u0435\u043d\u0434\u0435\u043b\u0435\u0435\u0432\u044b\u043c \u0432 1869\u20141871 \u0433\u043e\u0434\u0430\u0445 \u0438 \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u043b \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u044c \u0441\u0432\u043e\u0439\u0441\u0442\u0432 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u043e\u0442 \u0438\u0445 \u0430\u0442\u043e\u043c\u043d\u043e\u0433\u043e \u0432\u0435\u0441\u0430 (\u043f\u043e-\u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u043c\u0443, \u043e\u0442 \u0430\u0442\u043e\u043c\u043d\u043e\u0439 \u043c\u0430\u0441\u0441\u044b). \u0412\u0441\u0435\u0433\u043e \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u043e \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0441\u043e\u0442\u0435\u043d \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b (\u0430\u043d\u0430\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043a\u0440\u0438\u0432\u044b\u0445, \u0442\u0430\u0431\u043b\u0438\u0446, \u0433\u0435\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0444\u0438\u0433\u0443\u0440 \u0438 \u0442. \u043f.). \u0412 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f \u0441\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u0432 \u0434\u0432\u0443\u043c\u0435\u0440\u043d\u0443\u044e \u0442\u0430\u0431\u043b\u0438\u0446\u0443, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043a\u0430\u0436\u0434\u044b\u0439 \u0441\u0442\u043e\u043b\u0431\u0435\u0446 (\u0433\u0440\u0443\u043f\u043f\u0430) \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0444\u0438\u0437\u0438\u043a\u043e-\u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430, \u0430 \u0441\u0442\u0440\u043e\u043a\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442 \u0441\u043e\u0431\u043e\u0439 \u043f\u0435\u0440\u0438\u043e\u0434\u044b, \u0432 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u0439 \u043c\u0435\u0440\u0435 \u043f\u043e\u0434\u043e\u0431\u043d\u044b\u0435 \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0443.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Das Periodensystem (Langfassung Periodensystem der Elemente, abgek\u00fcrzt PSE) stellt alle chemischen Elemente mit steigender Kernladung (Ordnungszahl) und entsprechend ihren chemischen Eigenschaften eingeteilt in Perioden sowie Haupt- und Nebengruppen dar. Es wurde 1869 unabh\u00e4ngig voneinander und fast identisch von zwei Chemikern aufgestellt, zun\u00e4chst von dem Russen Dmitri Mendelejew (1834\u20131907) und wenige Monate sp\u00e4ter von dem Deutschen Lothar Meyer (1830\u20131895). Historisch war das Periodensystem f\u00fcr die Vorhersage der Entdeckung neuer Elemente und deren Eigenschaften von besonderer Bedeutung. Heute dient es vor allem der \u00dcbersicht.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "A tabela peri\u00f3dica \u00e9 uma disposi\u00e7\u00e3o sistem\u00e1tica dos elementos qu\u00edmicos ordenados por seus n\u00fameros at\u00f4micos, configura\u00e7\u00e3o eletr\u00f4nica, e recorr\u00eancia das propriedades peri\u00f3dicas. Este ordenamento mostra tend\u00eancias peri\u00f3dicas , tais como elementos com comportamentos similares na mesma coluna. Tamb\u00e9m mostra quatro blocos retangulares com propriedades qu\u00edmicas similares. Em geral, dentro de uma linha (per\u00edodo) os elementos s\u00e3o met\u00e1licos na esquerda e n\u00e3o-met\u00e1licos na direita. As linhas da tabela s\u00e3o denominadas per\u00edodos; as colunas s\u00e3o denominadas grupos. Seis grupos t\u00eam nomes espec\u00edficos al\u00e9m de uma numera\u00e7\u00e3o: por exemplo o grupo 17 s\u00e3o os halog\u00eanios; e o grupo 18 s\u00e3o os gases nobres. A tabela peri\u00f3dica pode ser usada para deduzir as rela\u00e7\u00f5es entre as propriedades dos elementos, e predizer as propriedades dos novos elementos ainda n\u00e3o descobertos ou sintetizados. A tabela fornece uma estrutura \u00fatil para analisar o comportamento qu\u00edmico, e \u00e9 amplamente utilizada na qu\u00edmica e em outras ci\u00eancias. O qu\u00edmico Dmitri Mendeleev publicou em 1869 a primeira vers\u00e3o amplamente reconhecida da tabela. Seu trabalho no desenvolvimento da tabela demonstra as tend\u00eancias peri\u00f3dicas dos elementos at\u00e9 ent\u00e3o conhecidos e tamb\u00e9m prediz algumas propriedades dos elementos ainda n\u00e3o descobertos que iriam preencher espa\u00e7os vazios em sua tabela. A maioria de suas previs\u00f5es se mostrou correta quando os elementos em quest\u00e3o foram descobertos posteriormente. Desde ent\u00e3o a tabela de Mendeleev tem sido expandida e refinada com a descoberta ou s\u00ednteses de novos elementos e o desenvolvimento de modelos te\u00f3ricos para explicar o comportamento qu\u00edmico. Todos os elementos do n\u00famero at\u00f4mico 1 (hidrog\u00eanio) ao 118 (Unun\u00f3ctio) foram descobertos ou sintetizados, sendo as adi\u00e7\u00f5es mais recentes (elementos 113, 115, 117 e 118) confirmadas pela IUPAC em dezembro de 2015. Os primeiros 94 elementos existem naturalmente, embora alguns sejam encontrados somente em quantidades de tra\u00e7\u00f5es e foram sintetizados em laborat\u00f3rio antes de serem encontrados na natureza.. Elementos com o n\u00famero at\u00f4mico de 95 ao 118 foram somente sintetizados em laborat\u00f3rio ou reatores nucleares. T\u00eam sido buscada a s\u00edntese de elementos com n\u00fameros at\u00f4micos maiores. V\u00e1rios elementos radionucl\u00eddeos sint\u00e9ticos ou que ocorrem naturalmente tamb\u00e9m t\u00eam sido produzidos em laborat\u00f3rios.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062d\u062f\u064a\u062b \u0644\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0648\u0627\u0644\u0630\u064a \u064a\u0639\u0631\u0641 \u0623\u064a\u0636\u0627 \u0628\u0640 (\u062c\u062f\u0648\u0644 \u0645\u0646\u062f\u0644\u064a\u0641\u060c \u0623\u0648 \u0627\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a \u0644\u0644\u0639\u0646\u0627\u0635\u0631\u060c \u0623\u0648 \u0627\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a) \u0648\u0647\u0648 \u0639\u0631\u0636 \u062c\u062f\u0648\u0644\u064a \u0644\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0627\u0644\u0645\u0639\u0631\u0648\u0641\u0629. \u0639\u0644\u0649 \u0627\u0644\u0631\u063a\u0645 \u0645\u0646 \u0648\u062c\u0648\u062f \u062c\u062f\u0627\u0648\u0644 \u0633\u0628\u0642\u062a \u062c\u062f\u0648\u0644 \u0645\u0646\u062f\u0644\u064a\u064a\u0641 \u0625\u0644\u0627 \u0623\u0646 \u0628\u0646\u0627\u0621 \u0647\u0630\u0627 \u0627\u0644\u062c\u062f\u0648\u0644 \u064a\u0639\u0632\u0649 \u0628\u0634\u0643\u0644 \u0639\u0627\u0645 \u0625\u0644\u0649 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a \u0627\u0644\u0631\u0648\u0633\u064a \u062f\u064a\u0645\u062a\u0631\u064a \u0645\u0646\u062f\u0644\u064a\u0641, \u062d\u064a\u062b \u0642\u0627\u0645 \u0641\u064a \u0639\u0627\u0645 1869 \u0628\u062a\u0631\u062a\u064a\u0628 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0628\u0627\u0644\u0627\u0639\u062a\u0645\u0627\u062f \u0639\u0644\u0649 \u0627\u0644\u0633\u0644\u0648\u0643 (\u0627\u0644\u062f\u0648\u0631\u064a) \u0644\u0644\u062e\u0635\u0627\u0626\u0635 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0644\u0644\u0639\u0646\u0627\u0635\u0631\u060c \u062b\u0645 \u0642\u0627\u0645 \u0647\u0646\u0631\u064a \u0645\u0648\u0632\u0644\u064a \u0639\u0627\u0645 1911 \u0628\u0625\u0639\u0627\u062f\u0629 \u062a\u0631\u062a\u064a\u0628 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0628\u062d\u0633\u0628 \u0627\u0644\u0639\u062f\u062f \u0627\u0644\u0630\u0631\u064a\u060c \u0623\u064a \u0639\u062f\u062f \u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0646\u0627\u062a \u0627\u0644\u0645\u0648\u062c\u0648\u062f\u0629 \u0628\u0643\u0644 \u0639\u0646\u0635\u0631.\u0648\u0645\u0639 \u0645\u0631\u0648\u0631 \u0627\u0644\u0648\u0642\u062a \u062a\u0645 \u062a\u0639\u062f\u064a\u0644 \u0645\u062e\u0637\u0637 \u0627\u0644\u062c\u062f\u0648\u0644 \u0645\u0631\u0627\u062a \u0639\u062f\u064a\u062f\u0629\u060c \u062d\u064a\u062b \u0623\u0636\u064a\u0641\u062a \u0639\u0646\u0627\u0635\u0631 \u062c\u062f\u064a\u062f\u0629 \u0645\u0643\u062a\u0634\u0641\u0629\u060c \u0643\u0645\u0627 \u0623\u0636\u064a\u0641\u062a \u0646\u0645\u0627\u0630\u062c \u0646\u0638\u0631\u064a\u0629 \u0637\u0648\u0631\u062a \u0644\u062a\u0641\u0633\u064a\u0631 \u0633\u0644\u0648\u0643 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629. \u0623\u0635\u0628\u062d \u0627\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a \u0641\u064a \u0639\u0635\u0631\u0646\u0627 \u0647\u0630\u0627 \u0645\u0639\u062a\u0645\u062f\u0627\u064b \u0641\u064a \u062c\u0645\u064a\u0639 \u0627\u0644\u0645\u0646\u0627\u062d\u064a \u0627\u0644\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629\u060c \u0645\u0648\u0641\u0631\u0627\u064b \u0625\u0637\u0627\u0631\u0627\u064b \u0645\u0641\u064a\u062f\u0627\u064b \u062c\u062f\u0627\u064b \u0644\u062a\u0635\u0646\u064a\u0641 \u0648\u062a\u0646\u0638\u064a\u0645 \u0648\u0645\u0642\u0627\u0631\u0646\u0629 \u062c\u0645\u064a\u0639 \u0627\u0644\u0623\u0634\u0643\u0627\u0644 \u0627\u0644\u0645\u062e\u062a\u0644\u0641\u0629 \u0644\u0644\u062e\u0635\u0627\u0626\u0635 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629. \u0648\u0644\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a \u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0645\u062a\u0639\u062f\u062f\u0629 \u0648\u0648\u0627\u0633\u0639\u0629 \u0641\u064a \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0621 \u0648\u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u0648\u0639\u0644\u0645 \u0627\u0644\u0623\u062d\u064a\u0627\u0621 \u0648\u0627\u0644\u0647\u0646\u062f\u0633\u0629 \u062e\u0627\u0635\u0629 \u0627\u0644\u0647\u0646\u062f\u0633\u0629 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629. \u064a\u062d\u062a\u0648\u064a \u0627\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062d\u0627\u0644\u064a \u0639\u0644\u0649 118 \u0639\u0646\u0635\u0631\u0627\u064b (\u0627\u0644\u0639\u0646\u0627\u0635\u0631 1 - 118)\u060c \u0645\u0639 \u0636\u0631\u0648\u0631\u0629 \u0627\u0644\u0625\u0634\u0627\u0631\u0629 \u0625\u0644\u0649 \u0623\u0646 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 113 \u0648115 \u0648117 \u0648118 \u062a\u0645 \u062a\u0623\u0643\u064a\u062f\u0647\u0627 \u0641\u064a \u0645\u0637\u0644\u0639 \u0639\u0627\u0645 2016 \u0648\u0628\u0630\u0644\u0643 \u064a\u0643\u062a\u0645\u0644 \u0627\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a \u0628\u0627\u0643\u062a\u0645\u0627\u0644 118 \u0639\u0646\u0635\u0631\u060c \u0623\u063a\u0644\u0628 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0645\u0646 1 \u0625\u0644\u0649 98 \u0645\u062a\u0648\u0641\u0631\u0629 \u0641\u064a \u0627\u0644\u0637\u0628\u064a\u0639\u0629 \u0628\u0634\u0643\u0644 \u0623\u0648 \u0628\u0622\u062e\u0631\u060c \u0641\u064a \u062d\u064a\u0646 \u0623\u0646 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0645\u0646 99 \u0625\u0644\u0649 118 \u0645\u0635\u0637\u0646\u0639\u0629 \u0641\u0642\u0637 \u0641\u064a \u0627\u0644\u0645\u062e\u062a\u0628\u0631.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "La tavola periodica degli elementi (o semplicemente tavola periodica) \u00e8 lo schema con cui sono ordinati gli elementi chimici sulla base del loro numero atomico Z e del numero di elettroni presenti negli orbitali atomici s, p, d e f. La tavola periodica degli elementi \u00e8 stata ideata dal chimico russo Dmitrij Ivanovi\u010d Mendeleev nel 1869, e, in modo indipendente, dal chimico tedesco Julius Lothar Meyer (1830 - 1895). La tavola contava in principio numerosi spazi vuoti, previsti per gli elementi che sarebbero stati scoperti in futuro, alcuni dei quali nella seconda met\u00e0 del Novecento. La tavola periodica di Mendeleev, che \u00e8 la prima versione e anche quella pi\u00f9 utilizzata, \u00e8 la tavola periodica per antonomasia, per cui nel seguito della trattazione, parlando di \"tavola periodica\", si far\u00e0 riferimento a quella concepita da Mendeleev, salvo laddove venga indicato il contrario.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "La tabla peri\u00f3dica de los elementos es una disposici\u00f3n de los elementos qu\u00edmicos en forma de tabla, ordenados por su n\u00famero at\u00f3mico (n\u00famero de protones), por su configuraci\u00f3n de electrones y sus propiedades qu\u00edmicas. Este ordenamiento muestra tendencias peri\u00f3dicas, como elementos con comportamiento similar en la misma columna. En palabras de Theodor Benfey, la tabla y la ley peri\u00f3dica \u00abson el coraz\u00f3n de la qu\u00edmica \u2014comparables a lo que la teor\u00eda de la evoluci\u00f3n en biolog\u00eda (que sucedi\u00f3 al concepto de la Gran Cadena del Ser) y las leyes de la termodin\u00e1mica en la f\u00edsica cl\u00e1sica\u00bb. Las filas de la tabla se denominan  y las columnas . Algunos grupos tienen nombres. As\u00ed por ejemplo el grupo 17 es el de los hal\u00f3genos y el grupo 18 el de los gases nobles. La tabla tambi\u00e9n se divide en cuatro bloques con algunas propiedades qu\u00edmicas similares. Debido a que las posiciones est\u00e1n ordenadas, se puede utilizar la tabla para obtener relaciones entre las propiedades de los elementos, o pronosticar propiedades de elementos nuevos todav\u00eda no descubiertos o sintetizados. La tabla peri\u00f3dica proporciona un marco \u00fatil para analizar el comportamiento qu\u00edmico y es ampliamente utilizada en qu\u00edmica y otras ciencias. Dmitri Mendel\u00e9yev public\u00f3 en 1869 la primera versi\u00f3n de tabla peri\u00f3dica que fue ampliamente reconocida. La desarroll\u00f3 para ilustrar tendencias peri\u00f3dicas en las propiedades de los elementos entonces conocidos, al ordenar los elementos bas\u00e1ndose en sus propiedades qu\u00edmicas, si bien Julius Lothar Meyer, trabajando por separado, llev\u00f3 a cabo un ordenamiento a partir de las propiedades f\u00edsicas de los \u00e1tomos. Mendel\u00e9yev tambi\u00e9n pronostic\u00f3 algunas propiedades de elementos entonces desconocidos que anticip\u00f3 que ocupar\u00edan los lugares vac\u00edos en su tabla. Posteriormente se demostr\u00f3 que la mayor\u00eda de sus predicciones eran correctas cuando se descubrieron los elementos en cuesti\u00f3n. La tabla peri\u00f3dica de Mendel\u00e9yev ha sido desde entonces ampliada y mejorada con el descubrimiento o s\u00edntesis de elementos nuevos y el desarrollo de modelos te\u00f3ricos nuevos para explicar el comportamiento qu\u00edmico. La estructura actual fue dise\u00f1ada por Alfred Werner a partir de la versi\u00f3n de Mendel\u00e9yev. Existen adem\u00e1s otros arreglos peri\u00f3dicos de acuerdo a diferentes propiedades y seg\u00fan el uso que se le quiera dar (en did\u00e1ctica, geolog\u00eda, etc). Se han descubierto o sintetizado todos los elementos de n\u00famero at\u00f3mico del 1 (hidr\u00f3geno) al 118 (ununoctium); la IUPAC confirm\u00f3 los elementos 113, 115, 117 y 118 el 30 de diciembre de 2015. Los primeros 94 existen naturalmente, aunque algunos solo se han encontrado en cantidades peque\u00f1as y fueron sintetizados en laboratorio antes de ser encontrados en la naturaleza. Los elementos con n\u00fameros at\u00f3micos del 95 al 118 solo han sido sintetizados en laboratorios. All\u00ed tambi\u00e9n se produjeron numerosos radiois\u00f3topos sint\u00e9ticos de elementos presentes en la naturaleza. Los elementos del 95 a 100 existieron en la naturaleza en tiempos pasados pero actualmente no. La investigaci\u00f3n para encontrar por s\u00edntesis nuevos elementos de n\u00fameros at\u00f3micos m\u00e1s altos contin\u00faa. Para una versi\u00f3n m\u00e1s detallada de la tabla peri\u00f3dica con hipertexto, cons\u00faltese Anexo:Tabla peri\u00f3dica.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Uk\u0142ad okresowy pierwiastk\u00f3w (potocznie: tablica Mendelejewa) \u2013 zestawienie wszystkich pierwiastk\u00f3w chemicznych w postaci rozbudowanej tabeli, uporz\u0105dkowanych wed\u0142ug ich rosn\u0105cej liczby atomowej, grupuj\u0105ce pierwiastki wed\u0142ug ich cyklicznie powtarzaj\u0105cych si\u0119 podobie\u0144stw w\u0142a\u015bciwo\u015bci, zgodnie z prawem okresowo\u015bci Dmitrija Mendelejewa. U\u017cyteczno\u015b\u0107 uk\u0142adu okresowego wynika z faktu, \u017ce w prostej formie przedstawia on zale\u017cno\u015b\u0107 w\u0142a\u015bciwo\u015bci chemicznych pierwiastk\u00f3w i po\u015brednio tak\u017ce ich prostych zwi\u0105zk\u00f3w chemicznych od liczby wyst\u0119puj\u0105cych w nich proton\u00f3w i elektron\u00f3w. Wsp\u00f3\u0142czesna, oficjalna wersja uk\u0142adu okresowego, publikowana cyklicznie przez Mi\u0119dzynarodow\u0105 Uni\u0119 Chemii Czystej i Stosowanej (IUPAC), definiuje te\u017c podzia\u0142 pierwiastk\u00f3w na grupy, okresy i bloki. Wersja uk\u0142adu okresowego, opublikowana przez IUPAC 1 maja 2013, zawiera 114 pierwiastk\u00f3w o liczbach atomowych od 1 do 112 oraz 114 i 116. W grudniu 2015 roku IUPAC potwierdzi\u0142a odkrycie pierwiastk\u00f3w o liczbach atomowych 113 (ununtrium), 115 (ununpentium), 117 (ununseptium) i 118 (ununoctium), dla kt\u00f3rych do czasu ustalenia oficjalnych nazw b\u0119d\u0105 nadal stosowane nazwy tymczasowe.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5316\u5b78\u5143\u7d20\u9031\u671f\u8868\u662f\u6839\u64da\u539f\u5b50\u5e8f\u5f9e\u5c0f\u81f3\u5927\u6392\u5e8f\u7684\u5316\u5b78\u5143\u7d20\u5217\u8868\u3002\u5217\u8868\u5927\u9ad4\u5448\u9577\u65b9\u5f62\uff0c\u67d0\u4e9b\u5143\u7d20\u9031\u671f\u4e2d\u7559\u6709\u7a7a\u683c\uff0c\u4f7f\u7279\u6027\u76f8\u8fd1\u7684\u5143\u7d20\u6b78\u5728\u540c\u4e00\u65cf\u4e2d\uff0c\u5982\u9e75\u7d20\u53ca\u60f0\u6027\u6c23\u9ad4\u3002\u9019\u4f7f\u9031\u671f\u8868\u4e2d\u5f62\u6210\u5143\u7d20\u5206\u5340\u3002\u7531\u65bc\u9031\u671f\u8868\u80fd\u5920\u6e96\u78ba\u5730\u9810\u6e2c\u5404\u7a2e\u5143\u7d20\u7684\u7279\u6027\u53ca\u5176\u4e4b\u9593\u7684\u95dc\u4fc2\uff0c\u56e0\u6b64\u5b83\u5728\u5316\u5b78\u53ca\u5176\u4ed6\u79d1\u5b78\u7bc4\u7587\u4e2d\u88ab\u5ee3\u6cdb\u4f7f\u7528\uff0c\u4f5c\u70ba\u5206\u6790\u5316\u5b78\u884c\u70ba\u6642\u5341\u5206\u6709\u7528\u7684\u6846\u67b6\u3002 \u73fe\u4ee3\u7684\u9031\u671f\u8868\u7531\u5fb7\u7c73\u7279\u91cc\u00b7\u9580\u6377\u5217\u592b\u65bc1869\u5e74\u5275\u9020\uff0c\u7528\u4ee5\u5c55\u73fe\u7576\u6642\u5df2\u77e5\u5143\u7d20\u7279\u6027\u7684\u9031\u671f\u6027\u3002\u81ea\u6b64\uff0c\u96a8\u8457\u65b0\u5143\u7d20\u7684\u63a2\u7d22\u767c\u73fe\u548c\u7406\u8ad6\u6a21\u578b\u7684\u767c\u5c55\uff0c\u9031\u671f\u8868\u7684\u5916\u89c0\u66fe\u7d93\u904e\u6539\u8b8a\u53ca\u64f4\u5f35\u3002\u901a\u904e\u9019\u7a2e\u5217\u8868\u65b9\u5f0f\uff0c\u9580\u6377\u5217\u592b\u4e5f\u9810\u6e2c\u4e86\u4e00\u4e9b\u7576\u6642\u672a\u77e5\u5143\u7d20\u7684\u7279\u6027\uff0c\u4ee5\u586b\u88dc\u9031\u671f\u8868\u4e2d\u7684\u7a7a\u683c\u3002\u5176\u5f8c\u767c\u73fe\u7684\u65b0\u5143\u7d20\u7684\u78ba\u6709\u76f8\u4f3c\u7684\u7279\u6027\uff0c\u4f7f\u4ed6\u7684\u9810\u6e2c\u5f97\u5230\u8a3c\u5be6\u3002 \u5316\u5b78\u5143\u7d20\u9031\u671f\u8868\u5c06\u5404\u4e2a\u5316\u5b66\u5143\u7d20\u4f9d\u636e\u539f\u5b50\u5e8f\u7f16\u53f7\uff0c\u5e76\u4f9d\u6b64\u6392\u5217\u3002\u539f\u5b50\u5e8f\u5f9e1\uff08\u6c2b\uff09\u81f3118\uff08Og\uff09\u7684\u6240\u6709\u5143\u7d20\u90fd\u5df2\u88ab\u53d1\u73b0\u5e76\u6210\u529f\u5408\u6210\uff0c\u5176\u4e2d\u7b2c113\u3001115\u3001117\u3001118\u53f7\u5143\u7d20\u57282015\u5e7412\u670830\u65e5\u88abIUPAC\u786e\u8ba4\u3002 \u800c\u5176\u4e2d\u76f4\u5230\u9272\u7684\u5143\u7d20\u90fd\u5728\u81ea\u7136\u754c\u4e2d\u5b58\u5728\uff0c\u5176\u9918\u7684\uff08\u4ea6\u5305\u62ec\u773e\u591a\u653e\u5c04\u6027\u540c\u4f4d\u7d20\uff09\u90fd\u662f\u5728\u5be6\u9a57\u5ba4\u4e2d\u5408\u6210\u7684\u3002\u76ee\u524dUuo\u4e4b\u5f8c\u7684\u5143\u7d20\u7684\u5408\u6210\u6b63\u5728\u9032\u884c\u4e2d\uff0c\u5e36\u51fa\u4e86\u5982\u4f55\u64f4\u5c55\u5143\u7d20\u9031\u671f\u8868\u7684\u554f\u984c\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Le tableau p\u00e9riodique des \u00e9l\u00e9ments, \u00e9galement appel\u00e9 table de Mendele\u00efev, classification p\u00e9riodique des \u00e9l\u00e9ments (CPE) ou simplement tableau p\u00e9riodique, repr\u00e9sente tous les \u00e9l\u00e9ments chimiques, ordonn\u00e9s par num\u00e9ro atomique croissant et organis\u00e9s en fonction de leur configuration \u00e9lectronique, laquelle sous-tend leurs propri\u00e9t\u00e9s chimiques. La conception de ce tableau est g\u00e9n\u00e9ralement attribu\u00e9e au chimiste russe Dmitri Mendele\u00efev, qui construisit en 1869 une table diff\u00e9rente de celle qu'on utilise aujourd'hui mais similaire dans son principe, dont le grand int\u00e9r\u00eat \u00e9tait de proposer une classification syst\u00e9matique des \u00e9l\u00e9ments chimiques connus \u00e0 l'\u00e9poque en vue de souligner la p\u00e9riodicit\u00e9 de leurs propri\u00e9t\u00e9s chimiques, d'identifier les \u00e9l\u00e9ments qui restaient \u00e0 d\u00e9couvrir, et m\u00eame de pouvoir pr\u00e9dire les propri\u00e9t\u00e9s de ces \u00e9l\u00e9ments alors inconnus. Le tableau p\u00e9riodique a connu de nombreux r\u00e9ajustements depuis lors jusqu'\u00e0 prendre la forme que nous lui connaissons aujourd'hui. Il est devenu un r\u00e9f\u00e9rentiel universel auquel peuvent \u00eatre rapport\u00e9s tous les types de comportements physique et chimique des \u00e9l\u00e9ments. En novembre 2014, sa forme standard comportait 118 \u00e9l\u00e9ments, allant de 1H \u00e0 118Uuo.",
+                "lang": "fr"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/14LaAc_periodic_table_IIb.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744932185,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 23053,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/image": [
+            {
+                "type": "literal",
+                "value": "Medeleeff by repin.jpg",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "D. Mendeleev's Periodic table from his book.JPG",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Arrangement"
+            }
+        ],
+        "http://dbpedia.org/property/width": [
+            {
+                "type": "literal",
+                "value": 147,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/align": [
+            {
+                "type": "literal",
+                "value": "left",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Elements_(table)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_patterns": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/PeriodicTable": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mendeleev's_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mendeleyev's_periodic_law": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Standard_periodic_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Table_of_Elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_Chart": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_Chart_of_the_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_chart": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_chart_of_the_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_Table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_table_of_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_Properties": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_properties": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_table_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mendeleev_periodic_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_table_of_the_chemical_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_table_of_the_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Table_of_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/How_elements_are_arranged_in_the_Periodic_Table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Organization_of_the_periodic_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_Table_of_the_Elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_system": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_system_of_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Natural_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Piriodic_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Periodic_Table_of_Elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chemical_family": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_table_of_chemical_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_table_of_Elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mendeleyev_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Compound_of_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mendeleev_periodic_chart": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mendeleev_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Peroidic_table_of_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodicity_of_the_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_periodic_table_of_the_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Periodic_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Group_2A": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_tables": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Periodic_table_(standard)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Categorisation_of_the_periodic_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Placement_of_hydrogen_in_the_periodic_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Placement_of_lanthanides_and_actinides_in_the_periodic_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Placement_of_lanthinides_and_actinides_in_the_periodic_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mendeleev's_periodic_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Peroidic_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_periodic_table_of_the_chemical_elements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Natural_element": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chemical_periodic_table": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/PT": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Julius_Lothar_Meyer": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Yuri_Oganessian": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/John_Newlands_(chemist)": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Periodic_Table_(Basher_book)": {
+        "http://dbpedia.org/ontology/nonFictionSubject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Periodic_table"
+            }
+        ]
+    }
+}

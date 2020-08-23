@@ -1,0 +1,28 @@
+{
+    "@text": "Which protein interacts with morphine?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Protein",
+            "@support": "53207",
+            "@types": "",
+            "@surfaceForm": "protein",
+            "@offset": "6",
+            "@similarityScore": "0.9999884891735595",
+            "@percentageOfSecondRank": "8.217048826020815E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Morphine",
+            "@support": "2673",
+            "@types": "Wikidata:Q8386,DUL:ChemicalObject,DBpedia:Drug,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "morphine",
+            "@offset": "29",
+            "@similarityScore": "0.9999998789960574",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

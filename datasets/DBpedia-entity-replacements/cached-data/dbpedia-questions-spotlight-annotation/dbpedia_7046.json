@@ -1,0 +1,37 @@
+{
+    "@text": "Bill Gates is the chairperson for what private foundation located in the United States?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Bill_Gates",
+            "@support": "2053",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Bill Gates",
+            "@offset": "0",
+            "@similarityScore": "0.9999952086909434",
+            "@percentageOfSecondRank": "4.791327508644038E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Private_foundation",
+            "@support": "208",
+            "@types": "",
+            "@surfaceForm": "private foundation",
+            "@offset": "39",
+            "@similarityScore": "0.9999995252531865",
+            "@percentageOfSecondRank": "4.7472740968633294E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "73",
+            "@similarityScore": "0.9999270437089957",
+            "@percentageOfSecondRank": "4.3091087006682686E-5"
+        }
+    ]
+}

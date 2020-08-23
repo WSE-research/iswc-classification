@@ -1,0 +1,28 @@
+{
+    "@text": "What is the rank of the taxon parent in the Allosaurus family?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "24",
+            "@similarityScore": "0.9936817059259041",
+            "@percentageOfSecondRank": "0.006358322191953405"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Allosaurus",
+            "@support": "893",
+            "@types": "",
+            "@surfaceForm": "Allosaurus",
+            "@offset": "44",
+            "@similarityScore": "0.9999999806358206",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

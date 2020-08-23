@@ -1,0 +1,37 @@
+{
+    "@text": "Did Manhattan share a border with Brooklyn and the Bronx?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Manhattan",
+            "@support": "28184",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Manhattan",
+            "@offset": "4",
+            "@similarityScore": "0.9991114813898897",
+            "@percentageOfSecondRank": "6.92024516436033E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Brooklyn",
+            "@support": "36226",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Brooklyn",
+            "@offset": "34",
+            "@similarityScore": "0.9989214319730718",
+            "@percentageOfSecondRank": "0.0010627759631647925"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/The_Bronx",
+            "@support": "10878",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Bronx",
+            "@offset": "51",
+            "@similarityScore": "0.9947089548226642",
+            "@percentageOfSecondRank": "0.00528692659667181"
+        }
+    ]
+}

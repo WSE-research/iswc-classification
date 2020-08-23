@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the OEIS ID of a prime number?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/On-Line_Encyclopedia_of_Integer_Sequences",
+            "@support": "351",
+            "@types": "Wikidata:Q386724,Schema:WebPage,Schema:CreativeWork,DBpedia:Work,DBpedia:Website",
+            "@surfaceForm": "OEIS",
+            "@offset": "13",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Prime_number",
+            "@support": "4118",
+            "@types": "",
+            "@surfaceForm": "prime number",
+            "@offset": "26",
+            "@similarityScore": "0.9999999999998721",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

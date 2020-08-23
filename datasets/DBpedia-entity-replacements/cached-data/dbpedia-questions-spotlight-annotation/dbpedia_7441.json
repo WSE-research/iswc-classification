@@ -1,0 +1,28 @@
+{
+    "@text": "Is the pKa of Phenol less than 7.912?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Acid_dissociation_constant",
+            "@support": "694",
+            "@types": "",
+            "@surfaceForm": "pKa",
+            "@offset": "7",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Phenol",
+            "@support": "1383",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "Phenol",
+            "@offset": "14",
+            "@similarityScore": "0.9999999999995879",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

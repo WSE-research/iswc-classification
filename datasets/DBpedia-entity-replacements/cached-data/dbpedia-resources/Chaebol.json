@@ -1,0 +1,681 @@
+{
+    "http://dbpedia.org/resource/Dongbu_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kumho_Asiana_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chaebol": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SocialGroup107950920"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Organization108008335"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Institution108053576"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Company108058098"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatCompanies"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActor"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatCompaniesByType"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u0427\u0435\u0431\u043e\u043b\u044c",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Chaebol",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u97e9\u56fd\u8d22\u9600",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u062a\u0634\u064a\u0628\u0648\u0644",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Chaebol",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Chaebol",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Chaebol",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Chaebol",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Czebol",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Chaebol",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Jaebeol",
+                "lang": "de"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Jaebeol (deutsch \u201areiche Sippe\u2018 von jae \u201aReichtum\u2018, \u201aBesitz\u2018 und beol \u201aKlan\u2018, \u201aSippe\u2018) ist der koreanische Begriff f\u00fcr ein gro\u00dfes Familienunternehmen, das meist aus verschiedenen Sparten besteht, also ein Mischkonzern (Konglomerat) ist.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062a\u0634\u064a\u0628\u0648\u0644 \u0623\u0648 \u0627\u0644\u062a\u0634\u0627\u064a\u0628\u0648\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Chaebol) (\u0627\u0644\u0643\u0648\u0631\u064a\u0629: \uc7ac\ubc8c) \u0645\u0646 \u062a\u0634\u0627\u064a \"\u0627\u0644\u062b\u0631\u0648\u0629 \u0623\u0648 \u0627\u0644\u0645\u0645\u062a\u0644\u0643\u0627\u062a\" + \u0628\u0648\u0644 \"\u0641\u0635\u064a\u0644 \u0623\u0648 \u0639\u0634\u064a\u0631\u0629\" \u0647\u0648 \u0634\u0643\u0644 \u0645\u0646 \u0623\u0634\u0643\u0627\u0644 \u0627\u0644\u0625\u0626\u062a\u0644\u0627\u0641\u0627\u062a \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629 \u0641\u064a \u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629. \u0648\u0647\u064a \u0639\u0627\u062f\u0629 \u0645\u0627 \u062a\u0643\u0648\u0646 \u0634\u0631\u0643\u0627\u062a \u0639\u0627\u0644\u0645\u064a\u0629 \u0645\u062a\u0639\u062f\u062f\u0629 \u0627\u0644\u062c\u0646\u0633\u064a\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0645\u062a\u0644\u0643 \u0645\u0624\u0633\u0633\u0627\u062a \u062f\u0648\u0644\u064a\u0629 \u0639\u062f\u064a\u062f\u0629 \u062e\u0627\u0635\u0629 \u064a\u0633\u064a\u0637\u0631 \u0639\u0644\u064a\u0647\u0627 \u0631\u0626\u064a\u0633 \u0630\u0648 \u0633\u0644\u0637\u0629 \u0639\u0644\u0649 \u062c\u0645\u064a\u0639 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a. \u0648\u0643\u062b\u064a\u0631\u0627\u064b \u0645\u0627 \u064a\u0633\u062a\u062e\u062f\u0645 \u0647\u0630\u0627 \u0627\u0644\u0645\u0635\u0637\u0644\u062d \u0641\u064a \u0633\u064a\u0627\u0642 \u0645\u0645\u0627\u062b\u0644 \u0644\u062a\u0644\u0643 \u0627\u0644\u062a\u064a \u0644\u0644\u0643\u0644\u0645\u0629 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 Conglomerate \u0623\u0648 \"\u0627\u0644\u062a\u0643\u062a\u0644\". \u0648\u0642\u062f \u0627\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0645\u0635\u0637\u0644\u062d \u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0641\u064a \u0639\u0627\u0645 1984. \u0647\u0646\u0627\u0643 \u0639\u0634\u0631\u0627\u062a \u0645\u0646 \u0645\u062c\u0645\u0648\u0639\u0627\u062a \u0627\u0644\u0634\u0631\u0643\u0627\u062a \u0627\u0644\u0643\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0627\u0626\u0644\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0646\u062f\u0631\u062c \u062a\u062d\u062a \u0647\u0630\u0627 \u0627\u0644\u062a\u0639\u0631\u064a\u0641.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Een chaebol is de Zuid-Koreaanse vorm van een conglomeraat. Chaebols zijn grote, door families gecontroleerde, Koreaanse ondernemingsgroepen. Deze chaebols waren de stuwende kracht achter de sterke groei van de Zuid-Koreaanse economie na de Koreaanse Oorlog. De chaebols waren en zijn invloedrijke entiteiten die zich op het terrein van zowel de economie als de politiek begeven en soms zelfs hun krachten bundelen met de overheid op deelgebieden als (infrastructurele) planning en (technologische) innovatie.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "A chaebol (Korean: \uc7ac\ubc8c, ; from chae \"wealth or property\" + bol \"faction or clan\" \u2013 also written with the same Chinese characters \u8ca1\u95a5 as Zaibatsu) is a South Korean form of business conglomerate. They are typically global multinationals and own numerous international enterprises, controlled by a chairman with power over all the operations. The term is often used in a context similar to that of the English word \"conglomerate\". The term was first used in 1984. There are several dozen large Korean family-controlled corporate groups which fall under this definition.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Chaebol (hangul: \uc7ac\ubc8c, hanja: \u8ca1\u95a5)? es un modelo empresarial basado en grandes conglomerados con presencia en distintos sectores econ\u00f3micos, que se ha desarrollado en Corea del Sur. Las compa\u00f1\u00edas que presentan esta peculiaridad se caracterizan por su fuerte crecimiento, desarrollo tecnol\u00f3gico, diversificaci\u00f3n y una fuerte dimensi\u00f3n empresarial. La palabra en coreano significa \"negocio de familia\", aunque tambi\u00e9n se utiliza para referirse a un monopolio.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Chaebol (ou Jaebol, Jaebeol; IPA: ['\u02a8\u025b\u02d0b\u0259l]) \u00e9 o termo coreano que define um conglomerado de empresas em torno de uma empresa-m\u00e3e, normalmente controladas por fam\u00edlias, tais como Samsung, Hyundai e LG . Os 10 maiores Chaebol da Coreia do Sul s\u00e3o Samsung, Hyundai Motor Company, LG, SK, Hanjin, Hyundai Heavy Industries, Lotte, Doosan, Hanhwa, e Kumho Asiana.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Chaebol (\uc7ac\ubc8c) \u00e8 una parola coreana che si riferisce a imprese conglomerate.Il termine \u00e8 l'equivalente coreano del giapponese zaibatsu e significa \"gruppo d'affari\", \"fiducia\" (in inglese trust come nella Standard Oil Trust) ed \u00e8 spesso usata come \"grande impresa\", \"multinazionale\", \"corporazione\" in italiano. Chaebol si riferisce ad alcune dozzine di grandi famiglie che controllano i gruppi delle corporazioni coreane, aiutate da finanziamenti del governo, che hanno giocato un importante ruolo nell'economia sudcoreana dagli anni '60.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Czebol (kor. \uc7ac\ubc8c [t\u0255\u025b\u02d0b\u028cl] zwi\u0105zek finansowy) \u2013 po\u0142udniowokorea\u0144ska forma konglomerat\u00f3w, koncern\u00f3w. Powsta\u0142y w latach 70. z ma\u0142ych firm prywatnych. By\u0142y popierane przez w\u0142adze wojskowe, wspieraj\u0105ce planowanie gospodarcze i dyscyplin\u0119 wewn\u0105trz przedsi\u0119biorstw. Do najwi\u0119kszych czeboli zaliczano Daewoo, Hyundai, Lucky Goldstar (dzisiejsze LG Group) i Samsunga. Przy wsp\u00f3\u0142pracy z przemys\u0142em japo\u0144skim i zachodnim produkowa\u0142y nowoczesne samochody, statki, wyroby elektroniczne, chemiczne i stalowe.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0427\u0435\u0431\u043e\u0301\u043b\u044c (\u043a\u043e\u0440. \uc7ac\ubc8c?, \u8ca1\u95a5?, \u0447\u044d\u0431\u043e\u043b\u044c) \u2014 \u044e\u0436\u043d\u043e\u043a\u043e\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u0444\u043e\u0440\u043c\u0430 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u043e-\u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u044b\u0445 \u0433\u0440\u0443\u043f\u043f. \u041a\u043e\u043d\u0433\u043b\u043e\u043c\u0435\u0440\u0430\u0442, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u0441\u043e\u0431\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u0443 \u0444\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e \u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0444\u0438\u0440\u043c, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0445\u0441\u044f \u0432 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0445 \u0441\u0435\u043c\u0435\u0439 \u0438 \u043f\u043e\u0434 \u0435\u0434\u0438\u043d\u044b\u043c \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u043c \u0438 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u043c \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0435\u043c. \u0427\u0435\u0431\u043e\u043b\u0438 \u0432\u043e\u0437\u043d\u0438\u043a\u043b\u0438 \u0432 \u042e\u0436\u043d\u043e\u0439 \u041a\u043e\u0440\u0435\u0435 \u0432 \u043a\u043e\u043d\u0446\u0435 \u041a\u043e\u0440\u0435\u0439\u0441\u043a\u043e\u0439 \u0432\u043e\u0439\u043d\u044b \u0438 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440. \u042f\u043f\u043e\u043d\u0441\u043a\u0438\u0439 \u0430\u043d\u0430\u043b\u043e\u0433 \u0447\u0435\u0431\u043e\u043b\u044f \u2014 \u0434\u0437\u0430\u0439\u0431\u0430\u0446\u0443. \u042d\u0442\u043e \u0432\u0441\u0435\u0433\u043e \u043b\u0438\u0448\u044c \u043a\u043e\u0440\u0435\u0439\u0441\u043a\u043e\u0435 \u0438 \u044f\u043f\u043e\u043d\u0441\u043a\u043e\u0435 \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u043e\u0434\u043d\u043e\u0433\u043e \u0438 \u0442\u043e\u0433\u043e \u0436\u0435 \u0441\u043b\u043e\u0432\u0430, \u0438\u0435\u0440\u043e\u0433\u043b\u0438\u0444\u0430\u043c\u0438 \u0436\u0435 \u043e\u043d\u043e \u043f\u0438\u0448\u0435\u0442\u0441\u044f \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u043e.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u5728\u97d3\u570b\uff0c\u8d22\u9600\uff08\u671d\u9bae\u8a9e\uff1a\uc7ac\ubc8c\uff0cchaebol\uff09\u610f\u6307\u5927\u578b\u7d9c\u5408\u4f01\u696d\u96c6\u5718\uff0c\u9019\u4e9b\u4f01\u696d\u4e3b\u8981\u7531\u5bb6\u65cf\u4f01\u4e1a\u53d1\u5c55\u8d77\u4f86\uff0c\u5f8c\u5f62\u6210\u5927\u96c6\u56e2\u516c\u53f8\u8207\u8de8\u570b\u4f01\u696d\u3002\u5728\u9019\u7a2e\u4f01\u696d\u96c6\u5718\u4e2d\uff0c\u901a\u5e38\u7531\u4e00\u4f4d\u64c1\u6709\u6700\u5927\u6b0a\u52e2\u7684\u9818\u5c0e\u8005\uff0c\u4f86\u63a7\u5236\u6574\u500b\u96c6\u5718\u7684\u767c\u5c55\u3002\u8bb8\u591a\u97e9\u56fd\u8d22\u9600\u50cf\u4e09\u661f\u96c6\u56e2\u3001\u73b0\u4ee3\u96c6\u56e2\u3001LG\u96c6\u56e2\u3001SK\u96c6\u56e2\u7b49\u90fd\u662f\u4e16\u754c\u77e5\u540d\u5927\u578b\u8de8\u56fd\u516c\u53f8\u3002\u8d22\u9600\u5728\u97e9\u56fd\u7ecf\u6d4e\u4e2d\u626e\u6f14\u7740\u975e\u5e38\u91cd\u8981\u7684\u89d2\u8272\u30022010\u5e74\uff0c\u4ec5\u4e09\u661f\u96c6\u56e2\u7684\u9500\u552e\u989d\u5c31\u5360\u5230\u97e9\u56fdGDP\u768422.1%\u3002 \u8d22\u9600\u5728\u97e9\u56fd\u653f\u6cbb\u4e2d\u4e5f\u626e\u6f14\u7740\u91cd\u8981\u89d2\u8272\u30021998\u5e74\uff0c\u73b0\u4ee3\u91cd\u5de5\u4f1a\u957f\u90d1\u68a6\u51c6\u6210\u529f\u5f53\u9009\u97e9\u56fd\u56fd\u6703\u8bae\u5458\u3002\u73b0\u4ee3\u96c6\u56e2\u5728\u8c03\u8282\u97e9\u56fd\u4e0e\u671d\u9c9c\u4e4b\u95f4\u7684\u5173\u7cfb\u4e2d\u4e5f\u8d77\u5230\u4e86\u5f88\u91cd\u8981\u7684\u4f5c\u7528\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Les chaebol (prononciation cor\u00e9enne t\u0255\u025b\u02d0b\u0259l) sont en Cor\u00e9e des ensembles d'entreprises, de domaines vari\u00e9s, entretenant entre elles des participations crois\u00e9es. Ils sont les \u00e9quivalents cor\u00e9ens des anciens zaibatsu japonais (dissous par les autorit\u00e9s d'occupation am\u00e9ricaines et r\u00e9apparus sous la forme des keiretsu). Les deux expressions s'\u00e9crivent d'ailleurs avec les m\u00eames caract\u00e8res chinois (\u8ca1\u95a5), la diff\u00e9rence \u00e9tant dans la prononciation apparent\u00e9e.",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q482517"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Czebol"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Chaebol"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Chaebol"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Chaebol"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc7ac\ubc8c"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Chaebol"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01xsh0"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q482517"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Chaebol"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Jaebeol"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Chaebol"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Chaebol"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Economy_of_South_Korea"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Industrial_policy"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Korean_words_and_phrases"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Chaebol"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Hdhq.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Chaebol"
+            }
+        ],
+        "http://dbpedia.org/property/rr": [
+            {
+                "type": "literal",
+                "value": "Jaebeol",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/mr": [
+            {
+                "type": "literal",
+                "value": "Chaeb\u014fl",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Chaebol?oldid=740238110"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.keia.com/chaebol2000.pdf."
+            },
+            {
+                "type": "uri",
+                "value": "http://dart.fss.or.kr/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.asiaweek.com/asiaweek/97/1010/aa5.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://news.xinhuanet.com/english/2008-04/22/content_8029589.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.economist.com/displaystory.cfm?story_id=1697767"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.economist.com/displaystory.cfm?story_id=109064"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "A chaebol (Korean: \uc7ac\ubc8c, ; from chae \"wealth or property\" + bol \"faction or clan\" \u2013 also written with the same Chinese characters \u8ca1\u95a5 as Zaibatsu) is a South Korean form of business conglomerate. They are typically global multinationals and own numerous international enterprises, controlled by a chairman with power over all the operations. The term is often used in a context similar to that of the English word \"conglomerate\". The term was first used in 1984. There are several dozen large Korean family-controlled corporate groups which fall under this definition. The chaebol have also played a significant role in South Korean politics. In 1988, a member of a chaebol family, Chung Mong-joon, president of Hyundai Heavy Industries, successfully ran for the National Assembly of South Korea. Other business leaders also were chosen to be members of the National Assembly through proportional representation. Since 2000, Hyundai has played a role in the thawing of North Korean and South Korean relations.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Een chaebol is de Zuid-Koreaanse vorm van een conglomeraat. Chaebols zijn grote, door families gecontroleerde, Koreaanse ondernemingsgroepen. Deze chaebols waren de stuwende kracht achter de sterke groei van de Zuid-Koreaanse economie na de Koreaanse Oorlog. De chaebols waren en zijn invloedrijke entiteiten die zich op het terrein van zowel de economie als de politiek begeven en soms zelfs hun krachten bundelen met de overheid op deelgebieden als (infrastructurele) planning en (technologische) innovatie.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Czebol (kor. \uc7ac\ubc8c [t\u0255\u025b\u02d0b\u028cl] zwi\u0105zek finansowy) \u2013 po\u0142udniowokorea\u0144ska forma konglomerat\u00f3w, koncern\u00f3w. Powsta\u0142y w latach 70. z ma\u0142ych firm prywatnych. By\u0142y popierane przez w\u0142adze wojskowe, wspieraj\u0105ce planowanie gospodarcze i dyscyplin\u0119 wewn\u0105trz przedsi\u0119biorstw. Do najwi\u0119kszych czeboli zaliczano Daewoo, Hyundai, Lucky Goldstar (dzisiejsze LG Group) i Samsunga. Przy wsp\u00f3\u0142pracy z przemys\u0142em japo\u0144skim i zachodnim produkowa\u0142y nowoczesne samochody, statki, wyroby elektroniczne, chemiczne i stalowe.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Jaebeol (deutsch \u201areiche Sippe\u2018 von jae \u201aReichtum\u2018, \u201aBesitz\u2018 und beol \u201aKlan\u2018, \u201aSippe\u2018) ist der koreanische Begriff f\u00fcr ein gro\u00dfes Familienunternehmen, das meist aus verschiedenen Sparten besteht, also ein Mischkonzern (Konglomerat) ist.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Chaebol (\uc7ac\ubc8c) \u00e8 una parola coreana che si riferisce a imprese conglomerate.Il termine \u00e8 l'equivalente coreano del giapponese zaibatsu e significa \"gruppo d'affari\", \"fiducia\" (in inglese trust come nella Standard Oil Trust) ed \u00e8 spesso usata come \"grande impresa\", \"multinazionale\", \"corporazione\" in italiano. Chaebol si riferisce ad alcune dozzine di grandi famiglie che controllano i gruppi delle corporazioni coreane, aiutate da finanziamenti del governo, che hanno giocato un importante ruolo nell'economia sudcoreana dagli anni '60. Alcuni sono diventati ben noti marchi internazionali, come Samsung, Hyundai, e LG. La parola inglese \u00e8 una traslitterazione di quella coreana, che \u00e8 latinizzata come Jaebeol.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062a\u0634\u064a\u0628\u0648\u0644 \u0623\u0648 \u0627\u0644\u062a\u0634\u0627\u064a\u0628\u0648\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Chaebol) (\u0627\u0644\u0643\u0648\u0631\u064a\u0629: \uc7ac\ubc8c) \u0645\u0646 \u062a\u0634\u0627\u064a \"\u0627\u0644\u062b\u0631\u0648\u0629 \u0623\u0648 \u0627\u0644\u0645\u0645\u062a\u0644\u0643\u0627\u062a\" + \u0628\u0648\u0644 \"\u0641\u0635\u064a\u0644 \u0623\u0648 \u0639\u0634\u064a\u0631\u0629\" \u0647\u0648 \u0634\u0643\u0644 \u0645\u0646 \u0623\u0634\u0643\u0627\u0644 \u0627\u0644\u0625\u0626\u062a\u0644\u0627\u0641\u0627\u062a \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629 \u0641\u064a \u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629. \u0648\u0647\u064a \u0639\u0627\u062f\u0629 \u0645\u0627 \u062a\u0643\u0648\u0646 \u0634\u0631\u0643\u0627\u062a \u0639\u0627\u0644\u0645\u064a\u0629 \u0645\u062a\u0639\u062f\u062f\u0629 \u0627\u0644\u062c\u0646\u0633\u064a\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0645\u062a\u0644\u0643 \u0645\u0624\u0633\u0633\u0627\u062a \u062f\u0648\u0644\u064a\u0629 \u0639\u062f\u064a\u062f\u0629 \u062e\u0627\u0635\u0629 \u064a\u0633\u064a\u0637\u0631 \u0639\u0644\u064a\u0647\u0627 \u0631\u0626\u064a\u0633 \u0630\u0648 \u0633\u0644\u0637\u0629 \u0639\u0644\u0649 \u062c\u0645\u064a\u0639 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a. \u0648\u0643\u062b\u064a\u0631\u0627\u064b \u0645\u0627 \u064a\u0633\u062a\u062e\u062f\u0645 \u0647\u0630\u0627 \u0627\u0644\u0645\u0635\u0637\u0644\u062d \u0641\u064a \u0633\u064a\u0627\u0642 \u0645\u0645\u0627\u062b\u0644 \u0644\u062a\u0644\u0643 \u0627\u0644\u062a\u064a \u0644\u0644\u0643\u0644\u0645\u0629 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 Conglomerate \u0623\u0648 \"\u0627\u0644\u062a\u0643\u062a\u0644\". \u0648\u0642\u062f \u0627\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0645\u0635\u0637\u0644\u062d \u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0641\u064a \u0639\u0627\u0645 1984. \u0647\u0646\u0627\u0643 \u0639\u0634\u0631\u0627\u062a \u0645\u0646 \u0645\u062c\u0645\u0648\u0639\u0627\u062a \u0627\u0644\u0634\u0631\u0643\u0627\u062a \u0627\u0644\u0643\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0627\u0626\u0644\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0646\u062f\u0631\u062c \u062a\u062d\u062a \u0647\u0630\u0627 \u0627\u0644\u062a\u0639\u0631\u064a\u0641.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u5728\u97d3\u570b\uff0c\u8d22\u9600\uff08\u671d\u9bae\u8a9e\uff1a\uc7ac\ubc8c\uff0cchaebol\uff09\u610f\u6307\u5927\u578b\u7d9c\u5408\u4f01\u696d\u96c6\u5718\uff0c\u9019\u4e9b\u4f01\u696d\u4e3b\u8981\u7531\u5bb6\u65cf\u4f01\u4e1a\u53d1\u5c55\u8d77\u4f86\uff0c\u5f8c\u5f62\u6210\u5927\u96c6\u56e2\u516c\u53f8\u8207\u8de8\u570b\u4f01\u696d\u3002\u5728\u9019\u7a2e\u4f01\u696d\u96c6\u5718\u4e2d\uff0c\u901a\u5e38\u7531\u4e00\u4f4d\u64c1\u6709\u6700\u5927\u6b0a\u52e2\u7684\u9818\u5c0e\u8005\uff0c\u4f86\u63a7\u5236\u6574\u500b\u96c6\u5718\u7684\u767c\u5c55\u3002\u8bb8\u591a\u97e9\u56fd\u8d22\u9600\u50cf\u4e09\u661f\u96c6\u56e2\u3001\u73b0\u4ee3\u96c6\u56e2\u3001LG\u96c6\u56e2\u3001SK\u96c6\u56e2\u7b49\u90fd\u662f\u4e16\u754c\u77e5\u540d\u5927\u578b\u8de8\u56fd\u516c\u53f8\u3002\u8d22\u9600\u5728\u97e9\u56fd\u7ecf\u6d4e\u4e2d\u626e\u6f14\u7740\u975e\u5e38\u91cd\u8981\u7684\u89d2\u8272\u30022010\u5e74\uff0c\u4ec5\u4e09\u661f\u96c6\u56e2\u7684\u9500\u552e\u989d\u5c31\u5360\u5230\u97e9\u56fdGDP\u768422.1%\u3002 \u8d22\u9600\u5728\u97e9\u56fd\u653f\u6cbb\u4e2d\u4e5f\u626e\u6f14\u7740\u91cd\u8981\u89d2\u8272\u30021998\u5e74\uff0c\u73b0\u4ee3\u91cd\u5de5\u4f1a\u957f\u90d1\u68a6\u51c6\u6210\u529f\u5f53\u9009\u97e9\u56fd\u56fd\u6703\u8bae\u5458\u3002\u73b0\u4ee3\u96c6\u56e2\u5728\u8c03\u8282\u97e9\u56fd\u4e0e\u671d\u9c9c\u4e4b\u95f4\u7684\u5173\u7cfb\u4e2d\u4e5f\u8d77\u5230\u4e86\u5f88\u91cd\u8981\u7684\u4f5c\u7528\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Chaebol (ou Jaebol, Jaebeol; IPA: ['\u02a8\u025b\u02d0b\u0259l]) \u00e9 o termo coreano que define um conglomerado de empresas em torno de uma empresa-m\u00e3e, normalmente controladas por fam\u00edlias, tais como Samsung, Hyundai e LG . Os 10 maiores Chaebol da Coreia do Sul s\u00e3o Samsung, Hyundai Motor Company, LG, SK, Hanjin, Hyundai Heavy Industries, Lotte, Doosan, Hanhwa, e Kumho Asiana.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0427\u0435\u0431\u043e\u0301\u043b\u044c (\u043a\u043e\u0440. \uc7ac\ubc8c?, \u8ca1\u95a5?, \u0447\u044d\u0431\u043e\u043b\u044c) \u2014 \u044e\u0436\u043d\u043e\u043a\u043e\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u0444\u043e\u0440\u043c\u0430 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u043e-\u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u044b\u0445 \u0433\u0440\u0443\u043f\u043f. \u041a\u043e\u043d\u0433\u043b\u043e\u043c\u0435\u0440\u0430\u0442, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u0441\u043e\u0431\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u0443 \u0444\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e \u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0444\u0438\u0440\u043c, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0445\u0441\u044f \u0432 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0445 \u0441\u0435\u043c\u0435\u0439 \u0438 \u043f\u043e\u0434 \u0435\u0434\u0438\u043d\u044b\u043c \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u043c \u0438 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u043c \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0435\u043c. \u0427\u0435\u0431\u043e\u043b\u0438 \u0432\u043e\u0437\u043d\u0438\u043a\u043b\u0438 \u0432 \u042e\u0436\u043d\u043e\u0439 \u041a\u043e\u0440\u0435\u0435 \u0432 \u043a\u043e\u043d\u0446\u0435 \u041a\u043e\u0440\u0435\u0439\u0441\u043a\u043e\u0439 \u0432\u043e\u0439\u043d\u044b \u0438 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440. \u041d\u0430 \u0432\u0435\u0441\u044c \u043c\u0438\u0440 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e \u043e\u043a\u043e\u043b\u043e \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u0438 \u0447\u0435\u0431\u043e\u043b\u0435\u0439, \u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0438 \u043e\u0433\u043b\u0430\u0448\u0430\u044e\u0442\u0441\u044f \u043a\u0430\u0436\u0434\u044b\u0439 \u0433\u043e\u0434. \u0422\u0430\u043a \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e, \u0447\u0442\u043e \u0432 1998 \u0433\u043e\u0434\u0443 \u0432\u0441\u0435 \u0432\u043c\u0435\u0441\u0442\u0435 \u043e\u043d\u0438 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u043b\u0438 46 % \u0432\u0441\u0435\u0445 \u043f\u0440\u043e\u0434\u0430\u0436 \u0432 \u042e\u0436\u043d\u043e\u0439 \u041a\u043e\u0440\u0435\u0435 \u0432 \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0439 \u043e\u0442\u0440\u0430\u0441\u043b\u0438. \u0422\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c, \u0447\u0435\u0431\u043e\u043b\u0438 \u0432\u043e \u043c\u043d\u043e\u0433\u043e\u043c \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0442 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0441\u0442\u0440\u0430\u043d\u044b, \u043e\u043d\u0438 \u0436\u0435 \u0438 \u0441\u0442\u0430\u043b\u0438 \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u0431\u0443\u0440\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u042e\u0436\u043d\u043e\u0439 \u041a\u043e\u0440\u0435\u0438 \u043f\u043e\u0441\u043b\u0435 \u0434\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u0441\u0442\u043e\u044f. \u042f\u043f\u043e\u043d\u0441\u043a\u0438\u0439 \u0430\u043d\u0430\u043b\u043e\u0433 \u0447\u0435\u0431\u043e\u043b\u044f \u2014 \u0434\u0437\u0430\u0439\u0431\u0430\u0446\u0443. \u042d\u0442\u043e \u0432\u0441\u0435\u0433\u043e \u043b\u0438\u0448\u044c \u043a\u043e\u0440\u0435\u0439\u0441\u043a\u043e\u0435 \u0438 \u044f\u043f\u043e\u043d\u0441\u043a\u043e\u0435 \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u043e\u0434\u043d\u043e\u0433\u043e \u0438 \u0442\u043e\u0433\u043e \u0436\u0435 \u0441\u043b\u043e\u0432\u0430, \u0438\u0435\u0440\u043e\u0433\u043b\u0438\u0444\u0430\u043c\u0438 \u0436\u0435 \u043e\u043d\u043e \u043f\u0438\u0448\u0435\u0442\u0441\u044f \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u043e.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Les chaebol (prononciation cor\u00e9enne t\u0255\u025b\u02d0b\u0259l) sont en Cor\u00e9e des ensembles d'entreprises, de domaines vari\u00e9s, entretenant entre elles des participations crois\u00e9es. Ils sont les \u00e9quivalents cor\u00e9ens des anciens zaibatsu japonais (dissous par les autorit\u00e9s d'occupation am\u00e9ricaines et r\u00e9apparus sous la forme des keiretsu). Les deux expressions s'\u00e9crivent d'ailleurs avec les m\u00eames caract\u00e8res chinois (\u8ca1\u95a5), la diff\u00e9rence \u00e9tant dans la prononciation apparent\u00e9e.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Chaebol (hangul: \uc7ac\ubc8c, hanja: \u8ca1\u95a5)? es un modelo empresarial basado en grandes conglomerados con presencia en distintos sectores econ\u00f3micos, que se ha desarrollado en Corea del Sur. Las compa\u00f1\u00edas que presentan esta peculiaridad se caracterizan por su fuerte crecimiento, desarrollo tecnol\u00f3gico, diversificaci\u00f3n y una fuerte dimensi\u00f3n empresarial. La palabra en coreano significa \"negocio de familia\", aunque tambi\u00e9n se utiliza para referirse a un monopolio. El modelo surgi\u00f3 despu\u00e9s de la independencia de Corea del Sur, cuando su gobierno otorg\u00f3 a distintas empresas nacionales un fuerte apoyo pol\u00edtico y financiero para que lideraran el despegue econ\u00f3mico del pa\u00eds, mediante la inversi\u00f3n en distintos campos como industria, siderurgia, tecnolog\u00eda y construcci\u00f3n entre otros. La labor de estos grupos contribuy\u00f3 al crecimiento econ\u00f3mico del pa\u00eds en la segunda mitad del siglo XX, hasta situar a Corea del Sur como uno de los \"cuatro tigres asi\u00e1ticos\". Algunos ejemplos de chaebol son Samsung, Hyundai, LG, Lotte y SK Group. El chaebol goza de fuerte influencia en la vida social surcoreana, hasta el punto de que algunos cargos procedentes de estas empresas, como Lee Myung-bak, han llegado a la presidencia de la Rep\u00fablica de Corea. Los detractores de los chaebol critican del modelo su crecimiento durante los reg\u00edmenes autoritarios de Park Chung-hee y Chun Doo-hwan, la existencia de pr\u00e1cticas contrarias a la ley, falta de transparencia y un supuesto trato de favor de las administraciones surcoreanas, con esc\u00e1ndalos de sobornos y corrupci\u00f3n. En los \u00faltimos a\u00f1os, el Gobierno surcoreano ha tomado medidas para reducir su poder.",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Hdhq.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 740238110,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 338409,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Form"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tongyang_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Chaebol": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/CJ_Group": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hyundai_Motor_Group": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Daewoo": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hyundai": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SPC_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shinsegae": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hansol": {
+        "http://dbpedia.org/property/formerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LS_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Eugene_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Halla_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aju_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kiswel_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/YTN_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Taekwang_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ILJIN_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Daelim_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SsangYong_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Isu_Group": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/KT_Corporation": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chaebul": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Samlip_Food": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/South_Korean_Companies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jaebol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chaeb\u014fl": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/South_Korean_conglomerates": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_chaebol_by_total_revenues": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jebul": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chaebeol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jaebeol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chaebols": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\uc7ac\ubc8c": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chaebol_(South_korean_companies)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chaebol"
+            }
+        ]
+    }
+}

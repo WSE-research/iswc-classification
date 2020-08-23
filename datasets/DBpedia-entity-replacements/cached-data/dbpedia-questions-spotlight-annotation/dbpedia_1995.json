@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the MusicBrainz work ID for Adagio in G minor?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/MusicBrainz",
+            "@support": "531",
+            "@types": "Wikidata:Q386724,Schema:WebPage,Schema:CreativeWork,DBpedia:Work,DBpedia:Website",
+            "@surfaceForm": "MusicBrainz",
+            "@offset": "13",
+            "@similarityScore": "0.999999992301781",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tempo",
+            "@support": "7767",
+            "@types": "",
+            "@surfaceForm": "Adagio",
+            "@offset": "37",
+            "@similarityScore": "0.8985298960671185",
+            "@percentageOfSecondRank": "0.11252597952552981"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/G_minor",
+            "@support": "436",
+            "@types": "",
+            "@surfaceForm": "G minor",
+            "@offset": "47",
+            "@similarityScore": "0.9998573738767502",
+            "@percentageOfSecondRank": "1.4262060151888306E-4"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "\"What is {is in the principal area of} of {Flevoland}, whose {member of} is {Australia Group} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Local_government_in_Wales",
+            "@support": "490",
+            "@types": "",
+            "@surfaceForm": "principal area",
+            "@offset": "20",
+            "@similarityScore": "0.7745734375914702",
+            "@percentageOfSecondRank": "0.29103316650127453"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Flevoland",
+            "@support": "287",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Flevoland",
+            "@offset": "43",
+            "@similarityScore": "0.9999999691062844",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Australia_Group",
+            "@support": "99",
+            "@types": "",
+            "@surfaceForm": "Australia Group",
+            "@offset": "77",
+            "@similarityScore": "0.999999974717895",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

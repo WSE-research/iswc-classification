@@ -1,0 +1,37 @@
+{
+    "@text": "Which {county seat}  {is in the Indian reserve of} of {A Capela} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/County_seat",
+            "@support": "16036",
+            "@types": "",
+            "@surfaceForm": "county seat",
+            "@offset": "7",
+            "@similarityScore": "0.9999983948673424",
+            "@percentageOfSecondRank": "6.186902348774486E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Indian_reserve",
+            "@support": "1999",
+            "@types": "",
+            "@surfaceForm": "Indian reserve",
+            "@offset": "32",
+            "@similarityScore": "0.9389250258465262",
+            "@percentageOfSecondRank": "0.06462795685900422"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/A_Capela",
+            "@support": "10",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "A Capela",
+            "@offset": "55",
+            "@similarityScore": "0.9999999999682814",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Is the chestnut white bellied rat a mammal?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Chestnut",
+            "@support": "1276",
+            "@types": "Wikidata:Q756,Wikidata:Q19088,DBpedia:Species,DBpedia:Plant,DBpedia:Eukaryote",
+            "@surfaceForm": "chestnut",
+            "@offset": "7",
+            "@similarityScore": "0.9806377377915724",
+            "@percentageOfSecondRank": "0.011455525373679297"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mammal",
+            "@support": "8454",
+            "@types": "",
+            "@surfaceForm": "mammal",
+            "@offset": "36",
+            "@similarityScore": "0.9999998400032112",
+            "@percentageOfSecondRank": "1.0061704866448284E-7"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Which designer of RENFE also owns Renaissance Center ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Renfe_Operadora",
+            "@support": "680",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "RENFE",
+            "@offset": "18",
+            "@similarityScore": "0.9999999664962621",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Renaissance_Center",
+            "@support": "246",
+            "@types": "Wikidata:Q41176,Wikidata:Q27686,Schema:Place,Schema:Hotel,DBpedia:Place,DBpedia:Location,DBpedia:Hotel,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Renaissance Center",
+            "@offset": "34",
+            "@similarityScore": "0.999999999937728",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

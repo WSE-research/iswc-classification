@@ -1,0 +1,28 @@
+{
+    "@text": "Which military unit's  garrison is Pentagon and command structure is United States Department of Defense?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/The_Pentagon",
+            "@support": "4222",
+            "@types": "Wikidata:Q41176,Schema:Place,DBpedia:Place,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Pentagon",
+            "@offset": "35",
+            "@similarityScore": "0.8228011248657822",
+            "@percentageOfSecondRank": "0.2145520602054976"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "69",
+            "@similarityScore": "0.9999050313962414",
+            "@percentageOfSecondRank": "7.594584053967766E-5"
+        }
+    ]
+}

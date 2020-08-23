@@ -1,0 +1,28 @@
+{
+    "@text": "Is the watershed area of the rio de Santa Maria Zobenigo greater than 0.00083176?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Drainage_basin",
+            "@support": "12767",
+            "@types": "",
+            "@surfaceForm": "watershed",
+            "@offset": "7",
+            "@similarityScore": "0.9388364741201402",
+            "@percentageOfSecondRank": "0.06489848372502204"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Santa_Maria_Zobenigo",
+            "@support": "18",
+            "@types": "Wikidata:Q41176,Wikidata:Q1370598,Schema:Place,DBpedia:ReligiousBuilding,DBpedia:Place,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Santa Maria Zobenigo",
+            "@offset": "36",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

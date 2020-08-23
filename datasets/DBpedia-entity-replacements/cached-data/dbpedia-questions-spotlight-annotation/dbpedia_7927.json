@@ -1,0 +1,37 @@
+{
+    "@text": "Which city in Belgium shares a border with Bruges?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "6",
+            "@similarityScore": "0.8920989990694269",
+            "@percentageOfSecondRank": "0.0840471416543612"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Belgium",
+            "@support": "58385",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Belgium",
+            "@offset": "14",
+            "@similarityScore": "0.9989441692909842",
+            "@percentageOfSecondRank": "0.001054168362830051"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bruges",
+            "@support": "3678",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Bruges",
+            "@offset": "43",
+            "@similarityScore": "0.9999530472996462",
+            "@percentageOfSecondRank": "2.4515223980224153E-5"
+        }
+    ]
+}

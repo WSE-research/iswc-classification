@@ -1,0 +1,28 @@
+{
+    "@text": "Which chemical compound has the highest acceptable daily intake?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Chemical_compound",
+            "@support": "3471",
+            "@types": "",
+            "@surfaceForm": "chemical compound",
+            "@offset": "6",
+            "@similarityScore": "0.9997841062257599",
+            "@percentageOfSecondRank": "2.1594039174939082E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Acceptable_daily_intake",
+            "@support": "62",
+            "@types": "",
+            "@surfaceForm": "acceptable daily intake",
+            "@offset": "40",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

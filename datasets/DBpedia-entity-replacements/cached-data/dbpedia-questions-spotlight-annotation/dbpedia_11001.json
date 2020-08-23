@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the deepest point in Rhode Island having tributary of Mana River?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Rhode_Island",
+            "@support": "15319",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Rhode Island",
+            "@offset": "30",
+            "@similarityScore": "0.9868883925332654",
+            "@percentageOfSecondRank": "0.01168592887699159"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tributary",
+            "@support": "17917",
+            "@types": "",
+            "@surfaceForm": "tributary",
+            "@offset": "50",
+            "@similarityScore": "0.9999987824209763",
+            "@percentageOfSecondRank": "6.444344751922563E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mana_River",
+            "@support": "13",
+            "@types": "",
+            "@surfaceForm": "Mana River",
+            "@offset": "63",
+            "@similarityScore": "0.9999999999906493",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

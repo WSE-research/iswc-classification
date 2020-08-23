@@ -1,0 +1,37 @@
+{
+    "@text": "Give the name of the taxon with the lowest chromosome quantity whose progenitor is Passifloraceae.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "21",
+            "@similarityScore": "0.9999818945984454",
+            "@percentageOfSecondRank": "1.7998363305427496E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chromosome",
+            "@support": "6226",
+            "@types": "",
+            "@surfaceForm": "chromosome",
+            "@offset": "43",
+            "@similarityScore": "0.9999999000305216",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Passifloraceae",
+            "@support": "134",
+            "@types": "Wikidata:Q756,Wikidata:Q19088,DBpedia:Species,DBpedia:Plant,DBpedia:Eukaryote",
+            "@surfaceForm": "Passifloraceae",
+            "@offset": "83",
+            "@similarityScore": "0.9999999688678689",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

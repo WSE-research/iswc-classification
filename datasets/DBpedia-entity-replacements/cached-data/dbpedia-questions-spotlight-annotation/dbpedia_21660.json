@@ -1,0 +1,28 @@
+{
+    "@text": "Name the company whose products's predecessor is Boeing Vertol CH-46 Sea Knight?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Piasecki_Helicopter",
+            "@support": "133",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Vertol",
+            "@offset": "56",
+            "@similarityScore": "0.9999999999992895",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Boeing_Vertol_CH-46_Sea_Knight",
+            "@support": "337",
+            "@types": "Wikidata:Q11436,DUL:DesignedArtifact,Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft",
+            "@surfaceForm": "CH-46 Sea Knight",
+            "@offset": "63",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

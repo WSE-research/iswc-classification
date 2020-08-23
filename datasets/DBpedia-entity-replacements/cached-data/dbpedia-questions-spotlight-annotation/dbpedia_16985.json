@@ -1,0 +1,28 @@
+{
+    "@text": "Is it true that the heart rate of the horse equals to 46.5?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Heart_rate",
+            "@support": "1029",
+            "@types": "",
+            "@surfaceForm": "heart rate",
+            "@offset": "20",
+            "@similarityScore": "0.9995068717056856",
+            "@percentageOfSecondRank": "3.165222141926165E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Horse",
+            "@support": "12987",
+            "@types": "Wikidata:Q7377,Wikidata:Q729,Wikidata:Q19088,DBpedia:Species,DBpedia:Mammal,DBpedia:Eukaryote,DBpedia:Animal",
+            "@surfaceForm": "horse",
+            "@offset": "38",
+            "@similarityScore": "0.9979593138709513",
+            "@percentageOfSecondRank": "0.0016711023545077975"
+        }
+    ]
+}

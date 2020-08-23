@@ -1,0 +1,46 @@
+{
+    "@text": "Which currency of Republic of Montenegro is also the currency of the French Southern and Antarctic Lands ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Currency",
+            "@support": "6095",
+            "@types": "",
+            "@surfaceForm": "currency",
+            "@offset": "6",
+            "@similarityScore": "0.9995045197319162",
+            "@percentageOfSecondRank": "2.2225423146028913E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Montenegro",
+            "@support": "14954",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Montenegro",
+            "@offset": "30",
+            "@similarityScore": "0.9991481305565091",
+            "@percentageOfSecondRank": "2.4242113348568284E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Currency",
+            "@support": "6095",
+            "@types": "",
+            "@surfaceForm": "currency",
+            "@offset": "53",
+            "@similarityScore": "0.9995045197319162",
+            "@percentageOfSecondRank": "2.2225423146028913E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/France",
+            "@support": "256130",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "French",
+            "@offset": "69",
+            "@similarityScore": "0.6982907792945916",
+            "@percentageOfSecondRank": "0.41085141746934783"
+        }
+    ]
+}

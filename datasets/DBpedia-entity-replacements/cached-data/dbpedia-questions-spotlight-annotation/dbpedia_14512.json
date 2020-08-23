@@ -1,0 +1,46 @@
+{
+    "@text": "Did Chuck Berry's instruments include the Fender Stratocaster and Gibson ES-335?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Chuck_Berry",
+            "@support": "2339",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Chuck Berry",
+            "@offset": "4",
+            "@similarityScore": "0.9999999999998579",
+            "@percentageOfSecondRank": "1.4761303456129585E-13"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Fender_Musical_Instruments_Corporation",
+            "@support": "3645",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Fender",
+            "@offset": "42",
+            "@similarityScore": "0.9949360405724754",
+            "@percentageOfSecondRank": "0.005089593872980963"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Fender_Stratocaster",
+            "@support": "1203",
+            "@types": "",
+            "@surfaceForm": "Stratocaster",
+            "@offset": "49",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Gibson_ES-335",
+            "@support": "213",
+            "@types": "",
+            "@surfaceForm": "ES-335",
+            "@offset": "73",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

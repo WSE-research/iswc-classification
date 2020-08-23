@@ -1,0 +1,37 @@
+{
+    "@text": "Is it true that Warner Bros. Records was George Harrison's record label?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Warner_Bros._Records",
+            "@support": "5552",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q18127,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:RecordLabel,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Warner Bros.",
+            "@offset": "16",
+            "@similarityScore": "0.7177912853376964",
+            "@percentageOfSecondRank": "0.3928475523041605"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/George_Harrison",
+            "@support": "5966",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "George Harrison",
+            "@offset": "41",
+            "@similarityScore": "0.9997707717708529",
+            "@percentageOfSecondRank": "2.2928065115288167E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Record_label",
+            "@support": "10775",
+            "@types": "",
+            "@surfaceForm": "record label",
+            "@offset": "59",
+            "@similarityScore": "0.9749371529658813",
+            "@percentageOfSecondRank": "0.025178401468879726"
+        }
+    ]
+}

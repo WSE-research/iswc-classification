@@ -1,0 +1,513 @@
+{
+    "http://dbpedia.org/resource/Molar_mass": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Property104916342"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/UnitOfMeasurement113583724"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Attribute100024264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatChemicalProperties"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/DefiniteQuantity113576101"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Measure100033615"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Building"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatMolarQuantities"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/ChemicalProperty105009758"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatUnitsOfChemicalMeasurement"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u30e2\u30eb\u8cea\u91cf",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Massa molar",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Molar mass",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u6469\u5c14\u8d28\u91cf",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Molaire massa",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Masse molaire",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Masa molowa",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Molare Masse",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0643\u062a\u0644\u0629 \u0645\u0648\u0644\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u041c\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u043c\u0430\u0441\u0441\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Masa molar",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Massa molare",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Masa molowa \u2013 masa jednego mola substancji chemicznej. Cz\u0119sto mylona z mas\u0105 cz\u0105steczkow\u0105, lecz liczbowo jest r\u00f3wna tej warto\u015bci. Jednostk\u0105 masy molowej w uk\u0142adzie SI jest kg/mol, chocia\u017c cz\u0119\u015bciej wyra\u017cana jest w jednostce pochodnej g/mol. Jednostka g/mol jest powszechnie stosowana jako znacznie wygodniejsza w u\u017cyciu, gdy\u017c tak wyra\u017cona masa molowa jest liczbowo r\u00f3wna wzgl\u0119dnej masie molowej oraz podobna do warto\u015bci liczby masowej. Przyk\u0142ady: Warto\u015bci powy\u017cszych mas molowych s\u0105 przybli\u017cone.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "La masse molaire est la masse d'une mole d'une substance (un corps simple, un compos\u00e9 chimique). Elle s'exprime en grammes par mole (g\u00b7mol\u22121 ou g/mol). Si on note : \n*  m : la masse de la substance en grammes (symbole : \u00ab g \u00bb, selon le SI) ; \n*  n : la quantit\u00e9 de mati\u00e8re de la substance en moles (symbole : \u00ab mol \u00bb, selon le SI) ; \n*  M : la masse molaire de la substance en grammes par mole (symbole : \u00ab g/mol \u00bb ou \u00ab g\u00b7mol\u22121 \u00bb, selon le SI) ; on obtient les relations \u00e9quivalentes : et et",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u6469\u5c14\u8d28\u91cf\u662f\u4e00\u6469\u5c14\u5316\u5b66\u5143\u7d20\u6216\u8005\u5316\u5408\u7269\u7684\u8d28\u91cf\u3002\u8d28\u91cfm\u4e0e\u7269\u8d28\u7684\u91cfn\u4e4b\u6bd4\uff0c\u79f0\u4e3a\u6469\u5c14\u8d28\u91cf\uff0c\u7b26\u53f7\u4e3aM\uff1a SI\u5355\u4f4d\u4e3a\uff1a\u5343\u514b\u6bcf\u6469\u5c14\uff08kg/mol\uff09\uff0c\u7531\u4e8e\u5386\u53f2\u539f\u56e0\uff0c\u4e00\u822c\u90fd\u4f7f\u7528g/mol\u4f5c\u4e3a\u5355\u4f4d\u3002 \u7269\u8d28\u7684\u6469\u5c14\u8d28\u91cf\u5728\u6570\u503c\u4e0a\u7b49\u4e8e\u5176\u76f8\u5bf9\u5206\u5b50\u8d28\u91cf\u6216\u76f8\u5bf9\u539f\u5b50\u8d28\u91cf\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u041c\u043e\u043b\u044f\u0301\u0440\u043d\u0430\u044f \u043c\u0430\u0301\u0441\u0441\u0430 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u2014 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u043c\u0430\u0441\u0441\u044b \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u043a \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0443 \u043c\u043e\u043b\u0435\u0439 \u044d\u0442\u043e\u0433\u043e \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430, \u0442\u043e \u0435\u0441\u0442\u044c \u043c\u0430\u0441\u0441\u0430 \u043e\u0434\u043d\u043e\u0433\u043e \u043c\u043e\u043b\u044f \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430. \u0414\u043b\u044f \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0445 \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u043c\u043e\u043b\u044f\u0440\u043d\u043e\u0439 \u043c\u0430\u0441\u0441\u043e\u0439 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0430\u0441\u0441\u0430 \u043e\u0434\u043d\u043e\u0433\u043e \u043c\u043e\u043b\u044f \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0445 \u0430\u0442\u043e\u043c\u043e\u0432 \u044d\u0442\u043e\u0433\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430, \u0442\u043e \u0435\u0441\u0442\u044c \u043c\u0430\u0441\u0441\u0430 \u0430\u0442\u043e\u043c\u043e\u0432 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u0432\u0437\u044f\u0442\u044b\u0445 \u0432 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0435 \u0440\u0430\u0432\u043d\u043e\u043c \u0427\u0438\u0441\u043b\u0443 \u0410\u0432\u043e\u0433\u0430\u0434\u0440\u043e. \u0412 \u044d\u0442\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u043c\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u043c\u0430\u0441\u0441\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430, \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u043d\u0430\u044f \u0432 \u0433/\u043c\u043e\u043b\u044c, \u0447\u0438\u0441\u043b\u0435\u043d\u043d\u043e \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u0435\u0442 \u0441 \u043c\u0430\u0441\u0441\u043e\u0439 \u0430\u0442\u043e\u043c\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430, \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u043d\u043e\u0439 \u0432 \u0430. \u0435. \u043c. (\u0430\u0442\u043e\u043c\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u043c\u0430\u0441\u0441\u044b). \u041e\u0434\u043d\u0430\u043a\u043e \u043d\u0430\u0434\u043e \u0447\u0451\u0442\u043a\u043e \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0442\u044c \u0440\u0430\u0437\u043d\u0438\u0446\u0443 \u043c\u0435\u0436\u0434\u0443 \u043c\u043e\u043b\u044f\u0440\u043d\u043e\u0439 \u043c\u0430\u0441\u0441\u043e\u0439 \u0438 \u043c\u043e\u043b\u0435\u043a\u0443\u043b\u044f\u0440\u043d\u043e\u0439 \u043c\u0430\u0441\u0441\u043e\u0439, \u043f\u043e\u043d\u0438\u043c\u0430\u044f, \u0447\u0442\u043e \u043e\u043d\u0438 \u0440\u0430\u0432\u043d\u044b \u043b\u0438\u0448\u044c \u0447\u0438\u0441\u043b\u0435\u043d\u043d\u043e \u0438 \u043e\u0442\u043b\u0438\u0447\u0430\u044e\u0442\u0441\u044f \u043f\u043e \u0440\u0430\u0437\u043c\u0435\u0440\u043d\u043e\u0441\u0442\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "La massa molare \u00e8 la massa di una mole di una sostanza, quindi la massa della quantit\u00e0 di particelle elementari che corrispondono alla costante di Avogadro. L'unit\u00e0 di misura di tale grandezza, nel SI dovrebbe teoricamente essere il kilogrammo su mole , tuttavia si usa esclusivamente il grammo su mole , in quanto rende quasi immediata la conversione tra peso atomico e massa.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Die molare Masse M (auch veraltet Molmasse; un\u00fcblich stoffmengenbezogene Masse) eines Stoffes ist der Proportionalit\u00e4tsfaktor zwischen Masse m und Stoffmenge n: m = M x n. Die molare Masse ist eine intensive Gr\u00f6\u00dfe. Die SI-Einheit ist kg/mol; in der Chemie ist g/mol \u00fcblich. Die molare Masse eines nuklidenreinen Stoffes ist konstant. Der Zahlenwert der molaren Masse in g/mol ist die relative Molek\u00fclmasse und gleich dem Zahlenwert der Molek\u00fclmasse in der atomaren Masseneinheit (u oder Dalton, wenn die Verbindung aus nuklidreinen Elementen besteht.)",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "La masa molar (s\u00edmbolo M) de una sustancia dada es una propiedad f\u00edsica definida como su masa por unidad de cantidad de sustancia. Su unidad de medida en el SI es kilogramo por mol (kg/mol o kg\u00b7mol\u22121), sin embargo, por razones hist\u00f3ricas, la masa molar es expresada casi siempre en gramos por mol (g/mol). Las sustancias puras, sean estas elementos o compuestos, poseen una masa molar intensiva y caracter\u00edstica. Por ejemplo, la masa molar aproximada del agua es: M (H2O) \u2248 18 g\u00b7mol\u22121.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "A massa molar \u00e9 a massa em gramas de um mol de entidades elementares \u2013 \u00e1tomos, mol\u00e9culas, \u00edons, el\u00e9trons, outras part\u00edculas ou outros grupos espec\u00edficos de tais part\u00edculas. \u00c9 representada pela letra \"M\" e expressa na unidade g/mol.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "De molaire massa, symbool M, van een chemische stof is de massa per mol van die stof. De eenheid is gram per mol (g/mol). De molaire massa is een stofeigenschap.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u30e2\u30eb\u8cea\u91cf\uff08\u30e2\u30eb\u3057\u3064\u308a\u3087\u3046\u3001molar mass\uff09\u3068\u306f\u7269\u8cea\u3059\u306a\u308f\u3061\u5143\u7d20\u5358\u4f53\u3042\u308b\u3044\u306f\u5316\u5408\u7269\u306e\u5358\u4f4d\u7269\u8cea\u91cf\u5f53\u305f\u308a\u306e\u8cea\u91cf\u3067\u3042\u308b\u3002\u300c\u5358\u4f4d\u7269\u8cea\u91cf\u300d\u3068\u3057\u30661 mol\u3092\u9078\u3093\u3060\u5834\u5408\u3001\u30e2\u30eb\u8cea\u91cf\u306f\u3001\u7269\u8cea\u306e\u69cb\u6210\u8981\u7d20\uff08\u539f\u5b50\u3001\u5206\u5b50\u3001\u304a\u3088\u3073\u30a4\u30aa\u30f3\u3001\u3042\u308b\u3044\u306f\u967d\u30a4\u30aa\u30f3\u3068\u9670\u30a4\u30aa\u30f3\u306a\u3069\u304b\u3089\u69cb\u6210\u3055\u308c\u308b1\u30e6\u30cb\u30c3\u30c8\uff096.02214179(30)\u00d71023\u500b\u5206\uff08(30)\u306f\u4e0b2\u6841\u306e\u4e0d\u78ba\u304b\u3055\uff09\u306e\u8cea\u91cf\u3067\u3042\u308a\u3001\u69cb\u6210\u8981\u7d201\u500b\u5206\u306e\u8cea\u91cf\u306e\u30a2\u30dc\u30ac\u30c9\u30ed\u5b9a\u6570\u500d\u306b\u76f8\u5f53\u3059\u308b\u3002\u3053\u308c\u306f\u5404\u7d14\u7269\u8cea\u304c\u3082\u3064\u56fa\u6709\u306e\u7269\u7406\u7684\u6027\u8cea\u3067\u3042\u308b\u3002\u63a8\u5968\u3055\u308c\u308b\u91cf\u8a18\u53f7\u306f \u3067\u3042\u308b\u3002 \u8cea\u91cf\u306eSI\u5358\u4f4d\u306f\u30ad\u30ed\u30b0\u30e9\u30e0\u3067\u3042\u308a\u3001\u30e2\u30eb\u8cea\u91cf\u306eSI\u5358\u4f4d\u306f kg mol\u22121 \uff08\u30ad\u30ed\u30b0\u30e9\u30e0\u6bce\u30e2\u30eb\uff09\u3067\u3042\u308b\u304c\u3001\u5316\u5b66\u306b\u304a\u3044\u3066\u306f\u901a\u5e38\u3001\u5b9f\u7528\u9762\u3042\u308b\u3044\u306f\u6b74\u53f2\u7684\u7d4c\u7def\u306b\u3088\u308a1\u30e2\u30eb\u5f53\u305f\u308a\u306e\u30b0\u30e9\u30e0\u6570\u3067\u8868\u3055\u308c\u3001\u5358\u4f4d\u306f g mol\u22121 \uff08\u30b0\u30e9\u30e0\u6bce\u30e2\u30eb\uff09\u304c\u7528\u3044\u3089\u308c\u308b\u3002\u30e2\u30eb\u8cea\u91cf\u306f\u5206\u5b50\u91cf\u3001\u5316\u5b66\u5f0f\u91cf\u304a\u3088\u3073\u305d\u308c\u3092\u69cb\u6210\u3059\u308b\u5143\u7d20\u306e\u539f\u5b50\u91cf\u3068\u5bc6\u63a5\u306a\u95a2\u4fc2\u306b\u3042\u308a\u3001\u5206\u5b50\u91cf\u3001\u5316\u5b66\u5f0f\u91cf\u307e\u305f\u306f\u539f\u5b50\u91cf\u306e\u6570\u5024\u306b\u5358\u4f4d g mol\u22121 \u3092\u3064\u3051\u305f\u3082\u306e\uff08\u6b63\u78ba\u306b\u306f\u3001\u5358\u4f4d g mol\u22121 \u3092\u4e57\u3058\u305f\u3082\u306e\uff09\u306b\u76f8\u5f53\u3059\u308b\u3002 \u30e2\u30eb\u8cea\u91cf\u306f\u76f4\u63a5\u6e2c\u5b9a\u3055\u308c\u308b\u3053\u3068\u306f\u307b\u3068\u3093\u3069\u306a\u304f\u3001\u591a\u304f\u306e\u5834\u5408\u3001\u5404\u7269\u8cea\u306e\u30e2\u30eb\u8cea\u91cf\u306f\u539f\u5b50\u91cf\u304b\u3089\u8a08\u7b97\u3055\u308c\u3001\u3057\u3070\u3057\u3070\u5316\u5b66\u7269\u8cea\u306e\u30ab\u30bf\u30ed\u30b0\u3084\u5316\u5b66\u7269\u8cea\u5b89\u5168\u6027\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\u306a\u3069\u306b\u4e00\u89a7\u3068\u3057\u3066\u793a\u3055\u308c\u308b\u3002 \u7269\u8cea\u306e\u8cea\u91cf\u3068\u30e2\u30eb\u8cea\u91cf\u304a\u3088\u3073\u7269\u8cea\u91cf\u3068\u306e\u9593\u306b\u306f\u4ee5\u4e0b\u306e\u95a2\u4fc2\u304c\u3042\u308a\u3001\u8cea\u91cf\u3068\u7269\u8cea\u91cf\u306f\u4e92\u3044\u306b\u63db\u7b97\u3055\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "In chemistry, the molar mass M is a physical property defined as the mass of a given substance (chemical element or chemical compound) divided by the amount of substance. The base SI unit for molar mass is kg/mol. However, for historical reasons, molar masses are almost always expressed in g/mol. As an example, the molar mass of water: M(H2O) \u2248 18 g/mol",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0627\u0644\u0643\u064f\u062a\u0644\u0629 \u0627\u0644\u0645\u0648\u0644\u064a\u0629 \u0647\u064a \u0643\u062a\u0644\u0629 \u0645\u0648\u0644 \u0648\u0627\u062d\u062f \u0645\u0646 \u0627\u0644\u0639\u0646\u0635\u0631 \u0623\u0648 \u0627\u0644\u0645\u0631\u0643\u0628 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a. \u0641\u064a \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0621,\u0648\u0647\u064a \u0643\u062a\u0644\u0629 \u0639\u062f\u062f \u0623\u0641\u0648\u063a\u0627\u062f\u0631\u0648 \u0645\u0646 \u0630\u0631\u0627\u062a \u0627\u0644\u0639\u0646\u0635\u0631 \u0623\u0648 \u0643\u062a\u0644\u0629 \u0646\u0641\u0633 \u0627\u0644\u0639\u062f\u062f \u0645\u0646 \u062c\u0632\u064a\u0626\u0627\u062a \u0627\u0644\u0645\u0631\u0643\u0628 .\u062a\u0643\u0648\u0646 \u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u0645\u0648\u0644\u064a\u0629 \u062c\u0631\u0627\u0645/\u0645\u0648\u0644 (g/mol). \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u0630\u0631\u064a\u0629 \u0627\u0644\u0645\u0648\u062c\u0648\u062f\u0629 \u0644\u0644\u0639\u0646\u0627\u0635\u0631 \u0641\u064a \u0627\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0639\u0628\u064a\u0631 \u0639\u0646\u0647\u0627 \u0628\u0637\u0631\u064a\u0642\u062a\u064a\u0646: \u0627\u0644\u0623\u0648\u0644\u0649, \u0643\u062a\u0644\u0629 \u0630\u0631\u0629 \"\u0645\u062a\u0648\u0633\u0637\u0629\" \u0644\u0644\u0639\u0646\u0635\u0631 \u0628\u0648\u062d\u062f\u0629 \u0627\u0644\u0643\u062a\u0644 \u0627\u0644\u0630\u0631\u064a\u0629 (u), \u0648\u0627\u0644\u062b\u0627\u0646\u064a\u0629, \u0647\u064a \u0643\u062a\u0644\u0629 \u0645\u0648\u0644 \u0645\u0646 \u0627\u0644\u0639\u0646\u0635\u0631 \u0645\u0642\u062f\u0631\u0629 \u0628\u0627\u0644\u062c\u0631\u0627\u0645\u0627\u062a. \u0648\u0627\u0644\u062a\u0639\u0628\u064a\u0631 \u0627\u0644\u062b\u0627\u0646\u064a \u0647\u0648 \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u0645\u0648\u0644\u064a\u0629 \u0644\u0644\u0639\u0646\u0635\u0631 \u0648\u062a\u0633\u062a\u062e\u062f\u0645 \u0628\u0643\u062b\u0631\u0629 \u0641\u064a \u062d\u0633\u0627\u0628\u0627\u062a \u0642\u064a\u0627\u0633\u0627\u062a \u0627\u0644\u0625\u062a\u062d\u0627\u062f \u0627\u0644\u0639\u0646\u0635\u0631\u064a. \u0648\u0641\u064a \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621, \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u0645\u0648\u0644\u064a\u0629 \u063a\u0627\u0644\u0628\u0627 \u0645\u0627 \u064a\u0639\u0628\u0631 \u0639\u0646\u0647\u0627 \u0628\u0627\u0644\u0643\u064a\u0644\u0648 \u062c\u0631\u0627\u0645 \u0644\u0643\u0644 \u0645\u0648\u0644 (kg/kmol). \u0648\u062a\u062e\u062a\u0644\u0641 \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u0645\u0648\u0644\u064a\u0629 \u0639\u0646 \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u062c\u0632\u064a\u0626\u064a\u0629 \u0648\u0627\u0644\u062a\u064a \u062a\u0645\u062b\u0644 \"\u0643\u062a\u0644\u0629 \u062c\u0632\u064a\u0621 \u0648\u0627\u062d\u062f\".",
+                "lang": "ar"
+            }
+        ],
+        "http://dbpedia.org/property/symbols": [
+            {
+                "type": "literal",
+                "value": "M",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Massa_molar"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Molaire_massa"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Masa_molowa"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Mol\u00e1rn\u00ed_hmotnost"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Molare_Masse"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q145623"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Massa_molare"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Massa_molar"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30e2\u30eb\u8cea\u91cf"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Masa_molar"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01284g"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q145623"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Masa_molar"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ubab0_\uc9c8\ub7c9"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Masse_molaire"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Molar_mass"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Molar_quantities"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Mass"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Molar_mass"
+            }
+        ],
+        "http://dbpedia.org/property/bgcolour": [
+            {
+                "type": "literal",
+                "value": "{default}",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/otherunits": [
+            {
+                "type": "literal",
+                "value": "g/mol",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Molar_mass?oldid=742786144"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.chem4free.info/calculators/molarmass.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.webqc.org/mmcalc.php"
+            },
+            {
+                "type": "uri",
+                "value": "http://chemistry-in-excel.jimdo.com"
+            },
+            {
+                "type": "uri",
+                "value": "http://hox.io/molcalc"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Molar mass",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u30e2\u30eb\u8cea\u91cf\uff08\u30e2\u30eb\u3057\u3064\u308a\u3087\u3046\u3001molar mass\uff09\u3068\u306f\u7269\u8cea\u3059\u306a\u308f\u3061\u5143\u7d20\u5358\u4f53\u3042\u308b\u3044\u306f\u5316\u5408\u7269\u306e\u5358\u4f4d\u7269\u8cea\u91cf\u5f53\u305f\u308a\u306e\u8cea\u91cf\u3067\u3042\u308b\u3002\u300c\u5358\u4f4d\u7269\u8cea\u91cf\u300d\u3068\u3057\u30661 mol\u3092\u9078\u3093\u3060\u5834\u5408\u3001\u30e2\u30eb\u8cea\u91cf\u306f\u3001\u7269\u8cea\u306e\u69cb\u6210\u8981\u7d20\uff08\u539f\u5b50\u3001\u5206\u5b50\u3001\u304a\u3088\u3073\u30a4\u30aa\u30f3\u3001\u3042\u308b\u3044\u306f\u967d\u30a4\u30aa\u30f3\u3068\u9670\u30a4\u30aa\u30f3\u306a\u3069\u304b\u3089\u69cb\u6210\u3055\u308c\u308b1\u30e6\u30cb\u30c3\u30c8\uff096.02214179(30)\u00d71023\u500b\u5206\uff08(30)\u306f\u4e0b2\u6841\u306e\u4e0d\u78ba\u304b\u3055\uff09\u306e\u8cea\u91cf\u3067\u3042\u308a\u3001\u69cb\u6210\u8981\u7d201\u500b\u5206\u306e\u8cea\u91cf\u306e\u30a2\u30dc\u30ac\u30c9\u30ed\u5b9a\u6570\u500d\u306b\u76f8\u5f53\u3059\u308b\u3002\u3053\u308c\u306f\u5404\u7d14\u7269\u8cea\u304c\u3082\u3064\u56fa\u6709\u306e\u7269\u7406\u7684\u6027\u8cea\u3067\u3042\u308b\u3002\u63a8\u5968\u3055\u308c\u308b\u91cf\u8a18\u53f7\u306f \u3067\u3042\u308b\u3002 \u8cea\u91cf\u306eSI\u5358\u4f4d\u306f\u30ad\u30ed\u30b0\u30e9\u30e0\u3067\u3042\u308a\u3001\u30e2\u30eb\u8cea\u91cf\u306eSI\u5358\u4f4d\u306f kg mol\u22121 \uff08\u30ad\u30ed\u30b0\u30e9\u30e0\u6bce\u30e2\u30eb\uff09\u3067\u3042\u308b\u304c\u3001\u5316\u5b66\u306b\u304a\u3044\u3066\u306f\u901a\u5e38\u3001\u5b9f\u7528\u9762\u3042\u308b\u3044\u306f\u6b74\u53f2\u7684\u7d4c\u7def\u306b\u3088\u308a1\u30e2\u30eb\u5f53\u305f\u308a\u306e\u30b0\u30e9\u30e0\u6570\u3067\u8868\u3055\u308c\u3001\u5358\u4f4d\u306f g mol\u22121 \uff08\u30b0\u30e9\u30e0\u6bce\u30e2\u30eb\uff09\u304c\u7528\u3044\u3089\u308c\u308b\u3002\u30e2\u30eb\u8cea\u91cf\u306f\u5206\u5b50\u91cf\u3001\u5316\u5b66\u5f0f\u91cf\u304a\u3088\u3073\u305d\u308c\u3092\u69cb\u6210\u3059\u308b\u5143\u7d20\u306e\u539f\u5b50\u91cf\u3068\u5bc6\u63a5\u306a\u95a2\u4fc2\u306b\u3042\u308a\u3001\u5206\u5b50\u91cf\u3001\u5316\u5b66\u5f0f\u91cf\u307e\u305f\u306f\u539f\u5b50\u91cf\u306e\u6570\u5024\u306b\u5358\u4f4d g mol\u22121 \u3092\u3064\u3051\u305f\u3082\u306e\uff08\u6b63\u78ba\u306b\u306f\u3001\u5358\u4f4d g mol\u22121 \u3092\u4e57\u3058\u305f\u3082\u306e\uff09\u306b\u76f8\u5f53\u3059\u308b\u3002 \u5358\u4f4d Da \u3067\u8868\u3055\u308c\u308b\u539f\u5b50\u8cea\u91cf\u5358\u4f4d\u306f\u53b3\u5bc6\u306b\u306f 1 Da = 1 u = 1.660538782(83)\u00d710\u221227 kg (CODATA 2006) \u3068\u3044\u3046\u539f\u5b50\u304a\u3088\u3073\u5206\u5b50\u306e\u8cea\u91cf\u5358\u4f4d\u3067\u3042\u308b\u304c\u3001\u3068\u304d\u306b\u30e2\u30eb\u8cea\u91cf\u306e\u5358\u4f4d\u3068\u3057\u3066\u7528\u3044\u3089\u308c\u30011 Da = 1 g/mol \u3068\u5b9a\u7fa9\u3055\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u304c\u53b3\u5bc6\u306a\u610f\u5473\u3067\u306f\u6b63\u3057\u304f\u306a\u3044\u3002 \u30e2\u30eb\u8cea\u91cf\u306f\u76f4\u63a5\u6e2c\u5b9a\u3055\u308c\u308b\u3053\u3068\u306f\u307b\u3068\u3093\u3069\u306a\u304f\u3001\u591a\u304f\u306e\u5834\u5408\u3001\u5404\u7269\u8cea\u306e\u30e2\u30eb\u8cea\u91cf\u306f\u539f\u5b50\u91cf\u304b\u3089\u8a08\u7b97\u3055\u308c\u3001\u3057\u3070\u3057\u3070\u5316\u5b66\u7269\u8cea\u306e\u30ab\u30bf\u30ed\u30b0\u3084\u5316\u5b66\u7269\u8cea\u5b89\u5168\u6027\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\u306a\u3069\u306b\u4e00\u89a7\u3068\u3057\u3066\u793a\u3055\u308c\u308b\u3002 \u5316\u5b66\u5f0f\u91cf\u3068\u540c\u69d8\u306b\u3001\u30e2\u30eb\u8cea\u91cf\u306f\u30a4\u30aa\u30f3\u7d50\u6676\u306a\u3069\u69cb\u6210\u5358\u4f4d\u304c\u5206\u5b50\u3068\u3057\u3066\u660e\u78ba\u306b\u6c7a\u3081\u3089\u308c\u306a\u3044\u5834\u5408\u3001\u6210\u52061\u30e6\u30cb\u30c3\u30c8\u306e\u5358\u4f4d\u7269\u8cea\u91cf\u5f53\u305f\u308a\u306e\u8cea\u91cf\u3068\u306a\u308b\u3002 \u7269\u8cea\u306e\u8cea\u91cf\u3068\u30e2\u30eb\u8cea\u91cf\u304a\u3088\u3073\u7269\u8cea\u91cf\u3068\u306e\u9593\u306b\u306f\u4ee5\u4e0b\u306e\u95a2\u4fc2\u304c\u3042\u308a\u3001\u8cea\u91cf\u3068\u7269\u8cea\u91cf\u306f\u4e92\u3044\u306b\u63db\u7b97\u3055\u308c\u308b\u3002 \u7269\u8cea\u91cf \uff1d \u8cea\u91cf \u00f7 \u30e2\u30eb\u8cea\u91cf \u8cea\u91cf \uff1d \u7269\u8cea\u91cf \u00d7 \u30e2\u30eb\u8cea\u91cf",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "In chemistry, the molar mass M is a physical property defined as the mass of a given substance (chemical element or chemical compound) divided by the amount of substance. The base SI unit for molar mass is kg/mol. However, for historical reasons, molar masses are almost always expressed in g/mol. As an example, the molar mass of water: M(H2O) \u2248 18 g/mol",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0627\u0644\u0643\u064f\u062a\u0644\u0629 \u0627\u0644\u0645\u0648\u0644\u064a\u0629 \u0647\u064a \u0643\u062a\u0644\u0629 \u0645\u0648\u0644 \u0648\u0627\u062d\u062f \u0645\u0646 \u0627\u0644\u0639\u0646\u0635\u0631 \u0623\u0648 \u0627\u0644\u0645\u0631\u0643\u0628 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a. \u0641\u064a \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0621,\u0648\u0647\u064a \u0643\u062a\u0644\u0629 \u0639\u062f\u062f \u0623\u0641\u0648\u063a\u0627\u062f\u0631\u0648 \u0645\u0646 \u0630\u0631\u0627\u062a \u0627\u0644\u0639\u0646\u0635\u0631 \u0623\u0648 \u0643\u062a\u0644\u0629 \u0646\u0641\u0633 \u0627\u0644\u0639\u062f\u062f \u0645\u0646 \u062c\u0632\u064a\u0626\u0627\u062a \u0627\u0644\u0645\u0631\u0643\u0628 .\u062a\u0643\u0648\u0646 \u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u0645\u0648\u0644\u064a\u0629 \u062c\u0631\u0627\u0645/\u0645\u0648\u0644 (g/mol). \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u0630\u0631\u064a\u0629 \u0627\u0644\u0645\u0648\u062c\u0648\u062f\u0629 \u0644\u0644\u0639\u0646\u0627\u0635\u0631 \u0641\u064a \u0627\u0644\u062c\u062f\u0648\u0644 \u0627\u0644\u062f\u0648\u0631\u064a \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0639\u0628\u064a\u0631 \u0639\u0646\u0647\u0627 \u0628\u0637\u0631\u064a\u0642\u062a\u064a\u0646: \u0627\u0644\u0623\u0648\u0644\u0649, \u0643\u062a\u0644\u0629 \u0630\u0631\u0629 \"\u0645\u062a\u0648\u0633\u0637\u0629\" \u0644\u0644\u0639\u0646\u0635\u0631 \u0628\u0648\u062d\u062f\u0629 \u0627\u0644\u0643\u062a\u0644 \u0627\u0644\u0630\u0631\u064a\u0629 (u), \u0648\u0627\u0644\u062b\u0627\u0646\u064a\u0629, \u0647\u064a \u0643\u062a\u0644\u0629 \u0645\u0648\u0644 \u0645\u0646 \u0627\u0644\u0639\u0646\u0635\u0631 \u0645\u0642\u062f\u0631\u0629 \u0628\u0627\u0644\u062c\u0631\u0627\u0645\u0627\u062a. \u0648\u0627\u0644\u062a\u0639\u0628\u064a\u0631 \u0627\u0644\u062b\u0627\u0646\u064a \u0647\u0648 \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u0645\u0648\u0644\u064a\u0629 \u0644\u0644\u0639\u0646\u0635\u0631 \u0648\u062a\u0633\u062a\u062e\u062f\u0645 \u0628\u0643\u062b\u0631\u0629 \u0641\u064a \u062d\u0633\u0627\u0628\u0627\u062a \u0642\u064a\u0627\u0633\u0627\u062a \u0627\u0644\u0625\u062a\u062d\u0627\u062f \u0627\u0644\u0639\u0646\u0635\u0631\u064a. \u0648\u0641\u064a \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621, \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u0645\u0648\u0644\u064a\u0629 \u063a\u0627\u0644\u0628\u0627 \u0645\u0627 \u064a\u0639\u0628\u0631 \u0639\u0646\u0647\u0627 \u0628\u0627\u0644\u0643\u064a\u0644\u0648 \u062c\u0631\u0627\u0645 \u0644\u0643\u0644 \u0645\u0648\u0644 (kg/kmol). \u0648\u062a\u062e\u062a\u0644\u0641 \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u0645\u0648\u0644\u064a\u0629 \u0639\u0646 \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u062c\u0632\u064a\u0626\u064a\u0629 \u0648\u0627\u0644\u062a\u064a \u062a\u0645\u062b\u0644 \"\u0643\u062a\u0644\u0629 \u062c\u0632\u064a\u0621 \u0648\u0627\u062d\u062f\". \u0648\u0641\u0649 \u0627\u0644\u0645\u0628\u0644\u0645\u0631\u0627\u062a \u0627\u0644\u062e\u0637\u064a\u0629 \u0644\u0627 \u062a\u062a\u0643\u0648\u0646 \u0633\u0644\u0627\u0633\u0644 \u0627\u0644\u0645\u0628\u0644\u0645\u0631\u0627\u062a \u0645\u0646 \u0646\u0641\u0633 \u0639\u062f\u062f \u0627\u0644\u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0645\u062a\u0643\u0631\u0631\u0629. \u0648\u0639\u064a\u0646\u0629 \u0627\u0644\u0645\u0628\u0644\u0645\u0631 \u064a\u0642\u0627\u0644 \u0639\u0644\u064a\u0647\u0627 \u0623\u0646\u0647\u0627 \u062a\u062a\u0643\u0648\u0646 \u0645\u0646 \u062e\u0644\u064a\u0637 \u0645\u0646 \u0627\u0644\u062c\u0632\u064a\u0626\u0627\u062a \u0627\u0644\u0643\u0628\u064a\u0631\u0629 \u0648\u0644\u0647\u0627 \u062a\u0648\u0632\u064a\u0639 \u0643\u062a\u0644\u0629 \u0645\u0648\u0644\u064a\u0629 \u0645\u062d\u062f\u062f.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Masa molowa \u2013 masa jednego mola substancji chemicznej. Cz\u0119sto mylona z mas\u0105 cz\u0105steczkow\u0105, lecz liczbowo jest r\u00f3wna tej warto\u015bci. Jednostk\u0105 masy molowej w uk\u0142adzie SI jest kg/mol, chocia\u017c cz\u0119\u015bciej wyra\u017cana jest w jednostce pochodnej g/mol. Jednostka g/mol jest powszechnie stosowana jako znacznie wygodniejsza w u\u017cyciu, gdy\u017c tak wyra\u017cona masa molowa jest liczbowo r\u00f3wna wzgl\u0119dnej masie molowej oraz podobna do warto\u015bci liczby masowej. Przyk\u0142ady: \n*  dla wodoru H2 masa molowa = 2 g/mol = 0,002 kg/mol, \n*  dla wody H2O masa molowa = 18 g/mol = 0,018 kg/mol, \n*  dla potasu K masa molowa = 39 g/mol = 0,039 kg/mol. Warto\u015bci powy\u017cszych mas molowych s\u0105 przybli\u017cone.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u6469\u5c14\u8d28\u91cf\u662f\u4e00\u6469\u5c14\u5316\u5b66\u5143\u7d20\u6216\u8005\u5316\u5408\u7269\u7684\u8d28\u91cf\u3002\u8d28\u91cfm\u4e0e\u7269\u8d28\u7684\u91cfn\u4e4b\u6bd4\uff0c\u79f0\u4e3a\u6469\u5c14\u8d28\u91cf\uff0c\u7b26\u53f7\u4e3aM\uff1a SI\u5355\u4f4d\u4e3a\uff1a\u5343\u514b\u6bcf\u6469\u5c14\uff08kg/mol\uff09\uff0c\u7531\u4e8e\u5386\u53f2\u539f\u56e0\uff0c\u4e00\u822c\u90fd\u4f7f\u7528g/mol\u4f5c\u4e3a\u5355\u4f4d\u3002 \u7269\u8d28\u7684\u6469\u5c14\u8d28\u91cf\u5728\u6570\u503c\u4e0a\u7b49\u4e8e\u5176\u76f8\u5bf9\u5206\u5b50\u8d28\u91cf\u6216\u76f8\u5bf9\u539f\u5b50\u8d28\u91cf\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Die molare Masse M (auch veraltet Molmasse; un\u00fcblich stoffmengenbezogene Masse) eines Stoffes ist der Proportionalit\u00e4tsfaktor zwischen Masse m und Stoffmenge n: m = M x n. Die molare Masse ist eine intensive Gr\u00f6\u00dfe. Die SI-Einheit ist kg/mol; in der Chemie ist g/mol \u00fcblich. Die molare Masse einer chemischen Verbindung ist die Summe der mit dem jeweiligen St\u00f6chiometriefaktor multiplizierten molaren Masse der an der Verbindung beteiligten chemischen Elemente. St\u00f6chiometriefaktoren sind die Zahlen in der Summenformel eines Molek\u00fcls bzw. im Fall von nichtmolekularen Verbindungen (Metalle und Ionenverbindungen) der Verh\u00e4ltnisformel. Die molare Masse eines nuklidenreinen Stoffes ist konstant. Der Zahlenwert der molaren Masse in g/mol ist die relative Molek\u00fclmasse und gleich dem Zahlenwert der Molek\u00fclmasse in der atomaren Masseneinheit (u oder Dalton, wenn die Verbindung aus nuklidreinen Elementen besteht.)",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "La massa molare \u00e8 la massa di una mole di una sostanza, quindi la massa della quantit\u00e0 di particelle elementari che corrispondono alla costante di Avogadro. L'unit\u00e0 di misura di tale grandezza, nel SI dovrebbe teoricamente essere il kilogrammo su mole , tuttavia si usa esclusivamente il grammo su mole , in quanto rende quasi immediata la conversione tra peso atomico e massa.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "La masa molar (s\u00edmbolo M) de una sustancia dada es una propiedad f\u00edsica definida como su masa por unidad de cantidad de sustancia. Su unidad de medida en el SI es kilogramo por mol (kg/mol o kg\u00b7mol\u22121), sin embargo, por razones hist\u00f3ricas, la masa molar es expresada casi siempre en gramos por mol (g/mol). Las sustancias puras, sean estas elementos o compuestos, poseen una masa molar intensiva y caracter\u00edstica. Por ejemplo, la masa molar aproximada del agua es: M (H2O) \u2248 18 g\u00b7mol\u22121.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "A massa molar \u00e9 a massa em gramas de um mol de entidades elementares \u2013 \u00e1tomos, mol\u00e9culas, \u00edons, el\u00e9trons, outras part\u00edculas ou outros grupos espec\u00edficos de tais part\u00edculas. \u00c9 representada pela letra \"M\" e expressa na unidade g/mol.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "De molaire massa, symbool M, van een chemische stof is de massa per mol van die stof. De eenheid is gram per mol (g/mol). De molaire massa is een stofeigenschap.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u041c\u043e\u043b\u044f\u0301\u0440\u043d\u0430\u044f \u043c\u0430\u0301\u0441\u0441\u0430 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u2014 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u043c\u0430\u0441\u0441\u044b \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u043a \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0443 \u043c\u043e\u043b\u0435\u0439 \u044d\u0442\u043e\u0433\u043e \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430, \u0442\u043e \u0435\u0441\u0442\u044c \u043c\u0430\u0441\u0441\u0430 \u043e\u0434\u043d\u043e\u0433\u043e \u043c\u043e\u043b\u044f \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430. \u0414\u043b\u044f \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0445 \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u043c\u043e\u043b\u044f\u0440\u043d\u043e\u0439 \u043c\u0430\u0441\u0441\u043e\u0439 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0430\u0441\u0441\u0430 \u043e\u0434\u043d\u043e\u0433\u043e \u043c\u043e\u043b\u044f \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0445 \u0430\u0442\u043e\u043c\u043e\u0432 \u044d\u0442\u043e\u0433\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430, \u0442\u043e \u0435\u0441\u0442\u044c \u043c\u0430\u0441\u0441\u0430 \u0430\u0442\u043e\u043c\u043e\u0432 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u0432\u0437\u044f\u0442\u044b\u0445 \u0432 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0435 \u0440\u0430\u0432\u043d\u043e\u043c \u0427\u0438\u0441\u043b\u0443 \u0410\u0432\u043e\u0433\u0430\u0434\u0440\u043e. \u0412 \u044d\u0442\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u043c\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u043c\u0430\u0441\u0441\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430, \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u043d\u0430\u044f \u0432 \u0433/\u043c\u043e\u043b\u044c, \u0447\u0438\u0441\u043b\u0435\u043d\u043d\u043e \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u0435\u0442 \u0441 \u043c\u0430\u0441\u0441\u043e\u0439 \u0430\u0442\u043e\u043c\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430, \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u043d\u043e\u0439 \u0432 \u0430. \u0435. \u043c. (\u0430\u0442\u043e\u043c\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u043c\u0430\u0441\u0441\u044b). \u041e\u0434\u043d\u0430\u043a\u043e \u043d\u0430\u0434\u043e \u0447\u0451\u0442\u043a\u043e \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0442\u044c \u0440\u0430\u0437\u043d\u0438\u0446\u0443 \u043c\u0435\u0436\u0434\u0443 \u043c\u043e\u043b\u044f\u0440\u043d\u043e\u0439 \u043c\u0430\u0441\u0441\u043e\u0439 \u0438 \u043c\u043e\u043b\u0435\u043a\u0443\u043b\u044f\u0440\u043d\u043e\u0439 \u043c\u0430\u0441\u0441\u043e\u0439, \u043f\u043e\u043d\u0438\u043c\u0430\u044f, \u0447\u0442\u043e \u043e\u043d\u0438 \u0440\u0430\u0432\u043d\u044b \u043b\u0438\u0448\u044c \u0447\u0438\u0441\u043b\u0435\u043d\u043d\u043e \u0438 \u043e\u0442\u043b\u0438\u0447\u0430\u044e\u0442\u0441\u044f \u043f\u043e \u0440\u0430\u0437\u043c\u0435\u0440\u043d\u043e\u0441\u0442\u0438. \u041c\u043e\u043b\u044f\u0440\u043d\u044b\u0435 \u043c\u0430\u0441\u0441\u044b \u0441\u043b\u043e\u0436\u043d\u044b\u0445 \u043c\u043e\u043b\u0435\u043a\u0443\u043b \u043c\u043e\u0436\u043d\u043e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0438\u0442\u044c, \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u044f \u043c\u043e\u043b\u044f\u0440\u043d\u044b\u0435 \u043c\u0430\u0441\u0441\u044b \u0432\u0445\u043e\u0434\u044f\u0449\u0438\u0445 \u0432 \u043d\u0438\u0445 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432. \u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043c\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u043c\u0430\u0441\u0441\u0430 \u0432\u043e\u0434\u044b (H2O) \u0435\u0441\u0442\u044c MH2O = 2 MH +MO = 2\u00b71+16 = 18 (\u0433/\u043c\u043e\u043b\u044c). \u0421\u0442\u043e\u0438\u0442 \u043e\u0442\u043c\u0435\u0442\u0438\u0442\u044c, \u0447\u0442\u043e, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043c\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u043c\u0430\u0441\u0441\u0430 \u043a\u0438\u0441\u043b\u043e\u0440\u043e\u0434\u0430 \u043a\u0430\u043a \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430 = 16 (\u0433/\u043c\u043e\u043b\u044c), \u0430 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u2014 (O2) = 32 (\u0433/\u043c\u043e\u043b\u044c). \u0412 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0435\u0434\u0438\u043d\u0438\u0446 (\u0421\u0418) \u0435\u0434\u0438\u043d\u0438\u0446\u0435\u0439 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u043c\u043e\u043b\u044f\u0440\u043d\u043e\u0439 \u043c\u0430\u0441\u0441\u044b \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u0438\u043b\u043e\u0433\u0440\u0430\u043c\u043c \u043d\u0430 \u043c\u043e\u043b\u044c (\u0440\u0443\u0441\u0441\u043a\u043e\u0435 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435: \u043a\u0433/\u043c\u043e\u043b\u044c; \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0435: kg/mol). \u041c\u043e\u043b\u044f\u0440\u043d\u0443\u044e \u043c\u0430\u0441\u0441\u0443 \u043e\u0431\u044b\u0447\u043d\u043e \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u044e\u0442 \u0431\u0443\u043a\u0432\u043e\u0439 M.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "La masse molaire est la masse d'une mole d'une substance (un corps simple, un compos\u00e9 chimique). Elle s'exprime en grammes par mole (g\u00b7mol\u22121 ou g/mol). Si on note : \n*  m : la masse de la substance en grammes (symbole : \u00ab g \u00bb, selon le SI) ; \n*  n : la quantit\u00e9 de mati\u00e8re de la substance en moles (symbole : \u00ab mol \u00bb, selon le SI) ; \n*  M : la masse molaire de la substance en grammes par mole (symbole : \u00ab g/mol \u00bb ou \u00ab g\u00b7mol\u22121 \u00bb, selon le SI) ; on obtient les relations \u00e9quivalentes : et et",
+                "lang": "fr"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742786144,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 144241,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Property"
+            }
+        ],
+        "http://dbpedia.org/property/unit": [
+            {
+                "type": "literal",
+                "value": "kg/mol",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/M_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Formula_weight": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Formula_Weight": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gram_atomic_weight": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Molar_mass": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Molar_weight": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/G_mol-1": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Molar": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Molar_masses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Molar_Mass": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Percent_by_mass": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Relative_formula_mass": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Grams_per_mole": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gram-atomic_weight": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Molar_mass"
+            }
+        ]
+    }
+}

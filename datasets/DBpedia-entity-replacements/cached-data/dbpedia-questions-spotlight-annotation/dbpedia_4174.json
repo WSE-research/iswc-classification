@@ -1,0 +1,28 @@
+{
+    "@text": "Which academic field for the history of the United States divides into the state of Michigan?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "44",
+            "@similarityScore": "0.9999058257854776",
+            "@percentageOfSecondRank": "4.066336919774535E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Michigan",
+            "@support": "69508",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Michigan",
+            "@offset": "84",
+            "@similarityScore": "0.9875226624239352",
+            "@percentageOfSecondRank": "0.006066159348950147"
+        }
+    ]
+}

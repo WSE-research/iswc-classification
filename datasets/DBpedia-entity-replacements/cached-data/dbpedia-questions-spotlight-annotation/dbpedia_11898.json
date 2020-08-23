@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me the rock band that has PureVolume as website and contains the word u2 in it's name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Rock_music",
+            "@support": "45453",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "rock",
+            "@offset": "12",
+            "@similarityScore": "0.9878640224661454",
+            "@percentageOfSecondRank": "0.009762053256606685"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/PureVolume",
+            "@support": "232",
+            "@types": "",
+            "@surfaceForm": "PureVolume",
+            "@offset": "31",
+            "@similarityScore": "0.9999999998688622",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

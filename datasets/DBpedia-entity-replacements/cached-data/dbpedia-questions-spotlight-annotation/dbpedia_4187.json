@@ -1,0 +1,37 @@
+{
+    "@text": "What is the galaxy with the lowest redshift whose constellation is Bo\u00f6tes?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Redshift",
+            "@support": "2502",
+            "@types": "",
+            "@surfaceForm": "redshift",
+            "@offset": "35",
+            "@similarityScore": "0.9999997136951732",
+            "@percentageOfSecondRank": "2.8630417934254593E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Constellation",
+            "@support": "8100",
+            "@types": "",
+            "@surfaceForm": "constellation",
+            "@offset": "50",
+            "@similarityScore": "0.9999416352844309",
+            "@percentageOfSecondRank": "5.82214629373859E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bo\u00f6tes",
+            "@support": "293",
+            "@types": "Wikidata:Q8928,Schema:Place,DBpedia:Place,DBpedia:Location,DBpedia:Constellation,DBpedia:CelestialBody",
+            "@surfaceForm": "Bo\u00f6tes",
+            "@offset": "67",
+            "@similarityScore": "0.9966144214717378",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

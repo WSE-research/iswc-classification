@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the GARD rare disease ID for colorectal cancer?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Rare_disease",
+            "@support": "341",
+            "@types": "",
+            "@surfaceForm": "rare disease",
+            "@offset": "18",
+            "@similarityScore": "0.9999999999993037",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Colorectal_cancer",
+            "@support": "2470",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "colorectal cancer",
+            "@offset": "38",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

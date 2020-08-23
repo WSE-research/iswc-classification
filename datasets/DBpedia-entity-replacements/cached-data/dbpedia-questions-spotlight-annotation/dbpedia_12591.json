@@ -1,0 +1,37 @@
+{
+    "@text": "What is the Wikipedia article for the planet of Jupiter?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Wikipedia",
+            "@support": "101150",
+            "@types": "Wikidata:Q386724,Schema:WebPage,Schema:CreativeWork,DBpedia:Work,DBpedia:Website",
+            "@surfaceForm": "Wikipedia",
+            "@offset": "12",
+            "@similarityScore": "0.9990538034840889",
+            "@percentageOfSecondRank": "8.938167360443762E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Planet",
+            "@support": "8601",
+            "@types": "",
+            "@surfaceForm": "planet",
+            "@offset": "38",
+            "@similarityScore": "0.9773292865711893",
+            "@percentageOfSecondRank": "0.018469827130047557"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Jupiter",
+            "@support": "8534",
+            "@types": "Wikidata:Q634,Schema:Place,DBpedia:Planet,DBpedia:Place,DBpedia:Location,DBpedia:CelestialBody",
+            "@surfaceForm": "Jupiter",
+            "@offset": "48",
+            "@similarityScore": "0.9970841029522006",
+            "@percentageOfSecondRank": "0.0029082442280656505"
+        }
+    ]
+}

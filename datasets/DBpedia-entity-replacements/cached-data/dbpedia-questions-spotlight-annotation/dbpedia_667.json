@@ -1,0 +1,28 @@
+{
+    "@text": "Is it true that the suicide rate of Nara Prefecture equals to 20.736?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Suicide",
+            "@support": "13286",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "suicide",
+            "@offset": "20",
+            "@similarityScore": "0.9987971105493151",
+            "@percentageOfSecondRank": "8.966456746194903E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Nara_Prefecture",
+            "@support": "976",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Nara Prefecture",
+            "@offset": "36",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,457 @@
+{
+    "http://en.wikipedia.org/wiki/Bug_tracking_system": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SourceForge_Enterprise_Edition": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Apache_Bloodhound": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Trac": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/TestTrack": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/BTS": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bugzilla": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bug_tracking_system": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Software"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Bugtracker",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Logiciel de suivi de probl\u00e8mes",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u30d0\u30b0\u7ba1\u7406\u30b7\u30b9\u30c6\u30e0",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Sistema de seguimiento de errores",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Bugtracker",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u7f3a\u9677\u8ddf\u8e2a\u7ba1\u7406\u7cfb\u7edf",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Bug tracking system",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u043e\u0448\u0438\u0431\u043e\u043a",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Bug tracking system",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Un sistema de seguimiento de errores es una aplicaci\u00f3n inform\u00e1tica dise\u00f1ada para ayudar a asegurar la calidad de software y asistir a los programadores y otras personas involucradas en el desarrollo y uso de sistemas inform\u00e1ticos en el seguimiento de los defectos de software. El t\u00e9rmino usado en ingl\u00e9s es Bug Tracking System, y frecuentemente se usa el acr\u00f3nimo BTS. Puede considerarse como un tipo especial de sistema de seguimiento de incidentes. Son usados intensivamente por cualquier empresa o instituci\u00f3n que realice desarrollo de software.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Un bug tracking system \u00e8 un applicativo software usato generalmente dai programmatori per tenere traccia delle segnalazioni di bug all'interno dei software, in modo che tali errori siano mantenuti sotto controllo, con una descrizione della riproducibilit\u00e0 e dei dettagli ad essi correlati, e dunque pi\u00f9 facilmente risolvibili.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u043e\u0448\u0438\u0431\u043e\u043a (\u0430\u043d\u0433\u043b. bug tracking system) \u2014 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u0430\u044f \u0441 \u0446\u0435\u043b\u044c\u044e \u043f\u043e\u043c\u043e\u0447\u044c \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430\u043c \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f (\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u0430\u043c, \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a\u0430\u043c \u0438 \u0434\u0440.) \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u0442\u044c \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043e\u0448\u0438\u0431\u043a\u0438 \u0438 \u043d\u0435\u043f\u043e\u043b\u0430\u0434\u043a\u0438, \u043d\u0430\u0439\u0434\u0435\u043d\u043d\u044b\u0435 \u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u0445, \u043f\u043e\u0436\u0435\u043b\u0430\u043d\u0438\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0441\u043b\u0435\u0434\u0438\u0442\u044c \u0437\u0430 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u043c \u0443\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u044d\u0442\u0438\u0445 \u043e\u0448\u0438\u0431\u043e\u043a \u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u043d\u0435\u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043e\u0436\u0435\u043b\u0430\u043d\u0438\u0439.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "A bug tracking system or defect tracking system is a software application that keeps track of reported software bugs in software development projects. It may be regarded as a type of issue tracking system. Many bug tracking systems, such as those used by most open source software projects, allow end-users to enter bug reports directly. Other systems are used only internally in a company or organization doing software development. Typically bug tracking systems are integrated with other software project management applications.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u7f3a\u9677\u8ddf\u8e2a\u7ba1\u7406\u7cfb\u7edf\u662f\u4e00\u79cd\u5e94\u7528\u8f6f\u4ef6\uff0c\u5b83\u88ab\u8bbe\u8ba1\u7528\u6765\u5e2e\u52a9\u8d28\u91cf\u4fdd\u8bc1\u548c\u7a0b\u5e8f\u5458\u5728\u5de5\u4f5c\u4e2d\u7ef4\u62a4\u8f6f\u4ef6\u7f3a\u9677\u7684\u8ddf\u8e2a\u62a5\u544a\uff0c\u4e5f\u53ef\u4ee5\u88ab\u8ba4\u4e3a\u662f\u4e00\u79cd\u95ee\u9898\u8ddf\u8e2a\u7ba1\u7406\u7cfb\u7edf\u3002 \u8bb8\u591a\u7684\u7f3a\u9677\u8ddf\u8e2a\u7ba1\u7406\u7cfb\u7edf, \u6bd4\u5982\u90a3\u4e9b\u5927\u591a\u6570\u5728\u5f00\u6e90\u8f6f\u4ef6\u5de5\u7a0b\u4e2d\u4f7f\u7528\u7684\uff0c\u5141\u8bb8\u7528\u6237\u76f4\u63a5\u767b\u8bb0\u7f3a\u9677\u62a5\u544a\uff0c\u8fd8\u6709\u4e00\u4e9b\u5219\u662f\u53ea\u5728\u516c\u53f8\u6216\u8005\u673a\u6784\u5185\u90e8\u7528\u6765\u8fdb\u884c\u8f6f\u4ef6\u5f00\u53d1\u3002\u5f88\u5177\u4ee3\u8868\u6027\uff0c\u7f3a\u9677\u8ddf\u8e2a\u7ba1\u7406\u7cfb\u7edf\u603b\u662f\u96c6\u6210\u4e00\u4e9b\u8f6f\u4ef6\u5de5\u7a0b\u7ba1\u7406\u5e94\u7528\u8f6f\u4ef6\u3002 \u7f3a\u9677\u8ddf\u8e2a\u7ba1\u7406\u7cfb\u7edf\u5728\u8f6f\u4ef6\u5f00\u53d1\u65f6\u662f\u975e\u5e38\u6709\u7528\u7684\uff0c\u5b83\u88ab\u5e7f\u6cdb\u4f7f\u7528\u4e8e\u8f6f\u4ef6\u516c\u53f8\u7684\u4ea7\u54c1\u5f00\u53d1\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u30d0\u30b0\u7ba1\u7406\u30b7\u30b9\u30c6\u30e0\uff08\u30d0\u30b0\u304b\u3093\u308a\u30b7\u30b9\u30c6\u30e0\uff09\u3001\u30d0\u30b0\u30c8\u30e9\u30c3\u30ad\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0\u3068\u306f\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306e\u30d0\u30b0\u3092\u767b\u9332\u3057\u3001\u4fee\u6b63\u72b6\u6cc1\u3092\u8ffd\u8de1\u3059\u308b\u30b7\u30b9\u30c6\u30e0\u3002\u30d0\u30b0\u7ba1\u7406\u30b7\u30b9\u30c6\u30e0\u306e\u591a\u304f\u306f\u3001\u30a6\u30a7\u30d6\u30b5\u30fc\u30d0\u4e0a\u3067\u52d5\u4f5c\u3057\u3001\u30a6\u30a7\u30d6\u30d6\u30e9\u30a6\u30b6\u7d4c\u7531\u3067\u30a2\u30af\u30bb\u30b9\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u3063\u3066\u3044\u308b\u3002\u30d0\u30b0\u7ba1\u7406\u30b7\u30b9\u30c6\u30e0\u306f\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3092\u958b\u767a\u3059\u308b\u4e0a\u3067\u306e\u5fc5\u9808\u306e\u3082\u306e\u306b\u306a\u308a\u3064\u3064\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Bugtracker (von englisch bug tracker, dt. etwa [Software-]Fehler-Verfolger oder Mangelverfolger) sind Fallbearbeitungssysteme (englisch issue tracking oder trouble ticket system) f\u00fcr die Softwareentwicklung, die als Werkzeug eingesetzt werden, um Programmfehler zu erfassen und zu dokumentieren. Mit ihnen werden \u2013 oft interaktiv und im Internet \u2013 auch Zustands- oder Feature-Berichte geschrieben.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Bugtracker \u2013 program s\u0142u\u017c\u0105cy do rejestrowania i zarz\u0105dzania informacjami o b\u0142\u0119dach napotkanych w oprogramowaniu. G\u0142\u00f3wnym zadaniem takiego oprogramowania jest: \n*  zebranie w jednym miejscu informacji o wszelkich b\u0142\u0119dach i problemach z oprogramowaniem, \n*  umo\u017cliwienie zarz\u0105dzania procesem ich rozwi\u0105zywania, \n*  przechowywanie informacji historycznych o przebiegu procesu naprawczego, \n*  zarz\u0105dzanie podzia\u0142em pracy i odpowiedzialno\u015bci w zespole projektowym. Bugtrackery s\u0105 cz\u0119sto u\u017cywane w spo\u0142eczno\u015bciach skupionych wok\u00f3\u0142 projekt\u00f3w zwi\u0105zanych z tworzeniem oprogramowania open source.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Un logiciel de suivi de probl\u00e8mes ou syst\u00e8me de suivi de probl\u00e8mes (de l'anglais issue tracking system) est un logiciel qui permet d'aider les utilisateurs et les d\u00e9veloppeurs \u00e0 am\u00e9liorer la qualit\u00e9 d'un logiciel. Les utilisateurs soumettent leurs demandes d'assistance dans le logiciel. Les d\u00e9veloppeurs sont alors toujours au fait des probl\u00e8mes rencontr\u00e9s. La plupart des syst\u00e8mes de suivi de probl\u00e8mes, notamment ceux utilis\u00e9s pour les projets de logiciels libres, permettent aux utilisateurs de rentrer directement les probl\u00e8mes rencontr\u00e9s au niveau :",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ubc84\uadf8_\ucd94\uc801_\uc2dc\uc2a4\ud15c"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30d0\u30b0\u7ba1\u7406\u30b7\u30b9\u30c6\u30e0"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Bug_tracking_system"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q956086"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Sistema_de_seguimiento_de_errores"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Bugtracker"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Logiciel_de_suivi_de_probl\u00e8mes"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03my8d"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Bugtracker"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Bug_tracking_system"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q956086"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Help_desk"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Bug_and_issue_tracking_software"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Project_management_software"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Bug_tracking_system"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Bug_tracking_system?oldid=730951412"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://dist-bugs.kitenet.net/software/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.chiark.greenend.org.uk/~sgtatham/bugs.html"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "A bug tracking system or defect tracking system is a software application that keeps track of reported software bugs in software development projects. It may be regarded as a type of issue tracking system. Many bug tracking systems, such as those used by most open source software projects, allow end-users to enter bug reports directly. Other systems are used only internally in a company or organization doing software development. Typically bug tracking systems are integrated with other software project management applications. A bug tracking system is usually a necessary component of a good software development infrastructure, and consistent use of a bug or issue tracking system is considered one of the \"hallmarks of a good software team\".",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u30d0\u30b0\u7ba1\u7406\u30b7\u30b9\u30c6\u30e0\uff08\u30d0\u30b0\u304b\u3093\u308a\u30b7\u30b9\u30c6\u30e0\uff09\u3001\u30d0\u30b0\u30c8\u30e9\u30c3\u30ad\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0\u3068\u306f\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306e\u30d0\u30b0\u3092\u767b\u9332\u3057\u3001\u4fee\u6b63\u72b6\u6cc1\u3092\u8ffd\u8de1\u3059\u308b\u30b7\u30b9\u30c6\u30e0\u3002\u30d0\u30b0\u7ba1\u7406\u30b7\u30b9\u30c6\u30e0\u306e\u591a\u304f\u306f\u3001\u30a6\u30a7\u30d6\u30b5\u30fc\u30d0\u4e0a\u3067\u52d5\u4f5c\u3057\u3001\u30a6\u30a7\u30d6\u30d6\u30e9\u30a6\u30b6\u7d4c\u7531\u3067\u30a2\u30af\u30bb\u30b9\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u3063\u3066\u3044\u308b\u3002\u30d0\u30b0\u7ba1\u7406\u30b7\u30b9\u30c6\u30e0\u306f\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3092\u958b\u767a\u3059\u308b\u4e0a\u3067\u306e\u5fc5\u9808\u306e\u3082\u306e\u306b\u306a\u308a\u3064\u3064\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u043e\u0448\u0438\u0431\u043e\u043a (\u0430\u043d\u0433\u043b. bug tracking system) \u2014 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u0430\u044f \u0441 \u0446\u0435\u043b\u044c\u044e \u043f\u043e\u043c\u043e\u0447\u044c \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430\u043c \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f (\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u0430\u043c, \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a\u0430\u043c \u0438 \u0434\u0440.) \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u0442\u044c \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043e\u0448\u0438\u0431\u043a\u0438 \u0438 \u043d\u0435\u043f\u043e\u043b\u0430\u0434\u043a\u0438, \u043d\u0430\u0439\u0434\u0435\u043d\u043d\u044b\u0435 \u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u0445, \u043f\u043e\u0436\u0435\u043b\u0430\u043d\u0438\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0441\u043b\u0435\u0434\u0438\u0442\u044c \u0437\u0430 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u043c \u0443\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u044d\u0442\u0438\u0445 \u043e\u0448\u0438\u0431\u043e\u043a \u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u043d\u0435\u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043e\u0436\u0435\u043b\u0430\u043d\u0438\u0439.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Un sistema de seguimiento de errores es una aplicaci\u00f3n inform\u00e1tica dise\u00f1ada para ayudar a asegurar la calidad de software y asistir a los programadores y otras personas involucradas en el desarrollo y uso de sistemas inform\u00e1ticos en el seguimiento de los defectos de software. El t\u00e9rmino usado en ingl\u00e9s es Bug Tracking System, y frecuentemente se usa el acr\u00f3nimo BTS. Puede considerarse como un tipo especial de sistema de seguimiento de incidentes. Son usados intensivamente por cualquier empresa o instituci\u00f3n que realice desarrollo de software. Si bien muchos sistemas de seguimiento de errores de software libre permiten que los usuarios directamente den de alta la incidencia detectada, en muchas empresas de desarrollo de software se usan de manera estrictamente interna. Muchos de los sistemas de seguimiento de errores de software se integran frecuentemente con otras herramientas, como pueden ser correo electr\u00f3nico, control de versiones, y otras herramientas de gesti\u00f3n administrativa.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Un logiciel de suivi de probl\u00e8mes ou syst\u00e8me de suivi de probl\u00e8mes (de l'anglais issue tracking system) est un logiciel qui permet d'aider les utilisateurs et les d\u00e9veloppeurs \u00e0 am\u00e9liorer la qualit\u00e9 d'un logiciel. Les utilisateurs soumettent leurs demandes d'assistance dans le logiciel. Les d\u00e9veloppeurs sont alors toujours au fait des probl\u00e8mes rencontr\u00e9s. La plupart des syst\u00e8mes de suivi de probl\u00e8mes, notamment ceux utilis\u00e9s pour les projets de logiciels libres, permettent aux utilisateurs de rentrer directement les probl\u00e8mes rencontr\u00e9s au niveau : \n*  techniques ; \n*  de respect des r\u00e8gles de gestion : r\u00e9glementation, etc. \n*  fonctionnels. Mais \u00e9galement des demandes d'am\u00e9lioration (RFE) ou de nouvelles fonctionnalit\u00e9s. \u00c0 l'origine, ce type de logiciel \u00e9tait con\u00e7u pour suivre les incidents ou anomalies d'un projet. D\u00e9sormais, certains logiciels de suivi de probl\u00e8mes sont configurables et permettent de g\u00e9rer tous types de tickets ou artefacts: t\u00e2ches, demandes de support, exigences, contacts... Certains sont utilis\u00e9s uniquement en interne dans certaines entreprises ou organisations qui d\u00e9veloppent des logiciels. G\u00e9n\u00e9ralement les syst\u00e8mes de suivi de probl\u00e8mes sont \u00e9galement int\u00e9gr\u00e9s \u00e0 d'autres applications de suivi de projet logiciel: gestion de code source, int\u00e9gration continue, outils de gestion de planning des projets. Disposer d'un syst\u00e8me de suivi des probl\u00e8mes est extr\u00eamement profitable dans le d\u00e9veloppement d'un logiciel, et ils sont utilis\u00e9s fr\u00e9quemment par les compagnies d\u00e9veloppant des logiciels.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Bugtracker (von englisch bug tracker, dt. etwa [Software-]Fehler-Verfolger oder Mangelverfolger) sind Fallbearbeitungssysteme (englisch issue tracking oder trouble ticket system) f\u00fcr die Softwareentwicklung, die als Werkzeug eingesetzt werden, um Programmfehler zu erfassen und zu dokumentieren. Mit ihnen werden \u2013 oft interaktiv und im Internet \u2013 auch Zustands- oder Feature-Berichte geschrieben. Der Begriff Bugtracking bezeichnet zum einen den Vorgang der Fehlersuche an sich (durch Methoden des Debugging und Versuch und Irrtum), zum anderen den Vorgang, einen Fehler samt seiner Dokumentation \u00fcber die Zeit zu verfolgen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Bugtracker \u2013 program s\u0142u\u017c\u0105cy do rejestrowania i zarz\u0105dzania informacjami o b\u0142\u0119dach napotkanych w oprogramowaniu. G\u0142\u00f3wnym zadaniem takiego oprogramowania jest: \n*  zebranie w jednym miejscu informacji o wszelkich b\u0142\u0119dach i problemach z oprogramowaniem, \n*  umo\u017cliwienie zarz\u0105dzania procesem ich rozwi\u0105zywania, \n*  przechowywanie informacji historycznych o przebiegu procesu naprawczego, \n*  zarz\u0105dzanie podzia\u0142em pracy i odpowiedzialno\u015bci w zespole projektowym. Jednocze\u015bnie jest ono doskona\u0142ym narz\u0119dziem komunikacyjnym pomi\u0119dzy zespo\u0142em odpowiedzialnym za rozw\u00f3j/utrzymanie danego oprogramowania i jego u\u017cytkownikami. Bugtrackery s\u0105 cz\u0119sto u\u017cywane w spo\u0142eczno\u015bciach skupionych wok\u00f3\u0142 projekt\u00f3w zwi\u0105zanych z tworzeniem oprogramowania open source. G\u0142\u00f3wnym elementem bugtrackera jest baza danych, kt\u00f3ra przechowuje informacje o b\u0142\u0119dach/problemach. Mo\u017ce zawiera\u0107 dane takie jak: \n*  dat\u0119 zg\u0142oszenia problemu, \n*  dane o wersji lub wersjach oprogramowania w kt\u00f3rych wyst\u0119puje b\u0142\u0105d, \n*  informacje o zg\u0142aszaj\u0105cym, \n*  priorytet okre\u015blaj\u0105cy rang\u0119 problemu, \n*  opis objaw\u00f3w problemu/b\u0142\u0119du wraz z opisem czynno\u015bci/warunk\u00f3w niezb\u0119dnych do jego wyst\u0105pienia, \n*  status prac nad rozwi\u0105zaniem, \n*  wskazanie osoby aktualnie przypisanej do pracy nad problemem. Niekt\u00f3re z bugtracker\u00f3w bazuj\u0105 na oprogramowaniu typu wiki lub te\u017c s\u0105 z takim oprogramowanie w r\u00f3\u017cnym stopniu zintegrowane. Najpopularniejsze narz\u0119dzia tego typu to: \n*  pracuj\u0105ce w architekturze klient-serwer: \n* BONTQ \n* GNATS \n* Debbugs \n* Bugzilla \n* Mantis \n* BugTracker.NET \n* Flyspray \n* Trac \n* Redmine \n* FogBugz \n* JIRA \n*  pracuj\u0105ce w architekturze rozproszonej: \n* Fossil \n*  udost\u0119pniane jako aplikacja hostowana: \n* Assembla \n* Bitbucket \n* bugtracker.pl \n* CodePlex \n* DisTract \n* GitHub \n* GNU Savannah \n* Google Code \n* Launchpad \n* SourceForge",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Un bug tracking system \u00e8 un applicativo software usato generalmente dai programmatori per tenere traccia delle segnalazioni di bug all'interno dei software, in modo che tali errori siano mantenuti sotto controllo, con una descrizione della riproducibilit\u00e0 e dei dettagli ad essi correlati, e dunque pi\u00f9 facilmente risolvibili. Molti bug tracking system, come ad esempio quelli adottati da numerosi progetti opensource, permettono agli utenti di riportare direttamente report di errori contribuendo di fatto al perfezionamento del prodotto in oggetto. Altri sistemi sono utilizzati internamente alle aziende che si occupano di sviluppo software. Spesso un sistema di questo genere \u00e8 integrato con altre applicazioni destinate al project management.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u7f3a\u9677\u8ddf\u8e2a\u7ba1\u7406\u7cfb\u7edf\u662f\u4e00\u79cd\u5e94\u7528\u8f6f\u4ef6\uff0c\u5b83\u88ab\u8bbe\u8ba1\u7528\u6765\u5e2e\u52a9\u8d28\u91cf\u4fdd\u8bc1\u548c\u7a0b\u5e8f\u5458\u5728\u5de5\u4f5c\u4e2d\u7ef4\u62a4\u8f6f\u4ef6\u7f3a\u9677\u7684\u8ddf\u8e2a\u62a5\u544a\uff0c\u4e5f\u53ef\u4ee5\u88ab\u8ba4\u4e3a\u662f\u4e00\u79cd\u95ee\u9898\u8ddf\u8e2a\u7ba1\u7406\u7cfb\u7edf\u3002 \u8bb8\u591a\u7684\u7f3a\u9677\u8ddf\u8e2a\u7ba1\u7406\u7cfb\u7edf, \u6bd4\u5982\u90a3\u4e9b\u5927\u591a\u6570\u5728\u5f00\u6e90\u8f6f\u4ef6\u5de5\u7a0b\u4e2d\u4f7f\u7528\u7684\uff0c\u5141\u8bb8\u7528\u6237\u76f4\u63a5\u767b\u8bb0\u7f3a\u9677\u62a5\u544a\uff0c\u8fd8\u6709\u4e00\u4e9b\u5219\u662f\u53ea\u5728\u516c\u53f8\u6216\u8005\u673a\u6784\u5185\u90e8\u7528\u6765\u8fdb\u884c\u8f6f\u4ef6\u5f00\u53d1\u3002\u5f88\u5177\u4ee3\u8868\u6027\uff0c\u7f3a\u9677\u8ddf\u8e2a\u7ba1\u7406\u7cfb\u7edf\u603b\u662f\u96c6\u6210\u4e00\u4e9b\u8f6f\u4ef6\u5de5\u7a0b\u7ba1\u7406\u5e94\u7528\u8f6f\u4ef6\u3002 \u7f3a\u9677\u8ddf\u8e2a\u7ba1\u7406\u7cfb\u7edf\u5728\u8f6f\u4ef6\u5f00\u53d1\u65f6\u662f\u975e\u5e38\u6709\u7528\u7684\uff0c\u5b83\u88ab\u5e7f\u6cdb\u4f7f\u7528\u4e8e\u8f6f\u4ef6\u516c\u53f8\u7684\u4ea7\u54c1\u5f00\u53d1\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 730951412,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 898290,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Application"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fossil_(software)": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/FogBugz": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/YouTrack": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jira_(software)": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Axosoft": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bug_tracking": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Bug_Genie": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bugtracker": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Defect_tracking_system": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bug_report": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bug-tracking_system": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bug_Tracker": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bug_tracker": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bug_Tracking_System": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bug_database": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Redmine": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mantis_Bug_Tracker": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GNATS": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Bug_tracking_system"
+            }
+        ]
+    }
+}

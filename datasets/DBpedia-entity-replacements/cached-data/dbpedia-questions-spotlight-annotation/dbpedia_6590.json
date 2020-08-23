@@ -1,0 +1,28 @@
+{
+    "@text": "Which is {has county seat} {has capital} of {Abyssinia} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/County_seat",
+            "@support": "16036",
+            "@types": "",
+            "@surfaceForm": "county seat",
+            "@offset": "14",
+            "@similarityScore": "0.9999976580181735",
+            "@percentageOfSecondRank": "9.342065959686938E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ethiopian_Empire",
+            "@support": "2084",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Abyssinia",
+            "@offset": "45",
+            "@similarityScore": "0.7316113741983121",
+            "@percentageOfSecondRank": "0.3620285851582023"
+        }
+    ]
+}

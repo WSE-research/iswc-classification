@@ -1,0 +1,37 @@
+{
+    "@text": "Did SpaceX produce the Merlin engine and liquid propellant rocket engine?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/SpaceX",
+            "@support": "2852",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "SpaceX",
+            "@offset": "4",
+            "@similarityScore": "0.9999999999783853",
+            "@percentageOfSecondRank": "2.087849136137535E-11"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rolls-Royce_Merlin",
+            "@support": "699",
+            "@types": "",
+            "@surfaceForm": "Merlin",
+            "@offset": "23",
+            "@similarityScore": "0.9534352471928854",
+            "@percentageOfSecondRank": "0.046998105862525605"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Liquid-propellant_rocket",
+            "@support": "576",
+            "@types": "",
+            "@surfaceForm": "liquid propellant rocket engine",
+            "@offset": "41",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

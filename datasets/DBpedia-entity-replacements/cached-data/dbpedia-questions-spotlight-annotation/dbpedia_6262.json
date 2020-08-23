@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the ICD-9-CM for migraine?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems",
+            "@support": "549",
+            "@types": "",
+            "@surfaceForm": "ICD-9-CM",
+            "@offset": "13",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Migraine",
+            "@support": "1461",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "migraine",
+            "@offset": "26",
+            "@similarityScore": "0.9999998564669387",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

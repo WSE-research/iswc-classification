@@ -1,0 +1,37 @@
+{
+    "@text": "What are some employees of Uni of California, santa cruz?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Uni_Records",
+            "@support": "156",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q18127,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:RecordLabel,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Uni",
+            "@offset": "27",
+            "@similarityScore": "0.9781768681975592",
+            "@percentageOfSecondRank": "0.012859332609431184"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/California",
+            "@support": "185510",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "California",
+            "@offset": "34",
+            "@similarityScore": "0.9999607382607617",
+            "@percentageOfSecondRank": "1.534735415748401E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Santa_Cruz_de_la_Sierra",
+            "@support": "956",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "santa cruz",
+            "@offset": "46",
+            "@similarityScore": "0.8031932427370828",
+            "@percentageOfSecondRank": "0.24461356874442455"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Which is {PIN Code} of {deathplace} of {Doug Henning} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Personal_identification_number",
+            "@support": "528",
+            "@types": "",
+            "@surfaceForm": "PIN",
+            "@offset": "10",
+            "@similarityScore": "0.8735835509055214",
+            "@percentageOfSecondRank": "0.14462319991702646"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Doug_Basham",
+            "@support": "87",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q13474373,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Wrestler,DBpedia:Person,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Doug",
+            "@offset": "40",
+            "@similarityScore": "0.5546869493522876",
+            "@percentageOfSecondRank": "0.39733708706103665"
+        }
+    ]
+}

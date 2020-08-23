@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me which automobile manufacturer is in stock exchange of Tokyo Stock Exchange whose name contains the word toyota?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Automotive_industry",
+            "@support": "2496",
+            "@types": "",
+            "@surfaceForm": "automobile manufacturer",
+            "@offset": "14",
+            "@similarityScore": "0.9994334629584725",
+            "@percentageOfSecondRank": "5.668581872778937E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tokyo_Stock_Exchange",
+            "@support": "469",
+            "@types": "",
+            "@surfaceForm": "Tokyo Stock Exchange",
+            "@offset": "62",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

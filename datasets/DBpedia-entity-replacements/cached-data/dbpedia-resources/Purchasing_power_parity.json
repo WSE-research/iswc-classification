@@ -1,0 +1,589 @@
+{
+    "http://dbpedia.org/resource/Law_of_one_price": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Purchasing_power_parity": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatIndexNumbers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Communication100033020"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Fact106636259"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Index106639674"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatEconomicIndicators"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Message106598915"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Information106634376"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u041f\u0430\u0440\u0438\u0442\u0435\u0442 \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u062a\u0639\u0627\u062f\u0644 \u0627\u0644\u0642\u062f\u0631\u0629 \u0627\u0644\u0634\u0631\u0627\u0626\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Kaufkraftparit\u00e4t",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u8cfc\u8cb7\u529b\u5e73\u4fa1\u8aac",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Paridad de poder adquisitivo",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Koopkrachtpariteit",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Paridade do poder de compra",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Parytet si\u0142y nabywczej",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Purchasing power parity",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Parit\u00e0 di potere d'acquisto",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u8d2d\u4e70\u529b\u5e73\u4ef7",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Parit\u00e9 de pouvoir d'achat",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u8d2d\u4e70\u529b\u5e73\u4ef7\uff08\u82f1\u8bed\uff1aPurchasing Power Parity\uff0c\u7f29\u5199PPP\uff09\uff0c\u53c8\u7a31\u76f8\u5c0d\u8cfc\u8cb7\u529b\u6307\u6a19\uff0c\u662f\u4e00\u79cd\u6839\u64da\u5404\u56fd\u4e0d\u540c\u7684\u4ef7\u683c\u6c34\u5e73\u8ba1\u7b97\u51fa\u6765\u7684\u8d27\u5e01\u4e4b\u95f4\u7684\u7b49\u503c\u7cfb\u6570\uff0c\u4f7f\u6211\u4eec\u80fd\u591f\u5728\u7ecf\u6d4e\u5b66\u4e0a\u5bf9\u5404\u56fd\u7684\u56fd\u5185\u751f\u4ea7\u603b\u503c\u8fdb\u884c\u5408\u7406\u6bd4\u8f83\uff0c\u8fd9\u79cd\u7406\u8bba\u6c47\u7387\u4e0e\u5b9e\u9645\u6c47\u7387\u53ef\u80fd\u6709\u5f88\u5927\u7684\u5dee\u8ddd\u3002\u8d2d\u4e70\u529b\u5e73\u4ef7\u8ba1\u7b97\u5355\u4f4d\u4e3a\u56fd\u9645\u5143\uff08international dollar\uff0c\u7f29\u5199\uff1aIntl.$\uff09\u6216\u79f0\u4f5c\u201c\u56fd\u9645\u8d27\u5e01\u5355\u4f4d\u201d\uff08international currency unit\uff0c\u7f29\u5199\uff1aICU\uff09\u3002\u8d2d\u4e70\u529b\u5e73\u4ef7\u662f\u4ee5\u7f8e\u5143\u4e3a\u57fa\u7840\uff0c\u53731\u7f8e\u5143\u5728\u7f8e\u56fd\u7684\u8d2d\u4e70\u529b\u4e3a\u53c2\u8003\u57fa\u6570\uff1b\u65451\u56fd\u9645\u5143\u5728\u500b\u5225\u570b\u5bb6\u7684\u8cfc\u8cb7\u529b\u7b49\u4e8e1\u7f8e\u5143\u5728\u7f8e\u56fd\u7684\u8d2d\u4e70\u529b\uff0c\u56e0\u6b64\u5f88\u591a\u60c5\u51b5\u4e0b\uff0c\u8d2d\u4e70\u529b\u5e73\u4ef7\u76f4\u63a5\u4f7f\u7528US$\u8ba1\u4ef7\u3002 \u8be5\u7406\u8bba\u6307\u51fa\uff0c\u5728\u5bf9\u5916\u8d38\u6613\u5e73\u8861\u7684\u60c5\u51b5\u4e0b\uff0c\u4e24\u56fd\u4e4b\u95f4\u7684\u6c47\u7387\u5c06\u4f1a\u8d8b\u5411\u4e8e\u9760\u62e2\u8d2d\u4e70\u529b\u5e73\u4ef7\u3002\u4e00\u822c\u6765\u8bb2\uff0c\u8fd9\u4e2a\u6307\u6807\u8981\u6839\u636e\u76f8\u5bf9\u4e8e\u7ecf\u6d4e\u7684\u91cd\u8981\u6027\u8003\u5bdf\u8bb8\u591a\u8d27\u7269\u4ef7\u683c\u624d\u80fd\u5f97\u51fa\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Koopkrachtpariteit (KKP) wordt ook wel aangeduid met de Engelse term \"purchasing power parity\" (PPP). Het is een manier om de koopkracht van twee landen te vergelijken. De wisselkoers op de financi\u00eble markten wordt in belangrijke mate bepaald door de prijzen van de op de wereldmarkt verhandelde goederen en diensten, maar dit is vaak een heel ander pakket van goederen en diensten dan dat wat de mensen in het dagelijkse leven consumeren. Een versimpelde versie van de koopkrachtpariteit is de Big Mac index van The Economist.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "La parit\u00e9 de pouvoir d'achat (PPA) (on parle de valeurs mesur\u00e9es en parit\u00e9 de pouvoir d'achat) est une m\u00e9thode utilis\u00e9e en \u00e9conomie pour \u00e9tablir une comparaison entre pays du pouvoir d'achat des devises nationales, ce qu\u2019une simple utilisation des taux de change ne permet pas de faire.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "La paridad del poder adquisitivo (PPA) es la suma final de cantidades de bienes y servicios producidos en un pa\u00eds, al valor monetario de un pa\u00eds de referencia. Est\u00e1 basado en una idea desarrollada por primera vez por miembros de la escuela monetarista de la Universidad de Salamanca en el siglo XVI, y fue un sistema de medici\u00f3n empezado a utilizar por el Fondo Monetario Internacional a principios de los a\u00f1os noventa, aunque no el \u00fanico: el PBI Nominal per c\u00e1pita es la medici\u00f3n m\u00e1s utilizada para darse una idea aproximada del tama\u00f1o de una econom\u00eda.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Parytet si\u0142y nabywczej, PSN (ang. purchasing power parity, PPP) \u2013 kurs walutowy wyliczony w oparciu o por\u00f3wnanie cen sztywno ustalonego koszyka towar\u00f3w i us\u0142ug w r\u00f3\u017cnych krajach w tym samym czasie, wyra\u017conych w walutach tych kraj\u00f3w.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2014) \u062a\u0639\u0627\u062f\u0644 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0634\u0631\u0627\u0626\u064a\u0629 ( Purchasing power parity ) \u0646\u0638\u0631\u064a\u0629 \u0648\u0636\u0639\u0647\u0627 \u063a\u0648\u0633\u062a\u0627\u0641 \u0643\u0627\u0633\u0644 \u0639\u0627\u0645 1920. \u0648\u0647\u064a \u0637\u0631\u064a\u0642\u0629 \u062a\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u0627\u0644\u0645\u062f\u0649 \u0627\u0644\u0637\u0648\u064a\u0644 \u0644\u0642\u064a\u0627\u0633 \u0627\u0644\u062a\u0648\u0627\u0632\u0646 \u0628\u0633\u0639\u0631 \u0627\u0644\u0635\u0631\u0641 \u0628\u064a\u0646 \u0639\u0645\u0644\u062a\u064a\u0646 \u0648\u062a\u062d\u0642\u064a\u0642 \u0627\u0644\u0645\u0633\u0627\u0648\u0627\u0629 \u0628\u064a\u0646 \u0627\u0644\u0639\u0645\u0644\u0627\u062a. \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "La parit\u00e0 di potere d'acquisto (PPA; in inglese: Purchasing power parity - PPP) \u00e8 un indice che consente di confrontare i livelli dei prezzi tra localit\u00e0 diverse, appartenenti ad una stessa area valutaria o ad aree valutarie diverse. In quest'ultimo caso, l'indice introduce una relazione tra i prezzi e il tasso di cambio. La teoria ha una versione assoluta e una versione relativa.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Theories that invoke purchasing power parity assume that in some circumstances (for example, as a long-run tendency) it would cost exactly the same number of, for example, US dollars to buy euros and then to use the proceeds to buy a market basket of goods as it would cost to use those dollars directly in purchasing the market basket of goods. Essentially GDP PPP controls for the different costs of living and price level, usually relative to the United States Dollar, that would make an accurate depiction of a given nation's gross income.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Kaufkraftparit\u00e4t (KKP; englisch purchasing power parity, PPP; Parit\u00e4t = Gleichheit von lateinisch par \u201agleich\u2018) ist ein Begriff der makro\u00f6konomischen Analyse. Die KKP zwischen zwei geographischen R\u00e4umen im gleichen W\u00e4hrungsraum liegt dann vor, wenn Waren und Dienstleistungen eines Warenkorbes f\u00fcr gleich hohe Geldbetr\u00e4ge erworben werden k\u00f6nnen. Werden zwei unterschiedliche W\u00e4hrungsr\u00e4ume verglichen, so werden die Geldbetr\u00e4ge durch Wechselkurse vergleichbar gemacht. In diesem Fall herrscht die Kaufkraftparit\u00e4t vor, wenn die unterschiedlichen W\u00e4hrungen durch die Wechselkurse dieselbe Kaufkraft haben und man somit denselben Warenkorb kaufen kann. Wenn Kaufkraftparit\u00e4t zwischen zwei L\u00e4ndern herrscht, so entspricht der nominale dem realen Wechselkurs.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u8cfc\u8cb7\u529b\u5e73\u4fa1\u8aac\uff08\u3053\u3046\u3070\u3044\u308a\u3087\u304f\u3078\u3044\u304b\u305b\u3064\u3001\u82f1: purchasing power parity\u3001PPP\uff09\u3068\u306f\u3001\u5916\u56fd\u70ba\u66ff\u30ec\u30fc\u30c8\u306e\u6c7a\u5b9a\u8981\u56e0\u3092\u8aac\u660e\u3059\u308b\u6982\u5ff5\u306e\u4e00\u3064\u3002\u70ba\u66ff\u30ec\u30fc\u30c8\u306f\u81ea\u56fd\u901a\u8ca8\u3068\u5916\u56fd\u901a\u8ca8\u306e\u8cfc\u8cb7\u529b\u306e\u6bd4\u7387\u306b\u3088\u3063\u3066\u6c7a\u5b9a\u3055\u308c\u308b\u3068\u3044\u3046\u8aac\u3067\u3042\u308b\u30021921\u5e74\u306b\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3\u306e\u7d4c\u6e08\u5b66\u8005\u3001\u30b0\u30b9\u30bf\u30d5\u30fb\u30ab\u30c3\u30bb\u30eb\u304c\u300e\u5916\u56fd\u70ba\u66ff\u306e\u8cfc\u8cb7\u529b\u5e73\u4fa1\u8aac\u300f\u3068\u3057\u3066\u767a\u8868\u3057\u305f\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Em economia a paridade do poder de compra (PPC) ou paridade do poder aquisitivo (PPA), \u00e9 um m\u00e9todo alternativo \u00e0 taxa de c\u00e2mbio para se calcular o poder de compra de dois pa\u00edses. A teoria da paridade de poder de compra (PPC) foi originalmente formulada pelo economista sueco Gustav Cassel que definiu que a taxa de c\u00e2mbio de um pa\u00eds tende a se desvalorizar na mesma propor\u00e7\u00e3o que aumenta o n\u00edvel dos pre\u00e7os.  Assim, a PPC procura medir o quanto uma determinada moeda pode comprar em termos internacionais (normalmente d\u00f3lar), j\u00e1 que bens e servi\u00e7os t\u00eam diferentes pre\u00e7os de um pa\u00eds para outro, ou seja, relaciona o poder aquisitivo de tal pessoa com o custo de vida do local, se ele consegue comprar tudo que necessita com seu sal\u00e1rio.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0430\u0440\u0438\u0442\u0435\u0442 \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 (\u0430\u043d\u0433\u043b. purchasing power parity) \u2014 \u0441\u043e\u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u0434\u0432\u0443\u0445 \u0438\u043b\u0438 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 \u0435\u0434\u0438\u043d\u0438\u0446, \u0432\u0430\u043b\u044e\u0442 \u0440\u0430\u0437\u043d\u044b\u0445 \u0441\u0442\u0440\u0430\u043d, \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u043c\u043e\u0435 \u043f\u043e \u0438\u0445 \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043a \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u043c\u0443 \u043d\u0430\u0431\u043e\u0440\u0443 \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u0438 \u0443\u0441\u043b\u0443\u0433. \u0421\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u0442\u0435\u043e\u0440\u0438\u0438 \u043e \u043f\u0430\u0440\u0438\u0442\u0435\u0442\u0435 \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438, \u043d\u0430 \u043e\u0434\u043d\u0443 \u0438 \u0442\u0443 \u0436\u0435 \u0441\u0443\u043c\u043c\u0443 \u0434\u0435\u043d\u0435\u0433, \u043f\u0435\u0440\u0435\u0441\u0447\u0438\u0442\u0430\u043d\u043d\u0443\u044e \u043f\u043e \u0442\u0435\u043a\u0443\u0449\u0435\u043c\u0443 \u043a\u0443\u0440\u0441\u0443 \u0432 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u0432\u0430\u043b\u044e\u0442\u044b, \u0432 \u0440\u0430\u0437\u043d\u044b\u0445 \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u043c\u0438\u0440\u0430 \u043c\u043e\u0436\u043d\u043e \u043f\u0440\u0438\u043e\u0431\u0440\u0435\u0441\u0442\u0438 \u043e\u0434\u043d\u043e \u0438 \u0442\u043e \u0436\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u0438 \u0443\u0441\u043b\u0443\u0433 \u043f\u0440\u0438 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0438 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0445 \u0438\u0437\u0434\u0435\u0440\u0436\u0435\u043a \u0438 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u0439 \u043f\u043e \u043f\u0435\u0440\u0435\u0432\u043e\u0437\u043a\u0435.",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q82135"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Parit\u00e0_di_potere_d'acquisto"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Paridade_do_poder_de_compra"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Purchasing_Power_Parity"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0h6yq"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Purchasing_power_parity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Koopkrachtpariteit"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Parytet_si\u0142y_nabywczej"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0391\u03be\u03af\u03b1_\u03c3\u03b5_\u03bc\u03bf\u03bd\u03ac\u03b4\u03b5\u03c2_\u03b1\u03b3\u03bf\u03c1\u03b1\u03c3\u03c4\u03b9\u03ba\u03ae\u03c2_\u03b4\u03cd\u03bd\u03b1\u03bc\u03b7\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Parita_kupn\u00ed_s\u00edly"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Kaufkraftparit\u00e4t"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Paridad_de_poder_adquisitivo"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u8cfc\u8cb7\u529b\u5e73\u4fa1\u8aac"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q82135"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Keseimbangan_kemampuan_berbelanja"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uad6c\ub9e4\ub825_\ud3c9\uac00"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Parit\u00e9_de_pouvoir_d'achat"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Economic_indicators"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:International_economics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Gross_domestic_product"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Index_numbers"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Purchasing_power_parity"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Purchasing_power_parity?oldid=744654024"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.worldbank.org/data/icp"
+            },
+            {
+                "type": "uri",
+                "value": "http://cid.econ.ucdavis.edu/pwt.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://pwt.econ.upenn.edu/papers/deaton%20heston%20complete%20nov10.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://fx.sauder.ubc.ca/PPP.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Purchasing_power_parities_as_example_of_international_statistical_cooperation"
+            },
+            {
+                "type": "uri",
+                "value": "http://data.worldbank.org/indicator/PA.NUS.PPPC.RF"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.ubs.com/1/ShowMedia/ubs_ch/wealth_mgmt_ch?contentId=103982&name=eng.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://data.oecd.org/conversion/purchasing-power-parities-ppp.htm"
+            }
+        ],
+        "http://dbpedia.org/property/align": [
+            {
+                "type": "literal",
+                "value": "right",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Koopkrachtpariteit (KKP) wordt ook wel aangeduid met de Engelse term \"purchasing power parity\" (PPP). Het is een manier om de koopkracht van twee landen te vergelijken. De wisselkoers op de financi\u00eble markten wordt in belangrijke mate bepaald door de prijzen van de op de wereldmarkt verhandelde goederen en diensten, maar dit is vaak een heel ander pakket van goederen en diensten dan dat wat de mensen in het dagelijkse leven consumeren. Het inkomen per hoofd in dollars kan daarom een sterk vertekend beeld geven van de werkelijke koopkrachtverhoudingen. De rijkdom van relatief rijke landen wordt hierdoor over het algemeen sterk uitvergroot, evenals de armoede van relatief arme landen. De mensen in de arme landen consumeren namelijk veel goederen en diensten die ter plaatse, met de lage arbeidskosten van die landen, geproduceerd worden, zodat de kosten van levensonderhoud hier (over het algemeen: er zijn natuurlijk altijd uitzonderingen) veel lager zijn dan in rijke landen. Zo bedroeg, bijvoorbeeld, in China het inkomen per hoofd tegen de offici\u00eble wisselkoersen 1400 dollar, terwijl dit in koopkrachtpariteit 6200 dollar zou zijn (vergeleken met het Amerikaanse prijspeil). Omgekeerd bedraagt het inkomen per hoofd in Japan tegen de offici\u00eble wisselkoers 37.600 dollar, terwijl dat in koopkrachtpariteit slechts 31.400 dollar zou zijn (vergeleken met het Amerikaanse prijspeil). Vroeger werd in de economische literatuur bijna uitsluitend cijfers van het inkomen tegen de offici\u00eble wisselkoers gebruikt, hetgeen vaak een verwrongen beeld gaf. Tegenwoordig gebruikt men steeds vaker cijfers op basis van koopkrachtpariteit. Dat is niet altijd een verbetering. Wanneer het gaat om vergelijking van de invloed op de wereldmarkt, zijn de cijfers tegen offici\u00eble wisselkoers namelijk relevanter. Bovendien kan er verwarring optreden als niet heel duidelijk wordt aangegeven op welke grondslag de voor een vergelijking gebruikte cijfers berusten. Een versimpelde versie van de koopkrachtpariteit is de Big Mac index van The Economist.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Em economia a paridade do poder de compra (PPC) ou paridade do poder aquisitivo (PPA), \u00e9 um m\u00e9todo alternativo \u00e0 taxa de c\u00e2mbio para se calcular o poder de compra de dois pa\u00edses. A teoria da paridade de poder de compra (PPC) foi originalmente formulada pelo economista sueco Gustav Cassel que definiu que a taxa de c\u00e2mbio de um pa\u00eds tende a se desvalorizar na mesma propor\u00e7\u00e3o que aumenta o n\u00edvel dos pre\u00e7os.  Assim, a PPC procura medir o quanto uma determinada moeda pode comprar em termos internacionais (normalmente d\u00f3lar), j\u00e1 que bens e servi\u00e7os t\u00eam diferentes pre\u00e7os de um pa\u00eds para outro, ou seja, relaciona o poder aquisitivo de tal pessoa com o custo de vida do local, se ele consegue comprar tudo que necessita com seu sal\u00e1rio. A PPC \u00e9 necess\u00e1ria porque a compara\u00e7\u00e3o dos produtos internos brutos (PIB) em uma moeda comum n\u00e3o descreve com precis\u00e3o as diferen\u00e7as em prosperidade material. A PPC, ao rev\u00e9s, leva em conta tanto as diferen\u00e7as de rendimentos como tamb\u00e9m as diferen\u00e7as no custo de vida. Isto \u00e9 complicado porque os pre\u00e7os n\u00e3o flutuam num n\u00edvel uniforme; na verdade, a diferen\u00e7a nos pre\u00e7os dos alimentos pode ser maior que a dos pre\u00e7os de habita\u00e7\u00e3o ou a dos pre\u00e7os de entretenimento. Ademais, os padr\u00f5es de compra e at\u00e9 mesmo os bens dispon\u00edveis para compra s\u00e3o diferentes de pa\u00eds para pa\u00eds, portanto uma cesta constante de bens n\u00e3o pode ser utilizada para comparar pre\u00e7os em diferentes pa\u00edses. As diferen\u00e7as entre a PPC e a taxa de c\u00e2mbio real podem ser significativas. Por exemplo, o PIB per capita na Rep\u00fablica Popular da China \u00e9 cerca de 5000 d\u00f3lares, enquanto que com base na PPC, passa a 8400 d\u00f3lares. Na outra ponta, o PIB per capita nominal do Jap\u00e3o \u00e9 cerca de 37600 d\u00f3lares, mas o valor em PPC \u00e9 de apenas 31400 d\u00f3lares. Medir o padr\u00e3o de vida de um pa\u00eds apenas com a taxa de c\u00e2mbio pode ser ilus\u00f3rio. Por exemplo: se o valor do peso mexicano cai em compara\u00e7\u00e3o com o d\u00f3lar americano, o PIB mexicano medido em d\u00f3lares tamb\u00e9m cair\u00e1. Mas a varia\u00e7\u00e3o da taxa de c\u00e2mbio \u00e9 apenas resultado do com\u00e9rcio internacional e do mercado financeiro - isto n\u00e3o quer dizer que os mexicanos ficaram efetivamente mais pobres, desde que os sal\u00e1rios e os pre\u00e7os em pesos permane\u00e7am est\u00e1veis. Em contra-partida, alguns estudos mostram que testes econom\u00e9tricos t\u00eam apresentado grandes diverg\u00eancias quanto \u00e0 validade do modelo de paridade de poder de compra em sua forma original ou no contexto de um modelo monet\u00e1rio para pre\u00e7os tanto flex\u00edveis quanto r\u00edgidos.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "La parit\u00e0 di potere d'acquisto (PPA; in inglese: Purchasing power parity - PPP) \u00e8 un indice che consente di confrontare i livelli dei prezzi tra localit\u00e0 diverse, appartenenti ad una stessa area valutaria o ad aree valutarie diverse. In quest'ultimo caso, l'indice introduce una relazione tra i prezzi e il tasso di cambio. La teoria ha una versione assoluta e una versione relativa.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u8d2d\u4e70\u529b\u5e73\u4ef7\uff08\u82f1\u8bed\uff1aPurchasing Power Parity\uff0c\u7f29\u5199PPP\uff09\uff0c\u53c8\u7a31\u76f8\u5c0d\u8cfc\u8cb7\u529b\u6307\u6a19\uff0c\u662f\u4e00\u79cd\u6839\u64da\u5404\u56fd\u4e0d\u540c\u7684\u4ef7\u683c\u6c34\u5e73\u8ba1\u7b97\u51fa\u6765\u7684\u8d27\u5e01\u4e4b\u95f4\u7684\u7b49\u503c\u7cfb\u6570\uff0c\u4f7f\u6211\u4eec\u80fd\u591f\u5728\u7ecf\u6d4e\u5b66\u4e0a\u5bf9\u5404\u56fd\u7684\u56fd\u5185\u751f\u4ea7\u603b\u503c\u8fdb\u884c\u5408\u7406\u6bd4\u8f83\uff0c\u8fd9\u79cd\u7406\u8bba\u6c47\u7387\u4e0e\u5b9e\u9645\u6c47\u7387\u53ef\u80fd\u6709\u5f88\u5927\u7684\u5dee\u8ddd\u3002\u8d2d\u4e70\u529b\u5e73\u4ef7\u8ba1\u7b97\u5355\u4f4d\u4e3a\u56fd\u9645\u5143\uff08international dollar\uff0c\u7f29\u5199\uff1aIntl.$\uff09\u6216\u79f0\u4f5c\u201c\u56fd\u9645\u8d27\u5e01\u5355\u4f4d\u201d\uff08international currency unit\uff0c\u7f29\u5199\uff1aICU\uff09\u3002\u8d2d\u4e70\u529b\u5e73\u4ef7\u662f\u4ee5\u7f8e\u5143\u4e3a\u57fa\u7840\uff0c\u53731\u7f8e\u5143\u5728\u7f8e\u56fd\u7684\u8d2d\u4e70\u529b\u4e3a\u53c2\u8003\u57fa\u6570\uff1b\u65451\u56fd\u9645\u5143\u5728\u500b\u5225\u570b\u5bb6\u7684\u8cfc\u8cb7\u529b\u7b49\u4e8e1\u7f8e\u5143\u5728\u7f8e\u56fd\u7684\u8d2d\u4e70\u529b\uff0c\u56e0\u6b64\u5f88\u591a\u60c5\u51b5\u4e0b\uff0c\u8d2d\u4e70\u529b\u5e73\u4ef7\u76f4\u63a5\u4f7f\u7528US$\u8ba1\u4ef7\u3002 \u8be5\u7406\u8bba\u6307\u51fa\uff0c\u5728\u5bf9\u5916\u8d38\u6613\u5e73\u8861\u7684\u60c5\u51b5\u4e0b\uff0c\u4e24\u56fd\u4e4b\u95f4\u7684\u6c47\u7387\u5c06\u4f1a\u8d8b\u5411\u4e8e\u9760\u62e2\u8d2d\u4e70\u529b\u5e73\u4ef7\u3002\u4e00\u822c\u6765\u8bb2\uff0c\u8fd9\u4e2a\u6307\u6807\u8981\u6839\u636e\u76f8\u5bf9\u4e8e\u7ecf\u6d4e\u7684\u91cd\u8981\u6027\u8003\u5bdf\u8bb8\u591a\u8d27\u7269\u4ef7\u683c\u624d\u80fd\u5f97\u51fa\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Parytet si\u0142y nabywczej, PSN (ang. purchasing power parity, PPP) \u2013 kurs walutowy wyliczony w oparciu o por\u00f3wnanie cen sztywno ustalonego koszyka towar\u00f3w i us\u0142ug w r\u00f3\u017cnych krajach w tym samym czasie, wyra\u017conych w walutach tych kraj\u00f3w. Parytet si\u0142y nabywczej pozwala na rozwi\u0105zanie problemu dokonywania mi\u0119dzynarodowych por\u00f3wna\u0144 PKB. Zasadnicz\u0105 kwesti\u0105 jest zebranie danych o cenach z zagregowanej listy towar\u00f3w i us\u0142ug, kt\u00f3ra zawiera produkty por\u00f3wnywalne i reprezentatywne dla analizowanych kraj\u00f3w. Parytet si\u0142y nabywczej jest w\u0142a\u015bciwszym wska\u017anikiem od finansowego (gie\u0142dowo-bankowego) kursu walutowego, gdy\u017c uwzgl\u0119dnia si\u0142\u0119 nabywcz\u0105 ludno\u015bci.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u8cfc\u8cb7\u529b\u5e73\u4fa1\u8aac\uff08\u3053\u3046\u3070\u3044\u308a\u3087\u304f\u3078\u3044\u304b\u305b\u3064\u3001\u82f1: purchasing power parity\u3001PPP\uff09\u3068\u306f\u3001\u5916\u56fd\u70ba\u66ff\u30ec\u30fc\u30c8\u306e\u6c7a\u5b9a\u8981\u56e0\u3092\u8aac\u660e\u3059\u308b\u6982\u5ff5\u306e\u4e00\u3064\u3002\u70ba\u66ff\u30ec\u30fc\u30c8\u306f\u81ea\u56fd\u901a\u8ca8\u3068\u5916\u56fd\u901a\u8ca8\u306e\u8cfc\u8cb7\u529b\u306e\u6bd4\u7387\u306b\u3088\u3063\u3066\u6c7a\u5b9a\u3055\u308c\u308b\u3068\u3044\u3046\u8aac\u3067\u3042\u308b\u30021921\u5e74\u306b\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3\u306e\u7d4c\u6e08\u5b66\u8005\u3001\u30b0\u30b9\u30bf\u30d5\u30fb\u30ab\u30c3\u30bb\u30eb\u304c\u300e\u5916\u56fd\u70ba\u66ff\u306e\u8cfc\u8cb7\u529b\u5e73\u4fa1\u8aac\u300f\u3068\u3057\u3066\u767a\u8868\u3057\u305f\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Kaufkraftparit\u00e4t (KKP; englisch purchasing power parity, PPP; Parit\u00e4t = Gleichheit von lateinisch par \u201agleich\u2018) ist ein Begriff der makro\u00f6konomischen Analyse. Die KKP zwischen zwei geographischen R\u00e4umen im gleichen W\u00e4hrungsraum liegt dann vor, wenn Waren und Dienstleistungen eines Warenkorbes f\u00fcr gleich hohe Geldbetr\u00e4ge erworben werden k\u00f6nnen. Werden zwei unterschiedliche W\u00e4hrungsr\u00e4ume verglichen, so werden die Geldbetr\u00e4ge durch Wechselkurse vergleichbar gemacht. In diesem Fall herrscht die Kaufkraftparit\u00e4t vor, wenn die unterschiedlichen W\u00e4hrungen durch die Wechselkurse dieselbe Kaufkraft haben und man somit denselben Warenkorb kaufen kann. Wenn Kaufkraftparit\u00e4t zwischen zwei L\u00e4ndern herrscht, so entspricht der nominale dem realen Wechselkurs.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Theories that invoke purchasing power parity assume that in some circumstances (for example, as a long-run tendency) it would cost exactly the same number of, for example, US dollars to buy euros and then to use the proceeds to buy a market basket of goods as it would cost to use those dollars directly in purchasing the market basket of goods. The concept of purchasing power parity allows one to estimate what the exchange rate between two currencies would have to be in order for the exchange to be at par with the purchasing power of the two countries' currencies. Using that PPP rate for hypothetical currency conversions, a given amount of one currency thus has the same purchasing power whether used directly to purchase a market basket of goods or used to convert at the PPP rate to the other currency and then purchase the market basket using that currency. Observed deviations of the exchange rate from purchasing power parity are measured by deviations of the real exchange rate from its PPP value of 1. PPP exchange rates help to minimize misleading international comparisons that can arise with the use of market exchange rates. For example, suppose that two countries produce the same physical amounts of goods as each other in each of two different years. Since market exchange rates fluctuate substantially, when the GDP of one country measured in its own currency is converted to the other country's currency using market exchange rates, one country might be inferred to have higher real GDP than the other country in one year but lower in the other; both of these inferences would fail to reflect the reality of their relative levels of production. But if one country's GDP is converted into the other country's currency using PPP exchange rates instead of observed market exchange rates, the false inference will not occur. Essentially GDP PPP controls for the different costs of living and price level, usually relative to the United States Dollar, that would make an accurate depiction of a given nation's gross income.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0430\u0440\u0438\u0442\u0435\u0442 \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 (\u0430\u043d\u0433\u043b. purchasing power parity) \u2014 \u0441\u043e\u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u0434\u0432\u0443\u0445 \u0438\u043b\u0438 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 \u0435\u0434\u0438\u043d\u0438\u0446, \u0432\u0430\u043b\u044e\u0442 \u0440\u0430\u0437\u043d\u044b\u0445 \u0441\u0442\u0440\u0430\u043d, \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u043c\u043e\u0435 \u043f\u043e \u0438\u0445 \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043a \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u043c\u0443 \u043d\u0430\u0431\u043e\u0440\u0443 \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u0438 \u0443\u0441\u043b\u0443\u0433. \u0421\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u0442\u0435\u043e\u0440\u0438\u0438 \u043e \u043f\u0430\u0440\u0438\u0442\u0435\u0442\u0435 \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438, \u043d\u0430 \u043e\u0434\u043d\u0443 \u0438 \u0442\u0443 \u0436\u0435 \u0441\u0443\u043c\u043c\u0443 \u0434\u0435\u043d\u0435\u0433, \u043f\u0435\u0440\u0435\u0441\u0447\u0438\u0442\u0430\u043d\u043d\u0443\u044e \u043f\u043e \u0442\u0435\u043a\u0443\u0449\u0435\u043c\u0443 \u043a\u0443\u0440\u0441\u0443 \u0432 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u0432\u0430\u043b\u044e\u0442\u044b, \u0432 \u0440\u0430\u0437\u043d\u044b\u0445 \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u043c\u0438\u0440\u0430 \u043c\u043e\u0436\u043d\u043e \u043f\u0440\u0438\u043e\u0431\u0440\u0435\u0441\u0442\u0438 \u043e\u0434\u043d\u043e \u0438 \u0442\u043e \u0436\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u0438 \u0443\u0441\u043b\u0443\u0433 \u043f\u0440\u0438 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0438 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0445 \u0438\u0437\u0434\u0435\u0440\u0436\u0435\u043a \u0438 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u0439 \u043f\u043e \u043f\u0435\u0440\u0435\u0432\u043e\u0437\u043a\u0435. \u041f\u043e\u0434 \u043f\u0430\u0440\u0438\u0442\u0435\u0442\u043e\u043c \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u0434\u0440\u0430\u0437\u0443\u043c\u0435\u0432\u0430\u0442\u044c\u0441\u044f \u0442\u0430\u043a\u0436\u0435 \u0444\u0438\u043a\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u0431\u043c\u0435\u043d\u043d\u044b\u0439 \u043a\u0443\u0440\u0441 \u0434\u0432\u0443\u0445 \u0438\u043b\u0438 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0432\u0430\u043b\u044e\u0442, \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u0430\u043d\u043d\u044b\u0439 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u0438\u0445 \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0431\u0435\u0437\u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043a \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u043c \u043d\u0430\u0431\u043e\u0440\u0430\u043c \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u0438 \u0443\u0441\u043b\u0443\u0433.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "La parit\u00e9 de pouvoir d'achat (PPA) (on parle de valeurs mesur\u00e9es en parit\u00e9 de pouvoir d'achat) est une m\u00e9thode utilis\u00e9e en \u00e9conomie pour \u00e9tablir une comparaison entre pays du pouvoir d'achat des devises nationales, ce qu\u2019une simple utilisation des taux de change ne permet pas de faire.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2014) \u062a\u0639\u0627\u062f\u0644 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0634\u0631\u0627\u0626\u064a\u0629 ( Purchasing power parity ) \u0646\u0638\u0631\u064a\u0629 \u0648\u0636\u0639\u0647\u0627 \u063a\u0648\u0633\u062a\u0627\u0641 \u0643\u0627\u0633\u0644 \u0639\u0627\u0645 1920. \u0648\u0647\u064a \u0637\u0631\u064a\u0642\u0629 \u062a\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u0627\u0644\u0645\u062f\u0649 \u0627\u0644\u0637\u0648\u064a\u0644 \u0644\u0642\u064a\u0627\u0633 \u0627\u0644\u062a\u0648\u0627\u0632\u0646 \u0628\u0633\u0639\u0631 \u0627\u0644\u0635\u0631\u0641 \u0628\u064a\u0646 \u0639\u0645\u0644\u062a\u064a\u0646 \u0648\u062a\u062d\u0642\u064a\u0642 \u0627\u0644\u0645\u0633\u0627\u0648\u0627\u0629 \u0628\u064a\u0646 \u0627\u0644\u0639\u0645\u0644\u0627\u062a. \u062a\u0639\u0627\u062f\u0644 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0634\u0631\u0627\u0626\u064a\u0629 \u0633\u0639\u0631 \u0627\u0644\u0635\u0631\u0641 \u064a\u0633\u0627\u0648\u064a \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0634\u0631\u0627\u0626\u064a\u0629 \u0644\u0645\u062e\u062a\u0644\u0641 \u0627\u0644\u0639\u0645\u0644\u0627\u062a \u0641\u064a \u0628\u0644\u062f\u0627\u0646\u0647\u0627 \u0627\u0644\u0627\u0635\u0644\u064a\u0629 \u0644\u0633\u0644\u0639\u0629 \u0645\u0639\u064a\u0646\u0629 \u0645\u0646 \u0627\u0644\u0633\u0644\u0639. \u0647\u0630\u0647 \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0635\u0631\u0641 \u0648\u0643\u062b\u064a\u0631\u0627 \u0645\u0627 \u062a\u0633\u062a\u062e\u062f\u0645 \u0644\u0645\u0642\u0627\u0631\u0646\u0629 \u0645\u0633\u062a\u0648\u064a\u0627\u062a \u0627\u0644\u0645\u0639\u064a\u0634\u0629 \u0645\u0646 \u0628\u0644\u062f\u064a\u0646 \u0623\u0648 \u0623\u0643\u062b\u0631. \u0627\u0644\u062a\u0639\u062f\u064a\u0644\u0627\u062a \u0627\u0644\u062a\u064a \u064a\u0631\u0627\u062f \u0644\u0647\u0627 \u0645\u0646 \u0623\u062c\u0644 \u0631\u0633\u0645 \u0635\u0648\u0631\u0629 \u0623\u0641\u0636\u0644 \u0645\u0646 \u0645\u0642\u0627\u0631\u0646\u0629 \u0627\u0644\u0645\u062d\u0644\u0649 \u0627\u0644\u0625\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a (\u0627\u0644\u0646\u0627\u062a\u062c \u0627\u0644\u0645\u062d\u0644\u064a \u0627\u0644\u0625\u062c\u0645\u0627\u0644\u064a) \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0635\u0631\u0641 \u0641\u064a \u0627\u0644\u0633\u0648\u0642. \u0648\u0647\u0630\u0627 \u0627\u0644\u0646\u0648\u0639 \u0645\u0646 \u0627\u0644\u062a\u0643\u064a\u0641 \u0625\u0644\u0649 \u0623\u0646 \u0633\u0639\u0631 \u0627\u0644\u0635\u0631\u0641 \u0644\u0644\u062c\u062f\u0644 \u0628\u0633\u0628\u0628 \u0635\u0639\u0648\u0628\u0629 \u0625\u064a\u062c\u0627\u062f \u0645\u0642\u0627\u0631\u0646\u0629 \u0633\u0644\u0627\u0644 \u0627\u0644\u0633\u0644\u0639 \u0644\u0645\u0642\u0627\u0631\u0646\u0629 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0634\u0631\u0627\u0626\u064a\u0629 \u0639\u0628\u0631 \u0627\u0644\u0628\u0644\u062f\u0627\u0646. \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "La paridad del poder adquisitivo (PPA) es la suma final de cantidades de bienes y servicios producidos en un pa\u00eds, al valor monetario de un pa\u00eds de referencia. Est\u00e1 basado en una idea desarrollada por primera vez por miembros de la escuela monetarista de la Universidad de Salamanca en el siglo XVI, y fue un sistema de medici\u00f3n empezado a utilizar por el Fondo Monetario Internacional a principios de los a\u00f1os noventa, aunque no el \u00fanico: el PBI Nominal per c\u00e1pita es la medici\u00f3n m\u00e1s utilizada para darse una idea aproximada del tama\u00f1o de una econom\u00eda. Cuando se quiere comparar el producto interno bruto de diferentes pa\u00edses es necesario homogeneizar la informaci\u00f3n, puesto que cada pa\u00eds mide su producto en su moneda local; para ello se ha de traducir su PIB a una moneda com\u00fan, a trav\u00e9s de los tipos de cambio. La paridad del poder adquisitivo es una de las medidas m\u00e1s adecuadas para comparar la producci\u00f3n de bienes y servicios, con ventajas sobre el producto interno bruto nominal per c\u00e1pita, puesto que toma en cuenta las variaciones de precios. Este indicador elimina la ilusi\u00f3n monetaria ligada a la variaci\u00f3n de los tipos de cambio, de tal manera que una apreciaci\u00f3n o depreciaci\u00f3n de una moneda no cambiar\u00e1 la paridad del poder adquisitivo de un pa\u00eds, puesto que los habitantes de ese pa\u00eds reciben sus salarios y hacen sus compras en la misma moneda. Lo que s\u00ed afectar\u00e1 al PBI PPP es la cantidad de los bienes y servicios producidos en el mismo, debido a variaciones en el tipo de cambio, cuando se trate de importaciones y exportaciones. Usualmente, se calcula una canasta de precios que son asignados a los distintos bienes y servicios tomando a un pa\u00eds como referencia para los mismos. El problema surge cuando hay bienes y servicios que divergen de los existentes en el pa\u00eds de referencia, ya sea por inexistencia, calidad o disponibilidad. Es por ello que, por lo general, en las listas de pa\u00edses por PBI (Nominal y PPP) el valor de Estados Unidos es id\u00e9ntico.",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744654024,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 64489,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/width": [
+            {
+                "type": "literal",
+                "value": 400,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/direction": [
+            {
+                "type": "literal",
+                "value": "vertical",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Brong-Ahafo_Region": {
+        "http://dbpedia.org/property/demographicsType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Central_Region_(Ghana)": {
+        "http://dbpedia.org/property/demographicsType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Eastern_Region_(Ghana)": {
+        "http://dbpedia.org/property/demographicsType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Northern_Region_(Ghana)": {
+        "http://dbpedia.org/property/demographicsType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Volta_Region": {
+        "http://dbpedia.org/property/demographicsType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Purchasing_price_parity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Western_Region_(Ghana)": {
+        "http://dbpedia.org/property/demographicsType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Purchasing_power_parity": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Purchasing_power_parity_(PPP)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Upper_East_Region": {
+        "http://dbpedia.org/property/demographicsType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Purchasing_Power_Parity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Greater_Accra_Region": {
+        "http://dbpedia.org/property/demographicsType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Upper_West_Region": {
+        "http://dbpedia.org/property/demographicsType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ashanti_Region": {
+        "http://dbpedia.org/property/demographicsType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GDP_at_purchasing_power_parity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Purchasing-power_parity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gustav_Cassel": {
+        "http://dbpedia.org/property/contributions": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Parity": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/PPP": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Discussion_and_clarification_of_PPP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Purchasing_Power_Standard": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Purchasing_parity_power": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Absolute_Purchasing_power_parity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Purchasing_power_parity"
+            }
+        ]
+    }
+}

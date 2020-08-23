@@ -1,0 +1,28 @@
+{
+    "@text": "Which {political party} is {Nicolas Sarkozy} {member of}?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Political_party",
+            "@support": "12621",
+            "@types": "",
+            "@surfaceForm": "political party",
+            "@offset": "7",
+            "@similarityScore": "0.9964767115261406",
+            "@percentageOfSecondRank": "0.002837642944147362"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Nicolas_Sarkozy",
+            "@support": "2176",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Nicolas Sarkozy",
+            "@offset": "28",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

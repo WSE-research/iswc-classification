@@ -1,0 +1,28 @@
+{
+    "@text": "What is the river one of whose left tributary's native name is Arabic?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Tributary",
+            "@support": "17917",
+            "@types": "",
+            "@surfaceForm": "tributary",
+            "@offset": "36",
+            "@similarityScore": "0.9999966910372143",
+            "@percentageOfSecondRank": "1.8728896494941996E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Arabic",
+            "@support": "34232",
+            "@types": "Wikidata:Q34770,Wikidata:Q315,Schema:Language,DBpedia:Language",
+            "@surfaceForm": "Arabic",
+            "@offset": "63",
+            "@similarityScore": "0.9975377084526597",
+            "@percentageOfSecondRank": "0.001309765060354728"
+        }
+    ]
+}

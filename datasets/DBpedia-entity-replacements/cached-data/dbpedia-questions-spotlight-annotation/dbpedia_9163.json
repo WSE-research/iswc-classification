@@ -1,0 +1,28 @@
+{
+    "@text": "Which country contained the library of the Roman Empire?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Library",
+            "@support": "12396",
+            "@types": "",
+            "@surfaceForm": "library",
+            "@offset": "28",
+            "@similarityScore": "0.9969841290725039",
+            "@percentageOfSecondRank": "0.001243518696582409"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Roman_Empire",
+            "@support": "30520",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Empire",
+            "@offset": "49",
+            "@similarityScore": "0.9053328033519523",
+            "@percentageOfSecondRank": "0.056199464799179394"
+        }
+    ]
+}

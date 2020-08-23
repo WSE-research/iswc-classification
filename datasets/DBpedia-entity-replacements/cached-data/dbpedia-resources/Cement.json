@@ -1,0 +1,1567 @@
+{
+    "http://dbpedia.org/resource/Lafarge_(company)": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dangote_Cement": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cement": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/SoccerPlayer"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Cement",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Zement",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Cement",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Cement (bouwmateriaal)",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0426\u0435\u043c\u0435\u043d\u0442",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c34\u6ce5",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Ciment",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Cimento",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u30bb\u30e1\u30f3\u30c8",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Cemento",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Cemento",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0623\u0633\u0645\u0646\u062a",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Cement (Frans: ciment, ontleend aan het Latijnse caementum, breuksteen of bouwsteen, dat refereert aan het verbinden (metselen) van gehouwen steen) is een snelhardend bindmiddel dat gebruikt wordt voor bouwwerken. Cement, dat voornamelijk uit calciumwaterstofsilicaat bestaat, is een fijngemalen materiaal dat na mengen met water een plastische massa vormt, die zowel onder water als in de buitenlucht verhardt. Met cement kunnen daartoe geschikte materialen aaneengekit worden tot een, ook in water, stabiele massa. Cement wordt voornamelijk gebruikt als grondstof voor beton en metselspecie.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c34\u6ce5\uff0c\u975e\u6b63\u5f0f\u540d\u4fd7\u7a31\u6d0b\u7070\u3001\u7d05\u6bdb\u6ce5\u3001\u82f1\u6ce5\uff0c\u7528\u65bc\u71df\u5efa\u4e0a\u7684\u81a0\u7d50\u6027\u6750\u6599\u7684\u7e3d\u7a31\uff0c\u4f9d\u7167\u81a0\u7d50\u6027\u8cea\u7684\u4e0d\u540c\uff0c\u53ef\u5206\u70ba\u6c34\u786c\u6027\u6c34\u6ce5\u8207\u975e\u6c34\u786c\u6027\u6c34\u6ce5\uff0c\u8bde\u751f\u4e8e1824\u5e74\uff0c\u662f\u5f53\u4eca\u4e16\u754c\u4e0a\u6700\u91cd\u8981\u7684\u5efa\u7b51\u6750\u6599\u4e4b\u4e00\u3002\u820a\u6642\u4ee3\u4e2d\u570b\u4eba\u7a31\u6c34\u6ce5\u4f5c\u7d05\u6bdb\u6ce5\u662f\u56e0\u70ba\u6c34\u6ce5\u5f9e\u5916\u570b\u5f15\u5165\uff0c\u800c\u5916\u570b\u4eba\u88ab\u7a31\u70ba\u7d05\u6bdb\u3002 \u6c34\u6ce5\u7684\u79cd\u7c7b\u7e41\u591a\uff0c\u6309\u5176\u77ff\u7269\u7ec4\u6210\u5206\u4e3a\u7845\u9178\u76d0\u6c34\u6ce5\u3001\u94dd\u9178\u76d0\u6c34\u6ce5\u3001\u786b\u94dd\u9178\u76d0\u6c34\u6ce5\u3001\u6c1f\u94dd\u9178\u76d0\u6c34\u6ce5\u3001\u94c1\u94dd\u9178\u76d0\u6c34\u6ce5\u4ee5\u53ca\u5c11\u719f\u6599\u6216\u65e0\u719f\u6599\u6c34\u6ce5\u7b49\u3002\u800c\u6309\u5176\u7528\u9014\u548c\u6027\u80fd\u53c8\u5206\u4e3a\u901a\u7528\u6c34\u6ce5\u3001\u4e13\u7528\u6c34\u6ce5\u548c\u7279\u79cd\u6c34\u6ce5\u4e09\u5927\u7c7b\u3002 \u5728\u6bcf\u4e00\u54c1\u79cd\u7684\u6c34\u6ce5\u4e2d\uff0c\u53c8\u6839\u636e\u5176\u80f6\u7ed3\u5f3a\u5ea6\u7684\u5927\u5c0f\uff0c\u800c\u5206\u4e3a\u82e5\u5e72\u5f3a\u5ea6\u7b49\u7ea7\u3002\u4e0d\u540c\u7684\u6c34\u6ce5\u54c1\u79cd\u53ca\u5f3a\u5ea6\u7b49\u7ea7\uff0c\u5176\u6027\u80fd\u4e5f\u6709\u8f83\u5927\u5dee\u5f02\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "O cimento (derivada do latim c\u00e6mentu) \u00e9 um material cer\u00e2mico que, em contato com a \u00e1gua, produz rea\u00e7\u00e3o exot\u00e9rmica de cristaliza\u00e7\u00e3o de produtos hidratados, ganhando assim resist\u00eancia mec\u00e2nica. \u00c9 o principal material de constru\u00e7\u00e3o usado como aglomerante. \u00c9 uma das principais commodities mundiais, servindo at\u00e9 mesmo como indicador econ\u00f4mico.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0426\u0435\u043c\u0435\u043d\u0442 (\u043b\u0430\u0442. caementum \u2014 \u00ab\u0449\u0435\u0431\u0435\u043d\u044c, \u0431\u0438\u0442\u044b\u0439 \u043a\u0430\u043c\u0435\u043d\u044c\u00bb) \u2014 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043d\u0435\u043e\u0440\u0433\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0432\u044f\u0436\u0443\u0449\u0435\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u043e. \u041e\u0434\u0438\u043d \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0445 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432.\u041f\u0440\u0438 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0438 \u0441 \u0432\u043e\u0434\u043e\u0439, \u0432\u043e\u0434\u043d\u044b\u043c\u0438 \u0440\u0430\u0441\u0442\u0432\u043e\u0440\u0430\u043c\u0438 \u0441\u043e\u043b\u0435\u0439 \u0438 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u044f\u043c\u0438 \u043e\u0431\u0440\u0430\u0437\u0443\u0435\u0442 \u043f\u043b\u0430\u0441\u0442\u0438\u0447\u043d\u0443\u044e \u043c\u0430\u0441\u0441\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0437\u0430\u0442\u0435\u043c \u0437\u0430\u0442\u0432\u0435\u0440\u0434\u0435\u0432\u0430\u0435\u0442 \u0438 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u043a\u0430\u043c\u043d\u0435\u0432\u0438\u0434\u043d\u043e\u0435 \u0442\u0435\u043b\u043e. \u0412 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0431\u0435\u0442\u043e\u043d\u0430 \u0438 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0440\u0430\u0441\u0442\u0432\u043e\u0440\u043e\u0432.\u0426\u0435\u043c\u0435\u043d\u0442 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0433\u0438\u0434\u0440\u0430\u0432\u043b\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0432\u044f\u0436\u0443\u0449\u0438\u043c \u0438 \u043e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e \u043d\u0430\u0431\u0438\u0440\u0430\u0442\u044c \u043f\u0440\u043e\u0447\u043d\u043e\u0441\u0442\u044c \u0432\u043e \u0432\u043b\u0430\u0436\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445, \u0447\u0435\u043c \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0438\u0430\u043b\u044c\u043d\u043e \u043e\u0442\u043b\u0438\u0447\u0430\u0435\u0442\u0441\u044f \u043e\u0442 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0434\u0440\u0443\u0433\u0438\u0445 \u043c\u0438\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u0432\u044f\u0436\u0443\u0449\u0438\u0445 \u2014 (\u0433\u0438\u043f\u0441\u0430, \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u043e\u0439 \u0438\u0437\u0432\u0435\u0441\u0442\u0438), \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0442\u0432\u0435\u0440\u0434\u0435\u044e\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430 \u0432\u043e\u0437\u0434\u0443\u0445\u0435.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "El cemento es un conglomerante formado a partir de una mezcla de caliza y arcilla calcinadas y posteriormente molidas, que tiene la propiedad de endurecerse al contacto con el agua. El producto resultante de la molienda de estas rocas es llamada cl\u00ednker y se convierte en cemento cuando se le agrega yeso para que adquiera la propiedad de fraguar al a\u00f1adirle agua y endurecerse posteriormente. Mezclado con agregados p\u00e9treos (grava y arena) y agua, crea una mezcla uniforme, maleable y pl\u00e1stica que fragua y se endurece, adquiriendo consistencia p\u00e9trea, denominada hormig\u00f3n (en Espa\u00f1a, parte de Suram\u00e9rica y el Caribe hispano) o concreto (en M\u00e9xico, Centroam\u00e9rica y parte de Suram\u00e9rica). Su uso est\u00e1 muy generalizado en construcci\u00f3n e ingenier\u00eda civil.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Le ciment d\u00e9signe un liant hydraulique (qui durcit sous l'action de l'eau), aujourd'hui le plus souvent employ\u00e9 dans la confection du b\u00e9ton arm\u00e9, ou bien de mortier. C'est notamment le ciment Portland et le ciment m\u00e9tallurgique ainsi que leur variantes. Le ciment est une invention du XIXe si\u00e8cle[r\u00e9f. n\u00e9cessaire]. Il est compos\u00e9 de calcaire et d'argile qui, m\u00e9lang\u00e9 avec de l'eau, fait prise et permet d\u2019agglom\u00e9rer entre eux des sables et des granulats et ainsi constituer de v\u00e9ritables roches artificielles, les b\u00e9tons et les mortiers.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0623\u0633\u0645\u0646\u062a \u0623\u0648 \u0627\u0644\u0625\u0633\u0645\u0646\u062a \u0647\u0648 \u0627\u0644\u0645\u0627\u062f\u0629 \u0627\u0644\u0631\u0627\u0628\u0637\u0629 \u0627\u0644\u0646\u0627\u0639\u0645\u0629 \u0627\u0644\u062a\u064a \u062a\u062a\u0635\u0644\u0628 \u0648\u062a\u0642\u0633\u0649 \u0641\u062a\u0645\u0644\u0643 \u0628\u0630\u0644\u0643 \u062e\u0648\u0627\u0635\u0627 \u062a\u0645\u0627\u0633\u0643\u064a\u0629 \u0648\u062a\u0644\u0627\u0635\u0642\u064a\u0629 \u0628\u0648\u062c\u0648\u062f \u0627\u0644\u0645\u0627\u0621 \u0645\u0645\u0627 \u064a\u062c\u0639\u0644\u0647 \u0642\u0627\u062f\u0631\u0627 \u0639\u0644\u0649 \u0631\u0628\u0637 \u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u062e\u0631\u0633\u0627\u0646\u0629 \u0628\u0639\u0636\u0647\u0627 \u0628\u0628\u0639\u0636. \u0648\u0623\u0647\u0645 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0644\u0644\u0623\u0633\u0645\u0646\u062a \u0647\u0648 \u0627\u0644\u0645\u0644\u0627\u0637 \u0648\u0627\u0644\u062e\u0631\u0633\u0627\u0646\u0629 \u062d\u064a\u062b \u064a\u0631\u0628\u0637 \u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a\u0629 \u0623\u0648 \u0627\u0644\u0637\u0628\u064a\u0639\u064a\u0629 \u0644\u062a\u0634\u0643\u0644 \u0645\u0648\u0627\u062f \u0628\u0646\u0627\u0621 \u0642\u0648\u064a\u0629 \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u062a\u0623\u062b\u064a\u0631\u0627\u062a \u0627\u0644\u0628\u064a\u0626\u064a\u0629 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u064a\u062c\u0628 \u0639\u062f\u0645 \u0627\u0644\u062e\u0644\u0637 \u0628\u064a\u0646 \u0627\u0644\u062e\u0631\u0633\u0627\u0646\u0629 \u0648\u0627\u0644\u0623\u0633\u0645\u0646\u062a\u060c \u0641\u0627\u0644\u0623\u0633\u0645\u0646\u062a \u064a\u0634\u064a\u0631 \u0625\u0644\u0649 \u0627\u0644\u0645\u0633\u062d\u0648\u0642 \u0627\u0644\u062c\u0627\u0641 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u0631\u0628\u0637 \u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0643\u0644\u064a\u0629 \u0644\u0644\u062e\u0631\u0633\u0627\u0646\u0629. \u0648\u0644\u0644\u0623\u0633\u0645\u0646\u062a \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u0627\u0644\u0628\u0646\u0627\u0621 \u0646\u0648\u0639\u064a\u0646 \u0647\u0645\u0627 \u0627\u0644\u0623\u0633\u0645\u0646\u062a \u0627\u0644\u0645\u0627\u0626\u064a \u0648\u0627\u0644\u0623\u0633\u0645\u0646\u062a \u063a\u064a\u0631 \u0627\u0644\u0645\u0627\u0626\u064a.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Cement \u2013 hydrauliczne spoiwo mineralne, otrzymywane w cementowniach z surowc\u00f3w mineralnych (margiel lub wapie\u0144 i glina) wypalonych na klinkier w piecu cementowym, a nast\u0119pnie zmielenie otrzymanego spieku z gipsem, spe\u0142niaj\u0105cym rol\u0119 regulatora czasu wi\u0105zania. Stosowany jest do przygotowywania zapraw cementowych, cementowo-wapiennych i beton\u00f3w. Wykorzystywany jest do \u0142\u0105czenia materia\u0142\u00f3w budowlanych. Ze wzgl\u0119du na sk\u0142ad i w\u0142a\u015bciwo\u015bci rozr\u00f3\u017cnia si\u0119 dwie podstawowe grupy: cementy powszechnego u\u017cytku, oraz cementy specjalne. Wymagania i w\u0142a\u015bciwo\u015bci dla obu grup cement\u00f3w w Polsce okre\u015blaj\u0105 normy:",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u30bb\u30e1\u30f3\u30c8 (Cement) \u3068\u306f\u3001\u4e00\u822c\u7684\u306b\u306f\u3001\u6c34\u3084\u6db2\u5264\u306a\u3069\u306b\u3088\u308a\u6c34\u548c\u3084\u91cd\u5408\u3057\u786c\u5316\u3059\u308b\u7c89\u4f53\u3092\u6307\u3059\u3002\u5e83\u7fa9\u306b\u306f\u3001\u30a2\u30b9\u30d5\u30a1\u30eb\u30c8\u3001\u81a0\u3001\u6a39\u8102\u3001\u77f3\u818f\u3001\u77f3\u7070\u7b49\u3084\u3001\u3053\u308c\u3089\u3092\u7d44\u307f\u5408\u308f\u305b\u305f\u63a5\u7740\u5264\u5168\u822c\u3092\u6307\u3059\u3002 \u672c\u9805\u3067\u306f\u3001\u30e2\u30eb\u30bf\u30eb\u3084\u30b3\u30f3\u30af\u30ea\u30fc\u30c8\u3068\u3057\u3066\u4f7f\u7528\u3055\u308c\u308b\u3001\u30dd\u30eb\u30c8\u30e9\u30f3\u30c9\u30bb\u30e1\u30f3\u30c8\u3084\u6df7\u5408\u30bb\u30e1\u30f3\u30c8\u306a\u3069\u306e\u6c34\u786c\u6027\u30bb\u30e1\u30f3\u30c8\uff08\u72ed\u7fa9\u306e\u300c\u30bb\u30e1\u30f3\u30c8\u300d\uff09\u306b\u3064\u3044\u3066\u8a18\u8ff0\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "In edilizia con il termine cemento, o pi\u00f9 propriamente cemento idraulico, si intende una variet\u00e0 di materiali da costruzione, noti come leganti idraulici, che miscelati con acqua sviluppano propriet\u00e0 adesive (propriet\u00e0 idrauliche). La pasta cementizia o boiacca, cemento pi\u00f9 acqua, viene impiegata come legante in miscela con materiali inerti come sabbia, ghiaia o pietrisco.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Zement (lateinisch caementum \u201eBruchstein\u201c, \u201eBaustein\u201c) ist ein anorganischer und nichtmetallischer Baustoff. Er ist feingemahlen und z\u00e4hlt daher zu den Sch\u00fcttg\u00fctern. Aufgrund seiner Eigenschaften wird er in Zementwerken als Baustoff hergestellt und zum Anfertigen von Bauteilen und Bauwerken verwendet. Innerhalb der Baustoffe z\u00e4hlt Zement zu den Bindemitteln. Er erh\u00e4rtet durch die chemische Reaktion mit Wasser (siehe Hydratation) und bleibt danach fest. Zur Herstellung von Baustoffen wie M\u00f6rtel und Beton werden dem Zement sogenanntes Zugabewasser (fr\u00fcher Anmachwasser) und andere Stoffe als Zuschlagstoffe beigemengt. Aufgrund der hohen Festigkeit und Dauerhaftigkeit von Beton ist Zement weltweit eines der wichtigsten Bindemittel. Mit einer Weltproduktion von 2,8 Milliarden Tonnen ist Zement ",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "A cement is a binder, a substance used in construction that sets and hardens and can bind other materials together. The most important types of cement are used as a component in the production of mortar in masonry, and of concrete, which is a combination of cement and an aggregate to form a strong building material. Cements used in construction can be characterized as being either hydraulic or non-hydraulic, depending upon the ability of the cement to set in the presence of water (see hydraulic and non-hydraulic lime plaster).",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Mortar_(masonry)"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Concrete"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/List_of_countries_by_cement_production"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q45190"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Ciment"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Cemento"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q45190"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Cimento"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30bb\u30e1\u30f3\u30c8"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Semen"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a4\u03c3\u03b9\u03bc\u03ad\u03bd\u03c4\u03bf"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc2dc\uba58\ud2b8"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Zementu"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Zement"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4067574-9"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Cemento"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Cement_(bouwmateriaal)"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Cement"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01ynw"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Cement"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Building_materials"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Concrete"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/USMC-110806-M-IX060-148.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Cement"
+            }
+        ],
+        "http://dbpedia.org/property/reason": [
+            {
+                "type": "literal",
+                "value": "resistance to what?",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/author": [
+            {
+                "type": "literal",
+                "value": "Marcus Vitruvius Pollio",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Cement?oldid=744987836"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.nytimes.com/2007/10/26/business/worldbusiness/26cement.html"
+            }
+        ],
+        "http://dbpedia.org/property/text": [
+            {
+                "type": "literal",
+                "value": "There is... a kind of powder which from natural causes produces astonishing results. It is found in the neighborhood of Baiae and in the country belonging to the towns round about Mt. Vesuvius. This substance when mixed with lime and rubble not only lends strength to buildings of other kinds, but even when piers of it are constructed in the sea, they set hard under water.",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "In edilizia con il termine cemento, o pi\u00f9 propriamente cemento idraulico, si intende una variet\u00e0 di materiali da costruzione, noti come leganti idraulici, che miscelati con acqua sviluppano propriet\u00e0 adesive (propriet\u00e0 idrauliche). La pasta cementizia o boiacca, cemento pi\u00f9 acqua, viene impiegata come legante in miscela con materiali inerti come sabbia, ghiaia o pietrisco. \n*  nel caso in cui la pasta di cemento si misceli con un aggregato fino (sabbia) si ha la malta di cemento; \n*  nel caso in cui alla pasta di cemento si uniscano aggregati di diverse dimensioni (sabbia, ghiaietto e ghiaia), secondo una determinata curva granulometrica, si ottiene il calcestruzzo; \n*  nel caso in cui il calcestruzzo venga accoppiato con un'armatura costituita da tondini di acciaio, opportunamente posizionati, si ha il calcestruzzo armato (indicato erroneamente con il nome di cemento armato). Con la normativa del 1971 prende il nome di conglomerato cementizio armato. La Germania era nel 2014 il primo produttore in Europa (il secondo era l'Italia).Si stima che nel 2009 si siano prodotte 36 milioni di tonnellate di cemento, pari a circa 601 kg per abitante. La produzione mondiale del 2008 \u00e8 stata di 2,83 miliardi di tonnellate, ossia circa 450 kg pro capite",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0426\u0435\u043c\u0435\u043d\u0442 (\u043b\u0430\u0442. caementum \u2014 \u00ab\u0449\u0435\u0431\u0435\u043d\u044c, \u0431\u0438\u0442\u044b\u0439 \u043a\u0430\u043c\u0435\u043d\u044c\u00bb) \u2014 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043d\u0435\u043e\u0440\u0433\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0432\u044f\u0436\u0443\u0449\u0435\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u043e. \u041e\u0434\u0438\u043d \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0445 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432.\u041f\u0440\u0438 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0438 \u0441 \u0432\u043e\u0434\u043e\u0439, \u0432\u043e\u0434\u043d\u044b\u043c\u0438 \u0440\u0430\u0441\u0442\u0432\u043e\u0440\u0430\u043c\u0438 \u0441\u043e\u043b\u0435\u0439 \u0438 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u044f\u043c\u0438 \u043e\u0431\u0440\u0430\u0437\u0443\u0435\u0442 \u043f\u043b\u0430\u0441\u0442\u0438\u0447\u043d\u0443\u044e \u043c\u0430\u0441\u0441\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0437\u0430\u0442\u0435\u043c \u0437\u0430\u0442\u0432\u0435\u0440\u0434\u0435\u0432\u0430\u0435\u0442 \u0438 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u043a\u0430\u043c\u043d\u0435\u0432\u0438\u0434\u043d\u043e\u0435 \u0442\u0435\u043b\u043e. \u0412 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0431\u0435\u0442\u043e\u043d\u0430 \u0438 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0440\u0430\u0441\u0442\u0432\u043e\u0440\u043e\u0432.\u0426\u0435\u043c\u0435\u043d\u0442 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0433\u0438\u0434\u0440\u0430\u0432\u043b\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0432\u044f\u0436\u0443\u0449\u0438\u043c \u0438 \u043e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e \u043d\u0430\u0431\u0438\u0440\u0430\u0442\u044c \u043f\u0440\u043e\u0447\u043d\u043e\u0441\u0442\u044c \u0432\u043e \u0432\u043b\u0430\u0436\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445, \u0447\u0435\u043c \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0438\u0430\u043b\u044c\u043d\u043e \u043e\u0442\u043b\u0438\u0447\u0430\u0435\u0442\u0441\u044f \u043e\u0442 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0434\u0440\u0443\u0433\u0438\u0445 \u043c\u0438\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u0432\u044f\u0436\u0443\u0449\u0438\u0445 \u2014 (\u0433\u0438\u043f\u0441\u0430, \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u043e\u0439 \u0438\u0437\u0432\u0435\u0441\u0442\u0438), \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0442\u0432\u0435\u0440\u0434\u0435\u044e\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430 \u0432\u043e\u0437\u0434\u0443\u0445\u0435. \u041c\u0430\u0440\u043a\u0430 \u0446\u0435\u043c\u0435\u043d\u0442\u0430 \u2014 \u0443\u0441\u043b\u043e\u0432\u043d\u0430\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430, \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442, \u0447\u0442\u043e \u043f\u0440\u043e\u0447\u043d\u043e\u0441\u0442\u044c \u043f\u0440\u0438 \u0441\u0436\u0430\u0442\u0438\u0438, \u043d\u0435 \u043d\u0438\u0436\u0435 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u043e\u0439 \u043c\u0430\u0440\u043a\u0438 (200, 300, 400, 500, 600) \u0426\u0435\u043c\u0435\u043d\u0442 \u0434\u043b\u044f \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0440\u0430\u0441\u0442\u0432\u043e\u0440\u043e\u0432 \u2014 \u043c\u0430\u043b\u043e\u043a\u043b\u0438\u043d\u043a\u0435\u0440\u043d\u044b\u0439 \u043a\u043e\u043c\u043f\u043e\u0437\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0446\u0435\u043c\u0435\u043d\u0442, \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044b\u0439 \u0434\u043b\u044f \u043a\u043b\u0430\u0434\u043e\u0447\u043d\u044b\u0445 \u0438 \u0448\u0442\u0443\u043a\u0430\u0442\u0443\u0440\u043d\u044b\u0445 \u0440\u0430\u0441\u0442\u0432\u043e\u0440\u043e\u0432. \u0418\u0437\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0442 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u044b\u043c \u043f\u043e\u043c\u043e\u043b\u043e\u043c \u043f\u043e\u0440\u0442\u043b\u0430\u043d\u0434\u0446\u0435\u043c\u0435\u043d\u0442\u043d\u043e\u0433\u043e \u043a\u043b\u0438\u043d\u043a\u0435\u0440\u0430, \u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0445 \u043c\u0438\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u043e\u0431\u0430\u0432\u043e\u043a \u0438 \u043d\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u0435\u0439.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Cement (Frans: ciment, ontleend aan het Latijnse caementum, breuksteen of bouwsteen, dat refereert aan het verbinden (metselen) van gehouwen steen) is een snelhardend bindmiddel dat gebruikt wordt voor bouwwerken. Cement, dat voornamelijk uit calciumwaterstofsilicaat bestaat, is een fijngemalen materiaal dat na mengen met water een plastische massa vormt, die zowel onder water als in de buitenlucht verhardt. Met cement kunnen daartoe geschikte materialen aaneengekit worden tot een, ook in water, stabiele massa. Cement wordt voornamelijk gebruikt als grondstof voor beton en metselspecie.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Cement \u2013 hydrauliczne spoiwo mineralne, otrzymywane w cementowniach z surowc\u00f3w mineralnych (margiel lub wapie\u0144 i glina) wypalonych na klinkier w piecu cementowym, a nast\u0119pnie zmielenie otrzymanego spieku z gipsem, spe\u0142niaj\u0105cym rol\u0119 regulatora czasu wi\u0105zania. Stosowany jest do przygotowywania zapraw cementowych, cementowo-wapiennych i beton\u00f3w. Wykorzystywany jest do \u0142\u0105czenia materia\u0142\u00f3w budowlanych. Ze wzgl\u0119du na sk\u0142ad i w\u0142a\u015bciwo\u015bci rozr\u00f3\u017cnia si\u0119 dwie podstawowe grupy: cementy powszechnego u\u017cytku, oraz cementy specjalne. Wymagania i w\u0142a\u015bciwo\u015bci dla obu grup cement\u00f3w w Polsce okre\u015blaj\u0105 normy: \n*  PN-EN 197-1:2002 \u201eCement \u2013 Cz\u0119\u015b\u0107 1: Sk\u0142ad, wymagania i kryteria zgodno\u015bci dotycz\u0105ce cement\u00f3w powszechnego u\u017cytku\u201d \n*  PN-B-19707:2003 Cement. Cement specjalny. Sk\u0142ad, wymagania i kryteria zgodno\u015bci",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "A cement is a binder, a substance used in construction that sets and hardens and can bind other materials together. The most important types of cement are used as a component in the production of mortar in masonry, and of concrete, which is a combination of cement and an aggregate to form a strong building material. Cements used in construction can be characterized as being either hydraulic or non-hydraulic, depending upon the ability of the cement to set in the presence of water (see hydraulic and non-hydraulic lime plaster). Non-hydraulic cement will not set in wet conditions or underwater; rather, it sets as it dries and reacts with carbon dioxide in the air. It is resistant to attack by chemicals after setting. Hydraulic cements (e.g., Portland cement) set and become adhesive due to a chemical reaction between the dry ingredients and water. The chemical reaction results in mineral hydrates that are not very water-soluble and so are quite durable in water and safe from chemical attack. This allows setting in wet condition or underwater and further protects the hardened material from chemical attack. The chemical process for hydraulic cement found by ancient Romans used volcanic ash (activated aluminium silicates) with lime (calcium oxide). The word \"cement\" can be traced back to the Roman term opus caementicium, used to describe masonry resembling modern concrete that was made from crushed rock with burnt lime as binder. The volcanic ash and pulverized brick supplements that were added to the burnt lime, to obtain a hydraulic binder, were later referred to as cementum, cimentum, c\u00e4ment, and cement.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "O cimento (derivada do latim c\u00e6mentu) \u00e9 um material cer\u00e2mico que, em contato com a \u00e1gua, produz rea\u00e7\u00e3o exot\u00e9rmica de cristaliza\u00e7\u00e3o de produtos hidratados, ganhando assim resist\u00eancia mec\u00e2nica. \u00c9 o principal material de constru\u00e7\u00e3o usado como aglomerante. \u00c9 uma das principais commodities mundiais, servindo at\u00e9 mesmo como indicador econ\u00f4mico.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c34\u6ce5\uff0c\u975e\u6b63\u5f0f\u540d\u4fd7\u7a31\u6d0b\u7070\u3001\u7d05\u6bdb\u6ce5\u3001\u82f1\u6ce5\uff0c\u7528\u65bc\u71df\u5efa\u4e0a\u7684\u81a0\u7d50\u6027\u6750\u6599\u7684\u7e3d\u7a31\uff0c\u4f9d\u7167\u81a0\u7d50\u6027\u8cea\u7684\u4e0d\u540c\uff0c\u53ef\u5206\u70ba\u6c34\u786c\u6027\u6c34\u6ce5\u8207\u975e\u6c34\u786c\u6027\u6c34\u6ce5\uff0c\u8bde\u751f\u4e8e1824\u5e74\uff0c\u662f\u5f53\u4eca\u4e16\u754c\u4e0a\u6700\u91cd\u8981\u7684\u5efa\u7b51\u6750\u6599\u4e4b\u4e00\u3002\u820a\u6642\u4ee3\u4e2d\u570b\u4eba\u7a31\u6c34\u6ce5\u4f5c\u7d05\u6bdb\u6ce5\u662f\u56e0\u70ba\u6c34\u6ce5\u5f9e\u5916\u570b\u5f15\u5165\uff0c\u800c\u5916\u570b\u4eba\u88ab\u7a31\u70ba\u7d05\u6bdb\u3002 \u6c34\u6ce5\u7684\u79cd\u7c7b\u7e41\u591a\uff0c\u6309\u5176\u77ff\u7269\u7ec4\u6210\u5206\u4e3a\u7845\u9178\u76d0\u6c34\u6ce5\u3001\u94dd\u9178\u76d0\u6c34\u6ce5\u3001\u786b\u94dd\u9178\u76d0\u6c34\u6ce5\u3001\u6c1f\u94dd\u9178\u76d0\u6c34\u6ce5\u3001\u94c1\u94dd\u9178\u76d0\u6c34\u6ce5\u4ee5\u53ca\u5c11\u719f\u6599\u6216\u65e0\u719f\u6599\u6c34\u6ce5\u7b49\u3002\u800c\u6309\u5176\u7528\u9014\u548c\u6027\u80fd\u53c8\u5206\u4e3a\u901a\u7528\u6c34\u6ce5\u3001\u4e13\u7528\u6c34\u6ce5\u548c\u7279\u79cd\u6c34\u6ce5\u4e09\u5927\u7c7b\u3002 \u5728\u6bcf\u4e00\u54c1\u79cd\u7684\u6c34\u6ce5\u4e2d\uff0c\u53c8\u6839\u636e\u5176\u80f6\u7ed3\u5f3a\u5ea6\u7684\u5927\u5c0f\uff0c\u800c\u5206\u4e3a\u82e5\u5e72\u5f3a\u5ea6\u7b49\u7ea7\u3002\u4e0d\u540c\u7684\u6c34\u6ce5\u54c1\u79cd\u53ca\u5f3a\u5ea6\u7b49\u7ea7\uff0c\u5176\u6027\u80fd\u4e5f\u6709\u8f83\u5927\u5dee\u5f02\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u30bb\u30e1\u30f3\u30c8 (Cement) \u3068\u306f\u3001\u4e00\u822c\u7684\u306b\u306f\u3001\u6c34\u3084\u6db2\u5264\u306a\u3069\u306b\u3088\u308a\u6c34\u548c\u3084\u91cd\u5408\u3057\u786c\u5316\u3059\u308b\u7c89\u4f53\u3092\u6307\u3059\u3002\u5e83\u7fa9\u306b\u306f\u3001\u30a2\u30b9\u30d5\u30a1\u30eb\u30c8\u3001\u81a0\u3001\u6a39\u8102\u3001\u77f3\u818f\u3001\u77f3\u7070\u7b49\u3084\u3001\u3053\u308c\u3089\u3092\u7d44\u307f\u5408\u308f\u305b\u305f\u63a5\u7740\u5264\u5168\u822c\u3092\u6307\u3059\u3002 \u672c\u9805\u3067\u306f\u3001\u30e2\u30eb\u30bf\u30eb\u3084\u30b3\u30f3\u30af\u30ea\u30fc\u30c8\u3068\u3057\u3066\u4f7f\u7528\u3055\u308c\u308b\u3001\u30dd\u30eb\u30c8\u30e9\u30f3\u30c9\u30bb\u30e1\u30f3\u30c8\u3084\u6df7\u5408\u30bb\u30e1\u30f3\u30c8\u306a\u3069\u306e\u6c34\u786c\u6027\u30bb\u30e1\u30f3\u30c8\uff08\u72ed\u7fa9\u306e\u300c\u30bb\u30e1\u30f3\u30c8\u300d\uff09\u306b\u3064\u3044\u3066\u8a18\u8ff0\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "El cemento es un conglomerante formado a partir de una mezcla de caliza y arcilla calcinadas y posteriormente molidas, que tiene la propiedad de endurecerse al contacto con el agua. El producto resultante de la molienda de estas rocas es llamada cl\u00ednker y se convierte en cemento cuando se le agrega yeso para que adquiera la propiedad de fraguar al a\u00f1adirle agua y endurecerse posteriormente. Mezclado con agregados p\u00e9treos (grava y arena) y agua, crea una mezcla uniforme, maleable y pl\u00e1stica que fragua y se endurece, adquiriendo consistencia p\u00e9trea, denominada hormig\u00f3n (en Espa\u00f1a, parte de Suram\u00e9rica y el Caribe hispano) o concreto (en M\u00e9xico, Centroam\u00e9rica y parte de Suram\u00e9rica). Su uso est\u00e1 muy generalizado en construcci\u00f3n e ingenier\u00eda civil.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Le ciment d\u00e9signe un liant hydraulique (qui durcit sous l'action de l'eau), aujourd'hui le plus souvent employ\u00e9 dans la confection du b\u00e9ton arm\u00e9, ou bien de mortier. C'est notamment le ciment Portland et le ciment m\u00e9tallurgique ainsi que leur variantes. Le ciment est une invention du XIXe si\u00e8cle[r\u00e9f. n\u00e9cessaire]. Il est compos\u00e9 de calcaire et d'argile qui, m\u00e9lang\u00e9 avec de l'eau, fait prise et permet d\u2019agglom\u00e9rer entre eux des sables et des granulats et ainsi constituer de v\u00e9ritables roches artificielles, les b\u00e9tons et les mortiers. La fabrication du ciment est \u00e9nergivore, et la production du clinker son principal constituant, est responsable d\u2019approximativement 5 % des \u00e9missions de gaz \u00e0 effet de serre (GES) anthropiques, responsables du r\u00e9chauffement climatique.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Zement (lateinisch caementum \u201eBruchstein\u201c, \u201eBaustein\u201c) ist ein anorganischer und nichtmetallischer Baustoff. Er ist feingemahlen und z\u00e4hlt daher zu den Sch\u00fcttg\u00fctern. Aufgrund seiner Eigenschaften wird er in Zementwerken als Baustoff hergestellt und zum Anfertigen von Bauteilen und Bauwerken verwendet. Innerhalb der Baustoffe z\u00e4hlt Zement zu den Bindemitteln. Er erh\u00e4rtet durch die chemische Reaktion mit Wasser (siehe Hydratation) und bleibt danach fest. Zur Herstellung von Baustoffen wie M\u00f6rtel und Beton werden dem Zement sogenanntes Zugabewasser (fr\u00fcher Anmachwasser) und andere Stoffe als Zuschlagstoffe beigemengt. Aufgrund der hohen Festigkeit und Dauerhaftigkeit von Beton ist Zement weltweit eines der wichtigsten Bindemittel. Mit einer Weltproduktion von 2,8 Milliarden Tonnen ist Zement der meistverwendete Werkstoff \u00fcberhaupt. Zement wird in Zementwerken produziert, zu seiner Herstellung werden die nat\u00fcrlichen Rohstoffe Kalkstein und Ton verwendet, die h\u00e4ufig als nat\u00fcrliches Gemisch vorliegen und dann als Mergel bezeichnet werden. Falls n\u00f6tig, werden als Korrekturmaterialien auch Quarzsand und eisenoxidhaltige Stoffe f\u00fcr eine bessere Sinterung beigemischt. Die Rohstoffe werden zu Rohmehl gemahlen und anschlie\u00dfend bei etwa 1.450 \u00b0C erhitzt, bis sie teilweise miteinander verschmelzen (Sintern) und der sogenannte Zementklinker entsteht. Das nun kugelf\u00f6rmige Material wird abgek\u00fchlt und mit H\u00fcttensand, Flugasche, Kalkstein und Gips zum Endprodukt Zement gemahlen. Je nach verwendeten Bestandteilen, unterschiedlicher Dosierung der Bestandteile und der Mahlfeinheit stellt man verschiedene Zementsorten her.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0623\u0633\u0645\u0646\u062a \u0623\u0648 \u0627\u0644\u0625\u0633\u0645\u0646\u062a \u0647\u0648 \u0627\u0644\u0645\u0627\u062f\u0629 \u0627\u0644\u0631\u0627\u0628\u0637\u0629 \u0627\u0644\u0646\u0627\u0639\u0645\u0629 \u0627\u0644\u062a\u064a \u062a\u062a\u0635\u0644\u0628 \u0648\u062a\u0642\u0633\u0649 \u0641\u062a\u0645\u0644\u0643 \u0628\u0630\u0644\u0643 \u062e\u0648\u0627\u0635\u0627 \u062a\u0645\u0627\u0633\u0643\u064a\u0629 \u0648\u062a\u0644\u0627\u0635\u0642\u064a\u0629 \u0628\u0648\u062c\u0648\u062f \u0627\u0644\u0645\u0627\u0621 \u0645\u0645\u0627 \u064a\u062c\u0639\u0644\u0647 \u0642\u0627\u062f\u0631\u0627 \u0639\u0644\u0649 \u0631\u0628\u0637 \u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u062e\u0631\u0633\u0627\u0646\u0629 \u0628\u0639\u0636\u0647\u0627 \u0628\u0628\u0639\u0636. \u0648\u0623\u0647\u0645 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0644\u0644\u0623\u0633\u0645\u0646\u062a \u0647\u0648 \u0627\u0644\u0645\u0644\u0627\u0637 \u0648\u0627\u0644\u062e\u0631\u0633\u0627\u0646\u0629 \u062d\u064a\u062b \u064a\u0631\u0628\u0637 \u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a\u0629 \u0623\u0648 \u0627\u0644\u0637\u0628\u064a\u0639\u064a\u0629 \u0644\u062a\u0634\u0643\u0644 \u0645\u0648\u0627\u062f \u0628\u0646\u0627\u0621 \u0642\u0648\u064a\u0629 \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u062a\u0623\u062b\u064a\u0631\u0627\u062a \u0627\u0644\u0628\u064a\u0626\u064a\u0629 \u0627\u0644\u0639\u0627\u062f\u064a\u0629. \u064a\u062c\u0628 \u0639\u062f\u0645 \u0627\u0644\u062e\u0644\u0637 \u0628\u064a\u0646 \u0627\u0644\u062e\u0631\u0633\u0627\u0646\u0629 \u0648\u0627\u0644\u0623\u0633\u0645\u0646\u062a\u060c \u0641\u0627\u0644\u0623\u0633\u0645\u0646\u062a \u064a\u0634\u064a\u0631 \u0625\u0644\u0649 \u0627\u0644\u0645\u0633\u062d\u0648\u0642 \u0627\u0644\u062c\u0627\u0641 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u0631\u0628\u0637 \u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0643\u0644\u064a\u0629 \u0644\u0644\u062e\u0631\u0633\u0627\u0646\u0629. \u0648\u0644\u0644\u0623\u0633\u0645\u0646\u062a \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u0627\u0644\u0628\u0646\u0627\u0621 \u0646\u0648\u0639\u064a\u0646 \u0647\u0645\u0627 \u0627\u0644\u0623\u0633\u0645\u0646\u062a \u0627\u0644\u0645\u0627\u0626\u064a \u0648\u0627\u0644\u0623\u0633\u0645\u0646\u062a \u063a\u064a\u0631 \u0627\u0644\u0645\u0627\u0626\u064a. \u062a\u0639\u062a\u0628\u0631 \u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0627\u0633\u0645\u0646\u062a \u0645\u0646 \u0627\u0644\u0635\u0646\u0627\u0639\u0627\u062a \u0627\u0644\u0625\u0633\u062a\u0631\u0627\u062a\u062c\u064a\u0629. \u0648\u0647\u064a \u0645\u0639 \u0630\u0644\u0643 \u0635\u0646\u0627\u0639\u0629 \u0628\u0633\u064a\u0637\u0629 \u0645\u0642\u0627\u0631\u0646\u0629 \u0628\u0627\u0644\u0635\u0646\u0627\u0639\u0627\u062a \u0627\u0644\u0643\u0628\u0631\u0649\u060c \u0648\u062a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u062a\u0648\u0641\u0631 \u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u062e\u0627\u0645 \u0627\u0644\u0644\u0627\u0632\u0645\u0629 \u0644\u0630\u0644\u0643.",
+                "lang": "ar"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/USMC-110806-M-IX060-148.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744987836,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 6670,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/date": [
+            {
+                "type": "literal",
+                "value": "October 2015",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/source": [
+            {
+                "type": "literal",
+                "value": "Liber II, De Architectura, Chapter VI \"Pozzolana\" Sec. 1",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Binder"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dangote_Industries_Tanzania": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Self-leveling_concrete": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Moroto_Cement_Limited": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/CRH_plc": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Economy_of_Guinea-Bissau": {
+        "http://dbpedia.org/property/importGoods": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/H\u00f8ybr\u00e5ten_Church": {
+        "http://dbpedia.org/property/materials": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tokuyama_Corporation": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rinker_Group": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Heracles_General_Cement": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Titan_Cement": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vicat": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rafael_Cordero_Santiago_Port_of_the_Americas": {
+        "http://dbpedia.org/property/blankstats": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Companhia_Sider\u00fargica_Nacional": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ramco_Cements": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Point_Iroquois_Light": {
+        "http://dbpedia.org/property/foundation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gobstopper": {
+        "http://dbpedia.org/ontology/ingredient": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hanson_Cement": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Blue_Circle_Industries": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aggregate_Industries": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tarmac_Group": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bestway": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hope_Construction_Materials": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sorel_cement": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Grupo_Argos": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/India_Cements": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Indocement_Tunggal_Prakarsa": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Norcem": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Semen_Indonesia": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Liberia_Cement_Corporation": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Asia_Cement": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dongyang_Cement": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Eugene_Concrete": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hi-Mix": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hyundai_Cement": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sung_Shin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sunil_Industry": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Siam_Cement": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LafargeHolcim": {
+        "http://dbpedia.org/ontology/service": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Diamond_Cement_Ghana_Limited": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Akij": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tororo_Cement_Limited": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Votorantim_Cimentos": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ARM_Cement_Limited": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bamburi_Cement": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/TPI_Polene": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Asia_Cement_Corporation": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Norcem_Brevik": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Twiga_Cement": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tiocem": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hydraulic_cement": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Cement": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Concrete": {
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Italcementi": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Buzzi_Unicem": {
+        "http://dbpedia.org/ontology/service": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Copydex": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wonder_Cement": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Binani_Industries": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cement_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cem_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hongshi_Cement": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ararat_Cement": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Loma_Negra": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/MIKA_Cement": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mehta_Group": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/PPC_Ltd.": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Eugene_Koryeo_Cement": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cemex": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cemento_Cruz_Azul": {
+        "http://dbpedia.org/property/keyPe": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cooperativa_La_Cruz_Azul_S.C.L.": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aberthaw_Cement_Works": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/RattanIndia": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/China_Resources_Cement": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/JSW_Cement": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Economy_of_Saint_Vincent_and_the_Grenadines": {
+        "http://dbpedia.org/property/industries": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ghana_Cement": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Taiwan_Cement_Corporation": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cement_plant": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Loesche_GmbH": {
+        "http://dbpedia.org/ontology/division": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/TXI": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Eagle_Materials": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Al_Ghurair_Investment": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ohorongo_Cement": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ube_Industries": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Economy_of_Libya": {
+        "http://dbpedia.org/property/industries": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Manaseer_Group": {
+        "http://dbpedia.org/ontology/service": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Habib_Group": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Votorantim_Group": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u0130hlas_Holding": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sabanc\u0131_Holding": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/East_African_Portland_Cement_Company": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kampala_Cement_Company_Limited": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nyati_Cement": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Discontinued_merit_badges_(Boy_Scouts_of_America)": {
+        "http://dbpedia.org/property/sub": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cimpor": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cement_and_its_applications": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Novoroscement": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Eurocement_group": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Salonit_Anhovo": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Grupo_Sura": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aditya_Birla_Group": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/HeidelbergCement": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Leimert_Bridge": {
+        "http://dbpedia.org/ontology/constructionMaterial": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holcim": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Anhui_Conch_Cement_Company": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tanga_Cement": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Arabian_Cement_Co.": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aventas_group": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Libyan_Cement_Company": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cementos_Pacasmayo": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ponce_Cement": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UltraTech_Cement": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bashundhara_Group": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jidong_Cement": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cement_factory": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Detroit_River_Light": {
+        "http://dbpedia.org/property/foundation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Warsaw_Ghetto_boundary_markers": {
+        "http://dbpedia.org/property/material": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Argos_S.A.": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mysore_Cements_Limited": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nawi_Samaraweera": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/China_National_Building_Material_Company": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/China_National_Materials_Group_Corporation": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cement_Mix": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cement_works": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hanil_Cement": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wonhwa_Chemical": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hima_Cement_Limited": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ambuja_Cements": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/How_Do_They_Do_It%3F": {
+        "http://dbpedia.org/property/title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cements": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Green_cement": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Environmental_impacts_of_cement": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cement"
+            }
+        ]
+    }
+}

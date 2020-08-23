@@ -1,0 +1,37 @@
+{
+    "@text": "Which municipality with town privileges in the Czech Republic has the highest mean age?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Municipality",
+            "@support": "25072",
+            "@types": "",
+            "@surfaceForm": "municipality",
+            "@offset": "6",
+            "@similarityScore": "0.6695146443046779",
+            "@percentageOfSecondRank": "0.30645702304314576"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Town_privileges",
+            "@support": "646",
+            "@types": "",
+            "@surfaceForm": "town privileges",
+            "@offset": "24",
+            "@similarityScore": "0.8318201088190451",
+            "@percentageOfSecondRank": "0.20210964911727042"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Czech_Republic",
+            "@support": "36410",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Czech Republic",
+            "@offset": "47",
+            "@similarityScore": "0.999630867101997",
+            "@percentageOfSecondRank": "2.8470223700524064E-4"
+        }
+    ]
+}

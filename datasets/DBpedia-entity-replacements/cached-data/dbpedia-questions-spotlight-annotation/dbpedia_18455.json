@@ -1,0 +1,37 @@
+{
+    "@text": "How many bacterias have taxonomy as Bacillales and domain as Bacteria? ",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Linnaean_taxonomy",
+            "@support": "347",
+            "@types": "",
+            "@surfaceForm": "taxonomy",
+            "@offset": "24",
+            "@similarityScore": "0.596264484709187",
+            "@percentageOfSecondRank": "0.613991891604773"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bacillales",
+            "@support": "33",
+            "@types": "DBpedia:Species",
+            "@surfaceForm": "Bacillales",
+            "@offset": "36",
+            "@similarityScore": "0.9999999999883897",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bacteria",
+            "@support": "16514",
+            "@types": "DBpedia:Species,DBpedia:Bacteria",
+            "@surfaceForm": "Bacteria",
+            "@offset": "61",
+            "@similarityScore": "0.999999985435352",
+            "@percentageOfSecondRank": "1.4498141764306221E-8"
+        }
+    ]
+}

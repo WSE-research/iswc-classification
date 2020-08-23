@@ -1,0 +1,28 @@
+{
+    "@text": "Which destination of the Novair International Airway is the source origin of Spaghetti squash ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Novair",
+            "@support": "5",
+            "@types": "Wikidata:Q46970,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline,DBpedia:Agent",
+            "@surfaceForm": "Novair",
+            "@offset": "25",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Spaghetti_squash",
+            "@support": "14",
+            "@types": "Wikidata:Q756,Wikidata:Q4886,Wikidata:Q19088,DBpedia:Species,DBpedia:Plant,DBpedia:Eukaryote,DBpedia:CultivatedVariety",
+            "@surfaceForm": "Spaghetti squash",
+            "@offset": "77",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

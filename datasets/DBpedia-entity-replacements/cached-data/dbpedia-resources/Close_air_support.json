@@ -1,0 +1,535 @@
+{
+    "http://dbpedia.org/resource/Douglas_AC-47_Spooky": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sukhoi_Su-25": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Close_air_support": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Content105809192"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Cognition100023271"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Belief105941423"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatMilitaryDoctrines"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Doctrine105943300"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Close air support",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Apoio a\u00e9reo aproximado",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Supporto aereo ravvicinato",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Apoyo a\u00e9reo cercano",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Appui a\u00e9rien rapproch\u00e9",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Samolot bliskiego wsparcia powietrznego",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u8fd1\u63a5\u822a\u7a7a\u652f\u63f4",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Luftnahunterst\u00fctzung",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Luchtsteun",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u062f\u0639\u0645 \u062c\u0648\u064a \u0642\u0631\u064a\u0628",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u5bc6\u63a5\u652f\u63f4",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u062f\u0639\u0645 \u062c\u0648\u064a \u0642\u0631\u064a\u0628 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Close air support) \u0641\u064a \u0627\u0644\u062a\u0643\u062a\u064a\u0643\u0627\u062a \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629\u060c \u064a\u062a\u0645 \u062a\u0639\u0631\u064a\u0641 \u0627\u0644\u062f\u0639\u0645 \u0627\u0644\u062c\u0648\u064a \u0627\u0644\u0642\u0631\u064a\u0628 (CAS)\u060c \u0628\u0623\u0646\u0647 \u0639\u0645\u0644 \u0639\u0633\u0643\u0631\u064a \u062c\u0648\u064a\u060c \u064a\u062a\u0645 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0637\u0627\u0626\u0631\u0627\u062a \u062b\u0627\u0628\u062a\u0629 \u0627\u0644\u062c\u0646\u0627\u062d\u064a\u0646 \u0623\u0648 \u0645\u0631\u0648\u062d\u064a\u0627\u062a\u060c \u0636\u062f \u0623\u0647\u062f\u0627\u0641 \u0645\u0639\u0627\u062f\u064a\u0629 \u062a\u0643\u0648\u0646 \u0639\u0627\u062f\u0629 \u0642\u0631\u064a\u0628\u0629 \u0645\u0646 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0628\u0631\u064a\u0629 \u0623\u0648 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u0627\u0644\u0635\u062f\u064a\u0642\u0629\u060c \u0648\u064a\u062a\u0637\u0644\u0628 \u062a\u0646\u0633\u064a\u0642 \u0645\u062a\u0643\u0627\u0645\u0644 \u0648\u0645\u0641\u0635\u0644 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0645\u0647\u0627\u062c\u0645\u0629 \u0648\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0635\u062f\u064a\u0642\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Luftnahunterst\u00fctzung (englisch close air support, CAS), auch nahe Luftunterst\u00fctzung oder Erdkampfunterst\u00fctzung, bezeichnet im Milit\u00e4rwesen taktische Eins\u00e4tze von Kampfflugzeugen (oder auch Hubschraubern) zur direkten Unterst\u00fctzung eigener Bodenstreitkr\u00e4fte \u2013 troops in contact. Ein weiteres Einsatzverfahren der Luftwaffen ist die Gefechtsfeldabriegelung (engl.: battlefield air interdiction, BAI). F\u00fcr beide Einsatzverfahren werden i. d. R. Schlachtflugzeuge oder Jagdbomber eingesetzt. Diese werden mit einer Standardbeladung an Waffen laufend am Gefechtsraum bereitgehalten. Selten kommen Bomber (auch Tarnkappenbomber) zum Einsatz. Die Flugzeuge sind meist mit Napalm- oder anderen Brandbomben, Splitterbomben, Clusterbomben oder lasergelenkten Bomben und Raketen best\u00fcckt. Ihr Einsatz wird von e",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Met de term luchtsteun (Engels: close air support, afgekort CAS) bedoelt men ondersteunende luchtaanvallen op vijandelijke posities op de grond ter ontlasting van eigen grondtroepen. Luchtsteun wordt aangevraagd door en dient ter ondersteuning van de eigen grondtroepen die zich in hetzelfde gebied bevinden. Hierdoor krijgen zij dan immers de mogelijkheid om: In de Golfoorlog en in Afghanistan (beide in uitgestrekte overzichtelijke gebieden) bleek de gevechtshelikopter voor luchtsteun uitstekend geschikt te zijn.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "La couverture a\u00e9rienne rapproch\u00e9e (en anglais Close air support, abr\u00e9g\u00e9 en CAS) est une op\u00e9ration a\u00e9rienne militaire. Il d\u00e9signe l'utilisation d'avion d'attaque au sol ou d'h\u00e9licopt\u00e8res d'attaque pour appuyer des troupes proches de l'ennemi. Ce type d'op\u00e9ration n\u00e9cessite \u00e0 la fois un usage pr\u00e9cis de la puissance de feu, un d\u00e9lai de r\u00e9action rapide et une bonne synchronisation avec les unit\u00e9s au sol. La premi\u00e8re mission de ce type a lieu le 13 septembre 1915, elle est effectu\u00e9e par deux avions de l'aviation fran\u00e7aise pendant la Premi\u00e8re Guerre mondiale.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "El apoyo a\u00e9reo cercano, tambi\u00e9n conocido por sus siglas en ingl\u00e9s CAS (Close Air Support), se define en t\u00e1ctica militar como la acci\u00f3n a\u00e9rea llevada a cabo por una aeronave contra objetivos hostiles que se encuentran en las proximidades de fuerzas amigas. Estas acciones necesitan una gran integraci\u00f3n y coordinaci\u00f3n entre las fuerzas terrestres y a\u00e9reas.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "In military tactics, close air support (CAS) is defined as air action by fixed or rotary-winged aircraft against hostile targets, that are in close proximity to friendly forces, and which requires detailed integration of each air mission with fire and movement of these forces. Close air support requires excellent coordination with ground forces. In advanced modern militaries, this coordination is typically handled by specialists such as Joint Fires Observers (JFO)s, Joint Terminal Attack Controllers (JTAC)s, and Forward Air Controllers (FAC)s.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Il supporto aereo ravvicinato, o appoggio tattico, spesso citato anche in inglese Close Air Support, in sigla CAS, \u00e8 un termine utilizzato in gergo militare, per indicare il supporto aereo fornito da velivoli o da elicotteri contro obiettivi nemici in prossimit\u00e0 di forze amiche. Per la buona riuscita di una missione di supporto aereo ravvicinato \u00e8 richiesto un ottimo coordinamento tra le forze in campo sia aeree che terrestri e navali.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "O apoio a\u00e9reo aproximado ou apoio a\u00e9reo pr\u00f3ximo (conhecido tamb\u00e9m por sua sigla em ingl\u00eas CAS - Close Air Suport) \u00e9 o uso de aeronaves militares numa fun\u00e7\u00e3o de ataque ao solo contra alvos que estejam pr\u00f3ximos \u00e0s for\u00e7as amigas, necessitando integra\u00e7\u00e3o detalhada com as opera\u00e7\u00f5es de combate terrestre. Nessa fun\u00e7\u00e3o, as aeronaves desempenham papel similar ao da artilharia. No Brasil a miss\u00e3o \u00e9 chamada de cobertura. O apoio a\u00e9reo aproximado \u00e9 uma das miss\u00f5es que comp\u00f5e a interdi\u00e7\u00e3o do campo de batalha.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u5bc6\u63a5\u652f\u63f4\uff08\u82f1\u6587\uff1aClose Support\uff09\u662f\u4e00\u79cd\u8ecd\u4e8b\u6230\u8853\u4e0a\u7684\u8853\u8a9e\u3002\u6839\u64da\u7f8e\u570b\u570b\u9632\u90e82005\u5e74\u51fa\u7248\u7684\u519b\u4e8b\u8207\u76f8\u95dc\u8853\u8a9e\u5b57\u5178\u5c0d\u300c\u5bc6\u63a5\u652f\u63f4\u300d\u7684\u5b9a\u7fa9\u662f\uff1a\u300c\u5bc6\u63a5\u652f\u63f4\u662f\u6307\u88ab\u8ce6\u4e88\u652f\u63f4\u4efb\u52d9\u7684\u90e8\u968a\uff0c\u5728\u8db3\u5920\u63a5\u8fd1\u88ab\u652f\u63f4\u90e8\u968a\u6642\uff0c\u91dd\u5c0d\u6575\u8ecd\u76ee\u6a19\u63a1\u53d6\u7d30\u5bc6\u7684\u6574\u5408\u6216\u5354\u8abf\u6027\u7684\u652f\u63f4\u6d3b\u52d5\uff0c\u4ee5\u706b\u529b\u3001\u904b\u52d5\u6216\u5176\u4ed6\u6230\u8853\u884c\u52d5\u4f86\u652f\u63f4\u88ab\u652f\u63f4\u7684\u90e8\u968a\u3002\u300d\u5176\u4ed6\u7684\u652f\u63f4\u6230\u8853\u5305\u62ec\u300c\u76f4\u63a5\u652f\u63f4\u300d\uff08Direct Support\uff09\u3001\u300c\u4e00\u822c\u652f\u63f4\u300d\uff08General Support\uff09\u3001\u300c\u76f8\u4e92\u652f\u63f4\u300d\uff08Mutual Support\uff09\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u8fd1\u63a5\u822a\u7a7a\u652f\u63f4\uff08\u82f1\u8a9e: Close Air Support, CAS\uff09\u306f\u3001\u706b\u529b\u652f\u63f4\u76ee\u7684\u306b\u884c\u308f\u308c\u308b\u822a\u7a7a\u4f5c\u6226\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Luftnahunterst\u00fctzung"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Luchtsteun"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Apoyo_a\u00e9reo_cercano"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uadfc\uc811\ud56d\uacf5\uc9c0\uc6d0"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Appui_a\u00e9rien_rapproch\u00e9"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Pesawat_serang_antigerilya"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1050818"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u8fd1\u63a5\u822a\u7a7a\u652f\u63f4"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Close_air_support"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Supporto_aereo_ravvicinato"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Apoio_a\u00e9reo_aproximado"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.02v7rf"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Samolot_bliskiego_wsparcia_powietrznego"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1050818"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Aerial_warfare_tactics"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/US_soldiers_on_the_tigris_river.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Close_air_support"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Close_air_support?oldid=740978372"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.cas2008.co.uk/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.dtic.mil/doctrine/jel/doddict/data/c/00974.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.dtic.mil/doctrine/jel/new_pubs/jp3_09_3.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.airpower.maxwell.af.mil/airchronicles/apj/apj90/spr90/2spr90.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.airpower.maxwell.af.mil/airchronicles/apj/apj06/fal06/haun.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.airpower.maxwell.af.mil/airchronicles/apj/2spr90.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.af.mil/library/posture/Anaconda_Unclassified.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ifri.org/downloads/fs35bistenenbaum.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=PC0DAAAAMBAJ&pg=PA112&dq=popular+science+1950+can+our+jets+support&hl=en&ei=g0S9TOmANYminQfDjNiJDg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC8Q6AEwAA#v=onepage&q&f=true"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.fac-assoc.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.romad.com"
+            },
+            {
+                "type": "uri",
+                "value": "https://jfiit.eglin.af.mil"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u5bc6\u63a5\u652f\u63f4\uff08\u82f1\u6587\uff1aClose Support\uff09\u662f\u4e00\u79cd\u8ecd\u4e8b\u6230\u8853\u4e0a\u7684\u8853\u8a9e\u3002\u6839\u64da\u7f8e\u570b\u570b\u9632\u90e82005\u5e74\u51fa\u7248\u7684\u519b\u4e8b\u8207\u76f8\u95dc\u8853\u8a9e\u5b57\u5178\u5c0d\u300c\u5bc6\u63a5\u652f\u63f4\u300d\u7684\u5b9a\u7fa9\u662f\uff1a\u300c\u5bc6\u63a5\u652f\u63f4\u662f\u6307\u88ab\u8ce6\u4e88\u652f\u63f4\u4efb\u52d9\u7684\u90e8\u968a\uff0c\u5728\u8db3\u5920\u63a5\u8fd1\u88ab\u652f\u63f4\u90e8\u968a\u6642\uff0c\u91dd\u5c0d\u6575\u8ecd\u76ee\u6a19\u63a1\u53d6\u7d30\u5bc6\u7684\u6574\u5408\u6216\u5354\u8abf\u6027\u7684\u652f\u63f4\u6d3b\u52d5\uff0c\u4ee5\u706b\u529b\u3001\u904b\u52d5\u6216\u5176\u4ed6\u6230\u8853\u884c\u52d5\u4f86\u652f\u63f4\u88ab\u652f\u63f4\u7684\u90e8\u968a\u3002\u300d\u5176\u4ed6\u7684\u652f\u63f4\u6230\u8853\u5305\u62ec\u300c\u76f4\u63a5\u652f\u63f4\u300d\uff08Direct Support\uff09\u3001\u300c\u4e00\u822c\u652f\u63f4\u300d\uff08General Support\uff09\u3001\u300c\u76f8\u4e92\u652f\u63f4\u300d\uff08Mutual Support\uff09\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "O apoio a\u00e9reo aproximado ou apoio a\u00e9reo pr\u00f3ximo (conhecido tamb\u00e9m por sua sigla em ingl\u00eas CAS - Close Air Suport) \u00e9 o uso de aeronaves militares numa fun\u00e7\u00e3o de ataque ao solo contra alvos que estejam pr\u00f3ximos \u00e0s for\u00e7as amigas, necessitando integra\u00e7\u00e3o detalhada com as opera\u00e7\u00f5es de combate terrestre. Nessa fun\u00e7\u00e3o, as aeronaves desempenham papel similar ao da artilharia. No Brasil a miss\u00e3o \u00e9 chamada de cobertura. O apoio a\u00e9reo aproximado \u00e9 uma das miss\u00f5es que comp\u00f5e a interdi\u00e7\u00e3o do campo de batalha. O apoio a\u00e9reo aproximado \u00e9 parte da moderna doutrina de armas combinadas. Deve-se notar que os avi\u00f5es militares tamb\u00e9m t\u00eam a capacidade de atacar alvos terrestres t\u00e1ticos que n\u00e3o est\u00e3o perto das tropas amigas; esse tipo de ataque mais profundo \u00e0 retaguarda inimiga tamb\u00e9m faz parte do conceito de interdi\u00e7\u00e3o a\u00e9rea. O apoio a\u00e9reo aproximado requer excelente coordena\u00e7\u00e3o com as for\u00e7as terrestres, em virtude da grande possibilidade de ocorr\u00eancia de fratric\u00eddio (fogo amigo). Nas For\u00e7as Armadas mais avan\u00e7adas, h\u00e1 especialistas para esse tipo de coordena\u00e7\u00e3o, como o Observador de Fogo Conjunto (JFO, Joint Fires Observer), Controlador de Ataque Terminal Conjunto (JTAC) (US) ou Controlador A\u00e9reo Avan\u00e7ado (FAC) (NATO), e o Controlador A\u00e9reo Avan\u00e7ado Aerotransportado (FAC-A, Forward Air Controller, airborne).",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "El apoyo a\u00e9reo cercano, tambi\u00e9n conocido por sus siglas en ingl\u00e9s CAS (Close Air Support), se define en t\u00e1ctica militar como la acci\u00f3n a\u00e9rea llevada a cabo por una aeronave contra objetivos hostiles que se encuentran en las proximidades de fuerzas amigas. Estas acciones necesitan una gran integraci\u00f3n y coordinaci\u00f3n entre las fuerzas terrestres y a\u00e9reas. El factor determinante para el apoyo a\u00e9reo cercano es una detallada integraci\u00f3n, no la proximidad. Si bien varias aeronaves puede realizar estas acciones, como los aviones de ataque a tierra, los helic\u00f3pteros son la principal arma para estas tareas y est\u00e1n tan integrados en las unidades terrestres que en la mayor\u00eda de pa\u00edses los helic\u00f3pteros son operados por el ej\u00e9rcito de tierra y no por la fuerza a\u00e9rea. Para ofrecer unas mejores caracter\u00edsticas CAS se han desarrollado algunos aviones espec\u00edficamente para esta tarea, siendo los ejemplos m\u00e1s claros el A-10 Thunderbolt, el Sukhoi Su-25, o tambi\u00e9n el Lockheed AC-130.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Luftnahunterst\u00fctzung (englisch close air support, CAS), auch nahe Luftunterst\u00fctzung oder Erdkampfunterst\u00fctzung, bezeichnet im Milit\u00e4rwesen taktische Eins\u00e4tze von Kampfflugzeugen (oder auch Hubschraubern) zur direkten Unterst\u00fctzung eigener Bodenstreitkr\u00e4fte \u2013 troops in contact. Ein weiteres Einsatzverfahren der Luftwaffen ist die Gefechtsfeldabriegelung (engl.: battlefield air interdiction, BAI). F\u00fcr beide Einsatzverfahren werden i. d. R. Schlachtflugzeuge oder Jagdbomber eingesetzt. Diese werden mit einer Standardbeladung an Waffen laufend am Gefechtsraum bereitgehalten. Selten kommen Bomber (auch Tarnkappenbomber) zum Einsatz. Die Flugzeuge sind meist mit Napalm- oder anderen Brandbomben, Splitterbomben, Clusterbomben oder lasergelenkten Bomben und Raketen best\u00fcckt. Ihr Einsatz wird von einem Forward Air Controller (FAC) koordiniert und gelenkt.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u062f\u0639\u0645 \u062c\u0648\u064a \u0642\u0631\u064a\u0628 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Close air support) \u0641\u064a \u0627\u0644\u062a\u0643\u062a\u064a\u0643\u0627\u062a \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629\u060c \u064a\u062a\u0645 \u062a\u0639\u0631\u064a\u0641 \u0627\u0644\u062f\u0639\u0645 \u0627\u0644\u062c\u0648\u064a \u0627\u0644\u0642\u0631\u064a\u0628 (CAS)\u060c \u0628\u0623\u0646\u0647 \u0639\u0645\u0644 \u0639\u0633\u0643\u0631\u064a \u062c\u0648\u064a\u060c \u064a\u062a\u0645 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0637\u0627\u0626\u0631\u0627\u062a \u062b\u0627\u0628\u062a\u0629 \u0627\u0644\u062c\u0646\u0627\u062d\u064a\u0646 \u0623\u0648 \u0645\u0631\u0648\u062d\u064a\u0627\u062a\u060c \u0636\u062f \u0623\u0647\u062f\u0627\u0641 \u0645\u0639\u0627\u062f\u064a\u0629 \u062a\u0643\u0648\u0646 \u0639\u0627\u062f\u0629 \u0642\u0631\u064a\u0628\u0629 \u0645\u0646 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0628\u0631\u064a\u0629 \u0623\u0648 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u0627\u0644\u0635\u062f\u064a\u0642\u0629\u060c \u0648\u064a\u062a\u0637\u0644\u0628 \u062a\u0646\u0633\u064a\u0642 \u0645\u062a\u0643\u0627\u0645\u0644 \u0648\u0645\u0641\u0635\u0644 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0645\u0647\u0627\u062c\u0645\u0629 \u0648\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0635\u062f\u064a\u0642\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Il supporto aereo ravvicinato, o appoggio tattico, spesso citato anche in inglese Close Air Support, in sigla CAS, \u00e8 un termine utilizzato in gergo militare, per indicare il supporto aereo fornito da velivoli o da elicotteri contro obiettivi nemici in prossimit\u00e0 di forze amiche. Per la buona riuscita di una missione di supporto aereo ravvicinato \u00e8 richiesto un ottimo coordinamento tra le forze in campo sia aeree che terrestri e navali. Il ruolo CAS viene ricoperto da aerei da caccia leggeri o aerei da attacco al suolo, quali l'A-10 Thunderbolt II, che hanno anche spiccate capacit\u00e0 attacco al suolo e che vantano ottima maneggevolezza a bassa quota.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "In military tactics, close air support (CAS) is defined as air action by fixed or rotary-winged aircraft against hostile targets, that are in close proximity to friendly forces, and which requires detailed integration of each air mission with fire and movement of these forces. The requirement for detailed integration because of proximity, fires or movement is the determining factor. CAS may need to be conducted during shaping operations with Special Operations Forces (SOF), if the mission requires detailed integration with the fire and movement of these forces. A closely related subset of air interdiction, battlefield air interdiction (AI) denotes interdiction against units with near-term effects on friendly units, but which does not require integration with friendly troop movements. The term \"battlefield air interdiction\" is not currently used in U.S. joint doctrine. Close air support requires excellent coordination with ground forces. In advanced modern militaries, this coordination is typically handled by specialists such as Joint Fires Observers (JFO)s, Joint Terminal Attack Controllers (JTAC)s, and Forward Air Controllers (FAC)s.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Met de term luchtsteun (Engels: close air support, afgekort CAS) bedoelt men ondersteunende luchtaanvallen op vijandelijke posities op de grond ter ontlasting van eigen grondtroepen. Luchtsteun wordt aangevraagd door en dient ter ondersteuning van de eigen grondtroepen die zich in hetzelfde gebied bevinden. Hierdoor krijgen zij dan immers de mogelijkheid om: \n*  naar de aangevallen vijandelijke positie(s) op te rukken voor een grondaanval ter verovering van die positie(s); \n*  zich uit een gevaarlijk gebied terug te trekken en te verzamelen op een positie(s) van waaruit een betere verdediging mogelijk is. Luchtsteunoperaties zijn er primair op gericht om plaatselijk zo veel mogelijk vijandelijk personeel uit te schakelen om de eigen grondtroepen betere operationele opties te bieden, en de manier waarop de luchtsteun wordt uitgevoerd, hangt grotendeels af van de geografische omstandigheden in de regio waarin het conflict zich afspeelt. Zo werden in de Tweede Wereldoorlog door jachtvliegtuigen speciale luchtsteunmissies gevlogen waarbij alle vijandelijke stellingen die men onderweg tegenkwam met mitrailleurs en raketten werden beschoten. In de oorlog in Vietnam werden luchtsteunmissies echter gevlogen door jachtbommenwerpers die posities op de grond met napalm bombardeerden. Deze methode was weinig effectief maar de enige mogelijkheid; de dichtbegroeide jungle ontnam namelijk ieder zicht op vijandelijke troepen. In de Golfoorlog en in Afghanistan (beide in uitgestrekte overzichtelijke gebieden) bleek de gevechtshelikopter voor luchtsteun uitstekend geschikt te zijn.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u8fd1\u63a5\u822a\u7a7a\u652f\u63f4\uff08\u82f1\u8a9e: Close Air Support, CAS\uff09\u306f\u3001\u706b\u529b\u652f\u63f4\u76ee\u7684\u306b\u884c\u308f\u308c\u308b\u822a\u7a7a\u4f5c\u6226\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La couverture a\u00e9rienne rapproch\u00e9e (en anglais Close air support, abr\u00e9g\u00e9 en CAS) est une op\u00e9ration a\u00e9rienne militaire. Il d\u00e9signe l'utilisation d'avion d'attaque au sol ou d'h\u00e9licopt\u00e8res d'attaque pour appuyer des troupes proches de l'ennemi. Ce type d'op\u00e9ration n\u00e9cessite \u00e0 la fois un usage pr\u00e9cis de la puissance de feu, un d\u00e9lai de r\u00e9action rapide et une bonne synchronisation avec les unit\u00e9s au sol. La premi\u00e8re mission de ce type a lieu le 13 septembre 1915, elle est effectu\u00e9e par deux avions de l'aviation fran\u00e7aise pendant la Premi\u00e8re Guerre mondiale. Les \u00c9tats-Unis utilisent intensivement le CAS avec des appareils sp\u00e9cialis\u00e9s comme l'AC-130 rempla\u00e7ant du AC-47 Spooky et le Fairchild AC-119, le A-10 Thunderbolt II ou le AV-8B Harrier II. Dans les ann\u00e9es 2000, le temps d\u2019attente entre une demande d'appui-feu a\u00e9rien et sa r\u00e9alisation a \u00e9t\u00e9 r\u00e9duit de 90 minutes, en moyenne, durant la guerre d'Afghanistan en 2001-2002 \u00e0 un peu moins de 20 minutes durant la guerre d'Irak \u00e0 partir de 2003. Dans certains cas, les attaques se sont d\u00e9roul\u00e9es 12 minutes apr\u00e8s la demande, poussant l\u2019US Air Force \u00e0 d\u00e9clarer qu\u2019elle entendait, pour les op\u00e9rations futures, passer en dessous du single digit et mener ses frappes moins de 10 minutes apr\u00e8s un appel. Lors de l'op\u00e9ration Iraqi Freedom, l'appui-feu rapproch\u00e9 a jou\u00e9 un r\u00f4le fondamental en supplantant parfois le r\u00f4le de l'artillerie lorsque celle-ci ne parvenait pas \u00e0 suivre le rythme de progression des forces de man\u0153uvres, au point de constituer la forme principale d'appui-feu.",
+                "lang": "fr"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/US_soldiers_on_the_tigris_river.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 740978372,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 600792,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/McDonnell_Douglas_F-4_Phantom_II_in_UK_service": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Close_air_support": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/CAS": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fairchild_AC-119": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Persistent_Close_Air_Support": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lockheed_AC-130": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mitsubishi_F-1": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Support": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Henschel_Hs_123": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/15_Air_Assault_Close_Support_Squadron_RLC": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Close_Air_Support": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Air_support": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ground_support": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mud_moving": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Support_ground": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ground-attack": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Close-air_support": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Army_Co-operation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Army_co-operation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Army_cooperation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Battlefield_air_interdiction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Close_air_support"
+            }
+        ]
+    }
+}

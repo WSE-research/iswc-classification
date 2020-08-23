@@ -1,0 +1,679 @@
+{
+    "http://dbpedia.org/resource/Taxonomic_rank": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/ClassificationSystem105727220"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatClassificationSystems"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatTaxonomicCategories"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Arrangement105726596"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Cognition100023271"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Structure105726345"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/BiologicalGroup107941170"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/TaxonomicGroup107992450"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Taxonomische rang",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Infraesp\u00e9cie",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u968e\u7d1a (\u751f\u7269\u5b66)",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0631\u062a\u0628\u0629 \u062a\u0635\u0646\u064a\u0641\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Rang taxonomique",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Kategoria systematyczna",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0420\u0430\u043d\u0433 (\u0431\u0438\u043e\u043b\u043e\u0433\u0438\u044f)",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Categor\u00eda taxon\u00f3mica",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Categoria tassonomica",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Taxonomic rank",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u5206\u7c7b\u7ea7\u522b",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Kategoria systematyczna, kategoria taksonomiczna, ranga taksonomiczna \u2013 w systematyce organizm\u00f3w, pozycja (ranga) taksonu w hierarchicznym systemie klasyfikacji biologicznej (uk\u0142adzie systematycznym) obejmuj\u0105ca dany takson oraz wszystkie zaliczane do niego taksony ni\u017cszego poziomu.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0420\u0430\u043d\u0433, \u0442\u0430\u043a\u0441\u043e\u043d\u043e\u043c\u0438\u0301\u0447\u0435\u0441\u043a\u0430\u044f \u043a\u0430\u0442\u0435\u0433\u043e\u0301\u0440\u0438\u044f \u2014 \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438, \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0449\u0435\u0435 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0432 \u0438\u0435\u0440\u0430\u0440\u0445\u0438\u0447\u0435\u0441\u043a\u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0436\u0438\u0432\u044b\u0445 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u043e\u0432 (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043a\u043b\u0430\u0441\u0441, \u043e\u0442\u0440\u044f\u0434, \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u043e). \u041d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0440\u044f\u0434 \u043f\u0440\u043e\u0431\u043b\u0435\u043c \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0440\u0430\u043d\u0433\u043e\u0432, \u043e\u043d\u0438 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c\u0441\u044f, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0438\u043c\u0435\u043d\u043d\u043e \u043d\u0430 \u0440\u0430\u043d\u0433\u043e\u0432\u043e\u043c \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u044b \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0439 \u0433\u0440\u0443\u043f\u043f (\u0442\u0430\u043a\u0441\u043e\u043d\u043e\u0432) \u0436\u0438\u0432\u044b\u0445 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u043e\u0432, \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0432 \u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u043d\u044b\u0445 \u043a\u043e\u0434\u0435\u043a\u0441\u0430\u0445.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u751f\u7269\u5b66\u30fb\u5206\u985e\u5b66\u306b\u304a\u3044\u3066\u968e\u7d1a\uff08\u304b\u3044\u304d\u3085\u3046\u3001\u82f1: rank, category\u3001\u7f85: categoria\uff09\u306f\u3001\u9580\u30fb\u7db1\u30fb\u76ee\u30fb\u79d1\u30fb\u5c5e\u30fb\u7a2e\u306a\u3069\u306e\u3001\u5206\u985e\u306e\u968e\u5c64\u306e\u3053\u3068\u3002\u5206\u985e\u968e\u7d1a\uff08\u3076\u3093\u308b\u3044\u304b\u3044\u304d\u3085\u3046\uff09\u3068\u3082\u8a00\u3046\u3002\u30bf\u30af\u30bd\u30f3\uff08\u5206\u985e\u7fa4\uff09\u306e\u968e\u5c64\u7684\u4f4d\u7f6e\u3092\u8868\u3059\u3002 \u4e0b\u4f4d\u306e\u968e\u7d1a\u306e\u5206\u985e\u7fa4\u306f\u4e0a\u4f4d\u306e\u968e\u7d1a\u306e\u5206\u985e\u7fa4\u306b\u542b\u307e\u308c\u308b\u3002\u3057\u304b\u3057\u3001\u5206\u985e\u4f53\u7cfb\u306b\u3088\u3063\u3066\u306f\u542b\u307e\u308c\u308b\u968e\u7d1a\u304c\u9006\u8ee2\u3059\u308b\u3053\u3068\u3082\u3042\u308b\u3002\u305f\u3068\u3048\u3070\u3001\u820c\u5f62\u52d5\u7269\u306f\u9580\u306e\u968e\u7d1a\u306b\u3055\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u304c\u3001\u7bc0\u8db3\u52d5\u7269\u9580\u7532\u6bbb\u7db1\u984e\u811a\u985e\uff08\u4e9c\u7db1\uff09\u306b\u542b\u307e\u308c\u308b\u3068\u3059\u308b\u5206\u985e\u65b9\u6cd5\u304c\u3042\u308b\u3002 \u307e\u305f\u3001\u5206\u5c90\u5b66\uff08\u5206\u5c90\u5206\u985e\u5b66\uff09\u3067\u751f\u7269\u3092\u5206\u985e\u3057\u305f\u5834\u5408\u3001\u30ea\u30f3\u30cd\u5f0f\u306e\u968e\u7d1a\u304c\u5f53\u3066\u306f\u3081\u306b\u304f\u3044\u5834\u5408\u304c\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Los taxones o grupos en que se clasifican los seres vivos se estructuran en una jerarqu\u00eda de inclusi\u00f3n, en la que un grupo abarca a otros menores y est\u00e1, a su vez, subordinado a uno mayor. A los grupos se les asigna un rango taxon\u00f3mico o categor\u00eda taxon\u00f3mica que acompa\u00f1a al nombre propio del grupo. Algunos ejemplos conocidos son: g\u00e9nero Homo, familia Canidae (c\u00e1nidos), orden Primates, clase Mammalia (mam\u00edferos), reino Fungi (hongos).",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Een taxonomische rang is een niveau in de hi\u00ebrarchische indeling van organismen in taxa (een taxonomische groep). In de taxonomie in de biologie is de rang van een bepaalde taxonomische groep enigszins arbitrair en wordt door de onderzoeker gekozen mede op grond van de reeds bekende informatie over onderliggende en bovenliggende groepen en die van zustergroepen. Taxonomische groepen kunnen dus op grond van nieuwe inzichten een andere rang krijgen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Infraesp\u00e9cie \u00e9 o n\u00edvel de classifica\u00e7\u00e3o imediatamente inferior a esp\u00e9cie, geralmente referindo-se a um grupo de seres geograficamente isolados que desenvolveu ou manteve alguma varia\u00e7\u00e3o morfol\u00f3gica populacional. en:Taxonomic rank#Ranks in zoology",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "En nomenclature biologique, on nomme rangs taxonomiques, ou rangs taxinomiques, les niveaux hi\u00e9rarchiques de la classification scientifique du monde vivant, qui du r\u00e8gne \u00e0 l'esp\u00e8ce, forment les \u00e9tages de la pyramide accueillant les taxons de la syst\u00e9matique d'un groupe donn\u00e9 d'animaux, de plantes, de champignons, de protistes, de bact\u00e9ries ou d\u2019arch\u00e9obact\u00e9ries. La classification classique propose une hi\u00e9rarchie codifi\u00e9e en 7 rangs principaux et 5 rangs secondaires, pr\u00e9sent\u00e9e, dans l'ordre d\u00e9croissant, de la fa\u00e7on suivante :",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "In biological classification, rank is the relative level of a group of organisms (a taxon) in a taxonomic hierarchy. Examples of taxonomic ranks are species, genus, family, order, class, phylum, kingdom, domain, etc. The International Code of Zoological Nomenclature defines rank as: The level, for nomenclatural purposes, of a taxon in a taxonomic hierarchy (e.g. all families are for nomenclatural purposes at the same rank, which lies between superfamily and subfamily)",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0645\u0631\u0627\u062a\u0628 \u0627\u0644\u062a\u0635\u0646\u064a\u0641\u064a\u0629 \u0647\u064a \u0627\u0644\u0645\u0633\u062a\u0648\u064a\u0627\u062a \u0627\u0644\u0646\u0633\u0628\u064a\u0629 \u0641\u064a \u0647\u0631\u0645 \u0627\u0644\u0645\u0631\u0627\u062a\u0628\u060c \u0645\u062b\u0644\u0627\u064b \u0641\u064a \u0627\u0644\u062a\u0635\u0646\u064a\u0641 \u0627\u0644\u062d\u064a\u0648\u064a \u0627\u0644\u0645\u0631\u0627\u062a\u0628 \u0627\u0644\u062a\u0635\u0646\u064a\u0641\u064a\u0629 \u0644\u0644\u0623\u0635\u0646\u0648\u0641\u0629 \u0647\u064a \u0627\u0644\u0646\u0648\u0639\u060c \u0627\u0644\u062c\u0646\u0633\u060c \u0627\u0644\u0641\u0635\u064a\u0644\u0629\u060c \u0627\u0644\u0637\u0627\u0626\u0641\u0629\u060c \u0625\u0644\u062e..",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u5728\u751f\u7269\u5206\u7c7b\u6cd5\u4e2d\uff0c\u5206\u7c7b\u7ea7\u522b\uff08taxonomic rank\uff09\u662f\u5728\u5206\u7c7b\u5b66\u7b49\u7ea7\u5236\u5ea6\u4e2d\u7684\u5c42\u6b21 (\u76f8\u5bf9\u4f4d\u7f6e)\u3002 \u6bcf\u4e00\u4e2a\u7ea7\u522b\u4e4b\u4e0b\u5305\u542b\u4e86\u82e5\u5e72\u6ca1\u90a3\u4e48\u666e\u904d\u7684\u5206\u7c7b\u3002\u7269\u79cd\u8fd9\u4e2a\u7ea7\u522b\uff0c\u548c\u5bf9\u8be5\u7269\u79cd\u6240\u5728\u7684\u5c5e\u7684\u6307\u5b9a\uff0c\u662f\u57fa\u672c\u7684\uff0c\u610f\u5473\u7740\u6307\u5b9a\u9664\u6b64\u4e4b\u5916\u7684\u7ea7\u522b\u53ef\u80fd\u662f\u4e0d\u5fc5\u8981\u7684\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "I taxa o gruppi, nei quali vengono classificati gli esseri viventi, strutturati in una gerarchia di inclusione, nella quale un gruppo abbraccia altri minori ed \u00e8, a sua volta, subordinato a uno maggiore. Ai gruppi viene assegnato un rango tassonomico o categoria tassonomica che accompagna il nome proprio del gruppo. Alcuni esempi conosciuti sono: genere Homo, famiglia Canidae (canidi), ordine Primati, classe Mammalia (mammiferi), regno Fungi (funghi).",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Categoria_tassonomica"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Taxonomische_rang"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a4\u03b1\u03be\u03b9\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae_\u03b2\u03b1\u03b8\u03bc\u03af\u03b4\u03b1"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Taxonomic_rank"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q427626"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03grp6_"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u968e\u7d1a_(\u751f\u7269\u5b66)"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Categor\u00eda_taxon\u00f3mica"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q427626"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Infraesp\u00e9cie"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Rang_taxonomique"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Kategoria_systematyczna"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Taxonomick\u00e1_kategorie"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Taxonomic_categories"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Zoological_nomenclature"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Biology_terminology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Botanical_nomenclature"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Plant_taxonomy"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Plant_taxa_by_rank"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Taxonomic_Rank_Graph.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Taxonomic_rank"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Taxonomic_rank?oldid=742689175"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.mnemonic-device.eu/biology"
+            },
+            {
+                "type": "uri",
+                "value": "http://acronyms.thefreedictionary.com/KPCOFGS"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Kategoria systematyczna, kategoria taksonomiczna, ranga taksonomiczna \u2013 w systematyce organizm\u00f3w, pozycja (ranga) taksonu w hierarchicznym systemie klasyfikacji biologicznej (uk\u0142adzie systematycznym) obejmuj\u0105ca dany takson oraz wszystkie zaliczane do niego taksony ni\u017cszego poziomu.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "In biological classification, rank is the relative level of a group of organisms (a taxon) in a taxonomic hierarchy. Examples of taxonomic ranks are species, genus, family, order, class, phylum, kingdom, domain, etc. A given rank subsumes under it less general categories, that is, more specific descriptions of life forms. Above it, each rank is classified within more general categories of organisms and groups of organisms related to each other through inheritance of traits or features from common ancestors. The rank of any species and the description of its genus is basic; which means that to identify a particular organism, it is usually not necessary to specify ranks other than these first two. Consider a particular species, the red fox Vulpes vulpes: its next rank, the genus Vulpes, comprises all the 'true foxes'. Their closest relatives are in the immediately higher rank, the family Canidae, which includes dogs, wolves, jackals, all foxes, and other caniforms such as bears, badgers and seals; the next higher rank, the order Carnivora, includes feliforms and caniforms (lions, tigers, hyenas, wolverines, and all those mentioned above), plus other carnivorous mammals. As one group of the class Mammalia, all of the above are classified among those with backbones in the Chordata phylum rank, and with them among all the animals in the Animalia kingdom rank. Finally, all of the above will find their earliest relatives somewhere in their domain rank Eukarya. The International Code of Zoological Nomenclature defines rank as: The level, for nomenclatural purposes, of a taxon in a taxonomic hierarchy (e.g. all families are for nomenclatural purposes at the same rank, which lies between superfamily and subfamily)",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0420\u0430\u043d\u0433, \u0442\u0430\u043a\u0441\u043e\u043d\u043e\u043c\u0438\u0301\u0447\u0435\u0441\u043a\u0430\u044f \u043a\u0430\u0442\u0435\u0433\u043e\u0301\u0440\u0438\u044f \u2014 \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438, \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0449\u0435\u0435 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0432 \u0438\u0435\u0440\u0430\u0440\u0445\u0438\u0447\u0435\u0441\u043a\u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0436\u0438\u0432\u044b\u0445 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u043e\u0432 (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043a\u043b\u0430\u0441\u0441, \u043e\u0442\u0440\u044f\u0434, \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u043e). \u041d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0440\u044f\u0434 \u043f\u0440\u043e\u0431\u043b\u0435\u043c \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0440\u0430\u043d\u0433\u043e\u0432, \u043e\u043d\u0438 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c\u0441\u044f, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0438\u043c\u0435\u043d\u043d\u043e \u043d\u0430 \u0440\u0430\u043d\u0433\u043e\u0432\u043e\u043c \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u044b \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0439 \u0433\u0440\u0443\u043f\u043f (\u0442\u0430\u043a\u0441\u043e\u043d\u043e\u0432) \u0436\u0438\u0432\u044b\u0445 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u043e\u0432, \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0432 \u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u043d\u044b\u0445 \u043a\u043e\u0434\u0435\u043a\u0441\u0430\u0445.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u5728\u751f\u7269\u5206\u7c7b\u6cd5\u4e2d\uff0c\u5206\u7c7b\u7ea7\u522b\uff08taxonomic rank\uff09\u662f\u5728\u5206\u7c7b\u5b66\u7b49\u7ea7\u5236\u5ea6\u4e2d\u7684\u5c42\u6b21 (\u76f8\u5bf9\u4f4d\u7f6e)\u3002 \u6bcf\u4e00\u4e2a\u7ea7\u522b\u4e4b\u4e0b\u5305\u542b\u4e86\u82e5\u5e72\u6ca1\u90a3\u4e48\u666e\u904d\u7684\u5206\u7c7b\u3002\u7269\u79cd\u8fd9\u4e2a\u7ea7\u522b\uff0c\u548c\u5bf9\u8be5\u7269\u79cd\u6240\u5728\u7684\u5c5e\u7684\u6307\u5b9a\uff0c\u662f\u57fa\u672c\u7684\uff0c\u610f\u5473\u7740\u6307\u5b9a\u9664\u6b64\u4e4b\u5916\u7684\u7ea7\u522b\u53ef\u80fd\u662f\u4e0d\u5fc5\u8981\u7684\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Een taxonomische rang is een niveau in de hi\u00ebrarchische indeling van organismen in taxa (een taxonomische groep). In de taxonomie in de biologie is de rang van een bepaalde taxonomische groep enigszins arbitrair en wordt door de onderzoeker gekozen mede op grond van de reeds bekende informatie over onderliggende en bovenliggende groepen en die van zustergroepen. Taxonomische groepen kunnen dus op grond van nieuwe inzichten een andere rang krijgen. De naamgeving van organismen staat beschreven in de verschillende nomenclatuurcodes. De namen van de hogere taxa hebben vaak een uitgang, waaraan men kan zien wat de taxonomische rang is van dat taxon. Deze uitgangen zijn niet altijd voorgeschreven, maar soms conventies waarvan kan zijn afgeweken. Voorbeeld bij families: -oidea bij dieren, -aceae bij planten en schimmels, en -viridae bij virussen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Los taxones o grupos en que se clasifican los seres vivos se estructuran en una jerarqu\u00eda de inclusi\u00f3n, en la que un grupo abarca a otros menores y est\u00e1, a su vez, subordinado a uno mayor. A los grupos se les asigna un rango taxon\u00f3mico o categor\u00eda taxon\u00f3mica que acompa\u00f1a al nombre propio del grupo. Algunos ejemplos conocidos son: g\u00e9nero Homo, familia Canidae (c\u00e1nidos), orden Primates, clase Mammalia (mam\u00edferos), reino Fungi (hongos). Tambi\u00e9n son rangos los de especie y sus subordinados. El nombre de las especies se distingue de los de taxones de otros rangos por consistir en dos palabras, lo que hace ocioso escribir la categor\u00eda.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Infraesp\u00e9cie \u00e9 o n\u00edvel de classifica\u00e7\u00e3o imediatamente inferior a esp\u00e9cie, geralmente referindo-se a um grupo de seres geograficamente isolados que desenvolveu ou manteve alguma varia\u00e7\u00e3o morfol\u00f3gica populacional. en:Taxonomic rank#Ranks in zoology",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "I taxa o gruppi, nei quali vengono classificati gli esseri viventi, strutturati in una gerarchia di inclusione, nella quale un gruppo abbraccia altri minori ed \u00e8, a sua volta, subordinato a uno maggiore. Ai gruppi viene assegnato un rango tassonomico o categoria tassonomica che accompagna il nome proprio del gruppo. Alcuni esempi conosciuti sono: genere Homo, famiglia Canidae (canidi), ordine Primati, classe Mammalia (mammiferi), regno Fungi (funghi). Sono ranghi anche quelli di specie e sue subordinate. Il nome delle specie si distingue da quelli dei taxa di altri ranghi perch\u00e9 va ad essere costituito di due parole, il che rende ozioso scriverne la categoria.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0645\u0631\u0627\u062a\u0628 \u0627\u0644\u062a\u0635\u0646\u064a\u0641\u064a\u0629 \u0647\u064a \u0627\u0644\u0645\u0633\u062a\u0648\u064a\u0627\u062a \u0627\u0644\u0646\u0633\u0628\u064a\u0629 \u0641\u064a \u0647\u0631\u0645 \u0627\u0644\u0645\u0631\u0627\u062a\u0628\u060c \u0645\u062b\u0644\u0627\u064b \u0641\u064a \u0627\u0644\u062a\u0635\u0646\u064a\u0641 \u0627\u0644\u062d\u064a\u0648\u064a \u0627\u0644\u0645\u0631\u0627\u062a\u0628 \u0627\u0644\u062a\u0635\u0646\u064a\u0641\u064a\u0629 \u0644\u0644\u0623\u0635\u0646\u0648\u0641\u0629 \u0647\u064a \u0627\u0644\u0646\u0648\u0639\u060c \u0627\u0644\u062c\u0646\u0633\u060c \u0627\u0644\u0641\u0635\u064a\u0644\u0629\u060c \u0627\u0644\u0637\u0627\u0626\u0641\u0629\u060c \u0625\u0644\u062e..",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u751f\u7269\u5b66\u30fb\u5206\u985e\u5b66\u306b\u304a\u3044\u3066\u968e\u7d1a\uff08\u304b\u3044\u304d\u3085\u3046\u3001\u82f1: rank, category\u3001\u7f85: categoria\uff09\u306f\u3001\u9580\u30fb\u7db1\u30fb\u76ee\u30fb\u79d1\u30fb\u5c5e\u30fb\u7a2e\u306a\u3069\u306e\u3001\u5206\u985e\u306e\u968e\u5c64\u306e\u3053\u3068\u3002\u5206\u985e\u968e\u7d1a\uff08\u3076\u3093\u308b\u3044\u304b\u3044\u304d\u3085\u3046\uff09\u3068\u3082\u8a00\u3046\u3002\u30bf\u30af\u30bd\u30f3\uff08\u5206\u985e\u7fa4\uff09\u306e\u968e\u5c64\u7684\u4f4d\u7f6e\u3092\u8868\u3059\u3002 \u4e0b\u4f4d\u306e\u968e\u7d1a\u306e\u5206\u985e\u7fa4\u306f\u4e0a\u4f4d\u306e\u968e\u7d1a\u306e\u5206\u985e\u7fa4\u306b\u542b\u307e\u308c\u308b\u3002\u3057\u304b\u3057\u3001\u5206\u985e\u4f53\u7cfb\u306b\u3088\u3063\u3066\u306f\u542b\u307e\u308c\u308b\u968e\u7d1a\u304c\u9006\u8ee2\u3059\u308b\u3053\u3068\u3082\u3042\u308b\u3002\u305f\u3068\u3048\u3070\u3001\u820c\u5f62\u52d5\u7269\u306f\u9580\u306e\u968e\u7d1a\u306b\u3055\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u304c\u3001\u7bc0\u8db3\u52d5\u7269\u9580\u7532\u6bbb\u7db1\u984e\u811a\u985e\uff08\u4e9c\u7db1\uff09\u306b\u542b\u307e\u308c\u308b\u3068\u3059\u308b\u5206\u985e\u65b9\u6cd5\u304c\u3042\u308b\u3002 \u307e\u305f\u3001\u5206\u5c90\u5b66\uff08\u5206\u5c90\u5206\u985e\u5b66\uff09\u3067\u751f\u7269\u3092\u5206\u985e\u3057\u305f\u5834\u5408\u3001\u30ea\u30f3\u30cd\u5f0f\u306e\u968e\u7d1a\u304c\u5f53\u3066\u306f\u3081\u306b\u304f\u3044\u5834\u5408\u304c\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "En nomenclature biologique, on nomme rangs taxonomiques, ou rangs taxinomiques, les niveaux hi\u00e9rarchiques de la classification scientifique du monde vivant, qui du r\u00e8gne \u00e0 l'esp\u00e8ce, forment les \u00e9tages de la pyramide accueillant les taxons de la syst\u00e9matique d'un groupe donn\u00e9 d'animaux, de plantes, de champignons, de protistes, de bact\u00e9ries ou d\u2019arch\u00e9obact\u00e9ries. La classification classique propose une hi\u00e9rarchie codifi\u00e9e en 7 rangs principaux et 5 rangs secondaires, pr\u00e9sent\u00e9e, dans l'ordre d\u00e9croissant, de la fa\u00e7on suivante : Monde vivant : r\u00e8gne \u2192 embranchement, division ou phylum \u2192 classe \u2192 ordre \u2192 famille \u2192 tribu \u2192 genre \u2192 section \u2192 s\u00e9rie \u2192 esp\u00e8ce \u2192 vari\u00e9t\u00e9 \u2192 forme RECOFGE est le sigle mn\u00e9motechnique des 7 rangs principaux : R\u00e8gne/Embranchement/Classe/Ordre/Famille/Genre/Esp\u00e8ce. Des rangs suppl\u00e9mentaires (dits \u00ab intercalaires \u00bb) sont \u00e9galement admis en ajoutant les pr\u00e9fixes \u00ab sous- \u00bb, \u00ab infra \u00bb ou \u00ab super \u00bb aux rangs principaux ou secondaires (superordre, sous-genre, infraclasse, etc.). Il est possible en outre de cr\u00e9er de nouveaux rangs (sans validation, car ce ne sont pas des noms de taxons, mais des noms de rang, qui peuvent donc \u00eatre form\u00e9s de mani\u00e8re quelconque) \u00e0 condition d'en pr\u00e9ciser la position relative (par exemple, en mycologie, la stirpe est souvent adopt\u00e9e comme rang imm\u00e9diatement sup\u00e9rieur \u00e0 l'esp\u00e8ce). L'esp\u00e8ce constitue le rang de taxon de base de la classification syst\u00e9matique. Plus le rang du taxon est \u00e9lev\u00e9 et plus le degr\u00e9 de ressemblance entre les individus concern\u00e9s (plantes, animaux, champignons, bact\u00e9ries) diminue, et inversement. Le second en importance est le genre (en latin genus), une esp\u00e8ce ne pouvant pas recevoir un nom scientifique sans \u00eatre affect\u00e9e \u00e0 un genre. Le rang de troisi\u00e8me importance est la famille (en latin familia).",
+                "lang": "fr"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Taxonomic_Rank_Graph.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742689175,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 14644243,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Level"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Species_subgroup": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biological_category": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rank_(botany)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Superfamily_(zoology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Infrasubspecies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Series_(biology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Subsection": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Subdivision_(rank)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Infrasubspecific": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Superfamilies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cohort_(biology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Subphylum_(biology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Superfamily_(biology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rank_(zoology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Species_subgroups": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rank_(taxonomy)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Infracohort": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Subcohort": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kingdom_Phylum_Class": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kingdom_phylum_class_order_family_genus_species": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Section_(zoology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Taxonomic_ranks": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rank_(biology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Epifamily": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nothotaxon": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nothogenera": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nothogenus": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Taxon_rank": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Subsections": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rank": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Brassolaeliocattleya": {
+        "http://dbpedia.org/property/subdivisionRanks": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Percoidei": {
+        "http://dbpedia.org/property/subdivisionRanks": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lemuriformes": {
+        "http://dbpedia.org/property/subdivisionRanks": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rhyncholaeliocattleya": {
+        "http://dbpedia.org/property/subdivisionRanks": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Certhioidea": {
+        "http://dbpedia.org/property/subdivisionRanks": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Asellota": {
+        "http://dbpedia.org/property/subdivisionRanks": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Asaphida": {
+        "http://dbpedia.org/property/subdivisionRanks": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Taxonomic_rank": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Astacidea": {
+        "http://dbpedia.org/property/subdivisionRanks": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Passerida": {
+        "http://dbpedia.org/property/subdivisionRanks": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Taxonomic_rank"
+            }
+        ]
+    }
+}

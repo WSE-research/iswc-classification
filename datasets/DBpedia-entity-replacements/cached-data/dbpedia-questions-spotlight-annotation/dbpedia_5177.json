@@ -1,0 +1,37 @@
+{
+    "@text": "Is the maximum duration of antimicrobial therapy for pediatric pneumonia 12",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Antimicrobial",
+            "@support": "968",
+            "@types": "",
+            "@surfaceForm": "antimicrobial",
+            "@offset": "27",
+            "@similarityScore": "0.9874616942017512",
+            "@percentageOfSecondRank": "0.012471345257641327"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Pediatrics",
+            "@support": "3542",
+            "@types": "",
+            "@surfaceForm": "pediatric",
+            "@offset": "53",
+            "@similarityScore": "0.9999239398004012",
+            "@percentageOfSecondRank": "5.325930537434516E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Pneumonia",
+            "@support": "6721",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "pneumonia",
+            "@offset": "63",
+            "@similarityScore": "0.9996737719666393",
+            "@percentageOfSecondRank": "1.8970369540954676E-4"
+        }
+    ]
+}

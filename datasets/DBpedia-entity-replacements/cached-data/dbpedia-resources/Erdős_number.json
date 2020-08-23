@@ -1,0 +1,516 @@
+{
+    "http://dbpedia.org/resource/Erd\u0151s_number": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Property104916342"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatSeparationNumbers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Relation100031921"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatSocialNetworks"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Number105121418"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Amount105107765"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Magnitude105090441"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatNumbers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Attribute100024264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Network108434259"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/System108435388"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Relationship113780719"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatInterpersonalRelationships"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Nombre d'Erd\u0151s",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Erd\u0151sgetal",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "N\u00famero de Erd\u0151s",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Numero di Erd\u0151s",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u57c3\u5c14\u5fb7\u4ec0\u6570",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Erd\u0151s-Zahl",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Liczba Erd\u0151sa",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Erd\u0151s number",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0639\u062f\u062f \u0625\u064a\u0631\u062f\u0648\u0633",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a8\u30eb\u30c7\u30b7\u30e5\u6570",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0427\u0438\u0441\u043b\u043e \u042d\u0440\u0434\u0451\u0448\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "N\u00famero de Erd\u0151s",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u0427\u0438\u0441\u043b\u043e \u042d\u0440\u0434\u0451\u0448\u0430 (\u0430\u043d\u0433\u043b. Erd\u0151s number) \u2014 \u043c\u0435\u0442\u043e\u0434 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u043a\u0440\u0430\u0442\u0447\u0430\u0439\u0448\u0435\u0433\u043e \u043f\u0443\u0442\u0438 \u0441\u043e\u0430\u0432\u0442\u043e\u0440\u0441\u0442\u0432\u0430 \u043f\u043e \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u044b\u043c \u043d\u0430\u0443\u0447\u043d\u044b\u043c \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u044f\u043c \u043e\u0442 \u043a\u0430\u043a\u043e\u0433\u043e-\u043b\u0438\u0431\u043e \u0443\u0447\u0451\u043d\u043e\u0433\u043e \u0434\u043e \u0432\u0435\u043d\u0433\u0435\u0440\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430 \u041f\u0430\u043b\u0430 \u042d\u0440\u0434\u0451\u0448\u0430 (1913\u20141996). \u042d\u0440\u0434\u0451\u0448 \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u0437\u0430 \u0441\u0432\u043e\u044e \u0436\u0438\u0437\u043d\u044c \u043a\u0430\u043a \u043c\u0438\u043d\u0438\u043c\u0443\u043c 1525 \u0441\u0442\u0430\u0442\u0435\u0439, \u0447\u0442\u043e\u043d\u0435 \u0438\u043c\u0435\u0435\u0442 \u0430\u043d\u0430\u043b\u043e\u0433\u043e\u0432 \u0441\u0440\u0435\u0434\u0438 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0435\u043c\u0443 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u043e\u0432 \u0438 \u0441\u043e\u043f\u043e\u0441\u0442\u0430\u0432\u0438\u043c\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u0441 \u0447\u0438\u0441\u043b\u043e\u043c \u0440\u0430\u0431\u043e\u0442 \u042d\u0439\u043b\u0435\u0440\u0430 (\u0431\u043e\u043b\u0435\u0435 850). \u041f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u0438\u0437 \u044d\u0442\u0438\u0445 \u0440\u0430\u0431\u043e\u0442 \u0431\u044b\u043b\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u044b \u0432 \u0441\u043e\u0430\u0432\u0442\u043e\u0440\u0441\u0442\u0432\u0435, \u0430 \u0432 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0435 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u043a\u043e\u0440\u0435\u0435 \u0438\u0441\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435\u043c, \u0447\u0435\u043c \u043f\u0440\u0430\u0432\u0438\u043b\u043e\u043c, \u043d\u0430\u043b\u0438\u0447\u0438\u0435 \u0442\u0430\u043a\u043e\u0433\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u0447\u0438\u0441\u043b\u0430 \u0441\u043e\u0430\u0432\u0442\u043e\u0440\u043e\u0432 \u043f\u043e\u0440\u043e\u0434\u0438\u043b\u043e \u0432 \u0444\u043e\u043b\u044c\u043a\u043b\u043e\u0440\u0435 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u043e\u0432 \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u00ab\u0447\u0438\u0441\u043b\u043e \u042d\u0440\u0434\u0451\u0448\u0430\u00bb.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Le nombre d'Erd\u0151s d'une personne est sa \u00ab distance de collaboration \u00bb avec le math\u00e9maticien hongrois Paul Erd\u0151s, mesur\u00e9e par publication conjointe.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "O N\u00famero de Erd\u0151s \u00e9 uma homenagem prestada ao matem\u00e1tico h\u00fangaro Paul Erd\u0151s, que publicou em toda sua vida, cerca de 1500 artigos sobre matem\u00e1tica, boa parte deles em parceria. Esse n\u00famero \u00e9 recursivamente calculado da seguinte maneira: \n*  Erd\u0151s possui o n\u00famero de Erd\u0151s igual a 0. \n*  Um matem\u00e1tico M possui esse n\u00famero igual \u00e0 soma de 1 com o menor n\u00famero de Erd\u0151s dos matem\u00e1ticos que escreveram um artigo junto com M.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "El n\u00famero de Erd\u0151s es un modo de describir la distancia colaborativa, en lo relativo a trabajos matem\u00e1ticos entre un autor y Erd\u0151s. El t\u00e9rmino fue acu\u00f1ado en honor al matem\u00e1tico h\u00fangaro Paul Erd\u0151s, uno de los escritores m\u00e1s prol\u00edficos de trabajos matem\u00e1ticos.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Il numero di Erd\u0151s \u00e8 un modo per descrivere la \"distanza\" tra una persona e il matematico ungherese Paul Erd\u0151s in termini di collaborazione in pubblicazioni matematiche. \u00c8 stato creato dagli amici di Erd\u0151s come tributo scherzoso all'enorme numero di pubblicazioni da lui scritte in collaborazione con un gran numero di matematici diversi.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a8\u30eb\u30c7\u30b7\u30e5\u6570\uff08\u30a8\u30eb\u30c7\u30b7\u30e5\u3059\u3046\u3001Erd\u0151s number\uff09\u307e\u305f\u306f\u30a8\u30eb\u30c7\u30b7\u30e5\u756a\u53f7\u3068\u306f\u3001\u6570\u5b66\u8005\u540c\u58eb\u3001\u3042\u308b\u3044\u306f\u3082\u3063\u3068\u5e83\u304f\u79d1\u5b66\u8005\u540c\u58eb\u306e\u3001\u5171\u8457\u8ad6\u6587\u306b\u3088\u308b\u7d50\u3073\u4ed8\u304d\u306b\u304a\u3044\u3066\u3001\u30cf\u30f3\u30ac\u30ea\u30fc\u51fa\u8eab\u306e\u6570\u5b66\u8005\u30dd\u30fc\u30eb\u30fb\u30a8\u30eb\u30c7\u30b7\u30e5\u3068\u3069\u308c\u3060\u3051\u8fd1\u3044\u304b\u3092\u8868\u3059\u6982\u5ff5\u3067\u3042\u308b\u3002\u30a8\u30eb\u30c7\u30b7\u30e5\u306b\u5171\u8457\u8ad6\u6587\u304c\u975e\u5e38\u306b\u591a\u3044\u3053\u3068\u304b\u3089\u3001\u305d\u306e\u53cb\u4eba\u305f\u3061\u306b\u3088\u3063\u3066\u3001\u656c\u610f\u3068\u30e6\u30fc\u30e2\u30a2\u3092\u8fbc\u3081\u3066\u8003\u3048\u51fa\u3055\u308c\u305f\u3002\u4eca\u65e5\u3067\u306f\u79d1\u5b66\u8005\u306e\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u306b\u304a\u3044\u3066\u3088\u304f\u77e5\u3089\u308c\u3066\u304a\u308a\u3001\u30a8\u30eb\u30c7\u30b7\u30e5\u3068\u8fd1\u3044\u3053\u3068\u304c\u540d\u8a89\u3067\u3042\u308b\u304b\u306e\u3088\u3046\u306b\u534a\u3070\u5197\u8ac7\u3081\u3044\u3066\u8a9e\u3089\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Die Erd\u0151s-Zahl beschreibt die Distanz im Graphen der Koautorenschaft bezogen auf den Mathematiker Paul Erd\u0151s. Im Graphen werden die publizistisch verwandten Autoren als Knoten repr\u00e4sentiert, zwischen denen jeweils dann eine Kante existiert, wenn sie eine Publikation gemeinsam verfasst haben. Die Definition der Erd\u0151s-Zahl geht aller Wahrscheinlichkeit nach auf den Analytiker Casper Goffman zur\u00fcck, der bereits 1969 einen wissenschaftlichen Artikel \u00fcber die Kollaborationen von Erd\u0151s verfasste. Der Titel des Aufsatzes lautete: And what is your Erd\u0151s number? (zu deutsch etwa: \u201eUnd, wie hoch ist Ihre Erd\u0151s-Zahl?\u201c)",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0639\u062f\u062f \u0627\u0631\u062f\u0648\u0633 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Erd\u0151s number) ( \u062a\u0644\u0641\u0638 \u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0647\u0646\u063a\u0627\u0631\u064a\u0629 \u0627\u0631\u062f\u0648\u0634 ) \u064a\u0635\u0641 \"\u0627\u0644\u0645\u0633\u0627\u0641\u0629 \u0627\u0644\u062a\u0639\u0627\u0648\u0646\u064a\u0629\" \u0628\u064a\u0646 \u0627\u0644\u0634\u062e\u0635 \u0648\u0639\u0627\u0644\u0645 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0628\u0648\u0644 \u0627\u0631\u062f\u0648\u0633\u060c \u0645\u0642\u0627\u0633\u0627 \u0644\u062a\u0623\u0644\u064a\u0641 \u0623\u0648\u0631\u0627\u0642 \u0628\u062d\u062b\u064a\u0629 \u0641\u064a \u0627\u062e\u062a\u0635\u0627\u0635 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a. \u0648\u0642\u062f \u0627\u0642\u062a\u0631\u062d \u0646\u0641\u0633 \u0627\u0644\u0645\u0628\u062f\u0623 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0644\u0623\u0634\u062e\u0627\u0635 \u0627\u0644\u0628\u0627\u0631\u0632\u064a\u0646 \u0641\u064a \u0645\u062c\u0627\u0644\u0627\u062a \u0623\u062e\u0631\u0649.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Het erd\u0151sgetal, genoemd naar de Hongaarse wiskundige Paul Erd\u0151s, is een wijze om de \"samenwerkingsafstand\" te beschrijven in wetenschappelijke artikelen tussen een auteur en Erd\u0151s. Het erd\u0151sgetal van een auteur wordt als volgt gedefinieerd. \n* Paul Erd\u0151s heeft een erd\u0151sgetal 0. \n* Het erd\u0151sgetal van elke andere auteur X is 1 hoger dan het kleinste erd\u0151sgetal van alle auteurs met wie X ooit een artikel heeft gepubliceerd. \n* Indien geen van de auteurs met wie X ooit een artikel heeft gepubliceerd, een eindig erd\u0151sgetal heeft, is het erd\u0151sgetal van X oneindig groot.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Liczba Erd\u0151sa (czyt. erdesza) \u2013 element matematycznego folkloru zwi\u0105zany z osob\u0105 Paula Erd\u0151sa. Matematyk ten znany by\u0142 z cz\u0119stej wsp\u00f3\u0142pracy z innymi uczonymi. Sam Paul Erd\u0151s ma liczb\u0119 Erd\u0151sa r\u00f3wn\u0105 0. Osoba, kt\u00f3ra napisa\u0142a prac\u0119 naukow\u0105 wsp\u00f3lnie z Erd\u0151sem, ma liczb\u0119 Erd\u0151sa r\u00f3wn\u0105 1. Z kolei osoba, kt\u00f3ra napisa\u0142a prac\u0119 naukow\u0105 z kim\u015b kogo liczba Erd\u0151sa wynosi\u0142a 1, ma liczb\u0119 Erd\u0151sa r\u00f3wn\u0105 2 itd. Naukowiec pisz\u0105cy swe prace samodzielnie otrzymuje niesko\u0144czon\u0105 liczb\u0119 Erd\u0151sa. Erd\u0151s p\u00f3\u0142 \u017cartem wspomina\u0142 o u\u0142amkowych liczbach Erd\u0151sa. Je\u015bli jaki\u015b matematyk napisa\u0142 wsp\u00f3lnie z nim n prac, to jego liczba Erd\u0151sa wynosi 1/n.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "The Erd\u0151s number (Hungarian pronunciation: [\u02c8\u025brd\u00f8\u02d0\u0283]) describes the \"collaborative distance\" between mathematician Paul Erd\u0151s and another person, as measured by authorship of mathematical papers. The same principle has been applied in other fields where a particular individual has collaborated with a large and broad number of peers. The American Mathematical Society provides a free online tool to determine the Erd\u0151s number of every mathematical author listed in the Mathematical Reviews catalogue.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u57c3\u5c14\u5fb7\u4ec0\u6570\uff08\u7c21\u7a31\u57c3\u6578\uff09\uff08Erd\u0151s number\uff09\uff0c\u6839\u636e\u73b0\u4ee3\u5308\u7259\u5229\u6570\u5b66\u5bb6\u4fdd\u7f57\u00b7\u57c3\u5c14\u5fb7\u4ec0\uff0c\u8fd9\u4e2a\u6700\u591a\u4ea7\u7684\u6570\u5b66\u5bb6\u547d\u540d\uff0c\u662f\u63cf\u8ff0\u6570\u5b66\u8bba\u6587\u4e2d\u4e00\u4e2a\u4f5c\u8005\u4e0e\u57c3\u5c14\u5fb7\u4ec0\u7684\u201c\u5408\u4f5c\u8ddd\u79bb\u201d\u7684\u4e00\u79cd\u65b9\u5f0f\u3002\u83f2\u5c14\u8328\u5956\u83b7\u5f97\u8005\u7684\u57c3\u6570\u4e2d\u4f4d\u6570\u6700\u4f4e\u65f6\u4e3a3\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Nombre_d'Erd\u0151s"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Numero_di_Erd\u0151s"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Erd\u0151s-Zahl"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.02nhg"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc5d0\ub974\ub418\uc2dc_\uc218"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0391\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2_Erd\u0151s"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/N\u00famero_de_Erd\u0151s"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30a8\u30eb\u30c7\u30b7\u30e5\u6570"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/N\u00famero_de_Erd\u0151s"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Bilangan_Erd\u0151s"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q243972"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Erd\u0151s_number"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Erd\u0151sovo_\u010d\u00edslo"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Erd\u0151sgetal"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Liczba_Erd\u0151sa"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q243972"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Bibliometrics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Mathematics_literature"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Social_networks"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Separation_numbers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Paul_Erd\u0151s"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Erdos_budapest_fall_1992.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Erd\u0151s_number"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Erd\u0151s_number?oldid=744558247"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "https://www.youtube.com/watch?v=izdZPx89ph4"
+            },
+            {
+                "type": "uri",
+                "value": "http://vlado.fmf.uni-lj.si/pub/networks/doc/erdos/erdos.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ams.org/mathscinet/collaborationDistance.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://academic.research.microsoft.com/VisualExplorer#12779261&1112639"
+            },
+            {
+                "type": "uri",
+                "value": "http://www4.oakland.edu/upload/docs/Erdos%20Number%20Project/collab.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.oakland.edu/enp"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u0639\u062f\u062f \u0627\u0631\u062f\u0648\u0633 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Erd\u0151s number) ( \u062a\u0644\u0641\u0638 \u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0647\u0646\u063a\u0627\u0631\u064a\u0629 \u0627\u0631\u062f\u0648\u0634 ) \u064a\u0635\u0641 \"\u0627\u0644\u0645\u0633\u0627\u0641\u0629 \u0627\u0644\u062a\u0639\u0627\u0648\u0646\u064a\u0629\" \u0628\u064a\u0646 \u0627\u0644\u0634\u062e\u0635 \u0648\u0639\u0627\u0644\u0645 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0628\u0648\u0644 \u0627\u0631\u062f\u0648\u0633\u060c \u0645\u0642\u0627\u0633\u0627 \u0644\u062a\u0623\u0644\u064a\u0641 \u0623\u0648\u0631\u0627\u0642 \u0628\u062d\u062b\u064a\u0629 \u0641\u064a \u0627\u062e\u062a\u0635\u0627\u0635 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a. \u0648\u0642\u062f \u0627\u0642\u062a\u0631\u062d \u0646\u0641\u0633 \u0627\u0644\u0645\u0628\u062f\u0623 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0644\u0623\u0634\u062e\u0627\u0635 \u0627\u0644\u0628\u0627\u0631\u0632\u064a\u0646 \u0641\u064a \u0645\u062c\u0627\u0644\u0627\u062a \u0623\u062e\u0631\u0649.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "The Erd\u0151s number (Hungarian pronunciation: [\u02c8\u025brd\u00f8\u02d0\u0283]) describes the \"collaborative distance\" between mathematician Paul Erd\u0151s and another person, as measured by authorship of mathematical papers. The same principle has been applied in other fields where a particular individual has collaborated with a large and broad number of peers. The American Mathematical Society provides a free online tool to determine the Erd\u0151s number of every mathematical author listed in the Mathematical Reviews catalogue.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u57c3\u5c14\u5fb7\u4ec0\u6570\uff08\u7c21\u7a31\u57c3\u6578\uff09\uff08Erd\u0151s number\uff09\uff0c\u6839\u636e\u73b0\u4ee3\u5308\u7259\u5229\u6570\u5b66\u5bb6\u4fdd\u7f57\u00b7\u57c3\u5c14\u5fb7\u4ec0\uff0c\u8fd9\u4e2a\u6700\u591a\u4ea7\u7684\u6570\u5b66\u5bb6\u547d\u540d\uff0c\u662f\u63cf\u8ff0\u6570\u5b66\u8bba\u6587\u4e2d\u4e00\u4e2a\u4f5c\u8005\u4e0e\u57c3\u5c14\u5fb7\u4ec0\u7684\u201c\u5408\u4f5c\u8ddd\u79bb\u201d\u7684\u4e00\u79cd\u65b9\u5f0f\u3002\u83f2\u5c14\u8328\u5956\u83b7\u5f97\u8005\u7684\u57c3\u6570\u4e2d\u4f4d\u6570\u6700\u4f4e\u65f6\u4e3a3\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a8\u30eb\u30c7\u30b7\u30e5\u6570\uff08\u30a8\u30eb\u30c7\u30b7\u30e5\u3059\u3046\u3001Erd\u0151s number\uff09\u307e\u305f\u306f\u30a8\u30eb\u30c7\u30b7\u30e5\u756a\u53f7\u3068\u306f\u3001\u6570\u5b66\u8005\u540c\u58eb\u3001\u3042\u308b\u3044\u306f\u3082\u3063\u3068\u5e83\u304f\u79d1\u5b66\u8005\u540c\u58eb\u306e\u3001\u5171\u8457\u8ad6\u6587\u306b\u3088\u308b\u7d50\u3073\u4ed8\u304d\u306b\u304a\u3044\u3066\u3001\u30cf\u30f3\u30ac\u30ea\u30fc\u51fa\u8eab\u306e\u6570\u5b66\u8005\u30dd\u30fc\u30eb\u30fb\u30a8\u30eb\u30c7\u30b7\u30e5\u3068\u3069\u308c\u3060\u3051\u8fd1\u3044\u304b\u3092\u8868\u3059\u6982\u5ff5\u3067\u3042\u308b\u3002\u30a8\u30eb\u30c7\u30b7\u30e5\u306b\u5171\u8457\u8ad6\u6587\u304c\u975e\u5e38\u306b\u591a\u3044\u3053\u3068\u304b\u3089\u3001\u305d\u306e\u53cb\u4eba\u305f\u3061\u306b\u3088\u3063\u3066\u3001\u656c\u610f\u3068\u30e6\u30fc\u30e2\u30a2\u3092\u8fbc\u3081\u3066\u8003\u3048\u51fa\u3055\u308c\u305f\u3002\u4eca\u65e5\u3067\u306f\u79d1\u5b66\u8005\u306e\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u306b\u304a\u3044\u3066\u3088\u304f\u77e5\u3089\u308c\u3066\u304a\u308a\u3001\u30a8\u30eb\u30c7\u30b7\u30e5\u3068\u8fd1\u3044\u3053\u3068\u304c\u540d\u8a89\u3067\u3042\u308b\u304b\u306e\u3088\u3046\u306b\u534a\u3070\u5197\u8ac7\u3081\u3044\u3066\u8a9e\u3089\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Die Erd\u0151s-Zahl beschreibt die Distanz im Graphen der Koautorenschaft bezogen auf den Mathematiker Paul Erd\u0151s. Im Graphen werden die publizistisch verwandten Autoren als Knoten repr\u00e4sentiert, zwischen denen jeweils dann eine Kante existiert, wenn sie eine Publikation gemeinsam verfasst haben. Die Definition der Erd\u0151s-Zahl geht aller Wahrscheinlichkeit nach auf den Analytiker Casper Goffman zur\u00fcck, der bereits 1969 einen wissenschaftlichen Artikel \u00fcber die Kollaborationen von Erd\u0151s verfasste. Der Titel des Aufsatzes lautete: And what is your Erd\u0151s number? (zu deutsch etwa: \u201eUnd, wie hoch ist Ihre Erd\u0151s-Zahl?\u201c) Gem\u00e4\u00df der Definition der Erd\u0151s-Zahl hat Paul Erd\u0151s selbst die Erd\u0151s-Zahl 0, alle Koautoren, mit welchen er publiziert hat, haben die Erd\u0151s-Zahl 1. Autoren, die mit Koautoren von Paul Erd\u0151s (aber eben nicht mit Erd\u0151s selbst) publiziert haben, haben die Erd\u0151s-Zahl 2 usw. Wenn keine Verbindung in dieser Form zu einer Person herstellbar ist, ist deren Erd\u0151s-Zahl unendlich. Es zeigt sich, dass die Erd\u0151s-Zahl der meisten Personen entweder unendlich oder sehr klein ist \u2013 Die 268.000 Personen, f\u00fcr welche im Rahmen des Erd\u0151szahlprojektes ein endlicher Wert ermittelt werden konnte, haben eine durchschnittliche Erd\u0151s-Zahl von 4,65. Dies r\u00fchrt vor allem daher, dass Erd\u0151s in vielen Teilbereichen der Mathematik gearbeitet und mit \u00fcber 500 verschiedenen Wissenschaftlern gemeinsam publiziert hat. Als Grundlage f\u00fcr die Berechnung der jeweiligen Erd\u0151s-Zahl dienen bibliografische Datenbanken, die vom Erd\u0151s-Zahl-Projekt verwaltet und regelm\u00e4\u00dfig aktualisiert werden. Auf deren Basis l\u00e4sst sich die Erd\u0151s-Zahl jedes Autors bestimmen. Von Bedeutung f\u00fcr den einzelnen Mathematiker ist die Berechnung der Erd\u0151s-Zahl nicht, auch wenn der Graph der Koautorenschaft zu Erd\u0151s oft als Beispiel f\u00fcr Graphen von Netzwerken in wissenschaftlichen Publikationen benutzt wird. Allgemein betrachtet veranschaulicht die Erd\u0151s-Zahl einen Aspekt sozialer Netzwerke, der auch im Rahmen des Kleine-Welt-Ph\u00e4nomens behandelt wird. Andere Verwandtschaftsbeziehungen lassen sich analog definieren; prominentestes \u00e4hnliches Beispiel ist die Bacon-Zahl, die \u00fcber Kollaborationen unter Schauspielern definiert ist. William Tozier, ein Mathematiker mit der Erd\u0151s-Zahl 4, bot 2004 eine Mitautorenschaft in einer Auktion auf eBay an, und erm\u00f6glichte so dem Gewinner, die Erd\u0151s-Zahl 5 zu erwerben. Die Versteigerung wurde von einem spanischen Mathematiker mit einem Gebot von 1.031 $ gewonnen. Allerdings weigerte dieser sich anschlie\u00dfend, zu bezahlen, und erkl\u00e4rte, er habe sein Gebot nur abgegeben, um die Versteigerung, die er als Farce empfand, zu unterbinden.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "O N\u00famero de Erd\u0151s \u00e9 uma homenagem prestada ao matem\u00e1tico h\u00fangaro Paul Erd\u0151s, que publicou em toda sua vida, cerca de 1500 artigos sobre matem\u00e1tica, boa parte deles em parceria. Esse n\u00famero \u00e9 recursivamente calculado da seguinte maneira: \n*  Erd\u0151s possui o n\u00famero de Erd\u0151s igual a 0. \n*  Um matem\u00e1tico M possui esse n\u00famero igual \u00e0 soma de 1 com o menor n\u00famero de Erd\u0151s dos matem\u00e1ticos que escreveram um artigo junto com M. Existem 511 matem\u00e1ticos com n\u00famero de Erd\u0151s igual a 1, ou seja, que escreveram artigos em parceria com Erd\u0151s. Os matem\u00e1ticos que escreveram artigos junto com estes, possuem esse n\u00famero igual a 2, os que escreveram artigos junto com estes \u00faltimos, possuem o n\u00famero igual a 3, e assim por diante. Aquele(a) que nunca escreveu nenhum artigo com Erd\u0151s ou com algum matem\u00e1tico que tenha escrito com Erd\u0151s ou com um matem\u00e1tico que escreveu com outro que tenha escrito com Erd\u0151s, e assim sucessivamente, tem n\u00famero de Erd\u0151s infinito. Na pr\u00e1tica, o N\u00famero de Erd\u0151s informa para cada n\u00f3 em um grafo qual a quantidade m\u00ednima de conex\u00f5es (ou arestas) devem ser utilizadas para navegar de um n\u00f3 a outro n\u00f3 espec\u00edfico (chamado de Erd\u0151s ou Source).",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Het erd\u0151sgetal, genoemd naar de Hongaarse wiskundige Paul Erd\u0151s, is een wijze om de \"samenwerkingsafstand\" te beschrijven in wetenschappelijke artikelen tussen een auteur en Erd\u0151s. Het erd\u0151sgetal van een auteur wordt als volgt gedefinieerd. \n* Paul Erd\u0151s heeft een erd\u0151sgetal 0. \n* Het erd\u0151sgetal van elke andere auteur X is 1 hoger dan het kleinste erd\u0151sgetal van alle auteurs met wie X ooit een artikel heeft gepubliceerd. \n* Indien geen van de auteurs met wie X ooit een artikel heeft gepubliceerd, een eindig erd\u0151sgetal heeft, is het erd\u0151sgetal van X oneindig groot. Dit betekent het volgende. Erd\u0151s heeft in zijn leven ongeveer 1500 wiskundige artikelen geschreven, meestal met coauteurs. 509 wiskundigen hebben samen met hem gepubliceerd: zij hebben erd\u0151sgetal 1. De auteurs die met (een of meer) van hen hebben samengewerkt, maar niet met Erd\u0151s zelf, hebben een erd\u0151sgetal 2; dit zijn momenteel een kleine 7000 wetenschappers. Al hun coauteurs, behalve zij die reeds een erd\u0151sgetal 1 of 2 hebben, hebben een erd\u0151sgetal 3, enzovoort. Indien geen \"keten van coauteurs\" tussen een auteur Y en Erd\u0151s is te maken, is het erd\u0151sgetal van Y oneindig groot. Erd\u0151sgetallen zijn al vele jaren een onderdeel van de folklore van de wiskundige wereld. Onder alle publicerende wiskundigen aan het eind van de twintigste eeuw wordt gewoonlijk maximaal een erd\u0151sgetal van 15 behaald, maar het gemiddelde ligt onder de 5. Door de toegenomen interdisciplinaire samenwerking is het mogelijk geworden dat een substantieel deel van alle wetenschappers die (veel) artikelen met andere wetenschappers hebben gepubliceerd, eindige erd\u0151sgetallen hebben, zelfs in velden die ver liggen van pure wiskunde (zelfs geneeskunde of sociale wetenschappen). Men kan bijvoorbeeld denken aan een statisticus met een eindig erd\u0151sgetal die heeft samengewerkt met farmacologen, die daardoor ook een eindig erd\u0151sgetal hebben \"verworven\", enzovoort. Het bacongetal is een toepassing van hetzelfde idee in de filmindustrie, dat acteurs die samen in \u00e9\u00e9n film hebben gespeeld verbindt aan acteur Kevin Bacon. De som van het erd\u0151sgetal en het bacongetal van een persoon wordt wel het Erd\u0151s-Bacongetal genoemd. Voor de grap wordt wel gezegd dat ook honkballer Hank Aaron een erd\u0151sgetal van 1 heeft, omdat hij en Erd\u0151s hun handtekening zetten op dezelfde honkbal, toen zij beiden een eredoctoraat ontvingen van Emory University.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Le nombre d'Erd\u0151s d'une personne est sa \u00ab distance de collaboration \u00bb avec le math\u00e9maticien hongrois Paul Erd\u0151s, mesur\u00e9e par publication conjointe.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Il numero di Erd\u0151s \u00e8 un modo per descrivere la \"distanza\" tra una persona e il matematico ungherese Paul Erd\u0151s in termini di collaborazione in pubblicazioni matematiche. \u00c8 stato creato dagli amici di Erd\u0151s come tributo scherzoso all'enorme numero di pubblicazioni da lui scritte in collaborazione con un gran numero di matematici diversi. Paul Erd\u0151s era un matematico \"itinerante\", che trascorse gran parte della sua vita passando da un dipartimento di matematica all'altro, pubblicando ricerche con i colleghi desiderosi di ospitarlo. Ha pubblicato nella sua vita almeno 1400 lavori, secondo solo a Eulero per numero di pubblicazioni, con pi\u00f9 di 500 collaboratori diversi.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Liczba Erd\u0151sa (czyt. erdesza) \u2013 element matematycznego folkloru zwi\u0105zany z osob\u0105 Paula Erd\u0151sa. Matematyk ten znany by\u0142 z cz\u0119stej wsp\u00f3\u0142pracy z innymi uczonymi. Sam Paul Erd\u0151s ma liczb\u0119 Erd\u0151sa r\u00f3wn\u0105 0. Osoba, kt\u00f3ra napisa\u0142a prac\u0119 naukow\u0105 wsp\u00f3lnie z Erd\u0151sem, ma liczb\u0119 Erd\u0151sa r\u00f3wn\u0105 1. Z kolei osoba, kt\u00f3ra napisa\u0142a prac\u0119 naukow\u0105 z kim\u015b kogo liczba Erd\u0151sa wynosi\u0142a 1, ma liczb\u0119 Erd\u0151sa r\u00f3wn\u0105 2 itd. Naukowiec pisz\u0105cy swe prace samodzielnie otrzymuje niesko\u0144czon\u0105 liczb\u0119 Erd\u0151sa. Erd\u0151s p\u00f3\u0142 \u017cartem wspomina\u0142 o u\u0142amkowych liczbach Erd\u0151sa. Je\u015bli jaki\u015b matematyk napisa\u0142 wsp\u00f3lnie z nim n prac, to jego liczba Erd\u0151sa wynosi 1/n. Liczba Erd\u0151sa w\u015br\u00f3d aktywnych matematyk\u00f3w osi\u0105gn\u0119\u0142a maksymalnie warto\u015b\u0107 15, jednak \u015brednia jest mniejsza ni\u017c 5, a wi\u0119kszo\u015b\u0107 ma liczb\u0119 Erd\u0151sa mniejsz\u0105 ni\u017c 8. Obecnie liczb\u0119 Erd\u0151sa mo\u017cna wyznaczy\u0107 za pomoc\u0105 MathSciNet-u, najwi\u0119kszej bazy danych prac matematycznych Ameryka\u0144skiego Towarzystwa Matematycznego. 509 uczonych ma liczb\u0119 Erd\u0151sa r\u00f3wn\u0105 1. W 2000 r. naukowc\u00f3w z \"dw\u00f3jk\u0105\" by\u0142o 5897. Ich liczba ci\u0105gle si\u0119 zwi\u0119ksza (gdy\u017c powstaj\u0105 nowe wsp\u00f3lne prace), chocia\u017c liczba \u017cyj\u0105cych uczonych z \"jedynk\u0105\" ci\u0105gle si\u0119 zmniejsza, gdy\u017c sam Erd\u0151s ju\u017c nie \u017cyje i umieraj\u0105 te\u017c jego wsp\u00f3\u0142pracownicy. Oko\u0142o 63 laureat\u00f3w Nagrody Nobla oraz wszyscy laureaci Nagrody Nevanlinny maj\u0105 liczb\u0119 Erd\u0151sa poni\u017cej 9, natomiast laureaci Medalu Fieldsa \u2013 poni\u017cej 6. Liczby Erd\u0151sa niekt\u00f3rych uczonych: \n*  John von Neumann \u2013 3 \n*  Albert Einstein \u2013 2 \n*  Enrico Fermi \u2013 3 \n*  George Gamow \u2013 5 \n*  Roger Penrose \u2013 4 \n*  Karl Popper \u2013 8 \n*  Noam Chomsky \u2013 4 \n*  John Nash Jr \u2013 4 Prawdopodobnie pierwsza wzmianka o tej liczbie pojawi\u0142a si\u0119 w 1969 r., w pracy Caspera Goffmana And what is your Erd\u0151s number? Liczba Erd\u0151sa bywa te\u017c nazywana odleg\u0142o\u015bci\u0105 od Erd\u0151sa. Podobna koncepcja wyst\u0105pi\u0142a w pracach Stanleya Milgrama, kt\u00f3ry twierdzi\u0142 \u017ce mi\u0119dzy dwiema dowolnymi osobami na Ziemi istnieje ci\u0105g \u015brednio sze\u015bciu znajomych. Dowodem na to mia\u0142 by\u0107 przeprowadzony przez niego eksperyment \"\u015bwiat jest ma\u0142y\".",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0427\u0438\u0441\u043b\u043e \u042d\u0440\u0434\u0451\u0448\u0430 (\u0430\u043d\u0433\u043b. Erd\u0151s number) \u2014 \u043c\u0435\u0442\u043e\u0434 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u043a\u0440\u0430\u0442\u0447\u0430\u0439\u0448\u0435\u0433\u043e \u043f\u0443\u0442\u0438 \u0441\u043e\u0430\u0432\u0442\u043e\u0440\u0441\u0442\u0432\u0430 \u043f\u043e \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u044b\u043c \u043d\u0430\u0443\u0447\u043d\u044b\u043c \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u044f\u043c \u043e\u0442 \u043a\u0430\u043a\u043e\u0433\u043e-\u043b\u0438\u0431\u043e \u0443\u0447\u0451\u043d\u043e\u0433\u043e \u0434\u043e \u0432\u0435\u043d\u0433\u0435\u0440\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430 \u041f\u0430\u043b\u0430 \u042d\u0440\u0434\u0451\u0448\u0430 (1913\u20141996). \u042d\u0440\u0434\u0451\u0448 \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u0437\u0430 \u0441\u0432\u043e\u044e \u0436\u0438\u0437\u043d\u044c \u043a\u0430\u043a \u043c\u0438\u043d\u0438\u043c\u0443\u043c 1525 \u0441\u0442\u0430\u0442\u0435\u0439, \u0447\u0442\u043e\u043d\u0435 \u0438\u043c\u0435\u0435\u0442 \u0430\u043d\u0430\u043b\u043e\u0433\u043e\u0432 \u0441\u0440\u0435\u0434\u0438 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0435\u043c\u0443 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u043e\u0432 \u0438 \u0441\u043e\u043f\u043e\u0441\u0442\u0430\u0432\u0438\u043c\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u0441 \u0447\u0438\u0441\u043b\u043e\u043c \u0440\u0430\u0431\u043e\u0442 \u042d\u0439\u043b\u0435\u0440\u0430 (\u0431\u043e\u043b\u0435\u0435 850). \u041f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u0438\u0437 \u044d\u0442\u0438\u0445 \u0440\u0430\u0431\u043e\u0442 \u0431\u044b\u043b\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u044b \u0432 \u0441\u043e\u0430\u0432\u0442\u043e\u0440\u0441\u0442\u0432\u0435, \u0430 \u0432 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0435 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u043a\u043e\u0440\u0435\u0435 \u0438\u0441\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435\u043c, \u0447\u0435\u043c \u043f\u0440\u0430\u0432\u0438\u043b\u043e\u043c, \u043d\u0430\u043b\u0438\u0447\u0438\u0435 \u0442\u0430\u043a\u043e\u0433\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u0447\u0438\u0441\u043b\u0430 \u0441\u043e\u0430\u0432\u0442\u043e\u0440\u043e\u0432 \u043f\u043e\u0440\u043e\u0434\u0438\u043b\u043e \u0432 \u0444\u043e\u043b\u044c\u043a\u043b\u043e\u0440\u0435 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u043e\u0432 \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u00ab\u0447\u0438\u0441\u043b\u043e \u042d\u0440\u0434\u0451\u0448\u0430\u00bb. \u042d\u0442\u043e \u0447\u0438\u0441\u043b\u043e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c: \n*  \u0443 \u0441\u0430\u043c\u043e\u0433\u043e \u042d\u0440\u0434\u0451\u0448\u0430 \u043e\u043d\u043e \u0440\u0430\u0432\u043d\u043e \u043d\u0443\u043b\u044e, \n*  \u0443 \u043d\u0435\u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0441\u043e\u0430\u0432\u0442\u043e\u0440\u043e\u0432 \u042d\u0440\u0434\u0451\u0448\u0430 \u044d\u0442\u043e \u0447\u0438\u0441\u043b\u043e \u0440\u0430\u0432\u043d\u043e \u0435\u0434\u0438\u043d\u0438\u0446\u0435 (\u0432\u0441\u0435\u0433\u043e 511 \u0447\u0435\u043b\u043e\u0432\u0435\u043a), \n*  \u0441\u043e\u0430\u0432\u0442\u043e\u0440\u044b \u043b\u044e\u0434\u0435\u0439 \u0441 \u0447\u0438\u0441\u043b\u043e\u043c \u042d\u0440\u0434\u0451\u0448\u0430, \u0440\u0430\u0432\u043d\u044b\u043c n (\u0438 \u043d\u0435 \u0438\u043c\u0435\u044e\u0449\u0438\u0435 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0447\u0438\u0441\u043b\u0430 \u042d\u0440\u0434\u0451\u0448\u0430 \u043c\u0435\u043d\u044c\u0448\u0435 \u0438\u043b\u0438 \u0440\u0430\u0432\u043d\u043e\u0433\u043e n), \u0438\u043c\u0435\u044e\u0442 \u0447\u0438\u0441\u043b\u043e \u042d\u0440\u0434\u0451\u0448\u0430 n+1, \n*  \u043b\u044e\u0434\u0438, \u0434\u043b\u044f \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u043f\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0446\u0435\u043f\u043e\u0447\u043a\u0443 \u0441\u043e\u0430\u0432\u0442\u043e\u0440\u043e\u0432 \u043a \u041f\u043e\u043b\u0443 \u042d\u0440\u0434\u0451\u0448\u0443, \u0438\u043c\u0435\u044e\u0442 \u0447\u0438\u0441\u043b\u043e \u042d\u0440\u0434\u0451\u0448\u0430, \u0440\u0430\u0432\u043d\u043e\u0435 \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u043e\u0441\u0442\u0438. \u0412\u043f\u0435\u0440\u0432\u044b\u0435 \u044d\u0442\u043e \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b \u041a\u0430\u0441\u043f\u0435\u0440 \u0413\u043e\u0444\u0444\u043c\u0430\u043d \u2014 \u0432 1969 \u0433\u043e\u0434\u0443 \u0432\u044b\u0448\u043b\u0430 \u0435\u0433\u043e \u0441\u0442\u0430\u0442\u044c\u044f \u00abAnd what is your Erd\u0151s number?\u00bb, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043e\u043d \u043e\u043f\u0438\u0441\u0430\u043b \u0441\u0432\u043e\u0438 \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u042d\u0440\u0434\u0451\u0448\u0430 \u0441 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u0443\u0447\u0451\u043d\u044b\u043c\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "El n\u00famero de Erd\u0151s es un modo de describir la distancia colaborativa, en lo relativo a trabajos matem\u00e1ticos entre un autor y Erd\u0151s. El t\u00e9rmino fue acu\u00f1ado en honor al matem\u00e1tico h\u00fangaro Paul Erd\u0151s, uno de los escritores m\u00e1s prol\u00edficos de trabajos matem\u00e1ticos.",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Erdos_budapest_fall_1992.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744558247,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 9742,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Erd\u0151s_numbers": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Erd\u00f6s_Number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Erdos_Number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Erd\u00f6s_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Erd\u0151s_number": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Erdoes_Number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Erdoes_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Einstein_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Erd\u0151s": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shusaku_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Erdos_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Erd\u0151s_Number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Erdos_numbers": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Erd\u0151s_number"
+            }
+        ]
+    }
+}

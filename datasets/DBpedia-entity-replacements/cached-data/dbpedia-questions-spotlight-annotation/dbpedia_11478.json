@@ -1,0 +1,37 @@
+{
+    "@text": "Which jurisdiction of Parliament of the United Kingdom that has diplomatic relation to Malta?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Parliament_of_the_United_Kingdom",
+            "@support": "14414",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q11204,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature,DBpedia:Agent",
+            "@surfaceForm": "Parliament",
+            "@offset": "22",
+            "@similarityScore": "0.9527129894459135",
+            "@percentageOfSecondRank": "0.016963355574525718"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_Kingdom",
+            "@support": "196237",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United Kingdom",
+            "@offset": "40",
+            "@similarityScore": "0.9980467976789527",
+            "@percentageOfSecondRank": "0.0010777522536441469"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Malta",
+            "@support": "26435",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Malta",
+            "@offset": "87",
+            "@similarityScore": "0.9920688183043348",
+            "@percentageOfSecondRank": "0.0076430709881751754"
+        }
+    ]
+}

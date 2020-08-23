@@ -1,0 +1,28 @@
+{
+    "@text": "Which is {sports league} of {team played for} {Hope Solo} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Sports_league",
+            "@support": "1990",
+            "@types": "",
+            "@surfaceForm": "sports league",
+            "@offset": "10",
+            "@similarityScore": "0.9999999995515907",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Hope_Solo",
+            "@support": "186",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q937857,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:SoccerPlayer,DBpedia:Person,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Hope Solo",
+            "@offset": "47",
+            "@similarityScore": "0.9999999999747331",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

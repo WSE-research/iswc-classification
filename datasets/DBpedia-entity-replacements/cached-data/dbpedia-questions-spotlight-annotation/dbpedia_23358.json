@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the coach of Ankara's ice hockey team?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ankara",
+            "@support": "7612",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Ankara",
+            "@offset": "20",
+            "@similarityScore": "0.9992366041330202",
+            "@percentageOfSecondRank": "7.15924048951671E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ice_hockey",
+            "@support": "39412",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "ice hockey",
+            "@offset": "29",
+            "@similarityScore": "0.9998934960743739",
+            "@percentageOfSecondRank": "9.417520407783595E-5"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Mention the horse used by Robert E. Lee during mounting.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Horse",
+            "@support": "12987",
+            "@types": "Wikidata:Q7377,Wikidata:Q729,Wikidata:Q19088,DBpedia:Species,DBpedia:Mammal,DBpedia:Eukaryote,DBpedia:Animal",
+            "@surfaceForm": "horse",
+            "@offset": "12",
+            "@similarityScore": "0.997794280915038",
+            "@percentageOfSecondRank": "0.0011133562536104135"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Robert_E._Lee",
+            "@support": "4095",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:MilitaryPerson,DBpedia:Agent",
+            "@surfaceForm": "Lee",
+            "@offset": "36",
+            "@similarityScore": "0.9979628033164316",
+            "@percentageOfSecondRank": "7.343627340679669E-4"
+        }
+    ]
+}

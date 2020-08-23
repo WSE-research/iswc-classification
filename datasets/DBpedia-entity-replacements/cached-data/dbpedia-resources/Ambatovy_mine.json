@@ -1,0 +1,235 @@
+{
+    "http://en.wikipedia.org/wiki/Ambatovy_mine": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ambatovy_mine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ambatovy_mine": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoGeoEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Mine103768346"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Excavation103302121"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatNickelMinesInMadagascar"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Artifact100021939"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Ambatovymijn",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Ambatovy mine",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Ambatovy, located in Madagascar, off the east coast of Africa, is one of the world\u2019s largest lateritic nickel mines with a production capacity of 60,000 tonnes ( 132,27 pounds) of nickel and 5,600 tonnes (11,023 pounds) of cobalt per year with mine life estimated at 29 years. It is a joint venture between the Canadian mining company Sherritt (40%), who also serves as Ambatovy\u2019s operator, Sumitomo Corp. (32.5%), and Kores (27.5%). It currently employs approximately 9,000 people, 84% of whom are Malagasy. The Mine, located in the Alaotra Mangoro region, is set on two nickel deposits, the Analamay and Ambatovy deposits, with estimated reserves of 125 million tonnes of ore. The Plant site is located on the eastern coast of the island in Toamasina and is connected to the mine by a 220 km slurry",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "De Ambatovymijn is een mijn in Madagaskar. De mijn is gelegen in de regio Alaotra-Mangoro. Met een geschatte opbrengst van 60 000 ton nikkel per jaar is het een van de belangrijkste nikkelmijnen ter wereld. Ook wordt er per jaar circa 5600 ton kobalt gewonnen. De mijn bevat ongeveer 125 miljoen ton erts.",
+                "lang": "nl"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q16002794"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Ambatovymijn"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q16002794"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0w4_f88"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ambatovy_mine"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Ambatovy_mine"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Nickel_mines_in_Madagascar"
+            }
+        ],
+        "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+            {
+                "type": "literal",
+                "value": -18.84600067138672,
+                "datatype": "http://www.w3.org/2001/XMLSchema#float"
+            }
+        ],
+        "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+            {
+                "type": "literal",
+                "value": 48.30400085449219,
+                "datatype": "http://www.w3.org/2001/XMLSchema#float"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Ambatovy_mine"
+            }
+        ],
+        "http://www.w3.org/2003/01/geo/wgs84_pos#geometry": [
+            {
+                "type": "literal",
+                "value": "POINT(48.304000854492 -18.846000671387)",
+                "datatype": "http://www.openlinksw.com/schemas/virtrdf#Geometry"
+            }
+        ],
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "literal",
+                "value": "Primary: Nickel and Cobalt, By-product: AMSUL fertilizer",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/state/province": [
+            {
+                "type": "literal",
+                "value": "Atsinanana and Alaotra Mangoro regions",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Ambatovy_mine?oldid=691273572"
+            }
+        ],
+        "http://www.georss.org/georss/point": [
+            {
+                "type": "literal",
+                "value": "-18.846 48.304"
+            }
+        ],
+        "http://dbpedia.org/property/stockCode": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Private_corporation"
+            }
+        ],
+        "http://dbpedia.org/property/owner": [
+            {
+                "type": "literal",
+                "value": "Joint Venture: Sherritt, Sumitomo Corp, Kores",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/stockExchange": [
+            {
+                "type": "literal",
+                "value": "None",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/officialWebsite": [
+            {
+                "type": "literal",
+                "value": "www.ambatovy.com",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Ambatovy, located in Madagascar, off the east coast of Africa, is one of the world\u2019s largest lateritic nickel mines with a production capacity of 60,000 tonnes ( 132,27 pounds) of nickel and 5,600 tonnes (11,023 pounds) of cobalt per year with mine life estimated at 29 years. It is a joint venture between the Canadian mining company Sherritt (40%), who also serves as Ambatovy\u2019s operator, Sumitomo Corp. (32.5%), and Kores (27.5%). It currently employs approximately 9,000 people, 84% of whom are Malagasy. The Mine, located in the Alaotra Mangoro region, is set on two nickel deposits, the Analamay and Ambatovy deposits, with estimated reserves of 125 million tonnes of ore. The Plant site is located on the eastern coast of the island in Toamasina and is connected to the mine by a 220 km slurry pipeline.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "De Ambatovymijn is een mijn in Madagaskar. De mijn is gelegen in de regio Alaotra-Mangoro. Met een geschatte opbrengst van 60 000 ton nikkel per jaar is het een van de belangrijkste nikkelmijnen ter wereld. Ook wordt er per jaar circa 5600 ton kobalt gewonnen. De mijn bevat ongeveer 125 miljoen ton erts. De mijn bestaat sinds 1984 en wordt voor 40% beheerd door het Canadese Sherritt International, voor 27,5% door Sumitomo Corp, 27,5% door Kores en 5% door SNC-Lavalin, ook allen uit Canada. Er werken 9000 mensen, waarvan 84% uit Malagassi\u00ebrs. In 2006 kreeg de mijn een vergunning en eind 2012 werd voor het eerste nikkel gewonnen.",
+                "lang": "nl"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 691273572,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 39849193,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/country": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Madagascar"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Ambatovy",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/\u2019"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the rock band that has Axl Rose as the member?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Rock_music",
+            "@support": "45453",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "rock",
+            "@offset": "13",
+            "@similarityScore": "0.9942241798163176",
+            "@percentageOfSecondRank": "0.004248425924995086"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Axl_Rose",
+            "@support": "660",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Axl Rose",
+            "@offset": "32",
+            "@similarityScore": "0.9999999999999858",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

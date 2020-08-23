@@ -1,0 +1,28 @@
+{
+    "@text": "Name the largest city in the county where there is a Cy-Fair High School.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "17",
+            "@similarityScore": "0.8868963001176782",
+            "@percentageOfSecondRank": "0.0803743469649067"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cy-Fair_High_School",
+            "@support": "22",
+            "@types": "Wikidata:Q43229,Wikidata:Q3914,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:School,Schema:Organization,Schema:EducationalOrganization,DBpedia:School,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "Cy-Fair High School",
+            "@offset": "53",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

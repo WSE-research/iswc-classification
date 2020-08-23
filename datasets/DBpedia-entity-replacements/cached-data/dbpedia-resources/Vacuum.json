@@ -1,0 +1,772 @@
+{
+    "http://dbpedia.org/resource/Vax_ev": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Koolvac": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Manual_vacuum_cleaner": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LG_Roboking": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/K\u00e4rcher_RC3000": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Orazio_(vacuum_cleaner)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Partial_vacuum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hard_Vacuum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vaccuum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vacuum_(outer_space)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/In_vacuo": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Robotic_vacuum_cleaner": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mammotome": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Automated_pool_cleaner": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vacuum": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Person"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "V\u00e1cuo",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Vacuum",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Pr\u00f3\u017cnia",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Vac\u00edo",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u771f\u7a7a",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Vide",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u062a\u062e\u0644\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u0430\u043a\u0443\u0443\u043c",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Vakuum",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u771f\u7a7a",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Vuoto (fisica)",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Vacu\u00fcm",
+                "lang": "nl"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Vacuum is space void of matter. The word stems from the Latin adjective vacuus for \"vacant\" or \"void\". An approximation to such vacuum is a region with a gaseous pressure much less than atmospheric pressure. Physicists often discuss ideal test results that would occur in a perfect vacuum, which they sometimes simply call \"vacuum\" or free space, and use the term partial vacuum to refer to an actual imperfect vacuum as one might have in a laboratory or in space. In engineering and applied physics on the other hand, vacuum refers to any space in which the pressure is lower than atmospheric pressure. The Latin term in vacuo is used to describe an object that is surrounded by a vacuum.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Na qu\u00edmica, na f\u00edsica e na linguagem cotidiana, o v\u00e1cuo \u00e9 a aus\u00eancia de mat\u00e9ria em uma certa regi\u00e3o do espa\u00e7o. O v\u00e1cuo perfeito, por\u00e9m, n\u00e3o \u00e9 poss\u00edvel na Natureza, ainda que ocorram situa\u00e7\u00f5es muito pr\u00f3ximas dele (por exemplo, no espa\u00e7o intergal\u00e1ctico) e tamb\u00e9m n\u00e3o pode ser criado por um ser humano, pois para cria\u00e7\u00e3o do v\u00e1cuo poder\u00edamos pensar em retirar o ar de um recipiente o que seria execut\u00e1vel, por\u00e9m nunca ser\u00e1 poss\u00edvel a retirada de 100% do mesmo, pois n\u00e3o temos um equipamento capaz de reduzir a mat\u00e9ria a zero, em um certo volume. Na f\u00edsica cl\u00e1ssica, um v\u00e1cuo parcial em uma certa regi\u00e3o do espa\u00e7o pode ser quantificado referindo-se \u00e0 press\u00e3o naquela regi\u00e3o (o v\u00e1cuo perfeito teria press\u00e3o zero). No Sistema Internacional de Unidades (SI), a unidade para a press\u00e3o \u00e9 o pascal (Pa). A press",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Een vacu\u00fcm is een ruimte zonder materie en zonder druk. In dagelijks taalgebruik hanteert men ook wel de term luchtledig, omdat de afwezigheid van lucht een sterk verlaagde druk veroorzaakt. In een theoretisch perfect vacu\u00fcm bedraagt de druk 0 pascal (Pa). Het woord vacu\u00fcm wordt in twee betekenissen gebruikt: \n*  In de (theoretische) natuurkunde: een materievrije, maar niet noodzakelijkerwijs veldvrije ruimte. \n*  In de techniek en de toegepaste wetenschappen: een ruimte met lagere druk dan de druk van de buitenlucht. Een ander woord ervoor is onderdruk. Deze verloopt dan van 0 tot 1 bar.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Vakuum [\u02c8va\u02d0ku\u028am] (von lateinisch vacuus\u201a leer; plural Vakua) ist in der Physik die Abwesenheit von Materie. Zur Erzeugung eines Vakuums ist insbesondere wichtig, Gas aus dem Volumen zu entfernen. Ist der verbleibende Gasdruck nur etwas geringer als der atmosph\u00e4rische Druck, spricht man korrekterweise nicht von einem Vakuum, sondern von vermindertem oder reduziertem Druck oder einem Unterdruck.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Pr\u00f3\u017cnia \u2013 w rozumieniu tradycyjnym poj\u0119cie r\u00f3wnowa\u017cne poj\u0119ciu pustej przestrzeni. We wsp\u00f3\u0142czesnej fizyce, technice oraz rozumieniu potocznym poj\u0119cie pr\u00f3\u017cni ma zupe\u0142nie odmienne konotacje.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "In fisica, il vuoto \u00e8 l'assenza di materia in un volume di spazio.Un vuoto parziale \u00e8 espresso in unit\u00e0 di pressione.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u771f\u7a7a\u662f\u4e00\u7a2e\u4e0d\u5b58\u5728\u4efb\u4f55\u7269\u8cea\u7684\u7a7a\u9593\u72c0\u614b\uff0c\u662f\u4e00\u7a2e\u7269\u7406\u73fe\u8c61\u3002\u5728\u771f\u7a7a\u4e2d\uff0c\u8072\u6ce2\u56e0\u70ba\u6c92\u6709\u4ecb\u8cea\u800c\u7121\u6cd5\u50b3\u905e\uff0c\u4f46\u96fb\u78c1\u6ce2\u7684\u50b3\u905e\u4e0d\u53d7\u771f\u7a7a\u7684\u5f71\u97ff\u3002\u7c97\u7565\u5730\u8aaa\uff0c\u771f\u7a7a\u662f\u6307\u5728\u4e00\u5340\u57df\u4e4b\u5167\u7684\u6c23\u58d3\u9060\u9060\u5c0f\u65bc\u5927\u6c23\u58d3\u529b\u3002\u771f\u7a7a\u5e38\u7528\u5e15\u65af\u5361\uff08Pascal\uff09\u6216\u6258\u723e\uff08Torr\uff09\u505a\u70ba\u58d3\u529b\u7684\u55ae\u4f4d\u3002\u76ee\u524d\u5728\u81ea\u7136\u74b0\u5883\u88e1\uff0c\u53ea\u6709\u5916\u592a\u7a7a\u582a\u7a31\u6700\u63a5\u8fd1\u771f\u7a7a\u7684\u7a7a\u9593\u3002 \u771f\u7a7a\u4e0b\u7684\u6c23\u58d3\u70ba\u96f6\uff0c\u6709\u4e9b\u60c5\u5f62\u4e0b\uff0c\u6c23\u58d3\u5c0f\u65bc\u5927\u6c23\u58d3\u529b\uff0c\u4f46\u4e0d\u70ba\u96f6\uff0c\u6b64\u6642\u7a31\u70ba\u5c40\u90e8\u771f\u7a7a\uff0c\u6709\u4e9b\u4e5f\u7c21\u7a31\u70ba\u771f\u7a7a\u3002 \u5728\u5c40\u90e8\u771f\u7a7a\u7684\u60c5\u5f62\u4e0b\uff0c\u82e5\u5176\u4ed6\u689d\u4ef6\u4e0d\u8b8a\uff0c\u6c23\u58d3\u8d8a\u4f4e\uff0c\u8868\u793a\u8d8a\u63a5\u8fd1\u771f\u7a7a\u3002\u4f8b\u5982\u4e00\u822c\u7684\u5438\u5875\u5668\u7684\u5438\u529b\u53ef\u4ee5\u4f7f\u6c23\u58d3\u964d\u4f4e20%\u3002\u4e5f\u53ef\u4ee5\u4ee5\u7522\u751f\u66f4\u63a5\u8fd1\u771f\u7a7a\u7684\u689d\u4ef6\uff0c\u50cf\u5316\u5b78\u3001\u7269\u7406\u53ca\u5de5\u7a0b\u5e38\u898b\u7684\u8d85\u9ad8\u771f\u7a7a\u8154\u9ad4\uff0c\u5176\u6c23\u58d3\u53ef\u4ee5\u5230\u5927\u6c23\u58d3\u529b\u768410\u221212\uff0c\u7c92\u5b50\u5bc6\u5ea6\u70ba100\u7c92\u5b50/cm3\uff0c\u5c0d\u61c9\u7d04100\u7c92\u5b50/cm3\u3002\u5916\u592a\u7a7a\u66f4\u63a5\u8fd1\u771f\u7a7a\uff0c\u76f8\u7576\u65bc\u5e73\u5747\u4e00\u7acb\u65b9\u516c\u5c3a\u53ea\u6709\u5e7e\u500b\u6c2b\u539f\u5b50\u3002\u6839\u64da\u73fe\u4ee3\u7269\u7406\u5b78\u7684\u4e86\u89e3\uff0c\u5373\u4f7f\u7a7a\u9593\u4e2d\u7684\u6240\u6709\u7269\u8cea\u90fd\u79fb\u9664\u4e86\uff0c\u56e0\u70ba\u91cf\u5b50\u6da8\u843d\u3001\u6697\u80fd\u91cf\u3001\u7d93\u904e\u7684\u03b3-\u5c04\u7ebf\u548c\u5b87\u5b99\u5c04\u7ebf\u3001\u5fae\u4e2d\u5b50\u7b49\u73fe\u8c61\uff0c\u7a7a\u9593\u4ecd\u7136\u4e0d\u6703\u662f\u5b8c\u5168\u7684\u771f\u7a7a\u3002\u5728\u8fd1\u4ee3\u7684\u7c92\u5b50\u7269\u7406\u4e2d\uff0c\u5c07\u771f\u7a7a\u614b\u8996\u70ba\u662f\u7269\u8cea\u7684\u57fa\u614b\u3002 20\u4e16\u7d00\u5728\u96fb\u71c8\u6ce1\u53ca\u771f\u7a7a\u7ba1\u554f\u4e16\u5f8c\uff0c\u771f\u7a7a\u8b8a\u6210\u4e00\u500b\u6709\u50f9\u503c\u7684\u5de5\u696d\u5de5\u5177\uff0c\u4e5f\u51fa\u73fe\u4e86\u8a31\u591a\u7522\u751f\u771f\u7a7a\u7684\u6280\u8853\u3002\u8f7d\u4eba\u822a\u5929\u7684\u9032\u5c55\u4e5f\u8b93\u771f\u7a7a\u5c0d\u4eba\u985e\u53ca\u5176\u4ed6\u751f\u7269\u7684\u5f71\u97ff\u958b\u59cb\u611f\u8208\u8da3\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u0430\u0301\u043a\u0443\u0443\u043c (\u043e\u0442 \u043b\u0430\u0442. vacuus \u2014 \u043f\u0443\u0441\u0442\u043e\u0439) \u2014 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e, \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e\u0435 \u043e\u0442 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430. \u0412 \u0442\u0435\u0445\u043d\u0438\u043a\u0435 \u0438 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0439 \u0444\u0438\u0437\u0438\u043a\u0435 \u043f\u043e\u0434 \u0432\u0430\u043a\u0443\u0443\u043c\u043e\u043c \u043f\u043e\u043d\u0438\u043c\u0430\u044e\u0442 \u0441\u0440\u0435\u0434\u0443, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0443\u044e \u0433\u0430\u0437 \u043f\u0440\u0438 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043d\u0438\u0436\u0435 \u0430\u0442\u043c\u043e\u0441\u0444\u0435\u0440\u043d\u043e\u0433\u043e. \u0412\u0430\u043a\u0443\u0443\u043c \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u0435\u0442\u0441\u044f \u0441\u043e\u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435\u043c \u043c\u0435\u0436\u0434\u0443 \u0434\u043b\u0438\u043d\u043e\u0439 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0431\u0435\u0433\u0430 \u043c\u043e\u043b\u0435\u043a\u0443\u043b \u0433\u0430\u0437\u0430 \u03bb \u0438 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u044b\u043c \u0440\u0430\u0437\u043c\u0435\u0440\u043e\u043c \u0441\u0440\u0435\u0434\u044b d. \u041f\u043e\u0434 d \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u044c\u0441\u044f \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u043c\u0435\u0436\u0434\u0443 \u0441\u0442\u0435\u043d\u043a\u0430\u043c\u0438 \u0432\u0430\u043a\u0443\u0443\u043c\u043d\u043e\u0439 \u043a\u0430\u043c\u0435\u0440\u044b, \u0434\u0438\u0430\u043c\u0435\u0442\u0440 \u0432\u0430\u043a\u0443\u0443\u043c\u043d\u043e\u0433\u043e \u0442\u0440\u0443\u0431\u043e\u043f\u0440\u043e\u0432\u043e\u0434\u0430 \u0438 \u0442. \u0434. \u0412 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u044b \u0441\u043e\u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u03bb/d \u0440\u0430\u0437\u043b\u0438\u0447\u0430\u044e\u0442 \u043d\u0438\u0437\u043a\u0438\u0439 (), \u0441\u0440\u0435\u0434\u043d\u0438\u0439 () \u0438 \u0432\u044b\u0441\u043e\u043a\u0438\u0439 () \u0432\u0430\u043a\u0443\u0443\u043c.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0641\u064a \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u0627\u0644\u0641\u0631\u0627\u063a \u0647\u0648 \u062d\u064a\u0632 \u0645\u0646 \u0627\u0644\u0641\u0636\u0627\u0621 \u0641\u0627\u0631\u063a \u0645\u0646 \u0627\u0644\u0645\u0627\u062f\u0629 \u0628\u062d\u064a\u062b \u0623\u0646 \u0636\u063a\u0637\u0647 \u0623\u0642\u0644 \u0628\u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0636\u063a\u0637 \u0627\u0644\u062c\u0648\u064a\u061b \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u0646\u062a\u0642\u0644 \u0627\u0644\u0645\u0648\u062c\u0627\u062a \u0627\u0644\u0643\u0647\u0631\u0648\u0645\u063a\u0646\u0627\u0637\u064a\u0633\u064a\u0629 \u0641\u064a \u0627\u0644\u0641\u0631\u0627\u063a. \u0648\u0645\u0635\u0637\u0644\u062d \u0627\u0644\u062a\u0641\u0631\u064a\u063a \u0623\u0648 \u0627\u0644\u062a\u062e\u0644\u064a\u0644 \u064a\u0637\u0644\u0642 \u0639\u0644\u0649 \u0627\u0644\u0639\u0645\u0644\u064a\u0629 \u0627\u0644\u062a\u064a \u064a\u062a\u0645 \u0641\u064a\u0647\u0627 \u0627\u0644\u062a\u0641\u0631\u064a\u063a \u0645\u0646 \u0627\u0644\u0647\u0648\u0627\u0621 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0639\u0644\u0645 \u0627\u0644\u0641\u0644\u0643 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0641\u0644\u0633\u0641\u0629\u0645\u0634\u0627\u0631\u064a\u0639 \u0634\u0642\u064a\u0642\u0629 \u0641\u064a \u0643\u0648\u0645\u0646\u0632 \u0635\u0648\u0631 \u0648\u0645\u0644\u0641\u0627\u062a \u0639\u0646: \u062a\u062e\u0644\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "El vac\u00edo (del lat\u00edn vac\u012bvus) es la ausencia total de material en los elementos (materia) en un determinado espacio o lugar, o la falta de contenido en el interior de un recipiente. Por extensi\u00f3n, se denomina tambi\u00e9n vac\u00edo a la condici\u00f3n de una regi\u00f3n donde la densidad de part\u00edculas es muy baja, como por ejemplo el espacio interestelar; o la de una cavidad cerrada donde la presi\u00f3n del aire u otros gases es menor que la atmosf\u00e9rica.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u771f\u7a7a\uff08\u3057\u3093\u304f\u3046\u3001\u82f1\u8a9e\uff1avacuum\uff09\u306f\u3001\u7269\u7406\u5b66\u306e\u6982\u5ff5\u3067\u3001\u5727\u529b\u304c\u5927\u6c17\u5727\u3088\u308a\u4f4e\u3044\u7a7a\u9593\u72b6\u614b\u306e\u3053\u3068\u3002\u610f\u5473\u7684\u306b\u306f\u3001\u53e4\u5178\u8ad6\u3068\u91cf\u5b50\u8ad6\u3067\u5927\u304d\u304f\u7570\u306a\u308b\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum_pump"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Space_exposure"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Vacu\u00fcm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q11475"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Vac\u00edo"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Huts_(fisika)"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Vuoto_(fisica)"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/V\u00e1cuo"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4062266-6"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039a\u03b5\u03bd\u03cc"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Vide"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.07zph"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Vakuum"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Pr\u00f3\u017cnia"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc9c4\uacf5"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Vakuum"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u771f\u7a7a"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Hampa_udara"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q11475"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Latin_words_and_phrases"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Vacuum"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Industrial_processes"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Concepts_in_physics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Nothing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Gases"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Kolbenluftpumpe_hg.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Vacuum"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Vacuum?oldid=745252115"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://void.mit.edu/~4.396/wiki/index.php?title=Main_Page"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.physics.arizona.edu/~rafelski/Books/StructVacuumE.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.sff.net/people/Geoffrey.Landis/vacuum.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://spacegeek.org/ep9_QT.shtml"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=rAEVOLae_FoC&printsec=frontcover"
+            },
+            {
+                "type": "uri",
+                "value": "http://scitation.aip.org/jvstb/"
+            },
+            {
+                "type": "uri",
+                "value": "http://scitation.aip.org/jvsta/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.svc.org/H/H_HistoryArticle.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/970603.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.avs.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.gresham.ac.uk/event.asp?PageId=4&EventId=258"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=TGm2ddkL4qkC&printsec=frontcover"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u0412\u0430\u0301\u043a\u0443\u0443\u043c (\u043e\u0442 \u043b\u0430\u0442. vacuus \u2014 \u043f\u0443\u0441\u0442\u043e\u0439) \u2014 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e, \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e\u0435 \u043e\u0442 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430. \u0412 \u0442\u0435\u0445\u043d\u0438\u043a\u0435 \u0438 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0439 \u0444\u0438\u0437\u0438\u043a\u0435 \u043f\u043e\u0434 \u0432\u0430\u043a\u0443\u0443\u043c\u043e\u043c \u043f\u043e\u043d\u0438\u043c\u0430\u044e\u0442 \u0441\u0440\u0435\u0434\u0443, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0443\u044e \u0433\u0430\u0437 \u043f\u0440\u0438 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043d\u0438\u0436\u0435 \u0430\u0442\u043c\u043e\u0441\u0444\u0435\u0440\u043d\u043e\u0433\u043e. \u0412\u0430\u043a\u0443\u0443\u043c \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u0435\u0442\u0441\u044f \u0441\u043e\u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435\u043c \u043c\u0435\u0436\u0434\u0443 \u0434\u043b\u0438\u043d\u043e\u0439 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0431\u0435\u0433\u0430 \u043c\u043e\u043b\u0435\u043a\u0443\u043b \u0433\u0430\u0437\u0430 \u03bb \u0438 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u044b\u043c \u0440\u0430\u0437\u043c\u0435\u0440\u043e\u043c \u0441\u0440\u0435\u0434\u044b d. \u041f\u043e\u0434 d \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u044c\u0441\u044f \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u043c\u0435\u0436\u0434\u0443 \u0441\u0442\u0435\u043d\u043a\u0430\u043c\u0438 \u0432\u0430\u043a\u0443\u0443\u043c\u043d\u043e\u0439 \u043a\u0430\u043c\u0435\u0440\u044b, \u0434\u0438\u0430\u043c\u0435\u0442\u0440 \u0432\u0430\u043a\u0443\u0443\u043c\u043d\u043e\u0433\u043e \u0442\u0440\u0443\u0431\u043e\u043f\u0440\u043e\u0432\u043e\u0434\u0430 \u0438 \u0442. \u0434. \u0412 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u044b \u0441\u043e\u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u03bb/d \u0440\u0430\u0437\u043b\u0438\u0447\u0430\u044e\u0442 \u043d\u0438\u0437\u043a\u0438\u0439 (), \u0441\u0440\u0435\u0434\u043d\u0438\u0439 () \u0438 \u0432\u044b\u0441\u043e\u043a\u0438\u0439 () \u0432\u0430\u043a\u0443\u0443\u043c.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u771f\u7a7a\u662f\u4e00\u7a2e\u4e0d\u5b58\u5728\u4efb\u4f55\u7269\u8cea\u7684\u7a7a\u9593\u72c0\u614b\uff0c\u662f\u4e00\u7a2e\u7269\u7406\u73fe\u8c61\u3002\u5728\u771f\u7a7a\u4e2d\uff0c\u8072\u6ce2\u56e0\u70ba\u6c92\u6709\u4ecb\u8cea\u800c\u7121\u6cd5\u50b3\u905e\uff0c\u4f46\u96fb\u78c1\u6ce2\u7684\u50b3\u905e\u4e0d\u53d7\u771f\u7a7a\u7684\u5f71\u97ff\u3002\u7c97\u7565\u5730\u8aaa\uff0c\u771f\u7a7a\u662f\u6307\u5728\u4e00\u5340\u57df\u4e4b\u5167\u7684\u6c23\u58d3\u9060\u9060\u5c0f\u65bc\u5927\u6c23\u58d3\u529b\u3002\u771f\u7a7a\u5e38\u7528\u5e15\u65af\u5361\uff08Pascal\uff09\u6216\u6258\u723e\uff08Torr\uff09\u505a\u70ba\u58d3\u529b\u7684\u55ae\u4f4d\u3002\u76ee\u524d\u5728\u81ea\u7136\u74b0\u5883\u88e1\uff0c\u53ea\u6709\u5916\u592a\u7a7a\u582a\u7a31\u6700\u63a5\u8fd1\u771f\u7a7a\u7684\u7a7a\u9593\u3002 \u771f\u7a7a\u4e0b\u7684\u6c23\u58d3\u70ba\u96f6\uff0c\u6709\u4e9b\u60c5\u5f62\u4e0b\uff0c\u6c23\u58d3\u5c0f\u65bc\u5927\u6c23\u58d3\u529b\uff0c\u4f46\u4e0d\u70ba\u96f6\uff0c\u6b64\u6642\u7a31\u70ba\u5c40\u90e8\u771f\u7a7a\uff0c\u6709\u4e9b\u4e5f\u7c21\u7a31\u70ba\u771f\u7a7a\u3002 \u5728\u5c40\u90e8\u771f\u7a7a\u7684\u60c5\u5f62\u4e0b\uff0c\u82e5\u5176\u4ed6\u689d\u4ef6\u4e0d\u8b8a\uff0c\u6c23\u58d3\u8d8a\u4f4e\uff0c\u8868\u793a\u8d8a\u63a5\u8fd1\u771f\u7a7a\u3002\u4f8b\u5982\u4e00\u822c\u7684\u5438\u5875\u5668\u7684\u5438\u529b\u53ef\u4ee5\u4f7f\u6c23\u58d3\u964d\u4f4e20%\u3002\u4e5f\u53ef\u4ee5\u4ee5\u7522\u751f\u66f4\u63a5\u8fd1\u771f\u7a7a\u7684\u689d\u4ef6\uff0c\u50cf\u5316\u5b78\u3001\u7269\u7406\u53ca\u5de5\u7a0b\u5e38\u898b\u7684\u8d85\u9ad8\u771f\u7a7a\u8154\u9ad4\uff0c\u5176\u6c23\u58d3\u53ef\u4ee5\u5230\u5927\u6c23\u58d3\u529b\u768410\u221212\uff0c\u7c92\u5b50\u5bc6\u5ea6\u70ba100\u7c92\u5b50/cm3\uff0c\u5c0d\u61c9\u7d04100\u7c92\u5b50/cm3\u3002\u5916\u592a\u7a7a\u66f4\u63a5\u8fd1\u771f\u7a7a\uff0c\u76f8\u7576\u65bc\u5e73\u5747\u4e00\u7acb\u65b9\u516c\u5c3a\u53ea\u6709\u5e7e\u500b\u6c2b\u539f\u5b50\u3002\u6839\u64da\u73fe\u4ee3\u7269\u7406\u5b78\u7684\u4e86\u89e3\uff0c\u5373\u4f7f\u7a7a\u9593\u4e2d\u7684\u6240\u6709\u7269\u8cea\u90fd\u79fb\u9664\u4e86\uff0c\u56e0\u70ba\u91cf\u5b50\u6da8\u843d\u3001\u6697\u80fd\u91cf\u3001\u7d93\u904e\u7684\u03b3-\u5c04\u7ebf\u548c\u5b87\u5b99\u5c04\u7ebf\u3001\u5fae\u4e2d\u5b50\u7b49\u73fe\u8c61\uff0c\u7a7a\u9593\u4ecd\u7136\u4e0d\u6703\u662f\u5b8c\u5168\u7684\u771f\u7a7a\u3002\u5728\u8fd1\u4ee3\u7684\u7c92\u5b50\u7269\u7406\u4e2d\uff0c\u5c07\u771f\u7a7a\u614b\u8996\u70ba\u662f\u7269\u8cea\u7684\u57fa\u614b\u3002 \u81ea\u53e4\u5e0c\u81d8\u8d77\uff0c\u771f\u7a7a\u5c31\u662f\u5e38\u5e36\u4f86\u722d\u8b70\u7684\u54f2\u5b78\u8b70\u984c\uff0c\u4f46\u5230\u4e86\u5341\u4e03\u4e16\u7d00\u897f\u65b9\u624d\u958b\u59cb\u5be6\u9a57\u4e0a\u7684\u7814\u7a76\u3002\u57c3\u842c\u5091\u5229\u65af\u5854\u00b7\u6258\u91cc\u62c6\u5229\u57281643\u5e74\u9032\u884c\u4e86\u7b2c\u4e00\u500b\u771f\u7a7a\u7684\u5be6\u9a57\uff0c\u800c\u96a8\u8457\u4ed6\u5927\u6c23\u58d3\u529b\u7406\u8ad6\u7684\u51fa\u73fe\uff0c\u4e5f\u958b\u59cb\u7522\u751f\u5176\u4ed6\u7684\u5be6\u9a57\u6280\u8853\u3002\u6258\u91cc\u62c6\u5229\u771f\u7a7a\u662f\u5c07\u4e00\u7aef\u5c01\u9589\u7684\u9577\u73bb\u7483\u5bb9\u5668\uff08\u8d85\u904e76\u516c\u5206\uff09\u4e2d\u88dd\u6eff\u6c34\u9280\uff0c\u5012\u7f6e\u5728\u88dd\u6eff\u6c34\u9280\u7684\u5bb9\u5668\u4e2d\uff0c\u9577\u73bb\u7483\u5bb9\u5668\u4e0a\u65b9\u7684\u771f\u7a7a\u5373\u70ba\u6258\u91cc\u62c6\u5229\u771f\u7a7a\u3002 20\u4e16\u7d00\u5728\u96fb\u71c8\u6ce1\u53ca\u771f\u7a7a\u7ba1\u554f\u4e16\u5f8c\uff0c\u771f\u7a7a\u8b8a\u6210\u4e00\u500b\u6709\u50f9\u503c\u7684\u5de5\u696d\u5de5\u5177\uff0c\u4e5f\u51fa\u73fe\u4e86\u8a31\u591a\u7522\u751f\u771f\u7a7a\u7684\u6280\u8853\u3002\u8f7d\u4eba\u822a\u5929\u7684\u9032\u5c55\u4e5f\u8b93\u771f\u7a7a\u5c0d\u4eba\u985e\u53ca\u5176\u4ed6\u751f\u7269\u7684\u5f71\u97ff\u958b\u59cb\u611f\u8208\u8da3\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Vakuum [\u02c8va\u02d0ku\u028am] (von lateinisch vacuus\u201a leer; plural Vakua) ist in der Physik die Abwesenheit von Materie. Zur Erzeugung eines Vakuums ist insbesondere wichtig, Gas aus dem Volumen zu entfernen. Ist der verbleibende Gasdruck nur etwas geringer als der atmosph\u00e4rische Druck, spricht man korrekterweise nicht von einem Vakuum, sondern von vermindertem oder reduziertem Druck oder einem Unterdruck.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "El vac\u00edo (del lat\u00edn vac\u012bvus) es la ausencia total de material en los elementos (materia) en un determinado espacio o lugar, o la falta de contenido en el interior de un recipiente. Por extensi\u00f3n, se denomina tambi\u00e9n vac\u00edo a la condici\u00f3n de una regi\u00f3n donde la densidad de part\u00edculas es muy baja, como por ejemplo el espacio interestelar; o la de una cavidad cerrada donde la presi\u00f3n del aire u otros gases es menor que la atmosf\u00e9rica. Puede existir naturalmente o ser provocado en forma artificial, ya sea para usos tecnol\u00f3gicos o cient\u00edficos, o en la vida diaria. Se aprovecha en diversas industrias, como la alimentaria, la automovil\u00edstica o la farmac\u00e9utica.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u771f\u7a7a\uff08\u3057\u3093\u304f\u3046\u3001\u82f1\u8a9e\uff1avacuum\uff09\u306f\u3001\u7269\u7406\u5b66\u306e\u6982\u5ff5\u3067\u3001\u5727\u529b\u304c\u5927\u6c17\u5727\u3088\u308a\u4f4e\u3044\u7a7a\u9593\u72b6\u614b\u306e\u3053\u3068\u3002\u610f\u5473\u7684\u306b\u306f\u3001\u53e4\u5178\u8ad6\u3068\u91cf\u5b50\u8ad6\u3067\u5927\u304d\u304f\u7570\u306a\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Na qu\u00edmica, na f\u00edsica e na linguagem cotidiana, o v\u00e1cuo \u00e9 a aus\u00eancia de mat\u00e9ria em uma certa regi\u00e3o do espa\u00e7o. O v\u00e1cuo perfeito, por\u00e9m, n\u00e3o \u00e9 poss\u00edvel na Natureza, ainda que ocorram situa\u00e7\u00f5es muito pr\u00f3ximas dele (por exemplo, no espa\u00e7o intergal\u00e1ctico) e tamb\u00e9m n\u00e3o pode ser criado por um ser humano, pois para cria\u00e7\u00e3o do v\u00e1cuo poder\u00edamos pensar em retirar o ar de um recipiente o que seria execut\u00e1vel, por\u00e9m nunca ser\u00e1 poss\u00edvel a retirada de 100% do mesmo, pois n\u00e3o temos um equipamento capaz de reduzir a mat\u00e9ria a zero, em um certo volume. Na f\u00edsica cl\u00e1ssica, um v\u00e1cuo parcial em uma certa regi\u00e3o do espa\u00e7o pode ser quantificado referindo-se \u00e0 press\u00e3o naquela regi\u00e3o (o v\u00e1cuo perfeito teria press\u00e3o zero). No Sistema Internacional de Unidades (SI), a unidade para a press\u00e3o \u00e9 o pascal (Pa). A press\u00e3o tamb\u00e9m pode ser expressa como uma porcentagem da press\u00e3o atmosf\u00e9rica usando o bar ou a escala barom\u00e9trica.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "In fisica, il vuoto \u00e8 l'assenza di materia in un volume di spazio.Un vuoto parziale \u00e8 espresso in unit\u00e0 di pressione.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Pr\u00f3\u017cnia \u2013 w rozumieniu tradycyjnym poj\u0119cie r\u00f3wnowa\u017cne poj\u0119ciu pustej przestrzeni. We wsp\u00f3\u0142czesnej fizyce, technice oraz rozumieniu potocznym poj\u0119cie pr\u00f3\u017cni ma zupe\u0142nie odmienne konotacje.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0641\u064a \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u0627\u0644\u0641\u0631\u0627\u063a \u0647\u0648 \u062d\u064a\u0632 \u0645\u0646 \u0627\u0644\u0641\u0636\u0627\u0621 \u0641\u0627\u0631\u063a \u0645\u0646 \u0627\u0644\u0645\u0627\u062f\u0629 \u0628\u062d\u064a\u062b \u0623\u0646 \u0636\u063a\u0637\u0647 \u0623\u0642\u0644 \u0628\u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0636\u063a\u0637 \u0627\u0644\u062c\u0648\u064a\u061b \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u0646\u062a\u0642\u0644 \u0627\u0644\u0645\u0648\u062c\u0627\u062a \u0627\u0644\u0643\u0647\u0631\u0648\u0645\u063a\u0646\u0627\u0637\u064a\u0633\u064a\u0629 \u0641\u064a \u0627\u0644\u0641\u0631\u0627\u063a. \u0648\u0645\u0635\u0637\u0644\u062d \u0627\u0644\u062a\u0641\u0631\u064a\u063a \u0623\u0648 \u0627\u0644\u062a\u062e\u0644\u064a\u0644 \u064a\u0637\u0644\u0642 \u0639\u0644\u0649 \u0627\u0644\u0639\u0645\u0644\u064a\u0629 \u0627\u0644\u062a\u064a \u064a\u062a\u0645 \u0641\u064a\u0647\u0627 \u0627\u0644\u062a\u0641\u0631\u064a\u063a \u0645\u0646 \u0627\u0644\u0647\u0648\u0627\u0621 \u0627\u0644\u0641\u0631\u0627\u063a \u0647\u0648 \u0627\u0644\u0645\u0643\u0627\u0646 \u0623\u0648 \u0627\u0644\u062d\u064a\u0632 \u0627\u0644\u062e\u0627\u0644\u064a \u0645\u0646 \u0623\u064a \u0645\u0627\u062f\u0629. \u0644\u0643\u0646 \u0644\u064a\u0633 \u0647\u0646\u0627\u0643 \u0645\u0627 \u064a\u0633\u0645\u0649 \u0641\u0631\u0627\u063a\u064b\u0627 \u0643\u0627\u0645\u0644\u0627\u064b\u060c \u062d\u064a\u062b \u0644\u0645 \u064a\u0633\u062a\u0637\u0639 \u0623\u062d\u062f \u0625\u0641\u0631\u0627\u063a \u062d\u064a\u0650\u0651\u0632 \u0645\u0627 \u0645\u0646 \u0643\u0644 \u062c\u0632\u064a\u0626\u0627\u062a \u0627\u0644\u0647\u0648\u0627\u0621 \u062d\u062a\u0649 \u0627\u0644\u0622\u0646. \u0648\u064a\u0645\u0643\u0646 \u0623\u064a\u0636\u064b\u0627 \u062a\u0641\u0633\u064a\u0631 \u0627\u0644\u0641\u0631\u0627\u063a \u0648\u0641\u0642 \u0636\u063a\u0637 \u0627\u0644\u0647\u0648\u0627\u0621\u060c \u0623\u0648 \u0623\u064a \u063a\u0627\u0632 \u0622\u062e\u0631 \u0645\u062a\u0628\u0642 \u0641\u064a \u0648\u0639\u0627\u0621 \u0645\u0641\u0631\u063a \u062c\u0632\u0626\u064a\u064b\u0627. \u0648\u0628\u0647\u0630\u0627 \u0627\u0644\u0645\u0639\u0646\u0649\u060c \u064a\u062d\u062f\u062b \u0627\u0644\u0641\u0631\u0627\u063a \u0641\u064a \u062d\u064a\u0650\u0651\u0632 \u0645\u063a\u0644\u0642 \u0639\u0646\u062f\u0645\u0627 \u064a\u0643\u0648\u0646 \u0627\u0644\u0636\u063a\u0637 \u062f\u0627\u062e\u0644 \u0647\u0630\u0627 \u0627\u0644\u062d\u064a\u0650\u0651\u0632 \u0623\u0642\u0644 \u0645\u0646 \u0636\u063a\u0637 \u0627\u0644\u0647\u0648\u0627\u0621 \u0627\u0644\u0639\u0627\u062f\u064a\u061b \u0623\u064a \u0636\u063a\u0637 \u0627\u0644\u0647\u0648\u0627\u0621 \u0639\u0644\u0649 \u0633\u0637\u062d \u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0630\u064a \u064a\u0639\u0627\u062f\u0644 101,3 \u0643\u064a\u0644\u0648 \u0628\u0627\u0633\u0643\u0627\u0644.\u064a\u062a\u062d\u062f\u062b \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0639\u0646 \u0636\u063a\u0637 \u0627\u0644\u0641\u0631\u0627\u063a \u0627\u0644\u0639\u0627\u0644\u064a \u0648\u0627\u0644\u0645\u0646\u062e\u0641\u0636\u060c \u0648\u0641\u0642\u064b\u0627 \u0644\u0643\u0645\u064a\u0629 \u0627\u0644\u063a\u0627\u0632 \u0627\u0644\u0645\u0633\u062d\u0648\u0628\u0629 \u0645\u0646 \u0627\u0644\u0648\u0639\u0627\u0621. \u0641\u0639\u0646\u062f\u0645\u0627 \u064a\u0642\u0644 \u0639\u062f\u062f \u062c\u0632\u064a\u0626\u0627\u062a \u0627\u0644\u063a\u0627\u0632 \u0641\u064a \u0627\u0644\u0648\u0639\u0627\u0621\u060c \u064a\u0646\u062e\u0641\u0636 \u0627\u0644\u0636\u063a\u0637. \u0648\u0628\u0644\u063a \u0623\u0639\u0644\u0649 \u0636\u063a\u0637 \u0641\u0631\u0627\u063a\u064a \u062a\u0645 \u0642\u064a\u0627\u0633\u0647 \u062d\u062a\u0649 \u0627\u0644\u0622\u0646 0,0000000001 \u0628\u0627\u0633\u0643\u0627\u0644\u060c \u0648\u0647\u0648 \u0645\u0627\u064a\u0639\u0627\u062f\u0644 \u0648\u0627\u062d\u062f\u064b\u0627 \u0645\u0646 \u0627\u0644\u0643\u062f\u0631\u064a\u0644\u064a\u0648\u0646 \u0645\u0646 \u0636\u063a\u0637 \u0627\u0644\u0647\u0648\u0627\u0621 \u0627\u0644\u0639\u0627\u062f\u064a. \u0648\u062d\u062a\u0649 \u062a\u062d\u062a \u0647\u0630\u0627 \u0627\u0644\u0636\u063a\u0637 \u0627\u0644\u0645\u0646\u062e\u0641\u0636 \u062c\u062f\u064b\u0627\u060c \u0641\u0625\u0646 \u062d\u062c\u0645 \u0627\u0644\u063a\u0627\u0632 \u0627\u0644\u0645\u0648\u062c\u0648\u062f \u0641\u064a 1\u0633\u0645\u00a7\u060c \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 34,000 \u062c\u0632\u064a\u0621\u060c \u0645\u0639 \u0623\u0646 \u0647\u0630\u0627 \u0627\u0644\u062d\u062c\u0645 \u0646\u0641\u0633\u0647 \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 26 \u0628\u0644\u064a\u0648\u0646 \u0628\u0644\u064a\u0648\u0646 \u062c\u0632\u064a\u0621 \u063a\u0627\u0632 \u062a\u062d\u062a \u0636\u063a\u0637 \u0627\u0644\u0647\u0648\u0627\u0621 \u0627\u0644\u0639\u0627\u062f\u064a.\u062a\u0633\u062a\u0639\u0645\u0644 \u0623\u0646\u0648\u0627\u0639 \u0639\u062f\u064a\u062f\u0629 \u0645\u0646 \u0627\u0644\u0645\u0636\u062e\u0627\u062a \u0644\u0625\u062d\u062f\u0627\u062b \u0641\u0631\u0627\u063a \u0645\u062e\u062a\u0644\u0641 \u0627\u0644\u062f\u0631\u062c\u0627\u062a. \u0641\u0639\u0644\u0649 \u0633\u0628\u064a\u0644 \u0627\u0644\u0645\u062b\u0627\u0644 \u062a\u064f\u0633\u062a\u0639\u0645\u0644 \u0645\u0636\u062e\u0629 \u0627\u0644\u062a\u0641\u0631\u064a\u063a \u0627\u0644\u0627\u0646\u062a\u0634\u0627\u0631\u0649 \u0644\u0625\u062d\u062f\u0627\u062b \u0636\u063a\u0637 \u0641\u0631\u0627\u063a \u0639\u0627\u0644. \u0648\u0647\u0630\u0647 \u0627\u0644\u0645\u0636\u062e\u0629 \u062a\u0631\u0634 \u0643\u0645\u064a\u0627\u062a \u0645\u0646 \u0627\u0644\u0628\u062e\u0627\u0631\u060c \u0643\u0641\u064a\u0644\u0629 \u0628\u0637\u0631\u062f \u062c\u0632\u064a\u0626\u0627\u062a \u0627\u0644\u063a\u0627\u0632 \u0627\u0644\u0645\u0648\u062c\u0648\u062f\u0629 \u0641\u064a \u062d\u064a\u0632 \u0645\u063a\u0644\u0642. \u0643\u0645\u0627 \u064a\u0645\u0643\u0646 \u0625\u062d\u062f\u0627\u062b \u0636\u063a\u0637 \u0645\u0646\u062e\u0641\u0636 \u0628\u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0645\u0636\u062e\u0627\u062a \u0622\u0644\u064a\u0629 \u0645\u062c\u0647\u0632\u0629 \u0628\u0645\u0631\u0627\u0648\u062d \u0648\u0635\u0645\u0627\u0645\u0627\u062a. \u0648\u0647\u0646\u0627\u0643 \u0639\u062f\u0629 \u0627\u0633\u062a\u0639\u0645\u0627\u0644\u0627\u062a \u0644\u0644\u0641\u0631\u0627\u063a\u060c \u0623\u0648 \u0636\u063a\u0637 \u0627\u0644\u0641\u0631\u0627\u063a\u060c \u064a\u062a\u0651\u0628\u0639 \u0645\u0639\u0638\u0645\u0647\u0627 \u062d\u0642\u064a\u0642\u0629 \u0623\u0646 \u0627\u0644\u0633\u0648\u0627\u0626\u0644 \u0648\u0627\u0644\u063a\u0627\u0632\u0627\u062a \u062a\u0646\u062f\u0641\u0639 \u0645\u0646 \u0623\u0645\u0627\u0643\u0646 \u0627\u0644\u0636\u063a\u0637 \u0627\u0644\u0639\u0627\u0644\u064a\u060c \u0625\u0644\u0649 \u0623\u0645\u0627\u0643\u0646 \u0627\u0644\u0636\u063a\u0637 \u0627\u0644\u0645\u0646\u062e\u0641\u0636 \u0640 \u0623\u064a \u0646\u062d\u0648 \u0627\u0644\u0641\u0631\u0627\u063a. \u0648\u0639\u0644\u0649 \u0633\u0628\u064a\u0644 \u0627\u0644\u0645\u062b\u0627\u0644\u060c \u0641\u0625\u0646 \u0634\u064f\u0631\u0628 \u0627\u0644\u0633\u0648\u0627\u0626\u0644 \u0628\u0627\u0644\u0645\u0627\u0635\u0629 \u0627\u0644\u0648\u0631\u0642\u064a\u0629\u060c \u064a\u062a\u0628\u0639 \u0647\u0630\u0627 \u0627\u0644\u0642\u0627\u0646\u0648\u0646. \u062a\u064f\u062d\u062f\u062b \u0639\u0645\u0644\u064a\u0629 \u0627\u0644\u0645\u0635 \u0641\u0631\u0627\u063a\u064b\u0627 \u062c\u0632\u0626\u064a\u064b\u0627 \u062f\u0627\u062e\u0644 \u0627\u0644\u0641\u0645 \u0648\u0641\u064a \u0623\u0639\u0644\u0649 \u0623\u0646\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u060c \u0648\u064a\u062f\u0641\u0639 \u0636\u063a\u0637 \u0627\u0644\u0647\u0648\u0627\u0621 \u0627\u0644\u062e\u0627\u0631\u062c\u064a \u0627\u0644\u0633\u0627\u0626\u0644 \u0625\u0644\u0649 \u0623\u0639\u0644\u0649 \u0623\u0646\u0628\u0648\u0628 \u0627\u0644\u0645\u0635. \u0648\u062a\u062a\u0628\u0639 \u0627\u0644\u0645\u0646\u0638\u0650\u0641\u0629 \u0627\u0644\u0647\u0648\u0627\u0626\u064a\u0629\u060c \u0623\u0648 \u0627\u0644\u0645\u0643\u0646\u0633\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0623\u064a\u0636\u064b\u0627\u060c \u0627\u0644\u0642\u0627\u0639\u062f\u0629 \u0646\u0641\u0633\u0647\u0627 \u062d\u064a\u062b \u064a\u0646\u062f\u0641\u0639 \u0627\u0644\u0647\u0648\u0627\u0621 \u0644\u064a\u0645\u0644\u0623 \u0627\u0644\u0641\u0631\u0627\u063a \u0628\u062f\u0627\u062e\u0644\u0647\u0627 \u062d\u0627\u0645\u0644\u0627\u064b \u0645\u0639\u0647 \u0627\u0644\u063a\u0628\u0627\u0631 \u0648\u0627\u0644\u0623\u0648\u0633\u0627\u062e.\u062a\u0646\u062a\u0642\u0644 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0641\u064a \u0627\u0644\u0641\u0631\u0627\u063a \u0628\u0635\u0648\u0631\u0629 \u0636\u0639\u064a\u0641\u0629\u060c \u0644\u0630\u0644\u0643 \u064a\u0639\u062a\u0628\u0631 \u0627\u0644\u0641\u0631\u0627\u063a \u0639\u0627\u0632\u0644\u0627\u064b \u062c\u064a\u062f\u064b\u0627. \u0641\u0627\u0644\u062a\u064e\u0651\u0631\u0645\u0648\u0633 (\u0627\u0644\u062b\u064a\u0631\u0645\u0648\u0633)\u060c \u0623\u0648 \u0627\u0644\u0643\u0638\u064a\u0645\u0629 \u0627\u0644\u062a\u064a \u062a\u064f\u0633\u062a\u0639\u0645\u0644 \u0644\u062d\u0641\u0638 \u0627\u0644\u0633\u0648\u0627\u0626\u0644 \u0627\u0644\u0633\u0627\u062e\u0646\u0629 \u0623\u0648 \u0627\u0644\u0628\u0627\u0631\u062f\u0629\u060c \u062a\u062a\u0643\u0648\u0646 \u0645\u0646 \u0632\u062c\u0627\u062c\u0629 \u0630\u0627\u062a \u062c\u062f\u0627\u0631\u064a\u0646 \u0628\u064a\u0646\u0647\u0645\u0627 \u0641\u0631\u0627\u063a. \u0648\u064a\u0633\u062a\u0641\u064a\u062f \u0648\u0639\u0627\u0621 \u062f\u064a\u0648\u0627\u0631 \u0627\u0644\u0632\u062c\u0627\u062c\u064a \u0627\u0644\u0630\u064a \u064a\u0633\u062a\u0639\u0645\u0644 \u0644\u062d\u0641\u0638 \u0627\u0644\u063a\u0627\u0632\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u064e\u0651\u0644\u0629 \u0627\u0644\u0628\u0627\u0631\u062f\u0629 \u0645\u0646 \u0647\u0630\u0647 \u0627\u0644\u062e\u0627\u0635\u064a\u0629.\u064a\u062a\u0628\u062e\u0631 \u0627\u0644\u0645\u0627\u0621 \u0648\u0645\u0639\u0638\u0645 \u0627\u0644\u0633\u0648\u0627\u0626\u0644 \u0627\u0644\u0623\u062e\u0631\u0649\u060c \u0628\u0633\u0631\u0639\u0629 \u0641\u064a \u0627\u0644\u0641\u0631\u0627\u063a \u0648\u0641\u064a \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0623\u0642\u0644 \u0643\u062b\u064a\u0631\u064b\u0627 \u0645\u0646 \u062f\u0631\u062c\u0629 \u0627\u0644\u063a\u0644\u064a\u0627\u0646\u060c \u0648\u0644\u0647\u0630\u0627 \u062a\u0633\u062a\u0639\u0645\u0644 \u0627\u0644\u063a\u0631\u0641 \u0627\u0644\u0645\u062c\u0648\u0641\u0629\u060c \u0623\u0648 \u0627\u0644\u0645\u0641\u0631\u063a\u0629\u060c \u0641\u064a \u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u062a\u062c\u0641\u064a\u0641\u060c \u062d\u064a\u062b \u064a\u0645\u0643\u0646 \u0633\u062d\u0628 \u0627\u0644\u0631\u0637\u0648\u0628\u0629 \u0645\u0646 \u0627\u0644\u0634\u064a\u0621 \u0627\u0644\u0645\u0631\u0627\u062f \u062a\u062c\u0641\u064a\u0641\u0647 \u0628\u0633\u0631\u0639\u0629 \u062f\u0648\u0646 \u0623\u0646 \u062a\u0624\u062f\u064a \u0644\u0627\u062d\u062a\u0631\u0627\u0642\u0647. \u0648\u062a\u0633\u062a\u062e\u062f\u0645 \u0647\u0630\u0647 \u0627\u0644\u0637\u0631\u064a\u0642\u0629 \u0641\u064a \u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0633\u0643\u0631\u060c \u0648\u062a\u062c\u0641\u064a\u0641 \u0627\u0644\u0623\u063a\u0630\u064a\u0629 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0627\u0644\u062a\u062c\u0645\u064a\u062f.\u0648\u0647\u0646\u0627\u0643 \u0623\u0646\u0648\u0627\u0639 \u0643\u062b\u064a\u0631\u0629 \u0645\u0646 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0629\u060c \u062a\u0639\u0645\u0644 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0627\u0644\u0641\u0631\u0627\u063a. \u0641\u0623\u0646\u0628\u0648\u0628 \u0627\u0644\u0635\u0648\u0631\u0629 \u0641\u064a \u062c\u0647\u0627\u0632 \u0627\u0644\u062a\u0644\u0641\u0627\u0632\u060c \u0648\u0623\u062f\u0627\u0629 \u0627\u0644\u0639\u0631\u0636 \u0627\u0644\u0645\u0631\u0626\u064a \u0641\u064a \u0627\u0644\u062d\u0627\u0633\u0648\u0628\u060c \u0645\u0627 \u0647\u064a \u0625\u0644\u0627 \u0623\u0645\u062b\u0644\u0629 \u0644\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u062a\u064a \u062a\u0639\u0645\u0644 \u0628\u0627\u0644\u0641\u0631\u0627\u063a. \u0648\u064a\u0633\u0645\u062d \u0627\u0644\u0641\u0631\u0627\u063a \u0641\u064a \u0645\u062b\u0644 \u0647\u0630\u0647 \u0627\u0644\u0623\u062c\u0647\u0632\u0629\u060c \u0648\u064a\u064f\u0633\u0645\u0649 \u0623\u064a\u0636\u064b\u0627 \u0628\u0627\u0644\u0623\u0646\u0628\u0648\u0628 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u060c \u0628\u0645\u0631\u0648\u0631 \u0623\u0634\u0639\u0629 \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0629 \u0631\u0623\u0633\u064b\u0627 \u0625\u0644\u0649 \u0627\u0644\u0634\u0627\u0634\u0629\u060c \u062d\u064a\u062b \u062a\u062a\u0643\u0648\u0646 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0645\u0631\u0626\u064a\u0629. \u0641\u0644\u0648 \u0643\u0627\u0646\u062a \u0647\u0646\u0627\u0643 \u062c\u0632\u064a\u0626\u0627\u062a \u0647\u0648\u0627\u0621 \u062f\u0627\u062e\u0644 \u0627\u0644\u0623\u0646\u0628\u0648\u0628\u060c \u0641\u0633\u0648\u0641 \u062a\u0635\u0637\u062f\u0645 \u0628\u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u062a\u0634\u062a\u062a \u0645\u062d\u062f\u062b\u0629 \u0635\u0648\u0631\u0629 \u0645\u0634\u0648\u0647\u0629.\u0648\u062a\u0633\u062a\u062e\u062f\u0645 \u0623\u062c\u0647\u0632\u0629 \u0623\u062e\u0631\u0649 \u0643\u0627\u0644\u062a\u064a \u062a\u064f\u0633\u062a\u0639\u0645\u0644 \u0641\u064a \u0627\u0644\u0635\u0646\u0627\u0639\u0629 \u0648\u0627\u0644\u0623\u0628\u062d\u0627\u062b \u0627\u0644\u0639\u0644\u0645\u064a\u0629 \u0648\u062d\u062f\u0627\u062a \u0645\u062c\u0648\u0641\u0629 \u0644\u0644\u063a\u0631\u0636 \u0646\u0641\u0633\u0647.\u0641\u0627\u0644\u0633\u064a\u0643\u0644\u0648\u062a\u0631\u0648\u0646 \u0640 \u062c\u0647\u0627\u0632 \u062a\u062d\u0637\u064a\u0645 \u0646\u0648\u0649 \u0627\u0644\u0630\u0631\u0627\u062a \u0640 \u0648\u0627\u0644\u0633\u064a\u0646\u0643\u0631\u0648\u062a\u0631\u0648\u0646 \u0640 \u062c\u0647\u0627\u0632 \u062a\u0633\u0631\u064a\u0639 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u0627\u062a \u0640 \u064a\u064f\u0633\u062a\u062e\u062f\u0645\u0627\u0646 \u0644\u0632\u064a\u0627\u062f\u0629 \u0637\u0627\u0642\u0629 \u0627\u0644\u0630\u0631\u0627\u062a \u0648\u064a\u062d\u062a\u0627\u062c \u0643\u0644\u0627\u0647\u0645\u0627 \u0644\u0641\u0631\u0627\u063a \u0639\u0627\u0644. \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0639\u0644\u0645 \u0627\u0644\u0641\u0644\u0643 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0641\u0644\u0633\u0641\u0629\u0645\u0634\u0627\u0631\u064a\u0639 \u0634\u0642\u064a\u0642\u0629 \u0641\u064a \u0643\u0648\u0645\u0646\u0632 \u0635\u0648\u0631 \u0648\u0645\u0644\u0641\u0627\u062a \u0639\u0646: \u062a\u062e\u0644\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Vacuum is space void of matter. The word stems from the Latin adjective vacuus for \"vacant\" or \"void\". An approximation to such vacuum is a region with a gaseous pressure much less than atmospheric pressure. Physicists often discuss ideal test results that would occur in a perfect vacuum, which they sometimes simply call \"vacuum\" or free space, and use the term partial vacuum to refer to an actual imperfect vacuum as one might have in a laboratory or in space. In engineering and applied physics on the other hand, vacuum refers to any space in which the pressure is lower than atmospheric pressure. The Latin term in vacuo is used to describe an object that is surrounded by a vacuum. The quality of a partial vacuum refers to how closely it approaches a perfect vacuum. Other things equal, lower gas pressure means higher-quality vacuum. For example, a typical vacuum cleaner produces enough suction to reduce air pressure by around 20%. Much higher-quality vacuums are possible. Ultra-high vacuum chambers, common in chemistry, physics, and engineering, operate below one trillionth (10\u221212) of atmospheric pressure (100 nPa), and can reach around 100 particles/cm3. Outer space is an even higher-quality vacuum, with the equivalent of just a few hydrogen atoms per cubic meter on average. According to modern understanding, even if all matter could be removed from a volume, it would still not be \"empty\" due to vacuum fluctuations, dark energy, transiting gamma rays, cosmic rays, neutrinos, and other phenomena in quantum physics. In the electromagnetism in the 19th century, vacuum was thought to be filled with a medium called aether. In modern particle physics, the vacuum state is considered the ground state of matter. Vacuum has been a frequent topic of philosophical debate since ancient Greek times, but was not studied empirically until the 17th century. Evangelista Torricelli produced the first laboratory vacuum in 1643, and other experimental techniques were developed as a result of his theories of atmospheric pressure. A torricellian vacuum is created by filling a tall glass container closed at one end with mercury, and then inverting the container into a bowl to contain the mercury. Vacuum became a valuable industrial tool in the 20th century with the introduction of incandescent light bulbs and vacuum tubes, and a wide array of vacuum technology has since become available. The recent development of human spaceflight has raised interest in the impact of vacuum on human health, and on life forms in general.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Een vacu\u00fcm is een ruimte zonder materie en zonder druk. In dagelijks taalgebruik hanteert men ook wel de term luchtledig, omdat de afwezigheid van lucht een sterk verlaagde druk veroorzaakt. In een theoretisch perfect vacu\u00fcm bedraagt de druk 0 pascal (Pa). Het woord vacu\u00fcm wordt in twee betekenissen gebruikt: \n*  In de (theoretische) natuurkunde: een materievrije, maar niet noodzakelijkerwijs veldvrije ruimte. \n*  In de techniek en de toegepaste wetenschappen: een ruimte met lagere druk dan de druk van de buitenlucht. Een ander woord ervoor is onderdruk. Deze verloopt dan van 0 tot 1 bar.",
+                "lang": "nl"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Kolbenluftpumpe_hg.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 745252115,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 32502,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Void"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hard_vacuum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Space_vacuum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Vacuum": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Physical_vacuum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vacume": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Torricellian_vacuum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vacuum_Technology": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Hoover_Company": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vacua": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Classical_vacuum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Stark's_Vacuum_Museum": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Perfect_vacuum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vacuum_of_free_space": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mercury_vacuum": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/BObsweep": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cryovac_GmbH": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ],
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Central_vacuum_cleaner": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/CIE_141_Class": {
+        "http://dbpedia.org/property/trainbrakes": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/QED_vacuum": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Existence_of_the_vacuum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Black_&_Decker_DustBuster": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electrolux_Trilobite": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vaccum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Free_space": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vacuums": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vacuum_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Neyco": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vacuo": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jon_Fishman": {
+        "http://dbpedia.org/ontology/instrument": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vacuum_technology": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vacuum_(space)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Evacuated_space": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Vacuum"
+            }
+        ]
+    }
+}

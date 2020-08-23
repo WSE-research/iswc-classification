@@ -1,0 +1,37 @@
+{
+    "@text": "Name the TV show whose composer is Judy Hart Angelo and company as Paramount Television ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Composer",
+            "@support": "22915",
+            "@types": "",
+            "@surfaceForm": "composer",
+            "@offset": "23",
+            "@similarityScore": "0.9988133571337033",
+            "@percentageOfSecondRank": "7.498945225166101E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Lorenz_Hart",
+            "@support": "1504",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Hart",
+            "@offset": "40",
+            "@similarityScore": "0.8647511984536016",
+            "@percentageOfSecondRank": "0.057719623078539666"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Paramount_Television",
+            "@support": "500",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Paramount Television",
+            "@offset": "67",
+            "@similarityScore": "0.9092644900929856",
+            "@percentageOfSecondRank": "0.0719730664102931"
+        }
+    ]
+}

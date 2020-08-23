@@ -1,0 +1,276 @@
+{
+    "http://en.wikipedia.org/wiki/Basic_reproduction_number": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Basic_reproduction_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Basic_reproduction_number": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Pandemic107435713"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Happening107283608"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Event100029378"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Epidemic107435533"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Outbreak107435273"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatPandemics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatEpidemics"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Basic reproduction number",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Reproductiegetal",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u57fa\u672c\u518d\u751f\u7523\u6570",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u57fa\u672c\u4f20\u67d3\u6570",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Basisreproduktionszahl",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Ritmo reproductivo b\u00e1sico",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Het (basis-)reproductiegetal (R0) van een infectieziekte is het gemiddeld aantal secundaire besmettingen die veroorzaakt worden door een primair geval in een bevolking zonder immuniteit en in afwezigheid van profylactische maatregelen. Het effectief reproductiegetal Reff ligt lager omdat het ermee rekening houdt dat een gedeelte van de bevolking immuun is: Als R0 < 1 dan zal de infectie verdwijnen uit de populatie, maar als R0 > 1 dan kan ze uitgroeien tot een epidemie. Zie verder: SIR-model (epidemiologie)",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Die Basisreproduktionszahl R0, auch Grundvermehrungsrate genannt, ist ein Begriff aus der Infektionsepidemiologie. Die Basisreproduktionszahl gibt an, wie viele andere Personen eine infekti\u00f6se Person im Mittel in einer suszeptiblen, d. h. keine Immunit\u00e4t gegen\u00fcber dem Erreger besitzenden Population ansteckt. Mit Hilfe von R0 kann man absch\u00e4tzen, wie die Ausbreitung zum Beginn einer Epidemie ist und welcher Anteil der Bev\u00f6lkerung immun bzw. durch Impfung immunisiert sein muss, um eine Epidemie zu verhindern.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "In epidemiology, the basic reproduction number (sometimes called basic reproductive ratio, or incorrectly basic reproductive rate, and denoted R0, r naught) of an infection can be thought of as the number of cases one case generates on average over the course of its infectious period, in an otherwise uninfected population. When R0 < 1 the infection will die out in the long run. But if R0 > 1 the infection will be able to spread in a population.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "En epidemiolog\u00eda, el n\u00famero b\u00e1sico de reproducci\u00f3n (a veces llamado ritmo b\u00e1sico de reproducci\u00f3n, ratio reproductiva b\u00e1sica y denotadas por R0, r sub-cero) de una infecci\u00f3n es el n\u00famero promedio de casos nuevos que genera un caso dado lo largo de un per\u00edodo infeccioso. Cuando R0 < 1 la infecci\u00f3n muere tras un largo per\u00edodo. Pero si R0 > 1 la infecci\u00f3n puede llegar a propagarse ampliamente entre la una poblaci\u00f3n.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u57fa\u672c\u518d\u751f\u7523\u6570\uff08\u82f1\u8a9e\uff1aBasic reproduction number\u3001\u8868\u8a18R 0\uff1a\u30a2\u30fc\u30eb \u30ca\u30a6\u30c8\uff09\u3068\u306f\u3001\u75ab\u75c5\u306e\u611f\u67d3\u529b\u3001\u4eba\u53e3\u306e\u5897\u52a0\u6e1b\u5c11\u306a\u3069\u306b\u4f7f\u308f\u308c\u308b\u6570\u5b57\u3067\u3042\u308b\u3002\u3053\u306e\u6570\u5b57\u306f\u3001\u9032\u5316\u4fb5\u5165\u89e3\u6790\u3001\u751f\u6d3b\u53f2\u7406\u8ad6\u306a\u3069\u306b\u3082\u4f7f\u7528\u3055\u308c\u308b\u3002 \u898b\u65b9\u3068\u3057\u3066\u306f\u3001R 0\uff1c\uff11\u306a\u3089\u6e1b\u5c11\u3001R 0\uff1e1\u306a\u3089\u5897\u52a0\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u57fa\u672c\u4f20\u67d3\u6570\u662f\u5728\u6d41\u884c\u75c5\u5b78\u4e0a\uff0c\u6307\u5728\u6c92\u6709\u5916\u529b\u4ecb\u5165\uff0c\u540c\u6642\u6240\u6709\u4eba\u90fd\u6c92\u6709\u514d\u75ab\u529b\u7684\u60c5\u6cc1\u4e0b\uff0c\u4e00\u500b\u611f\u67d3\u5230\u67d0\u7a2e\u50b3\u67d3\u75c5\u7684\u4eba\uff0c\u6703\u628a\u75be\u75c5\u50b3\u67d3\u7d66\u5176\u4ed6\u591a\u5c11\u500b\u4eba\u7684\u5e73\u5747\u6578\u3002\u57fa\u672c\u4f20\u67d3\u6570\u901a\u5e38\u88ab\u5beb\u6210\u70baR0\u3002 \u82e5R0 < 1\uff0c\u50b3\u67d3\u75c5\u5c07\u6703\u9010\u6f38\u6d88\u5931\u3002 \u82e5R0 > 1\uff0c\u50b3\u67d3\u75c5\u6703\u4ee5\u6307\u6578\u65b9\u5f0f\u6563\u4f48\uff0c\u6210\u70ba\u6d41\u884c\u75c5\uff08epidemic\uff09\u3002\u4f46\u662f\u4e00\u822c\u4e0d\u6703\u6c38\u9060\u6301\u7e8c\uff0c\u56e0\u70ba\u53ef\u80fd\u88ab\u611f\u67d3\u7684\u4eba\u53e3\u6703\u6162\u6162\u6e1b\u5c11\u3002\u90e8\u5206\u4eba\u53e3\u53ef\u80fd\u6b7b\u65bc\u8a72\u50b3\u67d3\u75c5\uff0c\u90e8\u5206\u5247\u53ef\u80fd\u75c5\u7652\u5f8c\u7522\u751f\u514d\u75ab\u529b\u3002 \u82e5R0 = 1\uff0c\u50b3\u67d3\u75c5\u6703\u8b8a\u6210\u4eba\u53e3\u4e2d\u7684\u5730\u65b9\u6027\u6d41\u884c\u75c5\u3002 R0\u7684\u6578\u5b57\u6108\u5927\uff0c\u4ee3\u8868\u6d41\u884c\u75c5\u7684\u63a7\u5236\u6108\u96e3\u3002 \u4ee5\u4e0b\u70ba\u5e7e\u7a2e\u50b3\u67d3\u75c5\u7684R0\uff1a \n* \u56b4\u91cd\u6025\u6027\u547c\u5438\u9053\u7d9c\u5408\u75c7\uff1a0.85\u62162-5\uff1b\u5728\u65b0\u52a0\u5761\u6848\u4f8b\u70ba3 \n* \u611b\u6ecb\u75c5\uff1a2-5 \n* \u9ebb\u75b9\uff1a16-18",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u57fa\u672c\u518d\u751f\u7523\u6570"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Reproductiegetal"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Basisreproduktionszahl"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Ritmo_reproductivo_b\u00e1sico"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q901464"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Basic_reproduction_number"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03pr1l"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Basic_reproduction_number"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q901464"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Pandemics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Epidemiology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Epidemics"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Basic_reproduction_number"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Basic_reproduction_number?oldid=737047399"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "In epidemiology, the basic reproduction number (sometimes called basic reproductive ratio, or incorrectly basic reproductive rate, and denoted R0, r naught) of an infection can be thought of as the number of cases one case generates on average over the course of its infectious period, in an otherwise uninfected population. This metric is useful because it helps determine whether or not an infectious disease can spread through a population. The roots of the basic reproduction concept can be traced through the work of Alfred Lotka, Ronald Ross, and others, but its first modern application in epidemiology was by George MacDonald in 1952, who constructed population models of the spread of malaria. When R0 < 1 the infection will die out in the long run. But if R0 > 1 the infection will be able to spread in a population. Generally, the larger the value of R0, the harder it is to control the epidemic. For simple models and a 100%-effective vaccine, the proportion of the population that needs to be vaccinated to prevent sustained spread of the infection is given by 1 \u2212 1/R0. The basic reproduction number is affected by several factors including the duration of infectivity of affected patients, the infectiousness of the organism, and the number of susceptible people in the population that the affected patients are in contact with. In populations that are not homogeneous, the definition of R0 is more subtle. The definition must account for the fact that a typical infected individual may not be an average individual. As an extreme example, consider a population in which a small portion of the individuals mix fully with one another while the remaining individuals are all isolated. A disease may be able to spread in the fully mixed portion even though a randomly selected individual would lead to fewer than one secondary case. This is because the typical infected individual is in the fully mixed portion and thus is able to successfully cause infections. In general, if the individuals who become infected early in an epidemic may be more (or less) likely to transmit than a randomly chosen individual late in the epidemic, then our computation of R0 must account for this tendency. An appropriate definition for R0 in this case is \"the expected number of secondary cases produced by a typical infected individual early in an epidemic\".",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Die Basisreproduktionszahl R0, auch Grundvermehrungsrate genannt, ist ein Begriff aus der Infektionsepidemiologie. Die Basisreproduktionszahl gibt an, wie viele andere Personen eine infekti\u00f6se Person im Mittel in einer suszeptiblen, d. h. keine Immunit\u00e4t gegen\u00fcber dem Erreger besitzenden Population ansteckt. Mit Hilfe von R0 kann man absch\u00e4tzen, wie die Ausbreitung zum Beginn einer Epidemie ist und welcher Anteil der Bev\u00f6lkerung immun bzw. durch Impfung immunisiert sein muss, um eine Epidemie zu verhindern. Um die Zahl der Infektionen nicht kontinuierlich ansteigen zu lassen - fehlende Immunit\u00e4t der Menschen vorausgesetzt - muss die Grundvermehrungsrate auf 1, f\u00fcr eine Bek\u00e4mpfung der Infektionskrankheit auf weniger als 1 gesenkt werden.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u57fa\u672c\u518d\u751f\u7523\u6570\uff08\u82f1\u8a9e\uff1aBasic reproduction number\u3001\u8868\u8a18R 0\uff1a\u30a2\u30fc\u30eb \u30ca\u30a6\u30c8\uff09\u3068\u306f\u3001\u75ab\u75c5\u306e\u611f\u67d3\u529b\u3001\u4eba\u53e3\u306e\u5897\u52a0\u6e1b\u5c11\u306a\u3069\u306b\u4f7f\u308f\u308c\u308b\u6570\u5b57\u3067\u3042\u308b\u3002\u3053\u306e\u6570\u5b57\u306f\u3001\u9032\u5316\u4fb5\u5165\u89e3\u6790\u3001\u751f\u6d3b\u53f2\u7406\u8ad6\u306a\u3069\u306b\u3082\u4f7f\u7528\u3055\u308c\u308b\u3002 \u898b\u65b9\u3068\u3057\u3066\u306f\u3001R 0\uff1c\uff11\u306a\u3089\u6e1b\u5c11\u3001R 0\uff1e1\u306a\u3089\u5897\u52a0\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u57fa\u672c\u4f20\u67d3\u6570\u662f\u5728\u6d41\u884c\u75c5\u5b78\u4e0a\uff0c\u6307\u5728\u6c92\u6709\u5916\u529b\u4ecb\u5165\uff0c\u540c\u6642\u6240\u6709\u4eba\u90fd\u6c92\u6709\u514d\u75ab\u529b\u7684\u60c5\u6cc1\u4e0b\uff0c\u4e00\u500b\u611f\u67d3\u5230\u67d0\u7a2e\u50b3\u67d3\u75c5\u7684\u4eba\uff0c\u6703\u628a\u75be\u75c5\u50b3\u67d3\u7d66\u5176\u4ed6\u591a\u5c11\u500b\u4eba\u7684\u5e73\u5747\u6578\u3002\u57fa\u672c\u4f20\u67d3\u6570\u901a\u5e38\u88ab\u5beb\u6210\u70baR0\u3002 \u82e5R0 < 1\uff0c\u50b3\u67d3\u75c5\u5c07\u6703\u9010\u6f38\u6d88\u5931\u3002 \u82e5R0 > 1\uff0c\u50b3\u67d3\u75c5\u6703\u4ee5\u6307\u6578\u65b9\u5f0f\u6563\u4f48\uff0c\u6210\u70ba\u6d41\u884c\u75c5\uff08epidemic\uff09\u3002\u4f46\u662f\u4e00\u822c\u4e0d\u6703\u6c38\u9060\u6301\u7e8c\uff0c\u56e0\u70ba\u53ef\u80fd\u88ab\u611f\u67d3\u7684\u4eba\u53e3\u6703\u6162\u6162\u6e1b\u5c11\u3002\u90e8\u5206\u4eba\u53e3\u53ef\u80fd\u6b7b\u65bc\u8a72\u50b3\u67d3\u75c5\uff0c\u90e8\u5206\u5247\u53ef\u80fd\u75c5\u7652\u5f8c\u7522\u751f\u514d\u75ab\u529b\u3002 \u82e5R0 = 1\uff0c\u50b3\u67d3\u75c5\u6703\u8b8a\u6210\u4eba\u53e3\u4e2d\u7684\u5730\u65b9\u6027\u6d41\u884c\u75c5\u3002 R0\u7684\u6578\u5b57\u6108\u5927\uff0c\u4ee3\u8868\u6d41\u884c\u75c5\u7684\u63a7\u5236\u6108\u96e3\u3002 \u4ee5\u4e0b\u70ba\u5e7e\u7a2e\u50b3\u67d3\u75c5\u7684R0\uff1a \n* \u56b4\u91cd\u6025\u6027\u547c\u5438\u9053\u7d9c\u5408\u75c7\uff1a0.85\u62162-5\uff1b\u5728\u65b0\u52a0\u5761\u6848\u4f8b\u70ba3 \n* \u611b\u6ecb\u75c5\uff1a2-5 \n* \u9ebb\u75b9\uff1a16-18",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "En epidemiolog\u00eda, el n\u00famero b\u00e1sico de reproducci\u00f3n (a veces llamado ritmo b\u00e1sico de reproducci\u00f3n, ratio reproductiva b\u00e1sica y denotadas por R0, r sub-cero) de una infecci\u00f3n es el n\u00famero promedio de casos nuevos que genera un caso dado lo largo de un per\u00edodo infeccioso. Esta m\u00e9trica es \u00fatil debido a que ayuda a determinar cuando una enfermedad infecciosa puede dar lugar a un brote epid\u00e9mico serio. Las ra\u00edces del concepto reproductivo b\u00e1sico se remonta al trabajo de Alfred Lotka, Ronald Ross y otros, aunque su primera aplicaci\u00f3n moderna se debe a George MacDonald in 1952, que construy\u00f3 modelos epidemiol\u00f3gicos de la propagaci\u00f3n de la malaria. Cuando R0 < 1 la infecci\u00f3n muere tras un largo per\u00edodo. Pero si R0 > 1 la infecci\u00f3n puede llegar a propagarse ampliamente entre la una poblaci\u00f3n. Generalmente, cuanto m\u00e1s grande R0 es tanto m\u00e1s dif\u00edcil ser\u00e1 controlar la epidemia. Por ejemplo, los modelos simples, la proporci\u00f3n de la poblaci\u00f3n que necesita estar vacunada para preveneir la propagaci\u00f3n sostenida de la infecci\u00f3n viene dada por 1 \u2212 1/R0. El ritmo reproductivo b\u00e1sico se ve afectado por muchos factores, entre ellos la duraci\u00f3n del periodo infecioso de un organismo, y el n\u00famero de personas suscpetibles dentro de la poblaci\u00f3n y con los que los pacientes afectados entran en contacto.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Het (basis-)reproductiegetal (R0) van een infectieziekte is het gemiddeld aantal secundaire besmettingen die veroorzaakt worden door een primair geval in een bevolking zonder immuniteit en in afwezigheid van profylactische maatregelen. Het effectief reproductiegetal Reff ligt lager omdat het ermee rekening houdt dat een gedeelte van de bevolking immuun is: Als R0 < 1 dan zal de infectie verdwijnen uit de populatie, maar als R0 > 1 dan kan ze uitgroeien tot een epidemie. Hoe groter R0, des te moeilijker zal de infectie onder controle te krijgen zijn. De proportie van de populatie die zal gevaccineerd moeten worden om de toestand van kudde-immuniteit te verkrijgen (en zo de verspreiding te stoppen) wordt gegeven door: 1-(1/R0) (zie afleiding hieronder). Zie verder: SIR-model (epidemiologie)",
+                "lang": "nl"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 737047399,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 917273,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/BRN": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Basic_reproduction_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Basic_Reproductive_Rate": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Basic_reproduction_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Basic_reproductive_rate": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Basic_reproduction_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Reproductive_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Basic_reproduction_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/R_naught": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Basic_reproduction_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/R-nought": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Basic_reproduction_number"
+            }
+        ]
+    }
+}

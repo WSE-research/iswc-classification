@@ -1,0 +1,760 @@
+{
+    "http://dbpedia.org/resource/Middle_Eastern_theatre_of_World_War_I": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Australia_Party": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Labour_Battalions_(Ottoman_Empire)": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/European_integration": {
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ottoman_Army_(15th-19th_centuries)": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Alexander_F._Mathews": {
+        "http://dbpedia.org/ontology/militaryRank": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Conscription": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Military_service": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Conscription": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Conscri\u00e7\u00e3o",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u062a\u062c\u0646\u064a\u062f \u0625\u062c\u0628\u0627\u0631\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Coscrizione",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u5fb4\u5175\u5236\u5ea6",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Conscription",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u5fb5\u5175\u5236",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Conscription",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Pob\u00f3r (wojsko)",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u043e\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u044c",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Wehrpflicht",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Dienstplicht",
+                "lang": "nl"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u0412\u043e\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u044c \u2014 \u043f\u043e\u0432\u0438\u043d\u043d\u043e\u0441\u0442\u044c \u043c\u0443\u0436\u0447\u0438\u043d \u0438 \u0436\u0435\u043d\u0449\u0438\u043d \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u0432 \u0440\u0443\u043a\u0430\u0445 \u0432\u043e\u0435\u0432\u0430\u0442\u044c \u0437\u0430 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u0438 \u043d\u0435\u0441\u0442\u0438 \u0432\u043e\u0435\u043d\u043d\u0443\u044e \u0441\u043b\u0443\u0436\u0431\u0443 \u0432 \u0440\u044f\u0434\u0430\u0445 \u0432\u043e\u043e\u0440\u0443\u0436\u0451\u043d\u043d\u044b\u0445 \u0441\u0438\u043b, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043e\u0431\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u044c \u0438\u0441\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u043a\u043e\u043d\u0441\u0442\u0438\u0442\u0443\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0434\u043e\u043b\u0433 \u043f\u043e \u0437\u0430\u0449\u0438\u0442\u0435 \u041e\u0442\u0435\u0447\u0435\u0441\u0442\u0432\u0430. \u0418\u0437 \u0432\u043e\u0438\u043d\u0441\u043a\u043e\u0439 \u043e\u0431\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0432\u044b\u0442\u0435\u043a\u0430\u0435\u0442 \u0432\u043e\u0435\u043d\u043d\u0430\u044f \u0441\u043b\u0443\u0436\u0431\u0430 \u0433\u0440\u0430\u0436\u0434\u0430\u043d \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0439\u043d\u044b. \u041d\u043e \u0432\u043e \u043c\u043d\u043e\u0433\u0438\u0445 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430\u0445 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0432\u043e\u0438\u043d\u0441\u043a\u0430\u044f \u043f\u043e\u0432\u0438\u043d\u043d\u043e\u0441\u0442\u044c, \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u044e\u0449\u0430\u044f \u043d\u0435\u0441\u0435\u043d\u0438\u0435 \u0441\u043b\u0443\u0436\u0431\u044b \u043a\u0430\u043a \u0432 \u0432\u043e\u0435\u043d\u043d\u043e\u0435, \u0442\u0430\u043a \u0438 \u0432 \u043c\u0438\u0440\u043d\u043e\u0435 \u0432\u0440\u0435\u043c\u044f. \u0418\u0441\u0442\u043e\u0440\u0438\u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u0444\u043e\u0440\u043c\u044b \u0432\u043e\u0438\u043d\u0441\u043a\u043e\u0439 \u043e\u0431\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438:",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Conscription, or drafting, is the compulsory enlistment of people in a national service, most often a military service. Conscription dates back to antiquity and continues in some countries to the present day under various names. The modern system of near-universal national conscription for young men dates to the French Revolution in the 1790s, where it became the basis of a very large and powerful military. Most European nations later copied the system in peacetime, so that men at a certain age would serve 1\u20138 years on active duty and then transfer to the reserve force.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Conscri\u00e7\u00e3o (do latim conscriptione) \u00e9 um termo geral para qualquer trabalho involunt\u00e1rio requerido por uma autoridade estabelecida. \u00c9 mais frequentemente, contudo, associado ao servi\u00e7o militar obrigat\u00f3rio. O servi\u00e7o militar obrigat\u00f3rio, nos pa\u00edses em que vigora, normalmente \u00e9 imposto aos cidad\u00e3os do sexo masculino, havendo, no entanto, alguns pa\u00edses em que a conscri\u00e7\u00e3o abrange os dois sexos. H\u00e1 uma idade m\u00ednima e uma idade m\u00e1xima em que ocorre a conscri\u00e7\u00e3o, as quais variam de pa\u00eds para pa\u00eds.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "De dienstplicht of militaire dienst, in de middeleeuwen heerban genoemd, is de verplichting tot het tijdelijk vervullen van werkzaamheden door (een deel van) de bevolking. Meestal wordt de term dienstplicht gebruikt voor de militaire dienstplicht, waarbij jonge mensen (in de meeste landen alleen mannen) een tijdlang verplicht deel uit maken van de krijgsmacht. Beroepsmilitairen spreken over zichzelf als in dienst ofwel in militaire dienst. Men kan dienstplicht zien als een belasting in natura.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "La conscription ou le service militaire obligatoire est la r\u00e9quisition par un \u00c9tat d'une partie de sa population afin de servir ses forces arm\u00e9es. Faisant suite aux arm\u00e9es professionnelles de l'Ancien R\u00e9gime ou de mercenaires utilis\u00e9es jusqu'\u00e0 la fin du XVIIIe si\u00e8cle, la conscription moderne a \u00e9t\u00e9 principalement d\u00e9velopp\u00e9e et cr\u00e9\u00e9e par la R\u00e9volution fran\u00e7aise, avec la fameuse lev\u00e9e en masse de l'an II (22 septembre 1793 au 21 septembre 1794), organis\u00e9e ensuite par la loi Jourdan, puis abolie par la Charte constitutionnelle du 4 juin 1814, mais avec une formulation ambigu\u00eb (article 12 : \u00ab La conscription est abolie. Le mode de recrutement de l'arm\u00e9e de terre et de mer est d\u00e9termin\u00e9 par une loi \u00bb)",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0623\u0643\u062a\u0648\u0628\u0631_2010) \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0647\u0648 \u0637\u0631\u064a\u0642\u0629 \u0644\u0627\u062e\u062a\u064a\u0627\u0631 \u0627\u0644\u0631\u062c\u0627\u0644\u060c \u0648\u0641\u064a \u0628\u0639\u0636 \u0627\u0644\u0623\u062d\u064a\u0627\u0646 \u0627\u0644\u0646\u0633\u0627\u0621\u060c \u0644\u0644\u062e\u062f\u0645\u0629 \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629 \u0627\u0644\u0625\u0644\u0632\u0627\u0645\u064a\u0629. \u0648\u064a\u0633\u0645\u0649 \u0623\u064a\u0636\u064b\u0627 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u0644\u0632\u0627\u0645\u064a \u0623\u0648 \u0627\u0644\u062e\u062f\u0645\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629\u060c \u0648\u0639\u0627\u062f\u0629\u064b\u060c \u064a\u062a\u0645 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0628\u0645\u062c\u0631\u062f \u0627\u0646\u062a\u0647\u0627\u0621 \u0627\u0644\u062f\u0631\u0627\u0633\u0629\u060c \u0641\u064a\u062e\u062f\u0645 \u0627\u0644\u0645\u062c\u0646\u062f\u0648\u0646 \u0644\u0645\u062f\u0629 \u062a\u062a\u0631\u0627\u0648\u062d \u0628\u064a\u0646 \u0639\u0627\u0645 \u0648\u0627\u062d\u062f \u0648\u062b\u0644\u0627\u062b\u0629 \u0623\u0639\u0648\u0627\u0645. \u0627\u0633\u062a\u062e\u062f\u0645\u062a \u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0641\u064a \u0648\u0642\u062a \u0627\u0644\u062d\u0631\u0628\u060c \u0648\u0644\u0643\u0646 \u0639\u062f\u062f\u064b\u0627 \u0642\u0644\u064a\u0644\u0627\u064b \u0645\u0646 \u0627\u0644\u062f\u0648\u0644 \u0627\u0633\u062a\u062e\u062f\u0645\u062a\u0647 \u0623\u062b\u0646\u0627\u0621 \u0641\u062a\u0631\u0627\u062a \u0627\u0644\u0633\u0644\u0645. \u0648\u0642\u062f \u0627\u0633\u062a\u063a\u0646\u062a \u0639\u0646\u0647 \u062f\u0648\u0644 \u0645\u062b\u0644\u060c \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0648\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0627 \u0648\u0623\u0633\u062a\u0631\u0627\u0644\u064a\u0627 \u0648\u0646\u064a\u0648\u0632\u064a\u0644\u0646\u062f\u0627 \u0648\u0627\u0644\u0647\u0646\u062f \u0648\u0628\u0627\u0643\u0633\u062a\u0627\u0646. \u0643\u0645\u0627 \u0623\u0646 \u062f\u0648\u0644\u0627\u064b \u0623\u062e\u0631\u0649 \u0643\u062b\u064a\u0631\u0629\u060c \u0648\u062e\u0635\u0648\u0635\u064b\u0627 \u0641\u064a \u0623\u0648\u0631\u0648\u0628\u0627\u060c \u0642\u062f \u062e\u0641\u0636\u062a \u0645\u062f\u062f \u0627\u0644\u062e\u062f\u0645\u0629. \u0648\u0642\u062f \u0623\u062f\u062e\u0644\u062a \u0628\u0639\u0636 \u0627\u0644\u0628\u0644\u062f\u0627\u0646 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0641\u064a \u0623\u0648\u0627\u062e\u0631 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0639\u0634\u0631\u064a\u0646.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "La coscrizione indica genericamente l'iscrizione, prevista dalla legge, dei cittadini di uno stato in apposite liste, al fine di consentire la chiamata di questi ultimi al servizio militare obbligatorio presso le forze armate. Quando \u00e8 imposta dalla legge d'obbligo si parla di \"coscrizione obbligatoria\". Il cittadino arruolato tramite tale procedimento viene genericamente definito coscritto.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Pob\u00f3r obejmuje ca\u0142okszta\u0142t przedsi\u0119wzi\u0119\u0107 zwi\u0105zanych z ocen\u0105 zdolno\u015bci fizycznej i psychicznej (realizowane przez w\u0142a\u015bciwe komisje lekarskie powo\u0142ywane przez w\u0142adze lokalne na czas trwania poboru) m\u0142odych ludzi do s\u0142u\u017cby wojskowej oraz uj\u0119ciem ich w ewidencji wojskowej. Nie nale\u017cy myli\u0107 poboru z powo\u0142aniem, kiedy to otrzymuje si\u0119 kart\u0119 powo\u0142ania (tzw. bilet) nak\u0142adaj\u0105c\u0105 obowi\u0105zek stawienia si\u0119 w okre\u015blonym miejscu i czasie do odbycia czynnej s\u0142u\u017cby wojskowej.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5fb4\u5175\u5236\u5ea6\uff08\u3061\u3087\u3046\u3078\u3044\u305b\u3044\u3069\uff09\u3068\u306f\u3001\u56fd\u5bb6\u304c\u56fd\u6c11\u306b\u5175\u5f79\u306b\u670d\u3059\u308b\u7fa9\u52d9\u3092\u8ab2\u3059\u5236\u5ea6\u3067\u3042\u308b\u3002\u5fb4\u5175\u5236\u3068\u3082\u8a00\u3044\u3001\u56fd\u6c11\u56fd\u5bb6\u3084\u56fd\u6c11\u7686\u5175\u306e\u601d\u60f3\u3068\u304b\u304b\u308f\u308a\u304c\u6df1\u304f\u3001\u5fd7\u9858\u5175\uff08\u52df\u5175\uff09\u5236\u5ea6\u306e\u5bfe\u7fa9\u8a9e\u3067\u3042\u308b\u3002 \u81ea\u5206\u306e\u610f\u601d\u3067\u5175\u58eb\u306b\u306a\u3063\u305f\u4eba\u3092\u5fd7\u9858\u5175\u3084\u7fa9\u52c7\u5175\u3068\u547c\u3076\u306e\u306b\u5bfe\u3057\u3066\u3001\u5fb4\u5175\u5236\u5ea6\u306b\u3088\u3063\u3066\u81ea\u5206\u306e\u610f\u601d\u306b\u3088\u3089\u305a\u5175\u58eb\u306b\u306a\u3063\u305f\u4eba\u3092\u5fb4\u96c6\u5175\u3068\u547c\u3076\u3002\u8ecd\u968a\u3084\u90e8\u968a\u304c\u4f4f\u6c11\u3084\u96e3\u6c11\u3092\u5f37\u5236\u7684\u306b\u5fb4\u767a\u3057\u5175\u30fb\u6c34\u5175\u7b49\u306b\u5229\u7528\u3059\u308b\u3053\u3068\u3092\u5f37\u5236\u5fb4\u52df\u3068\u3088\u3076\u3002 \u5317\u30a2\u30d5\u30ea\u30ab\u8af8\u56fd\u306e\u4ed6\u3001\u30ed\u30b7\u30a2\u3001\u97d3\u56fd\u3001\u30d9\u30c8\u30ca\u30e0\u7b49\u3067\u306f\u5fb4\u5175\u5236\u304c\u7d9a\u3044\u3066\u3044\u308b\u304c\u3001\u51b7\u6226\u7d42\u7d50\u5f8c\u306f\u3001\u30d5\u30e9\u30f3\u30b9\u3001\u30c9\u30a4\u30c4\u3001\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3\u306e\u3088\u3046\u306b\u5fb4\u5175\u5236\u5ea6\u3092\u5ec3\u6b62\u3059\u308b\u56fd\u304c\u5897\u3048\u3064\u3064\u3042\u308a\u3001\u307e\u305f\u3001\u5b9f\u65bd\u3057\u3066\u3044\u308b\u56fd\u3067\u3082\u826f\u5fc3\u7684\u5175\u5f79\u62d2\u5426\u3092\u5c0e\u5165\u3057\u3066\u3044\u308b\u5834\u5408\u304c\u5927\u534a\u3067\u3042\u308b\u3002 \u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3\u306a\u3069\u306b\u8ecd\u4e8b\u4ecb\u5165\u3057\u3066\u3044\u308bNATO\u306b\u52a0\u76df\u3057\u3066\u3044\u308b28\u304b\u56fd\u3092\u4f8b\u306b\u3068\u308b\u3068\u300190\u5e74\u4ee3\u304b\u308900\u5e74\u4ee3\u306b\u304b\u3051\u3066\u6b21\u3005\u3068\u5fb4\u5175\u5236\u3092\u5ec3\u6b62\u3057\u3001\u5fb4\u5175\u5236\u306e\u63a1\u7528\u56fd\u306f\u73fe\u5728\u30a8\u30b9\u30c8\u30cb\u30a2\u3001\u30c8\u30eb\u30b3\u3001\u30ae\u30ea\u30b7\u30e3\u3001\u30c7\u30f3\u30de\u30fc\u30af\u3001\u30ce\u30eb\u30a6\u30a7\u30fc\u306e5\u304b\u56fd\u306b\u307e\u3067\u6e1b\u5c11\u3057\u3066\u3044\u308b\u3002 \u3057\u304b\u3057\u3001\u6c38\u4e16\u4e2d\u7acb\u3092\u63b2\u3052\u308b\u30b9\u30a4\u30b9\u3068\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2\u3067\u306f\u56fd\u6c11\u6295\u7968\u3067\u5fb4\u5175\u5236\u306e\u5ec3\u6b62\u304c\u5426\u6c7a\u3055\u308c\u30012013\u5e74\u306b\u5fb4\u5175\u5236\u3092\u5ec3\u6b62\u3057\u305f\u30a6\u30af\u30e9\u30a4\u30ca\u3067\u306f\u3001\u7fcc\u5e74\u767a\u751f\u3057\u305f\u30ed\u30b7\u30a2\u306e\u30af\u30ea\u30df\u30a2\u4fb5\u653b\u306e\u5f8c\u306b\u5fb4\u5175\u5236\u304c\u5fa9\u6d3b\u3059\u308b\u306a\u3069\u3001\u56fd\u662f\u3084\u56fd\u5bb6\u3092\u53d6\u308a\u5dfb\u304f\u60c5\u52e2\u306b\u3088\u3063\u3066\u5de6\u53f3\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u306b\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Als Wehrpflicht bezeichnet man die Pflicht eines Staatsb\u00fcrgers, f\u00fcr einen gewissen Zeitraum in den Streitkr\u00e4ften oder einer anderen Wehrformation (zum Beispiel im Bereich der Polizei oder des Katastrophenschutzes) seines Landes zu dienen. Ob und f\u00fcr wen eine Wehrpflicht besteht, ist in verschiedenen L\u00e4ndern unterschiedlich geregelt. Mit wenigen Ausnahmen (Israel, Norwegen, Schweden [ausgesetzt], teilweise China) erstreckt sich die Wehrpflicht nur auf die m\u00e4nnliche Bev\u00f6lkerung, dennoch wird h\u00e4ufig auch synonym von einer allgemeinen Wehrpflicht gesprochen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u5fb5\u5175\u5236\uff0c\u662f\u4e00\u7a2e\u570b\u5bb6\u5fb5\u52df\u8ecd\u4eba\u7684\u5236\u5ea6\uff0c\u4ea6\u7a31\u70ba\u7fa9\u52d9\u5f79\u3001\u5e38\u5099\u5f79\u3001\u670d\u5175\u5f79\u7b49\uff0c\u610f\u6307\u5168\u9ad4\u570b\u6c11\uff0c\u5982\u7b26\u5408\u4e00\u5b9a\u689d\u4ef6\uff08\u901a\u5e38\u662f\u5e74\u6eff\u6cd5\u5b9a\u5e74\u9f61\uff0c\u4e14\u8eab\u9ad4\u5065\u5eb7\u3001\u7121\u6b98\u75be\u7684\u7537\u6027\uff09\uff0c\u5747\u9808\u5f37\u5236\u6027\u52a0\u5165\u8ecd\u968a\u670d\u5f79\u4e00\u6bb5\u6642\u671f\uff08\u901a\u5e38\u7531\u534a\u5e74\u81f3\u4e09\u5e74\u4e0d\u7b49\uff0c\u8996\u4e4e\u570b\u5bb6\u53ca\u8ecd\u7a2e\u800c\u5b9a\uff09\u3002\u8207\u52df\u5175\u5236\uff08\u4ea6\u7a31\u70ba\u5fd7\u9858\u5f79\uff09\u70ba\u76f8\u5c0d\u7528\u8a5e\u3002\u7531\u65bc\u7fa9\u52d9\u5f79\u6210\u54e1\u662f\u5f37\u5236\u6027\u3001\u975e\u81ea\u9858\u53ca\u975e\u7d42\u751f\u6027\uff0c\u56e0\u6b64\u5be6\u65bd\u5fb5\u5175\u5236\u7684\u570b\u5bb6\u901a\u5e38\u6703\u540c\u6642\u5be6\u65bd\u52df\u5175\u5236\uff0c\u5bb9\u8a31\u81ea\u9858\u9078\u64c7\u4ee5\u8ecd\u4eba\u70ba\u9577\u671f\u8077\u696d\u7684\u4eba\u58eb\uff0c\u5728\u7fa9\u52d9\u5f79\u671f\u5b8c\u7562\u5f8c\uff0c\u7e7c\u7e8c\u5728\u8ecd\u968a\u670d\u5f79\u3002\u4e00\u822c\u58eb\u5175\u7531\u5fb5\u5175\u800c\u4f86\uff0c\u58eb\u5b98\u5e79\u90e8\u3001\u8ecd\u5b98\u5e79\u90e8\u5247\u4e3b\u8981\u63a1\u5fd7\u9858\u65b9\u5f0f\u62db\u52df\uff0c\u9664\u975e\u5fd7\u9858\u65b9\u5f0f\u62db\u52df\u4e0d\u8db3\u8005\uff0c\u5982\u4e2d\u83ef\u6c11\u570b\u6bcf\u5e74\u90fd\u6703\u8209\u8fa6\u9810\u5b98\u9810\u58eb\u8003\u8a66\uff0c\u62db\u8003\u5927\u5b78\u3001\u5c08\u79d1\u4ee5\u4e0a\u5b78\u6b77\u7684\u7fa9\u52d9\u5f79\u9752\u5e74\uff0c\u4f7f\u4e4b\u5728\u670d\u5f79\u671f\u9593\u6649\u5347\u70ba\u4e0b\u58eb\u58eb\u5b98\u6216\u8005\u5c11\u5c09\u8ecd\u5b98\u3002 \u4e2d\u83ef\u6c11\u570b\uff08\u81fa\u7063\uff09\u53ca\u97d3\u570b\u7684\u7fa9\u52d9\u5f79\u5236\u5ea6\uff0c\u8fd1\u5e74\u4f86\u5e38\u767c\u751f\u68d2\u7403\u7403\u54e1\u3001\u85dd\u4eba\u7684\u5175\u5f79\u554f\u984c\u3002\u96d6\u7136\u5169\u500b\u5730\u65b9\u6cd5\u5f8b\u660e\u6587\u898f\u5b9a\u7537\u6027\u6709\u670d\u5175\u5f79\u7684\u7fa9\u52d9\uff0c\u4f46\u4ecd\u6709\u4e00\u5b9a\u7684\u8f49\u571c\u7a7a\u9593\uff1b\u6709\u90e8\u5206\u7684\u68d2\u7403\u7403\u54e1\u8207\u85dd\u4eba\u5728\u570b\u969b\u4e0a\u6709\u77e5\u540d\u5ea6\uff0c\u4f46\u56e0\u70ba\u5175\u5f79\u554f\u984c\u53ef\u80fd\u5c0e\u81f4\u4e8b\u696d\u4e2d\u65b7\uff0c\u5175\u5f79\u6a5f\u95dc\u6703\u63a1\u53d6\u5f48\u6027\u7684\u65b9\u5f0f\u4f7f\u88ab\u5fb5\u53ec\u5165\u4f0d\u7684\u85dd\u4eba\u8207\u68d2\u7403\u7403\u54e1\u64d4\u4efb\u70ba\u671f\u5341\u4e8c\u5929\u7684\u300c\u88dc\u5145\u5175\u300d\uff1b\u7136\u800c\u6709\u90e8\u5206\u7684\u85dd\u4eba\u662f\u5f9e\u4e8b\u517c\u8077\u5de5\u4f5c\uff0c\u9664\u4e86\u5728\u87a2\u5149\u5e55\u524d\u4eae\u76f8\u5916\uff0c\u540c\u6642\u4e5f\u662f\u5927\u5c08\u3001\u6280\u8077\u9662\u6821\u7684\u5b78\u751f\uff0c\u751a\u81f3\u90e8\u5206\u7684\u85dd\u4eba\u6703\u4f01\u5716\u300c\u5ef6\u7562\u300d\uff08\u5ef6\u5f8c\u7562\u696d\uff09\u6216\u8005\u8fa6\u7406\u591a\u6b21\u8f49\u5b78\u624b\u7e8c\u4ee5\u5ef6\u7de9\u5175\u5f79\u3002\u6b64\u5916\uff0c\u81fa\u7063\u548c\u97d3\u570b\u7684\u8cc7\u8a0a\u7522\u696d\u767c\u9054\uff0c\u70ba\u6c42\u6709\u6548\u5229\u7528\u8cc7\u8a0a\u7522\u696d\u4eba\u624d\uff0c\u5175\u5f79\u6a5f\u95dc\u6703\u5f48\u6027\u5be6\u65bd\u300c\u7814\u767c\u66ff\u4ee3\u5f79\u300d\u5236\u5ea6\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/The_Netherlands"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remplacement"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Conscription"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u5fb4\u5175\u5236\u5ea6"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Coscrizione"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/V\u0161eobecn\u00e1_brann\u00e1_povinnost"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Wajib_militer"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q580750"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4065000-5"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Wehrpflicht"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01q_0"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Dienstplicht"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q580750"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc9d5\ubcd1\uc81c"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Conscri\u00e7\u00e3o"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Pob\u00f3r_(wojsko)"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Conscription"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Political_theories"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Conscription_map_of_the_world.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Conscription"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Conscription?oldid=744550861"
+            }
+        ],
+        "http://dbpedia.org/property/date": [
+            {
+                "type": "literal",
+                "value": "September 2010",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.jstor.org/pss/260994"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=V4l7Zs-mtA8C"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.econlib.org/library/Enc/Conscription.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://afs.sagepub.com/content/36/3/481.abstract"
+            },
+            {
+                "type": "uri",
+                "value": "http://nbn-resolving.de/urn:nbn:de:0159-2011121234"
+            },
+            {
+                "type": "uri",
+                "value": "http://afs.sagepub.com/cgi/content/abstract/34/4/682"
+            },
+            {
+                "type": "uri",
+                "value": "http://afs.sagepub.com/cgi/content/abstract/27/1/7"
+            },
+            {
+                "type": "uri",
+                "value": "http://afs.sagepub.com/cgi/content/abstract/30/4/571"
+            },
+            {
+                "type": "uri",
+                "value": "http://afs.sagepub.com/cgi/content/abstract/26/2/313"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/?id=vDBrQgAACAAJ&dq=Conscription+and+America:+A+Study+of+Conscription+in+a+Democracy"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "De dienstplicht of militaire dienst, in de middeleeuwen heerban genoemd, is de verplichting tot het tijdelijk vervullen van werkzaamheden door (een deel van) de bevolking. Meestal wordt de term dienstplicht gebruikt voor de militaire dienstplicht, waarbij jonge mensen (in de meeste landen alleen mannen) een tijdlang verplicht deel uit maken van de krijgsmacht. Beroepsmilitairen spreken over zichzelf als in dienst ofwel in militaire dienst. Men kan dienstplicht zien als een belasting in natura. Naast verplichtingen biedt de dienstplicht ook (opleidings)mogelijkheden, die vaak wel een militaire toepassing hebben. Men kan bijvoorbeeld leren zware voertuigen te besturen en zo een rijbewijs C behalen. Ook is er vaak ruimte voor andere opleidingen, al dan niet met militair nut. Wie een militaire opleiding heeft gevolgd of wil volgen (wat vaak in dienst eveneens mogelijk is), kan doorstromen naar verdere training of zelfs de officiersopleiding, en beroepsmilitair worden. Het komt voor (dit hangt van het land af) dat mannen die hun dienstplicht hebben vervuld 'op herhaling' moeten. Dit betreft dan meestal een 'opfriscursus' van enkele weken.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5fb4\u5175\u5236\u5ea6\uff08\u3061\u3087\u3046\u3078\u3044\u305b\u3044\u3069\uff09\u3068\u306f\u3001\u56fd\u5bb6\u304c\u56fd\u6c11\u306b\u5175\u5f79\u306b\u670d\u3059\u308b\u7fa9\u52d9\u3092\u8ab2\u3059\u5236\u5ea6\u3067\u3042\u308b\u3002\u5fb4\u5175\u5236\u3068\u3082\u8a00\u3044\u3001\u56fd\u6c11\u56fd\u5bb6\u3084\u56fd\u6c11\u7686\u5175\u306e\u601d\u60f3\u3068\u304b\u304b\u308f\u308a\u304c\u6df1\u304f\u3001\u5fd7\u9858\u5175\uff08\u52df\u5175\uff09\u5236\u5ea6\u306e\u5bfe\u7fa9\u8a9e\u3067\u3042\u308b\u3002 \u81ea\u5206\u306e\u610f\u601d\u3067\u5175\u58eb\u306b\u306a\u3063\u305f\u4eba\u3092\u5fd7\u9858\u5175\u3084\u7fa9\u52c7\u5175\u3068\u547c\u3076\u306e\u306b\u5bfe\u3057\u3066\u3001\u5fb4\u5175\u5236\u5ea6\u306b\u3088\u3063\u3066\u81ea\u5206\u306e\u610f\u601d\u306b\u3088\u3089\u305a\u5175\u58eb\u306b\u306a\u3063\u305f\u4eba\u3092\u5fb4\u96c6\u5175\u3068\u547c\u3076\u3002\u8ecd\u968a\u3084\u90e8\u968a\u304c\u4f4f\u6c11\u3084\u96e3\u6c11\u3092\u5f37\u5236\u7684\u306b\u5fb4\u767a\u3057\u5175\u30fb\u6c34\u5175\u7b49\u306b\u5229\u7528\u3059\u308b\u3053\u3068\u3092\u5f37\u5236\u5fb4\u52df\u3068\u3088\u3076\u3002 \u5317\u30a2\u30d5\u30ea\u30ab\u8af8\u56fd\u306e\u4ed6\u3001\u30ed\u30b7\u30a2\u3001\u97d3\u56fd\u3001\u30d9\u30c8\u30ca\u30e0\u7b49\u3067\u306f\u5fb4\u5175\u5236\u304c\u7d9a\u3044\u3066\u3044\u308b\u304c\u3001\u51b7\u6226\u7d42\u7d50\u5f8c\u306f\u3001\u30d5\u30e9\u30f3\u30b9\u3001\u30c9\u30a4\u30c4\u3001\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3\u306e\u3088\u3046\u306b\u5fb4\u5175\u5236\u5ea6\u3092\u5ec3\u6b62\u3059\u308b\u56fd\u304c\u5897\u3048\u3064\u3064\u3042\u308a\u3001\u307e\u305f\u3001\u5b9f\u65bd\u3057\u3066\u3044\u308b\u56fd\u3067\u3082\u826f\u5fc3\u7684\u5175\u5f79\u62d2\u5426\u3092\u5c0e\u5165\u3057\u3066\u3044\u308b\u5834\u5408\u304c\u5927\u534a\u3067\u3042\u308b\u3002 \u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3\u306a\u3069\u306b\u8ecd\u4e8b\u4ecb\u5165\u3057\u3066\u3044\u308bNATO\u306b\u52a0\u76df\u3057\u3066\u3044\u308b28\u304b\u56fd\u3092\u4f8b\u306b\u3068\u308b\u3068\u300190\u5e74\u4ee3\u304b\u308900\u5e74\u4ee3\u306b\u304b\u3051\u3066\u6b21\u3005\u3068\u5fb4\u5175\u5236\u3092\u5ec3\u6b62\u3057\u3001\u5fb4\u5175\u5236\u306e\u63a1\u7528\u56fd\u306f\u73fe\u5728\u30a8\u30b9\u30c8\u30cb\u30a2\u3001\u30c8\u30eb\u30b3\u3001\u30ae\u30ea\u30b7\u30e3\u3001\u30c7\u30f3\u30de\u30fc\u30af\u3001\u30ce\u30eb\u30a6\u30a7\u30fc\u306e5\u304b\u56fd\u306b\u307e\u3067\u6e1b\u5c11\u3057\u3066\u3044\u308b\u3002 \u3057\u304b\u3057\u3001\u6c38\u4e16\u4e2d\u7acb\u3092\u63b2\u3052\u308b\u30b9\u30a4\u30b9\u3068\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2\u3067\u306f\u56fd\u6c11\u6295\u7968\u3067\u5fb4\u5175\u5236\u306e\u5ec3\u6b62\u304c\u5426\u6c7a\u3055\u308c\u30012013\u5e74\u306b\u5fb4\u5175\u5236\u3092\u5ec3\u6b62\u3057\u305f\u30a6\u30af\u30e9\u30a4\u30ca\u3067\u306f\u3001\u7fcc\u5e74\u767a\u751f\u3057\u305f\u30ed\u30b7\u30a2\u306e\u30af\u30ea\u30df\u30a2\u4fb5\u653b\u306e\u5f8c\u306b\u5fb4\u5175\u5236\u304c\u5fa9\u6d3b\u3059\u308b\u306a\u3069\u3001\u56fd\u662f\u3084\u56fd\u5bb6\u3092\u53d6\u308a\u5dfb\u304f\u60c5\u52e2\u306b\u3088\u3063\u3066\u5de6\u53f3\u3055\u308c\u3066\u3044\u308b\u72b6\u6cc1\u306b\u3042\u308b\u3002 \u6709\u4e8b\u306e\u969b\u306b\u304b\u304e\u308a\u5fb4\u5175\u5236\u3092\u8a8d\u3081\u3066\u3044\u308b\u56fd\u3082\u3042\u308a\u3001\u5e38\u5099\u8ecd\u3092\u6301\u305f\u306a\u3044\u30b3\u30b9\u30bf\u30ea\u30ab\u3067\u306f\u3001\u6709\u4e8b\u306e\u969b\u306b\u5fb4\u5175\u5236\u3092\u5b9f\u65bd\u3067\u304d\u308b\u3053\u3068\u304c\u61b2\u6cd5\u306b\u660e\u8a18\u3055\u308c\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Conscri\u00e7\u00e3o (do latim conscriptione) \u00e9 um termo geral para qualquer trabalho involunt\u00e1rio requerido por uma autoridade estabelecida. \u00c9 mais frequentemente, contudo, associado ao servi\u00e7o militar obrigat\u00f3rio. O servi\u00e7o militar obrigat\u00f3rio, nos pa\u00edses em que vigora, normalmente \u00e9 imposto aos cidad\u00e3os do sexo masculino, havendo, no entanto, alguns pa\u00edses em que a conscri\u00e7\u00e3o abrange os dois sexos. H\u00e1 uma idade m\u00ednima e uma idade m\u00e1xima em que ocorre a conscri\u00e7\u00e3o, as quais variam de pa\u00eds para pa\u00eds.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Pob\u00f3r obejmuje ca\u0142okszta\u0142t przedsi\u0119wzi\u0119\u0107 zwi\u0105zanych z ocen\u0105 zdolno\u015bci fizycznej i psychicznej (realizowane przez w\u0142a\u015bciwe komisje lekarskie powo\u0142ywane przez w\u0142adze lokalne na czas trwania poboru) m\u0142odych ludzi do s\u0142u\u017cby wojskowej oraz uj\u0119ciem ich w ewidencji wojskowej. Nie nale\u017cy myli\u0107 poboru z powo\u0142aniem, kiedy to otrzymuje si\u0119 kart\u0119 powo\u0142ania (tzw. bilet) nak\u0142adaj\u0105c\u0105 obowi\u0105zek stawienia si\u0119 w okre\u015blonym miejscu i czasie do odbycia czynnej s\u0142u\u017cby wojskowej. Obowi\u0105zkowy pob\u00f3r i powo\u0142anie do wojska cz\u0119sto spotyka si\u0119 ze sprzeciwem powo\u0142ywanych, zwanych obd\u017cektorami, kt\u00f3rzy s\u0105 negatywnie nastawieni do s\u0142u\u017cby wojskowej z wielu r\u00f3\u017cnych przyczyn, tak religijnych jak i \u015bwiatopogl\u0105dowych; nie bez znaczenia s\u0105 motywy polityczne, jak na przyk\u0142ad niech\u0119\u0107 wobec niepopularnego rz\u0105du lub udzia\u0142u w dzia\u0142aniach zbrojnych uznanych za niezgodne z interesem kraju; motywy ideologiczne, czyli ch\u0119\u0107 zapobie\u017cenia \u0142amaniu praw obywatelskich. Tacy powo\u0142ani czasami staraj\u0105 si\u0119 unikn\u0105\u0107 s\u0142u\u017cby, na przyk\u0142ad szukaj\u0105c ucieczki za granic\u0105. W niekt\u00f3rych krajach w\u0142adze staraj\u0105 si\u0119 przeciwdzia\u0142a\u0107 takim zachowaniom wprowadzaj\u0105c rodzaj s\u0142u\u017cby zast\u0119pczej, jak na przyk\u0142ad Zivildienst (s\u0142u\u017cba cywilna) w Austrii i Szwajcarii. W wi\u0119kszo\u015bci kraj\u00f3w by\u0142ego bloku sowieckiego pob\u00f3r obejmuje nie tylko przysz\u0142ych \u017co\u0142nierzy si\u0142 zbrojnych, ale r\u00f3wnie\u017c funkcjonariuszy organizacji paramilitarnych, kt\u00f3rzy kierowani s\u0105 do formacji quasi-policyjnych lub obrony cywilnej b\u0105d\u017a s\u0142u\u017cb ratunkowych nie b\u0119d\u0105cych odpowiednikiem s\u0142u\u017cby wojskowej. Na pocz\u0105tku XXI wieku wiele pa\u0144stw zrezygnowa\u0142o z powo\u0142ywania do zasadniczej s\u0142u\u017cby wojskowej, sk\u0142adaj\u0105c obron\u0119 kraju w r\u0119ce \u017co\u0142nierzy zawodowych z naboru ochotniczego. Nab\u00f3r taki wymaga jednak od kandydat\u00f3w szczeg\u00f3lnych zdolno\u015bci i przygotowania do prowadzenia walki z broni\u0105 w r\u0119ku oraz sprostania wszelkim przeciwno\u015bciom. Wiele pa\u0144stw, kt\u00f3re zrezygnowa\u0142y z przymusowego powo\u0142ywania do s\u0142u\u017cby, nadal rezerwuje dla siebie prawo do przywr\u00f3cenia go na wypadek wojny lub powa\u017cnych sytuacji kryzysowych. W wi\u0119kszo\u015bci kraj\u00f3w europejskich system przymusowego poboru i powo\u0142ywania do wojska zosta\u0142 zniesiony w latach 2004-2012 lub wcze\u015bniej. Wyj\u0105tkami (obok wymienionych Austrii i Szwajcarii) s\u0105: Dania, Estonia, Finlandia, Grecja, Mo\u0142dawia, Norwegia oraz Bia\u0142oru\u015b, Rosja i Turcja.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "La conscription ou le service militaire obligatoire est la r\u00e9quisition par un \u00c9tat d'une partie de sa population afin de servir ses forces arm\u00e9es. Faisant suite aux arm\u00e9es professionnelles de l'Ancien R\u00e9gime ou de mercenaires utilis\u00e9es jusqu'\u00e0 la fin du XVIIIe si\u00e8cle, la conscription moderne a \u00e9t\u00e9 principalement d\u00e9velopp\u00e9e et cr\u00e9\u00e9e par la R\u00e9volution fran\u00e7aise, avec la fameuse lev\u00e9e en masse de l'an II (22 septembre 1793 au 21 septembre 1794), organis\u00e9e ensuite par la loi Jourdan, puis abolie par la Charte constitutionnelle du 4 juin 1814, mais avec une formulation ambigu\u00eb (article 12 : \u00ab La conscription est abolie. Le mode de recrutement de l'arm\u00e9e de terre et de mer est d\u00e9termin\u00e9 par une loi \u00bb) Au d\u00e9but du XXIe si\u00e8cle, la plupart des \u00c9tats occidentaux ont mis fin \u00e0 la conscription. Parmi eux la Norv\u00e8ge, la Suisse, la Finlande et l'Autriche ont conserv\u00e9 ce syst\u00e8me, la France l'ayant suspendu en 1997. La conscription trouve son origine dans l'Antiquit\u00e9, on la retrouve dans de nombreuses cit\u00e9s hell\u00e9niques qui en faisaient un usage fr\u00e9quent mais, d\u00e9pourvue de caract\u00e8re de masse, elle \u00e9tait limit\u00e9e \u00e0 la classe des citoyens ne formant qu'un dixi\u00e8me de la population. Il existait surtout en Gr\u00e8ce, en dehors du cadre id\u00e9alis\u00e9 des cit\u00e9s, des mercenaires professionnels se vendant au plus offrant par exemple \u00e0 Hannibal ou \u00e0 Cyrus et dont X\u00e9nophon a d\u00e9crit la vie dans l'Anabase. \u00c0 Rome \u00e0 l'origine seuls les patriciens avaient le droit de participer \u00e0 l'arm\u00e9e et une des revendications des pl\u00e9b\u00e9iens fut de pouvoir \u00e9galement en faire partie ; par la suite tout citoyen romain put participer \u00e0 l'effort militaire. Les prol\u00e9taires, infra classem, ne pouvaient pas servir dans l'arm\u00e9e et Marius fut le premier \u00e0 avoir admis des prol\u00e9taires dans les l\u00e9gions. L'arm\u00e9e ne devint permanente que sous Auguste et m\u00eame si le civis Romanus avait l'obligation th\u00e9orique d'en faire partie elle \u00e9tait d\u00e9sormais constitu\u00e9e de volontaires surtout provinciaux. La conscription obligatoire, inspir\u00e9e de ces exemples tir\u00e9s de Tite-Live et de Thucydide mais de mani\u00e8re d\u00e9form\u00e9e, ont inspir\u00e9 les id\u00e9ologues r\u00e9volutionnaires dans la cr\u00e9ation de la conscription obligatoire.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Als Wehrpflicht bezeichnet man die Pflicht eines Staatsb\u00fcrgers, f\u00fcr einen gewissen Zeitraum in den Streitkr\u00e4ften oder einer anderen Wehrformation (zum Beispiel im Bereich der Polizei oder des Katastrophenschutzes) seines Landes zu dienen. Ob und f\u00fcr wen eine Wehrpflicht besteht, ist in verschiedenen L\u00e4ndern unterschiedlich geregelt. Mit wenigen Ausnahmen (Israel, Norwegen, Schweden [ausgesetzt], teilweise China) erstreckt sich die Wehrpflicht nur auf die m\u00e4nnliche Bev\u00f6lkerung, dennoch wird h\u00e4ufig auch synonym von einer allgemeinen Wehrpflicht gesprochen. Die Wehr- oder Ersatzdienst-Pflicht f\u00e4llt unter den Ausnahmetatbestand in Art. 4 der Europ\u00e4ischen Menschenrechtskonvention (dort als \u201emilit\u00e4rische Dienstpflicht\u201c), der das Verbot der Sklaverei und der Zwangsarbeit regelt.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u043e\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u044c \u2014 \u043f\u043e\u0432\u0438\u043d\u043d\u043e\u0441\u0442\u044c \u043c\u0443\u0436\u0447\u0438\u043d \u0438 \u0436\u0435\u043d\u0449\u0438\u043d \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u0432 \u0440\u0443\u043a\u0430\u0445 \u0432\u043e\u0435\u0432\u0430\u0442\u044c \u0437\u0430 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u0438 \u043d\u0435\u0441\u0442\u0438 \u0432\u043e\u0435\u043d\u043d\u0443\u044e \u0441\u043b\u0443\u0436\u0431\u0443 \u0432 \u0440\u044f\u0434\u0430\u0445 \u0432\u043e\u043e\u0440\u0443\u0436\u0451\u043d\u043d\u044b\u0445 \u0441\u0438\u043b, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043e\u0431\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u044c \u0438\u0441\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u043a\u043e\u043d\u0441\u0442\u0438\u0442\u0443\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0434\u043e\u043b\u0433 \u043f\u043e \u0437\u0430\u0449\u0438\u0442\u0435 \u041e\u0442\u0435\u0447\u0435\u0441\u0442\u0432\u0430. \u0418\u0437 \u0432\u043e\u0438\u043d\u0441\u043a\u043e\u0439 \u043e\u0431\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0432\u044b\u0442\u0435\u043a\u0430\u0435\u0442 \u0432\u043e\u0435\u043d\u043d\u0430\u044f \u0441\u043b\u0443\u0436\u0431\u0430 \u0433\u0440\u0430\u0436\u0434\u0430\u043d \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0439\u043d\u044b. \u041d\u043e \u0432\u043e \u043c\u043d\u043e\u0433\u0438\u0445 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430\u0445 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0432\u043e\u0438\u043d\u0441\u043a\u0430\u044f \u043f\u043e\u0432\u0438\u043d\u043d\u043e\u0441\u0442\u044c, \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u044e\u0449\u0430\u044f \u043d\u0435\u0441\u0435\u043d\u0438\u0435 \u0441\u043b\u0443\u0436\u0431\u044b \u043a\u0430\u043a \u0432 \u0432\u043e\u0435\u043d\u043d\u043e\u0435, \u0442\u0430\u043a \u0438 \u0432 \u043c\u0438\u0440\u043d\u043e\u0435 \u0432\u0440\u0435\u043c\u044f. \u0418\u0441\u0442\u043e\u0440\u0438\u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u0444\u043e\u0440\u043c\u044b \u0432\u043e\u0438\u043d\u0441\u043a\u043e\u0439 \u043e\u0431\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438: \n*  \u0440\u0435\u043a\u0440\u0443\u0442\u0441\u043a\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430, \u043f\u0440\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0438\u0437 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u0442\u0435\u043c \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u0438\u043c \u0441\u043f\u043e\u0441\u043e\u0431\u043e\u043c \u043d\u0430\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u0440\u0435\u043a\u0440\u0443\u0442, \u0430 \u043f\u0440\u043e\u0447\u0430\u044f \u0447\u0430\u0441\u0442\u044c \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u0444\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u043e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442\u0441\u044f \u043e\u0442 \u0432\u0441\u044f\u043a\u043e\u0439 \u0441\u043b\u0443\u0436\u0431\u044b.  \n*  \u043c\u0438\u043b\u0438\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430, \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0430\u044f \u043f\u0440\u044f\u043c\u0443\u044e \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0440\u0435\u043a\u0440\u0443\u0442\u0441\u043a\u043e\u0439: \u043a\u0430\u0436\u0434\u044b\u0439 \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0438\u043d, \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u044b\u0439 \u043d\u043e\u0441\u0438\u0442\u044c \u043e\u0440\u0443\u0436\u0438\u0435, \u043f\u0440\u0438\u0437\u043d\u0430\u0435\u0442\u0441\u044f \u0447\u0430\u0441\u0442\u044c\u044e \u0432\u043e\u043e\u0440\u0443\u0436\u0451\u043d\u043d\u044b\u0445 \u0441\u0438\u043b \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430, \u0437\u0430\u0447\u0438\u0441\u043b\u044f\u0435\u0442\u0441\u044f \u0432 \u043d\u0438\u0445 \u0438 \u043e\u0431\u0443\u0447\u0430\u0435\u0442\u0441\u044f \u0432\u043e\u0435\u043d\u043d\u043e\u043c\u0443 \u0434\u0435\u043b\u0443.  \n*  \u043a\u0430\u0434\u0440\u043e\u0432\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430, \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0451\u043d\u043d\u0430\u044f \u0432 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u0438 \u0441\u043e\u0435\u0434\u0438\u043d\u044f\u044e\u0449\u0430\u044f \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430 \u043f\u0435\u0440\u0432\u044b\u0445 \u0434\u0432\u0443\u0445. \u0414\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0441\u043b\u0443\u0436\u0431\u0430 \u043f\u043e \u043f\u0440\u0438\u0437\u044b\u0432\u0443 \u043f\u0440\u0438\u0431\u043b\u0438\u0436\u0430\u0435\u0442 \u0435\u0435 \u043a \u0440\u0435\u043a\u0440\u0443\u0442\u0441\u043a\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435, \u0430 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u0444\u043e\u0440\u043c\u044b \u0437\u0430\u043f\u0430\u0441\u0430 \u0438 \u043e\u043f\u043e\u043b\u0447\u0435\u043d\u0438\u044f \u2014 \u043a \u043c\u0438\u043b\u0438\u0446\u0438\u043e\u043d\u043d\u043e\u0439.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0623\u0643\u062a\u0648\u0628\u0631_2010) \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0647\u0648 \u0637\u0631\u064a\u0642\u0629 \u0644\u0627\u062e\u062a\u064a\u0627\u0631 \u0627\u0644\u0631\u062c\u0627\u0644\u060c \u0648\u0641\u064a \u0628\u0639\u0636 \u0627\u0644\u0623\u062d\u064a\u0627\u0646 \u0627\u0644\u0646\u0633\u0627\u0621\u060c \u0644\u0644\u062e\u062f\u0645\u0629 \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629 \u0627\u0644\u0625\u0644\u0632\u0627\u0645\u064a\u0629. \u0648\u064a\u0633\u0645\u0649 \u0623\u064a\u0636\u064b\u0627 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u0644\u0632\u0627\u0645\u064a \u0623\u0648 \u0627\u0644\u062e\u062f\u0645\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629\u060c \u0648\u0639\u0627\u062f\u0629\u064b\u060c \u064a\u062a\u0645 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0628\u0645\u062c\u0631\u062f \u0627\u0646\u062a\u0647\u0627\u0621 \u0627\u0644\u062f\u0631\u0627\u0633\u0629\u060c \u0641\u064a\u062e\u062f\u0645 \u0627\u0644\u0645\u062c\u0646\u062f\u0648\u0646 \u0644\u0645\u062f\u0629 \u062a\u062a\u0631\u0627\u0648\u062d \u0628\u064a\u0646 \u0639\u0627\u0645 \u0648\u0627\u062d\u062f \u0648\u062b\u0644\u0627\u062b\u0629 \u0623\u0639\u0648\u0627\u0645. \u0627\u0633\u062a\u062e\u062f\u0645\u062a \u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0641\u064a \u0648\u0642\u062a \u0627\u0644\u062d\u0631\u0628\u060c \u0648\u0644\u0643\u0646 \u0639\u062f\u062f\u064b\u0627 \u0642\u0644\u064a\u0644\u0627\u064b \u0645\u0646 \u0627\u0644\u062f\u0648\u0644 \u0627\u0633\u062a\u062e\u062f\u0645\u062a\u0647 \u0623\u062b\u0646\u0627\u0621 \u0641\u062a\u0631\u0627\u062a \u0627\u0644\u0633\u0644\u0645. \u0648\u0642\u062f \u0627\u0633\u062a\u063a\u0646\u062a \u0639\u0646\u0647 \u062f\u0648\u0644 \u0645\u062b\u0644\u060c \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0648\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0627 \u0648\u0623\u0633\u062a\u0631\u0627\u0644\u064a\u0627 \u0648\u0646\u064a\u0648\u0632\u064a\u0644\u0646\u062f\u0627 \u0648\u0627\u0644\u0647\u0646\u062f \u0648\u0628\u0627\u0643\u0633\u062a\u0627\u0646. \u0643\u0645\u0627 \u0623\u0646 \u062f\u0648\u0644\u0627\u064b \u0623\u062e\u0631\u0649 \u0643\u062b\u064a\u0631\u0629\u060c \u0648\u062e\u0635\u0648\u0635\u064b\u0627 \u0641\u064a \u0623\u0648\u0631\u0648\u0628\u0627\u060c \u0642\u062f \u062e\u0641\u0636\u062a \u0645\u062f\u062f \u0627\u0644\u062e\u062f\u0645\u0629. \u0648\u0642\u062f \u0623\u062f\u062e\u0644\u062a \u0628\u0639\u0636 \u0627\u0644\u0628\u0644\u062f\u0627\u0646 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0641\u064a \u0623\u0648\u0627\u062e\u0631 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0639\u0634\u0631\u064a\u0646. \u0639\u064f\u0631\u0641 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0641\u064a \u0623\u0648\u0631\u0648\u0628\u0627 \u0644\u0623\u0643\u062b\u0631 \u0645\u0646 2000 \u0639\u0627\u0645. \u0641\u0642\u062f \u062f\u0639\u0645\u062a \u0627\u0644\u064a\u0648\u0646\u0627\u0646 \u0627\u0644\u0642\u062f\u064a\u0645\u0629 \u0648\u0631\u0648\u0645\u0627 \u0627\u0644\u062c\u064a\u0648\u0634 \u0627\u0644\u0639\u0627\u0645\u0644\u0629 \u0628\u0627\u0644\u0645\u062c\u0646\u062f\u064a\u0646 \u0645\u0646 \u0627\u0644\u0631\u062c\u0627\u0644 \u0641\u064a \u0632\u0645\u0646 \u0627\u0644\u062d\u0631\u0628. \u0648\u0641\u064a \u0627\u0644\u0639\u0635\u0648\u0631 \u0627\u0644\u0648\u0633\u0637\u0649\u060c \u0648\u0636\u0639\u062a \u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0645\u062f\u0646 \u0641\u064a \u0625\u0646\u062c\u0644\u062a\u0631\u0627 \u0648\u0641\u0631\u0646\u0633\u0627 \u0641\u0631\u0642\u064b\u0627 \u0645\u064f\u062f\u0631\u0628\u0629 \u0645\u0646 \u0623\u062c\u0644 \u062d\u0645\u0627\u064a\u0629 \u0647\u0630\u0647 \u0627\u0644\u0645\u062f\u0646. \u0648\u0642\u062f \u0628\u062f\u0623 \u0623\u0648\u0644 \u062a\u062f\u0631\u064a\u0628 \u0639\u0633\u0643\u0631\u064a \u0625\u0644\u0632\u0627\u0645\u064a \u0639\u0644\u0649 \u0646\u0637\u0627\u0642 \u0648\u0627\u0633\u0639 \u0641\u064a \u0633\u0648\u064a\u0633\u0631\u0627 \u0641\u064a \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0633\u0627\u062f\u0633 \u0639\u0634\u0631 \u0627\u0644\u0645\u064a\u0644\u0627\u062f\u064a. \u0648\u062c\u064e\u0646\u062f \u0645\u0644\u0643 \u0627\u0644\u0633\u0648\u064a\u062f \u062c\u0648\u0633\u062a\u0627\u0641\u0648\u0633 \u0623\u062f\u0648\u0644\u0641\u0648\u0633 \u0627\u0644\u0631\u062c\u0627\u0644 \u0641\u064a \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0633\u0627\u0628\u0639 \u0639\u0634\u0631 \u0627\u0644\u0645\u064a\u0644\u0627\u062f\u064a\u060c \u0643\u0645\u0627 \u0628\u062f\u0623\u062a \u0641\u0631\u0646\u0633\u0627 \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0641\u064a \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062b\u0627\u0645\u0646 \u0639\u0634\u0631 \u0627\u0644\u0645\u064a\u0644\u0627\u062f\u064a. \u0648\u0641\u064a \u062e\u0645\u0633\u064a\u0646\u064a\u0627\u062a \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062a\u0627\u0633\u0639 \u0639\u0634\u0631 \u0627\u0644\u0645\u064a\u0644\u0627\u062f\u064a\u060c \u0623\u062f\u062e\u0644\u062a \u0628\u0631\u0648\u0633\u064a\u0627 \u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0645\u062d\u062f\u0648\u062f. \u0648\u0628\u0645\u0642\u062a\u0636\u0627\u0647 \u064a\u062a\u0645 \u0627\u062e\u062a\u064a\u0627\u0631 \u0646\u062e\u0628\u0629 \u0642\u0644\u064a\u0644\u0629 \u0645\u0646 \u0627\u0644\u0645\u062c\u0646\u062f\u064a\u0646 \u0644\u062a\u062a\u0639\u0644\u0645 \u0645\u0628\u0627\u062f\u0626 \u0627\u0644\u0625\u062c\u0631\u0627\u0621\u0627\u062a \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629 \u0644\u0645\u062f\u0629 \u0639\u0627\u0645\u060c \u0648\u0628\u0639\u062f \u0630\u0644\u0643 \u062a\u064f\u0646\u0642\u0644 \u0625\u0644\u0649 \u0642\u0648\u0627\u062a \u0627\u0644\u0627\u062d\u062a\u064a\u0627\u0637. \u0648\u0642\u062f \u0623\u0639\u064a\u062f \u0625\u062f\u062e\u0627\u0644 \u0647\u0630\u0627 \u0627\u0644\u0646\u0638\u0627\u0645 \u0628\u0648\u0633\u0627\u0637\u0629 \u0647\u062a\u0644\u0631 \u0641\u064a \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u0645\u0631\u0627\u062d\u0644 \u0627\u0644\u0623\u0648\u0644\u0649 \u0644\u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u062a\u0633\u0644\u064a\u062d \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629 \u0641\u064a \u0645\u0646\u062a\u0635\u0641 \u062b\u0644\u0627\u062b\u064a\u0646\u064a\u0627\u062a \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0639\u0634\u0631\u064a\u0646. \u0648\u062a\u0648\u0633\u0639\u062a \u0643\u0644 \u0645\u0646 \u0641\u0631\u0646\u0633\u0627 \u0648\u0631\u0648\u0633\u064a\u0627 \u0648\u0627\u0644\u0645\u062c\u0631 \u0627\u0644\u0646\u0645\u0633\u0627\u0648\u064a\u0629 \u0641\u064a \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0645\u0639 \u0627\u0646\u062f\u0644\u0627\u0639 \u0627\u0644\u062d\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0627\u0644\u0623\u0648\u0644\u0649. \u0648\u0643\u0633\u0631\u062a \u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0627 \u062a\u0642\u0644\u064a\u062f\u064b\u0627 \u0642\u0648\u064a\u0627 \u0644\u0644\u062e\u062f\u0645\u0629 \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629 \u0627\u0644\u062a\u0637\u0648\u0639\u064a\u0629 \u0639\u0646\u062f\u0645\u0627 \u0628\u062f\u0623\u062a \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0641\u064a \u0639\u0627\u0645 1916. \u0648\u062d\u062b \u0627\u0644\u062a\u0647\u062f\u064a\u062f \u0628\u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0627\u0644\u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0623\u064a\u0631\u0644\u0646\u062f\u064a\u064a\u0646 \u0625\u0644\u0649 \u0627\u0644\u062f\u062e\u0648\u0644 \u0641\u064a \u062a\u0645\u0631\u062f \u0645\u0633\u0644\u0651\u062d \u0636\u062f \u0627\u0644\u062d\u0643\u0645 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a. \u0648\u0645\u0646\u0630 \u0623\u0646 \u0623\u0635\u0628\u062d\u062a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0623\u064a\u0631\u0644\u0646\u062f\u0627 \u062f\u0648\u0644\u0629 \u0645\u0633\u062a\u0642\u0644\u0629\u060c \u0641\u0625\u0646\u0647\u0627 \u0644\u0645 \u062a\u0641\u0643\u0631 \u0623\u0628\u062f\u064b\u0627 \u0641\u064a \u0625\u062f\u062e\u0627\u0644 \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u0644\u0632\u0627\u0645\u064a. \u0648\u0641\u064a \u0627\u0644\u062d\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0627\u0644\u062b\u0627\u0646\u064a\u0629\u060c \u0627\u0633\u062a\u062e\u062f\u0645\u062a \u0643\u0644 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0645\u062a\u062d\u0627\u0631\u0628\u0629 \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0628\u0635\u0648\u0631\u0629 \u0648\u0627\u0633\u0639\u0629. \u0648\u0641\u064a \u0639\u0627\u0645 1957\u060c \u0643\u0627\u0646\u062a \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0623\u0648\u0644 \u0642\u0648\u0629 \u0623\u0648\u0631\u0648\u0628\u064a\u0629 \u062a\u062a\u062e\u0644\u0649 \u0639\u0646 \u0646\u0638\u0627\u0645 \u0627\u0644\u062e\u062f\u0645\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629. \u0648\u0633\u0631\u0639\u0627\u0646 \u0645\u0627\u062e\u0641\u0636 \u0645\u0639\u0638\u0645 \u0623\u0639\u0636\u0627\u0621 \u062d\u0644\u0641 \u0634\u0645\u0627\u0644 \u0627\u0644\u0623\u0637\u0644\u0633\u064a \u0627\u0644\u0622\u062e\u0631\u064a\u0646 \u0645\u0646 \u0623\u0639\u062f\u0627\u062f \u0648\u0645\u062f\u0629 \u062e\u062f\u0645\u0629 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a. \u0648\u0641\u064a \u0639\u0627\u0645 1991\u060c \u0623\u0635\u0628\u062d \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0641\u064a \u0631\u0648\u0633\u064a\u0627\u060c \u0627\u0644\u0630\u064a \u0643\u0627\u0646 \u064a\u0648\u0645\u064b\u0627 \u0645\u0627 \u0630\u0627 \u0623\u0647\u0645\u064a\u0629 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0634\u064a\u0648\u0639\u064a\u060c \u063a\u064a\u0631 \u0631\u0627\u0626\u062c. \u0648\u0642\u062f \u0631\u0641\u0636 \u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u062c\u0646\u0648\u062f \u0627\u0644\u0642\u0627\u062f\u0631\u064a\u0646 \u0639\u0644\u0649 \u062d\u0645\u0644 \u0627\u0644\u0633\u0644\u0627\u062d \u0627\u0644\u062a\u0642\u062f\u0645 \u0644\u0623\u062f\u0627\u0621 \u0627\u0644\u0648\u0627\u062c\u0628. \u0648\u064a\u062e\u062f\u0645 \u0627\u0644\u0645\u062c\u0646\u062f\u0648\u0646 \u0641\u064a \u0627\u0644\u062c\u064a\u0634 \u0644\u0645\u062f\u0629 \u0639\u0627\u0645\u064a\u0646\u060c \u0648\u0641\u064a \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u0644\u0645\u062f\u0629 \u062b\u0644\u0627\u062b\u0629 \u0623\u0639\u0648\u0627\u0645. \u0648\u0647\u0645 \u064a\u0633\u062c\u0644\u0648\u0646 \u0623\u0633\u0645\u0627\u0621\u0647\u0645 \u0641\u064a \u0633\u0646 \u0627\u0644\u0633\u0627\u0628\u0639\u0629 \u0639\u0634\u0631\u0629 \u0648\u064a\u062a\u0645 \u0627\u0633\u062a\u062f\u0639\u0627\u0624\u0647\u0645 \u0628\u0639\u062f\u0647\u0627 \u0628\u0639\u0627\u0645 \u0648\u0627\u062d\u062f. \u0645\u0627\u0631\u0633\u062a \u0646\u064a\u0648\u0632\u064a\u0644\u0646\u062f\u0627 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0628\u064a\u0646 \u0639\u0627\u0645\u064a 1901 \u06481930. \u0648\u0627\u0639\u062a\u0645\u062f\u062a \u0623\u0633\u062a\u0631\u0627\u0644\u064a\u0627 \u0639\u0644\u0649 \u0627\u0644\u0645\u062a\u0637\u0648\u0639\u064a\u0646 \u0641\u064a \u0627\u0644\u062d\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0627\u0644\u0623\u0648\u0644\u0649. \u0648\u0623\u062f\u062e\u0644\u062a \u0627\u0644\u062f\u0648\u0644\u062a\u0627\u0646 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u0644\u0632\u0627\u0645\u064a \u0641\u064a \u0627\u0644\u062d\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0627\u0644\u062b\u0627\u0646\u064a\u0629 \u0639\u0644\u0649 \u0627\u0644\u0631\u063a\u0645 \u0645\u0646 \u0623\u0646 \u0623\u0633\u062a\u0631\u0627\u0644\u064a\u0627 \u0627\u0643\u062a\u0641\u062a \u0628\u0625\u0631\u0633\u0627\u0644 \u0645\u062a\u0637\u0648\u0639\u064a\u0646 \u0644\u0644\u062e\u062f\u0645\u0629 \u0641\u064a \u0623\u0648\u0631\u0648\u0628\u0627 \u0648\u0634\u0645\u0627\u0644 \u0625\u0641\u0631\u064a\u0642\u064a\u0627. \u0627\u0644\u062a\u0632\u0645\u062a \u0646\u064a\u0648\u0632\u064a\u0644\u0646\u062f\u0627 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u0644\u0632\u0627\u0645\u064a \u0641\u064a \u0645\u0639\u0638\u0645 \u0627\u0644\u062e\u0645\u0633\u064a\u0646\u064a\u0627\u062a \u0648\u0627\u0644\u0633\u062a\u064a\u0646\u064a\u0627\u062a \u0645\u0646 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0639\u0634\u0631\u064a\u0646 \u0648\u0623\u0644\u063a\u062a\u0647 \u0627\u0639\u062a\u0628\u0627\u0631\u064b\u0627 \u0645\u0646 \u0639\u0627\u0645 1973. \u0648\u0643\u0627\u0646 \u0644\u062f\u0649 \u0623\u0633\u062a\u0631\u0627\u0644\u064a\u0627 \u062a\u062c\u0646\u064a\u062f \u0639\u0633\u0643\u0631\u064a \u0625\u062c\u0628\u0627\u0631\u064a \u0641\u064a \u0627\u0644\u0641\u062a\u0631\u0629 \u0628\u064a\u0646 \u0639\u0627\u0645\u064a 1951 \u06481957\u060c \u0648\u0646\u0638\u0627\u0645 \u0644\u0644\u0627\u0642\u062a\u0631\u0627\u0639 \u0645\u0627 \u0628\u064a\u0646 1957 \u0648 1959 \u06481964 \u06481972. \u0648\u064a\u0639\u0648\u062f \u062a\u0627\u0631\u064a\u062e \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0625\u0644\u0649 \u0628\u062f\u0621 \u0627\u0644\u062b\u0648\u0631\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0648\u0643\u0627\u0646 \u064a\u062a\u0645 \u0633\u062d\u0628 \u0631\u062c\u0627\u0644 \u0627\u0644\u0645\u0644\u064a\u0634\u064a\u0627 (\u062c\u0646\u062f \u0627\u0644\u0637\u0648\u0627\u0631\u0626) \u0628\u0645\u0639\u0631\u0641\u0629 \u0643\u0644 \u0648\u0644\u0627\u064a\u0629 \u0639\u0644\u0649 \u062d\u062f\u0629 \u0645\u0646 \u0623\u062c\u0644 \u0645\u062d\u0627\u0631\u0628\u0629 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u064a\u0646. \u0648\u0627\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u062c\u0627\u0646\u0628\u0627\u0646 \u0641\u064a \u0627\u0644\u062d\u0631\u0628 \u0627\u0644\u0623\u0647\u0644\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a\u0651 \u0641\u064a \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u062d\u0631\u0648\u0628 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 \u0641\u064a \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0639\u0634\u0631\u064a\u0646. \u0648\u0623\u0635\u0628\u062d \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0627\u0646\u062a\u0642\u0627\u0626\u064a \u0644\u0625\u0644\u062d\u0627\u0642 \u0627\u0644\u0646\u0627\u0633 \u0641\u064a \u0627\u0644\u062e\u062f\u0645\u0629 \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629 \u0623\u0645\u0631\u064b\u0627 \u063a\u064a\u0631 \u0634\u0627\u0626\u0639 \u0641\u064a \u0627\u0644\u0633\u062a\u064a\u0646\u064a\u0627\u062a \u0648\u0627\u0644\u0633\u0628\u0639\u064a\u0646\u064a\u0627\u062a \u0645\u0646 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0639\u0634\u0631\u064a\u0646 \u0641\u064a \u0623\u062b\u0646\u0627\u0621 \u062d\u0631\u0628 \u0641\u064a\u062a\u0646\u0627\u0645 \u0627\u0644\u0637\u0648\u064a\u0644\u0629. \u0648\u0623\u064f\u0644\u063a\u064a \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0641\u064a \u0639\u0627\u0645 1973. \u0648\u0641\u064a \u0639\u0627\u0645 1981\u060c \u0648\u0636\u0639\u062a \u0642\u0627\u0626\u0645\u0629 \u0627\u062d\u062a\u064a\u0627\u0637\u064a\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u0627\u0633\u062a\u0639\u0627\u0646\u0629 \u0628\u0647\u0627\u060c \u0625\u0630\u0627 \u0645\u0627 \u0642\u0631\u0631\u062a \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0623\u0646 \u062a\u0639\u064a\u062f \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u062c\u0646\u064a\u062f \u0627\u0644\u0625\u062c\u0628\u0627\u0631\u064a \u0641\u064a \u0623\u0648\u0642\u0627\u062a \u0627\u0644\u062d\u0631\u0628.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Conscription, or drafting, is the compulsory enlistment of people in a national service, most often a military service. Conscription dates back to antiquity and continues in some countries to the present day under various names. The modern system of near-universal national conscription for young men dates to the French Revolution in the 1790s, where it became the basis of a very large and powerful military. Most European nations later copied the system in peacetime, so that men at a certain age would serve 1\u20138 years on active duty and then transfer to the reserve force. Conscription is controversial for a range of reasons, including conscientious objection to military engagements on religious or philosophical grounds; political objection, for example to service for a disliked government or unpopular war; and ideological objection, for example, to a perceived violation of individual rights. Those conscripted may evade service, sometimes by leaving the country. Some selection systems accommodate these attitudes by providing alternative service outside combat-operations roles or even outside the military, such as Zivildienst (civil service) in Austria and Switzerland. Most post-Soviet countries conscript soldiers not only for Armed Forces but also for paramilitary organizations which are dedicated to police-like domestic only service (Internal Troops) or non-combat rescue duties (Civil Defence Troops) \u2013 none of which is considered alternative to the military conscription. As of the early 21st century, many states no longer conscript soldiers, relying instead upon professional militaries with volunteers enlisted to meet the demand for troops. The ability to rely on such an arrangement, however, presupposes some degree of predictability with regard to both war-fighting requirements and the scope of hostilities. Many states that have abolished conscription therefore still reserve the power to resume it during wartime or times of crisis.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "La coscrizione indica genericamente l'iscrizione, prevista dalla legge, dei cittadini di uno stato in apposite liste, al fine di consentire la chiamata di questi ultimi al servizio militare obbligatorio presso le forze armate. Quando \u00e8 imposta dalla legge d'obbligo si parla di \"coscrizione obbligatoria\". Il cittadino arruolato tramite tale procedimento viene genericamente definito coscritto.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u5fb5\u5175\u5236\uff0c\u662f\u4e00\u7a2e\u570b\u5bb6\u5fb5\u52df\u8ecd\u4eba\u7684\u5236\u5ea6\uff0c\u4ea6\u7a31\u70ba\u7fa9\u52d9\u5f79\u3001\u5e38\u5099\u5f79\u3001\u670d\u5175\u5f79\u7b49\uff0c\u610f\u6307\u5168\u9ad4\u570b\u6c11\uff0c\u5982\u7b26\u5408\u4e00\u5b9a\u689d\u4ef6\uff08\u901a\u5e38\u662f\u5e74\u6eff\u6cd5\u5b9a\u5e74\u9f61\uff0c\u4e14\u8eab\u9ad4\u5065\u5eb7\u3001\u7121\u6b98\u75be\u7684\u7537\u6027\uff09\uff0c\u5747\u9808\u5f37\u5236\u6027\u52a0\u5165\u8ecd\u968a\u670d\u5f79\u4e00\u6bb5\u6642\u671f\uff08\u901a\u5e38\u7531\u534a\u5e74\u81f3\u4e09\u5e74\u4e0d\u7b49\uff0c\u8996\u4e4e\u570b\u5bb6\u53ca\u8ecd\u7a2e\u800c\u5b9a\uff09\u3002\u8207\u52df\u5175\u5236\uff08\u4ea6\u7a31\u70ba\u5fd7\u9858\u5f79\uff09\u70ba\u76f8\u5c0d\u7528\u8a5e\u3002\u7531\u65bc\u7fa9\u52d9\u5f79\u6210\u54e1\u662f\u5f37\u5236\u6027\u3001\u975e\u81ea\u9858\u53ca\u975e\u7d42\u751f\u6027\uff0c\u56e0\u6b64\u5be6\u65bd\u5fb5\u5175\u5236\u7684\u570b\u5bb6\u901a\u5e38\u6703\u540c\u6642\u5be6\u65bd\u52df\u5175\u5236\uff0c\u5bb9\u8a31\u81ea\u9858\u9078\u64c7\u4ee5\u8ecd\u4eba\u70ba\u9577\u671f\u8077\u696d\u7684\u4eba\u58eb\uff0c\u5728\u7fa9\u52d9\u5f79\u671f\u5b8c\u7562\u5f8c\uff0c\u7e7c\u7e8c\u5728\u8ecd\u968a\u670d\u5f79\u3002\u4e00\u822c\u58eb\u5175\u7531\u5fb5\u5175\u800c\u4f86\uff0c\u58eb\u5b98\u5e79\u90e8\u3001\u8ecd\u5b98\u5e79\u90e8\u5247\u4e3b\u8981\u63a1\u5fd7\u9858\u65b9\u5f0f\u62db\u52df\uff0c\u9664\u975e\u5fd7\u9858\u65b9\u5f0f\u62db\u52df\u4e0d\u8db3\u8005\uff0c\u5982\u4e2d\u83ef\u6c11\u570b\u6bcf\u5e74\u90fd\u6703\u8209\u8fa6\u9810\u5b98\u9810\u58eb\u8003\u8a66\uff0c\u62db\u8003\u5927\u5b78\u3001\u5c08\u79d1\u4ee5\u4e0a\u5b78\u6b77\u7684\u7fa9\u52d9\u5f79\u9752\u5e74\uff0c\u4f7f\u4e4b\u5728\u670d\u5f79\u671f\u9593\u6649\u5347\u70ba\u4e0b\u58eb\u58eb\u5b98\u6216\u8005\u5c11\u5c09\u8ecd\u5b98\u3002 \u4e2d\u83ef\u6c11\u570b\uff08\u81fa\u7063\uff09\u53ca\u97d3\u570b\u7684\u7fa9\u52d9\u5f79\u5236\u5ea6\uff0c\u8fd1\u5e74\u4f86\u5e38\u767c\u751f\u68d2\u7403\u7403\u54e1\u3001\u85dd\u4eba\u7684\u5175\u5f79\u554f\u984c\u3002\u96d6\u7136\u5169\u500b\u5730\u65b9\u6cd5\u5f8b\u660e\u6587\u898f\u5b9a\u7537\u6027\u6709\u670d\u5175\u5f79\u7684\u7fa9\u52d9\uff0c\u4f46\u4ecd\u6709\u4e00\u5b9a\u7684\u8f49\u571c\u7a7a\u9593\uff1b\u6709\u90e8\u5206\u7684\u68d2\u7403\u7403\u54e1\u8207\u85dd\u4eba\u5728\u570b\u969b\u4e0a\u6709\u77e5\u540d\u5ea6\uff0c\u4f46\u56e0\u70ba\u5175\u5f79\u554f\u984c\u53ef\u80fd\u5c0e\u81f4\u4e8b\u696d\u4e2d\u65b7\uff0c\u5175\u5f79\u6a5f\u95dc\u6703\u63a1\u53d6\u5f48\u6027\u7684\u65b9\u5f0f\u4f7f\u88ab\u5fb5\u53ec\u5165\u4f0d\u7684\u85dd\u4eba\u8207\u68d2\u7403\u7403\u54e1\u64d4\u4efb\u70ba\u671f\u5341\u4e8c\u5929\u7684\u300c\u88dc\u5145\u5175\u300d\uff1b\u7136\u800c\u6709\u90e8\u5206\u7684\u85dd\u4eba\u662f\u5f9e\u4e8b\u517c\u8077\u5de5\u4f5c\uff0c\u9664\u4e86\u5728\u87a2\u5149\u5e55\u524d\u4eae\u76f8\u5916\uff0c\u540c\u6642\u4e5f\u662f\u5927\u5c08\u3001\u6280\u8077\u9662\u6821\u7684\u5b78\u751f\uff0c\u751a\u81f3\u90e8\u5206\u7684\u85dd\u4eba\u6703\u4f01\u5716\u300c\u5ef6\u7562\u300d\uff08\u5ef6\u5f8c\u7562\u696d\uff09\u6216\u8005\u8fa6\u7406\u591a\u6b21\u8f49\u5b78\u624b\u7e8c\u4ee5\u5ef6\u7de9\u5175\u5f79\u3002\u6b64\u5916\uff0c\u81fa\u7063\u548c\u97d3\u570b\u7684\u8cc7\u8a0a\u7522\u696d\u767c\u9054\uff0c\u70ba\u6c42\u6709\u6548\u5229\u7528\u8cc7\u8a0a\u7522\u696d\u4eba\u624d\uff0c\u5175\u5f79\u6a5f\u95dc\u6703\u5f48\u6027\u5be6\u65bd\u300c\u7814\u767c\u66ff\u4ee3\u5f79\u300d\u5236\u5ea6\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Conscription_map_of_the_world.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744550861,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 5735,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Enlistment"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unionist_Party_(Canada)": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laiki_agora": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Conscript": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Twenty_Classes": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Conscription_Crisis_of_1917": {
+        "http://dbpedia.org/property/causes": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Republic_of_China_Armed_Forces": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Liberal_Reform_Group": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ottoman_casualties_of_World_War_I": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Republic_of_Korea_Armed_Forces": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Civil_conscription": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Compulsory_military_service": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Conscripts": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/National_Service_Training_Programme_(Malaysia)": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Levy_system": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Military_conscript": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Conscription_option": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ilkum": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Military_conscription": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Draft_law": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Feudal_levy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Military_draft": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Conscripted": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Compulsory_military_training": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Anti-conscription": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Military_Slavery": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Military_slavery": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mandatory_conscription": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Military_Draft": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Draft_card": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Forced_conscription": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Drafting_soldiers": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mandatory_army_service": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mandatory_military_service": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Conscript_Troops": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Conscript_system": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Universal_military_service": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Compulsory_draft": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Feudal_levies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/General_conscription": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/World_War_II_draft": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Draft_(conscription)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Conscript_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Conscription"
+            }
+        ]
+    }
+}

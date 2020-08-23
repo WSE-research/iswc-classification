@@ -1,0 +1,1385 @@
+{
+    "http://dbpedia.org/resource/Los_R\u00edos_Region": {
+        "http://dbpedia.org/property/south": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Los_Lagos": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Trumao,_Chile": {
+        "http://dbpedia.org/ontology/country": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Los_Lagos_Region": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Los_Lagos_Region": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Settlement"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Tract108673395"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoGeoEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Region108630985"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Location100027167"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatSubdivisionsOfChile"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatRegionsOfChile"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Region108630039"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Subdivision108674251"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/GeographicalArea108574314"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Regione di Los Lagos",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u30ed\u30b9\u30fb\u30e9\u30b4\u30b9\u5dde",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "R\u00e9gion des Lacs",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Los Lagos (regi\u00e3o)",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u6e56\u5927\u533a",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Regi\u00f3n de los Lagos",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Los Lagos Region",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Los Lagos",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Los Lagos (regio)",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u041b\u043e\u0441-\u041b\u0430\u0433\u043e\u0441 (\u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Regi\u00f3n de Los Lagos",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u30ed\u30b9\u30fb\u30e9\u30b4\u30b9\u5dde\uff08Regi\u00f3n de los Lagos\uff09\uff1dX\u5dde\uff08\u7b2c\u5341\u5dde\uff09\u306f\u3001\u30c1\u30ea\u5171\u548c\u56fd\u306e\u5357\u90e8\u306b\u3042\u308b\u5dde\u3067\u3042\u308b\u3002\u5dde\u90fd\u306f\u30d7\u30a8\u30eb\u30c8\u30e2\u30f3\u30c8\uff08Puerto Montt\uff09\u3002\u5dde\u540d\u306e\u30ed\u30b9\u30fb\u30e9\u30b4\u30b9\u3068\u306f\u3001\u30b9\u30da\u30a4\u30f3\u8a9e\u3067\u6e56\u3068\u3044\u3046\u610f\u5473\u3002 \u30c1\u30ed\u30a8\u5cf6\u304c\u3053\u306e\u5dde\u306b\u5c5e\u3057\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La X Regi\u00f3n de Los Lagos, o Regi\u00f3n de Los Lagos, es una de las quince regiones en las que se encuentra dividido Chile. Limita al norte con la regi\u00f3n de Los R\u00edos; al este, con Argentina; al sur, con la regi\u00f3n Ays\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo; y al oeste, con el oc\u00e9ano Pac\u00edfico. Su sector sudeste, que corresponde a la provincia de Palena, est\u00e1 situado en la Patagonia chilena.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "La regione di Los Lagos (dei Laghi) anche chiamata X Regi\u00f3n \u00e8 una regione del Cile meridionale. Comprende l'isola e il lago pi\u00f9 grandi del paese, l'isola di Chilo\u00e9 e il lago Llanquihue.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "La Xe R\u00e9gion des Lacs ou Xe Regi\u00f3n de Los Lagos est la Xe r\u00e9gion du Chili. Elle est entour\u00e9e au nord par la R\u00e9gion des Fleuves, \u00e0 l'est par l'Argentine et au sud par la r\u00e9gion Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo. C'est une r\u00e9gion form\u00e9e de montagnes, d'\u00eeles et de lacs (comme son nom l'indique). G\u00e9ographiquement, la r\u00e9gion est divis\u00e9e en trois parties. Le secteur continental va jusqu'\u00e0 Puerto-Montt, l'archipel de Chilo\u00e9 et la r\u00e9gion des fjords, adoss\u00e9e aux Andes et \u00e0 la fronti\u00e8re avec l'Argentine.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u041b\u043e\u0441-\u041b\u0430\u0433\u043e\u0441 (\u0438\u0441\u043f. Los Lagos) \u2014 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0447\u0430\u0441\u0442\u0438 \u0427\u0438\u043b\u0438. \u041e\u0431\u043b\u0430\u0441\u0442\u044c \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0430 \u0432 1974 \u0433., \u0432 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 \u0414\u0435\u043a\u0440\u0435\u0442\u043e\u043c \u041b\u0435\u044f (Decreto Ley N\u00ba 575). \u0412\u043a\u043b\u044e\u0447\u0430\u0435\u0442 \u0432 \u0441\u0435\u0431\u044f 4 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0438 \u0438 30 \u043a\u043e\u043c\u043c\u0443\u043d. \u0414\u043e \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0437\u0434\u0435\u0441\u044c \u0438\u0441\u043f\u0430\u043d\u0446\u0435\u0432 (1549 \u0433.) \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u0440\u0435\u0433\u0438\u043e\u043d\u0430 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u043b\u0438 \u0443\u0438\u043b\u044c\u0438\u0447\u0435. \u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u2014 48 583,6 \u043a\u043c\u00b2. \u041d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u2014 716 739 \u0447\u0435\u043b\u043e\u0432\u0435\u043a (2002). \u041f\u043b\u043e\u0442\u043d\u043e\u0441\u0442\u044c \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u2014 14,75 \u0447\u0435\u043b./\u043a\u043c\u00b2. \u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u2014 \u0433\u043e\u0440\u043e\u0434 \u041f\u0443\u044d\u0440\u0442\u043e-\u041c\u043e\u043d\u0442.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Los Lagos \u00e9 uma das 15 regi\u00f5es do Chile. Sua capital \u00e9 a cidade de Puerto Montt. A Regi\u00e3o de Los Lagos ou Lagos \u00e9 banhada a oeste pelo Oceano Pac\u00edfico e faz divisa a leste com a Argentina, ao norte com a Regi\u00e3o de Los Rios e ao sul com a Regi\u00e3o de Ais\u00e9n.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u6e56\u5927\u533a\uff08\u897f\u73ed\u7259\u8a9e\uff1aX Regi\u00f3n de Los Lagos\uff09\u662f\u667a\u5229\u7531\u5317\u81f3\u5357\u7684\u7b2c10\u4e2a\u5927\u533a\uff0c\u7531\u56db\u4e2a\u7701\u7ec4\u6210\uff1a\u5965\u7d22\u5c14\u8bfa\u7701\u3001\u5170\u5947\u80e1\u4e9a\u7701\u3001\u5947\u6d1b\u57c3\u7701\u548c\u5e15\u83b1\u7eb3\u7701\u3002\u5927\u533a\u4e2d\u6709\u667a\u5229\u7b2c\u4e8c\u5927\u5c9b\u5947\u6d1b\u57c3\u5c9b\uff08Chilo\u00e9\uff09\u548c\u7b2c\u4e8c\u5927\u6e56\u5170\u5947\u80e1\u4e9a\u6e56\uff08Lake Llanquihue\uff09\u3002\u5927\u533a\u9996\u5e9c\u4e3a\u8499\u7279\u6e2f\uff0c\u5176\u5b83\u91cd\u8981\u57ce\u5e02\u5305\u62ec\u5965\u7d22\u5c14\u8bfa\u3001\u5361\u65af\u7279\u7f57\u5e02\u3001\u5b89\u5e93\u5fb7\u548c\u5df4\u62c9\u65af\u6e2f\u3002\u8fd9\u4e2a\u5927\u533a\u8fd8\u6709\u667a\u5229\u9646\u5730\u6700\u7a84\u5904\u3002\u9762\u79ef48,583\u5e73\u65b9\u516c\u91cc\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Los Lagos (hiszp. Regi\u00f3n de Los Lagos) \u2013 jeden z 15 region\u00f3w Chile (X w kolejno\u015bci). Znajduje si\u0119 tutaj druga pod wzgl\u0119dem powierzchni wyspa Chile, Chilo\u00e9 i drugie co do wielko\u015bci jezioro, Llanquihue. Jego stolica to Puerto Montt, a opr\u00f3cz tego miasta pozosta\u0142ymi wa\u017cnymi o\u015brodkami miejskimi s\u0105: Osorno, Castro, Ancud i Puerto Varas. Na p\u00f3\u0142nocy graniczy z regionem Los R\u00edos, na po\u0142udniu z regionem Ais\u00e9n, na zachodzie z Oceanem Spokojnym, a na wschodzie z Argentyn\u0105. Region dzieli si\u0119 na cztery mniejsze prowincje: \n*  Osorno \n*  Llanquihue \n*  Chilo\u00e9 \n*  Palena",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Los Lagos (Nederlands: De Meren) is een van de vijftien regio\u00b4s van Chili en wordt ook wel de tiende regio genoemd (aangeduid met het Romeinse cijfer X), met als hoofdstad Puerto Montt. De regio telt 798.141 inwoners (2012) en grenst aan Los R\u00edos (XIV) (noorden), Argentini\u00eb (oosten), Ays\u00e9n (XI) (zuiden) en de Grote Oceaan (westen). In de regio bevinden zich het op een na grootste eiland van Chili (Chilo\u00e9) en het op een na grootste meer van het land, Lago Llanquihue. In oktober 2007 werd de provincie Valdivia afgesplitst van Los Lagos als de nieuwe regio Los R\u00edos.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Los Lagos Region (Spanish: X Regi\u00f3n de Los Lagos, literally Region of the Lakes) is one of Chile's 15 regions, which are first order administrative divisions, and comprises four provinces: Chilo\u00e9, Llanquihue, Osorno and Palena. The region contains the country's second largest island, Chilo\u00e9, and the second largest lake, Llanquihue. Its capital is Puerto Montt; other important cities include Osorno, Castro, Ancud, and Puerto Varas. The mainland portion of Los Lagos Region south of Reloncav\u00ed Sound (Palena Province) is considered part of Patagonia.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Regi\u00f3n de los Lagos ist eine Region im s\u00fcdlichen Chile (Region X).",
+                "lang": "de"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Los_Lagos_Region"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q2178"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Regione_di_Los_Lagos"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Los_Lagos_(regi\u00e3o)"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30ed\u30b9\u30fb\u30e9\u30b4\u30b9\u5dde"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Los_Lagos"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Regi\u00f3n_de_los_Lagos"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Los_Lagos_(regio)"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/R\u00e9gion_des_Lacs"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Los_Lagos_eskualdea"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q2178"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Regi\u00f3n_de_Los_Lagos"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ub85c\uc2a4\ub77c\uace0\uc2a4_\uc8fc"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Los_Lagos"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.02sndv"
+            },
+            {
+                "type": "uri",
+                "value": "http://sws.geonames.org/3881974/"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Los_Lagos_Region"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/homepage": [
+            {
+                "type": "uri",
+                "value": "http://www.goreloslagos.cl/"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/R\u00edo_Blanco.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Los_Lagos_Region"
+            }
+        ],
+        "http://dbpedia.org/property/coatOfArms": [
+            {
+                "type": "literal",
+                "value": "Coat of arms of Los Lagos Region, Chile.svg",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/isoCode": [
+            {
+                "type": "literal",
+                "value": "CL-LL",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Los_Lagos_Region?oldid=731333955"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://local.google.com/maps?f=q&hl=en&q=Puerto+Varas,+Chile&ie=UTF8&z=10&ll=-41.172452,-72.750092&spn=0.511695,1.349945&t=k&om=1"
+            },
+            {
+                "type": "uri",
+                "value": "http://local.google.com/maps?f=q&hl=en&q=Puerto+Montt,+Chile&ie=UTF8&z=13&ll=-41.467428,-72.939262&spn=0.063673,0.168743&t=k&om=1"
+            },
+            {
+                "type": "uri",
+                "value": "http://local.google.com/maps?f=q&hl=en&q=Puerto+Varas,+Chile&ie=UTF8&om=1&z=13&ll=-40.576673,-73.142509&spn=0.06454,0.168743&t=k"
+            },
+            {
+                "type": "uri",
+                "value": "http://local.google.com/maps?f=q&hl=en&q=Ancud,+Chile&ie=UTF8&om=1&z=8&ll=-42.730874,-73.416138&spn=1.997374,5.39978&t=k&iwloc=addr"
+            },
+            {
+                "type": "uri",
+                "value": "http://local.google.com/maps?f=q&hl=en&q=Chait%C3%A9n,+Chile&ie=UTF8&z=12&ll=-42.922618,-72.702885&spn=0.124446,0.337486&t=k&om=1"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.regionx.cl"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.regiondeloslagos.cl"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.frutillar.com"
+            },
+            {
+                "type": "uri",
+                "value": "http://local.google.com/maps?f=q&hl=en&q=Valdivia,+Chile&ie=UTF8&z=12&ll=-39.821194,-73.231258&spn=0.130526,0.337486&t=k&om=1"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.goreloslagos.cl/"
+            }
+        ],
+        "http://dbpedia.org/property/centre": [
+            {
+                "type": "literal",
+                "value": "Los Lagos Region",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/area": [
+            {
+                "type": "literal",
+                "value": 48583.6,
+                "datatype": "http://www.w3.org/2001/XMLSchema#double"
+            }
+        ],
+        "http://dbpedia.org/property/east": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chubut_Province"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/R\u00edo_Negro_Province"
+            }
+        ],
+        "http://dbpedia.org/property/north": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_R\u00edos_Region"
+            }
+        ],
+        "http://dbpedia.org/property/northeast": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neuqu\u00e9n_Province"
+            }
+        ],
+        "http://dbpedia.org/property/south": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ays\u00e9n_Region"
+            }
+        ],
+        "http://dbpedia.org/property/west": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pacific_Ocean"
+            }
+        ],
+        "http://dbpedia.org/property/areaRank": [
+            {
+                "type": "literal",
+                "value": 5,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/latd": [
+            {
+                "type": "literal",
+                "value": 41,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/latm": [
+            {
+                "type": "literal",
+                "value": 28,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/longd": [
+            {
+                "type": "literal",
+                "value": 72,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/longew": [
+            {
+                "type": "literal",
+                "value": "W",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/longm": [
+            {
+                "type": "literal",
+                "value": 56,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Los Lagos Region",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/mapSize": [
+            {
+                "type": "literal",
+                "value": 250,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Los Lagos (hiszp. Regi\u00f3n de Los Lagos) \u2013 jeden z 15 region\u00f3w Chile (X w kolejno\u015bci). Znajduje si\u0119 tutaj druga pod wzgl\u0119dem powierzchni wyspa Chile, Chilo\u00e9 i drugie co do wielko\u015bci jezioro, Llanquihue. Jego stolica to Puerto Montt, a opr\u00f3cz tego miasta pozosta\u0142ymi wa\u017cnymi o\u015brodkami miejskimi s\u0105: Osorno, Castro, Ancud i Puerto Varas. Na p\u00f3\u0142nocy graniczy z regionem Los R\u00edos, na po\u0142udniu z regionem Ais\u00e9n, na zachodzie z Oceanem Spokojnym, a na wschodzie z Argentyn\u0105. Region dzieli si\u0119 na cztery mniejsze prowincje: \n*  Osorno \n*  Llanquihue \n*  Chilo\u00e9 \n*  Palena",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Los Lagos (Nederlands: De Meren) is een van de vijftien regio\u00b4s van Chili en wordt ook wel de tiende regio genoemd (aangeduid met het Romeinse cijfer X), met als hoofdstad Puerto Montt. De regio telt 798.141 inwoners (2012) en grenst aan Los R\u00edos (XIV) (noorden), Argentini\u00eb (oosten), Ays\u00e9n (XI) (zuiden) en de Grote Oceaan (westen). In de regio bevinden zich het op een na grootste eiland van Chili (Chilo\u00e9) en het op een na grootste meer van het land, Lago Llanquihue. In oktober 2007 werd de provincie Valdivia afgesplitst van Los Lagos als de nieuwe regio Los R\u00edos.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "La regione di Los Lagos (dei Laghi) anche chiamata X Regi\u00f3n \u00e8 una regione del Cile meridionale. Comprende l'isola e il lago pi\u00f9 grandi del paese, l'isola di Chilo\u00e9 e il lago Llanquihue.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u6e56\u5927\u533a\uff08\u897f\u73ed\u7259\u8a9e\uff1aX Regi\u00f3n de Los Lagos\uff09\u662f\u667a\u5229\u7531\u5317\u81f3\u5357\u7684\u7b2c10\u4e2a\u5927\u533a\uff0c\u7531\u56db\u4e2a\u7701\u7ec4\u6210\uff1a\u5965\u7d22\u5c14\u8bfa\u7701\u3001\u5170\u5947\u80e1\u4e9a\u7701\u3001\u5947\u6d1b\u57c3\u7701\u548c\u5e15\u83b1\u7eb3\u7701\u3002\u5927\u533a\u4e2d\u6709\u667a\u5229\u7b2c\u4e8c\u5927\u5c9b\u5947\u6d1b\u57c3\u5c9b\uff08Chilo\u00e9\uff09\u548c\u7b2c\u4e8c\u5927\u6e56\u5170\u5947\u80e1\u4e9a\u6e56\uff08Lake Llanquihue\uff09\u3002\u5927\u533a\u9996\u5e9c\u4e3a\u8499\u7279\u6e2f\uff0c\u5176\u5b83\u91cd\u8981\u57ce\u5e02\u5305\u62ec\u5965\u7d22\u5c14\u8bfa\u3001\u5361\u65af\u7279\u7f57\u5e02\u3001\u5b89\u5e93\u5fb7\u548c\u5df4\u62c9\u65af\u6e2f\u3002\u8fd9\u4e2a\u5927\u533a\u8fd8\u6709\u667a\u5229\u9646\u5730\u6700\u7a84\u5904\u3002\u9762\u79ef48,583\u5e73\u65b9\u516c\u91cc\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Los Lagos \u00e9 uma das 15 regi\u00f5es do Chile. Sua capital \u00e9 a cidade de Puerto Montt. A Regi\u00e3o de Los Lagos ou Lagos \u00e9 banhada a oeste pelo Oceano Pac\u00edfico e faz divisa a leste com a Argentina, ao norte com a Regi\u00e3o de Los Rios e ao sul com a Regi\u00e3o de Ais\u00e9n.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "La X Regi\u00f3n de Los Lagos, o Regi\u00f3n de Los Lagos, es una de las quince regiones en las que se encuentra dividido Chile. Limita al norte con la regi\u00f3n de Los R\u00edos; al este, con Argentina; al sur, con la regi\u00f3n Ays\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo; y al oeste, con el oc\u00e9ano Pac\u00edfico. Su sector sudeste, que corresponde a la provincia de Palena, est\u00e1 situado en la Patagonia chilena. Cuenta con una superficie de 48 583,6 km\u00b2 y una poblaci\u00f3n proyectada al 2015 de 841 123 habitantes. La regi\u00f3n est\u00e1 compuesta por las provincias de Chilo\u00e9, Llanquihue, Osorno y Palena y la capital regional es la ciudad de Puerto Montt. Hasta el 2 de octubre de 2007, la regi\u00f3n de Los Lagos tambi\u00e9n incluy\u00f3 a la antigua provincia de Valdivia, que fue segregada en esa fecha para formar la actual regi\u00f3n de Los R\u00edos.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Los Lagos Region (Spanish: X Regi\u00f3n de Los Lagos, literally Region of the Lakes) is one of Chile's 15 regions, which are first order administrative divisions, and comprises four provinces: Chilo\u00e9, Llanquihue, Osorno and Palena. The region contains the country's second largest island, Chilo\u00e9, and the second largest lake, Llanquihue. Its capital is Puerto Montt; other important cities include Osorno, Castro, Ancud, and Puerto Varas. The mainland portion of Los Lagos Region south of Reloncav\u00ed Sound (Palena Province) is considered part of Patagonia. Los Lagos Region economy is dominated by the service sector but based in fishing, salmon aquaculture, forestry and cattle farming. Tourism is economically important in Andes where ski resorts, hot springs and recreational fishing are popular offers. The region hosts Monte Verde, one of the oldest archaeological sites of the Americas. The largest indigenous group of the region are the Huilliche who lived in the area before the arrival of the Spanish. The Spanish crown settled Chilo\u00e9 Archipelago in 1567 while the rest of the region begun to be slowly colonized by non-indigenous people only in late 18th century. In the 1850s Germans arrived to colonize the shores of Llanquihue Lake under a Chilean state-sponsored program.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u30ed\u30b9\u30fb\u30e9\u30b4\u30b9\u5dde\uff08Regi\u00f3n de los Lagos\uff09\uff1dX\u5dde\uff08\u7b2c\u5341\u5dde\uff09\u306f\u3001\u30c1\u30ea\u5171\u548c\u56fd\u306e\u5357\u90e8\u306b\u3042\u308b\u5dde\u3067\u3042\u308b\u3002\u5dde\u90fd\u306f\u30d7\u30a8\u30eb\u30c8\u30e2\u30f3\u30c8\uff08Puerto Montt\uff09\u3002\u5dde\u540d\u306e\u30ed\u30b9\u30fb\u30e9\u30b4\u30b9\u3068\u306f\u3001\u30b9\u30da\u30a4\u30f3\u8a9e\u3067\u6e56\u3068\u3044\u3046\u610f\u5473\u3002 \u30c1\u30ed\u30a8\u5cf6\u304c\u3053\u306e\u5dde\u306b\u5c5e\u3057\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La Xe R\u00e9gion des Lacs ou Xe Regi\u00f3n de Los Lagos est la Xe r\u00e9gion du Chili. Elle est entour\u00e9e au nord par la R\u00e9gion des Fleuves, \u00e0 l'est par l'Argentine et au sud par la r\u00e9gion Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo. C'est une r\u00e9gion form\u00e9e de montagnes, d'\u00eeles et de lacs (comme son nom l'indique). G\u00e9ographiquement, la r\u00e9gion est divis\u00e9e en trois parties. Le secteur continental va jusqu'\u00e0 Puerto-Montt, l'archipel de Chilo\u00e9 et la r\u00e9gion des fjords, adoss\u00e9e aux Andes et \u00e0 la fronti\u00e8re avec l'Argentine.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Regi\u00f3n de los Lagos ist eine Region im s\u00fcdlichen Chile (Region X).",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u041b\u043e\u0441-\u041b\u0430\u0433\u043e\u0441 (\u0438\u0441\u043f. Los Lagos) \u2014 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0447\u0430\u0441\u0442\u0438 \u0427\u0438\u043b\u0438. \u041e\u0431\u043b\u0430\u0441\u0442\u044c \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0430 \u0432 1974 \u0433., \u0432 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 \u0414\u0435\u043a\u0440\u0435\u0442\u043e\u043c \u041b\u0435\u044f (Decreto Ley N\u00ba 575). \u0412\u043a\u043b\u044e\u0447\u0430\u0435\u0442 \u0432 \u0441\u0435\u0431\u044f 4 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0438 \u0438 30 \u043a\u043e\u043c\u043c\u0443\u043d. \u0414\u043e \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0437\u0434\u0435\u0441\u044c \u0438\u0441\u043f\u0430\u043d\u0446\u0435\u0432 (1549 \u0433.) \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u0440\u0435\u0433\u0438\u043e\u043d\u0430 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u043b\u0438 \u0443\u0438\u043b\u044c\u0438\u0447\u0435. \u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u2014 48 583,6 \u043a\u043c\u00b2. \u041d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u2014 716 739 \u0447\u0435\u043b\u043e\u0432\u0435\u043a (2002). \u041f\u043b\u043e\u0442\u043d\u043e\u0441\u0442\u044c \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u2014 14,75 \u0447\u0435\u043b./\u043a\u043c\u00b2. \u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u2014 \u0433\u043e\u0440\u043e\u0434 \u041f\u0443\u044d\u0440\u0442\u043e-\u041c\u043e\u043d\u0442.",
+                "lang": "ru"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/R\u00edo_Blanco.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 731333955,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 585718,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/provinces": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Palena_Province"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Osorno_Province"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chilo\u00e9_Province"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Llanquihue_Province"
+            }
+        ],
+        "http://dbpedia.org/property/capital": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Puerto_Montt,_Chile"
+            }
+        ],
+        "http://dbpedia.org/property/flag": [
+            {
+                "type": "literal",
+                "value": "Flag of Los Lagos Region, Chile.svg",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/popDate": [
+            {
+                "type": "literal",
+                "value": 2012,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/popRank": [
+            {
+                "type": "literal",
+                "value": 7,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/website": [
+            {
+                "type": "literal",
+                "value": "Official website",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/population": [
+            {
+                "type": "literal",
+                "value": 767714,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Regions"
+            }
+        ],
+        "http://dbpedia.org/property/lats": [
+            {
+                "type": "literal",
+                "value": 18,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/latns": [
+            {
+                "type": "literal",
+                "value": "S",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/longs": [
+            {
+                "type": "literal",
+                "value": 12,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/elevMinM": [
+            {
+                "type": "literal",
+                "value": 0,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/nameEs": [
+            {
+                "type": "literal",
+                "value": "X Regi\u00f3n de Los Lagos",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ays\u00e9n_Region": {
+        "http://dbpedia.org/property/north": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Puerto_Montt": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Caleta_La_Arena": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Frutillar_Musical_Weeks": {
+        "http://dbpedia.org/property/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Los_Lagos_(region)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/X_Region_of_Los_Lagos": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Region_de_Los_Lagos": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Odette_Palma": {
+        "http://dbpedia.org/ontology/birthPlace": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jorge_Schwager": {
+        "http://dbpedia.org/ontology/birthPlace": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/V\u00edctor_Cancino": {
+        "http://dbpedia.org/ontology/birthPlace": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chait\u00e9n": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Quemchi": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Palena,_Chile": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dalcahue": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Los_Muermos": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pu\u00f1ihuil": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/San_Pablo,_Chile": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/New_Braunau": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Palena_Province": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/R\u00edo_Negro,_Chile": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ancud": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Frutillar": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Llanquihue_Province": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Puerto_Varas": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chilo\u00e9_Province": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Quell\u00f3n": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Guafo_Island": {
+        "http://dbpedia.org/property/countryAdminDivisions": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Calbuco": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chonchi": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cocham\u00f3": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Puyehue,_Chile": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Queil\u00e9n": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Quinchao": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Curaco_de_V\u00e9lez": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Futaleuf\u00fa,_Chile": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hualaihu\u00e9": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Puqueld\u00f3n": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Castro,_Chile": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/San_Juan_de_la_Costa": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Caucahue_island": {
+        "http://dbpedia.org/property/region": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ],
+        "http://dbpedia.org/ontology/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Osorno,_Chile": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Osorno_Province": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chilo\u00e9_Archipelago": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Entre_Lagos": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lemuy_Island": {
+        "http://dbpedia.org/property/countryAdminDivisions": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vintter_Lake": {
+        "http://dbpedia.org/ontology/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Achao": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pargua": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fresia,_Chile": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Puerto_Octay": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Purranque": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Abtao_Island": {
+        "http://dbpedia.org/property/countryAdminDivisions": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Calbuco_Archipelago": {
+        "http://dbpedia.org/property/countryAdminDivisions": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Calbuco_Island": {
+        "http://dbpedia.org/property/countryAdminDivisions": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chaullin_Island_(Calbuco)": {
+        "http://dbpedia.org/property/countryAdminDivisions": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tabon_Island_(Chile)": {
+        "http://dbpedia.org/property/countryAdminDivisions": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Llanquihue,_Chile": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Maull\u00edn": {
+        "http://dbpedia.org/ontology/isPartOf": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Desertores_Islands": {
+        "http://dbpedia.org/property/countryAdminDivisions": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tenglo_Island": {
+        "http://dbpedia.org/property/countryAdminDivisions": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Huar_Island": {
+        "http://dbpedia.org/property/countryAdminDivisions": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tronador": {
+        "http://dbpedia.org/property/listing": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Calbuco_(volcano)": {
+        "http://dbpedia.org/ontology/locatedInArea": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Apagado": {
+        "http://dbpedia.org/ontology/locatedInArea": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Islotes_de_Pu\u00f1ihuil_Natural_Monument": {
+        "http://dbpedia.org/ontology/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Alerce_Andino_National_Park": {
+        "http://dbpedia.org/ontology/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Corcovado_National_Park_(Chile)": {
+        "http://dbpedia.org/ontology/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hornopir\u00e9n_National_Park": {
+        "http://dbpedia.org/ontology/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vicente_P\u00e9rez_Rosales_National_Park": {
+        "http://dbpedia.org/ontology/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chilo\u00e9_National_Park": {
+        "http://dbpedia.org/ontology/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lahuen_\u00d1adi_Natural_Monument": {
+        "http://dbpedia.org/ontology/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Las_Vertientes_Private_Nature_Reserve": {
+        "http://dbpedia.org/ontology/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Las_Vertientes_\u2013_Reserva_Natural_Privada": {
+        "http://dbpedia.org/ontology/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Puyehue_National_Park": {
+        "http://dbpedia.org/ontology/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gert_Weil": {
+        "http://dbpedia.org/ontology/birthPlace": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Santo_Domingo_Formation": {
+        "http://dbpedia.org/property/region": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ancud_Volcanic_Complex": {
+        "http://dbpedia.org/property/region": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bah\u00eda_Mansa_Metamorphic_Complex": {
+        "http://dbpedia.org/property/region": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Estratos_de_Pupunahue": {
+        "http://dbpedia.org/property/region": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Puyehue_Hot_Springs": {
+        "http://dbpedia.org/property/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ],
+        "http://dbpedia.org/property/region": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bah\u00eda_Mansa": {
+        "http://dbpedia.org/ontology/country": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Barra_del_R\u00edo_Bueno": {
+        "http://dbpedia.org/ontology/country": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carelmapu": {
+        "http://dbpedia.org/ontology/country": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Contaco": {
+        "http://dbpedia.org/ontology/country": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Maicolpue": {
+        "http://dbpedia.org/ontology/country": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Puaucho": {
+        "http://dbpedia.org/ontology/country": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pucatrihue": {
+        "http://dbpedia.org/ontology/country": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Puerto_C\u00e1rdenas": {
+        "http://dbpedia.org/ontology/country": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cordillera_Pelada": {
+        "http://dbpedia.org/property/region": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Regi\u00f3n_de_Los_Lagos": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Los_Lagos_Region_of_Chile": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Los_Lagos_Region"
+            }
+        ]
+    }
+}

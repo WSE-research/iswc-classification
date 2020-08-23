@@ -1,0 +1,37 @@
+{
+    "@text": "Name the river whose source mountain is Baikal Mountains and mouth location is Arctic Ocean?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mountain",
+            "@support": "17196",
+            "@types": "",
+            "@surfaceForm": "mountain",
+            "@offset": "28",
+            "@similarityScore": "0.9999929620199141",
+            "@percentageOfSecondRank": "5.092737032725999E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Baikal_Mountains",
+            "@support": "17",
+            "@types": "Wikidata:Q46831,Schema:Place,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:MountainRange,DBpedia:Location",
+            "@surfaceForm": "Baikal Mountains",
+            "@offset": "40",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Arctic_Ocean",
+            "@support": "2673",
+            "@types": "",
+            "@surfaceForm": "Arctic Ocean",
+            "@offset": "79",
+            "@similarityScore": "0.9999999067545574",
+            "@percentageOfSecondRank": "9.324545273832002E-8"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Is the Hyundai Lavita assembled in Ulsan?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Hyundai_Motor_Company",
+            "@support": "1591",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Hyundai",
+            "@offset": "7",
+            "@similarityScore": "0.9998720989867648",
+            "@percentageOfSecondRank": "1.2356336293780474E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ulsan",
+            "@support": "856",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Ulsan",
+            "@offset": "35",
+            "@similarityScore": "0.9837895785107956",
+            "@percentageOfSecondRank": "0.016441002426034836"
+        }
+    ]
+}

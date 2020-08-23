@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the author of The Gift of the Magi, that mentions the cause of death from having liver cirrhosis?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Magi",
+            "@support": "790",
+            "@types": "",
+            "@surfaceForm": "Magi",
+            "@offset": "37",
+            "@similarityScore": "0.6751264323870786",
+            "@percentageOfSecondRank": "0.480944275811688"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cirrhosis",
+            "@support": "1471",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "liver cirrhosis",
+            "@offset": "88",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

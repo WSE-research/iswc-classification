@@ -1,0 +1,37 @@
+{
+    "@text": "What is the kinematic viscosity of sulfuric acid (H2SO4)?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Viscosity",
+            "@support": "3841",
+            "@types": "",
+            "@surfaceForm": "kinematic viscosity",
+            "@offset": "12",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Acid",
+            "@support": "8253",
+            "@types": "",
+            "@surfaceForm": "acid",
+            "@offset": "44",
+            "@similarityScore": "0.999987394560815",
+            "@percentageOfSecondRank": "1.251688660018188E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sulfuric_acid",
+            "@support": "2741",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "H2SO4",
+            "@offset": "50",
+            "@similarityScore": "0.9999999999985931",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

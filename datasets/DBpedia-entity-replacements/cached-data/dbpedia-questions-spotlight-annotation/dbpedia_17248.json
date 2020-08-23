@@ -1,0 +1,37 @@
+{
+    "@text": "Is Courtney Love's music garage rock and grunge?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Courtney_Love",
+            "@support": "1100",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Courtney Love",
+            "@offset": "3",
+            "@similarityScore": "0.999999918511495",
+            "@percentageOfSecondRank": "8.148851119483332E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Garage_rock",
+            "@support": "2863",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "garage rock",
+            "@offset": "25",
+            "@similarityScore": "0.999999802920234",
+            "@percentageOfSecondRank": "1.9707979902578067E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Grunge",
+            "@support": "2309",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "grunge",
+            "@offset": "41",
+            "@similarityScore": "0.999999997142524",
+            "@percentageOfSecondRank": "2.7988792921277105E-9"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "What is the ticker symbol for NEC which has Nagoya as Stock Exchange?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ticker_symbol",
+            "@support": "429",
+            "@types": "",
+            "@surfaceForm": "ticker symbol",
+            "@offset": "12",
+            "@similarityScore": "0.9995178998298141",
+            "@percentageOfSecondRank": "4.823327028596821E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/NEC",
+            "@support": "1629",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "NEC",
+            "@offset": "30",
+            "@similarityScore": "0.9977219826436546",
+            "@percentageOfSecondRank": "0.0016201785055016491"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Nagoya",
+            "@support": "5211",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Nagoya",
+            "@offset": "44",
+            "@similarityScore": "0.9991072921125933",
+            "@percentageOfSecondRank": "7.132144218786934E-4"
+        }
+    ]
+}

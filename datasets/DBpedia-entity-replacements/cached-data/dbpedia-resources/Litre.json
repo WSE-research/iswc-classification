@@ -1,0 +1,1099 @@
+{
+    "http://dbpedia.org/resource/Rover_Meteor": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Litre": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Litre": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Litre",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u30ea\u30c3\u30c8\u30eb",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Liter",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Litre",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Liter",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u516c\u5347",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u041b\u0438\u0442\u0440",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Litro",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0644\u062a\u0631",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Litro",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Litr",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Litro",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "O litro \u00e9 uma unidade de medida de volume ou capacidade (simbolizada por l, L ou, de forma n\u00e3o-aprovada pelo BIPM ou pela CGPM, \u2113) que obedece ao sistema m\u00e9trico decimal e \u00e9 aceita pelo Sistema Internacional de Unidades, embora n\u00e3o seja uma de suas unidades oficiais. Corresponde \u00e0 quantidade de l\u00edquido que cabe exatamente dentro de um cubo com 1 dm de aresta, de modo que o cubo fique completamente cheio. O metro c\u00fabico (m\u00b3) \u00e9 a unidade oficial do SI para medidas de volume/capacidade.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "El litro (l o L) es una unidad de volumen equivalente a un dec\u00edmetro c\u00fabico (1 dm\u00b3). Su uso es aceptado en el Sistema Internacional de Unidades (SI), aunque ya no pertenece estrictamente a \u00e9l. Fue creado por el sistema m\u00e9trico decimal original como unidad de volumen de l\u00edquidos y m\u00e1s tarde adoptado por la Oficina Internacional de Pesos y Medidas en 1879.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u041b\u0438\u0442\u0440 (\u0444\u0440. litre, \u043e\u0442 \u043b\u0430\u0442. litra \u2014 \u043c\u0435\u0440\u0430 \u0451\u043c\u043a\u043e\u0441\u0442\u0438; \u0440\u0443\u0441\u0441\u043a\u043e\u0435 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u2014 \u043b; \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0435 \u2014 L \u0438\u043b\u0438 l) \u2014 \u0432\u043d\u0435\u0441\u0438\u0441\u0442\u0435\u043c\u043d\u0430\u044f \u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u043e\u0431\u044a\u0451\u043c\u0430 \u0438 \u0432\u043c\u0435\u0441\u0442\u0438\u043c\u043e\u0441\u0442\u0438, \u0440\u0430\u0432\u043d\u0430\u044f 1 \u043a\u0443\u0431\u0438\u0447\u0435\u0441\u043a\u043e\u043c\u0443 \u0434\u0435\u0446\u0438\u043c\u0435\u0442\u0440\u0443. \u041b\u0438\u0442\u0440 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0435\u0439 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0435\u0434\u0438\u043d\u0438\u0446 (\u0421\u0418), \u043d\u043e \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 \u0442\u0430\u043a\u0438\u043c\u0438 \u0435\u0434\u0438\u043d\u0438\u0446\u0430\u043c\u0438, \u043a\u0430\u043a \u0447\u0430\u0441 \u0438\u043b\u0438 \u0441\u0443\u0442\u043a\u0438, \u0432\u043a\u043b\u044e\u0447\u0451\u043d \u0432 \u0447\u0438\u0441\u043b\u043e \u0442\u0435\u0445 \u0432\u043d\u0435\u0441\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0445 \u0435\u0434\u0438\u043d\u0438\u0446, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0434\u043e\u043f\u0443\u0441\u043a\u0430\u044e\u0442\u0441\u044f \u043a \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044e \u0431\u0435\u0437 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f \u0441\u0440\u043e\u043a\u0430 \u043d\u0430\u0440\u0430\u0432\u043d\u0435 \u0441 \u0435\u0434\u0438\u043d\u0438\u0446\u0430\u043c\u0438 \u0421\u0418 \u0441 \u043e\u0431\u043b\u0430\u0441\u0442\u044c\u044e \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u00ab\u0432\u0441\u0435 \u043e\u0431\u043b\u0430\u0441\u0442\u0438\u00bb. \u0415\u0434\u0438\u043d\u0438\u0446\u0430 \u043e\u0431\u044a\u0451\u043c\u0430 \u0432 \u0421\u0418 \u2014 \u043a\u0443\u0431\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0435\u0442\u0440 (\u043c\u00b3).",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Le litre (d\u00e9riv\u00e9 de litron, ancienne mesure de capacit\u00e9) est une unit\u00e9 de mesure de volume \u00e9gale \u00e0 un d\u00e9cim\u00e8tre cube. Cette d\u00e9finition du Bureau international des poids et mesures (BIPM) date de 1964. Bien qu\u2019en dehors du syst\u00e8me international d'unit\u00e9s, l'usage du litre est accept\u00e9 par le BIPM. Les symboles reconnus sont les lettres L (majuscule) ou l (minuscule).",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u30ea\u30c3\u30c8\u30eb\uff08\u4ecf: litre\u3001\u8a18\u53f7: L, l\uff09\u306f\u4f53\u7a4d\u306e\u5358\u4f4d\u3067\u3042\u308b\u3002\u8a9e\u6e90\u306f\u30d5\u30e9\u30f3\u30b9\u8a9e\u306e litron \u3067\u3042\u308a\u3001litron \u306f\u30ae\u30ea\u30b7\u30e3\u8a9e\u304a\u3088\u3073\u30e9\u30c6\u30f3\u8a9e\u306e litra \u306b\u7531\u6765\u3059\u308b\u3002 \u6f22\u5b57\u3067\u306f\u7acb\u3068\u66f8\u304b\u308c\u308b\u3053\u3068\u304c\u3042\u308a\u3001\u82f1\u8a9e\u3067\u306e\u767a\u97f3\uff08\u82f1: litre[\u02c8li:t\u0259(r)]\u3001\u7c73: liter[\u02c8lit\u025a]\uff1a\u30ea\u30fc\u30bf\u30fc\uff09\u304b\u3089\u3001\u65e5\u672c\u3067\u306f\u30ea\u30c3\u30bf\u30fc\u3068\u3082\u767a\u97f3\u3055\u308c\u308b\u3053\u3068\u304c\u3042\u308b\uff08\u305f\u3060\u3057\u3001\u3053\u306e\u7acb\u306e\u8868\u8a18\u3082\u30ea\u30c3\u30bf\u30fc\u306e\u8868\u8a18\u3082\u8a08\u91cf\u6cd5\u4e0a\u306f\u8a8d\u3081\u3089\u308c\u3066\u3044\u306a\u3044\uff09\u3002\u30ea\u30c3\u30c8\u30eb\u306f\u30e1\u30fc\u30c8\u30eb\u6cd5\u306e\u53e4\u3044\u5358\u4f4d\u3067\u3042\u3063\u3066\u4eca\u65e5\u306eSI\u5358\u4f4d\u3067\u306f\u306a\u3044\u304c\u3001\u300cSI\u5358\u4f4d\u3068\u4f75\u7528\u3055\u308c\u308b\u975eSI\u5358\u4f4d\u300d\u306e\u4e00\u3064\u3067\u3042\u308b\u3002 \u30ea\u30c3\u30c8\u30eb\u306e\u5b9a\u7fa9\u306f1901\u5e74\u30681964\u5e74\u306b2\u5ea6\u5909\u66f4\u3055\u308c\u305f\uff08\u5f8c\u8ff0\uff09\u304c\u3001\u73fe\u5728\u306e\u5b9a\u7fa9\u306f 10\u22123\u7acb\u65b9\u30e1\u30fc\u30c8\u30eb (m3) = 1\u7acb\u65b9\u30c7\u30b7\u30e1\u30fc\u30c8\u30eb (dm3) = 1000 cm3 \u3067\u3042\u308b\u3002\u3059\u306a\u308f\u3061\u30011\u8fba\u304c1\u30c7\u30b7\u30e1\u30fc\u30c8\u30eb (1 dm = 10 cm) \u306e\u7acb\u65b9\u4f53\u306e\u4f53\u7a4d\u3067\u3042\u308b\u3002\u306a\u304a\u3001\u30ea\u30c3\u30c8\u30eb\u304c\u300c\u5bb9\u7a4d\u300d\u306e\u5358\u4f4d\u3067\u3042\u308b\u3068\u3055\u308c\u3066\u6db2\u4f53\u3092\u91cf\u308b\u969b\u306b\u4f7f\u308f\u308c\u3066\u3044\u305f\u6642\u4ee3\u304c\u3042\u3063\u305f\u304c\u3001\u7269\u7406\u5b66\u4e0a\u306f\u57fa\u672c\u7684\u306b\u300c\u5bb9\u7a4d\u300d\u306f\u300c\u4f53\u7a4d\u300d\u3068\u540c\u4e00\u3067\u3042\u308b\u306e\u3067\u3001\u73fe\u5728\u3067\u306f\u3001\u30ea\u30c3\u30c8\u30eb\u306e\u5b9a\u7fa9\u306b\u304a\u3044\u3066\u306f\u300c\u5bb9\u7a4d\u300d\u306e\u8a9e\u306f\u7528\u3044\u3089\u308c\u306a\u3044\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Der (au\u00dferhalb der Schweiz auch: das) Liter ist eine Einheit f\u00fcr das Volumen und wird durch das Einheitenzeichen , oder symbolisiert oder mit \u201eLtr.\u201c abgek\u00fcrzt. Ein Liter entspricht einem Kubikdezimeter (dm\u00b3). Ein W\u00fcrfel mit einer Kantenl\u00e4nge von 10 cm hat demnach ein Volumen von einem Liter. Der Liter geh\u00f6rt zwar nicht zum Internationalen Einheitensystem (SI), ist zum Gebrauch mit dem SI aber zugelassen. Durch nationale Gesetze ist der Liter eine gesetzliche Ma\u00dfeinheit.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u516c\u5347\uff0c\u901a\u5e38\u7c21\u7a31\u70ba\u5347\uff0c\u662f\u5bb9\u91cf\u8ba1\u91cf\u5355\u4f4d\uff0c\u7b26\u53f7\u4e3aL\u3002\u904e\u53bb\u66fe\u7d93\u63a1\u7528\u5c0f\u5beb\u624b\u5beb\u9ad4 \u4f5c\u70ba\u7b26\u865f\uff0c\u4f46\u7531\u65bc\u5370\u5237\u4e0d\u65b9\u4fbf\uff0c\u6240\u4ee5\u6539\u7528\u5927\u5beb\u5370\u5237\u9ad4L\u3002\u516c\u5347\u672c\u8eab\u4e0d\u662f\u570b\u969b\u55ae\u4f4d\u5236\uff08SI\uff09\u55ae\u4f4d\uff0c\u4f46\u5b83\u662f\u7c73\u5236\u5355\u4f4d\uff0c\u800c\u4e14\u662f\u63a5\u53d7\u8207SI\u5408\u4f75\u4f7f\u7528\u7684\u55ae\u4f4d\u3002 \u6700\u521d\u7684\u6cd5\u56fd\u7c73\u5236\u7cfb\u7edf\u4ee5\u516c\u5347\u4f5c\u4e3a\u57fa\u672c\u5355\u4f4d\u3002litre\u662f\u4ece\u66f4\u820a\u7684\u5355\u4f4dlitron\u53d1\u5c55\u800c\u6765\u3002litron\u6765\u81ea\u4e8e\u62c9\u4e01\u8bed\u8f6c\u8bd1\u7684\u5e0c\u814a\u8bed\uff0c\u5927\u7ea6\u7b49\u4e8e0.831\u516c\u5347\u3002\u516c\u5347\u5728\u540e\u6765\u7684\u51e0\u4e2a\u7c73\u5236\u7cfb\u7edf\u5185\u4e5f\u4f7f\u7528\u8fc7\uff0c\u662f\u56fd\u9645\u5355\u4f4d\u5236\u63a5\u53d7\u7684\u7684\u975eSI\u5355\u4f4d\u3002 \u516c\u5347\u8d77\u521d\u7684\u540d\u5b57\u662fCadil\uff0c\u5176\u6807\u51c6\u5c55\u793a\u4e8e\u5df4\u9ece\u56fd\u7acb\u5de5\u827a\u535a\u7269\u9986\u3002 \u4e2d\u83ef\u6c11\u570b\u57281928\u5e74\u63d0\u51fa\u300a\u4e2d\u534e\u6c11\u56fd\u6743\u5ea6\u6807\u51c6\u65b9\u6848\u300b\u4e2d\uff0c\u898f\u5b9a\u300c\u516c\u5347\u300d\u70ba\u89c4\u5b9a\u7684\u4f53\u79ef\u5355\u4f4d\u540d\u79f0\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "(Not to be confused with litter or litr.) The litre (international spelling) or liter (American spelling) (SI symbols L or l, commonly, but incorrectly, abbreviated as ltr) is an SI accepted metric system unit of volume equal to 1 cubic decimetre (dm3), 1,000 cubic centimetres (cm3) or 1/1,000 cubic metre. A cubic decimetre (or litre) occupies a volume of 10\u00d710\u00d710 centimetres (see figure) and is thus equal to one-thousandth of a cubic metre.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0627\u0644\u0644\u062a\u0631 \u0623\u062d\u062f \u0648\u062d\u062f\u0627\u062a \u0642\u064a\u0627\u0633 \u0627\u0644\u062d\u062c\u0645. 1 \u0644\u062a\u0631 \u064a\u0639\u0627\u062f\u0644 \u062d\u062c\u0645 \u0645\u0643\u0639\u0628 \u0637\u0648\u0644 \u0636\u0644\u0639\u0647 10 \u0633\u0646\u062a\u064a\u0645\u062a\u0631. \n*  \u0645\u0646 \u0627\u0644\u0625\u063a\u0631\u064a\u0642\u064a\u0629: \u0645\u0642\u064a\u0627\u0633 \u0642\u062f\u064a\u0645 \u0643\u0627\u0646 \u064a\u0633\u0627\u0648\u064a 12 \u0623\u0648\u0646\u0635\u0629 \u0623\u064a \u0645\u0627 \u064a\u0642\u0627\u0631\u0628 1000 \u0645\u0644\u064a\u0644\u062a\u0631 \u062d\u0627\u0644\u064a\u064b\u0627. 1000 \u0645\u0644\u064a\u0644\u062a\u0631 = 1000 \u0633\u0646\u062a\u064a\u0645\u062a\u0631 \u0645\u0643\u0639\u0628 . \u0647\u0648 \u0648\u062d\u062f\u0629 \u0642\u064a\u0627\u0633 \u0627\u0644\u062d\u062c\u0645 \u0627\u0644\u0631\u0633\u0645\u064a\u0629 \u0639\u0627\u0644\u0645\u064a\u0651\u0627. \u0645\u0646\u0630 \u0633\u0646\u0629 1964 \u0635\u0627\u0631 \u062a\u0639\u0631\u064a\u0641\u0647 \u0645\u0633\u0627\u0648\u064a\u064b\u0627 \u0644\u0640 : 1 \u062f\u064a\u0633\u064a\u0645\u062a\u0631 \u0645\u0643\u0639\u0628 \u0627\u0644\u0630\u064a \u064a\u0639\u0627\u062f\u0644 1000 \u0633\u0646\u062a\u064a\u0645\u062a\u0631 \u0645\u0643\u0639\u0628. \n*  1 \u0644\u062a\u0631 \u064a\u0633\u0627\u0648\u064a 1000 \u0633\u0646\u062a\u064a\u0645\u062a\u0631 \u0645\u0643\u0639\u0628\u060c  \n*  \u0623\u064a \u0623\u0646 1 \u0645\u0644\u064a\u0644\u062a\u0631 \u064a\u0633\u0627\u0648\u064a 1 \u0633\u0646\u062a\u064a\u0645\u062a\u0631 \u0645\u0643\u0639\u0628  \n*  \u0623\u0648 1000 \u0644\u062a\u0631 \u064a\u0633\u0627\u0648\u064a 1 \u0645\u062a\u0631 \u0645\u0643\u0639\u0628. \n*  1 \u062f\u064a\u0633\u064a\u0644\u062a\u0631 = 1/10 \u0644\u062a\u0631",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Een liter is een inhoudsmaat die in het dagelijks verkeer veelvuldig wordt gebruikt om het volume van een vloeistof of een gas aan te geven. Hoewel het geen SI-eenheid is, wordt het gebruik ervan expliciet gedoogd door het Bureau international des poids et mesures (BIPM). Het door het BIPM aanbevolen alternatief is om volumes in dm\u00b3 of m\u00b3 uit te drukken. In de meeste landen wordt in de regel het symbool l voor liter gebruikt, de onderkast van de 12e letter van het alfabet. Elders, voornamelijk in de wetenschappelijke literatuur, kan men ook de hoofdletter L als symbool tegenkomen; zie .",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Litr (skr\u00f3t l) \u2013 pozauk\u0142adowa jednostka obj\u0119to\u015bci. W przeliczeniu na jednostki SI 1 l = 1/1000 m\u00b3 = 1 dm\u00b3. W USA, Kanadzie, Australii do oznaczania tej jednostki stosuje si\u0119 oficjalnie wielk\u0105 liter\u0119 \u201eL\u201d, w pozosta\u0142ych krajach \u015bwiata, w tym w Polsce, norm\u0105 jest stosowanie ma\u0142ej litery \u201el\u201d, cho\u0107 stosowanie wielkiej litery jest r\u00f3wnie\u017c dopuszczalne.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Il litro \u00e8 un'unit\u00e0 di misura del volume. Non \u00e8 un'unit\u00e0 del SI ma \u00e8 tuttora accettata a titolo transitorio. Riferendosi al SI, un litro equivale a 1 decimetro cubo (o meglio 10\u22123 m\u00b3).",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litter"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litr"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Litre"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Liter"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Liter"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Litro"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q11582"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Liter"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Litro"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Litr"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Litr"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ub9ac\ud130"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.04lmb"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Litro"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039b\u03af\u03c4\u03c1\u03bf"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30ea\u30c3\u30c8\u30eb"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Litro"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q11582"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Alcohol_measurement"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Units_of_volume"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Non-SI_metric_units"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/CubeLitre.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Litre"
+            }
+        ],
+        "http://dbpedia.org/property/quantity": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volume"
+            }
+        ],
+        "http://dbpedia.org/property/dimension": [
+            {
+                "type": "literal",
+                "value": "L3",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Litre?oldid=745009006"
+            }
+        ],
+        "http://dbpedia.org/property/symbol": [
+            {
+                "type": "literal",
+                "value": "l  or L",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bipm.org/en/si/si_brochure/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bipm.org/en/si/si_brochure/chapter4/table6.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://ts.nist.gov/WeightsAndMeasures/Publications/appxc.cfm#4e"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.aa.co.nz/motoring/Pages/default.aspx"
+            },
+            {
+                "type": "uri",
+                "value": "http://ts.nist.gov/WeightsAndMeasures/Metric/upload/FRN_Vol_73_No_96_16May2008_SI_Interpretation.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www1.bipm.org/utils/common/pdf/si_brochure_8.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://physics.nist.gov/Pubs/SP330/sp330.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://physics.nist.gov/cuu/Units/units.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://physics.nist.gov/cuu/pdf/sp811.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://physics.nist.gov/cuu/Units/outside.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://physics.nist.gov/cuu/Units/index.html"
+            }
+        ],
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "literal",
+                "value": "One litre is the volume of a",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "cube with 10 cm sides",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Le litre (d\u00e9riv\u00e9 de litron, ancienne mesure de capacit\u00e9) est une unit\u00e9 de mesure de volume \u00e9gale \u00e0 un d\u00e9cim\u00e8tre cube. Cette d\u00e9finition du Bureau international des poids et mesures (BIPM) date de 1964. Bien qu\u2019en dehors du syst\u00e8me international d'unit\u00e9s, l'usage du litre est accept\u00e9 par le BIPM. Les symboles reconnus sont les lettres L (majuscule) ou l (minuscule).",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Een liter is een inhoudsmaat die in het dagelijks verkeer veelvuldig wordt gebruikt om het volume van een vloeistof of een gas aan te geven. Hoewel het geen SI-eenheid is, wordt het gebruik ervan expliciet gedoogd door het Bureau international des poids et mesures (BIPM). Het door het BIPM aanbevolen alternatief is om volumes in dm\u00b3 of m\u00b3 uit te drukken. In de meeste landen wordt in de regel het symbool l voor liter gebruikt, de onderkast van de 12e letter van het alfabet. Elders, voornamelijk in de wetenschappelijke literatuur, kan men ook de hoofdletter L als symbool tegenkomen; zie . Een liter is gelijk aan: \n*  1000 kubieke centimeter (1000 cc) \n*  1 kubieke decimeter (1 dm\u00b3) \n*  0,001 kubieke meter (1/1000 m\u00b3) De maat liter dateert van 1793, toen hij in Frankrijk tijdens de Franse Revolutie werd ingevoerd. De naam liter (litre in het Frans) is afgeleid van een oudere Franse maat, de litron. Deze naam is oorspronkelijk Grieks en kwam via het Latijn in het Frans terecht.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Litr (skr\u00f3t l) \u2013 pozauk\u0142adowa jednostka obj\u0119to\u015bci. W przeliczeniu na jednostki SI 1 l = 1/1000 m\u00b3 = 1 dm\u00b3. W USA, Kanadzie, Australii do oznaczania tej jednostki stosuje si\u0119 oficjalnie wielk\u0105 liter\u0119 \u201eL\u201d, w pozosta\u0142ych krajach \u015bwiata, w tym w Polsce, norm\u0105 jest stosowanie ma\u0142ej litery \u201el\u201d, cho\u0107 stosowanie wielkiej litery jest r\u00f3wnie\u017c dopuszczalne.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0627\u0644\u0644\u062a\u0631 \u0623\u062d\u062f \u0648\u062d\u062f\u0627\u062a \u0642\u064a\u0627\u0633 \u0627\u0644\u062d\u062c\u0645. 1 \u0644\u062a\u0631 \u064a\u0639\u0627\u062f\u0644 \u062d\u062c\u0645 \u0645\u0643\u0639\u0628 \u0637\u0648\u0644 \u0636\u0644\u0639\u0647 10 \u0633\u0646\u062a\u064a\u0645\u062a\u0631. \n*  \u0645\u0646 \u0627\u0644\u0625\u063a\u0631\u064a\u0642\u064a\u0629: \u0645\u0642\u064a\u0627\u0633 \u0642\u062f\u064a\u0645 \u0643\u0627\u0646 \u064a\u0633\u0627\u0648\u064a 12 \u0623\u0648\u0646\u0635\u0629 \u0623\u064a \u0645\u0627 \u064a\u0642\u0627\u0631\u0628 1000 \u0645\u0644\u064a\u0644\u062a\u0631 \u062d\u0627\u0644\u064a\u064b\u0627. 1000 \u0645\u0644\u064a\u0644\u062a\u0631 = 1000 \u0633\u0646\u062a\u064a\u0645\u062a\u0631 \u0645\u0643\u0639\u0628 . \u0647\u0648 \u0648\u062d\u062f\u0629 \u0642\u064a\u0627\u0633 \u0627\u0644\u062d\u062c\u0645 \u0627\u0644\u0631\u0633\u0645\u064a\u0629 \u0639\u0627\u0644\u0645\u064a\u0651\u0627. \u0645\u0646\u0630 \u0633\u0646\u0629 1964 \u0635\u0627\u0631 \u062a\u0639\u0631\u064a\u0641\u0647 \u0645\u0633\u0627\u0648\u064a\u064b\u0627 \u0644\u0640 : 1 \u062f\u064a\u0633\u064a\u0645\u062a\u0631 \u0645\u0643\u0639\u0628 \u0627\u0644\u0630\u064a \u064a\u0639\u0627\u062f\u0644 1000 \u0633\u0646\u062a\u064a\u0645\u062a\u0631 \u0645\u0643\u0639\u0628. \u0639\u0644\u0645\u064a\u0627 \u0627\u0644\u0644\u062a\u0631 \u064a\u0633\u0627\u0648\u064a \u0627\u0644\u062d\u062c\u0645 \u0627\u0644\u0630\u064a \u062a\u062d\u062a\u0644\u0647 \u0643\u0645\u064a\u0629 1 \u0643\u064a\u0644\u0648\u063a\u0631\u0627\u0645 \u0645\u0646 \u0627\u0644\u0645\u0627\u0621 \u0627\u0644\u0646\u0642\u064a \u0639\u0646\u062f \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 3.98 \u0645\u0626\u0648\u064a\u0629 (\u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0647\u0630\u0647 \u062a\u0643\u0648\u0646 \u0639\u0646\u062f\u0647\u0627 \u0643\u062b\u0627\u0641\u0629 \u0627\u0644\u0645\u0627\u0621 \u0623\u0639\u0644\u0649 \u0645\u0627 \u064a\u0645\u0643\u0646 \u0644\u0644\u0645\u0627\u0621 \u060c \u062d\u064a\u062b \u064a\u062a\u0645\u062f\u062f \u0627\u0644\u0645\u0627\u0621 \u0639\u0646\u062f\u0645\u0627 \u062a\u0642\u0644 \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u062a\u0647 \u062d\u062a\u0649 \u064a\u0635\u0644 \u0625\u0644\u0649 \u0627\u0644\u0635\u0641\u0631 \u0627\u0644\u0645\u0626\u0648\u064a \u0648\u064a\u062a\u062d\u0648\u0644 \u0625\u0644\u0649 \u062b\u0644\u062c) . \n*  1 \u0644\u062a\u0631 \u064a\u0633\u0627\u0648\u064a 1000 \u0633\u0646\u062a\u064a\u0645\u062a\u0631 \u0645\u0643\u0639\u0628\u060c  \n*  \u0623\u064a \u0623\u0646 1 \u0645\u0644\u064a\u0644\u062a\u0631 \u064a\u0633\u0627\u0648\u064a 1 \u0633\u0646\u062a\u064a\u0645\u062a\u0631 \u0645\u0643\u0639\u0628  \n*  \u0623\u0648 1000 \u0644\u062a\u0631 \u064a\u0633\u0627\u0648\u064a 1 \u0645\u062a\u0631 \u0645\u0643\u0639\u0628. \n*  1 \u062f\u064a\u0633\u064a\u0644\u062a\u0631 = 1/10 \u0644\u062a\u0631",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "(Not to be confused with litter or litr.) The litre (international spelling) or liter (American spelling) (SI symbols L or l, commonly, but incorrectly, abbreviated as ltr) is an SI accepted metric system unit of volume equal to 1 cubic decimetre (dm3), 1,000 cubic centimetres (cm3) or 1/1,000 cubic metre. A cubic decimetre (or litre) occupies a volume of 10\u00d710\u00d710 centimetres (see figure) and is thus equal to one-thousandth of a cubic metre. The original French metric system used the litre as a base unit. The word litre is derived from an older French unit, the litron, whose name came from Greek \u2014 where it was a unit of weight, not volume  \u2014 via Latin, and which equalled approximately 0.831 litres. The litre was also used in several subsequent versions of the metric system and is accepted for use with the SI, although not an official SI unit \u2014 the SI unit of volume is the cubic metre (m3). The spelling used by the International Bureau of Weights and Measures is \"litre\", a spelling which is shared by almost all English-speaking countries. The less common spelling of \"liter\" is more predominantly used in American English. One litre of liquid water has a mass of almost exactly one kilogram, due to the gram being defined in 1795 as one cubic centimetre of water at the temperature of melting ice. Subsequent redefinitions of the metre and kilogram mean that this relationship is no longer exact.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Der (au\u00dferhalb der Schweiz auch: das) Liter ist eine Einheit f\u00fcr das Volumen und wird durch das Einheitenzeichen , oder symbolisiert oder mit \u201eLtr.\u201c abgek\u00fcrzt. Ein Liter entspricht einem Kubikdezimeter (dm\u00b3). Ein W\u00fcrfel mit einer Kantenl\u00e4nge von 10 cm hat demnach ein Volumen von einem Liter. Der Liter geh\u00f6rt zwar nicht zum Internationalen Einheitensystem (SI), ist zum Gebrauch mit dem SI aber zugelassen. Durch nationale Gesetze ist der Liter eine gesetzliche Ma\u00dfeinheit.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u30ea\u30c3\u30c8\u30eb\uff08\u4ecf: litre\u3001\u8a18\u53f7: L, l\uff09\u306f\u4f53\u7a4d\u306e\u5358\u4f4d\u3067\u3042\u308b\u3002\u8a9e\u6e90\u306f\u30d5\u30e9\u30f3\u30b9\u8a9e\u306e litron \u3067\u3042\u308a\u3001litron \u306f\u30ae\u30ea\u30b7\u30e3\u8a9e\u304a\u3088\u3073\u30e9\u30c6\u30f3\u8a9e\u306e litra \u306b\u7531\u6765\u3059\u308b\u3002 \u6f22\u5b57\u3067\u306f\u7acb\u3068\u66f8\u304b\u308c\u308b\u3053\u3068\u304c\u3042\u308a\u3001\u82f1\u8a9e\u3067\u306e\u767a\u97f3\uff08\u82f1: litre[\u02c8li:t\u0259(r)]\u3001\u7c73: liter[\u02c8lit\u025a]\uff1a\u30ea\u30fc\u30bf\u30fc\uff09\u304b\u3089\u3001\u65e5\u672c\u3067\u306f\u30ea\u30c3\u30bf\u30fc\u3068\u3082\u767a\u97f3\u3055\u308c\u308b\u3053\u3068\u304c\u3042\u308b\uff08\u305f\u3060\u3057\u3001\u3053\u306e\u7acb\u306e\u8868\u8a18\u3082\u30ea\u30c3\u30bf\u30fc\u306e\u8868\u8a18\u3082\u8a08\u91cf\u6cd5\u4e0a\u306f\u8a8d\u3081\u3089\u308c\u3066\u3044\u306a\u3044\uff09\u3002\u30ea\u30c3\u30c8\u30eb\u306f\u30e1\u30fc\u30c8\u30eb\u6cd5\u306e\u53e4\u3044\u5358\u4f4d\u3067\u3042\u3063\u3066\u4eca\u65e5\u306eSI\u5358\u4f4d\u3067\u306f\u306a\u3044\u304c\u3001\u300cSI\u5358\u4f4d\u3068\u4f75\u7528\u3055\u308c\u308b\u975eSI\u5358\u4f4d\u300d\u306e\u4e00\u3064\u3067\u3042\u308b\u3002 \u30ea\u30c3\u30c8\u30eb\u306e\u5b9a\u7fa9\u306f1901\u5e74\u30681964\u5e74\u306b2\u5ea6\u5909\u66f4\u3055\u308c\u305f\uff08\u5f8c\u8ff0\uff09\u304c\u3001\u73fe\u5728\u306e\u5b9a\u7fa9\u306f 10\u22123\u7acb\u65b9\u30e1\u30fc\u30c8\u30eb (m3) = 1\u7acb\u65b9\u30c7\u30b7\u30e1\u30fc\u30c8\u30eb (dm3) = 1000 cm3 \u3067\u3042\u308b\u3002\u3059\u306a\u308f\u3061\u30011\u8fba\u304c1\u30c7\u30b7\u30e1\u30fc\u30c8\u30eb (1 dm = 10 cm) \u306e\u7acb\u65b9\u4f53\u306e\u4f53\u7a4d\u3067\u3042\u308b\u3002\u306a\u304a\u3001\u30ea\u30c3\u30c8\u30eb\u304c\u300c\u5bb9\u7a4d\u300d\u306e\u5358\u4f4d\u3067\u3042\u308b\u3068\u3055\u308c\u3066\u6db2\u4f53\u3092\u91cf\u308b\u969b\u306b\u4f7f\u308f\u308c\u3066\u3044\u305f\u6642\u4ee3\u304c\u3042\u3063\u305f\u304c\u3001\u7269\u7406\u5b66\u4e0a\u306f\u57fa\u672c\u7684\u306b\u300c\u5bb9\u7a4d\u300d\u306f\u300c\u4f53\u7a4d\u300d\u3068\u540c\u4e00\u3067\u3042\u308b\u306e\u3067\u3001\u73fe\u5728\u3067\u306f\u3001\u30ea\u30c3\u30c8\u30eb\u306e\u5b9a\u7fa9\u306b\u304a\u3044\u3066\u306f\u300c\u5bb9\u7a4d\u300d\u306e\u8a9e\u306f\u7528\u3044\u3089\u308c\u306a\u3044\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u041b\u0438\u0442\u0440 (\u0444\u0440. litre, \u043e\u0442 \u043b\u0430\u0442. litra \u2014 \u043c\u0435\u0440\u0430 \u0451\u043c\u043a\u043e\u0441\u0442\u0438; \u0440\u0443\u0441\u0441\u043a\u043e\u0435 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u2014 \u043b; \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0435 \u2014 L \u0438\u043b\u0438 l) \u2014 \u0432\u043d\u0435\u0441\u0438\u0441\u0442\u0435\u043c\u043d\u0430\u044f \u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u043e\u0431\u044a\u0451\u043c\u0430 \u0438 \u0432\u043c\u0435\u0441\u0442\u0438\u043c\u043e\u0441\u0442\u0438, \u0440\u0430\u0432\u043d\u0430\u044f 1 \u043a\u0443\u0431\u0438\u0447\u0435\u0441\u043a\u043e\u043c\u0443 \u0434\u0435\u0446\u0438\u043c\u0435\u0442\u0440\u0443. \u041b\u0438\u0442\u0440 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0435\u0439 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0435\u0434\u0438\u043d\u0438\u0446 (\u0421\u0418), \u043d\u043e \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 \u0442\u0430\u043a\u0438\u043c\u0438 \u0435\u0434\u0438\u043d\u0438\u0446\u0430\u043c\u0438, \u043a\u0430\u043a \u0447\u0430\u0441 \u0438\u043b\u0438 \u0441\u0443\u0442\u043a\u0438, \u0432\u043a\u043b\u044e\u0447\u0451\u043d \u0432 \u0447\u0438\u0441\u043b\u043e \u0442\u0435\u0445 \u0432\u043d\u0435\u0441\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0445 \u0435\u0434\u0438\u043d\u0438\u0446, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0434\u043e\u043f\u0443\u0441\u043a\u0430\u044e\u0442\u0441\u044f \u043a \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044e \u0431\u0435\u0437 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f \u0441\u0440\u043e\u043a\u0430 \u043d\u0430\u0440\u0430\u0432\u043d\u0435 \u0441 \u0435\u0434\u0438\u043d\u0438\u0446\u0430\u043c\u0438 \u0421\u0418 \u0441 \u043e\u0431\u043b\u0430\u0441\u0442\u044c\u044e \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u00ab\u0432\u0441\u0435 \u043e\u0431\u043b\u0430\u0441\u0442\u0438\u00bb. \u0415\u0434\u0438\u043d\u0438\u0446\u0430 \u043e\u0431\u044a\u0451\u043c\u0430 \u0432 \u0421\u0418 \u2014 \u043a\u0443\u0431\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0435\u0442\u0440 (\u043c\u00b3).",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u516c\u5347\uff0c\u901a\u5e38\u7c21\u7a31\u70ba\u5347\uff0c\u662f\u5bb9\u91cf\u8ba1\u91cf\u5355\u4f4d\uff0c\u7b26\u53f7\u4e3aL\u3002\u904e\u53bb\u66fe\u7d93\u63a1\u7528\u5c0f\u5beb\u624b\u5beb\u9ad4 \u4f5c\u70ba\u7b26\u865f\uff0c\u4f46\u7531\u65bc\u5370\u5237\u4e0d\u65b9\u4fbf\uff0c\u6240\u4ee5\u6539\u7528\u5927\u5beb\u5370\u5237\u9ad4L\u3002\u516c\u5347\u672c\u8eab\u4e0d\u662f\u570b\u969b\u55ae\u4f4d\u5236\uff08SI\uff09\u55ae\u4f4d\uff0c\u4f46\u5b83\u662f\u7c73\u5236\u5355\u4f4d\uff0c\u800c\u4e14\u662f\u63a5\u53d7\u8207SI\u5408\u4f75\u4f7f\u7528\u7684\u55ae\u4f4d\u3002 \u6700\u521d\u7684\u6cd5\u56fd\u7c73\u5236\u7cfb\u7edf\u4ee5\u516c\u5347\u4f5c\u4e3a\u57fa\u672c\u5355\u4f4d\u3002litre\u662f\u4ece\u66f4\u820a\u7684\u5355\u4f4dlitron\u53d1\u5c55\u800c\u6765\u3002litron\u6765\u81ea\u4e8e\u62c9\u4e01\u8bed\u8f6c\u8bd1\u7684\u5e0c\u814a\u8bed\uff0c\u5927\u7ea6\u7b49\u4e8e0.831\u516c\u5347\u3002\u516c\u5347\u5728\u540e\u6765\u7684\u51e0\u4e2a\u7c73\u5236\u7cfb\u7edf\u5185\u4e5f\u4f7f\u7528\u8fc7\uff0c\u662f\u56fd\u9645\u5355\u4f4d\u5236\u63a5\u53d7\u7684\u7684\u975eSI\u5355\u4f4d\u3002 \u516c\u5347\u8d77\u521d\u7684\u540d\u5b57\u662fCadil\uff0c\u5176\u6807\u51c6\u5c55\u793a\u4e8e\u5df4\u9ece\u56fd\u7acb\u5de5\u827a\u535a\u7269\u9986\u3002 \u4e2d\u83ef\u6c11\u570b\u57281928\u5e74\u63d0\u51fa\u300a\u4e2d\u534e\u6c11\u56fd\u6743\u5ea6\u6807\u51c6\u65b9\u6848\u300b\u4e2d\uff0c\u898f\u5b9a\u300c\u516c\u5347\u300d\u70ba\u89c4\u5b9a\u7684\u4f53\u79ef\u5355\u4f4d\u540d\u79f0\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "El litro (l o L) es una unidad de volumen equivalente a un dec\u00edmetro c\u00fabico (1 dm\u00b3). Su uso es aceptado en el Sistema Internacional de Unidades (SI), aunque ya no pertenece estrictamente a \u00e9l. Fue creado por el sistema m\u00e9trico decimal original como unidad de volumen de l\u00edquidos y m\u00e1s tarde adoptado por la Oficina Internacional de Pesos y Medidas en 1879. En su origen fue definido como el volumen de un dec\u00edmetro c\u00fabico, pero en 1901 fue descrito como el volumen ocupado por una masa de 1 kg de agua pura en su m\u00e1xima densidad y a presi\u00f3n normal (a 4 \u00b0C y 1 atm respectivamente). Esta definici\u00f3n fue derogada en 1964 porque el litro difer\u00eda del dec\u00edmetro c\u00fabico en aproximadamente 28 partes por mill\u00f3n, induciendo a error en las mediciones que requieren bastante precisi\u00f3n. Actualmente solo es usado como un nombre especial del dec\u00edmetro c\u00fabico. Es una unidad que posee doble s\u00edmbolo reconocido (l o L). El s\u00edmbolo original es \u00abl\u00bb, debido a que los s\u00edmbolos de las unidades se escriben en min\u00fascula (excepto aquellas que provienen de nombre propio). No obstante, en el a\u00f1o 1979 se adopt\u00f3 el s\u00edmbolo alternativo \u00abL\u00bb para disminuir el riesgo de confusi\u00f3n entre la letra l y el n\u00famero 1 en ciertas tipograf\u00edas. Antes de 1979 se usaba \u00ab\u2113\u00bb que todav\u00eda est\u00e1 presente en el uso, aunque no en la norma. Es muy com\u00fan usar la abreviatura lts.; no obstante, esto no es lo correcto.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Il litro \u00e8 un'unit\u00e0 di misura del volume. Non \u00e8 un'unit\u00e0 del SI ma \u00e8 tuttora accettata a titolo transitorio. Riferendosi al SI, un litro equivale a 1 decimetro cubo (o meglio 10\u22123 m\u00b3).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "O litro \u00e9 uma unidade de medida de volume ou capacidade (simbolizada por l, L ou, de forma n\u00e3o-aprovada pelo BIPM ou pela CGPM, \u2113) que obedece ao sistema m\u00e9trico decimal e \u00e9 aceita pelo Sistema Internacional de Unidades, embora n\u00e3o seja uma de suas unidades oficiais. Corresponde \u00e0 quantidade de l\u00edquido que cabe exatamente dentro de um cubo com 1 dm de aresta, de modo que o cubo fique completamente cheio. O metro c\u00fabico (m\u00b3) \u00e9 a unidade oficial do SI para medidas de volume/capacidade.",
+                "lang": "pt"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/CubeLitre.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 745009006,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 18094,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/extralabel": [
+            {
+                "type": "literal",
+                "value": "In SI base units:",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/extradata": [
+            {
+                "type": "literal",
+                "value": 1,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/standard": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/SI_derived_unit"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Litre",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/SI"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Teralitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/L_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/BMW_Goldfish_V16": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/BMW_B37": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/BMW_B38": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rolls-Royce_Peregrine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Austin_18/24": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Armstrong_Siddeley_Panther": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Millilitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/McLaren_M838T_engine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nissan_ZD_engine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mercedes-Benz_OM648_engine": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Millilitres": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Milli-litre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hectolitres": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hectolitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kiloliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Petalitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u039cl": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Microlitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hectoliters": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/M\u2113": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u3395": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u3396": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u3397": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u3398": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Centilitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Decilitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gigalitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Picolitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Deciliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dm\u00b3": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nanoliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nanolitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hectoliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Megaliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Megalitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Centiliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cubic_decimeter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cubic_decimetre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Liter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Milliliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Femtoliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Litre_per_second": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ltr.": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Decalitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Litre_per_minute": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hektoliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Litres": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Liters": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Microliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Megalitres": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Millileter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Attolitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Exalitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Yoctolitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Yottalitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Zeptolitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Zettalitre": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Liter_(L)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Milliliters": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Attoliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Exaliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gigaliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Petaliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Picoliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Teraliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Yoctoliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Yottaliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Zeptoliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Zettaliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/1_liter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Deciliters": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Decilitres": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/L_(unit)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gigalitres": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Decaliter": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Exalitres": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Microlitres": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LTR": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Litre"
+            }
+        ]
+    }
+}

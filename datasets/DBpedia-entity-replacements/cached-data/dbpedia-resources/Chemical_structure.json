@@ -1,0 +1,359 @@
+{
+    "http://dbpedia.org/resource/Chemical_structure": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatChemicalStructures"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoGeoEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Structure104341686"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Artifact100021939"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Chemical structure",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u5316\u5b66\u69cb\u9020",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Chemische structuur",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Estrutura qu\u00edmica",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Chemische Struktur",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0628\u0646\u064a\u0629 \u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Estructura qu\u00edmica",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u043d\u0430\u044f \u0445\u0438\u043c\u0438\u044f",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Structure chimique",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "De chemische structuur van een stof wordt gevormd door de moleculaire geometrie (met behulp van onder andere de valentieschil-elektronenpaar-repulsie-theorie), elektronenconfiguratie en kristalstructuur. Moleculaire geometrie duidt op de ruimtelijke ordening van de atomen in een molecuul en de chemische bindingen, die de atomen bij elkaar houden. De moleculaire geometrie van een chemische stof kan zeer eenvoudig zijn, zoals bij dizuurstof- of distikstofmoleculen, tot zeer complex, zoals bij eiwit- of DNA-moleculen. Moleculaire geometrie kan (voornamelijk in de organische chemie) ruwweg weergegeven worden door de structuurformule. De elektronenconfiguratie van een atoom geeft aan hoe de elektronen verdeeld zijn over de discrete niveaus (orbitalen) in een atoom.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Die chemische Struktur gibt den Aufbau auf molekularer oder ionischer Ebene eines einheitlichen (homogenen) Stoffes wieder. Sie gibt an, wie Atome, Atomgruppen, Ionen und Bindungen bzw. freie Elektronenpaare r\u00e4umlich angeordnet sind. Im Einzelnen beschreiben die Konstitution, Konfiguration und Konformation den Aufbau molekularer und ein Kristallgitter den Aufbau ionischer Verbindungen. Zu ihrer Darstellung werden verschiedene chemische Formeln und Modelle, wie Kalottenmodelle oder Kugel-Stab-Modelle, verwendet. Information \u00fcber die Struktur einer Verbindung ist oft, entsprechend den Regeln der chemischen Nomenklatur, auch in ihrem Namen enthalten. Moderne Datenbanken arbeiten hingegen mit eindeutigen Strukturcodes wie InChI, SMILES oder WLN. Mit der Aufkl\u00e4rung der chemischen Struktur besch",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Estrutura qu\u00edmica refere-se tanto a geometria molecular quanto a estrutura eletr\u00f4nica. A geometria molecular refere-se ao arranjo espacial das massas em uma mol\u00e9cula e as liga\u00e7\u00f5es eletronicas que mant\u00e9m os \u00e1tomos separados. Geometria molecular pode variar das muito simples, tais como as mol\u00e9culas diat\u00f4micas do oxig\u00eanio ou hidrog\u00eanio, \u00e0s muito complexas, tais como mol\u00e9culas de canc\u00ear e DNA Geometria molecular pode ser por flexibilidade representada usando uma f\u00f3rmula estrutural. A estrutura de massa descreve a ocupa\u00e7\u00e3o dos orbitais que comp\u00f5e as c\u00e9lulas.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u043d\u0430\u044f \u0445\u0438\u043c\u0438\u044f \u2014 \u0440\u0430\u0437\u0434\u0435\u043b, \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0445\u0438\u043c\u0438\u0438, \u0438\u0437\u0443\u0447\u0430\u044e\u0449\u0430\u044f \u0441\u0432\u044f\u0437\u044c \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438 \u0444\u0438\u0437\u0438\u043a\u043e-\u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0432\u043e\u0439\u0441\u0442\u0432 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0432\u0435\u0449\u0435\u0441\u0442\u0432 \u0441 \u0438\u0445 \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435\u043c \u0438 \u0440\u0435\u0430\u043a\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e. \u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u043d\u0430\u044f \u0445\u0438\u043c\u0438\u044f \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0433\u0435\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435 \u043c\u043e\u043b\u0435\u043a\u0443\u043b; \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044e \u043f\u043e\u0434\u0432\u0435\u0440\u0433\u0430\u0435\u0442\u0441\u044f \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \u2014 \u0434\u043b\u0438\u043d\u044b \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0432\u044f\u0437\u0435\u0439, \u0432\u0430\u043b\u0435\u043d\u0442\u043d\u044b\u0435 \u0443\u0433\u043b\u044b, \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0447\u0438\u0441\u043b\u0430, \u043a\u043e\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0438 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u0438 \u043c\u043e\u043b\u0435\u043a\u0443\u043b; \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u0438\u0445 \u0432\u0437\u0430\u0438\u043c\u043d\u043e\u0433\u043e \u0432\u043b\u0438\u044f\u043d\u0438\u044f, \u0430\u0440\u043e\u043c\u0430\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Chemical structure) \u0647\u064a \u062a\u0631\u062a\u064a\u0628 \u0627\u0644\u0630\u0631\u0627\u062a \u0641\u064a \u0627\u0644\u062c\u0632\u064a\u0621, \u0648\u0639\u0627\u062f\u0629 \u0645\u0627 \u062a\u0643\u0648\u0646 \u0647\u0630\u0647 \u0627\u0644\u0630\u0631\u0627\u062a \u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0631\u0648\u0627\u0628\u0637 \u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0645\u062b\u0644 \u0627\u0644\u0631\u0627\u0628\u0637\u0629 \u0627\u0644\u062a\u0633\u0627\u0647\u0645\u064a\u0629. \u0648\u064a\u0645\u0643\u0646 \u0644\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0623\u0646 \u062a\u062a\u0631\u0627\u0648\u062d \u0645\u0646 \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u0628\u0633\u064a\u0637\u0629, \u0645\u062b\u0644 \u0627\u0644\u062c\u0632\u064a\u0626\u0627\u062a \u062b\u0646\u0627\u0626\u064a\u0629 \u0627\u0644\u0630\u0631\u0629 \u0645\u062b\u0644 \u062c\u0632\u064a\u0621 \u0627\u0644\u0623\u0643\u0633\u062c\u064a\u0646, \u0625\u0644\u0649 \u0627\u0644\u0628\u0646\u064a\u0629 \u0628\u0627\u0644\u063a\u0629 \u0627\u0644\u062a\u0639\u0642\u064a\u062f, \u0645\u062b\u0644 \u062c\u0632\u064a\u0621 \u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646. \u0648\u064a\u0645\u0643\u0646 \u062a\u0645\u062b\u064a\u0644 \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u0627\u0644\u0635\u064a\u063a \u0627\u0644\u0628\u0646\u0648\u064a\u0629. \u0645\u0646 \u0627\u0644\u0637\u0631\u0642 \u0627\u0644\u0634\u0627\u0626\u0639\u0629 \u0644\u062a\u062d\u062f\u064a\u062f \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u062d\u064a\u0648\u062f \u0627\u0644\u0623\u0634\u0639\u0629 \u0627\u0644\u0633\u064a\u0646\u064a\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u5316\u5b66\u69cb\u9020\uff08\u304b\u304c\u304f\u3053\u3046\u305e\u3046\u3001chemical structure\uff09\u3068\u306f\u3001\u7269\u8cea\u306e\u5316\u5b66\u7684\u6027\u8cea\u3092\u5206\u5b50\u306a\u3069\u306e\u5185\u90e8\u69cb\u9020\u3068\u95a2\u9023\u3055\u305b\u305f\u6982\u5ff5\u3067\u3042\u308a\u3001\u305d\u306e\u8868\u8a18\u65b9\u6cd5\u306f\u5316\u5b66\u5f0f\u3068\u3057\u3066\u8868\u3055\u308c\u308b\u3002\u5206\u5b50\u3092\u69cb\u6210\u3059\u308b\u69cb\u9020\u7684\u306a\u4f4d\u7f6e\u60c5\u5831\u3067\u3042\u308b\u5206\u5b50\u69cb\u9020\u306f\u5206\u5b50\u7acb\u4f53\u30e2\u30c7\u30eb\u3067\u8868\u3055\u308c\u308b\u3002 \u3059\u306a\u308f\u3061\u3001\u7279\u5b9a\u306e\u5316\u5b66\u7684\u6027\u8cea\u306f\u56fa\u6709\u306e\u5206\u5b50\u69cb\u9020\u306b\u8d77\u56e0\u3059\u308b\u3068\u3044\u3046\u5316\u5b66\u7684\u30d1\u30e9\u30c0\u30a4\u30e0\u304c\u5316\u5b66\u69cb\u9020\u3067\u3042\u308b\u3002\u305d\u308c\u6545\u3001\u5316\u5b66\u69cb\u9020\u306e\u8981\u7d20\u3067\u3042\u308b\u7279\u6027\u57fa\u3084\u5b98\u80fd\u57fa\u306f\u5316\u5b66\u7684\u6027\u8cea\u306e\u6982\u5ff5\u3068\u5bc6\u63a5\u306b\u95a2\u9023\u3057\u3066\u3044\u308b\u3002 \u4eca\u65e5\u306e\u5206\u5b50\u69cb\u9020\u6982\u5ff5\u306f\u3001\u91cf\u5b50\u529b\u5b66\u306b\u57fa\u3065\u3044\u3066\u5206\u5e03\u3059\u308b\u96fb\u5b50\u3068\u539f\u5b50\u6838\u306e\u914d\u7f6e\u3092\u5b9a\u5f0f\u5316\u3057\u305f\u5206\u5b50\u8ecc\u9053\u6cd5\u306e\u4e88\u6e2c\u7d50\u679c\u3068\u3057\u3066\u7406\u89e3\u3055\u308c\u3001\u500b\u3005\u306e\u5206\u5b50\u3084\u305d\u308c\u3092\u69cb\u6210\u3059\u308b\u539f\u5b50\u306e\u632f\u821e\u3092\u7814\u7a76\u3059\u308b\u5206\u5b50\u52d5\u529b\u5b66\u306f\u96fb\u5b50\u3068\u539f\u5b50\u6838\u3068\u306e\u9593\u306b\u751f\u3058\u308b\u9759\u96fb\u76f8\u4e92\u4f5c\u7528\u3092\u529b\u5b66\u7684\u306b\u89e3\u6790\u3059\u308b\u3001\u7269\u7406\u5b66\u306b\u7acb\u811a\u3057\u305f\u7269\u7406\u5316\u5b66\u7684\u306a\u5206\u5b50\u50cf\u3067\u3042\u308b\u3002 \u305d\u308c\u306b\u5bfe\u3057\u3066\u4eca\u65e5\u306e\u5fdc\u7528\u5316\u5b66\u3084\u7279\u306b\u6709\u6a5f\u5316\u5b66\u306e\u9818\u57df\u306b\u304a\u3044\u3066\u306f\u53b3\u5bc6\u306a\u5206\u5b50\u69cb\u9020\u3067\u306f\u306a\u304f\u5316\u5b66\u69cb\u9020\u3092\u4f7f\u3063\u3066\u5316\u5b66\u5909\u5316\u3084\u5316\u5b66\u7684\u6027\u8cea\u3092\u628a\u63e1\u3059\u308b\u5834\u9762\u304c\u591a\u3044\u3002\u3053\u308c\u306f\u5358\u306b\u69cb\u9020\u3092\u8868\u3057\u3066\u3044\u308b\u3060\u3051\u3067\u306f\u7121\u304f\u3001\u305d\u306e\u69cb\u9020\u304c\u6709\u3059\u308b\u5316\u5b66\u7684\u6027\u8cea\u3068\u305d\u306e\u7406\u8ad6\u7684\u80cc\u666f\u3092\u5177\u8c61\u5316\u3059\u308b\u3053\u3068\u304c\u3001\u305d\u306e\u7814\u7a76\u5bfe\u8c61\u3092\u8868\u73fe\u3059\u308b\u4e0a\u3067\u6709\u7528\u306a\u70ba\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La estructura qu\u00edmica de una sustancia qu\u00edmica aporta informaci\u00f3n sobre el modo en que se enlazan los diferentes \u00e1tomos o iones que forman una mol\u00e9cula, o agregado at\u00f3mico. Incluye la geometr\u00eda molecular, la configuraci\u00f3n electr\u00f3nica y, en su caso, la estructura cristalina . Una vez conocida o supuesta la estructura qu\u00edmica de una mol\u00e9cula es posible representarla mediante modelos como el modelo de barras y esferas o el modelo de espacio lleno.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "A chemical structure determination includes a chemist's specifying the molecular geometry and, when feasible and necessary, the electronic structure of the target molecule or other solid. Molecular geometry refers to the spatial arrangement of atoms in a molecule and the chemical bonds that hold the atoms together, and can be represented using structural formulae and by molecular models; complete electronic structure descriptions include specifying the occupation of a molecule's molecular orbitals. Structure determination can be applied to a range of targets from very simple molecules (e.g., diatomic oxygen or nitrogen), to very complex ones (e.g., such as of protein or DNA).",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "La structure chimique d'un syst\u00e8me r\u00e9f\u00e8re \u00e0 la fois \u00e0 sa topologie mol\u00e9culaire, \u00e0 sa g\u00e9om\u00e9trie (g\u00e9om\u00e9trie mol\u00e9culaire ou groupe d'espace pour un cristal) et \u00e0 sa structure \u00e9lectronique. La topologie d'un \u00e9difice mol\u00e9culaire d\u00e9signe l'enchainement des atomes et des liaisons qui les lient sans prendre en compte la g\u00e9om\u00e9trie (longueur des liaisons, angles de valence, angles di\u00e8dres). Dans le cas de syst\u00e8mes mol\u00e9culaires, on peut repr\u00e9senter la topologie en utilisant une formule d\u00e9velopp\u00e9e plane. M\u00e9thodes courantes de d\u00e9termination de la topologie (formules d\u00e9velopp\u00e9es) :",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.02dvkq"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u5316\u5b66\u69cb\u9020"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Chemical_structure"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Chemische_structuur"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chemical_structure"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Structure_chimique"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Chemische_Struktur"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Estructura_qu\u00edmica"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q500256"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q500256"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Estrutura_qu\u00edmica"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Chemistry"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Analytical_chemistry"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Chemical_structures"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Chemical_structure"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Chemical_structure?oldid=744404940"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.chem.uwec.edu/Chem406_F06/Pages/lecture_notes/lect07/C406-lect07-notes.pdf"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u5316\u5b66\u69cb\u9020\uff08\u304b\u304c\u304f\u3053\u3046\u305e\u3046\u3001chemical structure\uff09\u3068\u306f\u3001\u7269\u8cea\u306e\u5316\u5b66\u7684\u6027\u8cea\u3092\u5206\u5b50\u306a\u3069\u306e\u5185\u90e8\u69cb\u9020\u3068\u95a2\u9023\u3055\u305b\u305f\u6982\u5ff5\u3067\u3042\u308a\u3001\u305d\u306e\u8868\u8a18\u65b9\u6cd5\u306f\u5316\u5b66\u5f0f\u3068\u3057\u3066\u8868\u3055\u308c\u308b\u3002\u5206\u5b50\u3092\u69cb\u6210\u3059\u308b\u69cb\u9020\u7684\u306a\u4f4d\u7f6e\u60c5\u5831\u3067\u3042\u308b\u5206\u5b50\u69cb\u9020\u306f\u5206\u5b50\u7acb\u4f53\u30e2\u30c7\u30eb\u3067\u8868\u3055\u308c\u308b\u3002 \u3059\u306a\u308f\u3061\u3001\u7279\u5b9a\u306e\u5316\u5b66\u7684\u6027\u8cea\u306f\u56fa\u6709\u306e\u5206\u5b50\u69cb\u9020\u306b\u8d77\u56e0\u3059\u308b\u3068\u3044\u3046\u5316\u5b66\u7684\u30d1\u30e9\u30c0\u30a4\u30e0\u304c\u5316\u5b66\u69cb\u9020\u3067\u3042\u308b\u3002\u305d\u308c\u6545\u3001\u5316\u5b66\u69cb\u9020\u306e\u8981\u7d20\u3067\u3042\u308b\u7279\u6027\u57fa\u3084\u5b98\u80fd\u57fa\u306f\u5316\u5b66\u7684\u6027\u8cea\u306e\u6982\u5ff5\u3068\u5bc6\u63a5\u306b\u95a2\u9023\u3057\u3066\u3044\u308b\u3002 \u4eca\u65e5\u306e\u5206\u5b50\u69cb\u9020\u6982\u5ff5\u306f\u3001\u91cf\u5b50\u529b\u5b66\u306b\u57fa\u3065\u3044\u3066\u5206\u5e03\u3059\u308b\u96fb\u5b50\u3068\u539f\u5b50\u6838\u306e\u914d\u7f6e\u3092\u5b9a\u5f0f\u5316\u3057\u305f\u5206\u5b50\u8ecc\u9053\u6cd5\u306e\u4e88\u6e2c\u7d50\u679c\u3068\u3057\u3066\u7406\u89e3\u3055\u308c\u3001\u500b\u3005\u306e\u5206\u5b50\u3084\u305d\u308c\u3092\u69cb\u6210\u3059\u308b\u539f\u5b50\u306e\u632f\u821e\u3092\u7814\u7a76\u3059\u308b\u5206\u5b50\u52d5\u529b\u5b66\u306f\u96fb\u5b50\u3068\u539f\u5b50\u6838\u3068\u306e\u9593\u306b\u751f\u3058\u308b\u9759\u96fb\u76f8\u4e92\u4f5c\u7528\u3092\u529b\u5b66\u7684\u306b\u89e3\u6790\u3059\u308b\u3001\u7269\u7406\u5b66\u306b\u7acb\u811a\u3057\u305f\u7269\u7406\u5316\u5b66\u7684\u306a\u5206\u5b50\u50cf\u3067\u3042\u308b\u3002 \u305d\u308c\u306b\u5bfe\u3057\u3066\u4eca\u65e5\u306e\u5fdc\u7528\u5316\u5b66\u3084\u7279\u306b\u6709\u6a5f\u5316\u5b66\u306e\u9818\u57df\u306b\u304a\u3044\u3066\u306f\u53b3\u5bc6\u306a\u5206\u5b50\u69cb\u9020\u3067\u306f\u306a\u304f\u5316\u5b66\u69cb\u9020\u3092\u4f7f\u3063\u3066\u5316\u5b66\u5909\u5316\u3084\u5316\u5b66\u7684\u6027\u8cea\u3092\u628a\u63e1\u3059\u308b\u5834\u9762\u304c\u591a\u3044\u3002\u3053\u308c\u306f\u5358\u306b\u69cb\u9020\u3092\u8868\u3057\u3066\u3044\u308b\u3060\u3051\u3067\u306f\u7121\u304f\u3001\u305d\u306e\u69cb\u9020\u304c\u6709\u3059\u308b\u5316\u5b66\u7684\u6027\u8cea\u3068\u305d\u306e\u7406\u8ad6\u7684\u80cc\u666f\u3092\u5177\u8c61\u5316\u3059\u308b\u3053\u3068\u304c\u3001\u305d\u306e\u7814\u7a76\u5bfe\u8c61\u3092\u8868\u73fe\u3059\u308b\u4e0a\u3067\u6709\u7528\u306a\u70ba\u3067\u3042\u308b\u3002 \u5316\u5b66\u69cb\u9020\u8ad6\u306e\u539f\u70b9\u306f\u6709\u6a5f\u5316\u5b66\u306e\u9818\u57df\u3067\u306f\u30a2\u30a6\u30b0\u30b9\u30c8\u30fb\u30b1\u30af\u30ec\u3068\u30a2\u30fc\u30c1\u30dc\u30eb\u30c9\u30fb\u30af\u30fc\u30d1\u30fc\u304c\u78ba\u7acb\u3057\u305f\u69cb\u9020\u8ad6\u3067\u3042\u308a\u3001\u7121\u6a5f\u5316\u5b66\u306e\u9818\u57df\u3067\u306f\u30a2\u30eb\u30d5\u30ec\u30fc\u30c8\u30fb\u30f4\u30a7\u30eb\u30ca\u30fc\u306e\u914d\u4f4d\u8aac\u3067\u3042\u308b\u3002\u5316\u5b66\u69cb\u9020\u8ad6\u4ee5\u524d\u306e\u5316\u5b66\u306b\u304a\u3044\u3066\u306f\u3001\u5316\u5b66\u7684\u6027\u8cea\u306f\u7269\u8cea\u3092\u69cb\u6210\u3059\u308b\u5143\u7d20\u306e\u6210\u5206\u6bd4\u306b\u3088\u308a\u6c7a\u5b9a\u3065\u3051\u3089\u308c\u308b\u3068\u8003\u3048\u3089\u308c\u3066\u3044\u305f\u3002 \u3053\u308c\u3089\u306e\u5316\u5b66\u69cb\u9020\u306e\u7406\u8ad6\u304c\u3001\u4eca\u65e5\u306e\u3088\u3046\u306b\u5206\u5b50\u69cb\u9020\u3092\u539f\u5b50\u6838\u7269\u7406\u5b66\u3084\u91cf\u5b50\u529b\u5b66\u306e\u8af8\u6cd5\u5247\u304c\u78ba\u7acb\u3059\u308b\u4ee5\u524d\u306b\u6210\u7acb\u3057\u305f\u3053\u3068\u306f\u7279\u7b46\u306b\u5024\u3059\u308b\u3002\u3059\u306a\u308f\u3061\u3001\u5316\u5b66\u69cb\u9020\u306e\u7406\u8ad6\u306f\u539f\u5b50\u306e\u7269\u7406\u7684\u6319\u52d5\u304b\u3089\u6f14\u7e79\u7684\u306b\u5c0e\u304b\u308c\u305f\u3082\u306e\u3067\u306f\u306a\u304f\u3001\u5316\u5408\u7269\u3084\u53cd\u5fdc\u306b\u304a\u3051\u308b\u5316\u5b66\u7684\u6027\u8cea\u304b\u3089\u5e30\u7d0d\u7684\u306b\u5c0e\u304d\u51fa\u3055\u308c\u305f\u3082\u306e\u3067\u3042\u308b\u3002\u305d\u3057\u3066\u4eca\u65e5\u3067\u306f\u5316\u5b66\u69cb\u9020\u306e\u6982\u5ff5\u306f\u7269\u7406\u5316\u5b66\u7684\u306a\u8af8\u7406\u8ad6\u306b\u3088\u308a\u518d\u691c\u8a3c\u3055\u308c\u88dc\u6b63\u30fb\u767a\u5c55\u3057\u3066\u3044\u308b\u3002\u3053\u306e\u3088\u3046\u306b\u5316\u5b66\u7406\u8ad6\u3068\u7269\u7406\u7406\u8ad6\u306e\u7d71\u5408\u304c\u9032\u5c55\u3057\u305f\u7d50\u679c\u3001\u5316\u5b66\u69cb\u9020\u3068\u5206\u5b50\u69cb\u9020\u3068\u306f\u6982\u5ff5\u7684\u306b\u540c\u4e00\u8996\u3067\u304d\u308b\u307e\u3067\u306b\u306a\u3063\u3066\u304d\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Chemical structure) \u0647\u064a \u062a\u0631\u062a\u064a\u0628 \u0627\u0644\u0630\u0631\u0627\u062a \u0641\u064a \u0627\u0644\u062c\u0632\u064a\u0621, \u0648\u0639\u0627\u062f\u0629 \u0645\u0627 \u062a\u0643\u0648\u0646 \u0647\u0630\u0647 \u0627\u0644\u0630\u0631\u0627\u062a \u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0631\u0648\u0627\u0628\u0637 \u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0645\u062b\u0644 \u0627\u0644\u0631\u0627\u0628\u0637\u0629 \u0627\u0644\u062a\u0633\u0627\u0647\u0645\u064a\u0629. \u0648\u064a\u0645\u0643\u0646 \u0644\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0623\u0646 \u062a\u062a\u0631\u0627\u0648\u062d \u0645\u0646 \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u0628\u0633\u064a\u0637\u0629, \u0645\u062b\u0644 \u0627\u0644\u062c\u0632\u064a\u0626\u0627\u062a \u062b\u0646\u0627\u0626\u064a\u0629 \u0627\u0644\u0630\u0631\u0629 \u0645\u062b\u0644 \u062c\u0632\u064a\u0621 \u0627\u0644\u0623\u0643\u0633\u062c\u064a\u0646, \u0625\u0644\u0649 \u0627\u0644\u0628\u0646\u064a\u0629 \u0628\u0627\u0644\u063a\u0629 \u0627\u0644\u062a\u0639\u0642\u064a\u062f, \u0645\u062b\u0644 \u062c\u0632\u064a\u0621 \u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646. \u0648\u064a\u0645\u0643\u0646 \u062a\u0645\u062b\u064a\u0644 \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u0627\u0644\u0635\u064a\u063a \u0627\u0644\u0628\u0646\u0648\u064a\u0629. \u0645\u0646 \u0627\u0644\u0637\u0631\u0642 \u0627\u0644\u0634\u0627\u0626\u0639\u0629 \u0644\u062a\u062d\u062f\u064a\u062f \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u062d\u064a\u0648\u062f \u0627\u0644\u0623\u0634\u0639\u0629 \u0627\u0644\u0633\u064a\u0646\u064a\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "De chemische structuur van een stof wordt gevormd door de moleculaire geometrie (met behulp van onder andere de valentieschil-elektronenpaar-repulsie-theorie), elektronenconfiguratie en kristalstructuur. Moleculaire geometrie duidt op de ruimtelijke ordening van de atomen in een molecuul en de chemische bindingen, die de atomen bij elkaar houden. De moleculaire geometrie van een chemische stof kan zeer eenvoudig zijn, zoals bij dizuurstof- of distikstofmoleculen, tot zeer complex, zoals bij eiwit- of DNA-moleculen. Moleculaire geometrie kan (voornamelijk in de organische chemie) ruwweg weergegeven worden door de structuurformule. De elektronenconfiguratie van een atoom geeft aan hoe de elektronen verdeeld zijn over de discrete niveaus (orbitalen) in een atoom.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "A chemical structure determination includes a chemist's specifying the molecular geometry and, when feasible and necessary, the electronic structure of the target molecule or other solid. Molecular geometry refers to the spatial arrangement of atoms in a molecule and the chemical bonds that hold the atoms together, and can be represented using structural formulae and by molecular models; complete electronic structure descriptions include specifying the occupation of a molecule's molecular orbitals. Structure determination can be applied to a range of targets from very simple molecules (e.g., diatomic oxygen or nitrogen), to very complex ones (e.g., such as of protein or DNA). Theories of chemical structure were first developed by August Kekule, Archibald Scott Couper, and Aleksandr Butlerov, among others, from about 1858. These theories were first to state that chemical compounds are not a random cluster of atoms and functional groups, but rather had a definite order defined by the valency of the atoms composing the molecule, giving the molecules a three dimensional structure that could be determined or solved. In determining structures of chemical compounds, one generally aims to obtain, minimally, the pattern and multiplicity of bonding between all atoms in the molecule; when possible, one seeks the three dimensional spatial coordinates of the atoms in the molecule (or other solid). The methods by which one can elucidate the structure of a molecule include spectroscopies such as nuclear magnetic resonance (proton and carbon-13 NMR), various methods of mass spectrometry (to give overall molecular mass, as well as fragment masses), and x-ray crystallography when applicable. The last technique can produce three-dimensional models at atomic-scale resolution, as long as crystals are available. When a molecule has an unpaired electron spin in a functional group of its structure, ENDOR and electron-spin resonance spectroscopes may also be performed. Techniques such as absorption spectroscopy and the vibrational spectroscopies, infrared and Raman, provide, respectively, important supporting information about the numbers and adjacencies of multiple bonds, and about the types of functional groups (whose internal bonding gives vibrational signatures); further inferential studies that give insight into the contributing electronic structure of molecules include cyclic voltammetry and X-ray photoelectron spectroscopy. These latter techniques become all the more important when the molecules contain metal atoms, and when the crystals required by crystallography or the specific atom types that are required by NMR are unavailable to exploit in the structure determination. Finally, more specialized methods such as electron microscopy are also applicable in some cases.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Estrutura qu\u00edmica refere-se tanto a geometria molecular quanto a estrutura eletr\u00f4nica. A geometria molecular refere-se ao arranjo espacial das massas em uma mol\u00e9cula e as liga\u00e7\u00f5es eletronicas que mant\u00e9m os \u00e1tomos separados. Geometria molecular pode variar das muito simples, tais como as mol\u00e9culas diat\u00f4micas do oxig\u00eanio ou hidrog\u00eanio, \u00e0s muito complexas, tais como mol\u00e9culas de canc\u00ear e DNA Geometria molecular pode ser por flexibilidade representada usando uma f\u00f3rmula estrutural. A estrutura de massa descreve a ocupa\u00e7\u00e3o dos orbitais que comp\u00f5e as c\u00e9lulas. Essa estrutura \u00e9 long\u00e2nima e inoc\u00eantrica que corresponde as c\u00e9lulas compostas por mitose e meiose tamb\u00e9m .",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Die chemische Struktur gibt den Aufbau auf molekularer oder ionischer Ebene eines einheitlichen (homogenen) Stoffes wieder. Sie gibt an, wie Atome, Atomgruppen, Ionen und Bindungen bzw. freie Elektronenpaare r\u00e4umlich angeordnet sind. Im Einzelnen beschreiben die Konstitution, Konfiguration und Konformation den Aufbau molekularer und ein Kristallgitter den Aufbau ionischer Verbindungen. Zu ihrer Darstellung werden verschiedene chemische Formeln und Modelle, wie Kalottenmodelle oder Kugel-Stab-Modelle, verwendet. Information \u00fcber die Struktur einer Verbindung ist oft, entsprechend den Regeln der chemischen Nomenklatur, auch in ihrem Namen enthalten. Moderne Datenbanken arbeiten hingegen mit eindeutigen Strukturcodes wie InChI, SMILES oder WLN. Mit der Aufkl\u00e4rung der chemischen Struktur besch\u00e4ftigt sich die Strukturchemie.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "La structure chimique d'un syst\u00e8me r\u00e9f\u00e8re \u00e0 la fois \u00e0 sa topologie mol\u00e9culaire, \u00e0 sa g\u00e9om\u00e9trie (g\u00e9om\u00e9trie mol\u00e9culaire ou groupe d'espace pour un cristal) et \u00e0 sa structure \u00e9lectronique. La topologie d'un \u00e9difice mol\u00e9culaire d\u00e9signe l'enchainement des atomes et des liaisons qui les lient sans prendre en compte la g\u00e9om\u00e9trie (longueur des liaisons, angles de valence, angles di\u00e8dres). Dans le cas de syst\u00e8mes mol\u00e9culaires, on peut repr\u00e9senter la topologie en utilisant une formule d\u00e9velopp\u00e9e plane. La g\u00e9om\u00e9trie correspond \u00e0 l'organisation spatiale des atomes dans le syst\u00e8me. Elle peut \u00eatre extr\u00eamement simple, comme pour les cristaux monoatomiques cubiques, ou les mol\u00e9cules diatomiques, ou au contraire tr\u00e8s complexe, comme pour les prot\u00e9ines ou les macromol\u00e9cules de type ADN. Dans le cas mol\u00e9culaire, on peut repr\u00e9senter sommairement cette g\u00e9om\u00e9trie en utilisant des formules d\u00e9velopp\u00e9es avec des conventions de repr\u00e9sentation (par exemple les projections de Fisher ou de Newman pour des mol\u00e9cules organiques). La structure \u00e9lectronique correspond quant \u00e0 elle au peuplement des orbitales \u00e9lectroniques (mol\u00e9culaires, ou bandes \u00e9lectroniques). M\u00e9thodes courantes de d\u00e9termination de la topologie (formules d\u00e9velopp\u00e9es) : \n*  spectrom\u00e9trie de masse ; \n*  spectroscopie infrarouge ; \n*  r\u00e9sonance magn\u00e9tique nucl\u00e9aire du proton ou du carbone 13. M\u00e9thodes courantes de d\u00e9termination de la g\u00e9om\u00e9trie : \n*  r\u00e9sonance magn\u00e9tique nucl\u00e9aire du proton ou du carbone 13 ; \n*  spectroscopie infrarouge ; \n*  diffractom\u00e9trie de rayons X. M\u00e9thodes courantes de d\u00e9termination de la structure \u00e9lectronique : \n*  voltamp\u00e9rom\u00e9trie cyclique ; \n*  r\u00e9sonance \u00e9lectron-spin ; \n*  spectroscopie d'absorption d'\u00e9lectrons.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "La estructura qu\u00edmica de una sustancia qu\u00edmica aporta informaci\u00f3n sobre el modo en que se enlazan los diferentes \u00e1tomos o iones que forman una mol\u00e9cula, o agregado at\u00f3mico. Incluye la geometr\u00eda molecular, la configuraci\u00f3n electr\u00f3nica y, en su caso, la estructura cristalina . La geometr\u00eda molecular se refiere a la ordenaci\u00f3n espacial de los \u00e1tomos en una mol\u00e9cula (incluyendo distancias de enlace y \u00e1ngulos de enlace) y los enlaces qu\u00edmicos que mantienen unidos a los \u00e1tomos. La geometr\u00eda molecular debe explicar la forma de las mol\u00e9culas m\u00e1s simples como las de ox\u00edgeno o nitr\u00f3geno diat\u00f3micos, hasta las m\u00e1s complejas, como una mol\u00e9cula de prote\u00edna o de ADN. Con este t\u00e9rmino tambi\u00e9n podemos referirnos a estructuras donde no existen mol\u00e9culas propiamente dichas. Los compuestos i\u00f3nicos o covalentes no forman mol\u00e9culas sino redes tridimensionales, enormes agregados de \u00e1tomos o iones, con una estructura regular, sim\u00e9trica y peri\u00f3dica. Una vez conocida o supuesta la estructura qu\u00edmica de una mol\u00e9cula es posible representarla mediante modelos como el modelo de barras y esferas o el modelo de espacio lleno.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u043d\u0430\u044f \u0445\u0438\u043c\u0438\u044f \u2014 \u0440\u0430\u0437\u0434\u0435\u043b, \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0445\u0438\u043c\u0438\u0438, \u0438\u0437\u0443\u0447\u0430\u044e\u0449\u0430\u044f \u0441\u0432\u044f\u0437\u044c \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438 \u0444\u0438\u0437\u0438\u043a\u043e-\u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0432\u043e\u0439\u0441\u0442\u0432 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0432\u0435\u0449\u0435\u0441\u0442\u0432 \u0441 \u0438\u0445 \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435\u043c \u0438 \u0440\u0435\u0430\u043a\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e. \u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u043d\u0430\u044f \u0445\u0438\u043c\u0438\u044f \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0433\u0435\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435 \u043c\u043e\u043b\u0435\u043a\u0443\u043b; \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044e \u043f\u043e\u0434\u0432\u0435\u0440\u0433\u0430\u0435\u0442\u0441\u044f \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \u2014 \u0434\u043b\u0438\u043d\u044b \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0432\u044f\u0437\u0435\u0439, \u0432\u0430\u043b\u0435\u043d\u0442\u043d\u044b\u0435 \u0443\u0433\u043b\u044b, \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0447\u0438\u0441\u043b\u0430, \u043a\u043e\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0438 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u0438 \u043c\u043e\u043b\u0435\u043a\u0443\u043b; \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u0438\u0445 \u0432\u0437\u0430\u0438\u043c\u043d\u043e\u0433\u043e \u0432\u043b\u0438\u044f\u043d\u0438\u044f, \u0430\u0440\u043e\u043c\u0430\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c.",
+                "lang": "ru"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744404940,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 474009,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chemical_structure_identification": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chemical_structure"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Chemical_structure": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chemical_structure"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Structural_elucidation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chemical_structure"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Michael_Levitt": {
+        "http://dbpedia.org/ontology/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chemical_structure"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Structure_determination": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chemical_structure"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Structural_determination": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chemical_structure"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Structure_elucidation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chemical_structure"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Structure_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chemical_structure"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Molecular_conformation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chemical_structure"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Identification_(chemistry)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chemical_structure"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chemical_structure_determination": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chemical_structure"
+            }
+        ]
+    }
+}

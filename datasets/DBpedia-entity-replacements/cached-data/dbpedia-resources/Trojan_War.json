@@ -1,0 +1,598 @@
+{
+    "http://dbpedia.org/resource/Trojan_War": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/MilitaryAction100952963"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Conflict100958896"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/GroupAction101080366"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatWarsInvolvingAncientGreece"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Event100029378"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatSieges"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/War100973077"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Act100030358"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Siege101075117"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Blockade100954086"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Guerra di Troia",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Trojan War",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0440\u043e\u044f\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0439\u043d\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Trojanischer Krieg",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u30c8\u30ed\u30a4\u30a2\u6226\u4e89",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u062d\u0635\u0627\u0631 \u0637\u0631\u0648\u0627\u062f\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u7279\u6d1b\u4f0a\u6218\u4e89",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Guerra de Troia",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Guerra de Troya",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Trojaanse Oorlog",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Guerre de Troie",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Wojna troja\u0144ska",
+                "lang": "pl"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u30c8\u30ed\u30a4\u30a2\u6226\u4e89\uff08\u03a4\u03c1\u03c9\u03b9\u03ba\u03cc\u03c2 \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf\u03c2, \u82f1\u8a9e Trojan War\uff09\u3068\u306f\u3001\u5c0f\u30a2\u30b8\u30a2\u306e\u30c8\u30ed\u30a4\u30a2\u306b\u5bfe\u3057\u3066\u3001\u30df\u30e5\u30b1\u30fc\u30ca\u30a4\u3092\u4e2d\u5fc3\u3068\u3059\u308b\u30a2\u30ab\u30a4\u30a2\u4eba\u306e\u9060\u5f81\u8ecd\u304c\u884c\u3063\u305f\u30ae\u30ea\u30b7\u30a2\u795e\u8a71\u4e0a\u306e\u6226\u4e89\u3067\u3042\u308b\u3002 \u30c8\u30ed\u30a4\u30a2\u3001\u3042\u308b\u3044\u306f\u30c8\u30ed\u30fc\u30a2\u30b9\u3068\u3044\u3046\u547c\u79f0\u306f\u3001\u5f8c\u306e\u6642\u4ee3\u306b\u30a4\u30fc\u30ea\u30aa\u30b9\u4e00\u5e2f\u306e\u5730\u57df\u306b\u3064\u3051\u3089\u308c\u305f\u3082\u306e\u3067\u3042\u308b\u3002\u3053\u306e\u6226\u5f79\u306f\u3001\u53e4\u4ee3\u30ae\u30ea\u30b7\u30a2\u306b\u304a\u3044\u3066\u3001\u30db\u30e1\u30fc\u30ed\u30b9\u306e\u82f1\u96c4\u53d9\u4e8b\u8a69\u300e\u30a4\u30fc\u30ea\u30a2\u30b9\u300f\u3001\u300e\u30aa\u30c7\u30e5\u30c3\u30bb\u30a4\u30a2\u300f\u306e\u307b\u304b\u3001\u300e\u30ad\u30e5\u30d7\u30ea\u30a2\u300f\u3001\u300e\u30a2\u30a4\u30c6\u30a3\u30aa\u30d4\u30b9\u300f\u3001\u300e\u30a4\u30fc\u30ea\u30aa\u30b9\u306e\u9665\u843d\u300f\u306a\u3069\u304b\u3089\u6210\u308b\u4e00\u5927\u53d9\u4e8b\u8a69\u74b0\u3092\u69cb\u6210\u3057\u305f\u3002\u307e\u305f\u30a6\u30a7\u30eb\u30ae\u30ea\u30a6\u30b9\u306f\u30c8\u30ed\u30a4\u30a2\u6ec5\u4ea1\u5f8c\u306e\u30a2\u30a4\u30cd\u30a4\u30a2\u30fc\u30b9\u306e\u904d\u6b74\u3092\u300e\u30a2\u30a8\u30cd\u30fc\u30a4\u30b9\u300f\u306b\u3066\u63cf\u3044\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La guerre de Troie est un conflit l\u00e9gendaire de la mythologie grecque, dont l'historicit\u00e9 est controvers\u00e9e. Elle est parfois appel\u00e9e Deuxi\u00e8me guerre de Troie en r\u00e9f\u00e9rence \u00e0 l'exp\u00e9dition men\u00e9e contre la cit\u00e9 par H\u00e9racl\u00e8s apr\u00e8s la qu\u00eate de la Toison d'or que certains nomment Premi\u00e8re guerre de Troie.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "(\"Fall of Troy\" redirects here. For the American band, see The Fall of Troy.) In Greek mythology, the Trojan War was waged against the city of Troy by the Achaeans (Greeks) after Paris of Troy took Helen from her husband Menelaus, king of Sparta. The war is one of the most important events in Greek mythology and has been narrated through many works of Greek literature, most notably through Homer's Iliad. The Iliad relates four days in the tenth year of the decade-long siege of Troy; the Odyssey describes the journey home of Odysseus, one of the war's heroes. Other parts of the war are described in a cycle of epic poems, which have survived through fragments. Episodes from the war provided material for Greek tragedy and other works of Greek literature, and for Roman poets including Virgil a",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "De Trojaanse Oorlog is een gebeurtenis die een centrale rol speelt in de Griekse mythologie. Een groot deel van de mythologische verhalen houdt op een of andere wijze verband met deze oorlog. Homerus' boek de Ilias (\u1f3c\u03bb\u03b9\u03bf\u03bd = Troje) is een epos, dat een episode uit het laatste jaar van de tien jaar durende oorlog tegen Troje beschrijft. Een coalitie van Grieken, die Homerus Achae\u00ebrs noemt, zou onder leiding van koning Agamemnon Troje hebben belegerd en ingenomen. De Trojanen noemt hij Dardanoi (\u0394\u03ac\u03c1\u03b4\u03b1\u03bd\u03bf\u03b9).",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u7279\u6d1b\u4f0a\u6218\u4e89\uff08Trojan war)\u4ee5\u8377\u9a6c\u53f2\u8bd7\u4e4b\u4f0a\u91cc\u4e9e\u5fb7\u70ba\u4e2d\u5fc3\uff0c\u52a0\u4e0a\u7d22\u798f\u514b\u52d2\u65af\u7684\u60b2\u5287\u57c3\u963f\u65af\u3001\u83f2\u6d1b\u514b\u5fd2\u5fd2\u65af\uff0c\u6b50\u91cc\u5e87\u5f97\u65af\u7684\u60b2\u5287\u5728\u9676\u91cc\u65af\u7684\u4f0a\u83f2\u9769\u6d85\u4e9a\u3001\u5b89\u5fb7\u6d1b\u739b\u523b\u3001\u8d6b\u5361\u67cf\uff0c\u7dad\u5409\u723e\u7684\u53f2\u8a69\u57c3\u6d85\u963f\u65af\u7d00\u3001\u5967\u7dad\u5fb7\u7b49\u591a\u90e8\u8457\u4f5c\u800c\u6210\uff0c\u6545\u4e8b\u8a73\u7ec6\u5730\u63cf\u8ff0\u4e86\u7279\u6d1b\u4f0a\u6218\u4e89\u7684\u60c5\u51b5\u3002 \u7279\u6d1b\u4f0a\u6230\u722d\u662f\u4ee5\u722d\u596a\u4e16\u4e0a\u6700\u6f02\u4eae\u7684\u5973\u4eba\u6d77\u502b\u70ba\u4e2d\u5fc3\uff0c\u9053\u51fa\u4ee5\u963f\u4f3d\u95e8\u519c\u53ca\u963f\u5580\u7409\u65af\u70ba\u9996\u7684\u5e0c\u81d8\u806f\u5408\u9060\u5f81\u8ecd\u9032\u653b\u4ee5\u5e15\u91cc\u65af\u53ca\u8d6b\u514b\u6258\u8033\u70ba\u9996\u7684\u7279\u6d1b\u4f0a\u8ecd\u7684\u5341\u5e74\u653b\u57ce\u6230\u3002 \u73b0\u4ee3\u8003\u53e4\u548c\u5386\u53f2\u7814\u7a76\u5728\u5c0d\u7279\u6d1b\u4f0a\u7684\u300c\u795e\u8a71\u300d\u300c\u50b3\u8aaa\u300d\u5e7e\u767e\u5e74\u7684\u5632\u8af7\u548c\u5ffd\u7565\u4e4b\u5f8c\uff0c\u8bc1\u5b9e\u7279\u6d1b\u4f0a\u548c\u7279\u6d1b\u4f0a\u6218\u4e89\u7684\u786e\u5b58\u5728\u3002\u4f46\u73fe\u4ee3\u79d1\u5b78\u5426\u8a8d\u7279\u6d1b\u4f0a\u6218\u4e89\u662f\u5982\u5e7e\u5343\u5e74\u524d\u8377\u9a6c\u53f2\u8bd7\u4e2d\u8a18\u8f09\u7684\u4e00\u5834\u590d\u4ec7\u6218\u4e89\uff0c\u800c\u662f\u53e4\u5e0c\u814a\u4e3a\u4e89\u593a\u7279\u6d1b\u4f0a\u7684\u91cd\u8981\u5730\u7406\u4f4d\u7f6e\u548c\u8d38\u6613\u6743\u76ca\u8054\u5408\u8d6b\u68af\u53d1\u52a8\u7684\u4fb5\u7565\u6218\u4e89\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0440\u043e\u044f\u0301\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0439\u043d\u0430\u0301 \u2014 \u0432\u043e\u0439\u043d\u0430, \u0441\u043a\u0430\u0437\u0430\u043d\u0438\u044f \u043e \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0431\u044b\u043b\u0438 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u044b \u0432 \u0433\u0440\u0435\u0447\u0435\u0441\u043a\u043e\u043c \u043d\u0430\u0440\u043e\u0434\u0435 \u0435\u0449\u0451 \u0434\u043e \u0441\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0413\u043e\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u044d\u043f\u043e\u0441\u0430: \u0430\u0432\u0442\u043e\u0440 \u043f\u0435\u0440\u0432\u043e\u0439 \u0440\u0430\u043f\u0441\u043e\u0434\u0438\u0438 \u00ab\u0418\u043b\u0438\u0430\u0434\u044b\u00bb \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442 \u0432 \u0441\u0432\u043e\u0438\u0445 \u0441\u043b\u0443\u0448\u0430\u0442\u0435\u043b\u044f\u0445 \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0435 \u0437\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u043e \u0441 \u0446\u0438\u043a\u043b\u043e\u043c \u044d\u0442\u0438\u0445 \u0441\u043a\u0430\u0437\u0430\u043d\u0438\u0439 \u0438 \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0442\u043e, \u0447\u0442\u043e \u0410\u0445\u0438\u043b\u043b, \u0410\u0442\u0440\u0435\u0439, \u041e\u0434\u0438\u0441\u0441\u0435\u0439, \u0410\u044f\u043a\u0441 \u0412\u0435\u043b\u0438\u043a\u0438\u0439, \u0410\u044f\u043a\u0441 \u041c\u0430\u043b\u044b\u0439, \u0413\u0435\u043a\u0442\u043e\u0440 \u0443\u0436\u0435 \u0437\u043d\u0430\u043a\u043e\u043c\u044b \u0438\u043c.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Der Trojanische Krieg ist ein zentrales Ereignis der griechischen und der r\u00f6mischen Mythologie. Homers Ilias schildert entscheidende Kriegsszenen w\u00e4hrend der Belagerung der Stadt Troja (Ilion) durch das Heer der Griechen, die in der Ilias Achaier genannt werden. Dabei wird insgesamt allerdings nur von 51 Tagen der zehnj\u00e4hrigen Belagerung berichtet. Andere Ereignisse sind durch andere Epen innerhalb des sogenannten epischen Zyklus \u00fcberliefert.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Nella mitologia greca, la guerra di Troia fu una sanguinosa guerra combattuta tra gli Achei e la potente citt\u00e0 di Troia, presumibilmente attorno al 1250 a.C. o al 1194 a.C., nell'odierna Turchia. Gli eventi del conflitto sono noti principalmente attraverso i poemi epici Iliade ed Odissea di Omero, composti intorno al IX secolo a.C. Entrambi narrano una piccola parte del conflitto: l'Iliade i fatti avvenuti durante l'ultimo anno di guerra, l'Odissea, oltre al viaggio di Ulisse per tornare in patria, narra la conquista di Troia. Le altre opere del \"Ciclo Troiano\" sono andate perdute e sono conosciute solo tramite testimonianze posteriori. Singoli episodi sono infatti descritti in innumerevoli testi della letteratura greca e latina, e dipinti o scolpiti in numerose opere d'arte.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "En la mitolog\u00eda griega, la guerra de Troya fue un conflicto b\u00e9lico en el que se enfrentaron una coalici\u00f3n de ej\u00e9rcitos aqueos contra la ciudad de Troya (tambi\u00e9n llamada Ili\u00f3n y ubicada en Asia Menor) y sus aliados. Seg\u00fan Homero, se tratar\u00eda de una expedici\u00f3n de castigo por parte de los aqueos, cuyo casus belli habr\u00eda sido el rapto (o fuga) de Helena de Esparta por el pr\u00edncipe Paris de Troya.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "A Guerra de Troia AO 1990  foi um grande conflito b\u00e9lico entre gregos e troianos, possivelmente ocorrido entre 1300 a.C. e 1200 a.C. (fim da Idade do Bronze no Mediterr\u00e2neo).",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Wojna troja\u0144ska \u2013 wed\u0142ug Homera i antycznych historyk\u00f3w trwaj\u0105ce 10 lat obl\u0119\u017cenie Troi przez greckich Achaj\u00f3w. Mitycznym powodem konfliktu by\u0142o porwanie Heleny, \u017cony kr\u00f3la Sparty \u2013 Menelaosa, przez Parysa, ksi\u0119cia troja\u0144skiego, syna kr\u00f3la Priama. Menelaos wezwa\u0142 na pomoc swojego jedynego brata Agamemnona, kr\u00f3la Argos i Myken oraz wszystkie ksi\u0119stwa achajskie. Na le\u017c\u0105c\u0105 w p\u00f3\u0142nocnej Anatolii i dot\u0105d niezdobyt\u0105 Troj\u0119, na 1185 okr\u0119tach ruszyli wojownicy achajscy. Wed\u0142ug historyk\u00f3w zdobycie Troi przez Achaj\u00f3w mia\u0142o miejsce ok. 1200 r. p.n.e.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u062d\u0631\u0628 \u0637\u0631\u0648\u0627\u062f\u0629 \u0623\u0648 \u062d\u0635\u0627\u0631 \u0637\u0631\u0648\u062f\u0627\u0629\u060c \u0627\u0644\u062a\u064a \u0643\u0627\u0646\u062a \u0628\u064a\u0646 \u0627\u0644\u0625\u062e\u0627\u0626\u064a\u064a\u0646 \u0627\u0644\u0625\u063a\u0631\u064a\u0642 \u0627\u0644\u0630\u064a\u0646 \u062d\u0627\u0635\u0631\u0648\u0627 \u0645\u062f\u064a\u0646\u0629 \u0637\u0631\u0648\u0627\u062f\u0629 \u0648\u0623\u0647\u0644\u0647\u0627 \u0648\u062f\u0627\u0645\u062a \u0639\u0634\u0631 \u0633\u0646\u064a\u0646\u060c \u0648\u0627\u062d\u062f\u0629 \u0645\u0646 \u0623\u0634\u0647\u0631 \u0627\u0644\u062d\u0631\u0648\u0628 \u0641\u064a \u0627\u0644\u062a\u0627\u0631\u064a\u062e \u0648\u0630\u0644\u0643 \u0644\u062e\u0644\u0648\u062f\u0647\u0627 \u0641\u064a \u0645\u0644\u062d\u0645\u062a\u064a \u0647\u0648\u0645\u064a\u0631\u0648\u0633 \u0627\u0644\u0625\u0644\u064a\u0627\u0630\u0629 \u0648\u0627\u0644\u0623\u0648\u062f\u064a\u0633\u0629 \u0627\u0644\u0644\u062a\u0627\u0646 \u062a\u062d\u062f\u062b\u062a\u0627 \u0639\u0646 \u0628\u0639\u0636 \u0623\u062d\u062f\u0627\u062b \u062d\u0631\u0628 \u0637\u0631\u0648\u0627\u062f\u0629\u060c \u0641\u0641\u064a \u0627\u0644\u0625\u0644\u064a\u0627\u0630\u0629 \u0631\u0648\u064a\u062a \u0623\u062d\u062f\u0627\u062b \u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u062a\u0627\u0633\u0639\u0629 \u0645\u0646 \u0627\u0644\u062d\u0631\u0628 \u0648\u0647\u064a \u0633\u0646\u0629 \u063a\u0636\u0628 \u0622\u062e\u064a\u0644\u060c \u0648\u0641\u064a \u0627\u0644\u0623\u0648\u062f\u064a\u0633\u0629 \u062d\u064f\u0643\u064a\u062a \u0627\u0644\u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0623\u062d\u062f\u0627\u062b \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0644\u0644\u062d\u0631\u0628 \u0625\u0628\u0627\u0646 \u0631\u0648\u0627\u064a\u0629 \u062d\u0643\u0627\u064a\u0629 \u0639\u0648\u062f\u0629 \u0623\u0648\u062f\u064a\u0633\u064a\u0648\u0633 \u0645\u0644\u0643 \u0625\u064a\u062b\u0627\u0643\u0627 \u0648\u0623\u062d\u062f \u0627\u0644\u0642\u0627\u062f\u0629 \u0641\u064a \u062d\u0631\u0628 \u0637\u0631\u0648\u0627\u062f\u0629.",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Historicity_of_the_Iliad"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Wojna_troja\u0144ska"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4060976-5"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Trojan_War"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Guerra_de_Troia"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Trojsk\u00e1_v\u00e1lka"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Trojaanse_Oorlog"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q42937"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Perang_Troya"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Guerra_di_Troia"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q42937"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Trojanischer_Krieg"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30c8\u30ed\u30a4\u30a2\u6226\u4e89"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.07dg1"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Guerra_de_Troya"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ud2b8\ub85c\uc774\uc544_\uc804\uc7c1"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a4\u03c1\u03c9\u03b9\u03ba\u03cc\u03c2_\u03c0\u03cc\u03bb\u03b5\u03bc\u03bf\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Guerre_de_Troie"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Troiako_gerra"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Trojans"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Military_deception"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:War_in_mythology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Trojan_War"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:1180s_BC"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:People_of_the_Trojan_War"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/J_G_Trautmann_Das_brennende_Troja.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Trojan_War"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Trojan_War?oldid=742394540"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.iliadtranslation.com/Trojan_War.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.archaeology.org/0405/etc/troy.html/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.uni-koeln.de/phil-fak/ifa/zpe/downloads/2000/133pdf/133007.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.perseus.tufts.edu/cgi-bin/ptext?lookup=Hdt.+1.1.0"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.perseus.tufts.edu/cgi-bin/ptext?lookup=Eur.+Hec.+1"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.perseus.tufts.edu/cgi-bin/ptext?lookup=Eur.+Hel.+1"
+            },
+            {
+                "type": "uri",
+                "value": "http://omacl.org/Troy/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.perseus.tufts.edu/cgi-bin/ptext?lookup=Eur.+Andr.+1"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.perseus.tufts.edu/cgi-bin/ptext?lookup=Apollod.+1.1.1"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.salimbeti.com/micenei/war.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.perseus.tufts.edu/cgi-bin/ptext?lookup=Strab.+6.1.1"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.perseus.tufts.edu/cgi-bin/ptext?lookup=Paus.+1.1.1"
+            },
+            {
+                "type": "uri",
+                "value": "http://homepage.mac.com/cparada/GML/TrojanWar.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://homepage.mac.com/cparada/GML/"
+            },
+            {
+                "type": "uri",
+                "value": "http://sunsite.berkeley.edu/OMACL/Hesiod/cypria.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.stanford.edu/~plomio/history.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bbc.co.uk/programmes/b01j6srl"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.stoa.org/hopper/text.jsp?doc=Stoa:text:2003.01.0004"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.mala.bc.ca/~johnstoi/clas101/troy.HTM"
+            },
+            {
+                "type": "uri",
+                "value": "http://projectsx.dartmouth.edu/classics/history/bronze_age/lessons/les/27.html"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u0422\u0440\u043e\u044f\u0301\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0439\u043d\u0430\u0301 \u2014 \u0432\u043e\u0439\u043d\u0430, \u0441\u043a\u0430\u0437\u0430\u043d\u0438\u044f \u043e \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0431\u044b\u043b\u0438 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u044b \u0432 \u0433\u0440\u0435\u0447\u0435\u0441\u043a\u043e\u043c \u043d\u0430\u0440\u043e\u0434\u0435 \u0435\u0449\u0451 \u0434\u043e \u0441\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0413\u043e\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u044d\u043f\u043e\u0441\u0430: \u0430\u0432\u0442\u043e\u0440 \u043f\u0435\u0440\u0432\u043e\u0439 \u0440\u0430\u043f\u0441\u043e\u0434\u0438\u0438 \u00ab\u0418\u043b\u0438\u0430\u0434\u044b\u00bb \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442 \u0432 \u0441\u0432\u043e\u0438\u0445 \u0441\u043b\u0443\u0448\u0430\u0442\u0435\u043b\u044f\u0445 \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0435 \u0437\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u043e \u0441 \u0446\u0438\u043a\u043b\u043e\u043c \u044d\u0442\u0438\u0445 \u0441\u043a\u0430\u0437\u0430\u043d\u0438\u0439 \u0438 \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0442\u043e, \u0447\u0442\u043e \u0410\u0445\u0438\u043b\u043b, \u0410\u0442\u0440\u0435\u0439, \u041e\u0434\u0438\u0441\u0441\u0435\u0439, \u0410\u044f\u043a\u0441 \u0412\u0435\u043b\u0438\u043a\u0438\u0439, \u0410\u044f\u043a\u0441 \u041c\u0430\u043b\u044b\u0439, \u0413\u0435\u043a\u0442\u043e\u0440 \u0443\u0436\u0435 \u0437\u043d\u0430\u043a\u043e\u043c\u044b \u0438\u043c. \u0420\u0430\u0437\u0440\u043e\u0437\u043d\u0435\u043d\u043d\u044b\u0435 \u0447\u0430\u0441\u0442\u0438 \u044d\u0442\u043e\u0433\u043e \u0441\u043a\u0430\u0437\u0430\u043d\u0438\u044f \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u0430\u0442 \u0440\u0430\u0437\u043d\u044b\u043c \u0432\u0435\u043a\u0430\u043c \u0438 \u0430\u0432\u0442\u043e\u0440\u0430\u043c \u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442 \u0441\u043e\u0431\u043e\u044e \u0445\u0430\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0441\u043c\u0435\u0441\u044c, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u0440\u0430\u0432\u0434\u0430 \u043d\u0435\u0437\u0430\u043c\u0435\u0442\u043d\u044b\u043c\u0438 \u043d\u0438\u0442\u044f\u043c\u0438 \u0441\u0432\u044f\u0437\u0430\u043d\u0430 \u0441 \u043c\u0438\u0444\u043e\u043c. \u0421 \u0442\u0435\u0447\u0435\u043d\u0438\u0435\u043c \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0436\u0435\u043b\u0430\u043d\u0438\u0435 \u0432\u043e\u0437\u0431\u0443\u0434\u0438\u0442\u044c \u0438\u043d\u0442\u0435\u0440\u0435\u0441 \u0432 \u0441\u043b\u0443\u0448\u0430\u0442\u0435\u043b\u0435 \u043d\u043e\u0432\u0438\u0437\u043d\u043e\u0439 \u0441\u044e\u0436\u0435\u0442\u0430 \u043f\u043e\u0431\u0443\u0436\u0434\u0430\u043b\u043e \u043f\u043e\u044d\u0442\u043e\u0432 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u0432\u0441\u0451 \u043d\u043e\u0432\u044b\u0445 \u0433\u0435\u0440\u043e\u0435\u0432 \u0432 \u0438\u0437\u043b\u044e\u0431\u043b\u0435\u043d\u043d\u044b\u0435 \u0441\u043a\u0430\u0437\u0430\u043d\u0438\u044f: \u0438\u0437 \u0433\u0435\u0440\u043e\u0435\u0432 \u00ab\u0418\u043b\u0438\u0430\u0434\u044b\u00bb \u0438 \u00ab\u041e\u0434\u0438\u0441\u0441\u0435\u0438\u00bb \u042d\u043d\u0435\u0439, \u0421\u0430\u0440\u043f\u0435\u0434\u043e\u043d, \u0413\u043b\u0430\u0432\u043a, \u0414\u0438\u043e\u043c\u0435\u0434, \u041e\u0434\u0438\u0441\u0441\u0435\u0439 \u0438 \u043c\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u043b\u0438\u0446, \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u043c \u0433\u0438\u043f\u043e\u0442\u0435\u0437\u0430\u043c, \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u043e \u0447\u0443\u0436\u0434\u044b \u0434\u0440\u0435\u0432\u043d\u0435\u0439\u0448\u0435\u0439 \u0432\u0435\u0440\u0441\u0438\u0438 \u0422\u0440\u043e\u044f\u043d\u0441\u043a\u043e\u0433\u043e \u0441\u043a\u0430\u0437\u0430\u043d\u0438\u044f. \u0412\u0432\u0435\u0434\u0451\u043d \u0431\u044b\u043b \u0432 \u0441\u043a\u0430\u0437\u0430\u043d\u0438\u044f \u043e \u0431\u0438\u0442\u0432\u0430\u0445 \u043f\u043e\u0434 \u0422\u0440\u043e\u0435\u0439 \u0435\u0449\u0451 \u0440\u044f\u0434 \u0434\u0440\u0443\u0433\u0438\u0445 \u0433\u0435\u0440\u043e\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u0435\u0439, \u0442\u0430\u043a\u0438\u0445, \u043a\u0430\u043a \u0430\u043c\u0430\u0437\u043e\u043d\u043a\u0430 \u041f\u0435\u043d\u0442\u0435\u0441\u0438\u043b\u0435\u044f, \u041c\u0435\u043c\u043d\u043e\u043d, \u0422\u0435\u043b\u0435\u0444, \u041d\u0435\u043e\u043f\u0442\u043e\u043b\u0435\u043c \u0438 \u0434\u0440\u0443\u0433\u0438\u0445. \u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0432\u0448\u0435\u0435\u0441\u044f \u0438\u0437\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u0439 \u0422\u0440\u043e\u044f\u043d\u0441\u043a\u043e\u0439 \u0432\u043e\u0439\u043d\u044b \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442\u0441\u044f \u0432 2-\u0445 \u043f\u043e\u044d\u043c\u0430\u0445 \u2014 \u00ab\u0418\u043b\u0438\u0430\u0434\u0435\u00bb \u0438 \u00ab\u041e\u0434\u0438\u0441\u0441\u0435\u0435\u00bb: \u0433\u043b\u0430\u0432\u043d\u044b\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c \u044d\u0442\u0438\u043c \u0434\u0432\u0443\u043c \u043f\u043e\u044d\u043c\u0430\u043c \u0422\u0440\u043e\u044f\u043d\u0441\u043a\u0438\u0435 \u0433\u0435\u0440\u043e\u0438 \u0438 \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u0422\u0440\u043e\u044f\u043d\u0441\u043a\u043e\u0439 \u0432\u043e\u0439\u043d\u044b \u043e\u0431\u044f\u0437\u0430\u043d\u044b \u0441\u0432\u043e\u0435\u0439 \u0441\u043b\u0430\u0432\u043e\u0439. \u041f\u043e\u0432\u043e\u0434\u043e\u043c \u043a \u0432\u043e\u0439\u043d\u0435 \u0413\u043e\u043c\u0435\u0440 \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043a\u0432\u0430\u0437\u0438-\u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0444\u0430\u043a\u0442 \u043f\u043e\u0445\u0438\u0449\u0435\u043d\u0438\u044f \u0415\u043b\u0435\u043d\u044b.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u062d\u0631\u0628 \u0637\u0631\u0648\u0627\u062f\u0629 \u0623\u0648 \u062d\u0635\u0627\u0631 \u0637\u0631\u0648\u062f\u0627\u0629\u060c \u0627\u0644\u062a\u064a \u0643\u0627\u0646\u062a \u0628\u064a\u0646 \u0627\u0644\u0625\u062e\u0627\u0626\u064a\u064a\u0646 \u0627\u0644\u0625\u063a\u0631\u064a\u0642 \u0627\u0644\u0630\u064a\u0646 \u062d\u0627\u0635\u0631\u0648\u0627 \u0645\u062f\u064a\u0646\u0629 \u0637\u0631\u0648\u0627\u062f\u0629 \u0648\u0623\u0647\u0644\u0647\u0627 \u0648\u062f\u0627\u0645\u062a \u0639\u0634\u0631 \u0633\u0646\u064a\u0646\u060c \u0648\u0627\u062d\u062f\u0629 \u0645\u0646 \u0623\u0634\u0647\u0631 \u0627\u0644\u062d\u0631\u0648\u0628 \u0641\u064a \u0627\u0644\u062a\u0627\u0631\u064a\u062e \u0648\u0630\u0644\u0643 \u0644\u062e\u0644\u0648\u062f\u0647\u0627 \u0641\u064a \u0645\u0644\u062d\u0645\u062a\u064a \u0647\u0648\u0645\u064a\u0631\u0648\u0633 \u0627\u0644\u0625\u0644\u064a\u0627\u0630\u0629 \u0648\u0627\u0644\u0623\u0648\u062f\u064a\u0633\u0629 \u0627\u0644\u0644\u062a\u0627\u0646 \u062a\u062d\u062f\u062b\u062a\u0627 \u0639\u0646 \u0628\u0639\u0636 \u0623\u062d\u062f\u0627\u062b \u062d\u0631\u0628 \u0637\u0631\u0648\u0627\u062f\u0629\u060c \u0641\u0641\u064a \u0627\u0644\u0625\u0644\u064a\u0627\u0630\u0629 \u0631\u0648\u064a\u062a \u0623\u062d\u062f\u0627\u062b \u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u062a\u0627\u0633\u0639\u0629 \u0645\u0646 \u0627\u0644\u062d\u0631\u0628 \u0648\u0647\u064a \u0633\u0646\u0629 \u063a\u0636\u0628 \u0622\u062e\u064a\u0644\u060c \u0648\u0641\u064a \u0627\u0644\u0623\u0648\u062f\u064a\u0633\u0629 \u062d\u064f\u0643\u064a\u062a \u0627\u0644\u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0623\u062d\u062f\u0627\u062b \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0644\u0644\u062d\u0631\u0628 \u0625\u0628\u0627\u0646 \u0631\u0648\u0627\u064a\u0629 \u062d\u0643\u0627\u064a\u0629 \u0639\u0648\u062f\u0629 \u0623\u0648\u062f\u064a\u0633\u064a\u0648\u0633 \u0645\u0644\u0643 \u0625\u064a\u062b\u0627\u0643\u0627 \u0648\u0623\u062d\u062f \u0627\u0644\u0642\u0627\u062f\u0629 \u0641\u064a \u062d\u0631\u0628 \u0637\u0631\u0648\u0627\u062f\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Nella mitologia greca, la guerra di Troia fu una sanguinosa guerra combattuta tra gli Achei e la potente citt\u00e0 di Troia, presumibilmente attorno al 1250 a.C. o al 1194 a.C., nell'odierna Turchia. Gli eventi del conflitto sono noti principalmente attraverso i poemi epici Iliade ed Odissea di Omero, composti intorno al IX secolo a.C. Entrambi narrano una piccola parte del conflitto: l'Iliade i fatti avvenuti durante l'ultimo anno di guerra, l'Odissea, oltre al viaggio di Ulisse per tornare in patria, narra la conquista di Troia. Le altre opere del \"Ciclo Troiano\" sono andate perdute e sono conosciute solo tramite testimonianze posteriori. Singoli episodi sono infatti descritti in innumerevoli testi della letteratura greca e latina, e dipinti o scolpiti in numerose opere d'arte. Secondo l'Iliade, la guerra ebbe inizio a causa del rapimento di Elena, regina di Lacedemone (la futura Sparta), ritenuta la donna pi\u00f9 bella del mondo, per mano di Paride, figlio di Priamo re di Troia. Menelao, marito di Elena, e il fratello Agamennone radunarono un esercito, formato dai maggiori comandanti dei regni greci e dai loro sudditi, muovendo guerra contro Troia. Il conflitto dur\u00f2 dieci anni, con gravissime perdite da entrambi gli schieramenti. Fra le vittime vi fu Achille, il pi\u00f9 grande guerriero greco, figlio del re Peleo e della dea Teti. Achille era re dei Mirmidoni, che condusse in molte battaglie contro Troia, venendo infine ucciso da Paride che, per vendicare la morte del fratello Ettore, lo colp\u00ec con una freccia al tallone, suo unico punto debole. Troia infine cadde grazie all'astuto Ulisse e al suo piano del cavallo di legno, cambiando l'esito del conflitto. \u00c8 ancora oggetto di studi e di controversie la questione della veridicit\u00e0 storica degli avvenimenti della guerra di Troia. Alcuni studiosi pensano che vi sia un fondo di verit\u00e0 dietro gli scritti di Omero, altri pensano che l'antico poeta abbia voluto raggruppare in un unico conflitto, quello fra greci e troiani, le vicende di guerre e assedi diversi succedutisi nel periodo della civilt\u00e0 micenea. Alcuni studiosi pensano, invece, che Omero non sia mai esistito o che Iliade e Odissea siano opera di autori diversi. I due poemi hanno comunque reso possibile la scoperta delle presumibili mura di Troia, collocando cronologicamente la guerra verso la fine dell'et\u00e0 del Bronzo, intorno al 1300 - 1200 a.C., in parte confermando la datazione di Eratostene.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "En la mitolog\u00eda griega, la guerra de Troya fue un conflicto b\u00e9lico en el que se enfrentaron una coalici\u00f3n de ej\u00e9rcitos aqueos contra la ciudad de Troya (tambi\u00e9n llamada Ili\u00f3n y ubicada en Asia Menor) y sus aliados. Seg\u00fan Homero, se tratar\u00eda de una expedici\u00f3n de castigo por parte de los aqueos, cuyo casus belli habr\u00eda sido el rapto (o fuga) de Helena de Esparta por el pr\u00edncipe Paris de Troya. Esta guerra es uno de los ejes centrales de la \u00e9pica grecolatina y fue narrada en un ciclo de poemas \u00e9picos de los que solo dos han llegado intactos a la actualidad, la Il\u00edada y la Odisea, ambas obras atribuidas a Homero. La Il\u00edada describe un episodio de esta guerra, y la Odisea narra el viaje de vuelta a casa de Odiseo, uno de los l\u00edderes griegos. Otras partes de la historia y versiones diferentes fueron elaboradas por poetas griegos y romanos posteriores. Los antiguos griegos cre\u00edan que los hechos que Homero relat\u00f3 eran ciertos. Cre\u00edan que esta guerra hab\u00eda tenido lugar en los siglos siglo XIII a. C. o siglo XII a. C., y que Troya estaba situada cerca del estrecho de los Dardanelos en el noroeste de la pen\u00ednsula de Anatolia (actual Turqu\u00eda). Por ejemplo, el historiador Her\u00f3doto no solo consideraba segura la guerra, sino que adem\u00e1s para \u00e9l fue la causa originaria de las enemistades entre persas y griegos. En tiempos modernos, tanto la guerra como la ciudad eran consideradas mitol\u00f3gicas. Pero en 1870 el arque\u00f3logo alem\u00e1n Heinrich Schliemann excav\u00f3 la colina de Hisarlik, donde cre\u00eda que estaba la ciudad de Troya, y hall\u00f3 los restos de la antigua ciudad de Nueva Ili\u00f3n, bajo la cual hall\u00f3 otras ruinas, y debajo de estas, otras m\u00e1s. Cada una de estas ruinas daba lugar a los restos de distintas ciudades que parec\u00edan haber sido habitadas en \u00e9pocas distintas. Schliemann pretend\u00eda hallar la Troya hom\u00e9rica pero, en el curso de los a\u00f1os, \u00e9l y sus colaboradores hallaron siete ciudades sepultadas y m\u00e1s tarde otras tres. Sin embargo, quedaba por decidir cu\u00e1l de estas diez ciudades era la Troya de Homero. Estaba claro que la capa m\u00e1s profunda, Troya I, era la prehist\u00f3rica, la m\u00e1s antigua, tan antigua que sus habitantes a\u00fan no conoc\u00edan el empleo del metal, y que la capa m\u00e1s a flor de tierra, Troya IX, ten\u00eda que ser la m\u00e1s reciente. Algunos historiadores creen que Troya VI o Troya VII deben identificarse con la ciudad hom\u00e9rica, porque las anteriores son peque\u00f1as y las posteriores son asentamientos griegos y romanos. Otros historiadores opinan que los relatos de Homero son una fusi\u00f3n de historias de asedios y expediciones de los griegos de la Edad del Bronce o del periodo mic\u00e9nico, y no describen hechos reales. Los que piensan que los poemas \u00e9picos de la guerra de Troya derivan de alg\u00fan conflicto real lo fechan entre 1300 a. C.-1100 a. C.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u7279\u6d1b\u4f0a\u6218\u4e89\uff08Trojan war)\u4ee5\u8377\u9a6c\u53f2\u8bd7\u4e4b\u4f0a\u91cc\u4e9e\u5fb7\u70ba\u4e2d\u5fc3\uff0c\u52a0\u4e0a\u7d22\u798f\u514b\u52d2\u65af\u7684\u60b2\u5287\u57c3\u963f\u65af\u3001\u83f2\u6d1b\u514b\u5fd2\u5fd2\u65af\uff0c\u6b50\u91cc\u5e87\u5f97\u65af\u7684\u60b2\u5287\u5728\u9676\u91cc\u65af\u7684\u4f0a\u83f2\u9769\u6d85\u4e9a\u3001\u5b89\u5fb7\u6d1b\u739b\u523b\u3001\u8d6b\u5361\u67cf\uff0c\u7dad\u5409\u723e\u7684\u53f2\u8a69\u57c3\u6d85\u963f\u65af\u7d00\u3001\u5967\u7dad\u5fb7\u7b49\u591a\u90e8\u8457\u4f5c\u800c\u6210\uff0c\u6545\u4e8b\u8a73\u7ec6\u5730\u63cf\u8ff0\u4e86\u7279\u6d1b\u4f0a\u6218\u4e89\u7684\u60c5\u51b5\u3002 \u7279\u6d1b\u4f0a\u6230\u722d\u662f\u4ee5\u722d\u596a\u4e16\u4e0a\u6700\u6f02\u4eae\u7684\u5973\u4eba\u6d77\u502b\u70ba\u4e2d\u5fc3\uff0c\u9053\u51fa\u4ee5\u963f\u4f3d\u95e8\u519c\u53ca\u963f\u5580\u7409\u65af\u70ba\u9996\u7684\u5e0c\u81d8\u806f\u5408\u9060\u5f81\u8ecd\u9032\u653b\u4ee5\u5e15\u91cc\u65af\u53ca\u8d6b\u514b\u6258\u8033\u70ba\u9996\u7684\u7279\u6d1b\u4f0a\u8ecd\u7684\u5341\u5e74\u653b\u57ce\u6230\u3002 \u73b0\u4ee3\u8003\u53e4\u548c\u5386\u53f2\u7814\u7a76\u5728\u5c0d\u7279\u6d1b\u4f0a\u7684\u300c\u795e\u8a71\u300d\u300c\u50b3\u8aaa\u300d\u5e7e\u767e\u5e74\u7684\u5632\u8af7\u548c\u5ffd\u7565\u4e4b\u5f8c\uff0c\u8bc1\u5b9e\u7279\u6d1b\u4f0a\u548c\u7279\u6d1b\u4f0a\u6218\u4e89\u7684\u786e\u5b58\u5728\u3002\u4f46\u73fe\u4ee3\u79d1\u5b78\u5426\u8a8d\u7279\u6d1b\u4f0a\u6218\u4e89\u662f\u5982\u5e7e\u5343\u5e74\u524d\u8377\u9a6c\u53f2\u8bd7\u4e2d\u8a18\u8f09\u7684\u4e00\u5834\u590d\u4ec7\u6218\u4e89\uff0c\u800c\u662f\u53e4\u5e0c\u814a\u4e3a\u4e89\u593a\u7279\u6d1b\u4f0a\u7684\u91cd\u8981\u5730\u7406\u4f4d\u7f6e\u548c\u8d38\u6613\u6743\u76ca\u8054\u5408\u8d6b\u68af\u53d1\u52a8\u7684\u4fb5\u7565\u6218\u4e89\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Der Trojanische Krieg ist ein zentrales Ereignis der griechischen und der r\u00f6mischen Mythologie. Homers Ilias schildert entscheidende Kriegsszenen w\u00e4hrend der Belagerung der Stadt Troja (Ilion) durch das Heer der Griechen, die in der Ilias Achaier genannt werden. Dabei wird insgesamt allerdings nur von 51 Tagen der zehnj\u00e4hrigen Belagerung berichtet. Andere Ereignisse sind durch andere Epen innerhalb des sogenannten epischen Zyklus \u00fcberliefert. Mythischer Ausl\u00f6ser des Trojanischen Krieges war die Entf\u00fchrung der Helena, der Ehefrau des Menelaos, durch Paris, den Sohn des trojanischen K\u00f6nigs Priamos (siehe Abschnitt ). Daraufhin zogen die vereinten Griechen gegen Troja, um sich zu r\u00e4chen. Trotz zehnj\u00e4hriger Belagerung gelang es jedoch nicht, die stark befestigte Stadt zu erobern. Auf Rat des Odysseus bauten die Griechen endlich ein gro\u00dfes h\u00f6lzernes Pferd, in dem sich die tapfersten Krieger versteckten, und t\u00e4uschten die Abfahrt ihrer Schiffe vor. Die Trojaner holten entgegen den Warnungen der Kassandra und des Priesters Laokoon das Pferd in die Stadt. In der Nacht kletterten die Griechen aus ihrem Versteck, \u00f6ffneten die Tore und konnten so die Trojaner \u00fcberw\u00e4ltigen. Aus dieser Begebenheit heraus entstand der bis heute g\u00e4ngige Begriff des Trojanischen Pferdes. In einer anderen Version hei\u00dft es, dass die Griechen das Pferd so gro\u00df gebaut hatten, dass es nicht durch Trojas Tore gepasst h\u00e4tte. So haben dann die Trojaner die eigenen Mauern eingerissen, um das h\u00f6lzerne Pferd in die Stadt zu holen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "De Trojaanse Oorlog is een gebeurtenis die een centrale rol speelt in de Griekse mythologie. Een groot deel van de mythologische verhalen houdt op een of andere wijze verband met deze oorlog. Homerus' boek de Ilias (\u1f3c\u03bb\u03b9\u03bf\u03bd = Troje) is een epos, dat een episode uit het laatste jaar van de tien jaar durende oorlog tegen Troje beschrijft. Een coalitie van Grieken, die Homerus Achae\u00ebrs noemt, zou onder leiding van koning Agamemnon Troje hebben belegerd en ingenomen. De Trojanen noemt hij Dardanoi (\u0394\u03ac\u03c1\u03b4\u03b1\u03bd\u03bf\u03b9). De oorlog ontstond volgens de mythe uit een twist tussen de godinnen Hera, Athene en Aphrodite, nadat de godin van de twist, Eris, hun een gouden appel gaf \"voor de schoonste\". De oppergod Zeus zond de vrouwen naar de Trojaanse koningszoon Paris, die oordeelde dat Aphrodite de schoonste was. In ruil daarvoor liet Aphrodite de mooie Helena, de vrouw van de Spartaanse koning Menelaos, verliefd worden op Paris. Nadat Paris Helena mee had genomen naar Troje, trokken alle Grieken gezamenlijk ten strijde tegen Troje. Na een tienjarige strijd verloren de Trojanen de oorlog van de Grieken door de list met het paard van Troje. Schattingen over het aantal manschappen en schepen dat zou hebben deelgenomen aan deze oorlog lopen nogal uiteen. Op basis van wat Homerus schrijft komt bijvoorbeeld historicus Barry Strauss tot de bevinding dat er minstens 100.000 manschappen aan iedere zijde streden, en dat er 1186 Griekse schepen in deze strijd betrokken waren. Wat verder in het artikel zal ingegaan worden op historiciteit en datering van de Trojaanse Oorlog. Hoewel de meeste oude Grieken de (mythische) ontvoering van Helena als aanleiding van de Trojaanse Oorlog (die plaats zou hebben gevonden in de 13e of 12e eeuw voor Christus) beschouwden, wordt aangenomen dat de oorlog ter wille van economische belangen werd gevoerd. Het jaar 1184 v.Chr. is thans de meest geaccepteerde datum voor de Trojaanse Oorlog, omdat ook de archeologie aantoont dat rond die tijd de culturen van Kreta, het Griekse vasteland en Anatoli\u00eb teloor gingen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "(\"Fall of Troy\" redirects here. For the American band, see The Fall of Troy.) In Greek mythology, the Trojan War was waged against the city of Troy by the Achaeans (Greeks) after Paris of Troy took Helen from her husband Menelaus, king of Sparta. The war is one of the most important events in Greek mythology and has been narrated through many works of Greek literature, most notably through Homer's Iliad. The Iliad relates four days in the tenth year of the decade-long siege of Troy; the Odyssey describes the journey home of Odysseus, one of the war's heroes. Other parts of the war are described in a cycle of epic poems, which have survived through fragments. Episodes from the war provided material for Greek tragedy and other works of Greek literature, and for Roman poets including Virgil and Ovid. The war originated from a quarrel between the goddesses Athena, Hera, and Aphrodite, after Eris, the goddess of strife and discord, gave them a golden apple, sometimes known as the Apple of Discord, marked \"for the fairest\". Zeus sent the goddesses to Paris, who judged that Aphrodite, as the \"fairest\", should receive the apple. In exchange, Aphrodite made Helen, the most beautiful of all women and wife of Menelaus, fall in love with Paris, who took her to Troy. Agamemnon, king of Mycenae and the brother of Helen's husband Menelaus, led an expedition of Achaean troops to Troy and besieged the city for ten years because of Paris' insult. After the deaths of many heroes, including the Achaeans Achilles and Ajax, and the Trojans Hector and Paris, the city fell to the ruse of the Trojan Horse. The Achaeans slaughtered the Trojans (except for some of the women and children whom they kept or sold as slaves) and desecrated the temples, thus earning the gods' wrath. Few of the Achaeans returned safely to their homes and many founded colonies in distant shores. The Romans later traced their origin to Aeneas, one of the Trojans, who was said to have led the surviving Trojans to modern-day Italy. The ancient Greeks believed that Troy was located near the Dardanelles and that the Trojan War was a historical event of the 13th or 12th century BC, but by the mid-19th century, both the war and the city were widely seen as mythological. In 1868, however, the German archaeologist Heinrich Schliemann met Frank Calvert, who convinced Schliemann that Troy was a real city at what is now Hissarlik in Turkey. On the basis of excavations conducted by Schliemann and others, this claim is now accepted by most scholars. Whether there is any historical reality behind the Trojan War remains an open question. Many scholars believe that there is a historical core to the tale, though this may simply mean that the Homeric stories are a fusion of various tales of sieges and expeditions by Mycenaean Greeks during the Bronze Age. Those who believe that the stories of the Trojan War are derived from a specific historical conflict usually date it to the 12th or 11th centuries BC, often preferring the dates given by Eratosthenes, 1194\u20131184 BC, which roughly corresponds with archaeological evidence of a catastrophic burning of Troy VIIa.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "La guerre de Troie est un conflit l\u00e9gendaire de la mythologie grecque, dont l'historicit\u00e9 est controvers\u00e9e. Elle est parfois appel\u00e9e Deuxi\u00e8me guerre de Troie en r\u00e9f\u00e9rence \u00e0 l'exp\u00e9dition men\u00e9e contre la cit\u00e9 par H\u00e9racl\u00e8s apr\u00e8s la qu\u00eate de la Toison d'or que certains nomment Premi\u00e8re guerre de Troie. C'est le prince troyen P\u00e2ris qui la d\u00e9clenche en enlevant H\u00e9l\u00e8ne, \u00e9pouse du roi de Sparte. En r\u00e9torsion, M\u00e9n\u00e9las, l'\u00e9poux bafou\u00e9, l\u00e8ve avec son fr\u00e8re Agamemnon une exp\u00e9dition rassemblant la plupart des rois grecs, qui assi\u00e8ge Troie et remporte finalement la victoire. La guerre de Troie et ses cons\u00e9quences formaient le sujet d'un vaste cycle \u00e9pique, le \u00ab Cycle troyen \u00bb, dont les \u0153uvres sont aujourd'hui perdues \u00e0 l'exception de l\u2019Iliade et l\u2019Odyss\u00e9e d'Hom\u00e8re. Elle repr\u00e9sente une pierre fondatrice de la culture grecque puis de la culture romaine et constitue encore une source d'inspiration pour les artistes et \u00e9crivains.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "A Guerra de Troia AO 1990  foi um grande conflito b\u00e9lico entre gregos e troianos, possivelmente ocorrido entre 1300 a.C. e 1200 a.C. (fim da Idade do Bronze no Mediterr\u00e2neo).",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u30c8\u30ed\u30a4\u30a2\u6226\u4e89\uff08\u03a4\u03c1\u03c9\u03b9\u03ba\u03cc\u03c2 \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf\u03c2, \u82f1\u8a9e Trojan War\uff09\u3068\u306f\u3001\u5c0f\u30a2\u30b8\u30a2\u306e\u30c8\u30ed\u30a4\u30a2\u306b\u5bfe\u3057\u3066\u3001\u30df\u30e5\u30b1\u30fc\u30ca\u30a4\u3092\u4e2d\u5fc3\u3068\u3059\u308b\u30a2\u30ab\u30a4\u30a2\u4eba\u306e\u9060\u5f81\u8ecd\u304c\u884c\u3063\u305f\u30ae\u30ea\u30b7\u30a2\u795e\u8a71\u4e0a\u306e\u6226\u4e89\u3067\u3042\u308b\u3002 \u30c8\u30ed\u30a4\u30a2\u3001\u3042\u308b\u3044\u306f\u30c8\u30ed\u30fc\u30a2\u30b9\u3068\u3044\u3046\u547c\u79f0\u306f\u3001\u5f8c\u306e\u6642\u4ee3\u306b\u30a4\u30fc\u30ea\u30aa\u30b9\u4e00\u5e2f\u306e\u5730\u57df\u306b\u3064\u3051\u3089\u308c\u305f\u3082\u306e\u3067\u3042\u308b\u3002\u3053\u306e\u6226\u5f79\u306f\u3001\u53e4\u4ee3\u30ae\u30ea\u30b7\u30a2\u306b\u304a\u3044\u3066\u3001\u30db\u30e1\u30fc\u30ed\u30b9\u306e\u82f1\u96c4\u53d9\u4e8b\u8a69\u300e\u30a4\u30fc\u30ea\u30a2\u30b9\u300f\u3001\u300e\u30aa\u30c7\u30e5\u30c3\u30bb\u30a4\u30a2\u300f\u306e\u307b\u304b\u3001\u300e\u30ad\u30e5\u30d7\u30ea\u30a2\u300f\u3001\u300e\u30a2\u30a4\u30c6\u30a3\u30aa\u30d4\u30b9\u300f\u3001\u300e\u30a4\u30fc\u30ea\u30aa\u30b9\u306e\u9665\u843d\u300f\u306a\u3069\u304b\u3089\u6210\u308b\u4e00\u5927\u53d9\u4e8b\u8a69\u74b0\u3092\u69cb\u6210\u3057\u305f\u3002\u307e\u305f\u30a6\u30a7\u30eb\u30ae\u30ea\u30a6\u30b9\u306f\u30c8\u30ed\u30a4\u30a2\u6ec5\u4ea1\u5f8c\u306e\u30a2\u30a4\u30cd\u30a4\u30a2\u30fc\u30b9\u306e\u904d\u6b74\u3092\u300e\u30a2\u30a8\u30cd\u30fc\u30a4\u30b9\u300f\u306b\u3066\u63cf\u3044\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Wojna troja\u0144ska \u2013 wed\u0142ug Homera i antycznych historyk\u00f3w trwaj\u0105ce 10 lat obl\u0119\u017cenie Troi przez greckich Achaj\u00f3w. Mitycznym powodem konfliktu by\u0142o porwanie Heleny, \u017cony kr\u00f3la Sparty \u2013 Menelaosa, przez Parysa, ksi\u0119cia troja\u0144skiego, syna kr\u00f3la Priama. Menelaos wezwa\u0142 na pomoc swojego jedynego brata Agamemnona, kr\u00f3la Argos i Myken oraz wszystkie ksi\u0119stwa achajskie. Na le\u017c\u0105c\u0105 w p\u00f3\u0142nocnej Anatolii i dot\u0105d niezdobyt\u0105 Troj\u0119, na 1185 okr\u0119tach ruszyli wojownicy achajscy. Wed\u0142ug historyk\u00f3w zdobycie Troi przez Achaj\u00f3w mia\u0142o miejsce ok. 1200 r. p.n.e. Wed\u0142ug chronologii greckiej zdobycie Troi mia\u0142o miejsce w 1184 r. p.n.e. By\u0142o ono zwi\u0105zane z wyprawami zdobywczymi i ekspansj\u0105 Achaj\u00f3w uto\u017csamianych z kultur\u0105 myke\u0144sk\u0105.",
+                "lang": "pl"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/J_G_Trautmann_Das_brennende_Troja.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742394540,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 30058,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Trojan_War": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Trojan_war": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Battle_of_Troy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Trojan_wars": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/War_of_Troy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Siege_of_Troy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Trojan_Army": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_trojan_war": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Troy_War": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Trojan_Wars": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fall_of_Troy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Troyan_War": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Trojan_War": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Eric_(novel)": {
+        "http://dbpedia.org/ontology/nonFictionSubject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Paris_(2003_musical)__Paris__1": {
+        "http://dbpedia.org/ontology/basedOn": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Trojan_War"
+            }
+        ]
+    }
+}

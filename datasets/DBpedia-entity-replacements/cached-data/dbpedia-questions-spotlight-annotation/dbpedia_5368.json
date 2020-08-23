@@ -1,0 +1,37 @@
+{
+    "@text": "Tell me first-class city whose name has the word milwaukee in it.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/First-class_cricket",
+            "@support": "37228",
+            "@types": "",
+            "@surfaceForm": "first-class",
+            "@offset": "8",
+            "@similarityScore": "0.9999885730667192",
+            "@percentageOfSecondRank": "4.552483841451835E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "20",
+            "@similarityScore": "0.8812902192971598",
+            "@percentageOfSecondRank": "0.07003419182004625"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Milwaukee",
+            "@support": "17794",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "milwaukee",
+            "@offset": "49",
+            "@similarityScore": "0.9946258353091184",
+            "@percentageOfSecondRank": "0.004092257448227709"
+        }
+    ]
+}

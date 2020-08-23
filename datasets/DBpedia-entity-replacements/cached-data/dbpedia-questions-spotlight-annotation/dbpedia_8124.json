@@ -1,0 +1,28 @@
+{
+    "@text": "Name the medicine field related to pregnancy that starts with letter W",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Medicine",
+            "@support": "15923",
+            "@types": "",
+            "@surfaceForm": "medicine",
+            "@offset": "9",
+            "@similarityScore": "0.9987806303105238",
+            "@percentageOfSecondRank": "3.808599101150599E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Pregnancy",
+            "@support": "8256",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "pregnancy",
+            "@offset": "35",
+            "@similarityScore": "0.9999025904173359",
+            "@percentageOfSecondRank": "9.222441802707527E-5"
+        }
+    ]
+}

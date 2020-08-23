@@ -1,0 +1,355 @@
+{
+    "http://dbpedia.org/resource/Roman_magistrate": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Person"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Roman magistrate",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Magistrats romains",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Magistratus",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u062d\u0627\u0643\u0645 \u0631\u0648\u0645\u0627\u0646\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Magistrado romano",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u653f\u52d9\u5b98 (\u30ed\u30fc\u30de)",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u653f\u52d9\u5b98 (\u7f85\u99ac)",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "The Roman magistrates were elected officials in Ancient Rome. During the period of the Roman Kingdom, the King of Rome was the principal executive magistrate. His power, in practice, was absolute. He was the chief priest, lawgiver, judge, and the sole commander of the army. When the king died, his power reverted to the Roman Senate, which then chose an Interrex to facilitate the election of a new king.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Magistratus populi Romani heette in het Oude Rome iedere burger die als gevolg van een verkiezing door het volk een openbaar bestuursambt bekleedde.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Os magistrados romanos eram oficiais eleitos na Roma Antiga. Durante o per\u00edodo do Reino de Roma, o rei de Roma foi o principal magistrado executivo com poder, na pr\u00e1tica, absoluto: ele era o principal sacerdote, legislador, juiz e o \u00fanico comandante do ex\u00e9rcito. No direito romano, um magistrado era considerado um posto judicial s\u00eanior e o mestre (magister) um dos mais altos cargos administrativos de poder. No entanto, no s\u00e9culo IV, o t\u00edtulo de magistrado foi abolido.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Les magistrats romains repr\u00e9sentent la branche ex\u00e9cutive de la constitution romaine. Durant la Monarchie romaine, le roi est le seul magistrat. Il est assist\u00e9 par deux questeurs qu\u2019il a nomm\u00e9s, ainsi que d\u2019autres assistants pour diverses t\u00e2ches. Quand il meurt, un interrex (interroi) pr\u00e9side le S\u00e9nat et les assembl\u00e9es jusqu\u2019au choix d\u2019un nouveau roi.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u7f85\u99ac\u653f\u52d9\u5b98\uff08\u82f1\u8bed\uff1aRoman magistrate\uff09\uff0c\u70ba\u53e4\u7f85\u99ac\u7684\u5b98\u8077\uff0c\u7d93\u9078\u8209\u9078\u51fa\uff0c\u53ef\u4ee5\u5206\u6210\u6b63\u898f\u9577\u5b98\uff08Magistratus ordinarii\uff09\u8207\u7279\u6b8a\u9577\u5b98\uff08Magistrarus extraordinarii\uff09\u5169\u985e\uff0c\u63e1\u6709\u653f\u6cbb\u3001\u8ecd\u4e8b\u3001\u4ee5\u53ca\u5728\u67d0\u7a2e\u60c5\u6cc1\uff0c\u5b97\u6559\u6b0a\u529b\u3002 \u6b63\u898f\u9577\u5b98\u6bcf\u5e74\u9078\u51fa\uff08\u9664\u76e3\u5bdf\u5b98\u5916\uff09\uff0c\u4efb\u671f\u4e00\u5e74\u3002\u901a\u5e38\u5206\u5225\u9009\u51fa\u81f3\u5c11\u5169\u4f4d\u6b63\u898f\u9577\u5b98\uff0c\u4ee5\u9632\u7bc4\u4e00\u4eba\u6b0a\u529b\u904e\u5927\u3002\u7279\u6b8a\u9577\u5b98\u50c5\u5728\u7279\u5225\u60c5\u51b5\u9009\u51fa\uff0c\u800c\u4e14\u4e0d\u5fc5\u8207\u4e00\u4f4d\u540c\u50da\u5171\u540c\u83b7\u9009\u3002\u7279\u6b8a\u9577\u5b98\u63e1\u6709\u7684\u6b0a\u529b\u5927\u65bc\u6b63\u898f\u9577\u5b98\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u53e4\u4ee3\u30ed\u30fc\u30de\u306e\u653f\u52d9\u5b98\uff08\u305b\u3044\u3080\u304b\u3093\u3001\u30e9\u30c6\u30f3\u8a9e: magistratus\uff09\u3068\u306f\u3001\u6c11\u4f1a\u306b\u3088\u3063\u3066\u9078\u51fa\u3055\u308c\u3001\u5b9f\u969b\u306e\u653f\u52d9\u3084\u8ecd\u4e8b\u3092\u884c\u3046\u8077\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062d\u0627\u0643\u0645 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064a (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Roman magistrates) \u0643\u0627\u0646 \u0645\u0633\u0624\u0648\u0644\u0627\u064b \u0645\u0646\u062a\u062e\u0628\u0627\u064b \u0641\u064a \u0631\u0648\u0645\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629. \u062e\u0644\u0627\u0644 \u0639\u0647\u062f \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064a\u0629\u060c \u0643\u0627\u0646 \u0645\u0644\u0643 \u0631\u0648\u0645\u0627 \u0647\u0648 \u0627\u0644\u062d\u0627\u0643\u0645 \u0627\u0644\u062a\u0646\u0641\u064a\u0630\u064a \u0627\u0644\u0623\u0633\u0627\u0633\u064a \u0641\u064a \u0627\u0644\u062f\u0648\u0644\u0629. \u0643\u0627\u0646\u062a \u0633\u0644\u0637\u0629 \u0627\u0644\u062d\u0627\u0643\u0645 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064a - \u0639\u0644\u0649 \u0623\u0631\u0636 \u0627\u0644\u0648\u0627\u0642\u0639 - \u0645\u0637\u0644\u0642\u0629\u060c \u0641\u0642\u062f \u0643\u0627\u0646 \u0623\u0647\u0645 \u0642\u0633 \u0648\u0642\u0627\u0636 \u0648\u0648\u0627\u0636\u0639 \u0642\u0648\u0627\u0646\u064a\u0646 \u0641\u064a \u0627\u0644\u062f\u0648\u0644\u0629 \u0641\u0636\u0644\u0627\u064b \u0639\u0646 \u0643\u0648\u0646\u0647 \u0627\u0644\u0642\u0627\u0626\u062f \u0627\u0644\u0623\u0639\u0644\u0649 \u0644\u0644\u062c\u064a\u0634 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064a. \u0639\u0646\u062f\u0645\u0627 \u064a\u0645\u0648\u062a \u0627\u0644\u0645\u0644\u0643 \u0643\u0627\u0646\u062a \u062a\u0646\u062a\u0642\u0644 \u0633\u0644\u0637\u062a\u0647 \u0645\u0624\u0642\u064e\u0651\u062a\u0627\u064b \u0625\u0644\u0649 \u0645\u062c\u0644\u0633 \u0627\u0644\u0634\u064a\u0648\u062e\u060c \u062d\u064a\u062b \u064a\u062a\u0648\u0644\u0649 \u0647\u0630\u0627 \u0627\u062e\u062a\u064a\u0627\u0631 \u062d\u0627\u0643\u0645 \u0645\u0624\u0642\u062a \u0644\u0644\u062f\u0648\u0644\u0629 \u0644\u064a\u0633\u0647\u0644 \u0627\u0646\u062a\u062e\u0627\u0628 \u0627\u0644\u0645\u0644\u0643 \u0627\u0644\u062c\u062f\u064a\u062f. \u062e\u0644\u0627\u0644 \u0641\u062a\u0631\u0629 \u0627\u0644\u0627\u0646\u062a\u0642\u0627\u0644 \u0645\u0646 \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0625\u0644\u0649 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629\u060c \u0627\u0646\u062a\u0642\u0644\u062a \u0627\u0644\u0633\u0644\u0637\u0629 \u0627\u0644\u062f\u0633\u062a\u0648\u0631\u064a\u0629 \u0645\u0646 \u064a\u062f \u0645\u0644\u0643 \u0631\u0648\u0645\u0627 \u0625\u0644\u0649 \u0645\u062c\u0644\u0633 \u0627\u0644\u0634\u064a\u0648\u062e. \u0639\u0646\u062f\u0645\u0627 \u062a\u0623\u0633\u0633\u062a \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0623\u0648\u0644 \u0623\u0645\u0631\u0647\u0627 \u0641\u064a \u0633\u0646\u0629 509 \u0642.\u0645\u060c \u0627\u0646\u062a\u0642\u0644\u062a \u0633\u0644\u0637\u0629 \u0627\u0644\u0645\u0644\u0643 \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0625\u0644\u0649 \u064a\u062f \u0627\u0644\u0642\u0646\u0627\u0635\u0644 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u060c \u062d\u064a\u062b \u0643\u0627\u0646 \u064a\u0646\u062a\u062e\u0628 \u0627\u062b\u0646\u0627\u0646 \u0645\u0646\u0647\u0645 \u0643\u0644 \u0639\u0627\u0645. \u0643\u0627\u0646 \u0627\u0644\u0645\u0633\u0624\u0648\u0644 \u0639\u0646 \u0627\u0646\u062a\u062e\u0627\u0628 \u0627\u0644\u062d\u0643\u0627\u0645 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064a\u064a\u0646 \u0641\u064a \u0639\u0647\u062f \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0647\u0648 \u0634\u0639\u0628 \u0631\u0648\u0645\u0627\u060c \u0648\u0643\u0627\u0646 \u064a\u064f\u0645\u0646\u064e\u062d \u0643\u0644 \u0645\u0646 \u0627\u0644\u062d\u0643\u0627\u0645 \u062f\u0631\u062c\u0629 \u0645\u062e\u062a\u0644\u0641\u0629\u064b \u0645\u0646 \u0627\u0644\u0635\u0644\u0627\u062d\u064a\u0627\u062a \u062a\u0633\u0645\u0649 \"\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0643\u0628",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Magistrado_romano"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Magistratus"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q20778343"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.027zyqx"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q20778343"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Roman_magistrate"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u653f\u52d9\u5b98_(\u30ed\u30fc\u30de)"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Magistratus"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Magistrats_romains"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Roman_law"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Government_of_the_Roman_Empire"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Government_of_the_Roman_Republic"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Government_of_the_Kingdom_of_Rome"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaius_Gracchus_Tribune_of_the_People.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Roman_magistrate"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Roman_magistrate?oldid=732400165"
+            }
+        ],
+        "http://dbpedia.org/property/col": [
+            {
+                "type": "literal",
+                "value": "* Roman Dictator\n* Master of the Horse\n* Roman Senate\n* Cursus honorum\n* Byzantine Senate\n* Pontifex Maximus",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "* Princeps senatus\n* Interrex\n* Procurator (Roman)\n* Acta Senatus",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "* Curia\n* Roman consul\n* Praetor\n* Roman censor\n* Quaestor\n* Aedile",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.fordham.edu/HALSALL/ANCIENT/polybius6.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=546&chapter=83299&layout=html&Itemid=27"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.uah.edu/student_life/organizations/SAL/texts/misc/romancon.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.nytimes.com/2006/09/30/opinion/30harris.html?_r=1&oref=slogin"
+            },
+            {
+                "type": "uri",
+                "value": "http://mailer.fsu.edu/~njumonvi/montesquieu_romans.htm"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "The Roman magistrates were elected officials in Ancient Rome. During the period of the Roman Kingdom, the King of Rome was the principal executive magistrate. His power, in practice, was absolute. He was the chief priest, lawgiver, judge, and the sole commander of the army. When the king died, his power reverted to the Roman Senate, which then chose an Interrex to facilitate the election of a new king. During the transition from monarchy to republic, the constitutional balance of power shifted from the executive (the Roman king) to the Roman Senate. When the Roman Republic was founded in 509 BC, the powers that had been held by the king were transferred to the Roman consuls, of which two were to be elected each year. Magistrates of the republic were elected by the people of Rome, and were each vested with a degree of power called \"major powers\" (maior potestas). Dictators had more \"major powers\" than any other magistrate, and after the Dictator was the censor, and then the consul, and then the praetor, and then the curule aedile, and then the quaestor. Any magistrate could obstruct (\"veto\") an action that was being taken by a magistrate with an equal or lower degree of magisterial powers. By definition, plebeian tribunes and plebeian aediles were technically not magistrates since they were elected only by the plebeians, and as such, they were independent of all other powerful magistrates. During the transition from republic to empire, the constitutional balance of power shifted from the Roman Senate back to the executive (the Roman Emperor). Theoretically, the senate elected each new emperor; in practice each emperor chose his own successor, though the choice was often overruled by the army or civil war. The powers of an emperor (his imperium) existed, in theory at least, by virtue of his legal standing. The two most significant components to an emperor's imperium were the \"tribunician powers\" and the \"proconsular powers\". In theory at least, the tribunician powers (which were similar to those of the plebeian tribunes under the old republic) gave the emperor authority over Rome's civil government, while the proconsular powers (similar to those of military governors, or proconsuls, under the old republic) gave him authority over the Roman army. While these distinctions were clearly defined during the early empire, eventually they were lost, and the emperor's powers became less constitutional and more monarchical. The traditional magistracies that survived the fall of the republic were the consulship, praetorship, plebeian tribunate, aedileship, quaestorship, and military tribunate. Mark Antony abolished the offices of Roman dictator and Master of the Horse during his Consulship in 44 BC, while the offices of Interrex and Roman censor were abolished shortly thereafter.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u7f85\u99ac\u653f\u52d9\u5b98\uff08\u82f1\u8bed\uff1aRoman magistrate\uff09\uff0c\u70ba\u53e4\u7f85\u99ac\u7684\u5b98\u8077\uff0c\u7d93\u9078\u8209\u9078\u51fa\uff0c\u53ef\u4ee5\u5206\u6210\u6b63\u898f\u9577\u5b98\uff08Magistratus ordinarii\uff09\u8207\u7279\u6b8a\u9577\u5b98\uff08Magistrarus extraordinarii\uff09\u5169\u985e\uff0c\u63e1\u6709\u653f\u6cbb\u3001\u8ecd\u4e8b\u3001\u4ee5\u53ca\u5728\u67d0\u7a2e\u60c5\u6cc1\uff0c\u5b97\u6559\u6b0a\u529b\u3002 \u6b63\u898f\u9577\u5b98\u6bcf\u5e74\u9078\u51fa\uff08\u9664\u76e3\u5bdf\u5b98\u5916\uff09\uff0c\u4efb\u671f\u4e00\u5e74\u3002\u901a\u5e38\u5206\u5225\u9009\u51fa\u81f3\u5c11\u5169\u4f4d\u6b63\u898f\u9577\u5b98\uff0c\u4ee5\u9632\u7bc4\u4e00\u4eba\u6b0a\u529b\u904e\u5927\u3002\u7279\u6b8a\u9577\u5b98\u50c5\u5728\u7279\u5225\u60c5\u51b5\u9009\u51fa\uff0c\u800c\u4e14\u4e0d\u5fc5\u8207\u4e00\u4f4d\u540c\u50da\u5171\u540c\u83b7\u9009\u3002\u7279\u6b8a\u9577\u5b98\u63e1\u6709\u7684\u6b0a\u529b\u5927\u65bc\u6b63\u898f\u9577\u5b98\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062d\u0627\u0643\u0645 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064a (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Roman magistrates) \u0643\u0627\u0646 \u0645\u0633\u0624\u0648\u0644\u0627\u064b \u0645\u0646\u062a\u062e\u0628\u0627\u064b \u0641\u064a \u0631\u0648\u0645\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629. \u062e\u0644\u0627\u0644 \u0639\u0647\u062f \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064a\u0629\u060c \u0643\u0627\u0646 \u0645\u0644\u0643 \u0631\u0648\u0645\u0627 \u0647\u0648 \u0627\u0644\u062d\u0627\u0643\u0645 \u0627\u0644\u062a\u0646\u0641\u064a\u0630\u064a \u0627\u0644\u0623\u0633\u0627\u0633\u064a \u0641\u064a \u0627\u0644\u062f\u0648\u0644\u0629. \u0643\u0627\u0646\u062a \u0633\u0644\u0637\u0629 \u0627\u0644\u062d\u0627\u0643\u0645 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064a - \u0639\u0644\u0649 \u0623\u0631\u0636 \u0627\u0644\u0648\u0627\u0642\u0639 - \u0645\u0637\u0644\u0642\u0629\u060c \u0641\u0642\u062f \u0643\u0627\u0646 \u0623\u0647\u0645 \u0642\u0633 \u0648\u0642\u0627\u0636 \u0648\u0648\u0627\u0636\u0639 \u0642\u0648\u0627\u0646\u064a\u0646 \u0641\u064a \u0627\u0644\u062f\u0648\u0644\u0629 \u0641\u0636\u0644\u0627\u064b \u0639\u0646 \u0643\u0648\u0646\u0647 \u0627\u0644\u0642\u0627\u0626\u062f \u0627\u0644\u0623\u0639\u0644\u0649 \u0644\u0644\u062c\u064a\u0634 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064a. \u0639\u0646\u062f\u0645\u0627 \u064a\u0645\u0648\u062a \u0627\u0644\u0645\u0644\u0643 \u0643\u0627\u0646\u062a \u062a\u0646\u062a\u0642\u0644 \u0633\u0644\u0637\u062a\u0647 \u0645\u0624\u0642\u064e\u0651\u062a\u0627\u064b \u0625\u0644\u0649 \u0645\u062c\u0644\u0633 \u0627\u0644\u0634\u064a\u0648\u062e\u060c \u062d\u064a\u062b \u064a\u062a\u0648\u0644\u0649 \u0647\u0630\u0627 \u0627\u062e\u062a\u064a\u0627\u0631 \u062d\u0627\u0643\u0645 \u0645\u0624\u0642\u062a \u0644\u0644\u062f\u0648\u0644\u0629 \u0644\u064a\u0633\u0647\u0644 \u0627\u0646\u062a\u062e\u0627\u0628 \u0627\u0644\u0645\u0644\u0643 \u0627\u0644\u062c\u062f\u064a\u062f. \u062e\u0644\u0627\u0644 \u0641\u062a\u0631\u0629 \u0627\u0644\u0627\u0646\u062a\u0642\u0627\u0644 \u0645\u0646 \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0625\u0644\u0649 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629\u060c \u0627\u0646\u062a\u0642\u0644\u062a \u0627\u0644\u0633\u0644\u0637\u0629 \u0627\u0644\u062f\u0633\u062a\u0648\u0631\u064a\u0629 \u0645\u0646 \u064a\u062f \u0645\u0644\u0643 \u0631\u0648\u0645\u0627 \u0625\u0644\u0649 \u0645\u062c\u0644\u0633 \u0627\u0644\u0634\u064a\u0648\u062e. \u0639\u0646\u062f\u0645\u0627 \u062a\u0623\u0633\u0633\u062a \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0623\u0648\u0644 \u0623\u0645\u0631\u0647\u0627 \u0641\u064a \u0633\u0646\u0629 509 \u0642.\u0645\u060c \u0627\u0646\u062a\u0642\u0644\u062a \u0633\u0644\u0637\u0629 \u0627\u0644\u0645\u0644\u0643 \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0625\u0644\u0649 \u064a\u062f \u0627\u0644\u0642\u0646\u0627\u0635\u0644 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u060c \u062d\u064a\u062b \u0643\u0627\u0646 \u064a\u0646\u062a\u062e\u0628 \u0627\u062b\u0646\u0627\u0646 \u0645\u0646\u0647\u0645 \u0643\u0644 \u0639\u0627\u0645. \u0643\u0627\u0646 \u0627\u0644\u0645\u0633\u0624\u0648\u0644 \u0639\u0646 \u0627\u0646\u062a\u062e\u0627\u0628 \u0627\u0644\u062d\u0643\u0627\u0645 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064a\u064a\u0646 \u0641\u064a \u0639\u0647\u062f \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0647\u0648 \u0634\u0639\u0628 \u0631\u0648\u0645\u0627\u060c \u0648\u0643\u0627\u0646 \u064a\u064f\u0645\u0646\u064e\u062d \u0643\u0644 \u0645\u0646 \u0627\u0644\u062d\u0643\u0627\u0645 \u062f\u0631\u062c\u0629 \u0645\u062e\u062a\u0644\u0641\u0629\u064b \u0645\u0646 \u0627\u0644\u0635\u0644\u0627\u062d\u064a\u0627\u062a \u062a\u0633\u0645\u0649 \"\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0643\u0628\u0631\u0649\" (maior potestas). \u0641\u0642\u062f \u0643\u0627\u0646\u062a \u0644\u062f\u0649 \u0627\u0644\u062f\u0643\u062a\u0627\u062a\u0648\u0631 \"\u0633\u0644\u0637\u0627\u062a \u0643\u0628\u0631\u0649\" \u062a\u062a\u0639\u062f\u0649 \u0623\u064a \u062d\u0627\u0643\u0645 \u0631\u0648\u0645\u0627\u0646\u064a \u0622\u062e\u0631\u060c \u064a\u0644\u064a\u0647 \u062a\u0631\u062a\u064a\u0628 \u0647\u0631\u0645\u064a \u0644\u0644\u0633\u0644\u0637\u0627\u062a\u060c \u0641\u0628\u0639\u062f \u0627\u0644\u062f\u0643\u062a\u0627\u062a\u0648\u0631 \u0645\u0628\u0627\u0634\u0631\u0629 \u064a\u0623\u062a\u064a \u0627\u0644\u0631\u0642\u064a\u0628\u060c \u062b\u0645 \u0627\u0644\u0642\u0646\u0635\u0644\u060c \u064a\u0644\u064a\u0647 \u0627\u0644\u0628\u0631\u064a\u062a\u0648\u0631\u060c \u0648\u0623\u062e\u064a\u0631\u0627\u064b \u0627\u0644\u0625\u064a\u062f\u064a\u0644 \u062b\u0645 \u0627\u0644\u0643\u0648\u064a\u0633\u062a\u0648\u0631. \u0643\u0627\u0646 \u064a\u0633\u062a\u0637\u064a\u0639 \u0623\u064a \u062d\u0627\u0643\u0645\u064d \u0627\u0644\u0627\u0639\u062a\u0631\u0627\u0636 \u0639\u0644\u0649 \u0642\u0631\u0627\u0631 \u0627\u062a\u062e\u0630\u0647 \u062d\u0627\u0643\u0645 \u0644\u0647 \u0635\u0644\u0627\u062d\u064a\u0627\u062a \u0645\u0633\u0627\u0648\u064a\u0629 \u0644\u0647 \u0623\u0648 \u0623\u062f\u0646\u0649 \u0645\u0646\u0647\u060c \u0648\u0647\u0648 \u0645\u0627 \u0643\u0627\u0646 \u064a\u0633\u0645\u0649 \u062d\u0642 \u0627\u0644\u0646\u0642\u0636. \u062a\u0642\u0646\u064a\u0627\u064b\u060c \u0644\u0645 \u064a\u0643\u0646 \u064a\u0639\u062a\u0628\u0631 \u0623\u0641\u0631\u0627\u062f \u0627\u0644\u0628\u0644\u064a\u0628\u0633 (\u0627\u0644\u0639\u0627\u0645\u0629) \u0627\u0644\u0630\u064a\u0646 \u064a\u062d\u0635\u0644\u0648\u0646 \u0639\u0644\u0649 \u0645\u0646\u0635\u0628 \u0627\u0644\u0625\u064a\u062f\u064a\u0644 \u0623\u0648 \u0627\u0644\u0623\u0637\u0631\u0628\u0648\u0646 \u0645\u0646 \u0641\u0626\u0629 \u0627\u0644\u062d\u0643\u0627\u0645\u060c \u0644\u0623\u0646\u0647 \u0644\u0645 \u064a\u0646\u062a\u062e\u0628\u0647\u0645 \u0625\u0644\u0627 \u0639\u0627\u0645\u0629 \u0645\u062b\u0644\u0647\u0645\u060c \u0648\u0644\u0630\u0644\u0643 \u0641\u0642\u062f \u0643\u0627\u0646\u0648\u0627 \u0623\u062f\u0646\u0649 \u0631\u062a\u0628\u0629\u064b \u0628\u0643\u062b\u064a\u0631 \u0645\u0646 \u062c\u0645\u064a\u0639 \u0627\u0644\u062d\u0643\u0627\u0645 \u0627\u0644\u0622\u062e\u0631\u064a\u0646 \u0627\u0644\u0623\u0642\u0648\u064a\u0627\u0621. \u0639\u0646\u062f \u0627\u0646\u062a\u0642\u0627\u0644 \u0631\u0648\u0645\u0627 \u0645\u062c\u062f\u062f\u0627\u064b \u0645\u0646 \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0625\u0644\u0649 \u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a\u0629\u060c \u0627\u0646\u062a\u0642\u0644\u062a \u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u062f\u0633\u062a\u0648\u0631\u064a\u0629 \u0645\u0646 \u0645\u062c\u0644\u0633 \u0627\u0644\u0634\u064a\u0648\u062e \u0644\u062a\u0639\u0648\u062f \u0645\u0631\u064e\u0651\u0629 \u0623\u062e\u0631\u0649 \u0625\u0644\u0649 \u0627\u0644\u062d\u0627\u0643\u0645 \u0627\u0644\u062a\u0646\u0641\u064a\u0630\u064a\u060c \u0627\u0644\u0630\u064a \u0623\u0635\u0628\u062d \u0627\u0644\u0622\u0646 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064a (\u0628\u0627\u0644\u062a\u0627\u0644\u064a\u060c \u0623\u0635\u0628\u062d\u062a \u0644\u062f\u0649 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631 \u0641\u0639\u0644\u064a\u0627\u064b \u0633\u0644\u0637\u0629 \u0645\u0637\u0644\u0642\u0629 \u0639\u0644\u0649 \u0627\u0644\u062f\u0648\u0644\u0629). \u0634\u0643\u0644\u064a\u0627\u064b\u060c \u0643\u0627\u0646 \u064a\u0646\u062a\u062e\u0628 \u0645\u062c\u0644\u0633 \u0627\u0644\u0634\u064a\u0648\u062e \u0627\u0644\u0623\u0628\u0627\u0637\u0631\u0629 \u0627\u0644\u062c\u062f\u062f \u062f\u0648\u0645\u0627\u064b\u060c \u0625\u0644\u0627 \u0623\u0646\u064e\u0651 \u0627\u0644\u0639\u0627\u062f\u0629 \u062c\u0631\u062a \u0639\u0644\u0649 \u0623\u0646 \u064a\u062e\u062a\u0627\u0631 \u0643\u0644 \u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631 \u0628\u062f\u0648\u0631\u0647 \u0648\u0644\u064a\u064e\u0651 \u0639\u0647\u062f\u0647\u060c \u0648\u0644\u0645 \u064a\u0643\u0646 \u0647\u0630\u0627 \u0627\u0644\u0642\u0631\u0627\u0631 \u064a\u062a\u0623\u062b\u0631 \u0625\u0644\u0627 \u0628\u0627\u0644\u0627\u0636\u0637\u0631\u0627\u0628\u0627\u062a\u060c \u0643\u0627\u0644\u062d\u0631\u0648\u0628 \u0627\u0644\u0623\u0647\u0644\u064a\u0629 \u0648\u062a\u062f\u062e\u0644\u0627\u062a \u0627\u0644\u062c\u064a\u0634. \u0643\u0627\u0646\u062a \u062a\u062a\u0623\u0644\u0641 \u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631 \u0628\u0627\u0644\u062f\u0631\u062c\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0646 \u0641\u0626\u062a\u064a\u0646\u060c \u0647\u0645\u0627 \"\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0623\u0637\u0631\u0628\u0648\u0646\u064a\u0629\" \u0648\"\u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0642\u0646\u0635\u0644\u064a\u0629\". \u0643\u0627\u0646\u062a \u062a\u062a\u0645\u062b\u064e\u0651\u0644 \u0627\u0644\u0641\u0626\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0628\u0635\u0644\u0627\u062d\u064a\u0627\u062a \u0634\u0628\u064a\u0647\u0629 \u0644\u0635\u0644\u0627\u062d\u064a\u0627\u062a \u0627\u0644\u0623\u0637\u0631\u0628\u0648\u0646 \u0641\u064a \u0627\u0644\u0639\u0647\u062f \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u060c \u062d\u064a\u062b \u064a\u062d\u0638\u0649 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631 \u0628\u0633\u0644\u0637\u0629 \u0639\u0644\u0649 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0627\u0644\u0645\u062f\u0646\u064a\u0629 \u0641\u064a \u0631\u0648\u0645\u0627. \u0623\u0645\u0627 \u0627\u0644\u0641\u0626\u0629 \u0627\u0644\u062b\u0627\u0646\u064a\u0629 \u0641\u0643\u0627\u0646\u062a \u0634\u0628\u064a\u0647\u0629 \u0628\u0635\u0644\u0627\u062d\u064a\u0627\u062a \u0627\u0644\u062d\u0643\u0627\u0645 \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0650\u0651\u064a\u0646\u060c \u062d\u064a\u062b \u062a\u0639\u0637\u064a \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631 \u0633\u0644\u0637\u0629 \u0639\u0644\u0649 \u0627\u0644\u062c\u064a\u0634. \u0643\u0627\u0646\u062a \u0627\u0644\u0627\u062e\u062a\u0644\u0627\u0641\u0627\u062a \u0628\u064a\u0646 \u0647\u0630\u0647 \u0627\u0644\u0635\u0644\u0627\u062d\u064a\u0627\u062a \u0648\u0627\u0636\u062d\u0629 \u0641\u064a \u0627\u0644\u0623\u064a\u0627\u0645 \u0627\u0644\u0623\u0648\u0644\u0649 \u0644\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a\u0629\u060c \u0644\u0643\u0646\u0647\u0627 \u0628\u062f\u0623\u062a \u062a\u062e\u062a\u0641\u064a \u0645\u0639 \u0627\u0644\u0648\u0642\u062a\u060c \u0648\u0623\u0635\u0628\u062d \u0627\u0644\u0623\u0628\u0627\u0637\u0631\u0629 \u064a\u062d\u0638\u0648\u0646 \u0628\u0633\u0644\u0637\u0627\u062a \u0645\u0644\u0643\u064a\u0629 \u0645\u0637\u0644\u0642\u0629\u064d \u0623\u0643\u062b\u0631 \u0645\u0646\u0647\u0627 \u062f\u0633\u062a\u0648\u0631\u064a\u0629. \u0631\u063a\u0645 \u0630\u0644\u0643\u060c \u0628\u0642\u064a\u062a \u0641\u064a \u0639\u0647\u062f \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a\u0629 \u0628\u0639\u0636 \u0627\u0644\u0645\u0646\u0627\u0635\u0628 \u0627\u0644\u0642\u062f\u064a\u0645\u0629 \u0627\u0644\u062a\u064a \u0643\u0627\u0646\u062a \u062a\u0645\u062b\u0644 \u062a\u0633\u0644\u0633\u0644 \u0627\u0644\u062d\u0643\u0627\u0645 \u0627\u0644\u0647\u0631\u0645\u064a \u0623\u064a\u0627\u0645 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064a\u0629\u060c \u0648\u0647\u0630\u0647 \u0627\u0644\u0645\u0646\u0627\u0635\u0628 \u0647\u064a \u0627\u0644\u0628\u0631\u064a\u062a\u0648\u0631 \u0648\u0627\u0644\u0623\u0637\u0631\u0628\u0648\u0646 \u0648\u0627\u0644\u0625\u064a\u062f\u064a\u0644 \u0648\u0627\u0644\u0643\u0648\u064a\u0633\u062a\u0648\u0631 \u0648\u0627\u0644\u0623\u0637\u0631\u0628\u0648\u0646 \u0627\u0644\u0639\u0633\u0643\u0631\u064a. \u0645\u0646 \u062c\u0647\u0629 \u0623\u062e\u0631\u0649\u060c \u0623\u0644\u063a\u0649 \u0645\u0627\u0631\u0643\u0648\u0633 \u0623\u0646\u0637\u0648\u0646\u064a\u0648\u0633 (\u0623\u062b\u0646\u0627\u0621 \u062a\u0648\u0644\u0651\u064a\u0647 \u0635\u0644\u0627\u062d\u064a\u0627\u062a \u0627\u0644\u0642\u0646\u0635\u0644 \u0633\u0646\u0629 44 \u0642.\u0645) \u0645\u0646\u0635\u0628\u064a \u0627\u0644\u062f\u0643\u062a\u0627\u062a\u0648\u0631 \u0648\u0642\u0627\u0626\u062f \u0627\u0644\u0641\u0631\u0633\u0627\u0646\u060c \u0648\u0642\u062f \u0623\u0644\u063a\u0649 \u062e\u0644\u0641\u0627\u0624\u0647 \u0628\u0639\u062f \u0633\u0646\u0648\u0627\u062a \u0642\u0644\u064a\u0644\u0629 \u0635\u0644\u0627\u062d\u064a\u0629 \u0627\u0644\u0631\u0642\u064a\u0628 \u0628\u062f\u0648\u0631\u0647\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u53e4\u4ee3\u30ed\u30fc\u30de\u306e\u653f\u52d9\u5b98\uff08\u305b\u3044\u3080\u304b\u3093\u3001\u30e9\u30c6\u30f3\u8a9e: magistratus\uff09\u3068\u306f\u3001\u6c11\u4f1a\u306b\u3088\u3063\u3066\u9078\u51fa\u3055\u308c\u3001\u5b9f\u969b\u306e\u653f\u52d9\u3084\u8ecd\u4e8b\u3092\u884c\u3046\u8077\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Magistratus populi Romani heette in het Oude Rome iedere burger die als gevolg van een verkiezing door het volk een openbaar bestuursambt bekleedde.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Os magistrados romanos eram oficiais eleitos na Roma Antiga. Durante o per\u00edodo do Reino de Roma, o rei de Roma foi o principal magistrado executivo com poder, na pr\u00e1tica, absoluto: ele era o principal sacerdote, legislador, juiz e o \u00fanico comandante do ex\u00e9rcito. No direito romano, um magistrado era considerado um posto judicial s\u00eanior e o mestre (magister) um dos mais altos cargos administrativos de poder. No entanto, no s\u00e9culo IV, o t\u00edtulo de magistrado foi abolido.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Les magistrats romains repr\u00e9sentent la branche ex\u00e9cutive de la constitution romaine. Durant la Monarchie romaine, le roi est le seul magistrat. Il est assist\u00e9 par deux questeurs qu\u2019il a nomm\u00e9s, ainsi que d\u2019autres assistants pour diverses t\u00e2ches. Quand il meurt, un interrex (interroi) pr\u00e9side le S\u00e9nat et les assembl\u00e9es jusqu\u2019au choix d\u2019un nouveau roi. Sous la R\u00e9publique, la branche ex\u00e9cutive est compos\u00e9e aussi bien de magistrats ordinaires qu'extraordinaires. Chaque magistrat ordinaire est \u00e9lu par une des deux principales assembl\u00e9es. Le principal magistrat extraordinaire, le dictateur, est nomm\u00e9 avec l\u2019aval du S\u00e9nat. Les deux plus hauts rangs de magistrats ordinaires, les consuls et les pr\u00e9teurs, d\u00e9tiennent l\u2019imperium (mot latin pour \u00ab commandement supr\u00eame \u00bb). L\u2019imperium autorise un magistrat \u00e0 commander des forces militaires. Les consuls d\u00e9tiennent un plus haut niveau d\u2019imperium que les pr\u00e9teurs. Apr\u00e8s la chute de la R\u00e9publique, les vieilles magistratures r\u00e9publicaines (dictature, consulat, pr\u00e9ture, censure, \u00e9dilit\u00e9, questure et tribunat) sont en partie abandonn\u00e9es, le reste perdant tout pouvoir. L\u2019empereur devient le ma\u00eetre de l\u2019\u00c9tat. L\u2019arriv\u00e9e de l\u2019Empire est \u00e9quivalente \u00e0 la restauration de l\u2019ancienne monarchie. Le chef de l\u2019ex\u00e9cutif d\u00e9tient un pouvoir incontest\u00e9, le S\u00e9nat redevient simple conseiller sans pouvoir et les assembl\u00e9es totalement impuissantes.",
+                "lang": "fr"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaius_Gracchus_Tribune_of_the_People.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 732400165,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 9167402,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Officials"
+            }
+        ],
+        "http://dbpedia.org/property/coli": [
+            {
+                "type": "literal",
+                "value": "* Romans\n* Roman Republic\n* Roman Empire\n* Roman Law\n* Plebeian Council\n* Centuria",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Roman_magistrate": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Roman_magistrate"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Roman_Magistrates": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Roman_magistrate"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Extraordinary_magistrates": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Roman_magistrate"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Magistratus_ordinarii_/_extraordinarii": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Roman_magistrate"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Extraordinary_magistrate": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Roman_magistrate"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Magistratus": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Roman_magistrate"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Magistratus_extraordinarii": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Roman_magistrate"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Magistratus_ordinarii": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Roman_magistrate"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ordinary_magistrate": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Roman_magistrate"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Roman_Magistrate": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Roman_magistrate"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Roman_magistrates": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Roman_magistrate"
+            }
+        ]
+    }
+}

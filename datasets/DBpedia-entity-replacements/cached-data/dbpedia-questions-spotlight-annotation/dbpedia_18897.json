@@ -1,0 +1,28 @@
+{
+    "@text": "Which TV show produced by Paramount Television and is located in Massachusetts ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Paramount_Television",
+            "@support": "500",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Paramount Television",
+            "@offset": "26",
+            "@similarityScore": "0.9845874761669087",
+            "@percentageOfSecondRank": "0.00938575389414635"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Massachusetts",
+            "@support": "54472",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Massachusetts",
+            "@offset": "65",
+            "@similarityScore": "0.9996798655711128",
+            "@percentageOfSecondRank": "1.1514728775704528E-4"
+        }
+    ]
+}

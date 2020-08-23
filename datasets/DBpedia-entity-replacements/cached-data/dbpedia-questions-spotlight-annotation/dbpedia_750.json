@@ -1,0 +1,28 @@
+{
+    "@text": "What hockey team in the NHL contains Ottawa in their name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/National_Hockey_League",
+            "@support": "29908",
+            "@types": "Wikidata:Q623109,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:SportsLeague,DBpedia:Organisation,DBpedia:IceHockeyLeague,DBpedia:Agent",
+            "@surfaceForm": "NHL",
+            "@offset": "24",
+            "@similarityScore": "0.9999837089573727",
+            "@percentageOfSecondRank": "1.2180479455911278E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ottawa",
+            "@support": "26634",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Ottawa",
+            "@offset": "37",
+            "@similarityScore": "0.9830878091829305",
+            "@percentageOfSecondRank": "0.017174809312965406"
+        }
+    ]
+}

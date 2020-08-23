@@ -1,0 +1,28 @@
+{
+    "@text": "What country is Santa Monica in where Fred MacMurray died?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Santa_Monica_Mountains",
+            "@support": "783",
+            "@types": "Wikidata:Q46831,Schema:Place,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:MountainRange,DBpedia:Location",
+            "@surfaceForm": "Santa Monica",
+            "@offset": "16",
+            "@similarityScore": "0.5327741315754568",
+            "@percentageOfSecondRank": "0.6053240514248709"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Fred_MacMurray",
+            "@support": "596",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Fred MacMurray",
+            "@offset": "38",
+            "@similarityScore": "0.9999999999999716",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

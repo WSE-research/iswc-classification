@@ -1,0 +1,37 @@
+{
+    "@text": "What partner city of Oakland is in the principal area of Santiago de Cuba Province?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "13",
+            "@similarityScore": "0.811827026222439",
+            "@percentageOfSecondRank": "0.11723619973768062"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Local_government_in_Wales",
+            "@support": "490",
+            "@types": "",
+            "@surfaceForm": "principal area",
+            "@offset": "39",
+            "@similarityScore": "0.9248145284435919",
+            "@percentageOfSecondRank": "0.08129788926200762"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Santiago_de_Cuba_Province",
+            "@support": "93",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Santiago de Cuba Province",
+            "@offset": "57",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

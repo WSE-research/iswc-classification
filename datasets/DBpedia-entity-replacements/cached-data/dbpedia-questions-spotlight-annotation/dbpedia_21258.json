@@ -1,0 +1,28 @@
+{
+    "@text": "List the film starring of the movies whose editor is Harvey  Rosenstock ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Harvey_Weinstein",
+            "@support": "590",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Harvey",
+            "@offset": "53",
+            "@similarityScore": "0.7754910008795296",
+            "@percentageOfSecondRank": "0.24260922984353345"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mario_Rosenstock",
+            "@support": "46",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Comedian,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Rosenstock",
+            "@offset": "61",
+            "@similarityScore": "0.9999999707930987",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

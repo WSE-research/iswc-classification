@@ -1,0 +1,46 @@
+{
+    "@text": "Is Maharashtra in administrative territorial entity of Amravati and Chhattisgarh Division?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Maharashtra",
+            "@support": "20764",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Maharashtra",
+            "@offset": "3",
+            "@similarityScore": "0.9999356504555258",
+            "@percentageOfSecondRank": "6.430711946235352E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Territorial_entity",
+            "@support": "131",
+            "@types": "",
+            "@surfaceForm": "administrative territorial entity",
+            "@offset": "18",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Amravati",
+            "@support": "531",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Amravati",
+            "@offset": "55",
+            "@similarityScore": "0.6005759977637788",
+            "@percentageOfSecondRank": "0.6446397111887587"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chhattisgarh_Division",
+            "@support": "15",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Chhattisgarh Division",
+            "@offset": "68",
+            "@similarityScore": "0.9999999999997016",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

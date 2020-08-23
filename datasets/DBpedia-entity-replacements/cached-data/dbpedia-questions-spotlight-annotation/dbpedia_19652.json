@@ -1,0 +1,28 @@
+{
+    "@text": "Which pole driver of 1989 Portuguese Grand Prix was also the first driver of 1993 European Grand Prix ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/1989_Portuguese_Grand_Prix",
+            "@support": "44",
+            "@types": "Wikidata:Q1656682,DUL:Event,Schema:SportsEvent,Schema:Event,DBpedia:SportsEvent,DBpedia:SocietalEvent,DBpedia:GrandPrix,DBpedia:Event",
+            "@surfaceForm": "1989 Portuguese Grand Prix",
+            "@offset": "21",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/1993_European_Grand_Prix",
+            "@support": "49",
+            "@types": "Wikidata:Q1656682,DUL:Event,Schema:SportsEvent,Schema:Event,DBpedia:SportsEvent,DBpedia:SocietalEvent,DBpedia:GrandPrix,DBpedia:Event",
+            "@surfaceForm": "1993 European Grand Prix",
+            "@offset": "77",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

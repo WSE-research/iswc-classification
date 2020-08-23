@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the eye color of azure?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Human_eye",
+            "@support": "3680",
+            "@types": "Wikidata:Q4936952,DBpedia:AnatomicalStructure",
+            "@surfaceForm": "eye",
+            "@offset": "13",
+            "@similarityScore": "0.5911721739905146",
+            "@percentageOfSecondRank": "0.6880381830639678"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Azure_(heraldry)",
+            "@support": "593",
+            "@types": "",
+            "@surfaceForm": "azure",
+            "@offset": "26",
+            "@similarityScore": "0.8756224109624267",
+            "@percentageOfSecondRank": "0.10907658465120142"
+        }
+    ]
+}

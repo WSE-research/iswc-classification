@@ -1,0 +1,28 @@
+{
+    "@text": "Which soccer players were born on Malta?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Association_football",
+            "@support": "280277",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "soccer",
+            "@offset": "6",
+            "@similarityScore": "0.9998537942828475",
+            "@percentageOfSecondRank": "1.104230367713628E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Malta",
+            "@support": "26435",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Malta",
+            "@offset": "34",
+            "@similarityScore": "0.9977560070722755",
+            "@percentageOfSecondRank": "0.0020270165831434363"
+        }
+    ]
+}

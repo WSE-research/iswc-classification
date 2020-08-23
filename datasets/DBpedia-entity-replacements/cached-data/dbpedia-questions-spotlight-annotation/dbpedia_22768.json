@@ -1,0 +1,28 @@
+{
+    "@text": "Does Chicago own the Monroe Station?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Chicago",
+            "@support": "120292",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Chicago",
+            "@offset": "5",
+            "@similarityScore": "0.9993804696528665",
+            "@percentageOfSecondRank": "4.2972575501000135E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Monroe,_Louisiana",
+            "@support": "2013",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Monroe",
+            "@offset": "21",
+            "@similarityScore": "0.7801033879594554",
+            "@percentageOfSecondRank": "0.2813408852009917"
+        }
+    ]
+}

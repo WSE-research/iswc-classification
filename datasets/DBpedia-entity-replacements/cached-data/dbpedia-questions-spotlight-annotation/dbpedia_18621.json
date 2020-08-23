@@ -1,0 +1,28 @@
+{
+    "@text": "Who is owner of the soccer club which owns the Cobham Training Centre?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Association_football",
+            "@support": "280277",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "soccer",
+            "@offset": "20",
+            "@similarityScore": "0.9998614444631811",
+            "@percentageOfSecondRank": "8.777394729884934E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cobham_Training_Centre",
+            "@support": "27",
+            "@types": "Schema:Place,DBpedia:Venue,DBpedia:Place,DBpedia:Location,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Cobham Training Centre",
+            "@offset": "47",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

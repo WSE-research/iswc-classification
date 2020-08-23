@@ -1,0 +1,46 @@
+{
+    "@text": "is {cast member} of {Buffy the Vampire Slayer} that is {character role} is {Buffy Summers} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Buffy_the_Vampire_Slayer",
+            "@support": "3220",
+            "@types": "Wikidata:Q386724,Wikidata:Q15416,Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow",
+            "@surfaceForm": "Buffy",
+            "@offset": "21",
+            "@similarityScore": "0.7375538637979289",
+            "@percentageOfSecondRank": "0.3554387312450032"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Slayer",
+            "@support": "2333",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q215380,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:MusicGroup,DBpedia:Organisation,DBpedia:Group,DBpedia:Band,DBpedia:Agent",
+            "@surfaceForm": "Slayer",
+            "@offset": "39",
+            "@similarityScore": "0.9998304037436109",
+            "@percentageOfSecondRank": "1.5410361066423885E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Character_actor",
+            "@support": "1641",
+            "@types": "",
+            "@surfaceForm": "character role",
+            "@offset": "56",
+            "@similarityScore": "0.9999999997392592",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Buffy_Summers",
+            "@support": "4001",
+            "@types": "",
+            "@surfaceForm": "Buffy Summers",
+            "@offset": "76",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "@text": "Which sister city of Burlington has a county seat held by Yaroslavl Oblast?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "sister city",
+            "@offset": "6",
+            "@similarityScore": "0.9999994271145531",
+            "@percentageOfSecondRank": "5.375223406871576E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Burlington,_Vermont",
+            "@support": "2492",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Burlington",
+            "@offset": "21",
+            "@similarityScore": "0.5029848310908084",
+            "@percentageOfSecondRank": "0.3218641433906428"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/County_seat",
+            "@support": "16036",
+            "@types": "",
+            "@surfaceForm": "county seat",
+            "@offset": "38",
+            "@similarityScore": "0.9998880068341954",
+            "@percentageOfSecondRank": "1.1168944371992057E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Yaroslavl_Oblast",
+            "@support": "1685",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Yaroslavl Oblast",
+            "@offset": "58",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Name the basketball players drafted by Los Angeles Clippers ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Basketball",
+            "@support": "84173",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "basketball",
+            "@offset": "9",
+            "@similarityScore": "0.996409638426775",
+            "@percentageOfSecondRank": "0.003599340816714202"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Los_Angeles_Clippers",
+            "@support": "3147",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:BasketballTeam,DBpedia:Agent",
+            "@surfaceForm": "Los Angeles Clippers",
+            "@offset": "39",
+            "@similarityScore": "0.9999999999167954",
+            "@percentageOfSecondRank": "1.9601269602425705E-11"
+        }
+    ]
+}

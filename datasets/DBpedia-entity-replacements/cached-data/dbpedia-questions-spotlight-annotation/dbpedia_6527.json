@@ -1,0 +1,28 @@
+{
+    "@text": "Which camera is different from a still camera to catch taxon parent of eukaryote?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "55",
+            "@similarityScore": "0.9997665939838284",
+            "@percentageOfSecondRank": "2.3296148951896975E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Eukaryote",
+            "@support": "3745",
+            "@types": "",
+            "@surfaceForm": "eukaryote",
+            "@offset": "71",
+            "@similarityScore": "0.9999999306723335",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Which colonel has allegiance to Colony of Virginia ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Colonel",
+            "@support": "13135",
+            "@types": "",
+            "@surfaceForm": "colonel",
+            "@offset": "6",
+            "@similarityScore": "0.998034957900563",
+            "@percentageOfSecondRank": "0.0017823106333225037"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Virginia",
+            "@support": "84030",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Virginia",
+            "@offset": "42",
+            "@similarityScore": "0.9826990735174839",
+            "@percentageOfSecondRank": "0.017331029975132237"
+        }
+    ]
+}

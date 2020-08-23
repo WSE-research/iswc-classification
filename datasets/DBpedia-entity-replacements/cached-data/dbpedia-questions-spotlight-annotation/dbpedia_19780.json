@@ -1,0 +1,28 @@
+{
+    "@text": "Which famous philosopher died on island Euboea?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Philosopher",
+            "@support": "5914",
+            "@types": "",
+            "@surfaceForm": "philosopher",
+            "@offset": "13",
+            "@similarityScore": "0.8831749653866848",
+            "@percentageOfSecondRank": "0.13103430150797876"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Euboea",
+            "@support": "1114",
+            "@types": "Wikidata:Q23442,Schema:Place,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Island",
+            "@surfaceForm": "Euboea",
+            "@offset": "40",
+            "@similarityScore": "0.9999998996828104",
+            "@percentageOfSecondRank": "4.207474152266984E-8"
+        }
+    ]
+}

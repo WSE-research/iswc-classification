@@ -1,0 +1,37 @@
+{
+    "@text": "What is the district of the city with the MAX(number of houses whose instance of is district of the city?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "28",
+            "@similarityScore": "0.7676322750353708",
+            "@percentageOfSecondRank": "0.15631536466416782"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/MAX_Light_Rail",
+            "@support": "478",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:PublicTransitSystem,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "MAX",
+            "@offset": "42",
+            "@similarityScore": "0.9925505647408317",
+            "@percentageOfSecondRank": "0.005596362793006309"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "100",
+            "@similarityScore": "0.7676322750353708",
+            "@percentageOfSecondRank": "0.15631536466416782"
+        }
+    ]
+}

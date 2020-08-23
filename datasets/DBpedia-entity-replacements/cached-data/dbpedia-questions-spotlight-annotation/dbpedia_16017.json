@@ -1,0 +1,28 @@
+{
+    "@text": "Was Dick Van Dyke a citizen of the USA?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Dick_Van_Dyke",
+            "@support": "748",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Dick Van Dyke",
+            "@offset": "4",
+            "@similarityScore": "0.9966239830667204",
+            "@percentageOfSecondRank": "0.0033874530320804623"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "USA",
+            "@offset": "35",
+            "@similarityScore": "0.9876202327070288",
+            "@percentageOfSecondRank": "0.01146722842976449"
+        }
+    ]
+}

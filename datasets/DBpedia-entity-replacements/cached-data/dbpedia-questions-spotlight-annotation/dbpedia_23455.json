@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the mayor of Rotterdam?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mayor",
+            "@support": "19123",
+            "@types": "",
+            "@surfaceForm": "mayor",
+            "@offset": "11",
+            "@similarityScore": "0.9961752673526756",
+            "@percentageOfSecondRank": "0.0026317686568622226"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rotterdam",
+            "@support": "9890",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Rotterdam",
+            "@offset": "20",
+            "@similarityScore": "0.9995282677682156",
+            "@percentageOfSecondRank": "1.9737178409194535E-4"
+        }
+    ]
+}

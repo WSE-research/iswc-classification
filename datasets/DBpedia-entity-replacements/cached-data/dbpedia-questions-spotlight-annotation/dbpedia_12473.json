@@ -1,0 +1,28 @@
+{
+    "@text": "Is the annual energy output of the Kashiwazaki-Kariwa Nuclear Power Plant equal to 0?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Energy",
+            "@support": "26547",
+            "@types": "",
+            "@surfaceForm": "energy",
+            "@offset": "14",
+            "@similarityScore": "0.9861680244827007",
+            "@percentageOfSecondRank": "0.012179113641935526"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Kashiwazaki-Kariwa_Nuclear_Power_Plant",
+            "@support": "65",
+            "@types": "Wikidata:Q159719,Schema:Place,DBpedia:PowerStation,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Kashiwazaki-Kariwa Nuclear Power Plant",
+            "@offset": "35",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "@text": "Panthera leo fossils and Liger belong to which species?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Lion",
+            "@support": "5849",
+            "@types": "",
+            "@surfaceForm": "Panthera leo",
+            "@offset": "0",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Fossil",
+            "@support": "16906",
+            "@types": "",
+            "@surfaceForm": "fossils",
+            "@offset": "13",
+            "@similarityScore": "0.9999997370954138",
+            "@percentageOfSecondRank": "2.1053116129733008E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Liger",
+            "@support": "207",
+            "@types": "Wikidata:Q7377,Wikidata:Q729,Wikidata:Q19088,DBpedia:Species,DBpedia:Mammal,DBpedia:Eukaryote,DBpedia:Animal",
+            "@surfaceForm": "Liger",
+            "@offset": "25",
+            "@similarityScore": "0.999999999992724",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Species",
+            "@support": "158628",
+            "@types": "",
+            "@surfaceForm": "species",
+            "@offset": "47",
+            "@similarityScore": "0.9999999365659582",
+            "@percentageOfSecondRank": "2.431433116449566E-8"
+        }
+    ]
+}

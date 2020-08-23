@@ -1,0 +1,37 @@
+{
+    "@text": "Tell me metropolitan city of South Korea whose name has the word ulsan in it.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Administrative_divisions_of_South_Korea",
+            "@support": "1792",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "21",
+            "@similarityScore": "0.8799877129364759",
+            "@percentageOfSecondRank": "0.13153385784682625"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/South_Korea",
+            "@support": "46107",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "South Korea",
+            "@offset": "29",
+            "@similarityScore": "0.9988037342811633",
+            "@percentageOfSecondRank": "0.0011456612675745882"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ulsan",
+            "@support": "856",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "ulsan",
+            "@offset": "65",
+            "@similarityScore": "0.9998419896761845",
+            "@percentageOfSecondRank": "1.4411498347825257E-4"
+        }
+    ]
+}

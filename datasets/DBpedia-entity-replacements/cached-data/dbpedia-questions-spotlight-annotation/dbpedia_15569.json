@@ -1,0 +1,28 @@
+{
+    "@text": "Did Bitcoin come from Sardinia?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Bitcoin",
+            "@support": "3000",
+            "@types": "DBpedia:Currency",
+            "@surfaceForm": "Bitcoin",
+            "@offset": "4",
+            "@similarityScore": "0.9999999239480133",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sardinia",
+            "@support": "7117",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Sardinia",
+            "@offset": "22",
+            "@similarityScore": "0.9932015604910809",
+            "@percentageOfSecondRank": "0.006713456556022409"
+        }
+    ]
+}

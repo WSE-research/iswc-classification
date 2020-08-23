@@ -1,0 +1,37 @@
+{
+    "@text": "Who is the daughter of Edward I of England where she died at Belgium?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Edward_I_of_England",
+            "@support": "3958",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Edward I",
+            "@offset": "23",
+            "@similarityScore": "0.9999999251805064",
+            "@percentageOfSecondRank": "5.038256970487949E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/England",
+            "@support": "151620",
+            "@types": "",
+            "@surfaceForm": "England",
+            "@offset": "35",
+            "@similarityScore": "0.9695310673731206",
+            "@percentageOfSecondRank": "0.017411143997760937"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Belgium",
+            "@support": "58385",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Belgium",
+            "@offset": "61",
+            "@similarityScore": "0.9951918195279186",
+            "@percentageOfSecondRank": "0.004730837646102532"
+        }
+    ]
+}

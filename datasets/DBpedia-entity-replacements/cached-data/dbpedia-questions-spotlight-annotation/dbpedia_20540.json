@@ -1,0 +1,28 @@
+{
+    "@text": "Name the chairman of the soccer club for which Mike Salmon currently plays?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Association_football",
+            "@support": "280277",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "soccer",
+            "@offset": "25",
+            "@similarityScore": "0.9993604672162539",
+            "@percentageOfSecondRank": "5.881451471386644E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mike_Salmon",
+            "@support": "6",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q628099,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:SportsManager,DBpedia:SoccerManager,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Mike Salmon",
+            "@offset": "47",
+            "@similarityScore": "0.9999644049464383",
+            "@percentageOfSecondRank": "3.5235592518796035E-5"
+        }
+    ]
+}

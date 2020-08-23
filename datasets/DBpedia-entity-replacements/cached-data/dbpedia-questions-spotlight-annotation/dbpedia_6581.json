@@ -1,0 +1,28 @@
+{
+    "@text": "Is the number of seats of the Senate of Palau greater than 10.8?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/United_States_Senate",
+            "@support": "46009",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q11204,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature,DBpedia:Agent",
+            "@surfaceForm": "Senate",
+            "@offset": "30",
+            "@similarityScore": "0.9065580716074864",
+            "@percentageOfSecondRank": "0.07834072134081624"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Palau",
+            "@support": "4531",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Palau",
+            "@offset": "40",
+            "@similarityScore": "0.9999662831237184",
+            "@percentageOfSecondRank": "2.0274552763928728E-5"
+        }
+    ]
+}

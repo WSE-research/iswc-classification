@@ -1,0 +1,46 @@
+{
+    "@text": "What is {Charles Baudelaire}'s {Poets.org poet ID}?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Charles_I_of_England",
+            "@support": "7203",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Charles",
+            "@offset": "9",
+            "@similarityScore": "0.5003768882551328",
+            "@percentageOfSecondRank": "0.7154449387030647"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Charles_Baudelaire",
+            "@support": "1339",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Baudelaire",
+            "@offset": "17",
+            "@similarityScore": "0.9993273328759206",
+            "@percentageOfSecondRank": "6.731184921510065E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_of_American_Poets",
+            "@support": "753",
+            "@types": "",
+            "@surfaceForm": "Poets.org",
+            "@offset": "32",
+            "@similarityScore": "0.9999999996753388",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Poetry",
+            "@support": "20844",
+            "@types": "",
+            "@surfaceForm": "poet",
+            "@offset": "42",
+            "@similarityScore": "0.8151462400200842",
+            "@percentageOfSecondRank": "0.22675610287904943"
+        }
+    ]
+}

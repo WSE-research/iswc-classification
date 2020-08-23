@@ -1,0 +1,505 @@
+{
+    "http://dbpedia.org/resource/Virgo_Supercluster": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Collection107951464"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Agglomeration107959269"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Bunch107959943"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatGalaxyClusters"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Building"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u0639\u0646\u0642\u0648\u062f \u0645\u062c\u0631\u0627\u062a \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0627\u0644\u0639\u0638\u064a\u0645",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Virgo Supercluster",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Superamas de la Vierge",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Virgo-Superhaufen",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u041c\u0435\u0441\u0442\u043d\u043e\u0435 \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Superammasso Locale",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Superaglomerado local",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u5ba4\u5973\u8d85\u661f\u7cfb\u56e2",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Superc\u00famulo de Virgo",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Virgosupercluster",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Supergromada Lokalna",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u304a\u3068\u3081\u5ea7\u8d85\u9280\u6cb3\u56e3",
+                "lang": "ja"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Der Virgo-Superhaufen (auch Lokaler Superhaufen) ist ein Supergalaxienhaufen und selbst Teil des Laniakea-Galaxienhaufens. Er enth\u00e4lt unter anderem die Lokale Gruppe, zu der auch das Milchstra\u00dfensystem geh\u00f6rt.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Il Superammasso Locale, chiamato anche Superammasso della Vergine, \u00e8 il superammasso di galassie che contiene il nostro Gruppo Locale, e all'interno di questo la nostra galassia, la Via Lattea (a cui appartiene il sistema solare). Ha la forma di un disco appiattito, con un diametro di circa 200 milioni di anni luce. Contiene circa 100 tra gruppi e ammassi di galassie, e prende il nome dall'Ammasso della Vergine, che si trova vicino al suo centro. Il Gruppo Locale si trova al bordo del superammasso, e si muove lentamente verso il suo centro.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u041c\u0435\u0301\u0441\u0442\u043d\u043e\u0435 \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u0301\u043d\u0438\u0435 \u0433\u0430\u043b\u0430\u0301\u043a\u0442\u0438\u043a (\u0421\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435 \u0414\u0435\u0432\u044b \u0438\u043b\u0438 \u0421\u0443\u043f\u0435\u0440\u043a\u043b\u0430\u0441\u0442\u0435\u0440 \u0414\u0435\u0432\u044b) \u2014 \u043d\u0435\u0440\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a \u0440\u0430\u0437\u043c\u0435\u0440\u043e\u043c \u043e\u043a\u043e\u043b\u043e 200 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u0441\u0432\u0435\u0442\u043e\u0432\u044b\u0445 \u043b\u0435\u0442, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0449\u0435\u0435 \u041c\u0435\u0441\u0442\u043d\u0443\u044e \u0433\u0440\u0443\u043f\u043f\u0443 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a, \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a \u0432 \u0414\u0435\u0432\u0435 \u0438 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0439 \u0438 \u0433\u0440\u0443\u043f\u043f \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a. \u0412\u0441\u0435\u0433\u043e \u0432 \u0441\u043e\u0441\u0442\u0430\u0432 \u041c\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f \u0432\u0445\u043e\u0434\u044f\u0442 \u043a\u0430\u043a \u043c\u0438\u043d\u0438\u043c\u0443\u043c 100 \u0433\u0440\u0443\u043f\u043f \u0438 \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0439 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a (\u0441 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u0443\u044e\u0449\u0438\u043c \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435\u043c \u0414\u0435\u0432\u044b \u0432 \u0446\u0435\u043d\u0442\u0440\u0435) \u0438 \u043e\u043a\u043e\u043b\u043e 30 \u0442\u044b\u0441\u044f\u0447 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a; \u0435\u0433\u043e \u043c\u0430\u0441\u0441\u0430 \u043f\u043e \u043f\u043e\u0440\u044f\u0434\u043a\u0443 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u044b 1015 \u043c\u0430\u0441\u0441 \u0421\u043e\u043b\u043d\u0446\u0430 (2\u00b71045 \u043a\u0433). \u041f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0435\u0433\u043e \u0441\u0432\u0435\u0442\u0438\u043c\u043e\u0441\u0442\u044c \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u0430\u043b\u0430 \u0434\u043b\u044f \u0442\u0430\u043a\u043e\u0433\u043e \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0437\u0432\u0451\u0437\u0434, \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044f, \u0447\u0442\u043e \u043d\u0430 \u0431\u043e\u0301\u043b\u044c\u0448\u0443\u044e \u0447\u0430\u0441\u0442\u044c \u043c\u0430\u0441\u0441\u044b \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043c\u0430\u0441\u0441\u0430 \u0442\u0451\u043c\u043d\u043e\u0439 \u043c\u0430\u0442\u0435\u0440\u0438\u0438. \u0421\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435 \u0414\u0435\u0432\u044b \u043f\u0440\u0438\u0442\u044f\u0433\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043a \u0433\u0440\u0430\u0432\u0438\u0442\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0430\u043d\u043e\u043c\u0430\u043b\u0438\u0438 \u043f\u043e\u0434 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435\u043c \u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0430\u0442\u0442\u0440\u0430\u043a\u0442\u043e\u0440, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0430 \u0440\u044f\u0434\u043e\u043c \u0441\u043e \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435\u043c \u041d\u0430\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a\u0430. \u0412\u0445\u043e\u0434\u0438\u0442 \u0432 \u0432\u043e\u043b",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u5ba4\u5973\u5ea7\u8d85\u661f\u7cfb\u56e2\uff08Virgo Supercluster\uff0c\u7c21\u7a31Virgo SC\uff09\u6216\u672c\u8d85\u661f\u7cfb\u5718\uff08Local Supercluster\uff0c\u7c21\u7a31LSC\u6216LS\uff09\u662f\u500b\u4e0d\u898f\u5247\u7684\u8d85\u661f\u7cfb\u5718\uff0c\u5305\u542b\u9280\u6cb3\u7cfb\u548c\u4ed9\u5973\u5ea7\u661f\u7cfb\u6240\u5c6c\u7684\u672c\u661f\u7cfb\u7fa4\u5728\u5167\uff0c\u81f3\u5c11\u6709100\u500b\u661f\u7cfb\u5718\u805a\u96c6\u5728\u76f4\u5f9133\u767e\u842c\u79d2\u5dee\u8ddd\uff081\u51041\u5343\u842c\u5149\u5e74\uff09\u7684\u7a7a\u9593\u5167\uff0c\u662f\u5728\u53ef\u89c0\u6e2c\u5b87\u5b99\u4e2d\u6578\u4ee5\u767e\u842c\u8a08\u7684\u8d85\u661f\u7cfb\u5718\u4e2d\u7684\u4e00\u500b\u3002\u5ba4\u5973\u5ea7\u8d85\u661f\u7cfb\u56e2\u662fLaniakea\u8d85\u661f\u7cfb\u5718\u7684\u4e00\u90e8\u4efd\u3002\u8be5\u661f\u7cfb\u56e2\u7684\u4e2d\u5fc3\u533a\u57df\u8ddd\u79bb\u5730\u7403\u7ea6\u67096000\u4e07\u5149\u5e74\uff0c\u4f4d\u4e8e\u5ba4\u5973\u5ea7\uff0c\u8457\u540d\u7684\u6885\u897f\u8036\u5929\u4f53M49\u3001M60\u3001M86\u3001M87\u5747\u4f4d\u4e8e\u6b64\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "O superaglomerado de Virgem, chamado tamb\u00e9m de superaglomerado local, \u00e9 um superaglomerado de gal\u00e1xias. Nele est\u00e1 contido o Grupo Local de Gal\u00e1xias com nossa gal\u00e1xia, a Via L\u00e1ctea. Possui a forma de um disco plano, com um di\u00e2metro de 200 milh\u00f5es de anos-luz. Este superaglomerado cont\u00e9m cerca de 100 grupos e aglomerados de gal\u00e1xias, e \u00e9 dominado pelo Aglomerado de Virgem localizado perto do centro. O Grupo Local de Gal\u00e1xias est\u00e1 localizado perto da borda do Aglomerado de Virgem pelo qual \u00e9 atra\u00eddo.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u304a\u3068\u3081\u5ea7\u8d85\u9280\u6cb3\u56e3\uff08\u304a\u3068\u3081\u3056\u3061\u3087\u3046\u304e\u3093\u304c\u3060\u3093\u3001Virgo Supercluster\uff09\u306f\u3001\u9280\u6cb3\u7cfb\uff08\u5929\u306e\u5ddd\u9280\u6cb3\uff09\u3001\u30a2\u30f3\u30c9\u30ed\u30e1\u30c0\u9280\u6cb3\u3001\u5927\u30de\u30bc\u30e9\u30f3\u96f2\u306a\u3069\u304b\u3089\u306a\u308b\u5c40\u90e8\u9280\u6cb3\u7fa4\u3092\u542b\u3080\u8d85\u9280\u6cb3\u56e3\u3067\u3042\u308b\u3002\u5c40\u90e8\u8d85\u9280\u6cb3\u56e3\u3068\u3082\u547c\u3070\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Supergromada Lokalna (tak\u017ce Supergromada w Pannie; ang. Local Supercluster lub Virgo Supercluster) \u2013 supergromada zajmuj\u0105ca obszar o \u015brednicy oko\u0142o 200 milion\u00f3w lat \u015bwietlnych. W jej sk\u0142ad wchodzi oko\u0142o 100 gromad i grup galaktyk, kt\u00f3rych centrum stanowi masywna Gromada w Pannie. Na peryferiach tej supergromady znajduje si\u0119 Grupa Lokalna Galaktyk, do kt\u00f3rej zaliczana jest nasza Droga Mleczna. Istnienie wyr\u00f3\u017cnionej p\u0142aszczyzny w Supergromadzie Lokalnej dostrzeg\u0142 jako pierwszy G\u00e9rard de Vaucouleurs w 1953 roku. Pos\u0142u\u017cy\u0142a mu ona do wprowadzenia wsp\u00f3\u0142rz\u0119dnych supergalaktycznych.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0639\u0646\u0642\u0648\u062f \u0645\u062c\u0631\u0627\u062a \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0627\u0644\u0639\u0638\u064a\u0645 (\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Virgo Supercluster \u0623\u0648 Local Supercluster ) \u0647\u0648 \u062a\u062c\u0645\u0639 \u0645\u062c\u0631\u064a \u0647\u0627\u0626\u0644 \u063a\u064a\u0631 \u0645\u0646\u062a\u0638\u0645 \u064a\u062a\u0643\u0648\u0646 \u0645\u0646 \u062a\u062c\u0645\u0639 \u0645\u062c\u0631\u0627\u062a \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0645\u062d\u0644\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0648\u062c\u062f \u0641\u064a\u0647\u0627 \u0645\u062c\u0631\u0629 \u062f\u0631\u0628 \u0627\u0644\u062a\u0628\u0627\u0646\u0629 \u0648 \u0627\u0644\u0645\u062c\u0631\u0629 \u0627\u0644\u0643\u0628\u064a\u0631\u0629 \u0627\u0644\u0645\u0631\u0623\u0629 \u0627\u0644\u0645\u0633\u0644\u0633\u0644\u0629. \u064a\u0648\u062c\u062f \u0641\u064a \u0647\u0630\u0627 \u0627\u0644\u0639\u0646\u0642\u0648\u062f \u0627\u0644\u0639\u0638\u064a\u0645 100 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u062c\u0631\u0627\u062a \u0639\u0644\u0649 \u0627\u0644\u0623\u0642\u0644 \u060c \u0641\u064a \u062d\u062c\u0645 \u064a\u0628\u0644\u063a \u0642\u0637\u0631\u0647 \u0646\u062d\u0648 33 \u0645\u0644\u064a\u0648\u0646 \u0641\u0631\u0633\u062e \u0641\u0644\u0643\u064a \u060c \u0623\u064a \u0646\u062d\u0648 110 \u0645\u0644\u064a\u0648\u0646 \u0633\u0646\u0629 \u0636\u0648\u0626\u064a\u0629. \u064a\u0634\u0643\u0644 \u0647\u0630\u0627 \u0627\u0644\u0639\u0646\u0642\u0648\u062f \u0627\u0644\u0639\u0638\u064a\u0645 \u0648\u0627\u062d\u062f\u0627 \u0645\u0646 \u0646\u062d\u0648 \u0645\u0644\u064a\u0648\u0646 \u0645\u0646 \u0623\u0645\u062b\u0627\u0644\u0647 \u0645\u0646 \u0627\u0644\u0639\u0646\u0627\u0642\u064a\u062f \u0627\u0644\u0645\u062c\u0631\u064a\u0629 \u0627\u0644\u0639\u0638\u064a\u0645\u0629 \u0627\u0644\u0645\u0648\u062c\u0648\u062f\u0629 \u0641\u064a \u0627\u0644\u0643\u0648\u0646 \u0627\u0644\u0645\u0631\u0626\u064a.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "El Superc\u00famulo de Virgo, o Superc\u00famulo Local, (en ingl\u00e9s 'Local Supercluster' o LS) es el superc\u00famulo de galaxias que contiene al Grupo Local y con \u00e9l, a nuestra galaxia, la V\u00eda L\u00e1ctea. Tiene la forma de un disco plano, con un di\u00e1metro de 200 millones de a\u00f1os luz. El superc\u00famulo contiene alrededor de 100 grupos y c\u00famulos de galaxias, y est\u00e1 dominado por el c\u00famulo de Virgo, localizado cerca de su centro. El Grupo Local est\u00e1 localizado cerca del borde del c\u00famulo de Virgo, al cual es atra\u00eddo.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Le superamas de la Vierge, \u00e9galement appel\u00e9 Superamas local, est le superamas de galaxies qui contient le Groupe local, comprenant la Voie lact\u00e9e et la galaxie d'Androm\u00e8de. Le nom de \u00ab superamas de la Vierge \u00bb provient du fait que c'est l'amas de la Vierge qui est situ\u00e9 en son centre. Cependant, en vue d'\u00e9viter les confusions entre \u00ab amas \u00bb et \u00ab superamas \u00bb de la Vierge, qui sont des structures de masse et d'\u00e9tendue tr\u00e8s diff\u00e9rentes, on pr\u00e9f\u00e8re en g\u00e9n\u00e9ral utiliser le nom de Superamas local. Il est englob\u00e9 dans l'ensemble encore plus vaste nomm\u00e9 Laniakea.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "The Virgo Supercluster (Virgo SC) or the Local Supercluster (LSC or LS), one of the millions of superclusters, is a mass concentration of galaxies that contains the Virgo Cluster in addition to the Local Group, which in turn contains the Milky Way and Andromeda Galaxies. At least 100 galaxy groups and clusters are located within its diameter of 33 megaparsecs (110 million light-years). It is one of about 10 million superclusters in the observable universe.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "De Virgosupercluster of Lokale Supercluster is de supercluster waar de Lokale Groep \u2013 met daarin onze Melkweg \u2013 deel van uitmaakt. De Virgocluster is de zwaarste cluster in deze supercluster en bevindt zich in het zwaartepunt. De Lokale Groep bevindt zich aan de rand van de supercluster en beweegt zich op dit moment van het centrum af met een snelheid van 1000 km/s. Deze buitenwaartse beweging wordt echter afgeremd door de zwaartekracht van met name de Virgocluster en zal uiteindelijk omkeren. De Virgosupercluster is zelf weer een klein onderdeel van Laniakea, een nog veel grotere supercluster ontdekt in 2014.",
+                "lang": "nl"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Supergromada_Lokalna"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Superkluster_Virgo"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Virgo_Supercluster"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Superammasso_Locale"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Superc\u00famulo_de_Virgo"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ucc98\ub140\uc790\ub9ac_\ucd08\uc740\ud558\ub2e8"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Superamas_de_la_Vierge"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q175760"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/M\u00edstn\u00ed_nadkupa_galaxi\u00ed"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q175760"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01825t"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Virgosupercluster"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u304a\u3068\u3081\u5ea7\u8d85\u9280\u6cb3\u56e3"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Superaglomerado_local"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Virgo-Superhaufen"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Virgo_Supercluster"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Galaxy_superclusters"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Local_supercluster-ly.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Virgo_Supercluster"
+            }
+        ],
+        "http://dbpedia.org/property/luminosity": [
+            {
+                "type": "literal",
+                "value": 3,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Virgo_Supercluster?oldid=740853878"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.atlasoftheuniverse.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://adsabs.harvard.edu/cgi-bin/bib_query?1988ApJ...326...19L"
+            },
+            {
+                "type": "uri",
+                "value": "http://upload.wikimedia.org/wikipedia/commons/0/0f/Earth%27s_Location_in_the_Universe_SMALLER_%28JPEG%29.jpg"
+            }
+        ],
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "literal",
+                "value": "Distances from the Local Group for selected groups and clusters within the Local Supercluster",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/epoch": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epoch_(astronomy)"
+            }
+        ],
+        "http://dbpedia.org/property/mass": [
+            {
+                "type": "literal",
+                "value": "~1.48 \u00d7 1015",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Virgo Supercluster",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/otherNames": [
+            {
+                "type": "literal",
+                "value": "Local Supercluster, LSC, LS",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "O superaglomerado de Virgem, chamado tamb\u00e9m de superaglomerado local, \u00e9 um superaglomerado de gal\u00e1xias. Nele est\u00e1 contido o Grupo Local de Gal\u00e1xias com nossa gal\u00e1xia, a Via L\u00e1ctea. Possui a forma de um disco plano, com um di\u00e2metro de 200 milh\u00f5es de anos-luz. Este superaglomerado cont\u00e9m cerca de 100 grupos e aglomerados de gal\u00e1xias, e \u00e9 dominado pelo Aglomerado de Virgem localizado perto do centro. O Grupo Local de Gal\u00e1xias est\u00e1 localizado perto da borda do Aglomerado de Virgem pelo qual \u00e9 atra\u00eddo. Pelo efeito gravitacional que exerce no movimento das gal\u00e1xias, estima-se que a massa total do superaglomerado de Virgem seja algo em torno de 1015 massas solares. \u00c9 prov\u00e1vel que uma quantidade significativa de sua massa seja composta por mat\u00e9ria escura. Suspeita-se que, assim como os Aglomerados se agrupam em superaglomerados, os superaglomerados se agrupam em Hiperaglomerados. Se for provada sua exist\u00eancia esses \u00faltimos seriam as segundas maiores estruturas do Universo, atr\u00e1s apenas da Grande Muralha Uma anomalia gravitacional conhecida como Grande Atrator existe em alguma parte dentro do Superaglomerado Local.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "El Superc\u00famulo de Virgo, o Superc\u00famulo Local, (en ingl\u00e9s 'Local Supercluster' o LS) es el superc\u00famulo de galaxias que contiene al Grupo Local y con \u00e9l, a nuestra galaxia, la V\u00eda L\u00e1ctea. Tiene la forma de un disco plano, con un di\u00e1metro de 200 millones de a\u00f1os luz. El superc\u00famulo contiene alrededor de 100 grupos y c\u00famulos de galaxias, y est\u00e1 dominado por el c\u00famulo de Virgo, localizado cerca de su centro. El Grupo Local est\u00e1 localizado cerca del borde del c\u00famulo de Virgo, al cual es atra\u00eddo. La longitud del superc\u00famulo de Virgo es de aproximadamente 33 megaparsecs (107 millones de a\u00f1os luz, en comparaci\u00f3n el Grupo Local tiene 1 megaparsec de longitud m\u00e1xima). Este superc\u00famulo es uno de millones de superc\u00famulos a lo largo del Universo observable Por el efecto gravitatorio que ejerce en el movimiento de las galaxias, se estima que la masa total del Superc\u00famulo de Virgo es de 1015 masas solares (2 \u00d7 1046 kg; ver \u00d3rdenes de magnitud (masa). Debido a que su luminosidad es demasiado peque\u00f1a para dicha cantidad de estrellas, se piensa que una cantidad considerable de su masa est\u00e1 compuesta de materia oscura. Se sospecha que, en la medida que los c\u00famulos se agrupan en superc\u00famulos, asimismo los superc\u00famulos se agrupan en complejos de superc\u00famulos tambi\u00e9n llamados hiperc\u00famulos, filamentos gal\u00e1cticos o grandes muros. El Superc\u00famulo Local (o de Virgo) junto con el Superc\u00famulo Hidra-Centauro forman una de las cinco partes que integran el Complejo de Superc\u00famulos Piscis-Cetus Una anomal\u00eda gravitacional conocida como el Gran Atractor existe en alguna parte dentro del superc\u00famulo local.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Le superamas de la Vierge, \u00e9galement appel\u00e9 Superamas local, est le superamas de galaxies qui contient le Groupe local, comprenant la Voie lact\u00e9e et la galaxie d'Androm\u00e8de. Le nom de \u00ab superamas de la Vierge \u00bb provient du fait que c'est l'amas de la Vierge qui est situ\u00e9 en son centre. Cependant, en vue d'\u00e9viter les confusions entre \u00ab amas \u00bb et \u00ab superamas \u00bb de la Vierge, qui sont des structures de masse et d'\u00e9tendue tr\u00e8s diff\u00e9rentes, on pr\u00e9f\u00e8re en g\u00e9n\u00e9ral utiliser le nom de Superamas local. Il est englob\u00e9 dans l'ensemble encore plus vaste nomm\u00e9 Laniakea.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u041c\u0435\u0301\u0441\u0442\u043d\u043e\u0435 \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u0301\u043d\u0438\u0435 \u0433\u0430\u043b\u0430\u0301\u043a\u0442\u0438\u043a (\u0421\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435 \u0414\u0435\u0432\u044b \u0438\u043b\u0438 \u0421\u0443\u043f\u0435\u0440\u043a\u043b\u0430\u0441\u0442\u0435\u0440 \u0414\u0435\u0432\u044b) \u2014 \u043d\u0435\u0440\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a \u0440\u0430\u0437\u043c\u0435\u0440\u043e\u043c \u043e\u043a\u043e\u043b\u043e 200 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u0441\u0432\u0435\u0442\u043e\u0432\u044b\u0445 \u043b\u0435\u0442, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0449\u0435\u0435 \u041c\u0435\u0441\u0442\u043d\u0443\u044e \u0433\u0440\u0443\u043f\u043f\u0443 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a, \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a \u0432 \u0414\u0435\u0432\u0435 \u0438 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0439 \u0438 \u0433\u0440\u0443\u043f\u043f \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a. \u0412\u0441\u0435\u0433\u043e \u0432 \u0441\u043e\u0441\u0442\u0430\u0432 \u041c\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f \u0432\u0445\u043e\u0434\u044f\u0442 \u043a\u0430\u043a \u043c\u0438\u043d\u0438\u043c\u0443\u043c 100 \u0433\u0440\u0443\u043f\u043f \u0438 \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0439 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a (\u0441 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u0443\u044e\u0449\u0438\u043c \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435\u043c \u0414\u0435\u0432\u044b \u0432 \u0446\u0435\u043d\u0442\u0440\u0435) \u0438 \u043e\u043a\u043e\u043b\u043e 30 \u0442\u044b\u0441\u044f\u0447 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a; \u0435\u0433\u043e \u043c\u0430\u0441\u0441\u0430 \u043f\u043e \u043f\u043e\u0440\u044f\u0434\u043a\u0443 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u044b 1015 \u043c\u0430\u0441\u0441 \u0421\u043e\u043b\u043d\u0446\u0430 (2\u00b71045 \u043a\u0433). \u041f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0435\u0433\u043e \u0441\u0432\u0435\u0442\u0438\u043c\u043e\u0441\u0442\u044c \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u0430\u043b\u0430 \u0434\u043b\u044f \u0442\u0430\u043a\u043e\u0433\u043e \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0437\u0432\u0451\u0437\u0434, \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044f, \u0447\u0442\u043e \u043d\u0430 \u0431\u043e\u0301\u043b\u044c\u0448\u0443\u044e \u0447\u0430\u0441\u0442\u044c \u043c\u0430\u0441\u0441\u044b \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043c\u0430\u0441\u0441\u0430 \u0442\u0451\u043c\u043d\u043e\u0439 \u043c\u0430\u0442\u0435\u0440\u0438\u0438. \u0421\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435 \u0414\u0435\u0432\u044b \u043f\u0440\u0438\u0442\u044f\u0433\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043a \u0433\u0440\u0430\u0432\u0438\u0442\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0430\u043d\u043e\u043c\u0430\u043b\u0438\u0438 \u043f\u043e\u0434 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435\u043c \u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0430\u0442\u0442\u0440\u0430\u043a\u0442\u043e\u0440, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0430 \u0440\u044f\u0434\u043e\u043c \u0441\u043e \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435\u043c \u041d\u0430\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a\u0430. \u0412\u0445\u043e\u0434\u0438\u0442 \u0432 \u0432\u043e\u043b\u043e\u043a\u043d\u0438\u0441\u0442\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443, \u043d\u0430\u0437\u0432\u0430\u043d\u043d\u0443\u044e \u041b\u0430\u043d\u0438\u0430\u043a\u0435\u044f. \u041c\u0435\u0441\u0442\u043d\u043e\u0435 \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435 \u2014 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u044b\u0439 \u043f\u0440\u0438\u043c\u0435\u0440 \u043a\u0440\u0443\u043f\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0412\u0441\u0435\u043b\u0435\u043d\u043d\u043e\u0439. \u041e\u043d\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0443\u043f\u043b\u043e\u0449\u0451\u043d\u043d\u044b\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c, \u0441\u043e\u0441\u0442\u043e\u044f\u0449\u0438\u043c \u0438\u0437 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0446\u0435\u043f\u043e\u0447\u0435\u043a \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a (\u0444\u0438\u043b\u0430\u043c\u0435\u043d\u0442\u043e\u0432), \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432 \u043f\u0440\u043e\u0435\u043a\u0446\u0438\u0438 \u043d\u0430 \u043d\u0435\u0431\u043e \u0432\u044b\u0433\u043b\u044f\u0434\u0438\u0442 \u043a\u0430\u043a \u043e\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0430\u044f \u0432\u0435\u0441\u044c \u043d\u0435\u0431\u043e\u0441\u0432\u043e\u0434 \u043f\u043e\u043b\u043e\u0441\u0430, \u0432 \u043f\u0440\u0435\u0434\u0435\u043b\u0430\u0445 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0435\u0442\u0441\u044f \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u044f\u0440\u043a\u0438\u0445 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a (\u0441\u0432\u043e\u0435\u0433\u043e \u0440\u043e\u0434\u0430 \u0430\u043d\u0430\u043b\u043e\u0433 \u041c\u043b\u0435\u0447\u043d\u043e\u0433\u043e \u041f\u0443\u0442\u0438). \u0412\u043f\u0435\u0440\u0432\u044b\u0435 \u044d\u0442\u0443 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u0432 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0438 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u043d\u043e\u0447\u043d\u043e\u0433\u043e \u043d\u0435\u0431\u0430 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b \u0432\u0435\u043b\u0438\u043a\u0438\u0439 \u0430\u0441\u0442\u0440\u043e\u043d\u043e\u043c \u0412\u0438\u043b\u044c\u044f\u043c \u0413\u0435\u0440\u0448\u0435\u043b\u044c \u0435\u0449\u0451 \u0432 \u043a\u043e\u043d\u0446\u0435 XVIII \u0432\u0435\u043a\u0430, \u0437\u0430\u0442\u0435\u043c \u0435\u0451 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0440\u0430\u0437 \u043f\u0435\u0440\u0435\u043e\u0442\u043a\u0440\u044b\u0432\u0430\u043b\u0438, \u043f\u043e\u043a\u0430 \u043d\u0430\u043a\u043e\u043d\u0435\u0446 \u0432 1953 \u0433\u043e\u0434\u0443 \u043a \u043d\u0435\u0439 \u043d\u0435 \u043f\u0440\u0438\u0432\u043b\u0435\u043a \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u0416\u0435\u0440\u0430\u0440 \u0434\u0435 \u0412\u043e\u043a\u0443\u043b\u0451\u0440 (\u0421\u0428\u0410). \u0412 \u043e\u0442\u043b\u0438\u0447\u0438\u0435 \u043e\u0442 \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0439, \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a \u043d\u0435 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0433\u0440\u0430\u0432\u0438\u0442\u0430\u0446\u0438\u043e\u043d\u043d\u043e-\u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u043c\u0438 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430\u043c\u0438, \u043e\u043d\u0438 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u043e\u0431\u0449\u0435\u043c \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0438 \u0412\u0441\u0435\u043b\u0435\u043d\u043d\u043e\u0439, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u044f \u0434\u043e \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u041c\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f \u043c\u043e\u0436\u043d\u043e \u0438\u0437\u043c\u0435\u0440\u044f\u0442\u044c \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0437\u0430\u043a\u043e\u043d\u0430 \u0425\u0430\u0431\u0431\u043b\u0430. \u041f\u043e\u0434\u0440\u043e\u0431\u043d\u044b\u0435 \u043a\u0430\u0440\u0442\u044b \u041c\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b \u0432 1982 \u0433\u043e\u0434\u0443 \u0430\u0441\u0442\u0440\u043e\u043d\u043e\u043c \u0420. \u0411\u0440\u0435\u043d\u0442 \u0422\u0430\u043b\u043b\u0438 \u0438\u0437 \u0410\u0441\u0442\u0440\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0432 \u0413\u043e\u043d\u043e\u043b\u0443\u043b\u0443 (\u0413\u0430\u0432\u0430\u0439\u0438, \u0421\u0428\u0410). \u041e\u043d \u043f\u043e\u043a\u0430\u0437\u0430\u043b, \u0447\u0442\u043e \u043f\u043e\u0434\u0430\u0432\u043b\u044f\u044e\u0449\u0435\u0435 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a (60 %) \u043d\u0430\u0445\u043e\u0434\u044f\u0442\u0441\u044f \u0432 \u0443\u0437\u043a\u043e\u043c \u0441\u043b\u043e\u0435 \u0442\u043e\u043b\u0449\u0438\u043d\u043e\u0439 \u0432\u0441\u0435\u0433\u043e \u043e\u043a\u043e\u043b\u043e 10 \u043c\u043b\u043d \u0441\u0432. \u043b\u0435\u0442 \u0432\u0431\u043b\u0438\u0437\u0438 \u043f\u043b\u043e\u0441\u043a\u043e\u0441\u0442\u0438 \u0421\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f. \u0412\u0431\u043b\u0438\u0437\u0438 \u0446\u0435\u043d\u0442\u0440\u0430 \u0421\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0430 \u0431\u043e\u043b\u044c\u0448\u0430\u044f \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u044f \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a \u2014 \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0435 \u0414\u0435\u0432\u044b. 98 % \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a \u041c\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u0430\u0442 11 \u043e\u0431\u043b\u0430\u043a\u0430\u043c, \u0441\u0443\u043c\u043c\u0430\u0440\u043d\u044b\u0439 \u043e\u0431\u044a\u0451\u043c \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043d\u0435 \u043f\u0440\u0435\u0432\u044b\u0448\u0430\u0435\u0442 5 % \u043e\u0431\u044a\u0451\u043c\u0430 \u0432\u0441\u0435\u0433\u043e \u0421\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f. \u0412\u0441\u0435 \u044d\u0442\u0438 \u043e\u0431\u043b\u0430\u043a\u0430 \u0432\u044b\u0442\u044f\u043d\u0443\u0442\u044b \u0432 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f \u0414\u0435\u0432\u044b, \u0447\u0442\u043e \u043e\u0431\u044a\u044f\u0441\u043d\u044f\u0435\u0442\u0441\u044f, \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e, \u043f\u0440\u0438\u043b\u0438\u0432\u043d\u044b\u043c \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u044d\u0442\u043e\u0433\u043e \u043c\u0430\u0441\u0441\u0438\u0432\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f. \u0421\u043e\u0441\u0442\u0430\u0432\u043d\u043e\u0439 \u0447\u0430\u0441\u0442\u044c\u044e \u041c\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u0441\u0432\u0435\u0440\u0445\u0441\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u041c\u0435\u0441\u0442\u043d\u044b\u0439 \u043b\u0438\u0441\u0442 \u2014 \u043f\u043b\u043e\u0441\u043a\u043e\u0435 \u043e\u0431\u043b\u0430\u043a\u043e \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a (\u0440\u0430\u0434\u0438\u0443\u0441 \u043e\u043a\u043e\u043b\u043e 23 \u043c\u043b\u043d \u0441\u0432\u0435\u0442\u043e\u0432\u044b\u0445 \u043b\u0435\u0442, \u0442\u043e\u043b\u0449\u0438\u043d\u0430 \u043e\u043a\u043e\u043b\u043e 5 \u043c\u043b\u043d \u0441\u0432. \u043b\u0435\u0442), \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0435\u0435 \u0432 \u0441\u0435\u0431\u0435 \u041c\u0435\u0441\u0442\u043d\u0443\u044e \u0433\u0440\u0443\u043f\u043f\u0443 \u0438 \u0435\u0449\u0435 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0433\u0440\u0443\u043f\u043f \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "The Virgo Supercluster (Virgo SC) or the Local Supercluster (LSC or LS), one of the millions of superclusters, is a mass concentration of galaxies that contains the Virgo Cluster in addition to the Local Group, which in turn contains the Milky Way and Andromeda Galaxies. At least 100 galaxy groups and clusters are located within its diameter of 33 megaparsecs (110 million light-years). It is one of about 10 million superclusters in the observable universe. A 2014 study indicates that the Virgo Supercluster is only a lobe of a greater supercluster, Laniakea, which is centered on the Great Attractor.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Supergromada Lokalna (tak\u017ce Supergromada w Pannie; ang. Local Supercluster lub Virgo Supercluster) \u2013 supergromada zajmuj\u0105ca obszar o \u015brednicy oko\u0142o 200 milion\u00f3w lat \u015bwietlnych. W jej sk\u0142ad wchodzi oko\u0142o 100 gromad i grup galaktyk, kt\u00f3rych centrum stanowi masywna Gromada w Pannie. Na peryferiach tej supergromady znajduje si\u0119 Grupa Lokalna Galaktyk, do kt\u00f3rej zaliczana jest nasza Droga Mleczna. Supergromada Lokalna ma s\u0142abo okre\u015blone granice i nieregularn\u0105 budow\u0119. Jej j\u0105dro stanowi Gromada w Pannie (tu znajduje si\u0119 20% galaktyk supergromady), dysk \u2013 galaktyki znajduj\u0105ce si\u0119 w cienkiej warstwie w p\u0142aszczy\u017anie podstawowej supergromady (tu znajduje si\u0119 40% galaktyk), a halo \u2013 galaktyki rozrzucone po ca\u0142ym uk\u0142adzie (tu te\u017c 40%). Galaktyki eliptyczne wyst\u0119puj\u0105 cz\u0119sto w j\u0105drze, poza tym obszarem przewa\u017caj\u0105 liczebnie galaktyki spiralne. Istnienie wyr\u00f3\u017cnionej p\u0142aszczyzny w Supergromadzie Lokalnej dostrzeg\u0142 jako pierwszy G\u00e9rard de Vaucouleurs w 1953 roku. Pos\u0142u\u017cy\u0142a mu ona do wprowadzenia wsp\u00f3\u0142rz\u0119dnych supergalaktycznych. Ca\u0142kowita masa supergromady szacowana jest na ok. 2 \u00d71046 kg (1015 mas S\u0142o\u0144ca). Znaczn\u0105 cz\u0119\u015b\u0107 masy stanowi prawdopodobnie ciemna materia. S\u0105siadami Supergromady w Pannie s\u0105: Supergromada w Hydrze, Supergromada w Herkulesie, Supergromada w Centaurze, Supergromada w Perseuszu-Rybach oraz Supergromada w Pawiu-Indianinie. Pot\u0119\u017cne skupisko gromad w gwiazdozbiorze Centaura i Hydry, znane jako Wielki Atraktor, powoduje przyci\u0105ganie galaktyk z Supergromady Lokalnej z pr\u0119dko\u015bci\u0105 szacowan\u0105 na 100-300 km/s. Supergromada Lokalna wraz Supergromad\u0105 w Hydrze oraz Supergromad\u0105 w Centaurze tworz\u0105 jedn\u0105 struktur\u0119, nazwan\u0105 Laniakea.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Der Virgo-Superhaufen (auch Lokaler Superhaufen) ist ein Supergalaxienhaufen und selbst Teil des Laniakea-Galaxienhaufens. Er enth\u00e4lt unter anderem die Lokale Gruppe, zu der auch das Milchstra\u00dfensystem geh\u00f6rt.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u5ba4\u5973\u5ea7\u8d85\u661f\u7cfb\u56e2\uff08Virgo Supercluster\uff0c\u7c21\u7a31Virgo SC\uff09\u6216\u672c\u8d85\u661f\u7cfb\u5718\uff08Local Supercluster\uff0c\u7c21\u7a31LSC\u6216LS\uff09\u662f\u500b\u4e0d\u898f\u5247\u7684\u8d85\u661f\u7cfb\u5718\uff0c\u5305\u542b\u9280\u6cb3\u7cfb\u548c\u4ed9\u5973\u5ea7\u661f\u7cfb\u6240\u5c6c\u7684\u672c\u661f\u7cfb\u7fa4\u5728\u5167\uff0c\u81f3\u5c11\u6709100\u500b\u661f\u7cfb\u5718\u805a\u96c6\u5728\u76f4\u5f9133\u767e\u842c\u79d2\u5dee\u8ddd\uff081\u51041\u5343\u842c\u5149\u5e74\uff09\u7684\u7a7a\u9593\u5167\uff0c\u662f\u5728\u53ef\u89c0\u6e2c\u5b87\u5b99\u4e2d\u6578\u4ee5\u767e\u842c\u8a08\u7684\u8d85\u661f\u7cfb\u5718\u4e2d\u7684\u4e00\u500b\u3002\u5ba4\u5973\u5ea7\u8d85\u661f\u7cfb\u56e2\u662fLaniakea\u8d85\u661f\u7cfb\u5718\u7684\u4e00\u90e8\u4efd\u3002\u8be5\u661f\u7cfb\u56e2\u7684\u4e2d\u5fc3\u533a\u57df\u8ddd\u79bb\u5730\u7403\u7ea6\u67096000\u4e07\u5149\u5e74\uff0c\u4f4d\u4e8e\u5ba4\u5973\u5ea7\uff0c\u8457\u540d\u7684\u6885\u897f\u8036\u5929\u4f53M49\u3001M60\u3001M86\u3001M87\u5747\u4f4d\u4e8e\u6b64\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Il Superammasso Locale, chiamato anche Superammasso della Vergine, \u00e8 il superammasso di galassie che contiene il nostro Gruppo Locale, e all'interno di questo la nostra galassia, la Via Lattea (a cui appartiene il sistema solare). Ha la forma di un disco appiattito, con un diametro di circa 200 milioni di anni luce. Contiene circa 100 tra gruppi e ammassi di galassie, e prende il nome dall'Ammasso della Vergine, che si trova vicino al suo centro. Il Gruppo Locale si trova al bordo del superammasso, e si muove lentamente verso il suo centro. Osservando gli effetti gravitazionali sui movimenti delle galassie, \u00e8 possibile stimare la massa totale del Superammasso Locale a circa 1015 volte quella del Sole. La sua luminosit\u00e0 \u00e8 per\u00f2 troppo poca per rendere conto di questa cifra, e si pensa quindi che gran parte della sua massa sia composta di materia oscura. Un'anomalia gravitazionale conosciuta come il Grande Attrattore si trova da qualche parte nel superammasso. Le osservazioni sono ostacolate dal fatto che la sua posizione lo fa apparire nel nostro cielo proprio nel piano della galassia, dove gas e polveri oscurano la vista.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0639\u0646\u0642\u0648\u062f \u0645\u062c\u0631\u0627\u062a \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0627\u0644\u0639\u0638\u064a\u0645 (\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Virgo Supercluster \u0623\u0648 Local Supercluster ) \u0647\u0648 \u062a\u062c\u0645\u0639 \u0645\u062c\u0631\u064a \u0647\u0627\u0626\u0644 \u063a\u064a\u0631 \u0645\u0646\u062a\u0638\u0645 \u064a\u062a\u0643\u0648\u0646 \u0645\u0646 \u062a\u062c\u0645\u0639 \u0645\u062c\u0631\u0627\u062a \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0645\u062d\u0644\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0648\u062c\u062f \u0641\u064a\u0647\u0627 \u0645\u062c\u0631\u0629 \u062f\u0631\u0628 \u0627\u0644\u062a\u0628\u0627\u0646\u0629 \u0648 \u0627\u0644\u0645\u062c\u0631\u0629 \u0627\u0644\u0643\u0628\u064a\u0631\u0629 \u0627\u0644\u0645\u0631\u0623\u0629 \u0627\u0644\u0645\u0633\u0644\u0633\u0644\u0629. \u064a\u0648\u062c\u062f \u0641\u064a \u0647\u0630\u0627 \u0627\u0644\u0639\u0646\u0642\u0648\u062f \u0627\u0644\u0639\u0638\u064a\u0645 100 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u062c\u0631\u0627\u062a \u0639\u0644\u0649 \u0627\u0644\u0623\u0642\u0644 \u060c \u0641\u064a \u062d\u062c\u0645 \u064a\u0628\u0644\u063a \u0642\u0637\u0631\u0647 \u0646\u062d\u0648 33 \u0645\u0644\u064a\u0648\u0646 \u0641\u0631\u0633\u062e \u0641\u0644\u0643\u064a \u060c \u0623\u064a \u0646\u062d\u0648 110 \u0645\u0644\u064a\u0648\u0646 \u0633\u0646\u0629 \u0636\u0648\u0626\u064a\u0629. \u064a\u0634\u0643\u0644 \u0647\u0630\u0627 \u0627\u0644\u0639\u0646\u0642\u0648\u062f \u0627\u0644\u0639\u0638\u064a\u0645 \u0648\u0627\u062d\u062f\u0627 \u0645\u0646 \u0646\u062d\u0648 \u0645\u0644\u064a\u0648\u0646 \u0645\u0646 \u0623\u0645\u062b\u0627\u0644\u0647 \u0645\u0646 \u0627\u0644\u0639\u0646\u0627\u0642\u064a\u062f \u0627\u0644\u0645\u062c\u0631\u064a\u0629 \u0627\u0644\u0639\u0638\u064a\u0645\u0629 \u0627\u0644\u0645\u0648\u062c\u0648\u062f\u0629 \u0641\u064a \u0627\u0644\u0643\u0648\u0646 \u0627\u0644\u0645\u0631\u0626\u064a.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u304a\u3068\u3081\u5ea7\u8d85\u9280\u6cb3\u56e3\uff08\u304a\u3068\u3081\u3056\u3061\u3087\u3046\u304e\u3093\u304c\u3060\u3093\u3001Virgo Supercluster\uff09\u306f\u3001\u9280\u6cb3\u7cfb\uff08\u5929\u306e\u5ddd\u9280\u6cb3\uff09\u3001\u30a2\u30f3\u30c9\u30ed\u30e1\u30c0\u9280\u6cb3\u3001\u5927\u30de\u30bc\u30e9\u30f3\u96f2\u306a\u3069\u304b\u3089\u306a\u308b\u5c40\u90e8\u9280\u6cb3\u7fa4\u3092\u542b\u3080\u8d85\u9280\u6cb3\u56e3\u3067\u3042\u308b\u3002\u5c40\u90e8\u8d85\u9280\u6cb3\u56e3\u3068\u3082\u547c\u3070\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "De Virgosupercluster of Lokale Supercluster is de supercluster waar de Lokale Groep \u2013 met daarin onze Melkweg \u2013 deel van uitmaakt. De Virgocluster is de zwaarste cluster in deze supercluster en bevindt zich in het zwaartepunt. De Lokale Groep bevindt zich aan de rand van de supercluster en beweegt zich op dit moment van het centrum af met een snelheid van 1000 km/s. Deze buitenwaartse beweging wordt echter afgeremd door de zwaartekracht van met name de Virgocluster en zal uiteindelijk omkeren. De Virgosupercluster is zelf weer een klein onderdeel van Laniakea, een nog veel grotere supercluster ontdekt in 2014. De Virgosupercluster bevat in totaal ongeveer 100 tot 200 clusters en groepen van melkwegstelsels en heeft een diameter van 110 miljoen lichtjaar. De totale massa van de supercluster is ongeveer 1015 zonnemassa's. De Virgosupercluster beweegt zich met een snelheid van 600 km/s in de richting van de Hydra-Centaurus Supercluster en samen met andere superclusters met dezelfde snelheid in de richting van de Grote Aantrekker op 200 miljoen lichtjaar afstand. Enkele leden van de Virgosupercluster zijn: \n* Lokale Groep \n* Maffei Groep (afstand 6-12 miljoen lichtjaar) \n* Sculptor Groep (afstand 10 miljoen lichtjaar) \n* M81 Groep (afstand 10-11 miljoen lichtjaar) \n* M83 Groep (afstand 12-17 miljoen lichtjaar) \n* Canes Venatici I Groep (afstand 12-17 miljoen lichtjaar) \n* NGC 4631 Groep (afstand 25 miljoen lichtjaar) \n* Leo I Groep (afstand 35 miljoen lichtjaar) \n* Dorado Groep (afstand 48-60 miljoen lichtjaar) \n* Fornaxcluster (afstand 60 miljoen lichtjaar) \n* Virgocluster (afstand 65 miljoen lichtjaar) \n* Leo II Groep (afstand 70 miljoen lichtjaar) \n* Ursa Major Groep (afstand 75 miljoen lichtjaar) \n* Virgo III Groep (afstand 65-82 miljoen lichtjaar) \n* Eridanuscluster (afstand 69-100 miljoen lichtjaar)",
+                "lang": "nl"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Local_supercluster-ly.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 740853878,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 177434,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/redshift": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Doppler_shift"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Concentration"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IC_3418": {
+        "http://dbpedia.org/property/groupCluster": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Virgo_Super-Cluster": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Virgo_supercluster": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Local_Supercluster": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Virgo": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Virgo_Galactic_Supercluster": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Virgo_Supercluster": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Virgo_Local_supercluster": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Local_supercluster": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Virgo_SC": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vir_SC": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vir_Supercluster": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_galaxy_groups_and_clusters": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virgo_Supercluster"
+            }
+        ]
+    }
+}

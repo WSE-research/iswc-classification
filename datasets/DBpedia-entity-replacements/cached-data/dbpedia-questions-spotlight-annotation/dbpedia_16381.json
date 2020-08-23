@@ -1,0 +1,37 @@
+{
+    "@text": "Does the  ethanol combustion enthalpy less than -1640.4?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ethanol",
+            "@support": "9392",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "ethanol",
+            "@offset": "10",
+            "@similarityScore": "0.9594488633350982",
+            "@percentageOfSecondRank": "0.04222757019391272"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Combustion",
+            "@support": "3266",
+            "@types": "",
+            "@surfaceForm": "combustion",
+            "@offset": "18",
+            "@similarityScore": "0.9984130590523026",
+            "@percentageOfSecondRank": "0.0014995128188461308"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Enthalpy",
+            "@support": "1096",
+            "@types": "",
+            "@surfaceForm": "enthalpy",
+            "@offset": "29",
+            "@similarityScore": "0.9994449682477241",
+            "@percentageOfSecondRank": "2.8592585378015267E-4"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Where in France is sparkling wine produced?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/France",
+            "@support": "256130",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "France",
+            "@offset": "9",
+            "@similarityScore": "0.9993907450800341",
+            "@percentageOfSecondRank": "2.007480015681895E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sparkling_wine",
+            "@support": "1058",
+            "@types": "",
+            "@surfaceForm": "sparkling wine",
+            "@offset": "19",
+            "@similarityScore": "0.9993964064426173",
+            "@percentageOfSecondRank": "6.039581026068783E-4"
+        }
+    ]
+}

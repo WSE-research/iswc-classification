@@ -1,0 +1,37 @@
+{
+    "@text": "is the hydraulic head of Nore II power plant greater than 80.0?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Hydraulic_head",
+            "@support": "569",
+            "@types": "",
+            "@surfaceForm": "hydraulic head",
+            "@offset": "7",
+            "@similarityScore": "0.9999999999999432",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Nore",
+            "@support": "356",
+            "@types": "",
+            "@surfaceForm": "Nore",
+            "@offset": "25",
+            "@similarityScore": "0.8987541422361205",
+            "@percentageOfSecondRank": "0.11182654721336212"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Power_station",
+            "@support": "4356",
+            "@types": "",
+            "@surfaceForm": "power plant",
+            "@offset": "33",
+            "@similarityScore": "0.998530272085408",
+            "@percentageOfSecondRank": "0.0013205439489059065"
+        }
+    ]
+}

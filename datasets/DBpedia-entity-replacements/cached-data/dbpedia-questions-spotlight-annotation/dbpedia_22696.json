@@ -1,0 +1,37 @@
+{
+    "@text": "Raymond Johansen is the mayor of what city?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Nils-Olav_Johansen",
+            "@support": "69",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Johansen",
+            "@offset": "8",
+            "@similarityScore": "0.7565635659196815",
+            "@percentageOfSecondRank": "0.28055689991148886"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mayor",
+            "@support": "19123",
+            "@types": "",
+            "@surfaceForm": "mayor",
+            "@offset": "24",
+            "@similarityScore": "0.998690934926912",
+            "@percentageOfSecondRank": "6.356415539442894E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "38",
+            "@similarityScore": "0.8675997714020258",
+            "@percentageOfSecondRank": "0.10899421038486513"
+        }
+    ]
+}

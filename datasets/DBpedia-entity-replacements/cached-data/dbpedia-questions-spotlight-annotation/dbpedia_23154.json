@@ -1,0 +1,28 @@
+{
+    "@text": "Which airports are located in California, USA?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/California",
+            "@support": "185510",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "California",
+            "@offset": "30",
+            "@similarityScore": "0.9999453846099329",
+            "@percentageOfSecondRank": "2.231276246382756E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "USA",
+            "@offset": "42",
+            "@similarityScore": "0.9982842823159931",
+            "@percentageOfSecondRank": "8.632010205156465E-4"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "http://dbpedia.org/resource/Semantic_Scholar": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Band"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Semantic Scholar",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Semantic Scholar is a project developed at the Allen Institute for Artificial Intelligence, released in November 2015. It is designed to be a \"smart\" search service for journal articles. In comparison to Google Scholar and PubMed, it is designed to quickly highlight the most important papers and identify the connections between them.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Semantic_Scholar"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q22908627"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q22908627"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Bibliographic_databases_in_computer_science"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Internet_search_engines"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Scholarly_search_services"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/homepage": [
+            {
+                "type": "uri",
+                "value": "https://www.semanticscholar.org"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Semantic_Scholar"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Semantic_Scholar?oldid=730796909"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "https://www.semanticscholar.org"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Semantic Scholar is a project developed at the Allen Institute for Artificial Intelligence, released in November 2015. It is designed to be a \"smart\" search service for journal articles. In comparison to Google Scholar and PubMed, it is designed to quickly highlight the most important papers and identify the connections between them.",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 730796909,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 48455863,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Project"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Semantic_Scholar": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Semantic_Scholar"
+            }
+        ]
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "http://en.wikipedia.org/wiki/Geotope": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Geotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Geotope": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/MilitaryUnit"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Geotope",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "G\u00e9otope",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Geotop",
+                "lang": "de"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Au cours des ann\u00e9es 1990, le patrimoine g\u00e9ologique fait son apparition au sein de la sph\u00e8re patrimoniale et en particulier au sein du Patrimoine naturel. Les termes g\u00e9otope, g\u00e9osite, g\u00e9odiversit\u00e9, g\u00e9oconservation et g\u00e9otourisme sont progressivement forg\u00e9s \u00e0 l'image de ceux d\u00e9j\u00e0 familiers pour le grand public et qui sont construits avec le pr\u00e9fixe bio.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Geotope (der oder das, von griechisch \u03b3\u1fc6 g\u00e9 die Erde und \u03c4\u03cc\u03c0\u03bf\u03c2 topos der Ort) sind Gebilde der unbelebten Natur, die Einblicke in die Erdgeschichte, einschlie\u00dflich der Entstehung und Entwicklung des Lebens auf der Erde, vermitteln.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Geotope is the geological component of the abiotic matrix present in an ecotope. Example geotopes might be: an exposed outcrop of rocks, an erratic boulder, a grotto or ravine, a cave, an old stone wall marking a property boundary, and so forth.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Geotop"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/G\u00e9otope"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q372363"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q372363"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.02rgkc9"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4484498-0"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Geotope"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Geotop"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Ecology"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Geotope"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Geotope?oldid=711846324"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Geotope is the geological component of the abiotic matrix present in an ecotope. Example geotopes might be: an exposed outcrop of rocks, an erratic boulder, a grotto or ravine, a cave, an old stone wall marking a property boundary, and so forth. It is a loanword from German (Geotop) in the study of ecology and might be the model for many other similar words coined by analogy. As the prototype, it has enjoyed wider currency than many of the other words modelled on it, including physiotope, with which it is used synonymously. But the geotope is properly the rocks and not the whole lay of the land (which would be the physiotope).",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Au cours des ann\u00e9es 1990, le patrimoine g\u00e9ologique fait son apparition au sein de la sph\u00e8re patrimoniale et en particulier au sein du Patrimoine naturel. Les termes g\u00e9otope, g\u00e9osite, g\u00e9odiversit\u00e9, g\u00e9oconservation et g\u00e9otourisme sont progressivement forg\u00e9s \u00e0 l'image de ceux d\u00e9j\u00e0 familiers pour le grand public et qui sont construits avec le pr\u00e9fixe bio.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Geotope (der oder das, von griechisch \u03b3\u1fc6 g\u00e9 die Erde und \u03c4\u03cc\u03c0\u03bf\u03c2 topos der Ort) sind Gebilde der unbelebten Natur, die Einblicke in die Erdgeschichte, einschlie\u00dflich der Entstehung und Entwicklung des Lebens auf der Erde, vermitteln.",
+                "lang": "de"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 711846324,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 11517267,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Component"
+            }
+        ]
+    }
+}

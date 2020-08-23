@@ -1,0 +1,37 @@
+{
+    "@text": "Which american football player's current team is Michigan Wolverines and former team was  Baltimore Ravens ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/American_football",
+            "@support": "70753",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "football",
+            "@offset": "15",
+            "@similarityScore": "0.8882263114167445",
+            "@percentageOfSecondRank": "0.07372829869046992"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Michigan_Wolverines_football",
+            "@support": "5806",
+            "@types": "",
+            "@surfaceForm": "Michigan",
+            "@offset": "49",
+            "@similarityScore": "0.7092444930704879",
+            "@percentageOfSecondRank": "0.3320958794759398"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Baltimore_Ravens",
+            "@support": "4735",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:AmericanFootballTeam,DBpedia:Agent",
+            "@surfaceForm": "Baltimore Ravens",
+            "@offset": "90",
+            "@similarityScore": "0.9999355299945728",
+            "@percentageOfSecondRank": "1.9647107402444536E-5"
+        }
+    ]
+}

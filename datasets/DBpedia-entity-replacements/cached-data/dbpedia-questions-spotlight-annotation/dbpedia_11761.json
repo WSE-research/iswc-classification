@@ -1,0 +1,37 @@
+{
+    "@text": "What is the currency for the Australian dollar used in the British Empire?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Currency",
+            "@support": "6095",
+            "@types": "",
+            "@surfaceForm": "currency",
+            "@offset": "12",
+            "@similarityScore": "0.998740087508486",
+            "@percentageOfSecondRank": "0.0010432578518278354"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Australian_dollar",
+            "@support": "2372",
+            "@types": "DBpedia:Currency",
+            "@surfaceForm": "Australian dollar",
+            "@offset": "29",
+            "@similarityScore": "0.999999999970214",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/British_Empire",
+            "@support": "20068",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Empire",
+            "@offset": "67",
+            "@similarityScore": "0.765338062748447",
+            "@percentageOfSecondRank": "0.22550542023987108"
+        }
+    ]
+}

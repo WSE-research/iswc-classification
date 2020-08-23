@@ -1,0 +1,28 @@
+{
+    "@text": "\"Which is {candidate} of {Battle of Oudenarde}, that has {diplomatic relation} is {Japan} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Battle_of_Oudenarde",
+            "@support": "115",
+            "@types": "Wikidata:Q1656682,DUL:Event,Schema:Event,DBpedia:SocietalEvent,DBpedia:MilitaryConflict,DBpedia:Event",
+            "@surfaceForm": "Oudenarde",
+            "@offset": "36",
+            "@similarityScore": "0.9782130650328247",
+            "@percentageOfSecondRank": "0.022272169120145496"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Japan",
+            "@support": "175561",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Japan",
+            "@offset": "83",
+            "@similarityScore": "0.9984178346982928",
+            "@percentageOfSecondRank": "0.0014903029078034912"
+        }
+    ]
+}

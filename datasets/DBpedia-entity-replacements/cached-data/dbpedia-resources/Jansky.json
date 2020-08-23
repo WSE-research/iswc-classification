@@ -1,0 +1,420 @@
+{
+    "http://en.wikipedia.org/wiki/Jansky": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jansky"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jansky": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/MetricUnit113604275"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Measure100033615"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatNon-SIMetricUnits"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatUnitsOfMeasurement"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatObsoleteUnitsOfMeasurement"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/DefiniteQuantity113576101"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/UnitOfMeasurement113583724"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatUnitsOfMeasurementInAstronomy"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Jansky",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u062c\u0627\u0646\u0633\u0643\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Jansky (unidad)",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Jansky (unit\u00e9)",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Jansky",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u30b8\u30e3\u30f3\u30b9\u30ad\u30fc",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Jansky",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u042f\u043d\u0441\u043a\u0438\u0439 (\u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f)",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Jansky",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Jansky",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u63da\u65af\u57fa",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Jansky",
+                "lang": "de"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u042f\u0301\u043d\u0441\u043a\u0438\u0439 (\u0440\u0443\u0441\u0441\u043a\u043e\u0435 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435: \u042f\u043d; \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0435: Jy) \u2014 \u0432\u043d\u0435\u0441\u0438\u0441\u0442\u0435\u043c\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0441\u043f\u0435\u043a\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u043f\u043b\u043e\u0442\u043d\u043e\u0441\u0442\u0438 \u043f\u043e\u0442\u043e\u043a\u0430 \u0438\u0437\u043b\u0443\u0447\u0435\u043d\u0438\u044f, \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c\u0430\u044f \u0432 \u0440\u0430\u0434\u0438\u043e\u0430\u0441\u0442\u0440\u043e\u043d\u043e\u043c\u0438\u0438. \u0412\u0432\u0435\u0434\u0435\u043d\u0430 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u043c \u0410\u0441\u0442\u0440\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0441\u043e\u044e\u0437\u043e\u043c \u0432 1970 \u0433\u043e\u0434\u0443. \u041d\u0430\u0437\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u041a\u0430\u0440\u043b\u0430 \u042f\u043d\u0441\u043a\u043e\u0433\u043e, \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0434\u0438\u043e\u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0430 \u0438 \u043e\u0441\u043d\u043e\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u043d\u0438\u043a\u0430 \u0440\u0430\u0434\u0438\u043e\u0430\u0441\u0442\u0440\u043e\u043d\u043e\u043c\u0438\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "La unidad de flujo o Jansky (s\u00edmbolo Jy) es una unidad, no perteneciente al Sistema Internacional de Unidades, de densidad de flujo espectral, que equivale a 10\u221226 vatios por metro cuadrado y por hertz. La densidad de flujo o flujo monocrom\u00e1tico, , de una fuente es la integral de la radiancia espectral , , sobre el \u00e1ngulo s\u00f3lido fuente: La unidad lleva el nombre del radio astr\u00f3nomo pionero estadounidense Karl Guthe Jansky, y se define como: (SI) (cgs)",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Das Jansky (Jy), fr\u00fcher auch Flux Unit (FU) genannt, ist eine in der Radioastronomie gebr\u00e4uchliche Nicht-SI-Einheit f\u00fcr die spektrale Flussdichte, d.h. f\u00fcr die von einer Quelle beim Beobachter eintreffende Energie pro Zeit, pro Fl\u00e4che und pro Frequenzintervall. Sie wurde nach dem Radioastronomen Karl Guthe Jansky benannt. Das Jansky wurde urspr\u00fcnglich f\u00fcr den Radiobereich des elektromagnetischen Spektrums definiert, wird aber gelegentlich auch bei k\u00fcrzeren Wellenl\u00e4ngen bis zum Ultraviolett genutzt. In Zahlen ausgedr\u00fcckt bedeutet die Definition des \u201eJansky\u201c: (SI) (cgs)",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Il jansky (simbolo Jy) \u00e8 una unit\u00e0 di misura del flusso e della densit\u00e0 di flusso elettromagnetico non appartenente al Sistema Internazionale usata comunemente in radioastronomia. Un jansky vale 10\u221226 watt per metro quadro per hertz e prende il nome dal fisico statunitense Karl Guthe Jansky che scopr\u00ec le onde radio di origine galattica nel 1930. La densit\u00e0 di flusso o flusso monocromatico di una sorgente \u00e8 l'integrale della radianza sull'angolo solido della sorgente: Il jansky, rispetto agli altri sistemi di misura standard, viene definito come (rispetto al SI) (rispetto al cgs)",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u30b8\u30e3\u30f3\u30b9\u30ad\u30fc\uff08jansky, \u8a18\u53f7\uff1aJy\uff09\u306f\u3001\u96fb\u6ce2\u5929\u6587\u5b66\u3067\u7528\u3044\u3089\u308c\u308b\u96fb\u78c1\u6ce2\u675f\u3001\u3059\u306a\u308f\u3061\uff08\u307f\u304b\u3051\u306e\uff09\u96fb\u6ce2\u5f37\u5ea6\u306e\u5358\u4f4d\u3067\u3042\u308b\u3002\u305d\u306e\u540d\u524d\u306f\u3001\u96fb\u6ce2\u5929\u6587\u5b66\u306e\u5148\u99c6\u8005\u3068\u306a\u3063\u305f\u30ab\u30fc\u30eb\u30fb\u30b8\u30e3\u30f3\u30b9\u30ad\u30fc\u306b\u3061\u306a\u3080\u3002 1 Jy \u306f1 m2 \u306e\u9762\u7a4d\u306b 1 Hz \u3042\u305f\u308a\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u306e\u6d41\u91cf\u304c 10-26 W \u3067\u3042\u308b\u3068\u304d\u306e\u96fb\u6ce2\u653e\u5c04\u306e\u5f37\u3055\u3068\u5b9a\u7fa9\u3055\u308c\u3066\u3044\u308b\u3002\u3088\u3063\u3066\u3001SI\u5358\u4f4d\u3067\u8868\u3059\u3068 1 Jy = 10-26 W\uff65m-2\uff65Hz-1 \u3068\u306a\u308b\u3002CGS\u5358\u4f4d\u7cfb\u3067\u8868\u3059\u3068 1 Jy = 10\u221223 erg\uff65s-1\uff65cm-2\uff65Hz-1 \u3068\u306a\u308b\u3002 \u6700\u3082\u660e\u308b\u3044\u81ea\u7136\u306e\u96fb\u6ce2\u6e90\u306e\u96fb\u6ce2\u5f37\u5ea6\u306f 1 - 100 Jy \u3067\u3042\u308b\u3002\u3088\u3063\u3066\u3001\u30b8\u30e3\u30f3\u30b9\u30ad\u30fc\u306f\u96fb\u6ce2\u5929\u6587\u5b66\u306b\u9069\u3057\u305f\u5358\u4f4d\u3068\u306a\u3063\u3066\u3044\u308b\u3002\u4f8b\u3048\u3070\u3001\u30b1\u30f3\u30d6\u30ea\u30c3\u30b8\u30ab\u30bf\u30ed\u30b0 \u7b2c3\u7248\uff083C\u30ab\u30bf\u30ed\u30b0\uff09\u306b\u306f\u3001\u5317\u534a\u7403\u304b\u3089\u89b3\u6e2c\u3067\u304d\u308b 159 MHz \u30679 Jy \u4ee5\u4e0a\u306e\u96fb\u6ce2\u6e90\u304c300 - 400\u63b2\u8f09\u3055\u308c\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Le jansky, de symbole Jy, est l'unit\u00e9 employ\u00e9e g\u00e9n\u00e9ralement en radioastronomie pour mesurer l'intensit\u00e9, ou plus pr\u00e9cis\u00e9ment la densit\u00e9 de flux, des signaux radio d'origine galactique ou extragalactique. Elle est ainsi nomm\u00e9e en l'honneur de Karl Jansky, le physicien am\u00e9ricain qui a d\u00e9couvert les ondes radio d'origine galactique en 1930.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "The jansky (symbol Jy) is a non-SI unit of spectral flux density, or spectral irradiance, used especially in radio astronomy. It is equivalent to 10\u221226 watts per square metre per hertz. The unit is named for the pioneering radio astronomer Karl Jansky. The flux density or monochromatic flux, , of a source is the integral of the spectral radiance, , over the source solid angle: The unit is named after pioneering US radio astronomer Karl Guthe Jansky and is defined as (SI) (cgs).",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "De jansky is een maat voor fluxdichtheid, dat wil zeggen voor de hoeveelheid doorstroom door een eenheid van oppervlakte. De jansky is geen SI-eenheid, maar wordt desondanks veel gebruikt in de radio-astronomie, vaak ook als millijansky (mJy). De jansky drukt uit hoeveel energie van een bron op een oppervlak bij de waarnemer aankomt per tijdseenheid en frequentie. In cgs-eenheden, die binnen de sterrenkunde nog veel worden gebruikt, bedraagt de jansky De eenheid is vernoemd naar de Amerikaanse natuurkundige Karl Jansky.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0648\u062d\u062f\u0629 \u0627\u0644\u062f\u0641\u0642 \u0623\u0648 \u062c\u0627\u0646\u0633\u0643\u064a (\u0631\u0645\u0632\u0647\u0627 Jy) \u0647\u064a \u0648\u062d\u062f\u0629 \u0644\u064a\u0633\u062a \u0645\u0646 \u0636\u0645\u0646 \u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u062f\u0648\u0644\u064a \u062a\u0642\u064a\u0633 \u0643\u062b\u0627\u0641\u0629 \u0627\u0644\u062f\u0641\u0642 \u0627\u0644\u0637\u064a\u0641\u064a\u0629\"></ref></a> \u0648\u0647\u064a \u062a\u0639\u0627\u062f\u0644 1026 \u0648\u0627\u062a \u0644\u0643\u0644 \u0645\u062a\u0631 \u0645\u0631\u0628\u0639 \u0644\u0643\u0644 \u0647\u0631\u062a\u0632. \u0643\u062b\u0627\u0641\u0629 \u0627\u0644\u062f\u0641\u0642 \u0623\u0648 \u0627\u0644\u062f\u0641\u0642 \u0623\u062d\u0627\u062f\u064a \u0627\u0644\u0644\u0648\u0646\u060c \u060c \u0644\u0623\u064a \u0645\u0635\u062f\u0631 \u0647\u064a \u062c\u0632\u0621 \u0644\u0627 \u064a\u062a\u062c\u0632\u0623 \u0645\u0646 \u0627\u0644\u0625\u0634\u0639\u0627\u0639 \u0627\u0644\u0637\u064a\u0641\u064a\u060c \u0639\u0644\u0649 \u0627\u0644\u0632\u0627\u0648\u064a\u0629 \u0627\u0644\u0635\u0644\u0628\u0629: \u0644\u0644\u0645\u0635\u062f\u0631: \u0633\u0645\u064a\u062a \u0627\u0644\u0648\u062d\u062f\u0629 \u0628\u0627\u0633\u0645 \u0645\u0643\u062a\u0634\u0641\u0647\u0627 \u0639\u0627\u0644\u0645 \u0627\u0644\u0641\u0644\u0643 \u0627\u0644\u0631\u0627\u0626\u062f \u0643\u0627\u0631\u0644 \u062c\u0627\u0646\u0633\u0643\u064a (Karl Guthe Jansky)\u060c \u0648\u062a\u0645 \u062a\u0639\u0631\u064a\u0641\u0647\u0627 \u0628\u0623\u0646\u0647\u0627: (\u0625\u0633 \u0622\u064a) (\u0646\u0638\u0627\u0645 \u0648\u062d\u062f\u0627\u062a \u0633\u0646\u062a\u064a\u0645\u062a\u0631 \u063a\u0631\u0627\u0645 \u062b\u0627\u0646\u064a\u0629) \u064a\u0645\u0643\u0646 \u062a\u062d\u0648\u064a\u0644 \u0643\u062b\u0627\u0641\u0629 \u0627\u0644\u062f\u0641\u0642 \u0641\u064a \u0648\u062d\u062f\u0629 \u062c\u0627\u0646\u0633\u0643\u064a \u0625\u0644\u0649 \u0623\u0633\u0627\u0633 \u0627\u0644\u062d\u062c\u0645\u060c \u0644\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0641\u062a\u0631\u0627\u0636\u0627\u062a \u0645\u0646\u0627\u0633\u0628\u0629 \u0639\u0646 \u0627\u0644\u0637\u064a\u0641. \u0639\u0644\u0649 \u0633\u0628\u064a\u0644 \u0627\u0644\u0645\u062b\u0627\u0644\u060c \u064a\u0645\u0643\u0646 \u062a\u062d\u0648\u064a\u0644 \u062d\u062c\u0645 AB \u0625\u0644\u0649 \u0643\u062b\u0627\u0641\u0629 \u0627\u0644\u062f\u0641\u0642 \u0628\u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0645\u064a\u0643\u0631\u0648\u062c\u0627\u0646\u0633\u0643\u064a \u0645\u0646 \u062e\u0644\u0627\u0644 \u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0629 \u0627\u0644\u062a\u0627\u0644\u064a\u0629:",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u63da\u65af\u57fa\uff08\u7b26\u865fJy\uff09\u662f\u4e00\u500b\u975e\u570b\u969b\u6a19\u6e96\u5236\u7684\u5149\u8c31\u5149\u901a\u91cf\u5bc6\u5ea6\u55ae\u4f4d\uff0c\u6216\u662f\u5149\u8c31\u8f90\u7167\u5ea6\u55ae\u4f4d\uff0c\u7b49\u6548\u65bc10\u221226\u74e6\u7279\u6bcf\u5e73\u65b9\u7c73\u6bcf\u8d6b\u8332\u3002\u4e00\u500b\u5149\u6e90\u7684\u901a\u91cf\u5bc6\u5ea6S\u662f\u5149\u8c31\u8f90\u7167\u5ea6 \u5728\u7acb\u9ad4\u89d2\u4e0b\u7684\u7a4d\u5206\uff1a \u6b64\u55ae\u4f4d\u5f97\u540d\u81ea\u7f8e\u570b\u7684\u7121\u7dda\u96fb\u5929\u7a7a\u5b78\u5bb6\u5361\u5c14\u00b7\u592e\u65af\u57fa\uff0c\u5b9a\u7fa9\u5982\u4e0b\uff1a (SI) (cgs)",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Jansky (symbol Jy) \u2013 jednostka nat\u0119\u017cenia strumienia radiowego pochodz\u0105cego z obiekt\u00f3w kosmicznych nie nale\u017c\u0105ca do uk\u0142adu SI. Nazwa jednostki zosta\u0142a wzi\u0119ta na cze\u015b\u0107 Karla Janskyego. Jansky jest zdefiniowany jako jedna stukwadrylionowa wata na metr kwadratowy na herc. Poniewa\u017c obiekty astronomiczne znajduj\u0105 si\u0119 w du\u017cej odleg\u0142o\u015bci oraz tylko cz\u0119\u015b\u0107 ich promieniowania to fale radiowe wybrano bardzo niski wsp\u00f3\u0142czynnik, dzi\u0119ki temu g\u0119sto\u015b\u0107 strumienia ma wygodne do stosowania wielko\u015bci.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "O Jansky (s\u00edmbolo: Jy) \u00e9 uma unidade usada em Astronomia para medir densidade de fluxo. O nome da unidade foi escolhido em homenagem a Karl Jansky, que em 1932 detectou pela primeira vez ondas de r\u00e1dio emitidas pela Via L\u00e1ctea.",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30b8\u30e3\u30f3\u30b9\u30ad\u30fc"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Jansky"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Jansky"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Jansky_(unidad)"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Jansky"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1434381"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1434381"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Jansky"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Jansky"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Jansky"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.018kyn"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jansky"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Jansky_(unit\u00e9)"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Units_of_measurement"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Radio_astronomy"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Units_of_measurement_in_astronomy"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Non-SI_metric_units"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Jansky"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Jansky?oldid=737599146"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://adsabs.harvard.edu/abs/1985BICDS..28...49H"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Das Jansky (Jy), fr\u00fcher auch Flux Unit (FU) genannt, ist eine in der Radioastronomie gebr\u00e4uchliche Nicht-SI-Einheit f\u00fcr die spektrale Flussdichte, d.h. f\u00fcr die von einer Quelle beim Beobachter eintreffende Energie pro Zeit, pro Fl\u00e4che und pro Frequenzintervall. Sie wurde nach dem Radioastronomen Karl Guthe Jansky benannt. Das Jansky wurde urspr\u00fcnglich f\u00fcr den Radiobereich des elektromagnetischen Spektrums definiert, wird aber gelegentlich auch bei k\u00fcrzeren Wellenl\u00e4ngen bis zum Ultraviolett genutzt. Die Einheit ist definiert als hundertquadrillionster Teil eines Watt pro Quadratmeter pro Hertz. Die Wahl einer so kleinen Einheit wurde getroffen, weil die meisten astronomischen Objekte sehr weit von uns entfernt sind, sodass man den kleinen Flussdichten Rechnung tragen muss. Au\u00dferdem emittieren die meisten Himmelsk\u00f6rper den gr\u00f6\u00dften Teil ihrer abgestrahlten Energie in k\u00fcrzeren Frequenzbereichen als jenen der Radiowellen. In Zahlen ausgedr\u00fcckt bedeutet die Definition des \u201eJansky\u201c: (SI) (cgs) Dabei vermeiden Radioastronomen es, im rechten Teil der Gleichung Sekunden gegen Hertz () zu k\u00fcrzen. Beh\u00e4lt man n\u00e4mlich die obige Schreibweise bei, ist sofort die Abh\u00e4ngigkeit der Flussdichte sowohl von der Integrationszeit (in s) als auch von der Bandbreite der verwendeten Instrumente (in Hz) zu erkennen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Le jansky, de symbole Jy, est l'unit\u00e9 employ\u00e9e g\u00e9n\u00e9ralement en radioastronomie pour mesurer l'intensit\u00e9, ou plus pr\u00e9cis\u00e9ment la densit\u00e9 de flux, des signaux radio d'origine galactique ou extragalactique. Elle est ainsi nomm\u00e9e en l'honneur de Karl Jansky, le physicien am\u00e9ricain qui a d\u00e9couvert les ondes radio d'origine galactique en 1930.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "La unidad de flujo o Jansky (s\u00edmbolo Jy) es una unidad, no perteneciente al Sistema Internacional de Unidades, de densidad de flujo espectral, que equivale a 10\u221226 vatios por metro cuadrado y por hertz. La densidad de flujo o flujo monocrom\u00e1tico, , de una fuente es la integral de la radiancia espectral , , sobre el \u00e1ngulo s\u00f3lido fuente: La unidad lleva el nombre del radio astr\u00f3nomo pionero estadounidense Karl Guthe Jansky, y se define como: (SI) (cgs) La densidad de flujo en Jy se puede convertir a una base magnitud, para supuestos adecuados acerca del espectro. Por ejemplo, la conversi\u00f3n de una magnitud AB a una densidad de flujo en microjanskys es directa: Dado que el jansky se obtiene integrando el \u00e1ngulo s\u00f3lido fuente total, se utiliza m\u00e1s para describir las fuentes puntuales; por ejemplo, el Tercer Cat\u00e1logo Cambridge de radiofuentes (3C) informa de los resultados en Jy. Para fuentes extendidas, el brillo superficial se describe a menudo en unidades de Jy por \u00e1ngulo s\u00f3lido: por ejemplo, los mapas Far Infra-Rojo (FIR) del sat\u00e9lite IRAS est\u00e1n en MJY/sr. Aunque las fuentes extendidas en todas longitudes de onda se pueden presentar en estas unidades, en los mapas de radiofrecuencias, tradicionalmente las fuentes extendidas se han descrito en t\u00e9rminos de temperatura de brillo, por ejemplo el Haslam et al. de 408 MHz de todo el cielo continuo se expresa en t\u00e9rminos de una temperatura de brillo en K.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0648\u062d\u062f\u0629 \u0627\u0644\u062f\u0641\u0642 \u0623\u0648 \u062c\u0627\u0646\u0633\u0643\u064a (\u0631\u0645\u0632\u0647\u0627 Jy) \u0647\u064a \u0648\u062d\u062f\u0629 \u0644\u064a\u0633\u062a \u0645\u0646 \u0636\u0645\u0646 \u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u062f\u0648\u0644\u064a \u062a\u0642\u064a\u0633 \u0643\u062b\u0627\u0641\u0629 \u0627\u0644\u062f\u0641\u0642 \u0627\u0644\u0637\u064a\u0641\u064a\u0629\"></ref></a> \u0648\u0647\u064a \u062a\u0639\u0627\u062f\u0644 1026 \u0648\u0627\u062a \u0644\u0643\u0644 \u0645\u062a\u0631 \u0645\u0631\u0628\u0639 \u0644\u0643\u0644 \u0647\u0631\u062a\u0632. \u0643\u062b\u0627\u0641\u0629 \u0627\u0644\u062f\u0641\u0642 \u0623\u0648 \u0627\u0644\u062f\u0641\u0642 \u0623\u062d\u0627\u062f\u064a \u0627\u0644\u0644\u0648\u0646\u060c \u060c \u0644\u0623\u064a \u0645\u0635\u062f\u0631 \u0647\u064a \u062c\u0632\u0621 \u0644\u0627 \u064a\u062a\u062c\u0632\u0623 \u0645\u0646 \u0627\u0644\u0625\u0634\u0639\u0627\u0639 \u0627\u0644\u0637\u064a\u0641\u064a\u060c \u0639\u0644\u0649 \u0627\u0644\u0632\u0627\u0648\u064a\u0629 \u0627\u0644\u0635\u0644\u0628\u0629: \u0644\u0644\u0645\u0635\u062f\u0631: \u0633\u0645\u064a\u062a \u0627\u0644\u0648\u062d\u062f\u0629 \u0628\u0627\u0633\u0645 \u0645\u0643\u062a\u0634\u0641\u0647\u0627 \u0639\u0627\u0644\u0645 \u0627\u0644\u0641\u0644\u0643 \u0627\u0644\u0631\u0627\u0626\u062f \u0643\u0627\u0631\u0644 \u062c\u0627\u0646\u0633\u0643\u064a (Karl Guthe Jansky)\u060c \u0648\u062a\u0645 \u062a\u0639\u0631\u064a\u0641\u0647\u0627 \u0628\u0623\u0646\u0647\u0627: (\u0625\u0633 \u0622\u064a) (\u0646\u0638\u0627\u0645 \u0648\u062d\u062f\u0627\u062a \u0633\u0646\u062a\u064a\u0645\u062a\u0631 \u063a\u0631\u0627\u0645 \u062b\u0627\u0646\u064a\u0629) \u064a\u0645\u0643\u0646 \u062a\u062d\u0648\u064a\u0644 \u0643\u062b\u0627\u0641\u0629 \u0627\u0644\u062f\u0641\u0642 \u0641\u064a \u0648\u062d\u062f\u0629 \u062c\u0627\u0646\u0633\u0643\u064a \u0625\u0644\u0649 \u0623\u0633\u0627\u0633 \u0627\u0644\u062d\u062c\u0645\u060c \u0644\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0641\u062a\u0631\u0627\u0636\u0627\u062a \u0645\u0646\u0627\u0633\u0628\u0629 \u0639\u0646 \u0627\u0644\u0637\u064a\u0641. \u0639\u0644\u0649 \u0633\u0628\u064a\u0644 \u0627\u0644\u0645\u062b\u0627\u0644\u060c \u064a\u0645\u0643\u0646 \u062a\u062d\u0648\u064a\u0644 \u062d\u062c\u0645 AB \u0625\u0644\u0649 \u0643\u062b\u0627\u0641\u0629 \u0627\u0644\u062f\u0641\u0642 \u0628\u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0645\u064a\u0643\u0631\u0648\u062c\u0627\u0646\u0633\u0643\u064a \u0645\u0646 \u062e\u0644\u0627\u0644 \u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0629 \u0627\u0644\u062a\u0627\u0644\u064a\u0629: \u0646\u0638\u0631\u064b\u0627 \u0644\u0623\u0646 \u0648\u062d\u062f\u0629 \u0627\u0644\u062c\u0627\u0646\u0633\u0643\u064a \u064a\u062a\u0645 \u062d\u0633\u0627\u0628\u0647\u0627 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062f\u0645\u062c \u0627\u0644\u0632\u0627\u0648\u064a\u0629 \u0627\u0644\u0635\u0644\u0628\u0629 \u0627\u0644\u0643\u0627\u0645\u0644\u0629 \u0644\u0644\u0645\u0635\u062f\u0631\u060c \u0641\u063a\u0627\u0644\u0628\u064b\u0627 \u0645\u0627 \u062a\u064f\u0633\u062a\u062e\u062f\u0645 \u0628\u0628\u0633\u0627\u0637\u0629 \u0644\u0648\u0635\u0641 \u0627\u0644\u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u062b\u0627\u0628\u062a\u0629\u060c \u0639\u0644\u0649 \u0633\u0628\u064a\u0644 \u0627\u0644\u0645\u062b\u0627\u0644\u060c \u0643\u062a\u0627\u0644\u0648\u062c \u0643\u0627\u0645\u0628\u0631\u062f\u062c \u0627\u0644\u062b\u0627\u0644\u062b \u0644\u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u0631\u0627\u062f\u064a\u0648 (3 \u0633\u064a) \u0646\u062a\u0627\u0626\u062c \u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0628\u0648\u062d\u062f\u0627\u062a \u0627\u0644\u062c\u0627\u0646\u0633\u0643\u064a. \u0648\u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u0627\u0644\u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u0645\u0645\u062a\u062f\u0629\u060c \u063a\u0627\u0644\u0628\u064b\u0627 \u0645\u0627 \u062a\u0648\u0635\u0641 \u062f\u0631\u062c\u0629 \u0633\u0637\u0648\u0639 \u0627\u0644\u0633\u0637\u062d \u0628\u0648\u062d\u062f\u0627\u062a \u062c\u064a\u0647 \u0648\u0627\u064a \u0644\u0643\u0644 \u0632\u0627\u0648\u064a\u0629 \u0635\u0644\u0628\u0629\u061b \u0639\u0644\u0649 \u0633\u0628\u064a\u0644 \u0627\u0644\u0645\u062b\u0627\u0644\u060c \u062a\u0648\u0635\u0641 \u062e\u0631\u0627\u0626\u0637 \u0627\u0644\u0623\u0634\u0639\u0629 \u062a\u062d\u062a \u0627\u0644\u062d\u0645\u0631\u0627\u0621 (FIR) \u0627\u0644\u0648\u0627\u0631\u062f\u0629 \u0645\u0646 \u0627\u0644\u0642\u0645\u0631 \u0627\u0644\u0635\u0646\u0627\u0639\u064a \u0627\u0644\u0641\u0644\u0643\u064a \u0627\u0644\u0630\u064a \u064a\u0639\u0645\u0644 \u0628\u0627\u0644\u0623\u0634\u0639\u0629 \u062a\u062d\u062a \u0627\u0644\u062d\u0645\u0631\u0627\u0621 \u0645\u0646 \u062e\u0644\u0627\u0644 \u0648\u062d\u062f\u0627\u062a (MJy/sr). \u0628\u064a\u0646\u0645\u0627 \u064a\u0645\u0643\u0646 \u062a\u062d\u062f\u064a\u062f \u0627\u0644\u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u0645\u0645\u062a\u062f\u0629 \u0641\u064a \u062c\u0645\u064a\u0639 \u0627\u0644\u0623\u0637\u0648\u0627\u0644 \u0627\u0644\u0645\u0648\u062c\u064a\u0629 \u0628\u0647\u0630\u0647 \u0627\u0644\u0648\u062d\u062f\u0627\u062a\u060c \u0641\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u062e\u0631\u0627\u0626\u0637 \u062a\u0631\u062f\u062f\u0627\u062a \u0627\u0644\u0631\u0627\u062f\u064a\u0648\u060c \u062a\u0645 \u0648\u0635\u0641 \u0627\u0644\u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u062a\u0642\u0644\u064a\u062f\u064a\u0629 \u0639\u0627\u062f\u0629 \u0645\u0646 \u062d\u064a\u062b \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u0633\u0637\u0648\u0639\u061b \u0639\u0644\u0649 \u0633\u0628\u064a\u0644 \u0627\u0644\u0645\u062b\u0627\u0644 [<a href=\"\"></a> Haslam et al.] \u0648\u062a\u0641\u064a\u062f \u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0623\u0646 \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u0633\u0637\u0648\u0639 \u0641\u064a \u0627\u0644\u0643\u064a\u0644\u0648 \u062a\u0628\u0644\u063a 408 \u0645\u064a\u062c\u0627\u0647\u0631\u062a\u0632 \u0645\u0646 \u062e\u0644\u0627\u0644 \u0645\u0633\u062d \u062c\u0645\u064a\u0639 \u0627\u0644\u0645\u0648\u0627\u062f \u0641\u064a \u0627\u0644\u0623\u062c\u0648\u0627\u0621.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u30b8\u30e3\u30f3\u30b9\u30ad\u30fc\uff08jansky, \u8a18\u53f7\uff1aJy\uff09\u306f\u3001\u96fb\u6ce2\u5929\u6587\u5b66\u3067\u7528\u3044\u3089\u308c\u308b\u96fb\u78c1\u6ce2\u675f\u3001\u3059\u306a\u308f\u3061\uff08\u307f\u304b\u3051\u306e\uff09\u96fb\u6ce2\u5f37\u5ea6\u306e\u5358\u4f4d\u3067\u3042\u308b\u3002\u305d\u306e\u540d\u524d\u306f\u3001\u96fb\u6ce2\u5929\u6587\u5b66\u306e\u5148\u99c6\u8005\u3068\u306a\u3063\u305f\u30ab\u30fc\u30eb\u30fb\u30b8\u30e3\u30f3\u30b9\u30ad\u30fc\u306b\u3061\u306a\u3080\u3002 1 Jy \u306f1 m2 \u306e\u9762\u7a4d\u306b 1 Hz \u3042\u305f\u308a\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u306e\u6d41\u91cf\u304c 10-26 W \u3067\u3042\u308b\u3068\u304d\u306e\u96fb\u6ce2\u653e\u5c04\u306e\u5f37\u3055\u3068\u5b9a\u7fa9\u3055\u308c\u3066\u3044\u308b\u3002\u3088\u3063\u3066\u3001SI\u5358\u4f4d\u3067\u8868\u3059\u3068 1 Jy = 10-26 W\uff65m-2\uff65Hz-1 \u3068\u306a\u308b\u3002CGS\u5358\u4f4d\u7cfb\u3067\u8868\u3059\u3068 1 Jy = 10\u221223 erg\uff65s-1\uff65cm-2\uff65Hz-1 \u3068\u306a\u308b\u3002 \u6700\u3082\u660e\u308b\u3044\u81ea\u7136\u306e\u96fb\u6ce2\u6e90\u306e\u96fb\u6ce2\u5f37\u5ea6\u306f 1 - 100 Jy \u3067\u3042\u308b\u3002\u3088\u3063\u3066\u3001\u30b8\u30e3\u30f3\u30b9\u30ad\u30fc\u306f\u96fb\u6ce2\u5929\u6587\u5b66\u306b\u9069\u3057\u305f\u5358\u4f4d\u3068\u306a\u3063\u3066\u3044\u308b\u3002\u4f8b\u3048\u3070\u3001\u30b1\u30f3\u30d6\u30ea\u30c3\u30b8\u30ab\u30bf\u30ed\u30b0 \u7b2c3\u7248\uff083C\u30ab\u30bf\u30ed\u30b0\uff09\u306b\u306f\u3001\u5317\u534a\u7403\u304b\u3089\u89b3\u6e2c\u3067\u304d\u308b 159 MHz \u30679 Jy \u4ee5\u4e0a\u306e\u96fb\u6ce2\u6e90\u304c300 - 400\u63b2\u8f09\u3055\u308c\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Jansky (symbol Jy) \u2013 jednostka nat\u0119\u017cenia strumienia radiowego pochodz\u0105cego z obiekt\u00f3w kosmicznych nie nale\u017c\u0105ca do uk\u0142adu SI. Nazwa jednostki zosta\u0142a wzi\u0119ta na cze\u015b\u0107 Karla Janskyego. Jansky jest zdefiniowany jako jedna stukwadrylionowa wata na metr kwadratowy na herc. Poniewa\u017c obiekty astronomiczne znajduj\u0105 si\u0119 w du\u017cej odleg\u0142o\u015bci oraz tylko cz\u0119\u015b\u0107 ich promieniowania to fale radiowe wybrano bardzo niski wsp\u00f3\u0142czynnik, dzi\u0119ki temu g\u0119sto\u015b\u0107 strumienia ma wygodne do stosowania wielko\u015bci.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Il jansky (simbolo Jy) \u00e8 una unit\u00e0 di misura del flusso e della densit\u00e0 di flusso elettromagnetico non appartenente al Sistema Internazionale usata comunemente in radioastronomia. Un jansky vale 10\u221226 watt per metro quadro per hertz e prende il nome dal fisico statunitense Karl Guthe Jansky che scopr\u00ec le onde radio di origine galattica nel 1930. La densit\u00e0 di flusso o flusso monocromatico di una sorgente \u00e8 l'integrale della radianza sull'angolo solido della sorgente: Il jansky, rispetto agli altri sistemi di misura standard, viene definito come (rispetto al SI) (rispetto al cgs) La densit\u00e0 di flusso espressa in jansky pu\u00f2 essere convertita in magnitudine facendo le opportune ipotesi sullo spettro della sorgente. Per esempio, la conversione di una magnitudine AB in una densit\u00e0 di flusso espressa in \u03bcJy \u00e8 lineare: Poich\u00e9 il jansky \u00e8 ottenuto integrando il flusso sull'intero angolo solido, \u00e8 molto semplice usarlo per descrivere le sorgenti puntiformi. Ad esempio i flussi delle sorgenti radio contenute nel Terzo catalogo di radiosorgenti di Cambridge (3C) sono espressi in jansky. La brillanza superficiale di sorgenti estese \u00e8 spesso espressa in jansky per unit\u00e0 di angolo solido anche a frequenze diverse da quelle radio; per esempio le mappe ottenute dal satellite IRAS nel lontano infrarosso sono espresse in MJy/sr. Mentre i flussi delle sorgenti estese possono essere espressi con queste unit\u00e0 di misura praticamente a tutte le lunghezze d'onda, nelle mappe del cielo ottenute alle frequenze radio i loro flussi sono tradizionalmente espressi in termini di temperatura di brillanza. Ad esempio la mappatura di tutto il cielo nel continuo radio alla frequenza di 408 MHz ottenuta da Haslam con l'ausilio di vari radiotelescopi \u00e8 riportata in termini di temperatura di brillanza espressa in kelvin.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "O Jansky (s\u00edmbolo: Jy) \u00e9 uma unidade usada em Astronomia para medir densidade de fluxo. O nome da unidade foi escolhido em homenagem a Karl Jansky, que em 1932 detectou pela primeira vez ondas de r\u00e1dio emitidas pela Via L\u00e1ctea.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u63da\u65af\u57fa\uff08\u7b26\u865fJy\uff09\u662f\u4e00\u500b\u975e\u570b\u969b\u6a19\u6e96\u5236\u7684\u5149\u8c31\u5149\u901a\u91cf\u5bc6\u5ea6\u55ae\u4f4d\uff0c\u6216\u662f\u5149\u8c31\u8f90\u7167\u5ea6\u55ae\u4f4d\uff0c\u7b49\u6548\u65bc10\u221226\u74e6\u7279\u6bcf\u5e73\u65b9\u7c73\u6bcf\u8d6b\u8332\u3002\u4e00\u500b\u5149\u6e90\u7684\u901a\u91cf\u5bc6\u5ea6S\u662f\u5149\u8c31\u8f90\u7167\u5ea6 \u5728\u7acb\u9ad4\u89d2\u4e0b\u7684\u7a4d\u5206\uff1a \u6b64\u55ae\u4f4d\u5f97\u540d\u81ea\u7f8e\u570b\u7684\u7121\u7dda\u96fb\u5929\u7a7a\u5b78\u5bb6\u5361\u5c14\u00b7\u592e\u65af\u57fa\uff0c\u5b9a\u7fa9\u5982\u4e0b\uff1a (SI) (cgs)",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "De jansky is een maat voor fluxdichtheid, dat wil zeggen voor de hoeveelheid doorstroom door een eenheid van oppervlakte. De jansky is geen SI-eenheid, maar wordt desondanks veel gebruikt in de radio-astronomie, vaak ook als millijansky (mJy). De jansky drukt uit hoeveel energie van een bron op een oppervlak bij de waarnemer aankomt per tijdseenheid en frequentie. De eenheid is gedefinieerd als 10\u221226 watt per vierkante meter per hertz. Een zo kleine hoeveelheid is passend in de radioastronomie, waar maar heel weinig energie van een kosmisch object daadwerkelijk wordt waargenomen. In SI-eenheden uitgedrukt is de jansky: In cgs-eenheden, die binnen de sterrenkunde nog veel worden gebruikt, bedraagt de jansky De eenheid is vernoemd naar de Amerikaanse natuurkundige Karl Jansky.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "The jansky (symbol Jy) is a non-SI unit of spectral flux density, or spectral irradiance, used especially in radio astronomy. It is equivalent to 10\u221226 watts per square metre per hertz. The unit is named for the pioneering radio astronomer Karl Jansky. The flux density or monochromatic flux, , of a source is the integral of the spectral radiance, , over the source solid angle: The unit is named after pioneering US radio astronomer Karl Guthe Jansky and is defined as (SI) (cgs). Since the jansky is obtained by integrating over the whole source solid angle, it is most simply used to describe point sources; for example, the Third Cambridge Catalogue of Radio Sources (3C) reports results in Jy. \n*  For extended sources, the surface brightness is often described with units of Jy per solid angle; for example, far-infrared (FIR) maps from the IRAS satellite are in MJy/sr. \n*  Although extended sources at all wavelengths can be reported with these units, for radio-frequency maps, extended sources have traditionally been described in terms of a brightness temperature; for example the Haslam et al. 408 MHz all-sky continuum survey is reported in terms of a brightness temperature in K.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u042f\u0301\u043d\u0441\u043a\u0438\u0439 (\u0440\u0443\u0441\u0441\u043a\u043e\u0435 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435: \u042f\u043d; \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0435: Jy) \u2014 \u0432\u043d\u0435\u0441\u0438\u0441\u0442\u0435\u043c\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0441\u043f\u0435\u043a\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u043f\u043b\u043e\u0442\u043d\u043e\u0441\u0442\u0438 \u043f\u043e\u0442\u043e\u043a\u0430 \u0438\u0437\u043b\u0443\u0447\u0435\u043d\u0438\u044f, \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c\u0430\u044f \u0432 \u0440\u0430\u0434\u0438\u043e\u0430\u0441\u0442\u0440\u043e\u043d\u043e\u043c\u0438\u0438. \u0412\u0432\u0435\u0434\u0435\u043d\u0430 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u043c \u0410\u0441\u0442\u0440\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0441\u043e\u044e\u0437\u043e\u043c \u0432 1970 \u0433\u043e\u0434\u0443. \u041d\u0430\u0437\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u041a\u0430\u0440\u043b\u0430 \u042f\u043d\u0441\u043a\u043e\u0433\u043e, \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0434\u0438\u043e\u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0430 \u0438 \u043e\u0441\u043d\u043e\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u043d\u0438\u043a\u0430 \u0440\u0430\u0434\u0438\u043e\u0430\u0441\u0442\u0440\u043e\u043d\u043e\u043c\u0438\u0438.",
+                "lang": "ru"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 737599146,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 180090,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/JY": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jansky"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Janskies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jansky"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Janskys": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jansky"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Janski": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jansky"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jyanski": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jansky"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jyansky": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jansky"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Milli_flux_unit": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jansky"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Flux_unit": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jansky"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jy": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jansky"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jansky_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jansky"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "What is United States headquarters location for Kroger?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "8",
+            "@similarityScore": "0.9999575011017794",
+            "@percentageOfSecondRank": "2.4098752001803573E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Kroger",
+            "@support": "933",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Kroger",
+            "@offset": "48",
+            "@similarityScore": "0.999999989983607",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

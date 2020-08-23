@@ -1,0 +1,46 @@
+{
+    "@text": "What Belgian municipality with city privileges shares a border with Bruges?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Belgium",
+            "@support": "58385",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Belgian",
+            "@offset": "5",
+            "@similarityScore": "0.9995256775516713",
+            "@percentageOfSecondRank": "3.6489108714353496E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Municipality",
+            "@support": "25072",
+            "@types": "",
+            "@surfaceForm": "municipality",
+            "@offset": "13",
+            "@similarityScore": "0.9530287217034098",
+            "@percentageOfSecondRank": "0.02657413426894462"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "31",
+            "@similarityScore": "0.9331713193563087",
+            "@percentageOfSecondRank": "0.03998089737432955"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bruges",
+            "@support": "3678",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Bruges",
+            "@offset": "68",
+            "@similarityScore": "0.9999793260525172",
+            "@percentageOfSecondRank": "1.0371499630444322E-5"
+        }
+    ]
+}

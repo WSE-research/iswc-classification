@@ -1,0 +1,28 @@
+{
+    "@text": "List the former partner of the figure skaters whose former choreographer was Igor Shpillband.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Figure_skating",
+            "@support": "4738",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "figure skaters",
+            "@offset": "31",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Choreography",
+            "@support": "4133",
+            "@types": "",
+            "@surfaceForm": "choreographer",
+            "@offset": "59",
+            "@similarityScore": "0.999999999966974",
+            "@percentageOfSecondRank": "3.09008150913076E-11"
+        }
+    ]
+}

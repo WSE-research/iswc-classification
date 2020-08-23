@@ -1,0 +1,28 @@
+{
+    "@text": "which tributary has the highest watershed area?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Tributary",
+            "@support": "17917",
+            "@types": "",
+            "@surfaceForm": "tributary",
+            "@offset": "6",
+            "@similarityScore": "0.9999994711369715",
+            "@percentageOfSecondRank": "2.5994479879077664E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Drainage_basin",
+            "@support": "12767",
+            "@types": "",
+            "@surfaceForm": "watershed",
+            "@offset": "32",
+            "@similarityScore": "0.996872786923251",
+            "@percentageOfSecondRank": "0.003118698959673136"
+        }
+    ]
+}

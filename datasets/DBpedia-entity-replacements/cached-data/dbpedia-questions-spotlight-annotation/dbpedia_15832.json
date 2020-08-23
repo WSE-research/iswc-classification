@@ -1,0 +1,37 @@
+{
+    "@text": "What is the {death place} of {Vera Kholodnaya}, that {partner city} is {Haifa} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Vera_Kholodnaya",
+            "@support": "45",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Vera Kholodnaya",
+            "@offset": "30",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "62",
+            "@similarityScore": "0.819766728166617",
+            "@percentageOfSecondRank": "0.16076634904913573"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Haifa",
+            "@support": "6594",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Haifa",
+            "@offset": "72",
+            "@similarityScore": "0.9997880870546288",
+            "@percentageOfSecondRank": "6.426423567473749E-5"
+        }
+    ]
+}

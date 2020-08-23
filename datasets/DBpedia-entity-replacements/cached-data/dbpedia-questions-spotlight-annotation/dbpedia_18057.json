@@ -1,0 +1,37 @@
+{
+    "@text": "Name the F1 racer with relative as Ralf Schumacher and has child named Mick Schumacher?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Formula_One",
+            "@support": "22393",
+            "@types": "",
+            "@surfaceForm": "F1",
+            "@offset": "9",
+            "@similarityScore": "0.9999859789923408",
+            "@percentageOfSecondRank": "1.3109734002002759E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ralf_Schumacher",
+            "@support": "856",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Ralf",
+            "@offset": "35",
+            "@similarityScore": "0.9999083382686917",
+            "@percentageOfSecondRank": "9.166922277931937E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mick_Schumacher",
+            "@support": "13",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q378622,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:RacingDriver,DBpedia:Person,DBpedia:MotorsportRacer,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Mick Schumacher",
+            "@offset": "71",
+            "@similarityScore": "0.9999999999969305",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

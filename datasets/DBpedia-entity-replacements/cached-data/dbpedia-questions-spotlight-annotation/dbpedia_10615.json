@@ -1,0 +1,46 @@
+{
+    "@text": "What is the name of the steel bridge constructed by Irving Morrow which has the word \"bridge\" in its name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Steel",
+            "@support": "14497",
+            "@types": "",
+            "@surfaceForm": "steel",
+            "@offset": "24",
+            "@similarityScore": "0.9992242201816277",
+            "@percentageOfSecondRank": "2.140843646617717E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bridge",
+            "@support": "11859",
+            "@types": "",
+            "@surfaceForm": "bridge",
+            "@offset": "30",
+            "@similarityScore": "0.9990535812532575",
+            "@percentageOfSecondRank": "8.83088868197958E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Irving_Morrow",
+            "@support": "10",
+            "@types": "",
+            "@surfaceForm": "Irving Morrow",
+            "@offset": "52",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bridge",
+            "@support": "11859",
+            "@types": "",
+            "@surfaceForm": "bridge",
+            "@offset": "86",
+            "@similarityScore": "0.9990535812532575",
+            "@percentageOfSecondRank": "8.83088868197958E-4"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Which country has the currency Japanese yen?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Currency",
+            "@support": "6095",
+            "@types": "",
+            "@surfaceForm": "currency",
+            "@offset": "22",
+            "@similarityScore": "0.9999529459245291",
+            "@percentageOfSecondRank": "3.479562327683051E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Japanese_yen",
+            "@support": "2049",
+            "@types": "DBpedia:Currency",
+            "@surfaceForm": "Japanese yen",
+            "@offset": "31",
+            "@similarityScore": "0.9999999999998295",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

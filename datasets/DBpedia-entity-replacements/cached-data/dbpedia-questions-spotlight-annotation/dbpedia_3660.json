@@ -1,0 +1,37 @@
+{
+    "@text": "Is Frank Zappa the father of both Moon and Ahmet Zappa?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Frank_Zappa",
+            "@support": "3225",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Frank Zappa",
+            "@offset": "3",
+            "@similarityScore": "0.9999999999999858",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Moon",
+            "@support": "18387",
+            "@types": "Wikidata:Q634,Schema:Place,DBpedia:Planet,DBpedia:Place,DBpedia:Location,DBpedia:CelestialBody",
+            "@surfaceForm": "Moon",
+            "@offset": "34",
+            "@similarityScore": "0.9948173806337073",
+            "@percentageOfSecondRank": "0.004255568706319432"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ahmet_Zappa",
+            "@support": "137",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Ahmet Zappa",
+            "@offset": "43",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

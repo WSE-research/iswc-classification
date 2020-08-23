@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me mountain whose name has the word zumsteinspitze  in it.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mountain",
+            "@support": "17196",
+            "@types": "",
+            "@surfaceForm": "mountain",
+            "@offset": "8",
+            "@similarityScore": "0.9995651214346414",
+            "@percentageOfSecondRank": "2.635426423347825E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Zumsteinspitze",
+            "@support": "9",
+            "@types": "Wikidata:Q8502,Schema:Place,Schema:Mountain,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Mountain,DBpedia:Location",
+            "@surfaceForm": "zumsteinspitze",
+            "@offset": "41",
+            "@similarityScore": "0.9999999885582299",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

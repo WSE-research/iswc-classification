@@ -1,0 +1,28 @@
+{
+    "@text": "Was Lewis Hamilton a member of the sports team Minardi?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Lewis_Hamilton",
+            "@support": "1955",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q378622,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:RacingDriver,DBpedia:Person,DBpedia:MotorsportRacer,DBpedia:FormulaOneRacer,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Lewis Hamilton",
+            "@offset": "4",
+            "@similarityScore": "0.9999999999995026",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Minardi",
+            "@support": "940",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:FormulaOneTeam,DBpedia:Agent",
+            "@surfaceForm": "Minardi",
+            "@offset": "47",
+            "@similarityScore": "0.9999382902863619",
+            "@percentageOfSecondRank": "4.139541349046216E-5"
+        }
+    ]
+}

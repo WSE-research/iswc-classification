@@ -1,0 +1,37 @@
+{
+    "@text": "What Hanseatic city is the twinned administrative body of Leeds?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Hanseatic_League",
+            "@support": "1877",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Hanseatic",
+            "@offset": "5",
+            "@similarityScore": "0.9997779976879485",
+            "@percentageOfSecondRank": "1.4677642763064164E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "15",
+            "@similarityScore": "0.9152011901788595",
+            "@percentageOfSecondRank": "0.06799147962729649"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Leeds",
+            "@support": "21457",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Leeds",
+            "@offset": "58",
+            "@similarityScore": "0.9763887662255717",
+            "@percentageOfSecondRank": "0.018665742556331077"
+        }
+    ]
+}

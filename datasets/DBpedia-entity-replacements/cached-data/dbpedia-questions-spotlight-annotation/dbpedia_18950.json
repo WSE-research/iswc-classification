@@ -1,0 +1,28 @@
+{
+    "@text": "What is the largest city of the birthplace of Pat Kirkwood?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "20",
+            "@similarityScore": "0.9089963136575655",
+            "@percentageOfSecondRank": "0.07164643554179075"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Pat_Kirkwood_(actress)",
+            "@support": "67",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Pat Kirkwood",
+            "@offset": "46",
+            "@similarityScore": "0.9949441041026197",
+            "@percentageOfSecondRank": "0.005080978088281999"
+        }
+    ]
+}

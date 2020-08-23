@@ -1,0 +1,354 @@
+{
+    "http://dbpedia.org/resource/Physical_quantities": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Physical_quantity"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Physical_quantity": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Physical_quantity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Physical_quantity": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatPhysicalQuantities"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Measure100033615"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Building"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Physical quantity",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Physikalische Gr\u00f6\u00dfe",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Natuurkundige grootheid",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0424\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Wielko\u015b\u0107 fizyczna",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Grandeza f\u00edsica",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u7269\u7406\u91cf",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u7269\u7406\u91cf",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0643\u0645\u064a\u0629 \u0641\u064a\u0632\u064a\u0627\u0626\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Magnitud f\u00edsica",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Grandezza fisica",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Grandeur physique",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Een natuurkundige grootheid is een kwantificeerbare natuurkundige eigenschap van een verschijnsel, een fysisch lichaam of materie. Dat houdt in dat de eigenschap direct gemeten kan worden, dan wel uitgedrukt kan worden in andere natuurkundige grootheden. Een natuurkundige grootheid Y wordt daarom uitgedrukt als het product van een numerieke waarde {Y} van de grootheid en een natuurkundige eenheid [Y]. Y = {Y}[Y] Enkele voorbeelden van gangbare natuurkundige grootheden zijn lengte (of afstand), massa, tijdsduur.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Em f\u00edsica, podem ser consideradas como grandezas ou quantidades somente as propriedades de um fen\u00f4meno, corpo (f\u00edsica) ou subst\u00e2ncia. \u00c9 necess\u00e1rio que essas propriedades possam ser expressas quantitativamente: \n*  No caso das grandezas escalares: por meio de um n\u00famero (sua magnitude) mais uma refer\u00eancia (sua unidade de medida); \n*  No caso das grandezas vetoriais: por meio de um n\u00famero (sua magnitude), de uma refer\u00eancia (sua unidade de medida), de uma dire\u00e7\u00e3o e de um sentido.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u7269\u7406\u91cf\uff08\u3076\u3064\u308a\u308a\u3087\u3046\u3001physical quantity\uff09\u3068\u306f\u3001 \n* (JIS8103 \u8a08\u6e2c\u7528\u8a9e) \u7269\u7406\u5b66\u306b\u304a\u3051\u308b\u4e00\u5b9a\u306e\u4f53\u7cfb\u306e\u4e0b\u3067\u6b21\u5143\u304c\u78ba\u5b9a\u3057\u3001\u5b9a\u3081\u3089\u308c\u305f\u7269\u7406\u5358\u4f4d\u306e\u500d\u6570\u3068\u3057\u3066\u8868\u3059\u3053\u3068\u304c\u3067\u304d\u308b\u91cf\u306e\u3053\u3068\u3002 \u5de5\u696d\u91cf\uff08=\u300c\u8907\u6570\u306e\u7269\u7406\u7684\u6027\u8cea\u306b\u95a2\u4fc2\u3059\u308b\u91cf\u3067\u3001\u6e2c\u5b9a\u65b9\u6cd5\u306b\u3088\u3063\u3066\u5b9a\u7fa9\u3055\u308c\u3066\u3044\u308b\u5de5\u696d\u7684\u306b\u6709\u7528\u306a\u91cf\u3002\u786c\u3055\u3001\u8868\u9762\u7c97\u3055\u306a\u3069\u300d\u3068\u5b9a\u7fa9\u3055\u308c\u308b\u91cf\uff09\u3068\u5bfe\u6bd4\u3055\u308c\u308b\u3082\u306e \n* \u7269\u7406\u73fe\u8c61\u3092\u8ff0\u3079\u308b\u3068\u304d\u306b\u51fa\u3066\u304f\u308b\u91cf\u3002\u73fe\u8c61\u3084\u7269\u8cea\u306e\u4e00\u3064\u306e\u6e2c\u5b9a\u3067\u304d\u308b\u5c5e\u6027\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0424\u0438\u0437\u0438\u0301\u0447\u0435\u0441\u043a\u0430\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430\u0301 \u2014 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u043e \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u044a\u0435\u043a\u0442\u0430 \u0438\u043b\u0438 \u044f\u0432\u043b\u0435\u043d\u0438\u044f, \u043e\u0431\u0449\u0435\u0435 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0438 \u0434\u043b\u044f \u043a\u043b\u0430\u0441\u0441\u0430 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u0438\u043b\u0438 \u044f\u0432\u043b\u0435\u043d\u0438\u0439, \u043d\u043e \u0432 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0438 \u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u044c\u043d\u043e\u0435 \u0434\u043b\u044f \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0438\u0437 \u043d\u0438\u0445. \u0424\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u044b \u0438\u043c\u0435\u044e\u0442 \u0440\u043e\u0434, \u0440\u0430\u0437\u043c\u0435\u0440, \u0435\u0434\u0438\u043d\u0438\u0446\u0443(\u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f) \u0438 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435. \u0414\u043b\u044f \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0432\u0435\u043b\u0438\u0447\u0438\u043d \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u043f\u0440\u043e\u043f\u0438\u0441\u043d\u044b\u0435 \u0438 \u0441\u0442\u0440\u043e\u0447\u043d\u044b\u0435 \u0431\u0443\u043a\u0432\u044b \u043b\u0430\u0442\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0438\u043b\u0438 \u0433\u0440\u0435\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0430\u043b\u0444\u0430\u0432\u0438\u0442\u0430. \u0427\u0430\u0441\u0442\u043e \u043a \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f\u043c \u0434\u043e\u0431\u0430\u0432\u043b\u044f\u044e\u0442 \u0432\u0435\u0440\u0445\u043d\u0438\u0435 \u0438\u043b\u0438 \u043d\u0438\u0436\u043d\u0438\u0435 \u0438\u043d\u0434\u0435\u043a\u0441\u044b, \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0435, \u043a \u0447\u0435\u043c\u0443 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0441\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 E\u043f \u0447\u0430\u0441\u0442\u043e \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442 \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u0443\u044e \u044d\u043d\u0435\u0440\u0433\u0438\u044e, \u0430 cp \u2014 \u0442\u0435\u043f\u043b\u043e\u0451\u043c\u043a\u043e\u0441\u0442\u044c \u043f\u0440\u0438 \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u043c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Secondo la terza edizione, del 2007, del \"Vocabolario Internazionale di Metrologia\" (VIM 3), una grandezza \u00e8 la propriet\u00e0 di un fenomeno, corpo o sostanza, che pu\u00f2 essere espressa quantitativamente mediante un numero e un riferimento (ovvero che pu\u00f2 essere misurabile).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0646\u0637\u0644\u0642 \u0643\u0645\u064a\u0629 \u0641\u064a\u0632\u064a\u0627\u0626\u064a\u0629 \u0639\u0644\u0649 \u0643\u0644 \u062c\u0632\u0621 \u0645\u0646 \u0627\u0644\u0637\u0628\u064a\u0639\u0629 \u064a\u0645\u0643\u0646 \u062a\u062d\u062f\u064a\u062f \u0643\u0645\u064a\u062a\u0647 \u0628\u0627\u0644\u0642\u064a\u0627\u0633 \u0623\u0648 \u0628\u0627\u0644\u062d\u0633\u0627\u0628\u060c \u0648\u064a\u0634\u0645\u0644 \u062c\u0645\u064a\u0639 \u0627\u0644\u0642\u064a\u0645 \u0645\u0639\u0628\u0631 \u0639\u0646\u0647\u0627 \u0628\u0642\u064a\u0645\u0629 \u0639\u062f\u062f\u064a\u0629 \u0645\u0631\u0641\u0642\u0629 \u0639\u0627\u062f\u0629 \u0628\u0648\u062d\u062f\u0629 \u0642\u064a\u0627\u0633. \u0645\u062b\u0644\u0627 \u0627\u0644\u0643\u062a\u0644\u0629 \u0648\u0627\u0644\u0637\u0648\u0644 \u0647\u064a \u0643\u0645\u064a\u0627\u062a \u064a\u0639\u0628\u0631 \u0639\u0646\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u062a\u0648\u0627\u0644\u064a \u0628\u0627\u0644\u0643\u064a\u0644\u0648\u062c\u0631\u0627\u0645 \u0648\u0627\u0644\u0645\u062a\u0631\u060c \u0641\u064a \u062d\u064a\u0646 \u0623\u0646 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0627\u0646\u0643\u0633\u0627\u0631 \u0644\u0648\u0633\u0637 \u064a\u0639\u0628\u0631 \u0639\u0646\u0647 \u0628\u0639\u062f\u062f \u0628\u062f\u0648\u0646 \u0648\u062d\u062f\u0629 \u0641\u064a\u0643\u0648\u0646 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0627\u0646\u0643\u0633\u0627\u0631 \u0643\u0645\u064a\u0629 \u0644\u0627 \u0628\u0639\u062f\u064a\u0629. \u0645\u062c\u0627\u0644 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u0627\u0644\u0630\u064a \u064a\u062f\u0631\u0633 \u0627\u0644\u0639\u0644\u0627\u0642\u0629 \u0628\u064a\u0646 \u0627\u0644\u0648\u062d\u062f\u0627\u062a \u0647\u0648 \u0627\u0644\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u0639\u062f\u064a. \u062a\u0635\u0646\u0641 \u0627\u0644\u0643\u0645\u064a\u0627\u062a \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0626\u064a\u0629 \u0625\u0644\u0649 \u0642\u0633\u0645\u064a\u0646: \n*  \u0623-\u0643\u0645\u064a\u0627\u062a \u0642\u064a\u0627\u0633\u064a\u0629. \n*  \u0628- \u0643\u0645\u064a\u0627\u062a \u0645\u062a\u062c\u0647\u0647.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u7269\u7406\u91cf\uff0c\u662f\u7269\u7406\u4e4b\u4e2d\u80fd\u6e2c\u91cf\u7684\u91cf\uff0c\u4f8b\u5982\u8cea\u91cf\u3001\u9ad4\u7a4d\uff0c\u6216\u8005\u662f\u6e2c\u91cf\u548c\u901a\u5e38\u4ee5\u6578\u548c\u7269\u7406\u55ae\u4f4d\uff08\u901a\u5e38\u504f\u597d\u570b\u969b\u55ae\u4f4d\u5236\u55ae\u4f4d\uff09\u7684\u7a4d\u8868\u9054\u7684\u7d50\u679c\u3002 \u57281971\u5e74\u7b2c\u5341\u56db\u5c46\u570b\u969b\u5ea6\u91cf\u8861\u5927\u6703\uff08General Conference of Weights & Measures\uff09\u4e2d\uff0c\u9078\u64c7\u4e86\u4e03\u500b\u7269\u7406\u91cf\u4f5c\u70ba\u57fa\u672c\u91cf\u7684\u570b\u969b\u55ae\u4f4d\u7cfb\u7d71\uff0c\u5176\u6cd5\u6587\u540d\u7a31\"Le Syst\u00e8me International d\uff0cunit\u00e9s\"\uff0c\u7e2e\u5beb\u70ba\"SI\"\uff0c\u5176\u57fa\u672c\u4e03\u500b\u7269\u7406\u91cf\u5982\u4e0b\uff1a",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "On appelle grandeur physique, ou simplement grandeur, toute propri\u00e9t\u00e9 de la science de la nature qui peut \u00eatre mesur\u00e9e ou calcul\u00e9e, et dont les diff\u00e9rentes valeurs possibles s'expriment \u00e0 l'aide d'un nombre r\u00e9el quelconque ou d'un nombre complexe, souvent accompagn\u00e9 d'une unit\u00e9 de mesure. Une grandeur physique est d\u00e9finie par : \n*  sa mesure ; \n*  ce qu\u2019elle caract\u00e9rise ; \n*  sa fonction.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "A physical quantity is a physical property of a phenomenon, body, or substance, that can be quantified by measurement. A physical quantity can be expressed as the combination of a magnitude expressed by a number \u2013 usually a real number \u2013 and a unit; for example, 1.6749275\u00d710\u221227 kg (the mass of the neutron), or 299792458 metres per second (the speed of light). Physical quantities are measured as 'nu' where n is the magnitude and u is the unit. For example: A boy measured the length of a room as 3 m. Here 3 is the magnitude and m (metre) is the unit. 3 m can also be written as 300 cm. This shows that n1u1 =n2u2. Almost all matters have quantity.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Una magnitud f\u00edsica es un valor asociado a una propiedad f\u00edsica o cualidad medible de un sistema f\u00edsico, es decir, a la que se le pueden asignar distintos valores como resultado de una medici\u00f3n o una relaci\u00f3n de medidas. Las magnitudes f\u00edsicas se miden usando un patr\u00f3n que tenga bien definida esa magnitud, y tomando como unidad la cantidad de esa propiedad que posea el objeto patr\u00f3n. Por ejemplo, se considera que el patr\u00f3n principal de longitud es el metro en el Sistema Internacional de Unidades.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Wielko\u015b\u0107 fizyczna \u2013 w\u0142a\u015bciwo\u015b\u0107 fizyczna cia\u0142a lub zjawiska, kt\u00f3r\u0105 mo\u017cna okre\u015bli\u0107 ilo\u015bciowo, czyli zmierzy\u0107. Wielko\u015bci fizyczne w fizyce maj\u0105 okre\u015blone w\u0142a\u015bciwo\u015bci geometryczne, zw\u0142aszcza ze wzgl\u0119du na w\u0142asno\u015bci transformacyjne podczas zmiany uk\u0142adu wsp\u00f3\u0142rz\u0119dnych (por\u00f3wnaj: fizyka relatywistyczna), to znaczy maj\u0105 okre\u015blony charakter tensorowy, s\u0105: wielko\u015bciami skalarnymi (skalarami, mog\u0105 by\u0107 te\u017c bezwymiarowymi liczbami), wektorami, tensorami wy\u017cszych rz\u0119d\u00f3w. Przyk\u0142adowe wielko\u015bci fizyczne:",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Eine physikalische Gr\u00f6\u00dfe ist eine quantitativ bestimmbare Eigenschaft eines physikalischen Objektes, Vorgangs oder Zustands. Ihr Wert (Gr\u00f6\u00dfenwert) wird als Produkt aus einem  (der Ma\u00dfzahl) und einer Ma\u00dfeinheit angegeben. Vektorgr\u00f6\u00dfen werden durch Gr\u00f6\u00dfenwert und Richtung angegeben. Diejenigen physikalischen Gr\u00f6\u00dfen, die als Basis eines Gr\u00f6\u00dfensystems festgelegt sind, hei\u00dfen Basisgr\u00f6\u00dfen.",
+                "lang": "de"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Natuurkundige_grootheid"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Wielko\u015b\u0107_fizyczna"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Physikalische_Gr\u00f6\u00dfe"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Magnitud_f\u00edsica"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Physical_quantity"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Grandezza_fisica"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q107715"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ubb3c\ub9ac\ub7c9"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Grandeur_physique"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.05s1b"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u7269\u7406\u91cf"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Kuantitas_fisik"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Physical_quantity"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Fyzik\u00e1ln\u00ed_veli\u010dina"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4076117-4"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q107715"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Grandeza_f\u00edsica"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Physical_quantities"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Physical_quantity"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Physical_quantity?oldid=741859540"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://sergey-l-gladkiy.narod.ru/"
+            },
+            {
+                "type": "uri",
+                "value": "http://physicalmeasure.codeplex.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://physicalquantities.codeplex.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://engineerjs.com"
+            },
+            {
+                "type": "uri",
+                "value": "http://measures.codeplex.com/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "On appelle grandeur physique, ou simplement grandeur, toute propri\u00e9t\u00e9 de la science de la nature qui peut \u00eatre mesur\u00e9e ou calcul\u00e9e, et dont les diff\u00e9rentes valeurs possibles s'expriment \u00e0 l'aide d'un nombre r\u00e9el quelconque ou d'un nombre complexe, souvent accompagn\u00e9 d'une unit\u00e9 de mesure. On parle de grandeur physique alg\u00e9brique (par r\u00e9f\u00e9rence \u00e0 la mesure alg\u00e9brique utilis\u00e9e en g\u00e9om\u00e9trie), ou simplement grandeur alg\u00e9brique, dans le deuxi\u00e8me cas (nombre r\u00e9el quelconque), c'est-\u00e0-dire lorsque la grandeur peut prendre des valeurs n\u00e9gatives. Par exemple le temps et la longueur sont des grandeurs alg\u00e9briques, alors que la masse et la fr\u00e9quence n'en sont pas (elles ne peuvent pas \u00eatre n\u00e9gatives). La pr\u00e9sence d'une unit\u00e9 de mesure n'est pas n\u00e9cessaire, au sens strict, pour exprimer une grandeur physique. Ainsi, si la masse et la longueur sont des grandeurs qui s'expriment respectivement en kilogrammes et en m\u00e8tres (ou en multiples ou sous-multiples de ces unit\u00e9s de base), par contre l'indice de r\u00e9fraction d'un milieu conducteur de la lumi\u00e8re s'exprime \u00e0 l'aide d'un nombre sans unit\u00e9, du fait qu'il est d\u00e9fini comme quotient de deux grandeurs exprim\u00e9es avec la m\u00eame unit\u00e9 ; il en est de m\u00eame pour les lignes trigonom\u00e9triques usuelles (sinus, cosinus, tangente) d'un angle aigu dans un triangle rectangle. On parle dans ces cas de \u00ab grandeur sans dimension \u00bb. Une grandeur physique est d\u00e9finie par : \n*  sa mesure ; \n*  ce qu\u2019elle caract\u00e9rise ; \n*  sa fonction. Elle incarne un concept particulier, une abstraction dont le statut est celui d\u2019outil de la pens\u00e9e au service des r\u00e9ponses que le scientifique apporte \u00e0 ses questions.Prenons par exemple la \u00ab masse \u00bb. Si l\u2019on cherche \u00e0 comprendre ce qu\u2019elle \u00ab est \u00bb, son essence, on se fourvoie, mais nous pouvons mesurer la \u00ab masse \u00bb d\u2019un objet \u00e0 l\u2019aide d\u2019instruments con\u00e7us par le Laboratoire national de m\u00e9trologie et d'essais. Nous obtenons un nombre qui caract\u00e9rise la quantit\u00e9 de mati\u00e8re de l\u2019objet, quelle qu\u2019en soit la nature : plume, plomb, etc. La grandeur physique \u00ab masse \u00bb a pour fonction d\u2019intervenir dans les expressions des lois, comme celles des Lois du mouvement de Newton.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Una magnitud f\u00edsica es un valor asociado a una propiedad f\u00edsica o cualidad medible de un sistema f\u00edsico, es decir, a la que se le pueden asignar distintos valores como resultado de una medici\u00f3n o una relaci\u00f3n de medidas. Las magnitudes f\u00edsicas se miden usando un patr\u00f3n que tenga bien definida esa magnitud, y tomando como unidad la cantidad de esa propiedad que posea el objeto patr\u00f3n. Por ejemplo, se considera que el patr\u00f3n principal de longitud es el metro en el Sistema Internacional de Unidades. Existen magnitudes b\u00e1sicas y derivadas, que constituyen ejemplos de magnitudes f\u00edsicas: la masa, la longitud, el tiempo, la carga el\u00e9ctrica, la densidad, la temperatura, la velocidad, la aceleraci\u00f3n y la energ\u00eda. En t\u00e9rminos generales, es toda propiedad de los cuerpos o sistemas que puede ser medida. De lo dicho se desprende la importancia fundamental del instrumento de medici\u00f3n en la definici\u00f3n de la magnitud. La Oficina Internacional de Pesas y Medidas, por medio del Vocabulario Internacional de Metrolog\u00eda (International Vocabulary of Metrology, VIM), define a la magnitud como un atributo de un fen\u00f3meno, un cuerpo o sustancia que puede ser distinguido cualitativamente y determinado cuantitativamente.A diferencia de las unidades empleadas para expresar su valor, las magnitudes f\u00edsicas se expresan en cursiva: as\u00ed, por ejemplo, la \u00abmasa\u00bb se indica con m, y \u00abuna masa de 3 kilogramos\u00bb la expresaremos como m = 3 kg.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0424\u0438\u0437\u0438\u0301\u0447\u0435\u0441\u043a\u0430\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430\u0301 \u2014 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u043e \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u044a\u0435\u043a\u0442\u0430 \u0438\u043b\u0438 \u044f\u0432\u043b\u0435\u043d\u0438\u044f, \u043e\u0431\u0449\u0435\u0435 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0438 \u0434\u043b\u044f \u043a\u043b\u0430\u0441\u0441\u0430 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u0438\u043b\u0438 \u044f\u0432\u043b\u0435\u043d\u0438\u0439, \u043d\u043e \u0432 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0438 \u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u044c\u043d\u043e\u0435 \u0434\u043b\u044f \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0438\u0437 \u043d\u0438\u0445. \u0424\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u044b \u0438\u043c\u0435\u044e\u0442 \u0440\u043e\u0434, \u0440\u0430\u0437\u043c\u0435\u0440, \u0435\u0434\u0438\u043d\u0438\u0446\u0443(\u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f) \u0438 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435. \u0414\u043b\u044f \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0432\u0435\u043b\u0438\u0447\u0438\u043d \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u043f\u0440\u043e\u043f\u0438\u0441\u043d\u044b\u0435 \u0438 \u0441\u0442\u0440\u043e\u0447\u043d\u044b\u0435 \u0431\u0443\u043a\u0432\u044b \u043b\u0430\u0442\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0438\u043b\u0438 \u0433\u0440\u0435\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0430\u043b\u0444\u0430\u0432\u0438\u0442\u0430. \u0427\u0430\u0441\u0442\u043e \u043a \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f\u043c \u0434\u043e\u0431\u0430\u0432\u043b\u044f\u044e\u0442 \u0432\u0435\u0440\u0445\u043d\u0438\u0435 \u0438\u043b\u0438 \u043d\u0438\u0436\u043d\u0438\u0435 \u0438\u043d\u0434\u0435\u043a\u0441\u044b, \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0435, \u043a \u0447\u0435\u043c\u0443 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0441\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 E\u043f \u0447\u0430\u0441\u0442\u043e \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442 \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u0443\u044e \u044d\u043d\u0435\u0440\u0433\u0438\u044e, \u0430 cp \u2014 \u0442\u0435\u043f\u043b\u043e\u0451\u043c\u043a\u043e\u0441\u0442\u044c \u043f\u0440\u0438 \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u043c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Eine physikalische Gr\u00f6\u00dfe ist eine quantitativ bestimmbare Eigenschaft eines physikalischen Objektes, Vorgangs oder Zustands. Ihr Wert (Gr\u00f6\u00dfenwert) wird als Produkt aus einem  (der Ma\u00dfzahl) und einer Ma\u00dfeinheit angegeben. Vektorgr\u00f6\u00dfen werden durch Gr\u00f6\u00dfenwert und Richtung angegeben. Der Begriff physikalische Gr\u00f6\u00dfe im heutigen Verst\u00e4ndnis wurde von Julius Wallot eingef\u00fchrt und setzte sich ab 1930 langsam durch. Das f\u00fchrte zu einer begrifflich klaren Unterscheidung von Gr\u00f6\u00dfengleichungen, Zahlenwertgleichungen und zugeschnittenen Gr\u00f6\u00dfengleichungen. Eine  ist die mathematische Darstellung eines physikalischen Gesetzes, das Zust\u00e4nde eines physikalischen Systems und deren \u00c4nderungen beschreibt. Sie stellt den dabei geltenden Zusammenhang zwischen verschiedenen physikalischen Gr\u00f6\u00dfen dar, wobei in der Regel f\u00fcr jede dieser Gr\u00f6\u00dfen ein Formelzeichen steht. Gr\u00f6\u00dfengleichungen gelten unabh\u00e4ngig von den gew\u00e4hlten Ma\u00dfeinheiten. Diejenigen physikalischen Gr\u00f6\u00dfen, die als Basis eines Gr\u00f6\u00dfensystems festgelegt sind, hei\u00dfen Basisgr\u00f6\u00dfen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Em f\u00edsica, podem ser consideradas como grandezas ou quantidades somente as propriedades de um fen\u00f4meno, corpo (f\u00edsica) ou subst\u00e2ncia. \u00c9 necess\u00e1rio que essas propriedades possam ser expressas quantitativamente: \n*  No caso das grandezas escalares: por meio de um n\u00famero (sua magnitude) mais uma refer\u00eancia (sua unidade de medida); \n*  No caso das grandezas vetoriais: por meio de um n\u00famero (sua magnitude), de uma refer\u00eancia (sua unidade de medida), de uma dire\u00e7\u00e3o e de um sentido. A partir dessa defini\u00e7\u00e3o podemos, por exemplo, dizer que o comprimento, a quantidade de mat\u00e9ria e a energia s\u00e3o grandeza f\u00edsicas, enquanto as notas de uma prova, o pre\u00e7o de um objeto e a intensidade de um sentimento n\u00e3o s\u00e3o. Existem in\u00fameros tipos de grandezas f\u00edsicas, cada qual associada a um diferente tipo de unidade de medida. Uma unidade de medida tem um tamanho unit\u00e1rio arbitrariamente definido, e \u00e9 por meio de um processo de compara\u00e7\u00e3o quantitativa (medi\u00e7\u00e3o) com esse padr\u00e3o unit\u00e1rio que determina-se a magnitude de uma grandeza f\u00edsica. Isto \u00e9, quantas vezes o tamanho unit\u00e1rio est\u00e1 contido na medida que est\u00e1 sendo feita. Podem, tamb\u00e9m, existir diferentes unidades de medida para um mesmo tipo de grandeza f\u00edsica; usa-se corriqueiramente a polegada como medida de comprimento em favor do oficial metro.A uni\u00e3o de determinadas unidades de medida d\u00e1 origem a um sistema de medida.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Een natuurkundige grootheid is een kwantificeerbare natuurkundige eigenschap van een verschijnsel, een fysisch lichaam of materie. Dat houdt in dat de eigenschap direct gemeten kan worden, dan wel uitgedrukt kan worden in andere natuurkundige grootheden. Een natuurkundige grootheid Y wordt daarom uitgedrukt als het product van een numerieke waarde {Y} van de grootheid en een natuurkundige eenheid [Y]. Y = {Y}[Y] Enkele voorbeelden van gangbare natuurkundige grootheden zijn lengte (of afstand), massa, tijdsduur. Voor een overzicht van natuurkundige grootheden en eenheden, zie natuurkundige grootheden en eenheden.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "A physical quantity is a physical property of a phenomenon, body, or substance, that can be quantified by measurement. A physical quantity can be expressed as the combination of a magnitude expressed by a number \u2013 usually a real number \u2013 and a unit; for example, 1.6749275\u00d710\u221227 kg (the mass of the neutron), or 299792458 metres per second (the speed of light). Physical quantities are measured as 'nu' where n is the magnitude and u is the unit. For example: A boy measured the length of a room as 3 m. Here 3 is the magnitude and m (metre) is the unit. 3 m can also be written as 300 cm. This shows that n1u1 =n2u2. Almost all matters have quantity.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u7269\u7406\u91cf\uff08\u3076\u3064\u308a\u308a\u3087\u3046\u3001physical quantity\uff09\u3068\u306f\u3001 \n* (JIS8103 \u8a08\u6e2c\u7528\u8a9e) \u7269\u7406\u5b66\u306b\u304a\u3051\u308b\u4e00\u5b9a\u306e\u4f53\u7cfb\u306e\u4e0b\u3067\u6b21\u5143\u304c\u78ba\u5b9a\u3057\u3001\u5b9a\u3081\u3089\u308c\u305f\u7269\u7406\u5358\u4f4d\u306e\u500d\u6570\u3068\u3057\u3066\u8868\u3059\u3053\u3068\u304c\u3067\u304d\u308b\u91cf\u306e\u3053\u3068\u3002 \u5de5\u696d\u91cf\uff08=\u300c\u8907\u6570\u306e\u7269\u7406\u7684\u6027\u8cea\u306b\u95a2\u4fc2\u3059\u308b\u91cf\u3067\u3001\u6e2c\u5b9a\u65b9\u6cd5\u306b\u3088\u3063\u3066\u5b9a\u7fa9\u3055\u308c\u3066\u3044\u308b\u5de5\u696d\u7684\u306b\u6709\u7528\u306a\u91cf\u3002\u786c\u3055\u3001\u8868\u9762\u7c97\u3055\u306a\u3069\u300d\u3068\u5b9a\u7fa9\u3055\u308c\u308b\u91cf\uff09\u3068\u5bfe\u6bd4\u3055\u308c\u308b\u3082\u306e \n* \u7269\u7406\u73fe\u8c61\u3092\u8ff0\u3079\u308b\u3068\u304d\u306b\u51fa\u3066\u304f\u308b\u91cf\u3002\u73fe\u8c61\u3084\u7269\u8cea\u306e\u4e00\u3064\u306e\u6e2c\u5b9a\u3067\u304d\u308b\u5c5e\u6027\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0646\u0637\u0644\u0642 \u0643\u0645\u064a\u0629 \u0641\u064a\u0632\u064a\u0627\u0626\u064a\u0629 \u0639\u0644\u0649 \u0643\u0644 \u062c\u0632\u0621 \u0645\u0646 \u0627\u0644\u0637\u0628\u064a\u0639\u0629 \u064a\u0645\u0643\u0646 \u062a\u062d\u062f\u064a\u062f \u0643\u0645\u064a\u062a\u0647 \u0628\u0627\u0644\u0642\u064a\u0627\u0633 \u0623\u0648 \u0628\u0627\u0644\u062d\u0633\u0627\u0628\u060c \u0648\u064a\u0634\u0645\u0644 \u062c\u0645\u064a\u0639 \u0627\u0644\u0642\u064a\u0645 \u0645\u0639\u0628\u0631 \u0639\u0646\u0647\u0627 \u0628\u0642\u064a\u0645\u0629 \u0639\u062f\u062f\u064a\u0629 \u0645\u0631\u0641\u0642\u0629 \u0639\u0627\u062f\u0629 \u0628\u0648\u062d\u062f\u0629 \u0642\u064a\u0627\u0633. \u0645\u062b\u0644\u0627 \u0627\u0644\u0643\u062a\u0644\u0629 \u0648\u0627\u0644\u0637\u0648\u0644 \u0647\u064a \u0643\u0645\u064a\u0627\u062a \u064a\u0639\u0628\u0631 \u0639\u0646\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u062a\u0648\u0627\u0644\u064a \u0628\u0627\u0644\u0643\u064a\u0644\u0648\u062c\u0631\u0627\u0645 \u0648\u0627\u0644\u0645\u062a\u0631\u060c \u0641\u064a \u062d\u064a\u0646 \u0623\u0646 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0627\u0646\u0643\u0633\u0627\u0631 \u0644\u0648\u0633\u0637 \u064a\u0639\u0628\u0631 \u0639\u0646\u0647 \u0628\u0639\u062f\u062f \u0628\u062f\u0648\u0646 \u0648\u062d\u062f\u0629 \u0641\u064a\u0643\u0648\u0646 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0627\u0646\u0643\u0633\u0627\u0631 \u0643\u0645\u064a\u0629 \u0644\u0627 \u0628\u0639\u062f\u064a\u0629. \u062c\u0645\u0639 \u0648\u0637\u0631\u062d \u0627\u0644\u0623\u0639\u062f\u0627\u062f \u0644\u064a\u0633 \u0645\u0645\u0643\u0646\u0627 \u0625\u0644\u0627 \u0625\u0630\u0627 \u0643\u0627\u0646\u0627 \u0645\u0631\u062a\u0628\u0637\u064a\u0646 \u0628\u0646\u0641\u0633 \u0627\u0644\u0648\u062d\u062f\u0629 (\u0627\u0646\u0638\u0631 \u0627\u0644\u062a\u062c\u0627\u0646\u0633) \u060c \u0641\u064a \u062d\u064a\u0646 \u064a\u0645\u0643\u0646 \u0636\u0631\u0628 \u0648\u0642\u0633\u0645\u0629 \u0627\u0644\u0623\u0639\u062f\u0627\u062f \u0645\u0646 \u0648\u062d\u062f\u0627\u062a \u0645\u062e\u062a\u0644\u0641\u0629 \u060c \u0641\u064a \u0647\u0630\u0647 \u0627\u0644\u062d\u0627\u0644\u0629 \u0646\u062d\u0635\u0644 \u0639\u0644\u0649 \u0648\u062d\u062f\u0629 \u062c\u062f\u064a\u062f\u0629 \u0647\u064a \u0646\u0627\u062a\u062c \u0627\u0644\u0648\u062d\u062f\u062a\u064a\u0646. \u0645\u062b\u0644\u0627 \u0627\u0644\u0633\u0631\u0639\u0629 \u0647\u064a \u062d\u0627\u0635\u0644 \u0642\u0633\u0645\u0629 \u0627\u0644\u0645\u0633\u0627\u0641\u0629 \u0639\u0644\u0649 \u0627\u0644\u0632\u0645\u0646 \u0641\u062a\u0643\u0648\u0646 \u0648\u062d\u062f\u0629 \u0627\u0644\u0633\u0631\u0639\u0629 \u0643\u064a\u0644\u0648\u0645\u062a\u0631 \u0641\u064a \u0627\u0644\u0633\u0627\u0639\u0629 \u0623\u0648 \u0645\u062a\u0631 \u0641\u064a \u0627\u0644\u062b\u0627\u0646\u064a\u0629 . \u0625\u0630\u0627 \u0647\u0646\u0627\u0643 \u0646\u0638\u0631\u064a\u0627 \u0639\u062f\u062f\u0627 \u0643\u0628\u064a\u0631\u0627 \u0645\u0646 \u0627\u0644\u0648\u062d\u062f\u0627\u062a \u060c \u0644\u0643\u0646 \u064a\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0628\u0639\u0636 \u0645\u0646\u0647\u0627 \u0641\u0642\u0637 \u0641\u064a \u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0627\u0644\u0639\u0645\u0644\u064a. \u0645\u062c\u0627\u0644 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u0627\u0644\u0630\u064a \u064a\u062f\u0631\u0633 \u0627\u0644\u0639\u0644\u0627\u0642\u0629 \u0628\u064a\u0646 \u0627\u0644\u0648\u062d\u062f\u0627\u062a \u0647\u0648 \u0627\u0644\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u0639\u062f\u064a. \u062a\u0635\u0646\u0641 \u0627\u0644\u0643\u0645\u064a\u0627\u062a \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0626\u064a\u0629 \u0625\u0644\u0649 \u0642\u0633\u0645\u064a\u0646: \n*  \u0623-\u0643\u0645\u064a\u0627\u062a \u0642\u064a\u0627\u0633\u064a\u0629. \n*  \u0628- \u0643\u0645\u064a\u0627\u062a \u0645\u062a\u062c\u0647\u0647.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u7269\u7406\u91cf\uff0c\u662f\u7269\u7406\u4e4b\u4e2d\u80fd\u6e2c\u91cf\u7684\u91cf\uff0c\u4f8b\u5982\u8cea\u91cf\u3001\u9ad4\u7a4d\uff0c\u6216\u8005\u662f\u6e2c\u91cf\u548c\u901a\u5e38\u4ee5\u6578\u548c\u7269\u7406\u55ae\u4f4d\uff08\u901a\u5e38\u504f\u597d\u570b\u969b\u55ae\u4f4d\u5236\u55ae\u4f4d\uff09\u7684\u7a4d\u8868\u9054\u7684\u7d50\u679c\u3002 \u57281971\u5e74\u7b2c\u5341\u56db\u5c46\u570b\u969b\u5ea6\u91cf\u8861\u5927\u6703\uff08General Conference of Weights & Measures\uff09\u4e2d\uff0c\u9078\u64c7\u4e86\u4e03\u500b\u7269\u7406\u91cf\u4f5c\u70ba\u57fa\u672c\u91cf\u7684\u570b\u969b\u55ae\u4f4d\u7cfb\u7d71\uff0c\u5176\u6cd5\u6587\u540d\u7a31\"Le Syst\u00e8me International d\uff0cunit\u00e9s\"\uff0c\u7e2e\u5beb\u70ba\"SI\"\uff0c\u5176\u57fa\u672c\u4e03\u500b\u7269\u7406\u91cf\u5982\u4e0b\uff1a",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Wielko\u015b\u0107 fizyczna \u2013 w\u0142a\u015bciwo\u015b\u0107 fizyczna cia\u0142a lub zjawiska, kt\u00f3r\u0105 mo\u017cna okre\u015bli\u0107 ilo\u015bciowo, czyli zmierzy\u0107. Wielko\u015bci fizyczne w fizyce maj\u0105 okre\u015blone w\u0142a\u015bciwo\u015bci geometryczne, zw\u0142aszcza ze wzgl\u0119du na w\u0142asno\u015bci transformacyjne podczas zmiany uk\u0142adu wsp\u00f3\u0142rz\u0119dnych (por\u00f3wnaj: fizyka relatywistyczna), to znaczy maj\u0105 okre\u015blony charakter tensorowy, s\u0105: wielko\u015bciami skalarnymi (skalarami, mog\u0105 by\u0107 te\u017c bezwymiarowymi liczbami), wektorami, tensorami wy\u017cszych rz\u0119d\u00f3w. W mechanice kwantowej wielko\u015bci fizyczne staj\u0105 si\u0119 operatorami dzia\u0142aj\u0105cymi na przestrzeni Hilberta mo\u017cliwych stan\u00f3w uk\u0142adu kwantowego. Nadal jednak zachowuj\u0105 sw\u00f3j tensorowy charakter (wielko\u015bci skalarne opisywane s\u0105 przez operatory skalarne, wielko\u015bci wektorowe przez operatory wektorowe itp.). Zale\u017cno\u015bci mi\u0119dzy wielko\u015bciami fizycznymi wyra\u017ca si\u0119 wzorami wielko\u015bciowymi. Warto\u015bci liczbowe wielko\u015bci s\u0105 wyra\u017cane w jednostkach miar. Zestawienie jednostek miar wielko\u015bci i zale\u017cno\u015bci mi\u0119dzy nimi okre\u015blane s\u0105 w uk\u0142adach jednostek miar. Obecnie w fizyce i innych naukach obowi\u0105zuje uk\u0142ad SI. Przyk\u0142adowe wielko\u015bci fizyczne: \n*  skalarne: energia, masa, czas, \u0142adunek elektryczny, g\u0119sto\u015b\u0107, praca, moc, \n*  wektorowe: po\u0142o\u017cenie, pr\u0119dko\u015b\u0107, przyspieszenie, si\u0142a, \n*  tensorowe: tensor momentu bezw\u0142adno\u015bci.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Secondo la terza edizione, del 2007, del \"Vocabolario Internazionale di Metrologia\" (VIM 3), una grandezza \u00e8 la propriet\u00e0 di un fenomeno, corpo o sostanza, che pu\u00f2 essere espressa quantitativamente mediante un numero e un riferimento (ovvero che pu\u00f2 essere misurabile).",
+                "lang": "it"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 741859540,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 23204,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Property"
+            }
+        ]
+    }
+}

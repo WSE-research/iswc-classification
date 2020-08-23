@@ -1,0 +1,28 @@
+{
+    "@text": "Which are the mineral acids that contains the word acid in their name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mineral",
+            "@support": "5922",
+            "@types": "",
+            "@surfaceForm": "mineral",
+            "@offset": "14",
+            "@similarityScore": "0.9973618327170666",
+            "@percentageOfSecondRank": "0.0014986622542179535"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Acid",
+            "@support": "8253",
+            "@types": "",
+            "@surfaceForm": "acid",
+            "@offset": "51",
+            "@similarityScore": "0.9992665932957885",
+            "@percentageOfSecondRank": "2.659751036734472E-4"
+        }
+    ]
+}

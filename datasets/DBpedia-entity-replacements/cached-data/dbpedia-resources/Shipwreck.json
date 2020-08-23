@@ -1,0 +1,669 @@
+{
+    "http://dbpedia.org/resource/SS_Marloo": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shipwreck": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Place"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Relitto",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u00c9pave",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Pecio",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Shipwreck",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Wrack",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Destro\u00e7o mar\u00edtimo",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u062d\u0637\u0627\u0645 \u0633\u0641\u064a\u0646\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Wrak",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Scheepswrak",
+                "lang": "nl"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Wrak \u2013 zatopiona lub powa\u017cnie uszkodzona jednostka p\u0142ywaj\u0105ca opuszczona przez za\u0142og\u0119. Okre\u015blenie to u\u017cywane jest cz\u0119sto r\u00f3wnie\u017c w stosunku do zepsutych lub zniszczonych samochod\u00f3w i maszyn. Wraki statk\u00f3w cz\u0119\u015bciowo lub ca\u0142kowicie zatopione na niewielkiej g\u0142\u0119boko\u015bci i utrzymuj\u0105ce si\u0119 na wodzie lub tu\u017c pod jej powierzchni\u0105 np. dzi\u0119ki \u0142adunkowi o du\u017cym wyporze (drewno, puste beczki, itp.), a nie og\u0142oszone jeszcze w ksi\u0119gach locji jako stanowi\u0105ce zagro\u017cenie dla \u017ceglugi, oznacza si\u0119 znakiem odosobnione niebezpiecze\u0144stwo lub podw\u00f3jnym znakiem kardynalnym wed\u0142ug mi\u0119dzynarodowego systemu oznakowania nawigacyjnego.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u062d\u0637\u0627\u0645 \u0633\u0641\u064a\u0646\u0629 \u0647\u0648 \u0628\u0642\u0627\u064a\u0627 \u0633\u0641\u064a\u0646\u0629 \u062f\u0645\u0631\u062a\u060c \u0648\u0627\u0644\u062a\u064a \u062a\u0645 \u0627\u0644\u0639\u062b\u0648\u0631 \u0639\u0644\u064a\u0647\u0627 \u0625\u0645\u0627 \u0639\u0644\u0649 \u0627\u0644\u0634\u0627\u0637\u0626\u060c \u0639\u0644\u0649 \u0627\u0644\u0623\u0631\u0636 \u0623\u0648 \u063a\u0627\u0631\u0642\u0629 \u0641\u064a \u0642\u0627\u0639 \u0627\u0644\u0628\u062d\u0631. \u0642\u062f \u064a\u0643\u0648\u0646 \u0627\u0644\u062a\u0644\u0641 \u0627\u0644\u0630\u064a \u0623\u0635\u0627\u0628 \u0627\u0644\u0633\u0641\u064a\u0646\u0629 \u0645\u0642\u0635\u0648\u062f \u0623\u0648 \u0642\u062f \u064a\u0643\u0648\u0646 \u0639\u0627\u0631\u0636. \u0648\u062a\u064f\u0642\u062f\u064e\u0650\u0631 \u0627\u0644\u064a\u0648\u0646\u0633\u0643\u0648 \u0623\u0646\u0647 \u064a\u0648\u062c\u062f \u0641\u064a \u0623\u0646\u062d\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645 \u0623\u0643\u062b\u0631 \u0645\u0646 3 \u0645\u0644\u0627\u064a\u064a\u0646 \u062d\u0637\u0627\u0645 \u0633\u0641\u0646\u060c \u0628\u0639\u0636\u0647\u0627 \u064a\u0635\u0644 \u0639\u0645\u0631\u0647 \u0625\u0644\u0649 \u0622\u0644\u0627\u0641 \u0627\u0644\u0633\u0646\u064a\u0646\u060c \u0645\u0648\u062c\u0648\u062f\u0629 \u0641\u064a \u0642\u064a\u0639\u0627\u0646 \u0627\u0644\u0628\u062d\u0627\u0631.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Se denomina pecio (del lat\u00edn poscl\u00e1sico, pecia o petia, o en bajo lat\u00edn pecium o petium, \u2018fragmento o pieza rota\u2019) a los restos de un artefacto o nave fabricado por el ser humano, hundido total o parcialmente en una masa de agua (mar, r\u00edo, lago, embalse...). Un pecio puede ser producto de un accidente mar\u00edtimo, naufragio o cat\u00e1strofe natural, pero tambi\u00e9n puede ser ocasionado por abandono, hundimiento intencional, descuidos o negligencias. Los pecios m\u00e1s frecuentes son nav\u00edos naufragados, pero tambi\u00e9n existen numerosos pecios de aeronaves o veh\u00edculos terrestres.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Un relitto viene considerato quanto rimane di una nave dopo l'affondamento (naufragio) o l'arenamento a seguito di guasto, incidente o azione di guerra in mare. Esistono anche relitti spaziali costituiti da satelliti artificiali abbandonati e altri rottami in orbita intorno alla Terra, spesso catalogati come detriti spaziali o con l'equivalente inglese space debris. La terminologia comune, generalmente utilizzata tra chi si occupa di relitti, di navi sommerse e /o perdute \u00e8 la seguente:",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Destro\u00e7o mar\u00edtimo, ou simplesmente destro\u00e7os, \u00e9 uma embarca\u00e7\u00e3o ou qualquer parte de um navio, que \u00e9 encontrado tanto encalhado em terra ou afundado em um corpo de \u00e1gua. O naufr\u00e1gio que cria os destro\u00e7os pode ter sido deliberado ou acidental. A UNESCO estima que em todo o mundo mais de 3 milh\u00f5es de destro\u00e7o mar\u00edtimos, alguns por milhares de anos, descansam no fundo do mar.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Dans le domaine maritime, une \u00e9pave est ce qui reste d'un navire en mer (\u00e9pave d\u00e9rivante), sur le rivage ou au fond de la mer, apr\u00e8s qu'il a \u00e9t\u00e9 abandonn\u00e9, qu'il s'est \u00e9chou\u00e9 ou a coul\u00e9, \u00e0 la suite d'un \u00ab \u00e9v\u00e9nement de mer \u00bb (naufrage, avarie, collision, erreur de navigation, etc.) ou d'un sabordage. L'UNESCO \u00e9value \u00e0 3 millions leur nombre total, mais dont \u00e0 peine un millier seraient rentables \u00e9conomiquement.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Een scheepswrak is het overblijfsel van een verongelukt schip, dat niet meer te gebruiken is. Scheepswrakken kunnen langs de kustlijn liggen, maar ook onder water; een scheepswrak kan zelfs nog drijven. Een scheepswrak dat onder water op de bodem van een zee of oceaan ligt trekt vissen aan. Daarom gaan sportvissers soms speciaal vissen bij een wrak. Door duikers wordt soms naar scheepswrakken gedoken, als hobby of om naar voorwerpen te zoeken. Dit is niet geheel ongevaarlijk en vereist kennis van en ervaring met het duiken.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Wrack (v. mittelniederdt.: wrack \u201eherumtreibender Gegenstand\u201c) ist ein durch Verfall oder Besch\u00e4digung unbrauchbar gewordenes Fahrzeug. Am h\u00e4ufigsten wird der Begriff im Zusammenhang mit gesunkenen Schiffen nach einem Schiffbruch oder, im Seekrieg, Versenkung oder Selbstversenkung verwendet. F\u00fcr Geb\u00e4ude und technische Anlagen wird der Begriff Ruine verwendet. Bei einer gr\u00f6\u00dferen Anzahl von Wracks spricht man im \u00fcbertragenen Sinne von Schiffsfriedh\u00f6fen, Autofriedh\u00f6fen, Flugzeugfriedh\u00f6fen etc. In \u00d6sterreich wird der Begriff auch f\u00fcr Autos verwendet, vergleichbar mit der Havarie.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "A shipwreck is the remains of a ship that has wrecked, which are found either beached on land or sunken to the bottom of a body of water. Shipwrecking may be deliberate or accidental. UNESCO estimates that worldwide over 3 million shipwrecks, some thousands of years old, lie on seabeds.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039d\u03b1\u03c5\u03ac\u03b3\u03b9\u03bf"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Destro\u00e7o_mar\u00edtimo"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/\u00c9pave"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Relitto"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Pecio"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Wrak"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01nzyt"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q852190"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q852190"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Scheepswrak"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Wrack"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Lodn\u00ed_vrak"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Shipwrecks"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Law_of_the_sea"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Special:FilePath/8_-_AmStar_7.JPG"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Shipwreck"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Shipwreck?oldid=740078467"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://portal.unesco.org/culture/en/ev.php-URL_ID=34114&URL_DO=DO_TOPIC&URL_SECTION=201.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://thunderbay.noaa.gov/welcome.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.courthousenews.com/2015/08/12/battle-over-shipwreck-photos-brews-in-n-c.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.nc-wreckdiving.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.nauticalcharts.noaa.gov/hsd/wrecks_and_obstructions.html?utm_source=Discovery+Diving+Newz+%26+Trivia&utm_campaign=Newz+March+19%2C+2015&utm_medium=email"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wrecksite.eu/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Un relitto viene considerato quanto rimane di una nave dopo l'affondamento (naufragio) o l'arenamento a seguito di guasto, incidente o azione di guerra in mare. Esistono anche relitti spaziali costituiti da satelliti artificiali abbandonati e altri rottami in orbita intorno alla Terra, spesso catalogati come detriti spaziali o con l'equivalente inglese space debris. La terminologia comune, generalmente utilizzata tra chi si occupa di relitti, di navi sommerse e /o perdute \u00e8 la seguente: Si intende per relitto aeronavale una nave o un mezzo aereo di cui si conosce con sicurezza la presenza sul fondale, pur non conoscendo con estrema sicurezza le coordinate della sua posizione.Nel caso di relitti navali, il nome da attribuire al relitto \u00e8 il nome della nave al momento dell'affondamento e non quello al momento del varo.Un relitto navale pertanto pu\u00f2 essere: \n*  1- conosciuto e localizzato; \n*  2- conosciuto e perduto; \n*  3- sconosciuto e localizzato; \n*  4- sconosciuto e perduto; Le navi di cui si ha invece notizia certa e documentata di affondamento e non sono state ancora ritrovate e localizzate vengono definite \"navi sommerse o perdute\".",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Een scheepswrak is het overblijfsel van een verongelukt schip, dat niet meer te gebruiken is. Scheepswrakken kunnen langs de kustlijn liggen, maar ook onder water; een scheepswrak kan zelfs nog drijven. Een scheepswrak dat onder water op de bodem van een zee of oceaan ligt trekt vissen aan. Daarom gaan sportvissers soms speciaal vissen bij een wrak. Door duikers wordt soms naar scheepswrakken gedoken, als hobby of om naar voorwerpen te zoeken. Dit is niet geheel ongevaarlijk en vereist kennis van en ervaring met het duiken. Archeologen hebben ook beroepsmatig belangstelling voor sommige scheepswrakken, vooral als deze uit de oudheid of de middeleeuwen stammen. Deze tak van de archeologie wordt onderwaterarcheologie of maritieme archeologie genoemd. In de afgelopen halve eeuw zijn overal ter wereld allerlei maritiem-archeologische projecten begonnen, soms met zeer spectaculaire archeologische bergingen van een wrak - bijvoorbeeld van de Vasa in Stockholm en van de Mary Rose in Portsmouth. In Nederland zijn sommige nog begraven scheepswrakken aangeduid als rijksmonument.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Dans le domaine maritime, une \u00e9pave est ce qui reste d'un navire en mer (\u00e9pave d\u00e9rivante), sur le rivage ou au fond de la mer, apr\u00e8s qu'il a \u00e9t\u00e9 abandonn\u00e9, qu'il s'est \u00e9chou\u00e9 ou a coul\u00e9, \u00e0 la suite d'un \u00ab \u00e9v\u00e9nement de mer \u00bb (naufrage, avarie, collision, erreur de navigation, etc.) ou d'un sabordage. L'UNESCO \u00e9value \u00e0 3 millions leur nombre total, mais dont \u00e0 peine un millier seraient rentables \u00e9conomiquement.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u062d\u0637\u0627\u0645 \u0633\u0641\u064a\u0646\u0629 \u0647\u0648 \u0628\u0642\u0627\u064a\u0627 \u0633\u0641\u064a\u0646\u0629 \u062f\u0645\u0631\u062a\u060c \u0648\u0627\u0644\u062a\u064a \u062a\u0645 \u0627\u0644\u0639\u062b\u0648\u0631 \u0639\u0644\u064a\u0647\u0627 \u0625\u0645\u0627 \u0639\u0644\u0649 \u0627\u0644\u0634\u0627\u0637\u0626\u060c \u0639\u0644\u0649 \u0627\u0644\u0623\u0631\u0636 \u0623\u0648 \u063a\u0627\u0631\u0642\u0629 \u0641\u064a \u0642\u0627\u0639 \u0627\u0644\u0628\u062d\u0631. \u0642\u062f \u064a\u0643\u0648\u0646 \u0627\u0644\u062a\u0644\u0641 \u0627\u0644\u0630\u064a \u0623\u0635\u0627\u0628 \u0627\u0644\u0633\u0641\u064a\u0646\u0629 \u0645\u0642\u0635\u0648\u062f \u0623\u0648 \u0642\u062f \u064a\u0643\u0648\u0646 \u0639\u0627\u0631\u0636. \u0648\u062a\u064f\u0642\u062f\u064e\u0650\u0631 \u0627\u0644\u064a\u0648\u0646\u0633\u0643\u0648 \u0623\u0646\u0647 \u064a\u0648\u062c\u062f \u0641\u064a \u0623\u0646\u062d\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645 \u0623\u0643\u062b\u0631 \u0645\u0646 3 \u0645\u0644\u0627\u064a\u064a\u0646 \u062d\u0637\u0627\u0645 \u0633\u0641\u0646\u060c \u0628\u0639\u0636\u0647\u0627 \u064a\u0635\u0644 \u0639\u0645\u0631\u0647 \u0625\u0644\u0649 \u0622\u0644\u0627\u0641 \u0627\u0644\u0633\u0646\u064a\u0646\u060c \u0645\u0648\u062c\u0648\u062f\u0629 \u0641\u064a \u0642\u064a\u0639\u0627\u0646 \u0627\u0644\u0628\u062d\u0627\u0631.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "A shipwreck is the remains of a ship that has wrecked, which are found either beached on land or sunken to the bottom of a body of water. Shipwrecking may be deliberate or accidental. UNESCO estimates that worldwide over 3 million shipwrecks, some thousands of years old, lie on seabeds.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Se denomina pecio (del lat\u00edn poscl\u00e1sico, pecia o petia, o en bajo lat\u00edn pecium o petium, \u2018fragmento o pieza rota\u2019) a los restos de un artefacto o nave fabricado por el ser humano, hundido total o parcialmente en una masa de agua (mar, r\u00edo, lago, embalse...). Un pecio puede ser producto de un accidente mar\u00edtimo, naufragio o cat\u00e1strofe natural, pero tambi\u00e9n puede ser ocasionado por abandono, hundimiento intencional, descuidos o negligencias. Los pecios m\u00e1s frecuentes son nav\u00edos naufragados, pero tambi\u00e9n existen numerosos pecios de aeronaves o veh\u00edculos terrestres. Los conflictos armados son el origen de gran n\u00famero y concentraci\u00f3n de pecios en las zonas de combate como es el caso del atol\u00f3n de Truk; en ocasiones se trata de artefactos absolutamente inesperados como es el caso de los carros de combate y otros veh\u00edculos militares arrojados por el ej\u00e9rcito egipcio a las aguas del mar Rojo para evitar que el material b\u00e9lico cayera en poder del ej\u00e9rcito israel\u00ed, y que en la actualidad pueden contemplarse a profundidades de pocos metros en el litoral de la pen\u00ednsula del Sina\u00ed.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Wrak \u2013 zatopiona lub powa\u017cnie uszkodzona jednostka p\u0142ywaj\u0105ca opuszczona przez za\u0142og\u0119. Okre\u015blenie to u\u017cywane jest cz\u0119sto r\u00f3wnie\u017c w stosunku do zepsutych lub zniszczonych samochod\u00f3w i maszyn. Wraki statk\u00f3w cz\u0119\u015bciowo lub ca\u0142kowicie zatopione na niewielkiej g\u0142\u0119boko\u015bci i utrzymuj\u0105ce si\u0119 na wodzie lub tu\u017c pod jej powierzchni\u0105 np. dzi\u0119ki \u0142adunkowi o du\u017cym wyporze (drewno, puste beczki, itp.), a nie og\u0142oszone jeszcze w ksi\u0119gach locji jako stanowi\u0105ce zagro\u017cenie dla \u017ceglugi, oznacza si\u0119 znakiem odosobnione niebezpiecze\u0144stwo lub podw\u00f3jnym znakiem kardynalnym wed\u0142ug mi\u0119dzynarodowego systemu oznakowania nawigacyjnego. W mowie potocznej i \u017cargonie marynarskim statek zniszczony (wyeksploatowany), stanowi\u0105cy zagro\u017cenie dla za\u0142ogi na nim zatrudnionej tzw. \"p\u0142ywaj\u0105cy wrak\" lub statek po powa\u017cnej awarii, uszkodzeniu w stanie nienadaj\u0105cym si\u0119 do dalszej \u017ceglugi. Wraki statk\u00f3w sta\u0142y si\u0119 t\u0142em licznych opowiada\u0144, a ich katastrofy tematami przewodnimi wielu ksi\u0105\u017cek i film\u00f3w. Wiele wrak\u00f3w sta\u0142o si\u0119 obecnie obiektami podwodnej turystyki (nurkowanie komercyjne) do tego stopnia, \u017ce istniej\u0105 przypadki komercyjnego zatapiania statk\u00f3w w p\u00f3\u017aniejszych celach rekreacyjnych.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Wrack (v. mittelniederdt.: wrack \u201eherumtreibender Gegenstand\u201c) ist ein durch Verfall oder Besch\u00e4digung unbrauchbar gewordenes Fahrzeug. Am h\u00e4ufigsten wird der Begriff im Zusammenhang mit gesunkenen Schiffen nach einem Schiffbruch oder, im Seekrieg, Versenkung oder Selbstversenkung verwendet. F\u00fcr Geb\u00e4ude und technische Anlagen wird der Begriff Ruine verwendet. Bei einer gr\u00f6\u00dferen Anzahl von Wracks spricht man im \u00fcbertragenen Sinne von Schiffsfriedh\u00f6fen, Autofriedh\u00f6fen, Flugzeugfriedh\u00f6fen etc. In \u00d6sterreich wird der Begriff auch f\u00fcr Autos verwendet, vergleichbar mit der Havarie.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Destro\u00e7o mar\u00edtimo, ou simplesmente destro\u00e7os, \u00e9 uma embarca\u00e7\u00e3o ou qualquer parte de um navio, que \u00e9 encontrado tanto encalhado em terra ou afundado em um corpo de \u00e1gua. O naufr\u00e1gio que cria os destro\u00e7os pode ter sido deliberado ou acidental. A UNESCO estima que em todo o mundo mais de 3 milh\u00f5es de destro\u00e7o mar\u00edtimos, alguns por milhares de anos, descansam no fundo do mar.",
+                "lang": "pt"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Special:FilePath/8_-_AmStar_7.JPG?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 740078467,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 272778,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remains"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ship_wreck": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shipwrecks": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wrecked_Ship": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sunken_boat": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sunken_boats": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ship_wreckage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shipwreckage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Abandoned_Ship": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Abandoned_ship": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sunken_ship": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wreck": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hilma_Hooker": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Samuel_P._Ely_(shipwreck)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Marquette_(shipwreck)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vamar_Shipwreck_Site": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Antikythera_wreck": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kizilburun_shipwreck": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dalar\u00f6_wreck": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/V\u0169ng_T\u00e0u_shipwreck": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Kadakkarapally_Boat": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/F\u00f6gl\u00f6_wreck": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bungsberg_(ship)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fifi_shipwreck": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Great_Basses_wreck": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shipwreck_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Beeswax_wreck": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Shipwreck": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lofthus_(shipwreck)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/San_Felipe_(shipwreck)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/San_Jos\u00e9_(shipwreck)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Urca_de_Lima": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Maple_Leaf_(shipwreck)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Astron_(ship)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SS_William_Lawrence_Shipwreck_Site": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Roosevelt_Inlet_Shipwreck": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SS_Copenhagen_(1898)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hennepin_(shipwreck)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Farallon_Steamship_Disaster": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/MV_Panagiotis": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Joffre_(shipwreck)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lamartine_(shipwreck)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lady_Thetis": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Constandis_(wreck)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SS_Benwood": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sinop_D": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kolding_cog": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chersonesos_A": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Shipwreck"
+            }
+        ]
+    }
+}

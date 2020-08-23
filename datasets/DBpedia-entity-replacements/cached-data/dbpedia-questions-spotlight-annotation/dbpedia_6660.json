@@ -1,0 +1,28 @@
+{
+    "@text": "Which protein interacts with hydrogen peroxide?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Protein",
+            "@support": "53207",
+            "@types": "",
+            "@surfaceForm": "protein",
+            "@offset": "6",
+            "@similarityScore": "0.9999985364871884",
+            "@percentageOfSecondRank": "6.668938348529177E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Peroxide",
+            "@support": "790",
+            "@types": "",
+            "@surfaceForm": "peroxide",
+            "@offset": "38",
+            "@similarityScore": "0.9765588140350351",
+            "@percentageOfSecondRank": "0.02104740374417787"
+        }
+    ]
+}

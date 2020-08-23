@@ -1,0 +1,470 @@
+{
+    "http://dbpedia.org/resource/Morrison_Academy_Kaohsiung": {
+        "http://dbpedia.org/property/freeLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Telephone_number": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Rufnummer",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u96fb\u8a71\u756a\u53f7",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Telefoonnummer",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Telephone number",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "N\u00famero de tel\u00e9fono",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Num\u00e9ro de t\u00e9l\u00e9phone",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Numer telefonu",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "N\u00famero de telefone",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u96fb\u8a71\u865f\u78bc",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u96fb\u8a71\u865f\u78bc(Telephone number)\u662f\u4e00\u9023\u4e32\u6578\u5b57\u7684\u7d44\u5408\uff0c\u4e00\u7d44\u865f\u78bc\u5c0d\u61c9\u4e00\u500b\u96fb\u8a71\u7dda\uff0c\u5982\u8981\u64a5\u6253\u81f3\u53e6\u4e00\u65b9\uff0c\u53ea\u9700\u64a5\u5c0d\u65b9\u7684\u5c0d\u61c9\u865f\u78bc\u7d44\u5408\u3002\u5728\u96fb\u8a71\u865f\u78bc\u525b\u958b\u59cb\u4f7f\u7528\u6642\uff0c\u865f\u78bc\u8f03\u77ed\uff0c\u5927\u7d04\u53ea\u6709\u5169\u4e09\u500b\u6578\u5b57\uff0c\u4e5f\u53ea\u80fd\u64a5\u6253\u7d66\u9644\u8fd1\u7684\u96fb\u8a71\u7528\u6236\uff0c\u9010\u6f38\u5730\uff0c\u96fb\u8a71\u7cfb\u7d71\u8d8a\u8da8\u767c\u9054\uff0c\u6db5\u84cb\u7bc4\u570d\u9054\u5168\u7403\uff0c\u96fb\u8a71\u865f\u78bc\u4e5f\u76f8\u5c0d\u589e\u9577\u3002\u96fb\u8a71\u865f\u78bc\u9664\u4e86\u9023\u63a5\u96fb\u8a71\uff0c\u4e5f\u53ef\u9023\u63a5\u96fb\u8166\u53ca\u50b3\u771f\u6a5f\u3002   \u96fb\u8a71\u865f\u78bc\u662f\u4e00\u500b\u8207\u96fb\u4fe1\u76f8\u95dc\u7684\u5c0f\u4f5c\u54c1\u3002\u4f60\u53ef\u4ee5\u901a\u8fc7\u7f16\u8f91\u6216\u4fee\u8ba2\u6269\u5145\u5176\u5185\u5bb9\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Numer telefonu \u2013 ci\u0105g cyfr identyfikuj\u0105cych abonenta telefonicznego, kt\u00f3rych wybranie za pomoc\u0105 urz\u0105dze\u0144 telekomunikacyjnych (telefon, telefaks, modem) powoduje zestawienie po\u0142\u0105czenia, przy wykorzystaniu publicznej sieci telefonicznej, z \u017c\u0105danym abonentem (kt\u00f3remu ten numer zosta\u0142 przypisany przez operatora telekomunikacyjnego).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Eine Rufnummer oder Telefonnummer (bei Adressangaben oft mit \u201eTel.\u201c abgek\u00fcrzt) ist eine Ziffernfolge zur Anwahl eines Zielteilnehmers bei einem Telefongespr\u00e4ch. Im engeren Sinne bezeichnet Teilnehmerrufnummer oder Durchwahlrufnummer die einmalig vorkommende Nummer innerhalb eines Ortsnetzes. Faxnummern sind Rufnummern f\u00fcr die Anwahl von Faxger\u00e4ten, Einwahlnummern sind Rufnummern f\u00fcr die Anwahl von Telefonmodems \u00fcber das Telefonnetz. Bestimmte Instant-Messaging-Dienste wie z. B. SMS oder WhatsApp nutzen ebenfalls Rufnummern zur Adressierung eines Empf\u00e4ngers.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "A telephone number is a sequence of digits assigned to a fixed-line telephone subscriber station connected to a telephone line or to a wireless electronic telephony device, such as a radio telephone or a mobile telephone, or to other devices for data transmission via the public switched telephone network (PSTN) or other private networks. Most telephone numbers are assigned to one telephone line or one mobile telephone, and most lines or mobiles have one number.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "La mayor\u00eda de los pa\u00edses utilizan n\u00fameros de longitud fija (para las l\u00edneas normales al menos), de forma que los equipos terminales pueden determinar la longitud necesaria del n\u00famero de tel\u00e9fono que se est\u00e1 marcando. Tambi\u00e9n es posible que cada abonado tenga un conjunto de n\u00fameros m\u00e1s cortos para los destinos m\u00e1s frecuentes. Estos n\u00fameros cortos son traducidos autom\u00e1ticamente a n\u00fameros de tel\u00e9fono \u00fanicos antes de establecer la llamada. Algunos servicios especiales pueden tener n\u00fameros cortos; es el caso de algunos n\u00fameros de urgencias como el 112 o 911 y otros que dependen del pa\u00eds o la regi\u00f3n. Muchos sistemas tambi\u00e9n permiten las llamadas dentro de un \u00e1rea local sin marcar el prefijo local.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Un num\u00e9ro de t\u00e9l\u00e9phone est une suite de chiffres ou parfois de lettres, qui identifie de fa\u00e7on unique un terminal au sein d'un r\u00e9seau t\u00e9l\u00e9phonique, et qu'un appelant doit composer sur son clavier pour pouvoir le joindre. Les num\u00e9ros de t\u00e9l\u00e9phone peuvent \u00eatre recens\u00e9s dans des annuaires imprim\u00e9s ou \u00e9lectroniques.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u96fb\u8a71\u756a\u53f7\uff08\u3067\u3093\u308f\u3070\u3093\u3054\u3046\uff09\u306f\u3001\u96fb\u8a71\u7db2\u306b\u304a\u3044\u3066\u3001\u56fa\u5b9a\u96fb\u8a71\u306e\u52a0\u5165\u8005\u7dda\u3001\u643a\u5e2f\u96fb\u8a71\u306a\u3069\u306e\u79fb\u52d5\u4f53\u901a\u4fe1\u30fbIP\u96fb\u8a71\u306e\u7279\u5b9a\u306e\u30b5\u30fc\u30d3\u30b9\u30a2\u30ab\u30a6\u30f3\u30c8\u3001\u96fb\u6c17\u901a\u4fe1\u30b5\u30fc\u30d3\u30b9\u3092\u9078\u629e\u30fb\u63a5\u7d9a\u3059\u308b\u305f\u3081\u306b\u7528\u3044\u3089\u308c\u308b\u6709\u9650\u306e\u6570\u5024\u914d\u5217\u306b\u3088\u308b\u8b58\u5225\u5b50\u3067\u3042\u308b\u3002 \u901a\u5e38\u306f\u96fb\u8a71\u756a\u53f7\u3068\u52a0\u5165\u8005\u306a\u3069\u306f\u4e00\u5bfe\u4e00\u5bfe\u5fdc\u3059\u308b\u304c\u3001\u5171\u540c\u96fb\u8a71\u306e\u3088\u3046\u306b\u540c\u4e00\u306e\u756a\u53f7\u3092\u8907\u6570\u306e\u52a0\u5165\u8005\u3067\u5171\u7528\u3059\u308b\u5834\u5408\u3084\u3001\u5358\u4e00\u306e\u52a0\u5165\u8005\u7dda\u306b\u8907\u6570\u306e\u8ad6\u7406\u756a\u53f7\uff08\u30c0\u30a4\u30e4\u30eb\u30a4\u30f3\u756a\u53f7\uff09\u3092\u5272\u5f53\u308b\u5834\u5408\u3082\u3042\u308b\u3002 \u52a0\u5165\u8005\u7dda\u30fb\u30b5\u30fc\u30d3\u30b9\u30a2\u30ab\u30a6\u30f3\u30c8\u30fb\u901a\u4fe1\u30b5\u30fc\u30d3\u30b9\u306a\u3069\u306b\u91cd\u8907\u3084\u77db\u76fe\u306a\u304f\u5272\u308a\u5f53\u3066\u7ba1\u7406\u3059\u308b\u96fb\u8a71\u756a\u53f7\u8a08\u753b\u306f\u3001\u56fd\u969b\u516c\u8846\u4ea4\u63db\u96fb\u8a71\u7db2\u3067\u306fITU-T\u52e7\u544aE.164\u3067\u898f\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Een telefoonnummer is het unieke nummer dat toegekend wordt om een aansluiting op het publieke telefoonnet (PSTN) te identificeren. Formeel zijn telefoonnummers E.163/E.164-adressen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0435\u043b\u0435\u0444\u043e\u0301\u043d\u043d\u044b\u0439 \u043d\u043e\u0301\u043c\u0435\u0440 (\u0438\u043b\u0438 \u0430\u0431\u043e\u043d\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u043d\u043e\u043c\u0435\u0440) \u2014 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0446\u0438\u0444\u0440 (\u0440\u0435\u0436\u0435 \u2014 \u0431\u0443\u043a\u0432), \u043f\u0440\u0438\u0441\u0432\u043e\u0435\u043d\u043d\u0430\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044e \u0438\u043b\u0438 \u0430\u0431\u043e\u043d\u0435\u043d\u0442\u0443 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0439 \u0441\u0435\u0442\u0438, \u0437\u043d\u0430\u044f \u043a\u043e\u0442\u043e\u0440\u0443\u044e, \u043c\u043e\u0436\u043d\u043e \u0435\u043c\u0443 \u043f\u043e\u0437\u0432\u043e\u043d\u0438\u0442\u044c. \u0421 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u2014 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u0435 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043a\u043e\u043c\u043c\u0443\u0442\u0430\u0446\u0438\u0438 \u0432\u044b\u0437\u043e\u0432\u0430, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442 \u043c\u0430\u0440\u0448\u0440\u0443\u0442 \u0435\u0433\u043e \u043f\u0440\u043e\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u0438 \u043f\u043e\u0438\u0441\u043a\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u043c\u043e\u0433\u043e \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0434\u043b\u044f \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u044f (\u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u0441\u0438\u0433\u043d\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438). \u0422\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u043d\u0430\u0437\u043d\u0430\u0447\u0430\u0435\u0442\u0441\u044f \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u043c \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u043e\u043c \u0410\u0422\u0421 \u0438\u043b\u0438 \u043a\u043e\u043c\u043c\u0443\u0442\u0430\u0442\u043e\u0440\u0430, \u0442\u0430\u043a \u0447\u0442\u043e\u0431\u044b \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u0441\u0435\u0442\u0438 \u0438\u043c\u0435\u043b \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u0443\u044e \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044e. \u041f\u0440\u0438 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0438 \u043a \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0439 \u0441\u0435\u0442\u0438 \u043e\u0431\u0449\u0435\u0433\u043e \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0430\u0431\u043e\u043d\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u043d\u043e\u043c\u0435\u0440 \u0432\u044b\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0435\u0439-\u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u043e\u043c \u0441\u0432\u044f\u0437\u0438 \u043f\u0440\u0438 \u0437\u0430\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0438 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430 \u043e\u0431 \u043e\u043a\u0430\u0437\u0430\u043d\u0438\u0438 \u0443\u0441\u043b\u0443\u0433 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0439 \u0441\u0432\u044f\u0437\u0438. \u0412 \u0441\u0432\u043e\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c, \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0438 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435\u043c \u0434\u0438\u0430\u043f\u0430\u0437\u043e\u043d\u043e\u0432 (\u0431\u043b\u043e\u043a\u043e\u0432) \u043d\u043e\u043c\u0435\u0440\u043e",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Um n\u00famero de telefone, tamb\u00e9m chamado de n\u00famero telef\u00f4nico, \u00e9 uma sequ\u00eancia de n\u00fameros decimais que identificam um ponto de termina\u00e7\u00e3o de rede. O n\u00famero cont\u00e9m as informa\u00e7\u00f5es necess\u00e1rias para identificar o ponto final de uma chamada, seja telef\u00f4nica ou outra. Os n\u00fameros de telefone s\u00e3o frequentemente atribu\u00eddos \u00e0s linhas com diferentes dispositivos conectados a um celular, tais como fax e modems.",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/North_American_Numbering_Plan"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Num\u00e9ro_de_t\u00e9l\u00e9phone"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q214995"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u96fb\u8a71\u756a\u53f7"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Telefoonnummer"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q214995"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.07klh"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/N\u00famero_de_tel\u00e9fono"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Telefonn\u00ed_\u010d\u00edslo"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Rufnummer"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Nomor_telepon"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/N\u00famero_de_telefone"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Numer_telefonu"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc804\ud654\ubc88\ud638"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Identifiers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Network_addressing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Telephone_numbers"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Telephone_number"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Telephone_number?oldid=745067338"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.cybertelecom.org/voip/numbers.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.atis.org/INC/index.asp"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wtng.info/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.rhaworth.myby.co.uk/phreak/tenp_uk.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.itu.int/oth/T0202.aspx?parent=T0202"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.itu.int/rec/recommendation.asp?type=items&lang=e&parent=T-REC-E.123-200102-I"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u96fb\u8a71\u756a\u53f7\uff08\u3067\u3093\u308f\u3070\u3093\u3054\u3046\uff09\u306f\u3001\u96fb\u8a71\u7db2\u306b\u304a\u3044\u3066\u3001\u56fa\u5b9a\u96fb\u8a71\u306e\u52a0\u5165\u8005\u7dda\u3001\u643a\u5e2f\u96fb\u8a71\u306a\u3069\u306e\u79fb\u52d5\u4f53\u901a\u4fe1\u30fbIP\u96fb\u8a71\u306e\u7279\u5b9a\u306e\u30b5\u30fc\u30d3\u30b9\u30a2\u30ab\u30a6\u30f3\u30c8\u3001\u96fb\u6c17\u901a\u4fe1\u30b5\u30fc\u30d3\u30b9\u3092\u9078\u629e\u30fb\u63a5\u7d9a\u3059\u308b\u305f\u3081\u306b\u7528\u3044\u3089\u308c\u308b\u6709\u9650\u306e\u6570\u5024\u914d\u5217\u306b\u3088\u308b\u8b58\u5225\u5b50\u3067\u3042\u308b\u3002 \u901a\u5e38\u306f\u96fb\u8a71\u756a\u53f7\u3068\u52a0\u5165\u8005\u306a\u3069\u306f\u4e00\u5bfe\u4e00\u5bfe\u5fdc\u3059\u308b\u304c\u3001\u5171\u540c\u96fb\u8a71\u306e\u3088\u3046\u306b\u540c\u4e00\u306e\u756a\u53f7\u3092\u8907\u6570\u306e\u52a0\u5165\u8005\u3067\u5171\u7528\u3059\u308b\u5834\u5408\u3084\u3001\u5358\u4e00\u306e\u52a0\u5165\u8005\u7dda\u306b\u8907\u6570\u306e\u8ad6\u7406\u756a\u53f7\uff08\u30c0\u30a4\u30e4\u30eb\u30a4\u30f3\u756a\u53f7\uff09\u3092\u5272\u5f53\u308b\u5834\u5408\u3082\u3042\u308b\u3002 \u52a0\u5165\u8005\u7dda\u30fb\u30b5\u30fc\u30d3\u30b9\u30a2\u30ab\u30a6\u30f3\u30c8\u30fb\u901a\u4fe1\u30b5\u30fc\u30d3\u30b9\u306a\u3069\u306b\u91cd\u8907\u3084\u77db\u76fe\u306a\u304f\u5272\u308a\u5f53\u3066\u7ba1\u7406\u3059\u308b\u96fb\u8a71\u756a\u53f7\u8a08\u753b\u306f\u3001\u56fd\u969b\u516c\u8846\u4ea4\u63db\u96fb\u8a71\u7db2\u3067\u306fITU-T\u52e7\u544aE.164\u3067\u898f\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "A telephone number is a sequence of digits assigned to a fixed-line telephone subscriber station connected to a telephone line or to a wireless electronic telephony device, such as a radio telephone or a mobile telephone, or to other devices for data transmission via the public switched telephone network (PSTN) or other private networks. Most telephone numbers are assigned to one telephone line or one mobile telephone, and most lines or mobiles have one number. A telephone number serves as an address for switching telephone calls using a system of destination routing. Telephone numbers are entered or dialed by a calling party on the originating telephone set, which transmits the sequence of digits in the process of signaling to a telephone exchange. The exchange completes the call either to another locally connected subscriber or via the PSTN to the called party. The use of telephone numbers instead of subscriber names to indicate to the switchboard operator the call destination was developed and first used in the autumn of 1879 in Lowell, Massachusetts during a measles epidemic. A local physician, Moses Greeley Parker, realized that if all four of the city's operators were incapacitated by the epidemic, their replacements would have great trouble quickly learning the assignment of the 200 jacks on the switchboard to subscribers. He recommended the use of numbers instead. \"The local Bell company management at first protested that its customers would consider their designation by numbers to be beneath their dignity; nevertheless, it saw the logic of the suggestion and followed it. The subscribers were not outraged; the epidemic quickly passed, but telephone numbers did not.\"",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Um n\u00famero de telefone, tamb\u00e9m chamado de n\u00famero telef\u00f4nico, \u00e9 uma sequ\u00eancia de n\u00fameros decimais que identificam um ponto de termina\u00e7\u00e3o de rede. O n\u00famero cont\u00e9m as informa\u00e7\u00f5es necess\u00e1rias para identificar o ponto final de uma chamada, seja telef\u00f4nica ou outra. Os n\u00fameros de telefone s\u00e3o frequentemente atribu\u00eddos \u00e0s linhas com diferentes dispositivos conectados a um celular, tais como fax e modems.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Eine Rufnummer oder Telefonnummer (bei Adressangaben oft mit \u201eTel.\u201c abgek\u00fcrzt) ist eine Ziffernfolge zur Anwahl eines Zielteilnehmers bei einem Telefongespr\u00e4ch. Im engeren Sinne bezeichnet Teilnehmerrufnummer oder Durchwahlrufnummer die einmalig vorkommende Nummer innerhalb eines Ortsnetzes. Faxnummern sind Rufnummern f\u00fcr die Anwahl von Faxger\u00e4ten, Einwahlnummern sind Rufnummern f\u00fcr die Anwahl von Telefonmodems \u00fcber das Telefonnetz. Bestimmte Instant-Messaging-Dienste wie z. B. SMS oder WhatsApp nutzen ebenfalls Rufnummern zur Adressierung eines Empf\u00e4ngers. Wortwahl-Nummern (auch Vanity-Nummern genannt) enthalten Buchstaben statt Ziffern. Beim eigentlichen W\u00e4hlvorgang werden die Buchstaben durch die Eingabe auf einem Zifferntastenfeld automatisch in Ziffern \u00fcbersetzt. Wortwahl-Nummern sind keine speziellen Nummern, sondern nur eine Merkhilfe.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Numer telefonu \u2013 ci\u0105g cyfr identyfikuj\u0105cych abonenta telefonicznego, kt\u00f3rych wybranie za pomoc\u0105 urz\u0105dze\u0144 telekomunikacyjnych (telefon, telefaks, modem) powoduje zestawienie po\u0142\u0105czenia, przy wykorzystaniu publicznej sieci telefonicznej, z \u017c\u0105danym abonentem (kt\u00f3remu ten numer zosta\u0142 przypisany przez operatora telekomunikacyjnego).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Een telefoonnummer is het unieke nummer dat toegekend wordt om een aansluiting op het publieke telefoonnet (PSTN) te identificeren. Formeel zijn telefoonnummers E.163/E.164-adressen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Un num\u00e9ro de t\u00e9l\u00e9phone est une suite de chiffres ou parfois de lettres, qui identifie de fa\u00e7on unique un terminal au sein d'un r\u00e9seau t\u00e9l\u00e9phonique, et qu'un appelant doit composer sur son clavier pour pouvoir le joindre. Leur structure est d\u00e9finie par un plan de num\u00e9rotation propre \u00e0 chaque pays.Pour appeler en dehors de son pays, il est n\u00e9cessaire de faire une s\u00e9quence indiquant que l'on souhaite sortir de son pays (g\u00e9n\u00e9ralement indiqu\u00e9 \"+\") suivi de l'identifiant du pays de destination.De ce fait, chaque num\u00e9ro de t\u00e9l\u00e9phone poss\u00e8de deux formats, l'un lorsque l'appel reste interne au pays, l'autre dit international permettant d'appeler de n'importe quel pays. Les num\u00e9ros de t\u00e9l\u00e9phone peuvent \u00eatre recens\u00e9s dans des annuaires imprim\u00e9s ou \u00e9lectroniques. La recommandation ITU E.164 d\u00e9crit les proc\u00e9dures de num\u00e9rotation par pr\u00e9fixe international, inter-urbain et num\u00e9ro national. Contrairement \u00e0 ces recommandations, un grand nombre d'entreprises, sites web ou particuliers \u00e9crivent les num\u00e9ros de t\u00e9l\u00e9phone avec un (0) entre l'identifiant du pays de destination et le num\u00e9ro lui-m\u00eame, ce qui est erron\u00e9.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "La mayor\u00eda de los pa\u00edses utilizan n\u00fameros de longitud fija (para las l\u00edneas normales al menos), de forma que los equipos terminales pueden determinar la longitud necesaria del n\u00famero de tel\u00e9fono que se est\u00e1 marcando. Tambi\u00e9n es posible que cada abonado tenga un conjunto de n\u00fameros m\u00e1s cortos para los destinos m\u00e1s frecuentes. Estos n\u00fameros cortos son traducidos autom\u00e1ticamente a n\u00fameros de tel\u00e9fono \u00fanicos antes de establecer la llamada. Algunos servicios especiales pueden tener n\u00fameros cortos; es el caso de algunos n\u00fameros de urgencias como el 112 o 911 y otros que dependen del pa\u00eds o la regi\u00f3n. Muchos sistemas tambi\u00e9n permiten las llamadas dentro de un \u00e1rea local sin marcar el prefijo local.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u96fb\u8a71\u865f\u78bc(Telephone number)\u662f\u4e00\u9023\u4e32\u6578\u5b57\u7684\u7d44\u5408\uff0c\u4e00\u7d44\u865f\u78bc\u5c0d\u61c9\u4e00\u500b\u96fb\u8a71\u7dda\uff0c\u5982\u8981\u64a5\u6253\u81f3\u53e6\u4e00\u65b9\uff0c\u53ea\u9700\u64a5\u5c0d\u65b9\u7684\u5c0d\u61c9\u865f\u78bc\u7d44\u5408\u3002\u5728\u96fb\u8a71\u865f\u78bc\u525b\u958b\u59cb\u4f7f\u7528\u6642\uff0c\u865f\u78bc\u8f03\u77ed\uff0c\u5927\u7d04\u53ea\u6709\u5169\u4e09\u500b\u6578\u5b57\uff0c\u4e5f\u53ea\u80fd\u64a5\u6253\u7d66\u9644\u8fd1\u7684\u96fb\u8a71\u7528\u6236\uff0c\u9010\u6f38\u5730\uff0c\u96fb\u8a71\u7cfb\u7d71\u8d8a\u8da8\u767c\u9054\uff0c\u6db5\u84cb\u7bc4\u570d\u9054\u5168\u7403\uff0c\u96fb\u8a71\u865f\u78bc\u4e5f\u76f8\u5c0d\u589e\u9577\u3002\u96fb\u8a71\u865f\u78bc\u9664\u4e86\u9023\u63a5\u96fb\u8a71\uff0c\u4e5f\u53ef\u9023\u63a5\u96fb\u8166\u53ca\u50b3\u771f\u6a5f\u3002   \u96fb\u8a71\u865f\u78bc\u662f\u4e00\u500b\u8207\u96fb\u4fe1\u76f8\u95dc\u7684\u5c0f\u4f5c\u54c1\u3002\u4f60\u53ef\u4ee5\u901a\u8fc7\u7f16\u8f91\u6216\u4fee\u8ba2\u6269\u5145\u5176\u5185\u5bb9\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0435\u043b\u0435\u0444\u043e\u0301\u043d\u043d\u044b\u0439 \u043d\u043e\u0301\u043c\u0435\u0440 (\u0438\u043b\u0438 \u0430\u0431\u043e\u043d\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u043d\u043e\u043c\u0435\u0440) \u2014 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0446\u0438\u0444\u0440 (\u0440\u0435\u0436\u0435 \u2014 \u0431\u0443\u043a\u0432), \u043f\u0440\u0438\u0441\u0432\u043e\u0435\u043d\u043d\u0430\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044e \u0438\u043b\u0438 \u0430\u0431\u043e\u043d\u0435\u043d\u0442\u0443 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0439 \u0441\u0435\u0442\u0438, \u0437\u043d\u0430\u044f \u043a\u043e\u0442\u043e\u0440\u0443\u044e, \u043c\u043e\u0436\u043d\u043e \u0435\u043c\u0443 \u043f\u043e\u0437\u0432\u043e\u043d\u0438\u0442\u044c. \u0421 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u2014 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u0435 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043a\u043e\u043c\u043c\u0443\u0442\u0430\u0446\u0438\u0438 \u0432\u044b\u0437\u043e\u0432\u0430, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442 \u043c\u0430\u0440\u0448\u0440\u0443\u0442 \u0435\u0433\u043e \u043f\u0440\u043e\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u0438 \u043f\u043e\u0438\u0441\u043a\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u043c\u043e\u0433\u043e \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0434\u043b\u044f \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u044f (\u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u0441\u0438\u0433\u043d\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438). \u0422\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u043d\u0430\u0437\u043d\u0430\u0447\u0430\u0435\u0442\u0441\u044f \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u043c \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u043e\u043c \u0410\u0422\u0421 \u0438\u043b\u0438 \u043a\u043e\u043c\u043c\u0443\u0442\u0430\u0442\u043e\u0440\u0430, \u0442\u0430\u043a \u0447\u0442\u043e\u0431\u044b \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u0441\u0435\u0442\u0438 \u0438\u043c\u0435\u043b \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u0443\u044e \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044e. \u041f\u0440\u0438 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0438 \u043a \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0439 \u0441\u0435\u0442\u0438 \u043e\u0431\u0449\u0435\u0433\u043e \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0430\u0431\u043e\u043d\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u043d\u043e\u043c\u0435\u0440 \u0432\u044b\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0435\u0439-\u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u043e\u043c \u0441\u0432\u044f\u0437\u0438 \u043f\u0440\u0438 \u0437\u0430\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0438 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430 \u043e\u0431 \u043e\u043a\u0430\u0437\u0430\u043d\u0438\u0438 \u0443\u0441\u043b\u0443\u0433 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0439 \u0441\u0432\u044f\u0437\u0438. \u0412 \u0441\u0432\u043e\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c, \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0438 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435\u043c \u0434\u0438\u0430\u043f\u0430\u0437\u043e\u043d\u043e\u0432 (\u0431\u043b\u043e\u043a\u043e\u0432) \u043d\u043e\u043c\u0435\u0440\u043e\u0432 \u043c\u0435\u0436\u0434\u0443 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u043c\u0438, \u0442\u0430\u043a\u0436\u0435 \u043a\u0430\u043a \u0438 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0438\u0437\u0430\u0446\u0438\u0435\u0439 \u0438 \u043e\u0431\u0449\u0438\u043c \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0435\u043c \u0437\u0430 \u0443\u0441\u043b\u0443\u0433\u0430\u043c\u0438 \u0441\u0432\u044f\u0437\u0438 \u0437\u0430\u043d\u0438\u043c\u0430\u044e\u0442\u0441\u044f \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0435 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0438 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0435 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438. \u0412 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u044f ITU-T \u043f\u043e\u0434 \u043d\u043e\u043c\u0435\u0440\u043e\u043c E.164, \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0449\u0430\u044f \u043e\u0431\u0449\u0438\u0439 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0442\u0435\u043b\u0435\u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043f\u043b\u0430\u043d \u043d\u0443\u043c\u0435\u0440\u0430\u0446\u0438\u0438, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u044b\u0439 \u0432 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0445 \u0441\u0435\u0442\u044f\u0445 \u043e\u0431\u0449\u0435\u0433\u043e \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u0435\u0442\u044f\u0445. \u0421\u043e\u0433\u043b\u0430\u0441\u043d\u043e\u0435 E.164 \u043d\u043e\u043c\u0435\u0440\u0430 \u043c\u043e\u0433\u0443\u0442 \u0438\u043c\u0435\u0442\u044c \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 15 \u0446\u0438\u0444\u0440 \u0438 \u043e\u0431\u044b\u0447\u043d\u043e \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0441 \u043f\u0440\u0435\u0444\u0438\u043a\u0441\u043e\u043c \u00ab+\u00bb. \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 \u00ab\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u043e\u043a\u0430\u0437\u0430\u043d\u0438\u044f \u0443\u0441\u043b\u0443\u0433 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0439 \u0441\u0432\u044f\u0437\u0438\u00bb \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0442 \u0430\u0431\u043e\u043d\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u043d\u043e\u043c\u0435\u0440 \u043a\u0430\u043a \u00ab\u0432\u044b\u0434\u0435\u043b\u044f\u0435\u043c\u044b\u0439 \u0430\u0431\u043e\u043d\u0435\u043d\u0442\u0443 \u043f\u0440\u0438 \u0437\u0430\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0438 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430 \u043e\u0431 \u043e\u043a\u0430\u0437\u0430\u043d\u0438\u0438 \u0443\u0441\u043b\u0443\u0433 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0439 \u0441\u0432\u044f\u0437\u0438 \u043d\u043e\u043c\u0435\u0440, \u043f\u043e \u043a\u043e\u0442\u043e\u0440\u043e\u043c\u0443 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u0446\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u043d\u043e\u0435 \u043a \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0439 \u0441\u0435\u0442\u0438 \u0430\u0431\u043e\u043d\u0435\u043d\u0442\u0441\u043a\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e \u043f\u0440\u0438 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0438 \u0441 \u043d\u0438\u043c \u0434\u0440\u0443\u0433\u0438\u0445 \u0430\u0431\u043e\u043d\u0435\u043d\u0442\u0441\u043a\u0438\u0445 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u00bb. \u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u0440\u0435\u0433\u0443\u043b\u044f\u0442\u043e\u0440\u043e\u043c \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0445 \u043d\u043e\u043c\u0435\u0440\u043e\u0432 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u041c\u0438\u043d\u041a\u043e\u043c\u0421\u0432\u044f\u0437\u0438 (\u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438 \u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u0441\u0432\u044f\u0437\u0438).",
+                "lang": "ru"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 745067338,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 18790468,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sequence"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mobile_telephone_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Johnstown_Christian_School": {
+        "http://dbpedia.org/property/freeLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Islamic_University_College,_Ghana": {
+        "http://dbpedia.org/property/free": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Telephone_numbers": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mobile_device_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mobile_dialable_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mobile_directory_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Telephone_number": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/TN": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Directory_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kunming_International_Academy": {
+        "http://dbpedia.org/property/freeLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Number_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Phone_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Phone_numbers": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/T_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mang'u_High_School": {
+        "http://dbpedia.org/property/freeLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tel._Nos.": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Phone_Number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Morrison_Academy": {
+        "http://dbpedia.org/property/freeLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cellphone_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Telephone_number"
+            }
+        ]
+    }
+}

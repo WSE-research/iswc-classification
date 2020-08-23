@@ -1,0 +1,28 @@
+{
+    "@text": "Does the US route 281 have a junction at San Antonio?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/U.S._Route_281",
+            "@support": "372",
+            "@types": "Wikidata:Q34442,Schema:Place,DBpedia:RouteOfTransportation,DBpedia:Road,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "US route 281",
+            "@offset": "9",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/San_Antonio",
+            "@support": "15064",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "San Antonio",
+            "@offset": "41",
+            "@similarityScore": "0.999869082247865",
+            "@percentageOfSecondRank": "1.2186059105174532E-4"
+        }
+    ]
+}

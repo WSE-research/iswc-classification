@@ -1,0 +1,28 @@
+{
+    "@text": "How many runways are at Charles de Gaulle Airport in Paris?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Charles_VII_of_France",
+            "@support": "1725",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Charles",
+            "@offset": "24",
+            "@similarityScore": "0.6679374636252307",
+            "@percentageOfSecondRank": "0.32314238301338044"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Paris",
+            "@support": "125794",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Paris",
+            "@offset": "53",
+            "@similarityScore": "0.9999780981063103",
+            "@percentageOfSecondRank": "2.1764487607394136E-5"
+        }
+    ]
+}

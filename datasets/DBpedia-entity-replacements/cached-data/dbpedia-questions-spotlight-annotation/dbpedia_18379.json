@@ -1,0 +1,37 @@
+{
+    "@text": "Which mountain is located in inyo National Forest and has a parent peak named Nevado de Toluca ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mountain",
+            "@support": "17196",
+            "@types": "",
+            "@surfaceForm": "mountain",
+            "@offset": "6",
+            "@similarityScore": "0.9999927140705405",
+            "@percentageOfSecondRank": "5.3700491087981E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Inyo_National_Forest",
+            "@support": "171",
+            "@types": "Wikidata:Q473972,Schema:Place,DBpedia:ProtectedArea,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "inyo National Forest",
+            "@offset": "29",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Nevado_de_Toluca",
+            "@support": "67",
+            "@types": "Wikidata:Q8072,Schema:Place,DBpedia:Volcano,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location",
+            "@surfaceForm": "Nevado de Toluca",
+            "@offset": "78",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

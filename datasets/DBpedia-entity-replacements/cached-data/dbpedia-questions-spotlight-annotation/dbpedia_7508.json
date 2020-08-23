@@ -1,0 +1,37 @@
+{
+    "@text": "What French youth football team is Zinedine Zidane part of?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/France",
+            "@support": "256130",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "French",
+            "@offset": "5",
+            "@similarityScore": "0.8939121410333624",
+            "@percentageOfSecondRank": "0.10133441894352058"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Association_football",
+            "@support": "280277",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "football",
+            "@offset": "18",
+            "@similarityScore": "0.9977331000439411",
+            "@percentageOfSecondRank": "0.0013046621288466298"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Zinedine_Zidane",
+            "@support": "719",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q628099,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:SportsManager,DBpedia:SoccerManager,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Zidane",
+            "@offset": "44",
+            "@similarityScore": "0.9999968273248238",
+            "@percentageOfSecondRank": "2.5683804958430467E-6"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Who is the   {city} for {official language} of {Urdu}",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "14",
+            "@similarityScore": "0.8611990488404834",
+            "@percentageOfSecondRank": "0.09294890620585089"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Official_language",
+            "@support": "2507",
+            "@types": "",
+            "@surfaceForm": "official language",
+            "@offset": "25",
+            "@similarityScore": "0.9972581724484566",
+            "@percentageOfSecondRank": "0.0027381462901829483"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Urdu",
+            "@support": "13514",
+            "@types": "Wikidata:Q34770,Wikidata:Q315,Schema:Language,DBpedia:Language",
+            "@surfaceForm": "Urdu",
+            "@offset": "48",
+            "@similarityScore": "0.9997023137473081",
+            "@percentageOfSecondRank": "1.8293082012357136E-4"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Give me a count of all ice hockey players whose teams are headcoached by John Tortorella?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ice_hockey",
+            "@support": "39412",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "ice hockey",
+            "@offset": "23",
+            "@similarityScore": "0.9999264430985239",
+            "@percentageOfSecondRank": "6.0783828091656204E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/John_Tortorella",
+            "@support": "120",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q11774891,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:WinterSportPlayer,DBpedia:Person,DBpedia:IceHockeyPlayer,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "John Tortorella",
+            "@offset": "73",
+            "@similarityScore": "0.9999999999992895",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

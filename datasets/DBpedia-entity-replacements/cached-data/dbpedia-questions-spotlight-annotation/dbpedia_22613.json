@@ -1,0 +1,37 @@
+{
+    "@text": "What is the base currency of the Benelux and is also used as money in Kerguelen Islands?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Currency",
+            "@support": "6095",
+            "@types": "",
+            "@surfaceForm": "currency",
+            "@offset": "17",
+            "@similarityScore": "0.9995733168157287",
+            "@percentageOfSecondRank": "1.4404513080400425E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Benelux",
+            "@support": "1249",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "Benelux",
+            "@offset": "33",
+            "@similarityScore": "0.9999836160735605",
+            "@percentageOfSecondRank": "1.63187009059155E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Kerguelen_Islands",
+            "@support": "529",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Kerguelen Islands",
+            "@offset": "70",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

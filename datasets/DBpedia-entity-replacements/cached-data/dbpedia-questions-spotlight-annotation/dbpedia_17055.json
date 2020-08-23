@@ -1,0 +1,28 @@
+{
+    "@text": "In which city does Aung San Suu Kyi live in?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "9",
+            "@similarityScore": "0.8905846072247009",
+            "@percentageOfSecondRank": "0.06435178031154883"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Aung_San_Suu_Kyi",
+            "@support": "1226",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Aung San Suu Kyi",
+            "@offset": "19",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

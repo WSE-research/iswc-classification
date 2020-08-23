@@ -1,0 +1,220 @@
+{
+    "http://dbpedia.org/resource/Type_locality_(geology)": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Location100027167"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatGeologicalTypeLocalities"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Area108497294"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Settlement"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoGeoEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Section108648322"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Vicinity108641113"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Region108630985"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Localit\u00e0 tipo",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Localidad tipo",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Typlokalit\u00e4t",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Type locality (geology)",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Type locality, also called type area, type site or type section, is the locality where a particular rock type, stratigraphic unit or mineral species is first identified. The term is similar to the term type site in archaeology or the term type specimen in biology.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Die Typlokalit\u00e4t ist in der Geologie und der Mineralogie der Ort (Lokalit\u00e4t), von dem ein Gestein oder Mineral f\u00fcr dessen erstmalige wissenschaftliche Beschreibung stammt. Gelegentlich werden f\u00fcr Minerale auch zwei oder mehr Typlokalit\u00e4ten angegeben, wenn zur Analyse des Materials Proben von verschiedenen Fundorten herangezogen wurden. Oft werden die jeweiligen Gesteine oder Minerale nach dem ersten Fundort benannt, dies gilt h\u00e4ufig auch f\u00fcr Fossilien, insbesondere Leitfossilien der Pal\u00e4ontologie. Der entsprechende Ausdruck der Biologie ist Typenfundort (Terra typica) respektive Typusexemplar.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "La localidad tipo (lat\u00edn: locus typicus) o \u00e1rea tipo, refiere al sitio de donde proviene una muestra de roca, mineral, f\u00f3sil o ser vivo al recibir su primera descripci\u00f3n cient\u00edfica. En ocasiones tales muestras pueden provenir de diferentes lugares, en cuyo caso determinadas clasificaciones pueden tener m\u00e1s de una localidad tipo. Frecuentemente el nombre de las rocas o minerales descritos deriva del nombre del sitio geogr\u00e1fico, incluyendo el caso de los f\u00f3siles en paleontolog\u00eda.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "La localit\u00e0 tipo, in ambito geologico, \u00e8 la localit\u00e0 da cui proviene il campione di minerale sul quale sono state effettuate le analisi necessarie a definire la nuova specie mineralogica (struttura cristallina, composizione chimica e caratteristiche fisiche). Il campione in questione si definisce olotipo.",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Localidad_tipo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Type_locality_(geology)"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0c_mns"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Type_locality_(geology)"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1973416"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1973416"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Localit\u00e0_tipo"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Typlokalit\u00e4t"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Geological_type_localities"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Stratigraphy"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Type_locality_(geology)"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Type_locality_(geology)?oldid=733310161"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Type locality, also called type area, type site or type section, is the locality where a particular rock type, stratigraphic unit or mineral species is first identified. The term is similar to the term type site in archaeology or the term type specimen in biology.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "La localit\u00e0 tipo, in ambito geologico, \u00e8 la localit\u00e0 da cui proviene il campione di minerale sul quale sono state effettuate le analisi necessarie a definire la nuova specie mineralogica (struttura cristallina, composizione chimica e caratteristiche fisiche). Il campione in questione si definisce olotipo. Per un centinaio di specie mineralogiche la localit\u00e0 tipo non \u00e8 conosciuta, per vari motivi: alcune di queste sono conosciute fin dall'antichit\u00e0, e pertanto non \u00e8 possibile determinare con certezza la prima descrizione; in altri casi non \u00e8 stata riportata correttamente questa informazione nel corso di riclassificazioni e ridefinizioni; o ancora vi sono stati errori ed omissioni.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "La localidad tipo (lat\u00edn: locus typicus) o \u00e1rea tipo, refiere al sitio de donde proviene una muestra de roca, mineral, f\u00f3sil o ser vivo al recibir su primera descripci\u00f3n cient\u00edfica. En ocasiones tales muestras pueden provenir de diferentes lugares, en cuyo caso determinadas clasificaciones pueden tener m\u00e1s de una localidad tipo. Frecuentemente el nombre de las rocas o minerales descritos deriva del nombre del sitio geogr\u00e1fico, incluyendo el caso de los f\u00f3siles en paleontolog\u00eda. Tambi\u00e9n se definen localidades tipo para situar los estratotipos (secci\u00f3n geol\u00f3gica de referencia) al definir unidades estratigr\u00e1ficas como las formaciones geol\u00f3gicas. Por ejemplo, los GSSP se definen como localidad tipo de las unidades cronoestratigr\u00e1ficas globales. Tambi\u00e9n se utilizan localidades tipo para definir estructuras tect\u00f3nicas.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Die Typlokalit\u00e4t ist in der Geologie und der Mineralogie der Ort (Lokalit\u00e4t), von dem ein Gestein oder Mineral f\u00fcr dessen erstmalige wissenschaftliche Beschreibung stammt. Gelegentlich werden f\u00fcr Minerale auch zwei oder mehr Typlokalit\u00e4ten angegeben, wenn zur Analyse des Materials Proben von verschiedenen Fundorten herangezogen wurden. Oft werden die jeweiligen Gesteine oder Minerale nach dem ersten Fundort benannt, dies gilt h\u00e4ufig auch f\u00fcr Fossilien, insbesondere Leitfossilien der Pal\u00e4ontologie. Der Begriff wird dar\u00fcber hinaus auf Einheiten der Stratigraphie ausgedehnt. So sind etwa die GSSPs (Global Stratotype Section and Points) Typlokalit\u00e4ten f\u00fcr chronostratigraphische Einheiten, und die Definition von Formationen der Lithostratigraphie ist an eine Typlokalit\u00e4t gebunden. In gleichem Sinne gibt es f\u00fcr bestimmte tektonische Strukturen Typlokalit\u00e4ten. In der Pal\u00e4o-Glaziologie im Bezug auf Kaltzeiten (Quart\u00e4rstratigraphie) spricht man von Typusregion f\u00fcr ausgedehntere Landschaften. Der entsprechende Ausdruck der Biologie ist Typenfundort (Terra typica) respektive Typusexemplar.",
+                "lang": "de"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 733310161,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 5030515,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Locality"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Type_locality_(geology)": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Type_locality_(geology)"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type_locality": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Type_locality_(geology)"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Locality_(geology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Type_locality_(geology)"
+            }
+        ]
+    }
+}

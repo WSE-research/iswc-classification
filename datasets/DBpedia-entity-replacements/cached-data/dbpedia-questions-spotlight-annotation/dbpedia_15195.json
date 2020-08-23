@@ -1,0 +1,46 @@
+{
+    "@text": "What city is the twin city of Oslo and also the setting for \"A Tree Grows in Brooklyn\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "5",
+            "@similarityScore": "0.9075077188769456",
+            "@percentageOfSecondRank": "0.053944131798488525"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "twin city",
+            "@offset": "17",
+            "@similarityScore": "0.958382799348213",
+            "@percentageOfSecondRank": "0.043424402726772955"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Oslo",
+            "@support": "25142",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Oslo",
+            "@offset": "30",
+            "@similarityScore": "0.9998516423461069",
+            "@percentageOfSecondRank": "1.3723037386180812E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Brooklyn",
+            "@support": "36226",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Brooklyn",
+            "@offset": "77",
+            "@similarityScore": "0.9987456639957037",
+            "@percentageOfSecondRank": "9.527279120926836E-4"
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "http://dbpedia.org/resource/European_Reference_Index_for_the_Humanities": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/ERIH_PLUS"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/European_Reference_Index_for_the_Humanities_and_Social_Sciences": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/ERIH_PLUS"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ERIH": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/ERIH_PLUS"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/ERIH_PLUS": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/ERIH_PLUS"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ERIH_PLUS": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Work"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "ERIH PLUS",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "ERIH PLUS",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "ERIH PLUS (originally called the European Reference Index for the Humanities or ERIH) is an index containing bibliographic information on academic journals in the humanities and social sciences. It has been called \"the most important and prestigious reference index in the European Union when it comes to international quality and impact accreditation for scientific journals in the areas of Humanities and Social Sciences\" by a librarian of the Charles University. The index includes all journals that meet the following requirements: \"explicit procedures for external peer review; an academic editorial board, with members affiliated with universities or other independent research organizations; a valid ISSN code, confirmed by the international ISSN register; abstracts in English and/or another ",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "ERIH PLUS (European Reference Index for the Humanities and Social Sciences), anteriormente ERIH, es un \u00edndice europeo de revistas acad\u00e9micas.",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/ERIH_PLUS"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0138t7bg"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q22921221"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q22921221"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/ERIH_PLUS"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Bibliographic_databases_and_indexes"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Humanities_journals"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/homepage": [
+            {
+                "type": "uri",
+                "value": "https://erihplus.nsd.no"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/ERIH_PLUS"
+            }
+        ],
+        "http://dbpedia.org/property/geospatial": [
+            {
+                "type": "literal",
+                "value": "Worldwide",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/title": [
+            {
+                "type": "literal",
+                "value": "ERIH PLUS",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/titles": [
+            {
+                "type": "uri",
+                "value": "https://dbh.nsd.uib.no/publiseringskanaler/erihplus/periodical/listApproved"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/ERIH_PLUS?oldid=732606106"
+            }
+        ],
+        "http://dbpedia.org/property/depth": [
+            {
+                "type": "literal",
+                "value": "bibliographic information",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/web": [
+            {
+                "type": "uri",
+                "value": "https://erihplus.nsd.no"
+            }
+        ],
+        "http://dbpedia.org/property/producer": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Norwegian_Social_Science_Data_Services"
+            }
+        ],
+        "http://dbpedia.org/property/disciplines": [
+            {
+                "type": "literal",
+                "value": "Humanities",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "https://dbh.nsd.uib.no/publiseringskanaler/erihplus/periodical/listApproved"
+            },
+            {
+                "type": "uri",
+                "value": "https://dbh.nsd.uib.no/publiseringskanaler/erihplus/"
+            },
+            {
+                "type": "uri",
+                "value": "https://erihplus.nsd.no"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "ERIH PLUS (originally called the European Reference Index for the Humanities or ERIH) is an index containing bibliographic information on academic journals in the humanities and social sciences. It has been called \"the most important and prestigious reference index in the European Union when it comes to international quality and impact accreditation for scientific journals in the areas of Humanities and Social Sciences\" by a librarian of the Charles University. The index includes all journals that meet the following requirements: \"explicit procedures for external peer review; an academic editorial board, with members affiliated with universities or other independent research organizations; a valid ISSN code, confirmed by the international ISSN register; abstracts in English and/or another international language relevant for the field for all published articles; information on author affiliations and addresses; a maximum two thirds of the authors published in the journal from the same institution\". ERIH was originally established by the European Science Foundation and was transferred to the Norwegian Social Science Data Services in 2014, mainly because it already operates the Norwegian Scientific Index. At the same time it was extended to also include social science disciplines and renamed ERIH PLUS. ERIH PLUS is planned to be extended to also include natural sciences, and to be coordinated with the Norwegian Scientific Index.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "ERIH PLUS (European Reference Index for the Humanities and Social Sciences), anteriormente ERIH, es un \u00edndice europeo de revistas acad\u00e9micas.",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 732606106,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 46755940,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/country": [
+            {
+                "type": "literal",
+                "value": "Norway",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Index"
+            }
+        ],
+        "http://dbpedia.org/property/history": [
+            {
+                "type": "literal",
+                "value": 2002,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/formats": [
+            {
+                "type": "literal",
+                "value": "Academic journals",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    }
+}

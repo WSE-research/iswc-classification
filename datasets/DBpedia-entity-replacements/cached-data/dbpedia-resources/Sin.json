@@ -1,0 +1,540 @@
+{
+    "http://dbpedia.org/resource/Sin": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Band"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u7f6a (\u5b97\u6559)",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Zonde",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Pecado",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Pecado",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Peccato",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "P\u00e9ch\u00e9",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Sin",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0413\u0440\u0435\u0445",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u062e\u0637\u064a\u0626\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "S\u00fcnde",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Grzech",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5b97\u6559\u306b\u304a\u3051\u308b\u7f6a",
+                "lang": "ja"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Grzech \u2013 przekroczenie konkretnych norm moralnych i religijnych. Poj\u0119cie najcz\u0119\u015bciej u\u017cywane w dziedzinie religijnej. W religiach, w kt\u00f3rych B\u00f3g jest bytem osobowym, jak judaizm i chrze\u015bcija\u0144stwo, grzech oznacza dobrowolne zerwanie przymierza z Bogiem poprzez dokonanie jakiego\u015b z\u0142ego czynu. W religiach tych grzech powoduje oddalenie od \u017cycia, kt\u00f3rego \u017ar\u00f3d\u0142em jest B\u00f3g.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "In verschillende religies is een zonde een ernstige of minder ernstige handeling tegen de morele wetten van de godsdienst. De term impliceert ongehoorzaamheid aan God en wordt gebruikt in het jodendom, christendom en islam, maar niet in religies als het boeddhisme en in systemen waarin geen persoonlijke godheid is. De zonde is vaak sterk verweven met de religieuze betekenis van schuld.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Dans les religions et certaines sectes, le p\u00e9ch\u00e9 est une transgression volontaire ou non de la loi divine. Il est souvent d\u00e9fini comme une d\u00e9sob\u00e9issance, un refus, un obstacle au salut ou encore comme une cause de mort de l'\u00e2me. Dans le christianisme, la n\u00e9gation du p\u00e9ch\u00e9 (n'impliquant pas pour autant la n\u00e9gation de la gr\u00e2ce) est le p\u00e9lagianisme, doctrine h\u00e9r\u00e9siarque de P\u00e9lage.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u5b97\u6559\u306b\u304a\u3051\u308b\u7f6a\uff08\u3057\u3085\u3046\u304d\u3087\u3046\u306b\u304a\u3051\u308b\u3064\u307f\uff09\u3068\u306f\u3001\u4e3b\u306b\u5b97\u6559\u7684\u306a\u610f\u5473\u5408\u3044\u3067\u4f7f\u308f\u308c\u308b\u7528\u8a9e\u3067\u3001\u9053\u5fb3\u7684\u898f\u7bc4\u3092\u7834\u308b\u884c\u70ba\u3084\u3001\u305d\u306e\u3088\u3046\u306a\u898f\u7bc4\u306b\u80cc\u304f\u884c\u70ba\u3092\u72af\u3057\u305f\u72b6\u614b\u3092\u610f\u5473\u3059\u308b\u3002\u4e00\u822c\u306b\u3001\u9053\u5fb3\u7684\u898f\u7d04 (code of conduct) \u306f\u3001\u795e\u8056\u306a\u5b58\u5728\uff08\u4f8b\uff1a\u30a2\u30d6\u30e9\u30cf\u30e0\u306e\u5b97\u6559\u3067\u306e\u795e\uff09\u306b\u3088\u3063\u3066\u3001\u304a\u304d\u3066\u3068\u3057\u3066\u5b9a\u3081\u3089\u308c\u308b\u3002 \u7f6a\u3068\u306f\u3001\u901a\u5e38\u3001\u7981\u6b62\u3055\u308c\u3066\u3044\u308b\u884c\u70ba\u3084\u4e0d\u6b63\u3068\u3055\u308c\u3066\u3044\u308b\u884c\u70ba\u3092\u884c\u3046\u3053\u3068\u3092\u610f\u5473\u3059\u308b\u304c\u3001\u5b97\u6559\u306b\u3088\u3063\u3066\u306f\uff08\u7279\u306b\u30ad\u30ea\u30b9\u30c8\u6559\u306e\u6559\u6d3e\uff09\u3001\u7f6a\u306f\u7279\u5b9a\u306e\u884c\u70ba\u306e\u307f\u3067\u306a\u304f\u3001\u305d\u306e\u3088\u3046\u306a\u884c\u70ba\u3084\u60aa\u610f\u3092\u5fc3\u306b\u62b1\u3044\u3066\u3044\u308b\u7cbe\u795e\u72b6\u614b\u3001\u3092\u3082\u610f\u5473\u3059\u308b\u3053\u3068\u304c\u3042\u308b\u3002\u53e3\u982d\u3067\u884c\u3046\u4e0d\u9053\u5fb3\u3001\u7f9e\u6065\u7684\u3001\u6709\u5bb3\u3001\u7570\u7aef\u3068\u307f\u306a\u3055\u308c\u308b\u3044\u304b\u306a\u308b\u610f\u898b\u3084\u8a00\u8449\u3001\u884c\u70ba\u3082\u300c\u7f6a\u6df1\u3044\u300d\u3068\u3055\u308c\u308b\u3053\u3068\u304c\u3042\u308b\u3002 \u69d8\u3005\u306a\u5b97\u6559\u306b\u542b\u307e\u308c\u308b\u4e00\u822c\u7684\u306a\u7f6a\u306b\u95a2\u3059\u308b\u6982\u5ff5\u306b\u306f\u4ee5\u4e0b\u304c\u3042\u308b\u3002 \n*  \u4ed6\u8005\u3001\u68ee\u7f85\u4e07\u8c61\u3001\u307e\u305f\u306f\u3001\u4eca\u4e16\u304b\u6765\u4e16\u3067\u306e\u795e\u304b\u3089\u306e\u7f6a\u306b\u5bfe\u3059\u308b\u7f70 \n*  \u7f6a\u3068\u3059\u308b\u305f\u3081\u306b\u306f\u3001\u305d\u306e\u884c\u70ba\u304c\u610f\u56f3\u7684\u3067\u3042\u308b\u3079\u304d\u304b\u3069\u3046\u304b \n*  \u826f\u5fc3\u304c\u7f6a\u3092\u72af\u3057\u3066\u3044\u308b\u8a8d\u8b58\u3092\u3046\u306a\u304c\u3059\u7f6a\u60aa\u611f\u3092\u751f\u307f\u51fa\u3059\u3079\u304d\u3060\u3001\u3068\u3044\u3046\u8003\u3048 \n*  \u7f6a\u306e\u91cd\u3055\u3092\u306f\u304b\u308b\u4f53\u7cfb \n*  \u7f6a\u306b\u5bfe\u3059\u308b\uff08\u5f8c\u6094\u3068\u3082\u3046\u4e8c\u5ea6\u3068\u72af\u3055\u306a\u3044\u3068\u306e\u6c7a\u610f\u3092\u8868\u73fe\u3059\u308b\uff09\u61fa\u6094\u3068\u904e\u53bb\u306b\u72af\u3057\u305f\u884c\u70ba\u3078\u306e\u8d16\u3044\uff08\u4ee3\u511f\uff09 \n*  \u4e3b\u306b\u795e\u683c\u306a\u5b58\u5728\u306a\u3069\u306e\u4ef2\u4ecb\u8005\u3092\u901a\u3057\u3066\u306e\u3001\u7f6a\u306b\u5bfe\u3059\u308b\u5bb9\u8d66 (atonement) \u306e\u53ef\u80fd\u6027\uff1b\u30ad\u30ea\u30b9\u30c8\u6559\u3067\u306e\u6551\u6e08 \u307e\u305f\u3001\u72af\u7f6a\u3068\u6b63\u7fa9\u306f\u3001\u653f\u6559\u5206\u96e2\u306e\u6982\u5ff5\u306b\u3088\u308a\u95a2\u4fc2\u3057\u3066\u3044\u308b\u3082\u306e\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0413\u0440\u0435\u0445 \u2014 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0438\u043b\u0438 \u043f\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u0438\u0435, \u043a\u043e\u0442\u043e\u0440\u043e\u0435, \u043a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u0430\u0441\u0441\u043e\u0446\u0438\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0441 \u043f\u0440\u044f\u043c\u044b\u043c \u0438\u043b\u0438 \u043a\u043e\u0441\u0432\u0435\u043d\u043d\u044b\u043c \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0438\u0435\u043c \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0445 \u0437\u0430\u043f\u043e\u0432\u0435\u0434\u0435\u0439 (\u0437\u0430\u0432\u0435\u0442\u043e\u0432 \u0411\u043e\u0433\u0430, \u043f\u0440\u0435\u0434\u043f\u0438\u0441\u0430\u043d\u0438\u0439 \u0438 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0439); \u0440\u0435\u0436\u0435 \u2014 \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0438\u0435 \u0434\u043e\u043c\u0438\u043d\u0430\u043d\u0442\u043d\u044b\u0445 \u043c\u043e\u0440\u0430\u043b\u044c\u043d\u043e-\u044d\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432\u0438\u043b, \u043d\u043e\u0440\u043c, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0432\u0448\u0438\u0445\u0441\u044f \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435. \u042f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0430\u043d\u0442\u043e\u043d\u0438\u043c\u043e\u043c \u0441\u043b\u043e\u0432\u0430 \u00ab\u0434\u043e\u0431\u0440\u043e\u0434\u0435\u0442\u0435\u043b\u044c\u00bb.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "O termo pecado \u00e9 comumente utilizado em contexto religioso para descrever qualquer desobedi\u00eancia \u00e0 vontade de Deus; em especial, qualquer desconsidera\u00e7\u00e3o deliberada de leis divinas. No hebraico e no grego comum, as formas verbais (em hebr. hhat\u00e1; em gr. hamart\u00e1no) significam \"errar\", no sentido de errar ou n\u00e3o atingir um alvo, ideal ou padr\u00e3o. Em latim, o termo \u00e9 vertido por pecc\u00e1tu. Na pr\u00f3pria B\u00edblia \u00e9 dada a especifica\u00e7\u00e3o de pecado:",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "In a religious context, sin is the act of violating God's will by transgressing his commandments. Sin can also be viewed as any thought or action that endangers the ideal relationship between an individual and God; or as any diversion from the perceived ideal order for human living. To sin has been defined as \"to miss the mark\".",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "S\u00fcnde ist ein Begriff im Judentum, Christentum und Islam. Er bezeichnet im christlichen Verst\u00e4ndnis den unvollkommenen Zustand des von Gott getrennten Menschen und seine falsche Lebensweise (d. h. das \u00dcbertreten von oder Herausfallen aus der g\u00f6ttlichen Gesetzesordnung). Diese Trennung kam, der biblischen Erz\u00e4hlung (Gen 3 ) zufolge, durch den S\u00fcndenfall zustande. Die S\u00fcnde besteht nach christlichem Verst\u00e4ndnis in einer Abkehr von Gottes Willen, im Misstrauen Gott gegen\u00fcber, im Zulassen des B\u00f6sen oder im Sich-Verf\u00fchren-Lassen. Bei Paulus erscheint die S\u00fcnde als eine unheimliche Macht, die das Leben und das Zusammenleben bestimmt und die Menschen zu Sklaven ihrer Leidenschaften macht, denen sie entsprechend ausgeliefert sind (R\u00f6m 6,12-14 ).",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u5b97\u6559\u4e0a\u7684\u7f6a\u662f\u6307\u4e00\u79cd\u8fdd\u53cd\u9053\u5fb7\u89c4\u8303\u7684\u884c\u4e3a\u6216\u8005\u5b9e\u65bd\u4e86\u8fd9\u79cd\u884c\u4e3a\u7684\u72b6\u6001\u3002\u901a\u5e38\u8fd9\u79cd\u884c\u4e3a\u51c6\u5219\u7531\u4e00\u4e2a\u795e\uff08\u5982\u4e9a\u4f2f\u62c9\u7f55\u8bf8\u6559\u4e2d\u7684\u5929\u4e3b\uff1b\u4e0a\u5e1d\u3001\u795e\uff1b\u771f\u4e3b\uff09\u6765\u88c1\u5b9a\u3002 \u7f6a\u7ecf\u5e38\u7528\u4e8e\u6307\u79f0\u4e00\u79cd\u88ab\u7981\u6b62\u6216\u4e0d\u88ab\u8ba4\u53ef\u7684\u884c\u4e3a\uff1b\u5728\u67d0\u4e9b\u5b97\u6559\uff08\u7279\u522b\u662f\u57fa\u7763\u6559\u7684\u67d0\u4e9b\u6559\u6d3e\uff09\u4e2d\uff0c\u7f6a\u53ef\u4ee5\u6307\u4e00\u79cd\u601d\u60f3\u72b6\u6001\u800c\u4e0d\u662f\u7279\u6307\u4e00\u79cd\u884c\u4e3a\u3002\u53e3\u5934\u4e0a\u4efb\u4f55\u88ab\u8ba4\u4e3a\u4e0d\u9053\u5fb7\u7684\u3001\u53ef\u803b\u7684\u3001\u6709\u5bb3\u7684\u6216\u8005\u4e0d\u53cb\u597d\u7684\u601d\u60f3\u3001\u8a00\u8bba\u6216\u884c\u4e3a\u90fd\u53ef\u4ee5\u79f0\u4e3a\u201c\u6709\u7f6a\u7684\u201d(sinful)\u3002 \u5728\u5404\u79cd\u5b97\u6559\u4e2d\u5bf9\u4e8e\u7f6a\u7684\u5e38\u89c1\u6982\u5ff5\u6709\uff1a \n*  \u4ed6\u4eba\u3001\u4eca\u751f\u6216\u8eab\u540e\u7684\u795e\u548c\u6cdb\u6307\u7684\u5b87\u5b99\u5bf9\u4e8e\u7f6a\u7684\u60e9\u7f5a\u3002 \n*  \u72af\u7f6a\u662f\u5426\u5fc5\u987b\u6545\u610f\u7684\u95ee\u9898\u3002 \n*  \u81ea\u77e5\u72af\u7f6a\u8005\u7684\u826f\u77e5\u4f1a\u4ea7\u751f\u7f6a\u6076\u611f\u7684\u89c2\u5ff5\u3002 \n*  \u5bf9\u4e8e\u7f6a\u884c\u5927\u5c0f\u7684\u5224\u5b9a\u5c3a\u5ea6\u3002 \n*  \u5bf9\u4e8e\u7f6a\u884c\uff08\u8868\u793a\u540e\u6094\u5e76\u4fdd\u8bc1\u4e0d\u518d\u72af\uff09\u7684\u5fcf\u6094\uff0c\u4e0e\u5bf9\u8fc7\u53bb\u7f6a\u884c\u7684\u6551\u8d4e\uff08atonement\uff0c\u8d4e\u7f6a\uff09\u3002 \n*  \uff08\u7ecf\u5e38\u901a\u8fc7\u4e0e\u795e\u7684\u4ea4\u6d41\u6216\u8005\u7075\u5a92\u8fdb\u884c\uff09\u6055\u7f6a\u7684\u53ef\u80fd\u6027\uff1b\u57fa\u7763\u6559\u4e2d\u5e38\u88ab\u79f0\u4e3a\u6551\u8d4e\uff08salvation\uff0c\u4e0d\u540c\u4e8e\u8d4e\u7f6a\uff09\u3002 \u6cd5\u5f8b\u4e0a\u7684\u72af\u7f6a\u548c\u516c\u6b63\u662f\u76f8\u5173\u7684\u4e16\u4fd7\u6982\u5ff5\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "In alcune religioni, si parla di peccato come di un atto in contrasto con la coscienza e con i principi riconosciuti dalla persona o dalla sua comunit\u00e0 religiosa. Esso produce uno stato di malessere che si pu\u00f2 suddividere nel senso di colpa e nell'effetto negativo proprio causato dal peccato. In altre religioni il peccato attiene alla sfera morale e alla volont\u00e0 ed \u00e8 strettamente individuale, sebbene possa avere anche delle ripercussioni sociali.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062e\u0637\u064a\u0626\u0629 \u0641\u064a \u0627\u0644\u062f\u064a\u0646 \u0647\u064a \u0627\u0644\u0623\u0641\u0639\u0627\u0644 \u0627\u0644\u062a\u064a \u062a\u0646\u062a\u0647\u0643 \u0627\u0644\u0642\u0648\u0627\u0639\u062f \u0627\u0644\u0623\u062e\u0644\u0627\u0642\u064a\u0629\u060c \u0627\u0644\u0642\u0648\u0627\u0646\u064a\u0646 \u0627\u0644\u0627\u0644\u0647\u064a\u0629 \u0648\u0627\u0644\u0642\u0648\u0627\u0646\u064a\u0646 \u0627\u0644\u0639\u0627\u0645\u0629. \u0648 \u0627\u0644\u062e\u0637\u064a\u0626\u0629 \u0623\u064a\u0636\u0627\u064e \u062a\u0634\u064a\u0631 \u0625\u0644\u0649 \u0627\u0644\u0623\u0641\u0639\u0627\u0644 \u0627\u0644\u062d\u0633\u064a\u0629 \u0627\u0644\u0633\u064a\u0626\u0629 \u0648\u0627\u0644\u0645\u0646\u0641\u0648\u0631 \u0645\u0646\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0641\u0643\u0631 \u0627\u0644\u0633\u0626 \u0648\u0644\u064a\u0633\u062a \u0627\u0644\u0623\u0641\u0639\u0627\u0644 \u0627\u0644\u0645\u0627\u062f\u064a\u0629 \u0641\u0642\u0637. \u0648 \u0642\u062f \u0642\u0633\u0645\u062a \u0627\u0644\u062e\u0637\u0627\u064a\u0627 (\u062e\u0627\u0635\u0629 \u0641\u064a \u0627\u0644\u062f\u064a\u0627\u0646\u0629 \u0627\u0644\u0645\u0633\u064a\u062d\u064a\u0629) \u0625\u0644\u0649 \u0642\u0633\u0645\u064a\u0646: \n*  \u062e\u0637\u0627\u064a\u0627 \u0643\u0628\u0631\u0649 \u0648\u0645\u0645\u064a\u062a\u0629 : \u0645\u062b\u0644 \u0627\u0644\u0642\u062a\u0644 \u0648\u0627\u0644\u0643\u0641\u0631 \u0648\u0627\u0644\u0639\u0646\u0641 \u0627\u0644\u0634\u062f\u064a\u062f \u0648\u063a\u064a\u0631\u0647\u0627\u060c \u0639\u0627\u0642\u0628\u062a\u0647\u0646 \u062a\u0643\u0648\u0646 \u0648\u062e\u064a\u0645\u0629 \u0648\u0645\u0645\u064a\u062a\u0629. \n*  \u062e\u0637\u0627\u064a\u0627 \u0637\u0641\u064a\u0641\u0629 : \u0645\u062b\u0644 \u0627\u0644\u0633\u0643\u0631 \u0648\u0627\u0644\u063a\u0636\u0628 \u0648\u063a\u064a\u0631\u0647\u0645\u060c \u0648\u0639\u0627\u0642\u0628\u062a\u0647\u0646 \u062a\u0643\u0648\u0646 \u0637\u0641\u064a\u0641\u0629 \u0627\u0646 \u0648\u062c\u062f\u062a \u0628\u0644 \u0641\u064a \u0628\u0639\u0636 \u0627\u0644\u0623\u062d\u064a\u0627\u0646 \u0627\u0639\u062a\u0628\u0631\u062a \u062a\u0644\u0643 \u0627\u0644\u062e\u0637\u0627\u064a\u0627 \u0636\u0631\u0648\u0631\u0629 \u0641\u064a \u0627\u0644\u062d\u064a\u0627\u0629\u060c \u0639\u0644\u0649 \u0627\u0644\u0631\u063a\u0645 \u0645\u0646 \u0627\u0647\u0646\u0627 \u0641\u064a \u0628\u0639\u0636 \u0627\u0644\u0623\u062d\u064a\u0627\u0646 \u0642\u062f \u062a\u0643\u0648\u0646 \u0645\u062f\u0645\u0631\u0629. \u0648 \u0639\u0627\u062f\u0629 \u064a\u062c\u0628 :",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Pecado (lat\u00edn pecc\u0101tum) es la transgresi\u00f3n voluntaria y con conocimiento de un precepto religioso. En Teolog\u00eda moral se lo considera \u00abun acto malo, o la omisi\u00f3n culpable de un acto bueno obligatorio\u00bb. Por extensi\u00f3n, se denomina pecado a todo aquello que se aparta de lo recto y justo, o que falta a lo que es debido.",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Christian_views_on_the_Old_Covenant"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/S\u00fcnde"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Zonde"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q60227"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/H\u0159\u00edch"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0391\u03bc\u03b1\u03c1\u03c4\u03af\u03b1"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0709n"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/P\u00e9ch\u00e9"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u5b97\u6559\u306b\u304a\u3051\u308b\u7f6a"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Grzech"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc8c4"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Peccato"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Pecado"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4058487-2"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Dosa"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Bekatu"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Pecado"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q60227"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Crime"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Religious_terminology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Christian_hamartiology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Sin"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Crimes_in_religion"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Religious_belief_and_doctrine"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Christian_philosophy"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Forbidden_fruit.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Sin"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Sin?oldid=744983197"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=fBJozjfU1YAC&lpg=PA147&dq=Kensh%C5%8Dkai&pg=PA147#v=onepage&q=Kensh%C5%8Dkai&f=false"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.vatican.va/archive/ENG0015/__P6B.HTM"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "S\u00fcnde ist ein Begriff im Judentum, Christentum und Islam. Er bezeichnet im christlichen Verst\u00e4ndnis den unvollkommenen Zustand des von Gott getrennten Menschen und seine falsche Lebensweise (d. h. das \u00dcbertreten von oder Herausfallen aus der g\u00f6ttlichen Gesetzesordnung). Diese Trennung kam, der biblischen Erz\u00e4hlung (Gen 3 ) zufolge, durch den S\u00fcndenfall zustande. Die S\u00fcnde besteht nach christlichem Verst\u00e4ndnis in einer Abkehr von Gottes Willen, im Misstrauen Gott gegen\u00fcber, im Zulassen des B\u00f6sen oder im Sich-Verf\u00fchren-Lassen. Bei Paulus erscheint die S\u00fcnde als eine unheimliche Macht, die das Leben und das Zusammenleben bestimmt und die Menschen zu Sklaven ihrer Leidenschaften macht, denen sie entsprechend ausgeliefert sind (R\u00f6m 6,12-14 ). Der Begriff S\u00fcnde bezeichnet des Weiteren die einzelne verwerfliche und daher s\u00fcndige Tat (Verfehlung), die mit dem b\u00f6sen Gedanken beginnt (Mt 15,19 ). Gedanken- und Tats\u00fcnden folgen aus der durch Unglauben verursachten Trennung (d. h. der Grunds\u00fcnde). B\u00f6se Worte, verletzende oder unwahre \u00c4u\u00dferungen also, sind nach biblischem Verst\u00e4ndnis zu den Tats\u00fcnden zu z\u00e4hlen. S\u00fcnde kann auch als das Gegenteil von moralischer Verantwortung aufgefasst werden oder die Ursache f\u00fcr psychologisches Fehlverhalten sein. Letztlich f\u00fchrt das In-der-S\u00fcnde-Bleiben dem christlichen Glauben zufolge zur Verurteilung im sogenannten J\u00fcngsten Gericht Gottes, zu zweierlei Schicksal f\u00fcr Glaubende und Ungl\u00e4ubige: die Glaubenden kommen in den Himmel, die Ungl\u00e4ubigen in die H\u00f6lle (Dan 12,2 , Mt 25,46 ). Ein Tatbestand gilt als verwerflich bzw. schlecht, weil Gott ihn als S\u00fcnde kennzeichnet, z. B. durch die Zehn Gebote. Durch S\u00fcnden kommen andere Mitmenschen und der S\u00fcnder selbst immer direkt oder indirekt zu Schaden. Somit ist der S\u00fcnder nicht nur durch die \u00dcbertretung selbst, sondern auch immer durch ihre Folgen mit einer Schuld behaftet. Im Judentum wurde in Jerusalem bis zum Ende des Zweiten Tempels durch die Darbringung von Opfern die Schuld ges\u00fchnt, d. h. zugedeckt. Im Islam hingegen hat das Tieropfer seine S\u00fchnebedeutung verloren (siehe unten, vgl. das islamische Opferfest). Im Christentum ist Jesus Christus das Opferlamm Gottes, das die S\u00fcnden der Welt hinwegnimmt (Joh 1,29 , Joh 1,36 , Offb 1,5 ), deshalb sind keine Tieropfer mehr n\u00f6tig. Eng verbunden mit der Vergebung der S\u00fcnde sind das Bekennen und Bereuen derselben sowie die Bu\u00dfe als Abkehr von Fehlhaltungen und Fehlverhalten. Durch diese Reue und aufgrund der Heilstat Jesu Christi am Kreuz erfahren die Menschen Vergebung. In anderen Religionen wird die Vergebung durch das Gn\u00e4digstimmen der Gottheit(en) erreicht (Verdienst, Selbsterl\u00f6sung). Im Hinduismus und anderen vedischen Religionen werden unter S\u00fcnde Handlungen verstanden, die das Karma beeinflussen. Umgangssprachlich wird unter \"S\u00fcnde\" oft eine als falsch angesehene Handlung verstanden, ohne dass damit eine theologische Aussage impliziert w\u00e4re. In trivialisierter Form begegnet der Begriff beim Versto\u00df gegen Di\u00e4tvorschriften (\u201egegen die Linie s\u00fcndigen\u201c) oder gegen Verkehrsregeln (\u201eParks\u00fcnder\u201c).",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "O termo pecado \u00e9 comumente utilizado em contexto religioso para descrever qualquer desobedi\u00eancia \u00e0 vontade de Deus; em especial, qualquer desconsidera\u00e7\u00e3o deliberada de leis divinas. No hebraico e no grego comum, as formas verbais (em hebr. hhat\u00e1; em gr. hamart\u00e1no) significam \"errar\", no sentido de errar ou n\u00e3o atingir um alvo, ideal ou padr\u00e3o. Em latim, o termo \u00e9 vertido por pecc\u00e1tu. Na pr\u00f3pria B\u00edblia \u00e9 dada a especifica\u00e7\u00e3o de pecado:",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Dans les religions et certaines sectes, le p\u00e9ch\u00e9 est une transgression volontaire ou non de la loi divine. Il est souvent d\u00e9fini comme une d\u00e9sob\u00e9issance, un refus, un obstacle au salut ou encore comme une cause de mort de l'\u00e2me. Dans le christianisme, la n\u00e9gation du p\u00e9ch\u00e9 (n'impliquant pas pour autant la n\u00e9gation de la gr\u00e2ce) est le p\u00e9lagianisme, doctrine h\u00e9r\u00e9siarque de P\u00e9lage.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Pecado (lat\u00edn pecc\u0101tum) es la transgresi\u00f3n voluntaria y con conocimiento de un precepto religioso. En Teolog\u00eda moral se lo considera \u00abun acto malo, o la omisi\u00f3n culpable de un acto bueno obligatorio\u00bb. Por extensi\u00f3n, se denomina pecado a todo aquello que se aparta de lo recto y justo, o que falta a lo que es debido.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "In a religious context, sin is the act of violating God's will by transgressing his commandments. Sin can also be viewed as any thought or action that endangers the ideal relationship between an individual and God; or as any diversion from the perceived ideal order for human living. To sin has been defined as \"to miss the mark\".",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u5b97\u6559\u306b\u304a\u3051\u308b\u7f6a\uff08\u3057\u3085\u3046\u304d\u3087\u3046\u306b\u304a\u3051\u308b\u3064\u307f\uff09\u3068\u306f\u3001\u4e3b\u306b\u5b97\u6559\u7684\u306a\u610f\u5473\u5408\u3044\u3067\u4f7f\u308f\u308c\u308b\u7528\u8a9e\u3067\u3001\u9053\u5fb3\u7684\u898f\u7bc4\u3092\u7834\u308b\u884c\u70ba\u3084\u3001\u305d\u306e\u3088\u3046\u306a\u898f\u7bc4\u306b\u80cc\u304f\u884c\u70ba\u3092\u72af\u3057\u305f\u72b6\u614b\u3092\u610f\u5473\u3059\u308b\u3002\u4e00\u822c\u306b\u3001\u9053\u5fb3\u7684\u898f\u7d04 (code of conduct) \u306f\u3001\u795e\u8056\u306a\u5b58\u5728\uff08\u4f8b\uff1a\u30a2\u30d6\u30e9\u30cf\u30e0\u306e\u5b97\u6559\u3067\u306e\u795e\uff09\u306b\u3088\u3063\u3066\u3001\u304a\u304d\u3066\u3068\u3057\u3066\u5b9a\u3081\u3089\u308c\u308b\u3002 \u7f6a\u3068\u306f\u3001\u901a\u5e38\u3001\u7981\u6b62\u3055\u308c\u3066\u3044\u308b\u884c\u70ba\u3084\u4e0d\u6b63\u3068\u3055\u308c\u3066\u3044\u308b\u884c\u70ba\u3092\u884c\u3046\u3053\u3068\u3092\u610f\u5473\u3059\u308b\u304c\u3001\u5b97\u6559\u306b\u3088\u3063\u3066\u306f\uff08\u7279\u306b\u30ad\u30ea\u30b9\u30c8\u6559\u306e\u6559\u6d3e\uff09\u3001\u7f6a\u306f\u7279\u5b9a\u306e\u884c\u70ba\u306e\u307f\u3067\u306a\u304f\u3001\u305d\u306e\u3088\u3046\u306a\u884c\u70ba\u3084\u60aa\u610f\u3092\u5fc3\u306b\u62b1\u3044\u3066\u3044\u308b\u7cbe\u795e\u72b6\u614b\u3001\u3092\u3082\u610f\u5473\u3059\u308b\u3053\u3068\u304c\u3042\u308b\u3002\u53e3\u982d\u3067\u884c\u3046\u4e0d\u9053\u5fb3\u3001\u7f9e\u6065\u7684\u3001\u6709\u5bb3\u3001\u7570\u7aef\u3068\u307f\u306a\u3055\u308c\u308b\u3044\u304b\u306a\u308b\u610f\u898b\u3084\u8a00\u8449\u3001\u884c\u70ba\u3082\u300c\u7f6a\u6df1\u3044\u300d\u3068\u3055\u308c\u308b\u3053\u3068\u304c\u3042\u308b\u3002 \u69d8\u3005\u306a\u5b97\u6559\u306b\u542b\u307e\u308c\u308b\u4e00\u822c\u7684\u306a\u7f6a\u306b\u95a2\u3059\u308b\u6982\u5ff5\u306b\u306f\u4ee5\u4e0b\u304c\u3042\u308b\u3002 \n*  \u4ed6\u8005\u3001\u68ee\u7f85\u4e07\u8c61\u3001\u307e\u305f\u306f\u3001\u4eca\u4e16\u304b\u6765\u4e16\u3067\u306e\u795e\u304b\u3089\u306e\u7f6a\u306b\u5bfe\u3059\u308b\u7f70 \n*  \u7f6a\u3068\u3059\u308b\u305f\u3081\u306b\u306f\u3001\u305d\u306e\u884c\u70ba\u304c\u610f\u56f3\u7684\u3067\u3042\u308b\u3079\u304d\u304b\u3069\u3046\u304b \n*  \u826f\u5fc3\u304c\u7f6a\u3092\u72af\u3057\u3066\u3044\u308b\u8a8d\u8b58\u3092\u3046\u306a\u304c\u3059\u7f6a\u60aa\u611f\u3092\u751f\u307f\u51fa\u3059\u3079\u304d\u3060\u3001\u3068\u3044\u3046\u8003\u3048 \n*  \u7f6a\u306e\u91cd\u3055\u3092\u306f\u304b\u308b\u4f53\u7cfb \n*  \u7f6a\u306b\u5bfe\u3059\u308b\uff08\u5f8c\u6094\u3068\u3082\u3046\u4e8c\u5ea6\u3068\u72af\u3055\u306a\u3044\u3068\u306e\u6c7a\u610f\u3092\u8868\u73fe\u3059\u308b\uff09\u61fa\u6094\u3068\u904e\u53bb\u306b\u72af\u3057\u305f\u884c\u70ba\u3078\u306e\u8d16\u3044\uff08\u4ee3\u511f\uff09 \n*  \u4e3b\u306b\u795e\u683c\u306a\u5b58\u5728\u306a\u3069\u306e\u4ef2\u4ecb\u8005\u3092\u901a\u3057\u3066\u306e\u3001\u7f6a\u306b\u5bfe\u3059\u308b\u5bb9\u8d66 (atonement) \u306e\u53ef\u80fd\u6027\uff1b\u30ad\u30ea\u30b9\u30c8\u6559\u3067\u306e\u6551\u6e08 \u307e\u305f\u3001\u72af\u7f6a\u3068\u6b63\u7fa9\u306f\u3001\u653f\u6559\u5206\u96e2\u306e\u6982\u5ff5\u306b\u3088\u308a\u95a2\u4fc2\u3057\u3066\u3044\u308b\u3082\u306e\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u5b97\u6559\u4e0a\u7684\u7f6a\u662f\u6307\u4e00\u79cd\u8fdd\u53cd\u9053\u5fb7\u89c4\u8303\u7684\u884c\u4e3a\u6216\u8005\u5b9e\u65bd\u4e86\u8fd9\u79cd\u884c\u4e3a\u7684\u72b6\u6001\u3002\u901a\u5e38\u8fd9\u79cd\u884c\u4e3a\u51c6\u5219\u7531\u4e00\u4e2a\u795e\uff08\u5982\u4e9a\u4f2f\u62c9\u7f55\u8bf8\u6559\u4e2d\u7684\u5929\u4e3b\uff1b\u4e0a\u5e1d\u3001\u795e\uff1b\u771f\u4e3b\uff09\u6765\u88c1\u5b9a\u3002 \u7f6a\u7ecf\u5e38\u7528\u4e8e\u6307\u79f0\u4e00\u79cd\u88ab\u7981\u6b62\u6216\u4e0d\u88ab\u8ba4\u53ef\u7684\u884c\u4e3a\uff1b\u5728\u67d0\u4e9b\u5b97\u6559\uff08\u7279\u522b\u662f\u57fa\u7763\u6559\u7684\u67d0\u4e9b\u6559\u6d3e\uff09\u4e2d\uff0c\u7f6a\u53ef\u4ee5\u6307\u4e00\u79cd\u601d\u60f3\u72b6\u6001\u800c\u4e0d\u662f\u7279\u6307\u4e00\u79cd\u884c\u4e3a\u3002\u53e3\u5934\u4e0a\u4efb\u4f55\u88ab\u8ba4\u4e3a\u4e0d\u9053\u5fb7\u7684\u3001\u53ef\u803b\u7684\u3001\u6709\u5bb3\u7684\u6216\u8005\u4e0d\u53cb\u597d\u7684\u601d\u60f3\u3001\u8a00\u8bba\u6216\u884c\u4e3a\u90fd\u53ef\u4ee5\u79f0\u4e3a\u201c\u6709\u7f6a\u7684\u201d(sinful)\u3002 \u5728\u5404\u79cd\u5b97\u6559\u4e2d\u5bf9\u4e8e\u7f6a\u7684\u5e38\u89c1\u6982\u5ff5\u6709\uff1a \n*  \u4ed6\u4eba\u3001\u4eca\u751f\u6216\u8eab\u540e\u7684\u795e\u548c\u6cdb\u6307\u7684\u5b87\u5b99\u5bf9\u4e8e\u7f6a\u7684\u60e9\u7f5a\u3002 \n*  \u72af\u7f6a\u662f\u5426\u5fc5\u987b\u6545\u610f\u7684\u95ee\u9898\u3002 \n*  \u81ea\u77e5\u72af\u7f6a\u8005\u7684\u826f\u77e5\u4f1a\u4ea7\u751f\u7f6a\u6076\u611f\u7684\u89c2\u5ff5\u3002 \n*  \u5bf9\u4e8e\u7f6a\u884c\u5927\u5c0f\u7684\u5224\u5b9a\u5c3a\u5ea6\u3002 \n*  \u5bf9\u4e8e\u7f6a\u884c\uff08\u8868\u793a\u540e\u6094\u5e76\u4fdd\u8bc1\u4e0d\u518d\u72af\uff09\u7684\u5fcf\u6094\uff0c\u4e0e\u5bf9\u8fc7\u53bb\u7f6a\u884c\u7684\u6551\u8d4e\uff08atonement\uff0c\u8d4e\u7f6a\uff09\u3002 \n*  \uff08\u7ecf\u5e38\u901a\u8fc7\u4e0e\u795e\u7684\u4ea4\u6d41\u6216\u8005\u7075\u5a92\u8fdb\u884c\uff09\u6055\u7f6a\u7684\u53ef\u80fd\u6027\uff1b\u57fa\u7763\u6559\u4e2d\u5e38\u88ab\u79f0\u4e3a\u6551\u8d4e\uff08salvation\uff0c\u4e0d\u540c\u4e8e\u8d4e\u7f6a\uff09\u3002 \u6cd5\u5f8b\u4e0a\u7684\u72af\u7f6a\u548c\u516c\u6b63\u662f\u76f8\u5173\u7684\u4e16\u4fd7\u6982\u5ff5\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0413\u0440\u0435\u0445 \u2014 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0438\u043b\u0438 \u043f\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u0438\u0435, \u043a\u043e\u0442\u043e\u0440\u043e\u0435, \u043a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u0430\u0441\u0441\u043e\u0446\u0438\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0441 \u043f\u0440\u044f\u043c\u044b\u043c \u0438\u043b\u0438 \u043a\u043e\u0441\u0432\u0435\u043d\u043d\u044b\u043c \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0438\u0435\u043c \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0445 \u0437\u0430\u043f\u043e\u0432\u0435\u0434\u0435\u0439 (\u0437\u0430\u0432\u0435\u0442\u043e\u0432 \u0411\u043e\u0433\u0430, \u043f\u0440\u0435\u0434\u043f\u0438\u0441\u0430\u043d\u0438\u0439 \u0438 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0439); \u0440\u0435\u0436\u0435 \u2014 \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0438\u0435 \u0434\u043e\u043c\u0438\u043d\u0430\u043d\u0442\u043d\u044b\u0445 \u043c\u043e\u0440\u0430\u043b\u044c\u043d\u043e-\u044d\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432\u0438\u043b, \u043d\u043e\u0440\u043c, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0432\u0448\u0438\u0445\u0441\u044f \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435. \u042f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0430\u043d\u0442\u043e\u043d\u0438\u043c\u043e\u043c \u0441\u043b\u043e\u0432\u0430 \u00ab\u0434\u043e\u0431\u0440\u043e\u0434\u0435\u0442\u0435\u043b\u044c\u00bb.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Grzech \u2013 przekroczenie konkretnych norm moralnych i religijnych. Poj\u0119cie najcz\u0119\u015bciej u\u017cywane w dziedzinie religijnej. W religiach, w kt\u00f3rych B\u00f3g jest bytem osobowym, jak judaizm i chrze\u015bcija\u0144stwo, grzech oznacza dobrowolne zerwanie przymierza z Bogiem poprzez dokonanie jakiego\u015b z\u0142ego czynu. W religiach tych grzech powoduje oddalenie od \u017cycia, kt\u00f3rego \u017ar\u00f3d\u0142em jest B\u00f3g.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "In alcune religioni, si parla di peccato come di un atto in contrasto con la coscienza e con i principi riconosciuti dalla persona o dalla sua comunit\u00e0 religiosa. Esso produce uno stato di malessere che si pu\u00f2 suddividere nel senso di colpa e nell'effetto negativo proprio causato dal peccato. In alcune religioni l'atto peccaminoso consiste generalmente nel superare, anche involontariamente, i limiti posti dalla sfera delle cose sacre e quella delle cose profane. In tale caso pi\u00f9 che riprovevole moralmente, il peccato \u00e8 considerato pericoloso perch\u00e9 pu\u00f2 attirare sul peccatore e su tutta la comunit\u00e0 la maledizione della divinit\u00e0 offesa e perci\u00f2 richiede una qualche sorta di espiazione affinch\u00e9 l'equilibrio turbato sia ristabilito. In altre religioni il peccato attiene alla sfera morale e alla volont\u00e0 ed \u00e8 strettamente individuale, sebbene possa avere anche delle ripercussioni sociali.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "In verschillende religies is een zonde een ernstige of minder ernstige handeling tegen de morele wetten van de godsdienst. De term impliceert ongehoorzaamheid aan God en wordt gebruikt in het jodendom, christendom en islam, maar niet in religies als het boeddhisme en in systemen waarin geen persoonlijke godheid is. De zonde is vaak sterk verweven met de religieuze betekenis van schuld.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062e\u0637\u064a\u0626\u0629 \u0641\u064a \u0627\u0644\u062f\u064a\u0646 \u0647\u064a \u0627\u0644\u0623\u0641\u0639\u0627\u0644 \u0627\u0644\u062a\u064a \u062a\u0646\u062a\u0647\u0643 \u0627\u0644\u0642\u0648\u0627\u0639\u062f \u0627\u0644\u0623\u062e\u0644\u0627\u0642\u064a\u0629\u060c \u0627\u0644\u0642\u0648\u0627\u0646\u064a\u0646 \u0627\u0644\u0627\u0644\u0647\u064a\u0629 \u0648\u0627\u0644\u0642\u0648\u0627\u0646\u064a\u0646 \u0627\u0644\u0639\u0627\u0645\u0629. \u0648 \u0627\u0644\u062e\u0637\u064a\u0626\u0629 \u0623\u064a\u0636\u0627\u064e \u062a\u0634\u064a\u0631 \u0625\u0644\u0649 \u0627\u0644\u0623\u0641\u0639\u0627\u0644 \u0627\u0644\u062d\u0633\u064a\u0629 \u0627\u0644\u0633\u064a\u0626\u0629 \u0648\u0627\u0644\u0645\u0646\u0641\u0648\u0631 \u0645\u0646\u0647\u0627 \u0645\u062b\u0644 \u0627\u0644\u0641\u0643\u0631 \u0627\u0644\u0633\u0626 \u0648\u0644\u064a\u0633\u062a \u0627\u0644\u0623\u0641\u0639\u0627\u0644 \u0627\u0644\u0645\u0627\u062f\u064a\u0629 \u0641\u0642\u0637. \u0648 \u0642\u062f \u0642\u0633\u0645\u062a \u0627\u0644\u062e\u0637\u0627\u064a\u0627 (\u062e\u0627\u0635\u0629 \u0641\u064a \u0627\u0644\u062f\u064a\u0627\u0646\u0629 \u0627\u0644\u0645\u0633\u064a\u062d\u064a\u0629) \u0625\u0644\u0649 \u0642\u0633\u0645\u064a\u0646: \n*  \u062e\u0637\u0627\u064a\u0627 \u0643\u0628\u0631\u0649 \u0648\u0645\u0645\u064a\u062a\u0629 : \u0645\u062b\u0644 \u0627\u0644\u0642\u062a\u0644 \u0648\u0627\u0644\u0643\u0641\u0631 \u0648\u0627\u0644\u0639\u0646\u0641 \u0627\u0644\u0634\u062f\u064a\u062f \u0648\u063a\u064a\u0631\u0647\u0627\u060c \u0639\u0627\u0642\u0628\u062a\u0647\u0646 \u062a\u0643\u0648\u0646 \u0648\u062e\u064a\u0645\u0629 \u0648\u0645\u0645\u064a\u062a\u0629. \n*  \u062e\u0637\u0627\u064a\u0627 \u0637\u0641\u064a\u0641\u0629 : \u0645\u062b\u0644 \u0627\u0644\u0633\u0643\u0631 \u0648\u0627\u0644\u063a\u0636\u0628 \u0648\u063a\u064a\u0631\u0647\u0645\u060c \u0648\u0639\u0627\u0642\u0628\u062a\u0647\u0646 \u062a\u0643\u0648\u0646 \u0637\u0641\u064a\u0641\u0629 \u0627\u0646 \u0648\u062c\u062f\u062a \u0628\u0644 \u0641\u064a \u0628\u0639\u0636 \u0627\u0644\u0623\u062d\u064a\u0627\u0646 \u0627\u0639\u062a\u0628\u0631\u062a \u062a\u0644\u0643 \u0627\u0644\u062e\u0637\u0627\u064a\u0627 \u0636\u0631\u0648\u0631\u0629 \u0641\u064a \u0627\u0644\u062d\u064a\u0627\u0629\u060c \u0639\u0644\u0649 \u0627\u0644\u0631\u063a\u0645 \u0645\u0646 \u0627\u0647\u0646\u0627 \u0641\u064a \u0628\u0639\u0636 \u0627\u0644\u0623\u062d\u064a\u0627\u0646 \u0642\u062f \u062a\u0643\u0648\u0646 \u0645\u062f\u0645\u0631\u0629. \u0648 \u0639\u0627\u062f\u0629 \u064a\u062c\u0628 : \n*  \u0623\u0646 \u064a\u0643\u0648\u0646 \u0644\u0644\u0645\u0631\u0621 \u0636\u0645\u064a\u0631\u0647 \u0627\u0644\u0630\u064a \u064a\u0645\u064a\u0632 \u0644\u0647 \u0627\u0644\u0623\u0641\u0639\u0627\u0644 \u0627\u064a\u0647\u0627 \u062e\u0637\u064a\u0626\u0629 \u0648\u0627\u064a\u0647\u0627 \u0644\u0627\u060c \u0641\u064a\u0628\u062a\u0639\u062f \u0639\u0646 \u0627\u0644\u062e\u0637\u0627\u064a\u0627. \n*  \u0639\u0627\u0642\u0628\u0629 \u0627\u0644\u062e\u0637\u064a\u0626\u0629 \u062a\u0643\u0648\u0646 \u0645\u0646 \u0627\u0644\u0644\u0647 \u0641\u064a \u0627\u0644\u062f\u0646\u064a\u0627 \u0648\u0641\u064a \u0627\u0644\u0623\u062e\u0631\u0629\u060c \u0645\u0646 \u0627\u0644\u0623\u0634\u062e\u0627\u0635\u060c \u0648\u0645\u0646 \u0627\u0644\u0643\u0648\u0646 \u0639\u0627\u0645\u0629. \n*  \u064a\u062c\u0628 \u0627\u0644\u0623\u0633\u0631\u0627\u0639 \u0628\u0627\u0644\u062a\u0648\u0628\u0629 \u0639\u0646 \u062a\u0644\u0643 \u0627\u0644\u062e\u0637\u0627\u064a\u0627\u060c \u0648\u0627\u0644\u062a\u0643\u0641\u064a\u0631 \u0639\u0646\u0647\u0627. \u0643\u0645\u0627 \u062a\u0645 \u062a\u0635\u0646\u064a\u0641 \u0627\u0644\u062e\u0637\u064a\u0626\u0629 \u0643\u0641\u0639\u0644 \u0644\u0627 \u0645\u0641\u0631 \u0645\u0646\u0647 \u0627\u0644\u062a\u064a \u062a\u0645 \u062a\u0645\u0631\u064a\u0631\u0647\u0627 \u0645\u0646 \u062c\u064a\u0644 \u0625\u0644\u0649 \u062c\u064a\u0644 \u0645\u0646 \u0633\u0644\u0641 \u0645\u0634\u062a\u0631\u0643\u060c \u0622\u062f\u0645. \u0645\u062b\u0644 \u0627\u0644\u0645\u0631\u0636\u060c \u0648\u0642\u064a\u0644 \u0623\u0646 \u0627\u0644\u062e\u0637\u064a\u0626\u0629 \u062a\u0633\u0645\u0645 \u0642\u0644\u0628 \u0643\u0644 \u0625\u0646\u0633\u0627\u0646 \u0628\u0639\u062f \u0627\u0644\u0648\u0642\u0648\u0639 \u0641\u064a\u0647\u0627. \u0648\u062b\u0645\u0629 \u0627\u0639\u062a\u0642\u0627\u062f \u0645\u062b\u064a\u0631 \u0644\u0644\u062c\u062f\u0644 \u0647\u0648 \u0623\u0646 \u0643\u0644 \u0631\u062c\u0644 \u0645\u0645\u062a\u0644\u0626 \u062a\u0645\u0627\u0645\u0627 \u0628\u0627\u0644\u062e\u0637\u0627\u064a\u0627\u060c \u0648\u0644\u064a\u0633 \u0628\u0625\u0645\u0643\u0627\u0646\u0647 \u0627\u0644\u062a\u063a\u0644\u0628 \u0639\u0644\u0649 \u0630\u0644\u0643\u060c \u0628\u0644 \u0628\u0625\u062e\u0641\u0627\u0626\u0647.",
+                "lang": "ar"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Forbidden_fruit.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744983197,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 28307,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Act"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sinners": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sinned": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sinful": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/P\u00e4psth\u00e4naks": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/P\u0101pa": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sins": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Paepsthaenaks": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Major_sins": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Papsthanaks": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Collective_sin": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sinfulness": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sinfully": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Peccant": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sinfulne\u017fs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Moral_Man_and_Immoral_Society": {
+        "http://dbpedia.org/ontology/nonFictionSubject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Detraction": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sin_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Sin": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sin_Yong-nam": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Great_Controversy_(book)": {
+        "http://dbpedia.org/ontology/nonFictionSubject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dance_of_the_Wicked": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shirk_(Islam)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sin"
+            }
+        ]
+    }
+}

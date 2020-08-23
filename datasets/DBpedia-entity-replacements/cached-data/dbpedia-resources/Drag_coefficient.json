@@ -1,0 +1,361 @@
+{
+    "http://dbpedia.org/resource/Drag_coefficient": {
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Drag coefficient",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Cx",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Coefficient de tra\u00een\u00e9e",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u963b\u529b\u4fc2\u6578",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Coeficiente de resist\u00eancia aerodin\u00e2mica",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0633\u062d\u0628",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u044f \u0444\u043e\u0440\u043c\u044b",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Weerstandsco\u00ebffici\u00ebnt",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Str\u00f6mungswiderstandskoeffizient",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Coefficiente di resistenza aerodinamica",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Coeficiente de arrastre",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u963b\u529b\u4fc2\u6578\uff08\u5e38\u8868\u793a\u70ba \u3001 \u6216 \uff09\u662f\u6d41\u9ad4\u529b\u5b78\u4e2d\u7684\u7121\u56e0\u6b21\u91cf\uff0c\u7528\u4f86\u8868\u793a\u7269\u9ad4\u5728\u6d41\u9ad4\uff08\u4f8b\u5982\u6c34\u6216\u662f\u7a7a\u6c23\uff09\u4e2d\u7684\u963b\u529b\u3002\u963b\u529b\u4fc2\u6578\u6703\u51fa\u73fe\u5728\u963b\u529b\u65b9\u7a0b\u4e2d\uff0c\u8f03\u5c0f\u7684\u963b\u529b\u4fc2\u6578\u8868\u793a\u7269\u9ad4\u53d7\u5230\u7684\u98a8\u963b\u6216\u6d41\u9ad4\u963b\u529b\u8f03\u5c0f\u3002\u963b\u529b\u4fc2\u6578\u548c\u7269\u9ad4\u7684\u5f62\u72c0\u53ca\u5176\u8868\u9762\u7279\u6027\u6709\u95dc\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "En din\u00e1mica de fluidos, el coeficiente de arrastre (com\u00fanmente denotado como: cd, cx o cw) es una cantidad adimensional que se usa para cuantificar el arrastre o resistencia de un objeto en un medio fluido como el aire o el agua. Es utilizado en la ecuaci\u00f3n de arrastre, en donde un coeficiente de arrastre bajo indica que el objeto tendr\u00e1 menos arrastre aerodin\u00e1mico o hidrodin\u00e1mico. El coeficiente de arrastre est\u00e1 siempre asociado con una superficie particular.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Il coefficiente di resistenza aerodinamica (anche noto con i simboli CD o Cx) \u00e8 un coefficiente adimensionale usato per misurare la resistenza aerodinamica di un corpo in moto in un fluido. Comprende, per un corpo generico, i contributi di due tipi di resistenza fluidodinamica, la resistenza di attrito e la resistenza di forma. Per un profilo aerodinamico, il coefficiente di resistenza include anche gli effetti di resistenza indotta e (in campo transonico e supersonico) di onda.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u0301\u043d\u0442 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u0301\u043d\u0438\u044f \u0444\u043e\u0301\u0440\u043c\u044b, \u041a\u0421\u0424 (\u0430\u043d\u0433\u043b. drag coefficient) \u2014 \u0431\u0435\u0437\u0440\u0430\u0437\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430, \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0449\u0430\u044f \u0440\u0435\u0430\u043a\u0446\u0438\u044e \u0441\u0440\u0435\u0434\u044b \u043d\u0430 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0432 \u043d\u0435\u0439 \u0442\u0435\u043b\u0430 (\u0438\u043b\u0438 \u0442\u0435\u043b\u0430 \u043d\u0430 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0432 \u043d\u0451\u043c \u0441\u0440\u0435\u0434\u044b). \u041a\u0421\u0424 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e \u0432 \u0430\u044d\u0440\u043e- \u0438 \u0433\u0438\u0434\u0440\u043e\u0434\u0438\u043d\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0442\u0440\u0443\u0431\u0430\u0445 \u0438\u043b\u0438 \u0440\u0430\u0441\u0447\u0451\u0442\u043d\u043e, \u043f\u0443\u0442\u0451\u043c \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Un objet mobile se d\u00e9pla\u00e7ant dans un fluide pesant subit de la part de ce fluide une distribution de pression dont la r\u00e9sultante s'oppose \u00e0 sa marche. La composante de cette r\u00e9sultante selon la direction du mobile est appel\u00e9e tra\u00een\u00e9e. L'intensit\u00e9 de la force de tra\u00een\u00e9e est exprim\u00e9e en fonction de la vitesse, de la forme et de la taille du mobile, du fluide dans lequel il interagit. Le coefficient de tra\u00een\u00e9e usuellement d\u00e9sign\u00e9 est un nombre sans dimension qui est caract\u00e9ristique, principalement, de la forme du mobile.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0633\u062d\u0628 \u0641\u064a \u062f\u064a\u0646\u0627\u0645\u064a\u0643\u0627 \u0627\u0644\u0645\u0648\u0627\u0626\u0639 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 : Drag coefficient ) \u0647\u064a \u0643\u0645\u064a\u0629 \u0644\u064a\u0633\u062a \u0644\u0647\u0627 \u0648\u062d\u062f\u0629 \u062a\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u062d\u0633\u0627\u0628 \u0645\u0642\u0627\u0648\u0645\u0629 \u0645\u0627\u0626\u0639 \u0644\u062d\u0631\u0643\u0629 \u062c\u0633\u0645 \u0641\u064a\u0647 \u060c \u0645\u062b\u0644 \u0645\u0642\u0627\u0648\u0645\u0629 \u0627\u0644\u0647\u0648\u0627\u0621 \u0639\u0646\u062f \u062a\u062d\u0631\u0643 \u0633\u064a\u0627\u0631\u0629 . \u064a\u0631\u0645\u0632 \u0644\u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0633\u062d\u0628 \u0628\u0627\u0644\u0631\u0645\u0648\u0632 : cd, cx or cw . \u0643\u0630\u0644\u0643 \u064a\u0646\u0634\u0623 \u0644\u062d\u0631\u0643\u0629 \u063a\u0648\u0627\u0635\u0629 \u0641\u064a \u0627\u0644\u0645\u0627\u0621 \u0645\u0642\u0627\u0648\u0645\u0629 \u0646\u0627\u062a\u062c\u0629 \u0639\u0646 \u0627\u062d\u062a\u0643\u0627\u0643 \u0627\u0644\u0645\u0627\u0621 \u0628\u0633\u0637\u062d \u0627\u0644\u063a\u0648\u0627\u0635\u0629. \u0648\u064a\u0645\u064a\u0632 \u0627\u0644\u063a\u0648\u0627\u0635\u0629 \u0645\u0639\u0627\u0645\u0644 \u0633\u062d\u0628 \u064a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0634\u0643\u0644\u0647\u0627 \u0648\u062a\u0643\u0648\u064a\u0646 \u0633\u0637\u062d\u0647\u0627 . \u064a\u0633\u062a\u062e\u062f\u0645 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0633\u062d\u0628 \u0641\u064a \u062d\u0633\u0627\u0628 \u0645\u0639\u0627\u062f\u0644\u0629 \u0627\u0644\u0633\u062d\u0628 \u062d\u064a\u062b \u064a\u0639\u0646\u064a \u0645\u0639\u0627\u0645\u0644 \u0633\u062d\u0628 \u0635\u063a\u064a\u0631 \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0647\u0648\u0627\u0621 \u0623\u0642\u0644 \u0623\u0648 \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0623\u0648 \u0627\u0644\u0645\u0627\u0626\u0639 \u0623\u0642\u0644 . \u0648\u064a\u0646\u0637\u0628\u0642 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0633\u062d\u0628 \u0639\u0644\u0649 \u0645\u0633\u0627\u062d\u0629 \u0645\u0639\u064a\u0646\u0629 \u0644\u062c\u0633\u0645 . \u062a\u0639\u0637\u064a \u0627\u0644\u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0645\u062c\u0627\u0648\u0631\u0629 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0633\u062d\u0628 \u0644\u0623\u0634\u0643\u0627\u0644 \u0623\u062c\u0633\u0627\u0645 \u0645\u062e\u062a\u0644\u0641\u0629 .",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "(Cd, Cw) \u2013 wsp\u00f3\u0142czynnik czo\u0142owego oporu aerodynamicznego. Wsp\u00f3\u0142czynnik oporu powietrza Cx uzale\u017cniony jest od kszta\u0142tu danego obiektu oraz g\u0142adko\u015bci jego powierzchni. Wsp\u00f3\u0142czynnik Cx okre\u015bla si\u0119 do\u015bwiadczalnie (w tunelu aerodynamicznym lub przez pr\u00f3by drogowe)",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "In fluid dynamics, the drag coefficient (commonly denoted as: , or ) is a dimensionless quantity that is used to quantify the drag or resistance of an object in a fluid environment, such as air or water. It is used in the drag equation in which a lower drag coefficient indicates the object will have less aerodynamic or hydrodynamic drag. The drag coefficient is always associated with a particular surface area.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "De weerstandsco\u00ebffici\u00ebnt (Cw, Cd of Cx) is een natuurkundige grootheid die gebruikt wordt bij het berekenen van de weerstand die een voorwerp ondervindt in een stromend medium, bijvoorbeeld lucht of water.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Der Str\u00f6mungswiderstandskoeffizient, Widerstandsbeiwert oder cw-Wert (nach dem \u00fcblichen Formelzeichen ) ist ein dimensionsloses Ma\u00df (Koeffizient) f\u00fcr den Str\u00f6mungswiderstand eines von einem Fluid umstr\u00f6mten K\u00f6rpers. Er entspricht dem Druckverlustbeiwert eines durchstr\u00f6mten K\u00f6rpers (z. B. eines Ventils). Umgangssprachlich ausgedr\u00fcckt ist der",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Em din\u00e2mica dos fluidos, o coeficiente de resist\u00eancia aerodin\u00e2mica (comumente notado como ou ), tamb\u00e9m chamado coeficiente de arrasto e por vezes apelidado simplesmente coeficiente aerodin\u00e2mico, \u00e9 um n\u00famero adimensional que \u00e9 usado para quantificar o arrasto ou resist\u00eancia de um objeto em um meio fluido tal como o ar ou a \u00e1gua, ou, noutras palavras permite quantificar a for\u00e7a de resist\u00eancia ao ar ou outro fluido por parte de uma dada superf\u00edcie. \u00c9 usado na equa\u00e7\u00e3o do arrasto, onde um coeficiente de arraste mais baixo indica que o objeto ter\u00e1 menos arraste aerodin\u00e2mico ou hidrodin\u00e2mico. O coeficiente de arraste \u00e9 sempre associado com uma \u00e1rea de superf\u00edcie particular.",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Cx"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Coeficiente_de_arrastre"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ud56d\ub825_\uacc4\uc218"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Str\u00f6mungswiderstandskoeffizient"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Coefficient_de_tra\u00een\u00e9e"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0175ht"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Weerstandsco\u00ebffici\u00ebnt"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Drag_coefficient"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1778961"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Coefficiente_di_resistenza_aerodinamica"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Sou\u010dinitel_odporu"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Coeficiente_de_resist\u00eancia_aerodin\u00e2mica"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1778961"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Fluid_dynamics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Dimensionless_numbers_of_fluid_mechanics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Aerodynamics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Aerospace_engineering"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/14ilf1l.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Drag_coefficient"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Drag_coefficient?oldid=742432954"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://aerodyn.org/Drag/tables.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.princeton.edu/~asmits/Bicycle_web/blunt.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.engineering.uiowa.edu/~me_160/lecture.../Bluff%20Body2.pdf"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "En din\u00e1mica de fluidos, el coeficiente de arrastre (com\u00fanmente denotado como: cd, cx o cw) es una cantidad adimensional que se usa para cuantificar el arrastre o resistencia de un objeto en un medio fluido como el aire o el agua. Es utilizado en la ecuaci\u00f3n de arrastre, en donde un coeficiente de arrastre bajo indica que el objeto tendr\u00e1 menos arrastre aerodin\u00e1mico o hidrodin\u00e1mico. El coeficiente de arrastre est\u00e1 siempre asociado con una superficie particular. El coeficiente de arrastre de cualquier objeto comprende los efectos de dos contribuciones b\u00e1sicas al arrastre din\u00e1mico del fluido: el arrastre de forma y la fricci\u00f3n de superficie. El coeficiente de arrastre de un perfil aerodin\u00e1mico o hidrodin\u00e1mico incluye tambi\u00e9n los efectos de la resistencia inducida. El coeficiente de arrastre de una estructura completa como un aeronave incluye tambi\u00e9n los efectos del arrastre de interferencia.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "(Cd, Cw) \u2013 wsp\u00f3\u0142czynnik czo\u0142owego oporu aerodynamicznego. Wsp\u00f3\u0142czynnik oporu powietrza Cx uzale\u017cniony jest od kszta\u0142tu danego obiektu oraz g\u0142adko\u015bci jego powierzchni. Wsp\u00f3\u0142czynnik Cx okre\u015bla si\u0119 do\u015bwiadczalnie (w tunelu aerodynamicznym lub przez pr\u00f3by drogowe)",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Il coefficiente di resistenza aerodinamica (anche noto con i simboli CD o Cx) \u00e8 un coefficiente adimensionale usato per misurare la resistenza aerodinamica di un corpo in moto in un fluido. Comprende, per un corpo generico, i contributi di due tipi di resistenza fluidodinamica, la resistenza di attrito e la resistenza di forma. Per un profilo aerodinamico, il coefficiente di resistenza include anche gli effetti di resistenza indotta e (in campo transonico e supersonico) di onda.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "In fluid dynamics, the drag coefficient (commonly denoted as: , or ) is a dimensionless quantity that is used to quantify the drag or resistance of an object in a fluid environment, such as air or water. It is used in the drag equation in which a lower drag coefficient indicates the object will have less aerodynamic or hydrodynamic drag. The drag coefficient is always associated with a particular surface area. The drag coefficient of any object comprises the effects of the two basic contributors to fluid dynamic drag: skin friction and form drag. The drag coefficient of a lifting airfoil or hydrofoil also includes the effects of lift-induced drag. The drag coefficient of a complete structure such as an aircraft also includes the effects of interference drag.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0633\u062d\u0628 \u0641\u064a \u062f\u064a\u0646\u0627\u0645\u064a\u0643\u0627 \u0627\u0644\u0645\u0648\u0627\u0626\u0639 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 : Drag coefficient ) \u0647\u064a \u0643\u0645\u064a\u0629 \u0644\u064a\u0633\u062a \u0644\u0647\u0627 \u0648\u062d\u062f\u0629 \u062a\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u062d\u0633\u0627\u0628 \u0645\u0642\u0627\u0648\u0645\u0629 \u0645\u0627\u0626\u0639 \u0644\u062d\u0631\u0643\u0629 \u062c\u0633\u0645 \u0641\u064a\u0647 \u060c \u0645\u062b\u0644 \u0645\u0642\u0627\u0648\u0645\u0629 \u0627\u0644\u0647\u0648\u0627\u0621 \u0639\u0646\u062f \u062a\u062d\u0631\u0643 \u0633\u064a\u0627\u0631\u0629 . \u064a\u0631\u0645\u0632 \u0644\u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0633\u062d\u0628 \u0628\u0627\u0644\u0631\u0645\u0648\u0632 : cd, cx or cw . \u0643\u0630\u0644\u0643 \u064a\u0646\u0634\u0623 \u0644\u062d\u0631\u0643\u0629 \u063a\u0648\u0627\u0635\u0629 \u0641\u064a \u0627\u0644\u0645\u0627\u0621 \u0645\u0642\u0627\u0648\u0645\u0629 \u0646\u0627\u062a\u062c\u0629 \u0639\u0646 \u0627\u062d\u062a\u0643\u0627\u0643 \u0627\u0644\u0645\u0627\u0621 \u0628\u0633\u0637\u062d \u0627\u0644\u063a\u0648\u0627\u0635\u0629. \u0648\u064a\u0645\u064a\u0632 \u0627\u0644\u063a\u0648\u0627\u0635\u0629 \u0645\u0639\u0627\u0645\u0644 \u0633\u062d\u0628 \u064a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0634\u0643\u0644\u0647\u0627 \u0648\u062a\u0643\u0648\u064a\u0646 \u0633\u0637\u062d\u0647\u0627 . \u064a\u0633\u062a\u062e\u062f\u0645 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0633\u062d\u0628 \u0641\u064a \u062d\u0633\u0627\u0628 \u0645\u0639\u0627\u062f\u0644\u0629 \u0627\u0644\u0633\u062d\u0628 \u062d\u064a\u062b \u064a\u0639\u0646\u064a \u0645\u0639\u0627\u0645\u0644 \u0633\u062d\u0628 \u0635\u063a\u064a\u0631 \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0647\u0648\u0627\u0621 \u0623\u0642\u0644 \u0623\u0648 \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0645\u0627\u0621 \u0623\u0648 \u0627\u0644\u0645\u0627\u0626\u0639 \u0623\u0642\u0644 . \u0648\u064a\u0646\u0637\u0628\u0642 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0633\u062d\u0628 \u0639\u0644\u0649 \u0645\u0633\u0627\u062d\u0629 \u0645\u0639\u064a\u0646\u0629 \u0644\u062c\u0633\u0645 . \u062a\u0639\u0637\u064a \u0627\u0644\u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0645\u062c\u0627\u0648\u0631\u0629 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0633\u062d\u0628 \u0644\u0623\u0634\u0643\u0627\u0644 \u0623\u062c\u0633\u0627\u0645 \u0645\u062e\u062a\u0644\u0641\u0629 . \u064a\u062a\u0636\u0645\u0646 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0633\u062d\u0628 \u0644\u062c\u0633\u0645 \u0645\u0627 \u062a\u0623\u062b\u064a\u0631\u064a\u0646 : \u0627\u062d\u062a\u0643\u0627\u0643 \u0633\u0637\u062d\u064a \u0648 \u0627\u062d\u062a\u0643\u0627\u0643 \u0647\u064a\u0643\u0644\u064a. \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0633\u062d\u0628 \u0644\u062c\u0646\u0627\u062d \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0623\u0648 \u0644\u0645\u0631\u0648\u062d\u0629 \u0633\u0641\u064a\u0646\u0629 \u0641\u064a \u0627\u0644\u0645\u0627\u0621 \u064a\u0646\u062a\u062c \u0631\u0641\u0639\u0627 \u0646\u0627\u0634\u0626\u0627 \u0639\u0646 \u0627\u0644\u0633\u062d\u0628 \u0648\u062d\u0631\u0643\u0629 \u0627\u0644\u062c\u0633\u0645 \u0641\u064a \u0627\u0644\u0645\u0627\u0626\u0639.\u0648\u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0645\u0639\u0627\u0645\u0644 \u0633\u062d\u0628 \u0644\u0637\u0627\u0626\u0631\u0629 \u0645\u062b\u0644\u0627 \u064a\u0623\u062e\u0630 \u0641\u064a \u0627\u0644\u062d\u0633\u0628\u0627\u0646 \u0634\u0643\u0644 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u060c \u0648\u0643\u0630\u0644\u0643 \u0645\u0627 \u064a\u0633\u0645\u0649 \u0633\u062d\u0628 \u0627\u0644\u062a\u062f\u0627\u062e\u0644.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Em din\u00e2mica dos fluidos, o coeficiente de resist\u00eancia aerodin\u00e2mica (comumente notado como ou ), tamb\u00e9m chamado coeficiente de arrasto e por vezes apelidado simplesmente coeficiente aerodin\u00e2mico, \u00e9 um n\u00famero adimensional que \u00e9 usado para quantificar o arrasto ou resist\u00eancia de um objeto em um meio fluido tal como o ar ou a \u00e1gua, ou, noutras palavras permite quantificar a for\u00e7a de resist\u00eancia ao ar ou outro fluido por parte de uma dada superf\u00edcie. \u00c9 usado na equa\u00e7\u00e3o do arrasto, onde um coeficiente de arraste mais baixo indica que o objeto ter\u00e1 menos arraste aerodin\u00e2mico ou hidrodin\u00e2mico. O coeficiente de arraste \u00e9 sempre associado com uma \u00e1rea de superf\u00edcie particular. O coeficiente de arrasto de qualquer objeto compreende os efeitos de dois contribuidores b\u00e1sicos do arrasto fluidodin\u00e2mico: fric\u00e7\u00e3o de superf\u00edcie e arrasto de forma. O coeficeinte de arrasto de um aerof\u00f3lio ou hidrof\u00f3lio sustentante tamb\u00e9m incluem os efeitos de arrasto induzido. O coeficiente de arrasto de uma estrutura completa tal como uma aeronave tamb\u00e9m inclui os efeitos de arrasto de interfer\u00eancia.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "De weerstandsco\u00ebffici\u00ebnt (Cw, Cd of Cx) is een natuurkundige grootheid die gebruikt wordt bij het berekenen van de weerstand die een voorwerp ondervindt in een stromend medium, bijvoorbeeld lucht of water.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Der Str\u00f6mungswiderstandskoeffizient, Widerstandsbeiwert oder cw-Wert (nach dem \u00fcblichen Formelzeichen ) ist ein dimensionsloses Ma\u00df (Koeffizient) f\u00fcr den Str\u00f6mungswiderstand eines von einem Fluid umstr\u00f6mten K\u00f6rpers. Er entspricht dem Druckverlustbeiwert eines durchstr\u00f6mten K\u00f6rpers (z. B. eines Ventils). Umgangssprachlich ausgedr\u00fcckt ist der -Wert ein Ma\u00df f\u00fcr die \u201eWindschl\u00fcpfigkeit\u201c eines K\u00f6rpers. Es l\u00e4sst sich aus dem Str\u00f6mungswiderstandskoeffizienten bei zus\u00e4tzlicher Kenntnis von Geschwindigkeit, Stirnfl\u00e4che, Fl\u00fcgelfl\u00e4che etc. und Dichte des Fluids (z. B. der Luft) die Kraft des Str\u00f6mungswiderstands berechnen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u0301\u043d\u0442 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u0301\u043d\u0438\u044f \u0444\u043e\u0301\u0440\u043c\u044b, \u041a\u0421\u0424 (\u0430\u043d\u0433\u043b. drag coefficient) \u2014 \u0431\u0435\u0437\u0440\u0430\u0437\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430, \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0449\u0430\u044f \u0440\u0435\u0430\u043a\u0446\u0438\u044e \u0441\u0440\u0435\u0434\u044b \u043d\u0430 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0432 \u043d\u0435\u0439 \u0442\u0435\u043b\u0430 (\u0438\u043b\u0438 \u0442\u0435\u043b\u0430 \u043d\u0430 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0432 \u043d\u0451\u043c \u0441\u0440\u0435\u0434\u044b). \u041a\u0421\u0424 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e \u0432 \u0430\u044d\u0440\u043e- \u0438 \u0433\u0438\u0434\u0440\u043e\u0434\u0438\u043d\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0442\u0440\u0443\u0431\u0430\u0445 \u0438\u043b\u0438 \u0440\u0430\u0441\u0447\u0451\u0442\u043d\u043e, \u043f\u0443\u0442\u0451\u043c \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Un objet mobile se d\u00e9pla\u00e7ant dans un fluide pesant subit de la part de ce fluide une distribution de pression dont la r\u00e9sultante s'oppose \u00e0 sa marche. La composante de cette r\u00e9sultante selon la direction du mobile est appel\u00e9e tra\u00een\u00e9e. L'intensit\u00e9 de la force de tra\u00een\u00e9e est exprim\u00e9e en fonction de la vitesse, de la forme et de la taille du mobile, du fluide dans lequel il interagit. Le coefficient de tra\u00een\u00e9e usuellement d\u00e9sign\u00e9 est un nombre sans dimension qui est caract\u00e9ristique, principalement, de la forme du mobile.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u963b\u529b\u4fc2\u6578\uff08\u5e38\u8868\u793a\u70ba \u3001 \u6216 \uff09\u662f\u6d41\u9ad4\u529b\u5b78\u4e2d\u7684\u7121\u56e0\u6b21\u91cf\uff0c\u7528\u4f86\u8868\u793a\u7269\u9ad4\u5728\u6d41\u9ad4\uff08\u4f8b\u5982\u6c34\u6216\u662f\u7a7a\u6c23\uff09\u4e2d\u7684\u963b\u529b\u3002\u963b\u529b\u4fc2\u6578\u6703\u51fa\u73fe\u5728\u963b\u529b\u65b9\u7a0b\u4e2d\uff0c\u8f03\u5c0f\u7684\u963b\u529b\u4fc2\u6578\u8868\u793a\u7269\u9ad4\u53d7\u5230\u7684\u98a8\u963b\u6216\u6d41\u9ad4\u963b\u529b\u8f03\u5c0f\u3002\u963b\u529b\u4fc2\u6578\u548c\u7269\u9ad4\u7684\u5f62\u72c0\u53ca\u5176\u8868\u9762\u7279\u6027\u6709\u95dc\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/14ilf1l.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742432954,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 172291,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Quantity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Coefficient_of_drag": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Drag_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Drag_co-efficient": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Drag_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Drag_Coefficient": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Drag_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Coefficient_of_Drag": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Drag_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Drag_constant": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Drag_coefficient"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Drag_coefficient": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Drag_coefficient"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Drag": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Drag_coefficient"
+            }
+        ]
+    }
+}

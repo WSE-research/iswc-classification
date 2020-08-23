@@ -1,0 +1,28 @@
+{
+    "@text": "Is the IDLH of the graphite less than 1500?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Immediately_dangerous_to_life_or_health",
+            "@support": "90",
+            "@types": "",
+            "@surfaceForm": "IDLH",
+            "@offset": "7",
+            "@similarityScore": "0.9999999904931371",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Graphite",
+            "@support": "2630",
+            "@types": "Wikidata:Q7946,DUL:ChemicalObject,DBpedia:Mineral,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "graphite",
+            "@offset": "19",
+            "@similarityScore": "0.9994957371590597",
+            "@percentageOfSecondRank": "3.9899115320617405E-4"
+        }
+    ]
+}

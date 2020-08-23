@@ -1,0 +1,37 @@
+{
+    "@text": "Is it true that the White House is located in the administrative territorial entity of Washington, D.C in the Northwest?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/White_House",
+            "@support": "18739",
+            "@types": "Wikidata:Q41176,Schema:Place,DBpedia:Place,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "White House",
+            "@offset": "20",
+            "@similarityScore": "0.9995071616796919",
+            "@percentageOfSecondRank": "3.2475816358317296E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Territorial_entity",
+            "@support": "131",
+            "@types": "",
+            "@surfaceForm": "administrative territorial entity",
+            "@offset": "50",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/George_Washington",
+            "@support": "12333",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Washington",
+            "@offset": "87",
+            "@similarityScore": "0.7829237935462569",
+            "@percentageOfSecondRank": "0.13107134589825292"
+        }
+    ]
+}

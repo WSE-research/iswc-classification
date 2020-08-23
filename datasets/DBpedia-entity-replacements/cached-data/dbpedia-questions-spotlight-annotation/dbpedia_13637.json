@@ -1,0 +1,28 @@
+{
+    "@text": "Who painted the Batman:The Black Mirror movie's characters?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Batman",
+            "@support": "30361",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q95074,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:FictionalCharacter,DBpedia:ComicsCharacter,DBpedia:Agent",
+            "@surfaceForm": "Batman",
+            "@offset": "16",
+            "@similarityScore": "0.9989703151711331",
+            "@percentageOfSecondRank": "0.001030743603440873"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Black_people",
+            "@support": "6537",
+            "@types": "",
+            "@surfaceForm": "Black",
+            "@offset": "27",
+            "@similarityScore": "0.9633343996616766",
+            "@percentageOfSecondRank": "0.01925436777662398"
+        }
+    ]
+}

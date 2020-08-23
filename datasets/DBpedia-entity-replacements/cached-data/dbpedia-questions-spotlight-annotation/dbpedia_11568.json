@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the ASHRAE refrigerant number for sulfur dioxide?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/ASHRAE",
+            "@support": "453",
+            "@types": "",
+            "@surfaceForm": "ASHRAE",
+            "@offset": "13",
+            "@similarityScore": "0.9999612465146499",
+            "@percentageOfSecondRank": "3.875488877694843E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Refrigerant",
+            "@support": "681",
+            "@types": "",
+            "@surfaceForm": "refrigerant",
+            "@offset": "20",
+            "@similarityScore": "0.9997345228945481",
+            "@percentageOfSecondRank": "2.6554756568966187E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sulfur_dioxide",
+            "@support": "1687",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "sulfur dioxide",
+            "@offset": "43",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "@text": "when is the {end time} for {Louis XVIII of France} tha has {spouse} as {Marie Jos\u00e9phine of Savoy} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Louis_XVIII_of_France",
+            "@support": "1500",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Louis XVIII",
+            "@offset": "28",
+            "@similarityScore": "0.9999999806229598",
+            "@percentageOfSecondRank": "1.9377042350865136E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/France",
+            "@support": "256130",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "France",
+            "@offset": "43",
+            "@similarityScore": "0.9943633881310031",
+            "@percentageOfSecondRank": "0.004067726499740527"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Josephine_of_Leuchtenberg",
+            "@support": "128",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Jos\u00e9phine",
+            "@offset": "78",
+            "@similarityScore": "0.9999985976291327",
+            "@percentageOfSecondRank": "1.390838041758581E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/House_of_Savoy",
+            "@support": "1151",
+            "@types": "",
+            "@surfaceForm": "Savoy",
+            "@offset": "91",
+            "@similarityScore": "0.6237673840408604",
+            "@percentageOfSecondRank": "0.5877075690359808"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Which gas giant in the solar system has the biggest synodic period?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Gas_giant",
+            "@support": "737",
+            "@types": "",
+            "@surfaceForm": "gas giant",
+            "@offset": "6",
+            "@similarityScore": "0.9999999999994458",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Solar_System",
+            "@support": "6580",
+            "@types": "",
+            "@surfaceForm": "solar system",
+            "@offset": "23",
+            "@similarityScore": "0.9996940175261899",
+            "@percentageOfSecondRank": "2.1124068910573655E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Orbital_period",
+            "@support": "1739",
+            "@types": "",
+            "@surfaceForm": "synodic period",
+            "@offset": "52",
+            "@similarityScore": "0.9999999999999147",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

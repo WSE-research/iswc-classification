@@ -1,0 +1,28 @@
+{
+    "@text": "Is the standard enthalpy of the formation of sodium nitrate less than -308.4?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Enthalpy",
+            "@support": "1096",
+            "@types": "",
+            "@surfaceForm": "standard enthalpy",
+            "@offset": "7",
+            "@similarityScore": "0.9159339149079717",
+            "@percentageOfSecondRank": "0.09178182369171553"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sodium_nitrate",
+            "@support": "311",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "sodium nitrate",
+            "@offset": "45",
+            "@similarityScore": "0.9999999999999858",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

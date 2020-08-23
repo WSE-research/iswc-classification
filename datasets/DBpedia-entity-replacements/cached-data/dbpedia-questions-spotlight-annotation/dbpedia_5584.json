@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the mother of Herod the Great, who bore him as Herod Antipas?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Herod_the_Great",
+            "@support": "1376",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q116,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Monarch,DBpedia:Agent",
+            "@surfaceForm": "Herod",
+            "@offset": "21",
+            "@similarityScore": "0.7213407167777157",
+            "@percentageOfSecondRank": "0.3089956387896033"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Herod_Antipas",
+            "@support": "478",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q116,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Monarch,DBpedia:Agent",
+            "@surfaceForm": "Antipas",
+            "@offset": "60",
+            "@similarityScore": "0.9999996902319364",
+            "@percentageOfSecondRank": "3.094378677787324E-7"
+        }
+    ]
+}

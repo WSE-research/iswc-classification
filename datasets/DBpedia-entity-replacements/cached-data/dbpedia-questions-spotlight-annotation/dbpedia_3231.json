@@ -1,0 +1,37 @@
+{
+    "@text": "What is the location of Feng Youlan's death that has a twin city named Minsk?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Feng_Youlan",
+            "@support": "57",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Feng Youlan",
+            "@offset": "24",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "twin city",
+            "@offset": "55",
+            "@similarityScore": "0.8949850419141584",
+            "@percentageOfSecondRank": "0.11733710974450955"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Minsk",
+            "@support": "6390",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Minsk",
+            "@offset": "71",
+            "@similarityScore": "0.9989405539445676",
+            "@percentageOfSecondRank": "5.991594181719096E-4"
+        }
+    ]
+}

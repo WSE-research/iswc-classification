@@ -1,0 +1,28 @@
+{
+    "@text": "What is the { criterion used } for { pole vault } { record held } as { Eliza McCartney }?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Pole_vault",
+            "@support": "2128",
+            "@types": "",
+            "@surfaceForm": "pole vault",
+            "@offset": "37",
+            "@similarityScore": "0.9999999460987979",
+            "@percentageOfSecondRank": "5.386818920562294E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Eliza_McCartney",
+            "@support": "24",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Eliza McCartney",
+            "@offset": "71",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

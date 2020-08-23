@@ -1,0 +1,46 @@
+{
+    "@text": "The birth location of Jack Black has a twin city in Shanghai. Which city is it?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census",
+            "@support": "315114",
+            "@types": "",
+            "@surfaceForm": "Black",
+            "@offset": "27",
+            "@similarityScore": "0.9244275055601683",
+            "@percentageOfSecondRank": "0.032685113196937364"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "twin city",
+            "@offset": "39",
+            "@similarityScore": "0.9906876873969582",
+            "@percentageOfSecondRank": "0.009399846912806091"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Shanghai",
+            "@support": "26899",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Shanghai",
+            "@offset": "52",
+            "@similarityScore": "0.999805147480435",
+            "@percentageOfSecondRank": "1.348712016857724E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "68",
+            "@similarityScore": "0.84146077883917",
+            "@percentageOfSecondRank": "0.12436034447790838"
+        }
+    ]
+}

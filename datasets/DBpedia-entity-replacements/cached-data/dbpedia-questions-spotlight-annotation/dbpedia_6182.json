@@ -1,0 +1,28 @@
+{
+    "@text": "where is the {point in time} for {bell hooks} who has {educated at} as {Stanford University} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Bell_hooks",
+            "@support": "331",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "bell hooks",
+            "@offset": "34",
+            "@similarityScore": "0.999999999986187",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Stanford_University",
+            "@support": "19587",
+            "@types": "Wikidata:Q43229,Wikidata:Q3918,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:EducationalOrganization,Schema:CollegeOrUniversity,DBpedia:University,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "Stanford University",
+            "@offset": "72",
+            "@similarityScore": "0.9997937066309202",
+            "@percentageOfSecondRank": "1.1171806043328696E-4"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "@text": "Did Ben_Kingsley get nominated for the BAFTA Award for Best Actor in a Leading Role and a Primetime Emmy Award for Outstanding Lead Actor in a Miniseries or a Movie ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/British_Academy_Film_Awards",
+            "@support": "2001",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "BAFTA Award",
+            "@offset": "39",
+            "@similarityScore": "0.9336101510184072",
+            "@percentageOfSecondRank": "0.02903206884565278"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Award_for_Best_Actor",
+            "@support": "2328",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Best Actor",
+            "@offset": "55",
+            "@similarityScore": "0.9968405455538004",
+            "@percentageOfSecondRank": "0.0031594765537723765"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Primetime_Emmy_Award",
+            "@support": "3870",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Primetime Emmy Award",
+            "@offset": "90",
+            "@similarityScore": "0.9475757832537955",
+            "@percentageOfSecondRank": "0.051357109940389625"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Emmy_Award",
+            "@support": "14981",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Emmy Award",
+            "@offset": "100",
+            "@similarityScore": "0.7514745941785594",
+            "@percentageOfSecondRank": "0.24237662586232508"
+        }
+    ]
+}

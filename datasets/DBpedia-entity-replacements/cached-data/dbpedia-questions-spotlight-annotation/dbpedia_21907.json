@@ -1,0 +1,28 @@
+{
+    "@text": "What is manufactured by Asus and Sony togather?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Asus",
+            "@support": "734",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Asus",
+            "@offset": "24",
+            "@similarityScore": "0.9999999975886311",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sony",
+            "@support": "12995",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Sony",
+            "@offset": "33",
+            "@similarityScore": "0.9836524044489772",
+            "@percentageOfSecondRank": "0.015713693627777886"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the international airport for the transport hub of Belgrade?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/International_airport",
+            "@support": "1308",
+            "@types": "",
+            "@surfaceForm": "international",
+            "@offset": "13",
+            "@similarityScore": "0.8986780809897168",
+            "@percentageOfSecondRank": "0.10975150478604957"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Belgrade",
+            "@support": "24398",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Belgrade",
+            "@offset": "60",
+            "@similarityScore": "0.9999658059308234",
+            "@percentageOfSecondRank": "2.8223025134521604E-5"
+        }
+    ]
+}

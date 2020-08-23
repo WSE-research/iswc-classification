@@ -1,0 +1,37 @@
+{
+    "@text": "Did Francis Ford Coppola have notable works of The Godfather and The Godfather Part III?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Francis_Ford_Coppola",
+            "@support": "1449",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Francis Ford Coppola",
+            "@offset": "4",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/The_Godfather",
+            "@support": "2040",
+            "@types": "Wikidata:Q386724,Schema:Movie,Schema:CreativeWork,DBpedia:Work,DBpedia:Wikidata:Q11424,DBpedia:Film",
+            "@surfaceForm": "The Godfather",
+            "@offset": "47",
+            "@similarityScore": "0.9999999999252225",
+            "@percentageOfSecondRank": "5.501917988932994E-11"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/The_Godfather_Part_III",
+            "@support": "292",
+            "@types": "Wikidata:Q386724,Schema:Movie,Schema:CreativeWork,DBpedia:Work,DBpedia:Wikidata:Q11424,DBpedia:Film",
+            "@surfaceForm": "The Godfather Part III",
+            "@offset": "65",
+            "@similarityScore": "0.9999999999999858",
+            "@percentageOfSecondRank": "1.0019837233778542E-14"
+        }
+    ]
+}

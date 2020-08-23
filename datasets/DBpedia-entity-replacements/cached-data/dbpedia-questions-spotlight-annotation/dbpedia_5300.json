@@ -1,0 +1,37 @@
+{
+    "@text": "Is the compressive modulus of elasticity of copper greater than 120.0?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Bulk_modulus",
+            "@support": "206",
+            "@types": "",
+            "@surfaceForm": "modulus",
+            "@offset": "19",
+            "@similarityScore": "0.600684056578781",
+            "@percentageOfSecondRank": "0.4729962137363084"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Elastic_modulus",
+            "@support": "328",
+            "@types": "",
+            "@surfaceForm": "elasticity",
+            "@offset": "30",
+            "@similarityScore": "0.9971841609460773",
+            "@percentageOfSecondRank": "0.0021102731867552837"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Copper",
+            "@support": "17432",
+            "@types": "",
+            "@surfaceForm": "copper",
+            "@offset": "44",
+            "@similarityScore": "0.9999857417480054",
+            "@percentageOfSecondRank": "9.631518510400434E-6"
+        }
+    ]
+}

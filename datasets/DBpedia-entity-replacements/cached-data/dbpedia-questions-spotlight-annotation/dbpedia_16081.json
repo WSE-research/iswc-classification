@@ -1,0 +1,37 @@
+{
+    "@text": "When was Selena received the Grammy Award for Best Mexian/Mexican-American award?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Selena",
+            "@support": "2375",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Selena",
+            "@offset": "9",
+            "@similarityScore": "0.9994824240544923",
+            "@percentageOfSecondRank": "3.2361949651542055E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Grammy_Award",
+            "@support": "22241",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Grammy Award",
+            "@offset": "29",
+            "@similarityScore": "0.9999309267724679",
+            "@percentageOfSecondRank": "6.679580011134575E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mexican_Americans",
+            "@support": "2747",
+            "@types": "Wikidata:Q41710,DBpedia:EthnicGroup",
+            "@surfaceForm": "Mexican-American",
+            "@offset": "58",
+            "@similarityScore": "0.9965703704698089",
+            "@percentageOfSecondRank": "0.0033846286532581145"
+        }
+    ]
+}

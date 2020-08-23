@@ -1,0 +1,37 @@
+{
+    "@text": "When was Ben Chifley the Prime Minister of Australia?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ben_Chifley",
+            "@support": "371",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Ben Chifley",
+            "@offset": "9",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Prime_Minister_of_Australia",
+            "@support": "4978",
+            "@types": "",
+            "@surfaceForm": "Prime Minister",
+            "@offset": "25",
+            "@similarityScore": "0.9876512175706991",
+            "@percentageOfSecondRank": "0.009351396453610075"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Australia",
+            "@support": "189357",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Australia",
+            "@offset": "43",
+            "@similarityScore": "0.9993120083329705",
+            "@percentageOfSecondRank": "4.6720680501628775E-4"
+        }
+    ]
+}

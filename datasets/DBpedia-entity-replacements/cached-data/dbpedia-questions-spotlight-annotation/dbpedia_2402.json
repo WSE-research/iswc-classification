@@ -1,0 +1,28 @@
+{
+    "@text": "Is Jane Fonda's father Henry Fonda?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Jane_Fonda",
+            "@support": "1148",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Jane Fonda",
+            "@offset": "3",
+            "@similarityScore": "0.999999999999929",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Henry_Fonda",
+            "@support": "1264",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Henry Fonda",
+            "@offset": "23",
+            "@similarityScore": "0.9999999999994174",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

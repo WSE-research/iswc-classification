@@ -1,0 +1,28 @@
+{
+    "@text": "Is the fusion enthalpy of acetone equal to 4.552?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Enthalpy",
+            "@support": "1096",
+            "@types": "",
+            "@surfaceForm": "enthalpy",
+            "@offset": "14",
+            "@similarityScore": "0.9891391037797294",
+            "@percentageOfSecondRank": "0.009893064791094645"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Acetone",
+            "@support": "1213",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "acetone",
+            "@offset": "26",
+            "@similarityScore": "0.9999999999969731",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "What is the total number of other tenant of the stadia whose one of the tenant is Raptors 905?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Stadium",
+            "@support": "21114",
+            "@types": "",
+            "@surfaceForm": "stadia",
+            "@offset": "48",
+            "@similarityScore": "0.9620653521570491",
+            "@percentageOfSecondRank": "0.025026144520843435"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Raptors_905",
+            "@support": "156",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:BasketballTeam,DBpedia:Agent",
+            "@surfaceForm": "Raptors 905",
+            "@offset": "82",
+            "@similarityScore": "0.9999999999999858",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

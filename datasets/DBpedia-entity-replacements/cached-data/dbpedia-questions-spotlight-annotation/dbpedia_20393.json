@@ -1,0 +1,28 @@
+{
+    "@text": "What is the television show whose cast members are Jeff Conaway and Jason Carter?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Jeff_Conaway",
+            "@support": "107",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Jeff Conaway",
+            "@offset": "51",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Del_McCoury_Band",
+            "@support": "201",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q215380,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:MusicGroup,DBpedia:Organisation,DBpedia:Group,DBpedia:Band,DBpedia:Agent",
+            "@surfaceForm": "Jason Carter",
+            "@offset": "68",
+            "@similarityScore": "0.9994469111164794",
+            "@percentageOfSecondRank": "2.8822580450825534E-4"
+        }
+    ]
+}

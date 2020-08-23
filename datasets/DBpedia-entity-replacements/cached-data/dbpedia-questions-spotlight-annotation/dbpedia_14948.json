@@ -1,0 +1,28 @@
+{
+    "@text": "Is Jupiter's apparent magnitude equal to -1.6?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Jupiter",
+            "@support": "8534",
+            "@types": "Wikidata:Q634,Schema:Place,DBpedia:Planet,DBpedia:Place,DBpedia:Location,DBpedia:CelestialBody",
+            "@surfaceForm": "Jupiter",
+            "@offset": "3",
+            "@similarityScore": "0.9998593722116104",
+            "@percentageOfSecondRank": "1.283462529904813E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Apparent_magnitude",
+            "@support": "5539",
+            "@types": "",
+            "@surfaceForm": "apparent magnitude",
+            "@offset": "13",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

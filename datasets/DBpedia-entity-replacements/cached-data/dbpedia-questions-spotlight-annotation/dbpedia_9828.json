@@ -1,0 +1,37 @@
+{
+    "@text": "Which kind of bulldog is the mascot for Georgetown University?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Bulldog",
+            "@support": "1265",
+            "@types": "",
+            "@surfaceForm": "bulldog",
+            "@offset": "14",
+            "@similarityScore": "0.9999358542871926",
+            "@percentageOfSecondRank": "3.6663038309746364E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mascot",
+            "@support": "4739",
+            "@types": "",
+            "@surfaceForm": "mascot",
+            "@offset": "29",
+            "@similarityScore": "0.9976319763910063",
+            "@percentageOfSecondRank": "0.002321271967930542"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Georgetown_University",
+            "@support": "5862",
+            "@types": "Wikidata:Q43229,Wikidata:Q3918,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:EducationalOrganization,Schema:CollegeOrUniversity,DBpedia:University,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "Georgetown University",
+            "@offset": "40",
+            "@similarityScore": "0.9953405329017507",
+            "@percentageOfSecondRank": "0.0037341593073799426"
+        }
+    ]
+}

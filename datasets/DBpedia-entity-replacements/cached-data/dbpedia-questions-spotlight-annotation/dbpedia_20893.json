@@ -1,0 +1,28 @@
+{
+    "@text": "Who manufactured the Delta III and the Space Shuttle?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Delta_III",
+            "@support": "53",
+            "@types": "Wikidata:Q41291,DUL:DesignedArtifact,DBpedia:Rocket,DBpedia:MeanOfTransportation",
+            "@surfaceForm": "Delta III",
+            "@offset": "21",
+            "@similarityScore": "0.9974462058560315",
+            "@percentageOfSecondRank": "0.0025603326937775383"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Space_Shuttle",
+            "@support": "5603",
+            "@types": "Wikidata:Q41291,DUL:DesignedArtifact,DBpedia:Rocket,DBpedia:MeanOfTransportation",
+            "@surfaceForm": "Space Shuttle",
+            "@offset": "39",
+            "@similarityScore": "0.9988345144613517",
+            "@percentageOfSecondRank": "0.0011414066863640025"
+        }
+    ]
+}

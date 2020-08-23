@@ -1,0 +1,37 @@
+{
+    "@text": "Name the common architecture of the Grand Serail of Aleppo and Shaheed Minar, Kolkata ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Grand_Serail",
+            "@support": "63",
+            "@types": "Schema:Place,Schema:LandmarksOrHistoricalBuildings,DBpedia:Place,DBpedia:Location,DBpedia:HistoricPlace",
+            "@surfaceForm": "Grand Serail",
+            "@offset": "36",
+            "@similarityScore": "0.9999999999999432",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Aleppo",
+            "@support": "8422",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Aleppo",
+            "@offset": "52",
+            "@similarityScore": "0.9999566455955262",
+            "@percentageOfSecondRank": "3.866552792473282E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Shaheed_Minar,_Kolkata",
+            "@support": "17",
+            "@types": "Wikidata:Q41176,Schema:Place,DBpedia:Place,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Shaheed Minar, Kolkata",
+            "@offset": "63",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

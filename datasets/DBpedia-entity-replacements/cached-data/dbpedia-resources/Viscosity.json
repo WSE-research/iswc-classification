@@ -1,0 +1,759 @@
+{
+    "http://dbpedia.org/resource/Viscousity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Coefficient_of_viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pascal_second": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Viscous_friction": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Viscosity": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Software"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Viscosidade",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Viscosity",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0644\u0632\u0648\u062c\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u9ecf\u5ea6",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Viscosidad",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u7c98\u5ea6",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Viscosit\u00e9",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Lepko\u015b\u0107",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Viscositeit",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u044f\u0437\u043a\u043e\u0441\u0442\u044c",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Viskosit\u00e4t",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Viscosit\u00e0",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "La viscosit\u00e9 (du latin viscum, gui, glu) peut \u00eatre d\u00e9finie comme la r\u00e9sistance \u00e0 l'\u00e9coulement uniforme et sans turbulence se produisant dans la masse d'une mati\u00e8re. La viscosit\u00e9 dynamique correspond \u00e0 la contrainte de cisaillement qui accompagne l'existence d'un gradient de vitesse d'\u00e9coulement dans la mati\u00e8re, d'o\u00f9 l'origine du qualificatif de dynamique. On classe notamment les huiles m\u00e9caniques selon leur viscosit\u00e9, en fonction des besoins de lubrification du moteur et des temp\u00e9ratures auxquelles l'huile sera soumise lors du fonctionnement du moteur.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0645\u0627\u0626\u0639 \u0645\u0627 \u0644\u0644\u062c\u0631\u064a\u0627\u0646\u060c \u0648\u0645\u0642\u062f\u0627\u0631 \u0645\u0642\u0627\u0648\u0645\u062a\u0647 \u0644\u0636\u063a\u0637 \u064a\u062c\u0628\u0631\u0647 \u0639\u0644\u0649 \u0627\u0644\u062a\u062d\u0631\u0643 \u0648\u0627\u0644\u0633\u064a\u0644\u0627\u0646. \u0643\u0644\u0645\u0627 \u0632\u0627\u062f\u062a \u0644\u0632\u0648\u062c\u0629 \u0645\u0627\u0626\u0639 \u0645\u0627\u060c \u0642\u0644\u0651\u062a \u0642\u0627\u0628\u0644\u064a\u062a\u0647 \u0644\u0644\u062c\u0631\u064a\u0627\u0646. \u0648\u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0644\u0633\u0648\u0627\u0626\u0644\u060c \u0641\u0625\u0646 \u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u062a\u0643\u0627\u0641\u0626 \u0627\u0644\u0645\u0635\u0637\u0644\u062d \u0627\u0644\u062f\u0627\u0631\u062c \u0628\u0640\"\u0627\u0644\u062b\u062e\u0627\u0646\u0629\". \u0641\u0627\u0644\u0639\u0633\u0644 \u062b\u062e\u0646 \u0639\u0627\u0644 \u0627\u0644\u0644\u0632\u0648\u062c\u0629\u060c \u0648\u0627\u0644\u0645\u0627\u0621 \u0633\u0644\u0633 \u062f\u0646\u064a \u0627\u0644\u0644\u0632\u0648\u062c\u0629. \u062a\u0643\u0648\u0646 \u062c\u0632\u0626\u064a\u0627\u062a \u0633\u0627\u0626\u0644 \u0639\u0627\u0644\u064a \u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0628\u0639\u0636\u0647\u0627 \u0628\u0634\u0643\u0644 \u0642\u0648\u064a\u060c \u0648\u0628\u0630\u0644\u0643 \u062a\u0643\u0648\u0646 \u0623\u0642\u0644 \u0642\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u062a\u062d\u0631\u0643. \u0648\u064a\u0643\u0628\u0631 \u0627\u062d\u062a\u0643\u0627\u0643\u0647\u0627 \u0628\u0627\u0644\u062c\u0633\u0645 \u0627\u0644\u0635\u0644\u0628 \u0627\u0644\u0645\u0644\u0627\u0645\u0633 \u0644\u0647\u0627\u060c \u0648\u064a\u0645\u0643\u0646 \u0648\u0635\u0641 \u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u0628\u0623\u0646\u0647\u0627 \u0627\u062d\u062a\u0643\u0627\u0643 \u062f\u0627\u062e\u0644\u064a  \u0628\u064a\u0646 \u062c\u0632\u064a\u0626\u0627\u062a \u0627\u0644\u0633\u0627\u0626\u0644. \u0646\u0641\u0631\u0642 \u0639\u0645\u0644\u064a\u0627 \u0628\u064a\u0646 \u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u0627\u0644\u062f\u064a\u0646\u0627\u0645\u064a\u0629 (\u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u0627\u0644\u062d\u0631\u0643\u064a\u0629) \u0644\u0644\u0645\u0627\u0626\u0639 \u0648\u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u0627\u0644\u0643\u064a\u0646\u0645\u0627\u062a\u064a\u0629:",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "La viscosidad de un fluido es una medida de su resistencia a las deformaciones graduales producidas por tensiones cortantes o tensiones de tracci\u00f3n. La viscosidad se corresponde con el concepto informal de \"espesor\". Por ejemplo, la miel tiene una viscosidad mucho mayor que el agua. Un fluido que no tiene viscosidad se llama fluido ideal. La viscosidad nula solamente aparece en superfluidos a temperaturas muy bajas. El resto de fluidos conocidos presentan algo de viscosidad. Sin embargo, el modelo de viscosidad nula es una aproximaci\u00f3n bastante buena para ciertas aplicaciones.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u044f\u0301\u0437\u043a\u043e\u0441\u0442\u044c (\u0432\u043d\u0443\u0301\u0442\u0440\u0435\u043d\u043d\u0435\u0435 \u0442\u0440\u0435\u0301\u043d\u0438\u0435) \u2014 \u043e\u0434\u043d\u043e \u0438\u0437 \u044f\u0432\u043b\u0435\u043d\u0438\u0439 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0430, \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u043e \u0442\u0435\u043a\u0443\u0447\u0438\u0445 \u0442\u0435\u043b (\u0436\u0438\u0434\u043a\u043e\u0441\u0442\u0435\u0439 \u0438 \u0433\u0430\u0437\u043e\u0432) \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0435\u043d\u0438\u044e \u043e\u0434\u043d\u043e\u0439 \u0438\u0445 \u0447\u0430\u0441\u0442\u0438 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0434\u0440\u0443\u0433\u043e\u0439. \u0412 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0440\u0430\u0431\u043e\u0442\u0430, \u0437\u0430\u0442\u0440\u0430\u0447\u0438\u0432\u0430\u0435\u043c\u0430\u044f \u043d\u0430 \u044d\u0442\u043e \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0435\u043d\u0438\u0435, \u0440\u0430\u0441\u0441\u0435\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0432\u0438\u0434\u0435 \u0442\u0435\u043f\u043b\u0430. \u041c\u0435\u0445\u0430\u043d\u0438\u0437\u043c \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0433\u043e \u0442\u0440\u0435\u043d\u0438\u044f \u0432 \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u044f\u0445 \u0438 \u0433\u0430\u0437\u0430\u0445 \u0437\u0430\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e \u0445\u0430\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0434\u0432\u0438\u0436\u0443\u0449\u0438\u0435\u0441\u044f \u043c\u043e\u043b\u0435\u043a\u0443\u043b\u044b \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u044f\u0442 \u0438\u043c\u043f\u0443\u043b\u044c\u0441 \u0438\u0437 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u043b\u043e\u044f \u0432 \u0434\u0440\u0443\u0433\u043e\u0439, \u0447\u0442\u043e \u043f\u0440\u0438\u0432\u043e\u0434\u0438\u0442 \u043a \u0432\u044b\u0440\u0430\u0432\u043d\u0438\u0432\u0430\u043d\u0438\u044e \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u0435\u0439 \u2014 \u044d\u0442\u043e \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c \u0441\u0438\u043b\u044b \u0442\u0440\u0435\u043d\u0438\u044f. \u0412\u044f\u0437\u043a\u043e\u0441\u0442\u044c \u0442\u0432\u0451\u0440\u0434\u044b\u0445 \u0442\u0435\u043b \u043e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0440\u044f\u0434\u043e\u043c \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u0435\u0439 \u0438 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043e\u0431\u044b\u0447\u043d\u043e \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u9ecf\u5ea6\uff0c\u662f\u9ecf\u6027\u7684\u7a0b\u5ea6\uff0c\u662f\u6750\u6599\u7684\u9996\u8981\u529f\u80fd\uff0c\u4e5f\u79f0\u52a8\u529b\u7c98\u5ea6\u3001\u7c98\uff08\u6ede\uff09\u6027\u7cfb\u6570\u3001\u5185\u6469\u64e6\u7cfb\u6570\u3002\u4e0d\u540c\u7269\u8d28\u7684\u9ecf\u5ea6\u4e0d\u540c\uff0c\u4f8b\u5982\u5728\u5e38\u6e29\uff0820\u2103\uff09\u53ca\u5e38\u538b\u4e0b\uff0c\u7a7a\u6c14\u7684\u9ecf\u5ea6\u4e3a0.018mPa\u00b7s(10^-5)\uff0c\u6c7d\u6cb9\u4e3a0.65mPa\u00b7s\uff0c\u6c34\u4e3a1 mPa\u00b7s\uff0c\u8840\u6db2\uff0837\u2103\uff09\u4e3a4\uff5e15mPa\u00b7s\uff0c\u6a44\u6984\u6cb9\u4e3a102 mPa\u00b7s\uff0c\u84d6\u9ebb\u6cb9\u4e3a103 mPa\u00b7s\uff0c\u8702\u871c\u4e3a104mPa\u00b7s\uff0c\u7126\u6cb9\u4e3a106 mPa\u00b7s\uff0c\u6ca5\u9752\u4e3a108 mPa\u00b7s\uff0c\u7b49\u7b49\u3002\u6700\u666e\u901a\u7684\u6db2\u4f53\u9ecf\u5ea6\u5927\u81f4\u57281\uff5e1000 m Pa\u00b7s\uff0c\u6c14\u4f53\u7684\u9ecf\u5ea6\u5927\u81f4\u57281\uff5e10\u03bcPa\u00b7s\u3002\u7cca\u72b6\u7269\u3001\u51dd\u80f6\u3001\u4e73\u6db2\u548c\u5176\u4ed6\u590d\u6742\u7684\u6db2\u4f53\u5c31\u4e0d\u597d\u8bf4\u4e86\u3002\u4e00\u4e9b\u50cf\u9ec4\u6cb9\u6216\u4eba\u9020\u9ec4\u6cb9\u7684\u8102\u80aa\u5f88\u9ecf\uff0c\u66f4\u50cf\u8f6f\u7684\u56fa\u4f53\uff0c\u800c\u4e0d\u662f\u6d41\u52a8\u6db2\u4f53\u3002 \u9ecf\u6eef\u529b\u662f\u6d41\u9ad4\u53d7\u5230\u526a\u61c9\u529b\u8b8a\u5f62\u6216\u62c9\u4f38\u61c9\u529b\u6642\u6240\u7522\u751f\u7684\u963b\u529b\u3002\u5728\u65e5\u5e38\u751f\u6d3b\u65b9\u9762\uff0c\u9ecf\u6eef\u50cf\u662f\u300c\u9ecf\u7a20\u5ea6\u300d\u6216\u300c\u6d41\u9ad4\u5167\u7684\u6469\u64e6\u529b\u300d\u3002\u56e0\u6b64\uff0c\u6c34\u662f\u300c\u7a00\u8584\u300d\u7684\uff0c\u5177\u6709\u8f03\u4f4e\u7684\u9ecf\u6eef\u529b\uff0c\u800c\u8702\u871c\u662f\u300c\u6fc3\u7a20\u300d\u7684\uff0c\u5177\u6709\u8f03\u9ad8\u7684\u9ecf\u6eef\u529b\u3002\u7c21\u55ae\u5730\u8aaa\uff0c\u9ecf\u6eef\u529b\u8d8a\u4f4e\uff08\u9ecf\u6eef\u4fc2\u6578\u4f4e\uff09\u7684\u6d41\u9ad4\uff0c\u6d41\u52d5\u6027\u8d8a\u4f73\u3002 \u9ecf\u6eef\u529b\u662f\u7c98\u6027\u6db2\u9ad4\u5167\u90e8\u7684\u4e00\u7a2e\u6d41\u52d5\u963b\u529b\uff0c\u4e26\u53ef\u80fd\u88ab\u8a8d\u70ba\u662f\u6d41\u9ad4\u81ea\u8eab\u7684\u6469\u64e6\u3002\u9ecf\u6eef\u529b\u4e3b\u8981\u4f86\u81ea\u5206\u5b50\u9593\u76f8\u4e92\u7684\u5438\u5f15\u529b\u3002\u4f8b\u5982\uff0c\u9ad8\u7c98\u5ea6\u9178\u6027\u7194\u5ca9\u7522\u751f\u7684\u706b\u5c71\u901a\u5e38\u70ba\u9ad8\u800c\u9661\u5ced\u7684\u9310\u72c0\u706b\u5c71\uff0c\u56e0\u70ba\u5176\u7194\u5ca9\u6fc3\u7a20\uff0c\u5728\u5176\u51b7\u537b\u4e4b\u524d\u7121\u6cd5\u6d41\u81f3\u9060\u8ddd\u96e2\u56e0\u800c\u4e0d\u65b7\u5411\u4e0a\u7d2f\u52a0\uff1b\u800c\u9ecf\u6eef\u529b\u4f4e\u7684\u9382\u9435\u8cea\u7194\u5ca9\u5c07\u5efa\u7acb\u4e00\u500b\u5927\u898f\u6a21\u3001\u6dfa\u50be\u7684\u659c\u76fe\u72c0\u706b\u5c71\u3002\u6240\u6709\u771f\u6b63\u7684\u6d41\u9ad4\uff08\u9664\u8d85\u6d41\u9ad4\uff09\u6709\u4e00\u5b9a\u7684\u6297\u58d3\u529b\uff0c\u56e0\u6b64\u6709\u7c98\u6027\u3002 \u9ecf\u5ea6 \u5f0f\u4e2d\uff1a \u4e3a\u526a\u5e94\u529b\uff0c \u4e3a\u901f\u5ea6\u573a\u5728 \u4e3a\u4e0e",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "The viscosity of a fluid is a measure of its resistance to gradual deformation by shear stress or tensile stress. For liquids, it corresponds to the informal concept of \"thickness\"; for example, honey has a much higher viscosity than water.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u7c98\u5ea6\uff08\u306d\u3093\u3069\u3001\u30c9\u30a4\u30c4\u8a9e: Viskosit\u00e4t\u3001\u30d5\u30e9\u30f3\u30b9\u8a9e: viscosit\u00e9\u3001\u82f1\u8a9e: viscosity\uff09\u306f\u3001\u7269\u8cea\u306e\u306d\u3070\u308a\u306e\u5ea6\u5408\u3067\u3042\u308b\u3002\u7c98\u6027\u7387\u3001\u7c98\u6027\u4fc2\u6570\u3001\u307e\u305f\u306f\uff08\u52d5\u7c98\u5ea6\u3068\u533a\u5225\u3059\u308b\u969b\u306b\u306f) \u7d76\u5bfe\u7c98\u5ea6\u3068\u3082\u547c\u3076\u3002\u4e00\u822c\u306b\u306f\u6d41\u4f53\u304c\u6301\u3064\u6027\u8cea\u3068\u3055\u308c\u308b\u304c\u3001\u7c98\u5f3e\u6027\u306a\u3069\u306e\u6027\u8cea\u3092\u6301\u3064\u56fa\u4f53\u3067\u3082\u7528\u3044\u3089\u308c\u308b\u3002 \u91cf\u8a18\u53f7\u306b\u306f\u03bc\u307e\u305f\u306f\u03b7\u304c\u7528\u3044\u3089\u308c\u308b\u3002SI\u5358\u4f4d\u306fPa\u00b7s\uff08\u30d1\u30b9\u30ab\u30eb\u79d2\uff09\u3067\u3042\u308b\u3002CGS\u5358\u4f4d\u7cfb\u3067\u306fP\uff08\u30dd\u30a2\u30ba\uff09\u304c\u7528\u3044\u3089\u308c\u305f\u3002cm2/s = 10\u22124m2/s = 1 St\uff08\u30b9\u30c8\u30fc\u30af\u30b9\uff09\u3082\u4f7f\u308f\u308c\u308b\uff08\u5373\u3061\u30011 mm2/s = 1 cSt\uff08\u30bb\u30f3\u30c1\u30b9\u30c8\u30fc\u30af\u30b9\uff09\uff09\u3002\u5de5\u696d\u7684\u306b\u306f\u30bb\u30a4\u30dc\u30eb\u30c8\u79d2\u3082\u4f7f\u308f\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "A viscosidade \u00e9 a propriedade dos fluidos correspondente ao transporte microsc\u00f3pico de quantidade de movimento por difus\u00e3o molecular. Ou seja, quanto maior a viscosidade, menor ser\u00e1 a velocidade em que o fluido se movimenta.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Die Viskosit\u00e4t ist ein Ma\u00df f\u00fcr die Z\u00e4hfl\u00fcssigkeit eines Fluids. Der Kehrwert der Viskosit\u00e4t ist die Fluidit\u00e4t, ein Ma\u00df f\u00fcr die Flie\u00dff\u00e4higkeit eines Fluids. Je gr\u00f6\u00dfer die Viskosit\u00e4t, desto dickfl\u00fcssiger (weniger flie\u00dff\u00e4hig) ist das Fluid; je niedriger die Viskosit\u00e4t, desto d\u00fcnnfl\u00fcssiger (flie\u00dff\u00e4higer) ist es, kann also bei gleichen Bedingungen schneller flie\u00dfen. Normalerweise wird mit dem Begriff Viskosit\u00e4t die Viskosit\u00e4t in Scherung verbunden, es ist allerdings auch m\u00f6glich, die Viskosit\u00e4t in Dehnung zu messen, siehe dazu die Seite Dehnviskosit\u00e4t.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Nell'ambito dei fenomeni di trasporto la viscosit\u00e0 \u00e8 una grandezza fisica che indica la resistenza di un fluido allo scorrimento. Si tratta in altri termini del coefficiente di scambio di quantit\u00e0 di moto. La viscosit\u00e0 viene solitamente indicata con la lettera greca \u03bc o pi\u00f9 raramente con la lettera \u03b7 per richiamare il collegamento con il coefficiente di attrito della meccanica classica. Viene detta spesso viscosit\u00e0 dinamica per distinguerla dalla viscosit\u00e0 cinematica, che \u00e8 una grandezza simile alla viscosit\u00e0 dinamica, ma dimensionalmente differente.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Lepko\u015b\u0107 (wiskoza) \u2013 w\u0142a\u015bciwo\u015b\u0107 p\u0142yn\u00f3w i plastycznych cia\u0142 sta\u0142ych charakteryzuj\u0105ca ich tarcie wewn\u0119trzne wynikaj\u0105ce z przesuwania si\u0119 wzgl\u0119dem siebie warstw p\u0142ynu podczas przep\u0142ywu (nie jest to natomiast op\u00f3r przeciw p\u0142yni\u0119ciu powstaj\u0105cy na granicy p\u0142ynu i \u015bcianek naczynia). Lepko\u015b\u0107 jest jedn\u0105 z najwa\u017cniejszych cech p\u0142yn\u00f3w (cieczy i gaz\u00f3w). Inne znaczenie s\u0142owa \"lepko\u015b\u0107\" odnosi si\u0119 do \"czepno\u015bci\" \u2013 terminu stosowanego w dziedzinie klej\u00f3w. Zgodnie z laminarnym modelem przep\u0142ywu lepko\u015b\u0107 wynika ze zdolno\u015bci p\u0142ynu do przekazywania p\u0119du pomi\u0119dzy warstwami poruszaj\u0105cymi si\u0119 z r\u00f3\u017cnymi pr\u0119dko\u015bciami.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Viscositeit of stroperigheid is een fysische materiaaleigenschap, die de traagvloeibaarheid of stroperigheid van een vloeistof of van een gas weergeeft. Preciezer uitgedrukt: het is de eigenschap van een flu\u00efdum die aangeeft in welke mate deze weerstand biedt tegen vervorming door schuifspanning. Zo is water een voorbeeld van een vloeistof met een lage viscositeit, honing een voorbeeld van een vloeistof met een hoge viscositeit. Vloeistoffen met een hoge viscositeit worden viskeus genoemd. Het vloeigedrag van stoffen wordt bestudeerd in de reologie.",
+                "lang": "nl"
+            }
+        ],
+        "http://dbpedia.org/property/symbols": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Eta_(letter)"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Mu_(letter)"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u7c98\u5ea6"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0b2sz"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc810\uc131"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Viskositas"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Viscosit\u00e9"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q128709"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4063625-2"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Viskozita"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Viscositeit"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q128709"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Viscosidad"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Biskositate_zinematiko"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Viskosit\u00e4t"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Lepko\u015b\u0107"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Viscosidade"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0399\u03be\u03ce\u03b4\u03b5\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Viscosit\u00e0"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Viscosity"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Viscosities.gif"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Viscosity"
+            }
+        ],
+        "http://dbpedia.org/property/bgcolour": [
+            {
+                "type": "literal",
+                "value": "{default}",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Viscosity?oldid=745210955"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.thermexcel.com/english/tables/eau_atm.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://glassproperties.com/viscosity/ViscosityMeasurement.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.diracdelta.co.uk/science/source/k/i/kinematic%20viscosity/source.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.iop.org/EJ/abstract/0953-8984/12/46/305"
+            },
+            {
+                "type": "uri",
+                "value": "http://science.fire.ustc.edu.cn/download/job.php?job=download&id=141&did=0"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidoc.org/index.php/Configuron"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.astro.uu.se/~bf/course/numhd_course/2_5_2Artificial_viscosity.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.enggcyclopedia.com/calculators/physical-properties/air-viscosity-calculator/"
+            },
+            {
+                "type": "uri",
+                "value": "http://ddbonline.ddbst.de/VogelCalculation/VogelCalculationCGI.exe"
+            },
+            {
+                "type": "uri",
+                "value": "http://web.ics.purdue.edu/~alexeenk/GDT/index.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.enggcyclopedia.com/calculators/physical-properties/gas-viscosity/"
+            },
+            {
+                "type": "uri",
+                "value": "http://webbook.nist.gov/chemistry/fluid/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.engineersedge.com/fluid_flow/fluid_data.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.epa.gov/EPA-AIR/2005/July/Day-13/a11534d.htm"
+            }
+        ],
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "literal",
+                "value": "A simulation of substances with different viscosities. The substance on the left has lower viscosity than the substance on the right",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Viscosity",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/derivations": [
+            {
+                "type": "literal",
+                "value": "\u03bc = G\u00b7t",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "La viscosit\u00e9 (du latin viscum, gui, glu) peut \u00eatre d\u00e9finie comme la r\u00e9sistance \u00e0 l'\u00e9coulement uniforme et sans turbulence se produisant dans la masse d'une mati\u00e8re. La viscosit\u00e9 dynamique correspond \u00e0 la contrainte de cisaillement qui accompagne l'existence d'un gradient de vitesse d'\u00e9coulement dans la mati\u00e8re, d'o\u00f9 l'origine du qualificatif de dynamique. Lorsque la viscosit\u00e9 augmente, la capacit\u00e9 du fluide \u00e0 s'\u00e9couler diminue. Pour un liquide (au contraire d'un gaz), la viscosit\u00e9 tend g\u00e9n\u00e9ralement \u00e0 diminuer lorsque la temp\u00e9rature augmente. On pourrait croire que la viscosit\u00e9 d'un fluide s'accro\u00eet avec sa densit\u00e9 mais ce n'est pas n\u00e9cessairement le cas : l'huile est moins dense que l'eau (huile de colza : 0,92 \u00e0 20 \u00b0C, contre 1 pour l'eau) cependant elle est nettement plus visqueuse. On classe notamment les huiles m\u00e9caniques selon leur viscosit\u00e9, en fonction des besoins de lubrification du moteur et des temp\u00e9ratures auxquelles l'huile sera soumise lors du fonctionnement du moteur.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "La viscosidad de un fluido es una medida de su resistencia a las deformaciones graduales producidas por tensiones cortantes o tensiones de tracci\u00f3n. La viscosidad se corresponde con el concepto informal de \"espesor\". Por ejemplo, la miel tiene una viscosidad mucho mayor que el agua. La viscosidad es una propiedad f\u00edsica caracter\u00edstica de todos los fluidos que emerge de las colisiones entre las part\u00edculas del fluido que se mueven a diferentes velocidades, provocando una resistencia a su movimiento. Cuando un fluido se mueve forzado por un tubo, las part\u00edculas que componen el fluido se mueven m\u00e1s r\u00e1pido cerca del eje longitudinal del tubo, y m\u00e1s lentas cerca de las paredes. Por lo tanto, es necesario que exista una tensi\u00f3n cortante (como una diferencia de presi\u00f3n) para sobrepasar la resistencia de fricci\u00f3n entre las capas del l\u00edquido, y que el fluido se siga moviendo por el tubo. Para un mismo perfil radial de velocidades, la tensi\u00f3n requerida es proporcional a la viscosidad del fluido. Un fluido que no tiene viscosidad se llama fluido ideal. La viscosidad nula solamente aparece en superfluidos a temperaturas muy bajas. El resto de fluidos conocidos presentan algo de viscosidad. Sin embargo, el modelo de viscosidad nula es una aproximaci\u00f3n bastante buena para ciertas aplicaciones. La viscosidad de algunos fluidos se mide experimentalmente con viscos\u00edmetros y re\u00f3metros. La parte de la f\u00edsica que estudia las propiedades viscosas de los fluidos es la reolog\u00eda.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Lepko\u015b\u0107 (wiskoza) \u2013 w\u0142a\u015bciwo\u015b\u0107 p\u0142yn\u00f3w i plastycznych cia\u0142 sta\u0142ych charakteryzuj\u0105ca ich tarcie wewn\u0119trzne wynikaj\u0105ce z przesuwania si\u0119 wzgl\u0119dem siebie warstw p\u0142ynu podczas przep\u0142ywu (nie jest to natomiast op\u00f3r przeciw p\u0142yni\u0119ciu powstaj\u0105cy na granicy p\u0142ynu i \u015bcianek naczynia). Lepko\u015b\u0107 jest jedn\u0105 z najwa\u017cniejszych cech p\u0142yn\u00f3w (cieczy i gaz\u00f3w). Inne znaczenie s\u0142owa \"lepko\u015b\u0107\" odnosi si\u0119 do \"czepno\u015bci\" \u2013 terminu stosowanego w dziedzinie klej\u00f3w. Zgodnie z laminarnym modelem przep\u0142ywu lepko\u015b\u0107 wynika ze zdolno\u015bci p\u0142ynu do przekazywania p\u0119du pomi\u0119dzy warstwami poruszaj\u0105cymi si\u0119 z r\u00f3\u017cnymi pr\u0119dko\u015bciami. R\u00f3\u017cnice w pr\u0119dko\u015bciach warstw s\u0105 charakteryzowane w modelu laminarnym przez szybko\u015b\u0107 \u015bcinania. Przekazywanie p\u0119du zachodzi dzi\u0119ki pojawieniu si\u0119 na granicy tych warstw napr\u0119\u017ce\u0144 \u015bcinaj\u0105cych. Wspomniane warstwy s\u0105 poj\u0119ciem hipotetycznym, w rzeczywisto\u015bci zmiana pr\u0119dko\u015bci zachodzi w spos\u00f3b ci\u0105g\u0142y (zobacz: gradient), a napr\u0119\u017cenia mo\u017cna okre\u015bli\u0107 w ka\u017cdym punkcie p\u0142ynu. Model laminarny lepko\u015bci zawodzi te\u017c przy przep\u0142ywie turbulentnym, powstaj\u0105cym np. na granicy p\u0142ynu i \u015bcianek naczynia. Dla przep\u0142ywu turbulentnego jak dot\u0105d nie istniej\u0105 dobre modele teoretyczne. P\u0142yn nielepki to p\u0142yn o zerowej lepko\u015bci (\u2192 nadciek\u0142o\u015b\u0107). Dziedzin\u0105 nauki zajmuj\u0105c\u0105 si\u0119 badaniami nad lepko\u015bci\u0105 jest reologia. Pomiary lepko\u015bci prowadzi si\u0119 na wiskozymetrach i reowiskozymetrach. Wsp\u00f3\u0142czynnik lepko\u015bci dynamicznej dla rozrzedzonych gaz\u00f3w doskona\u0142ych jest proporcjonalny do pierwiastka z temperatury (jest to wynikiem ruchu cz\u0105steczek gaz\u00f3w), a nie zale\u017cy od ci\u015bnienia. Dla cieczy wsp\u00f3\u0142czynnik ten jest odwrotnie proporcjonalny do temperatury, a ro\u015bnie wraz ze wzrostem ci\u015bnienia (jest to spowodowane oddzia\u0142ywaniem mi\u0119dzycz\u0105steczkowym).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Nell'ambito dei fenomeni di trasporto la viscosit\u00e0 \u00e8 una grandezza fisica che indica la resistenza di un fluido allo scorrimento. Si tratta in altri termini del coefficiente di scambio di quantit\u00e0 di moto. La viscosit\u00e0 viene solitamente indicata con la lettera greca \u03bc o pi\u00f9 raramente con la lettera \u03b7 per richiamare il collegamento con il coefficiente di attrito della meccanica classica. Viene detta spesso viscosit\u00e0 dinamica per distinguerla dalla viscosit\u00e0 cinematica, che \u00e8 una grandezza simile alla viscosit\u00e0 dinamica, ma dimensionalmente differente. Si definisce inoltre fluidit\u00e0 la grandezza reciproca della viscosit\u00e0.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Viscositeit of stroperigheid is een fysische materiaaleigenschap, die de traagvloeibaarheid of stroperigheid van een vloeistof of van een gas weergeeft. Preciezer uitgedrukt: het is de eigenschap van een flu\u00efdum die aangeeft in welke mate deze weerstand biedt tegen vervorming door schuifspanning. Zo is water een voorbeeld van een vloeistof met een lage viscositeit, honing een voorbeeld van een vloeistof met een hoge viscositeit. Vloeistoffen met een hoge viscositeit worden viskeus genoemd. Het vloeigedrag van stoffen wordt bestudeerd in de reologie. De naam viscositeit is afgeleid van de Latijnse naam voor de maretak, viscum album, waarvan in vroegere tijden vogellijm werd gemaakt.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Die Viskosit\u00e4t ist ein Ma\u00df f\u00fcr die Z\u00e4hfl\u00fcssigkeit eines Fluids. Der Kehrwert der Viskosit\u00e4t ist die Fluidit\u00e4t, ein Ma\u00df f\u00fcr die Flie\u00dff\u00e4higkeit eines Fluids. Je gr\u00f6\u00dfer die Viskosit\u00e4t, desto dickfl\u00fcssiger (weniger flie\u00dff\u00e4hig) ist das Fluid; je niedriger die Viskosit\u00e4t, desto d\u00fcnnfl\u00fcssiger (flie\u00dff\u00e4higer) ist es, kann also bei gleichen Bedingungen schneller flie\u00dfen. Normalerweise wird mit dem Begriff Viskosit\u00e4t die Viskosit\u00e4t in Scherung verbunden, es ist allerdings auch m\u00f6glich, die Viskosit\u00e4t in Dehnung zu messen, siehe dazu die Seite Dehnviskosit\u00e4t. Teilchen z\u00e4her Fl\u00fcssigkeiten sind st\u00e4rker aneinander gebunden und somit weniger beweglich; man spricht daher auch von der inneren Reibung. Sie resultiert nicht nur aus den Anziehungskr\u00e4ften zwischen den Teilchen des Fluids (Koh\u00e4sion). Die Viskosit\u00e4t von Feststoffen ist generell sehr hoch (und damit schwer bestimmbar), stattdessen werden h\u00e4ufig Begriffe wie Duktilit\u00e4t, Spr\u00f6digkeit und Plastizit\u00e4t verwendet. In der Rheologie stellt die Viskosit\u00e4t eine zentrale Gr\u00f6\u00dfe dar. Sie hat Bedeutung in praktisch allen Bereichen, wo Fluide eingesetzt werden oder vorkommen, also z. B. bei Farben, Lacken, Schmierstoffen, Kunststoffen, Klebstoffen, Lebensmitteln wie Teige und Puddings, aber auch in der Medizin (Blut). Der Begriff Viskosit\u00e4t geht auf den typisch z\u00e4hfl\u00fcssigen Saft der Beeren in der Pflanzengattung Misteln (Viscum) zur\u00fcck. Aus diesen Misteln wurde der Vogelleim gewonnen. \u201eViskos\u201c bedeutet also \u201ez\u00e4h wie Vogelleim\u201c.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "A viscosidade \u00e9 a propriedade dos fluidos correspondente ao transporte microsc\u00f3pico de quantidade de movimento por difus\u00e3o molecular. Ou seja, quanto maior a viscosidade, menor ser\u00e1 a velocidade em que o fluido se movimenta.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u9ecf\u5ea6\uff0c\u662f\u9ecf\u6027\u7684\u7a0b\u5ea6\uff0c\u662f\u6750\u6599\u7684\u9996\u8981\u529f\u80fd\uff0c\u4e5f\u79f0\u52a8\u529b\u7c98\u5ea6\u3001\u7c98\uff08\u6ede\uff09\u6027\u7cfb\u6570\u3001\u5185\u6469\u64e6\u7cfb\u6570\u3002\u4e0d\u540c\u7269\u8d28\u7684\u9ecf\u5ea6\u4e0d\u540c\uff0c\u4f8b\u5982\u5728\u5e38\u6e29\uff0820\u2103\uff09\u53ca\u5e38\u538b\u4e0b\uff0c\u7a7a\u6c14\u7684\u9ecf\u5ea6\u4e3a0.018mPa\u00b7s(10^-5)\uff0c\u6c7d\u6cb9\u4e3a0.65mPa\u00b7s\uff0c\u6c34\u4e3a1 mPa\u00b7s\uff0c\u8840\u6db2\uff0837\u2103\uff09\u4e3a4\uff5e15mPa\u00b7s\uff0c\u6a44\u6984\u6cb9\u4e3a102 mPa\u00b7s\uff0c\u84d6\u9ebb\u6cb9\u4e3a103 mPa\u00b7s\uff0c\u8702\u871c\u4e3a104mPa\u00b7s\uff0c\u7126\u6cb9\u4e3a106 mPa\u00b7s\uff0c\u6ca5\u9752\u4e3a108 mPa\u00b7s\uff0c\u7b49\u7b49\u3002\u6700\u666e\u901a\u7684\u6db2\u4f53\u9ecf\u5ea6\u5927\u81f4\u57281\uff5e1000 m Pa\u00b7s\uff0c\u6c14\u4f53\u7684\u9ecf\u5ea6\u5927\u81f4\u57281\uff5e10\u03bcPa\u00b7s\u3002\u7cca\u72b6\u7269\u3001\u51dd\u80f6\u3001\u4e73\u6db2\u548c\u5176\u4ed6\u590d\u6742\u7684\u6db2\u4f53\u5c31\u4e0d\u597d\u8bf4\u4e86\u3002\u4e00\u4e9b\u50cf\u9ec4\u6cb9\u6216\u4eba\u9020\u9ec4\u6cb9\u7684\u8102\u80aa\u5f88\u9ecf\uff0c\u66f4\u50cf\u8f6f\u7684\u56fa\u4f53\uff0c\u800c\u4e0d\u662f\u6d41\u52a8\u6db2\u4f53\u3002 \u9ecf\u6eef\u529b\u662f\u6d41\u9ad4\u53d7\u5230\u526a\u61c9\u529b\u8b8a\u5f62\u6216\u62c9\u4f38\u61c9\u529b\u6642\u6240\u7522\u751f\u7684\u963b\u529b\u3002\u5728\u65e5\u5e38\u751f\u6d3b\u65b9\u9762\uff0c\u9ecf\u6eef\u50cf\u662f\u300c\u9ecf\u7a20\u5ea6\u300d\u6216\u300c\u6d41\u9ad4\u5167\u7684\u6469\u64e6\u529b\u300d\u3002\u56e0\u6b64\uff0c\u6c34\u662f\u300c\u7a00\u8584\u300d\u7684\uff0c\u5177\u6709\u8f03\u4f4e\u7684\u9ecf\u6eef\u529b\uff0c\u800c\u8702\u871c\u662f\u300c\u6fc3\u7a20\u300d\u7684\uff0c\u5177\u6709\u8f03\u9ad8\u7684\u9ecf\u6eef\u529b\u3002\u7c21\u55ae\u5730\u8aaa\uff0c\u9ecf\u6eef\u529b\u8d8a\u4f4e\uff08\u9ecf\u6eef\u4fc2\u6578\u4f4e\uff09\u7684\u6d41\u9ad4\uff0c\u6d41\u52d5\u6027\u8d8a\u4f73\u3002 \u9ecf\u6eef\u529b\u662f\u7c98\u6027\u6db2\u9ad4\u5167\u90e8\u7684\u4e00\u7a2e\u6d41\u52d5\u963b\u529b\uff0c\u4e26\u53ef\u80fd\u88ab\u8a8d\u70ba\u662f\u6d41\u9ad4\u81ea\u8eab\u7684\u6469\u64e6\u3002\u9ecf\u6eef\u529b\u4e3b\u8981\u4f86\u81ea\u5206\u5b50\u9593\u76f8\u4e92\u7684\u5438\u5f15\u529b\u3002\u4f8b\u5982\uff0c\u9ad8\u7c98\u5ea6\u9178\u6027\u7194\u5ca9\u7522\u751f\u7684\u706b\u5c71\u901a\u5e38\u70ba\u9ad8\u800c\u9661\u5ced\u7684\u9310\u72c0\u706b\u5c71\uff0c\u56e0\u70ba\u5176\u7194\u5ca9\u6fc3\u7a20\uff0c\u5728\u5176\u51b7\u537b\u4e4b\u524d\u7121\u6cd5\u6d41\u81f3\u9060\u8ddd\u96e2\u56e0\u800c\u4e0d\u65b7\u5411\u4e0a\u7d2f\u52a0\uff1b\u800c\u9ecf\u6eef\u529b\u4f4e\u7684\u9382\u9435\u8cea\u7194\u5ca9\u5c07\u5efa\u7acb\u4e00\u500b\u5927\u898f\u6a21\u3001\u6dfa\u50be\u7684\u659c\u76fe\u72c0\u706b\u5c71\u3002\u6240\u6709\u771f\u6b63\u7684\u6d41\u9ad4\uff08\u9664\u8d85\u6d41\u9ad4\uff09\u6709\u4e00\u5b9a\u7684\u6297\u58d3\u529b\uff0c\u56e0\u6b64\u6709\u7c98\u6027\u3002 \u6c92\u6709\u963b\u529b\u5c0d\u6297\u526a\u5207\u61c9\u529b\u7684\u6d41\u9ad4\u88ab\u7a31\u70ba\u7406\u60f3\u6d41\u9ad4\u6216\u7121\u7c98\u6d41\u9ad4\u3002 \u9ecf\u5ea6 \u5b9a\u7fa9\u70ba\u6d41\u9ad4\u627f\u53d7\u526a\u61c9\u529b\u6642\uff0c\u526a\u61c9\u529b\u8207\u526a\u61c9\u8b8a\u68af\u5ea6\uff08\u526a\u61c9\u8b8a\u96a8\u4f4d\u7f6e\u7684\u8b8a\u5316\u7387\uff09\u7684\u6bd4\u503c\uff0c\u6570\u5b66\u8868\u8ff0\u4e3a\uff1a \u5f0f\u4e2d\uff1a \u4e3a\u526a\u5e94\u529b\uff0c \u4e3a\u901f\u5ea6\u573a\u5728 \u65b9\u5411\u7684\u5206\u91cf\uff0c \u4e3a\u4e0e \u5782\u76f4\u7684\u65b9\u5411\u5750\u6807\u3002 \u9ecf\u5ea6\u8f03\u9ad8\u7684\u7269\u8cea\uff0c\u6bd4\u8f03\u4e0d\u5bb9\u6613\u6d41\u52d5\uff1b\u800c\u9ecf\u5ea6\u8f03\u4f4e\u7684\u7269\u8cea\uff0c\u6bd4\u8f03\u5bb9\u6613\u6d41\u52d5\u3002\u4f8b\u5982\u6cb9\u7684\u9ecf\u5ea6\u8f03\u9ad8\uff0c\u56e0\u6b64\u4e0d\u5bb9\u6613\u6d41\u52d5\uff1b\u800c\u6c34\u9ecf\u5ea6\u8f03\u4f4e\uff0c\u4e0d\u4f46\u5bb9\u6613\u6d41\u52d5\uff0c\u5012\u6c34\u6642\u9084\u6703\u51fa\u73fe\u6c34\u82b1\uff0c\u5012\u6cb9\u6642\u5c31\u4e0d\u6703\u51fa\u73fe\u985e\u4f3c\u7684\u73fe\u8c61\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u0647\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \u0645\u0627\u0626\u0639 \u0645\u0627 \u0644\u0644\u062c\u0631\u064a\u0627\u0646\u060c \u0648\u0645\u0642\u062f\u0627\u0631 \u0645\u0642\u0627\u0648\u0645\u062a\u0647 \u0644\u0636\u063a\u0637 \u064a\u062c\u0628\u0631\u0647 \u0639\u0644\u0649 \u0627\u0644\u062a\u062d\u0631\u0643 \u0648\u0627\u0644\u0633\u064a\u0644\u0627\u0646. \u0643\u0644\u0645\u0627 \u0632\u0627\u062f\u062a \u0644\u0632\u0648\u062c\u0629 \u0645\u0627\u0626\u0639 \u0645\u0627\u060c \u0642\u0644\u0651\u062a \u0642\u0627\u0628\u0644\u064a\u062a\u0647 \u0644\u0644\u062c\u0631\u064a\u0627\u0646. \u0648\u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0644\u0633\u0648\u0627\u0626\u0644\u060c \u0641\u0625\u0646 \u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u062a\u0643\u0627\u0641\u0626 \u0627\u0644\u0645\u0635\u0637\u0644\u062d \u0627\u0644\u062f\u0627\u0631\u062c \u0628\u0640\"\u0627\u0644\u062b\u062e\u0627\u0646\u0629\". \u0641\u0627\u0644\u0639\u0633\u0644 \u062b\u062e\u0646 \u0639\u0627\u0644 \u0627\u0644\u0644\u0632\u0648\u062c\u0629\u060c \u0648\u0627\u0644\u0645\u0627\u0621 \u0633\u0644\u0633 \u062f\u0646\u064a \u0627\u0644\u0644\u0632\u0648\u062c\u0629. \u062a\u0643\u0648\u0646 \u062c\u0632\u0626\u064a\u0627\u062a \u0633\u0627\u0626\u0644 \u0639\u0627\u0644\u064a \u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0628\u0639\u0636\u0647\u0627 \u0628\u0634\u0643\u0644 \u0642\u0648\u064a\u060c \u0648\u0628\u0630\u0644\u0643 \u062a\u0643\u0648\u0646 \u0623\u0642\u0644 \u0642\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u062a\u062d\u0631\u0643. \u0648\u064a\u0643\u0628\u0631 \u0627\u062d\u062a\u0643\u0627\u0643\u0647\u0627 \u0628\u0627\u0644\u062c\u0633\u0645 \u0627\u0644\u0635\u0644\u0628 \u0627\u0644\u0645\u0644\u0627\u0645\u0633 \u0644\u0647\u0627\u060c \u0648\u064a\u0645\u0643\u0646 \u0648\u0635\u0641 \u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u0628\u0623\u0646\u0647\u0627 \u0627\u062d\u062a\u0643\u0627\u0643 \u062f\u0627\u062e\u0644\u064a  \u0628\u064a\u0646 \u062c\u0632\u064a\u0626\u0627\u062a \u0627\u0644\u0633\u0627\u0626\u0644. \u0646\u0644\u0645\u0633 \u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u0641\u064a \u062d\u064a\u0627\u062a\u0646\u0627 \u0627\u0644\u064a\u0648\u0645\u064a\u0629 \u0645\u062b\u0644 \u0633\u0642\u0648\u0637 \u0645\u0644\u0639\u0642\u0629 \u0641\u064a \u0639\u0633\u0644 \u0627\u0644\u0646\u062d\u0644 \u0623\u0648 \u0633\u0642\u0648\u0637 \u0642\u0637\u0639\u0629 \u062d\u062f\u064a\u062f \u0641\u064a \u0642\u0637\u0631\u0627\u0646 \u060c \u0648\u0643\u0630\u0644\u0643 \u062c\u0631\u064a\u0627\u0646 \u0627\u0644\u0645\u0627\u0621 \u062f\u0627\u062e\u0644 \u0623\u0646\u0627\u0628\u064a\u0628 \u0627\u0644\u0645\u064a\u0627\u0647 \u060c \u0645\u0627 \u064a\u062d\u062f\u062b \u0623\u062b\u0646\u0627\u0621 \u0630\u0644\u0643 \u0645\u0646 \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u062d\u0631\u0643\u0629 \u0645\u062a\u0639\u0644\u0642 \u0628\u0644\u0632\u0648\u062c\u0629 \u0627\u0644\u0633\u0627\u0626\u0644. \u0648 \u0647\u064a \u062e\u0627\u0635\u064a\u0647 \u0645\u0647\u0645\u0647 \u0645\u0646 \u062e\u0635\u0627\u0626\u0635 \u0627\u0644\u0645\u0648\u0627\u0626\u0639 \u0648\u0628\u0647\u0627 \u064a\u0642\u0627\u0648\u0645 \u0627\u0644\u0645\u0627\u0626\u0639 \u0627\u0644\u062a\u063a\u064a\u0631 \u0641\u064a \u0627\u0644\u0634\u0643\u0644 \u0627\u0644\u0646\u0627\u062a\u062c \u0645\u0646 \u062a\u0623\u062b\u064a\u0631 \u0642\u0648\u0649 \u0627\u0644\u0642\u0635 \u0627\u0644\u0645\u0624\u062b\u0631\u0647 \u0639\u0644\u064a\u0647.\u0641\u0625\u0630\u0627 \u0627\u0641\u062a\u0631\u0636\u0646\u0627 \u0648\u062c\u0648\u062f \u0637\u0628\u0642\u0647 \u0645\u0646 \u0627\u0644\u0645\u0627\u0626\u0639 \u0628\u064a\u0646 \u0644\u0648\u062d\u064a\u0646 \u0645\u0633\u062a\u0648\u064a\u064a\u0646 \u0645\u062a\u0648\u0627\u0632\u064a\u064a\u0646 \u0643\u0645\u0627 \u0628\u0627\u0644\u0634\u0643\u0644 \u0628\u062d\u064a\u062b \u064a\u062b\u0628\u062a \u0627\u0644\u0644\u0648\u062d \u0627\u0644\u0633\u0641\u0644\u0649 \u0648\u064a\u062a\u062d\u0631\u0643 \u0627\u0644\u0639\u0644\u0648\u0649 \u0628\u0633\u0631\u0639\u0647 \u062a\u062d\u062a \u062a\u0623\u062b\u064a\u0631 \u0627\u0644\u0642\u0648\u0629 \u0646\u0641\u0631\u0642 \u0639\u0645\u0644\u064a\u0627 \u0628\u064a\u0646 \u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u0627\u0644\u062f\u064a\u0646\u0627\u0645\u064a\u0629 (\u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u0627\u0644\u062d\u0631\u0643\u064a\u0629) \u0644\u0644\u0645\u0627\u0626\u0639 \u0648\u0627\u0644\u0644\u0632\u0648\u062c\u0629 \u0627\u0644\u0643\u064a\u0646\u0645\u0627\u062a\u064a\u0629:",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u044f\u0301\u0437\u043a\u043e\u0441\u0442\u044c (\u0432\u043d\u0443\u0301\u0442\u0440\u0435\u043d\u043d\u0435\u0435 \u0442\u0440\u0435\u0301\u043d\u0438\u0435) \u2014 \u043e\u0434\u043d\u043e \u0438\u0437 \u044f\u0432\u043b\u0435\u043d\u0438\u0439 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0430, \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u043e \u0442\u0435\u043a\u0443\u0447\u0438\u0445 \u0442\u0435\u043b (\u0436\u0438\u0434\u043a\u043e\u0441\u0442\u0435\u0439 \u0438 \u0433\u0430\u0437\u043e\u0432) \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0435\u043d\u0438\u044e \u043e\u0434\u043d\u043e\u0439 \u0438\u0445 \u0447\u0430\u0441\u0442\u0438 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0434\u0440\u0443\u0433\u043e\u0439. \u0412 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0440\u0430\u0431\u043e\u0442\u0430, \u0437\u0430\u0442\u0440\u0430\u0447\u0438\u0432\u0430\u0435\u043c\u0430\u044f \u043d\u0430 \u044d\u0442\u043e \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0435\u043d\u0438\u0435, \u0440\u0430\u0441\u0441\u0435\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0432\u0438\u0434\u0435 \u0442\u0435\u043f\u043b\u0430. \u041c\u0435\u0445\u0430\u043d\u0438\u0437\u043c \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0433\u043e \u0442\u0440\u0435\u043d\u0438\u044f \u0432 \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u044f\u0445 \u0438 \u0433\u0430\u0437\u0430\u0445 \u0437\u0430\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e \u0445\u0430\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0434\u0432\u0438\u0436\u0443\u0449\u0438\u0435\u0441\u044f \u043c\u043e\u043b\u0435\u043a\u0443\u043b\u044b \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u044f\u0442 \u0438\u043c\u043f\u0443\u043b\u044c\u0441 \u0438\u0437 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u043b\u043e\u044f \u0432 \u0434\u0440\u0443\u0433\u043e\u0439, \u0447\u0442\u043e \u043f\u0440\u0438\u0432\u043e\u0434\u0438\u0442 \u043a \u0432\u044b\u0440\u0430\u0432\u043d\u0438\u0432\u0430\u043d\u0438\u044e \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u0435\u0439 \u2014 \u044d\u0442\u043e \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c \u0441\u0438\u043b\u044b \u0442\u0440\u0435\u043d\u0438\u044f. \u0412\u044f\u0437\u043a\u043e\u0441\u0442\u044c \u0442\u0432\u0451\u0440\u0434\u044b\u0445 \u0442\u0435\u043b \u043e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0440\u044f\u0434\u043e\u043c \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u0435\u0439 \u0438 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043e\u0431\u044b\u0447\u043d\u043e \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e. \u0420\u0430\u0437\u043b\u0438\u0447\u0430\u044e\u0442 \u0434\u0438\u043d\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0432\u044f\u0437\u043a\u043e\u0441\u0442\u044c (\u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0432 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0435\u0434\u0438\u043d\u0438\u0446 (\u0421\u0418) \u2014 \u041f\u0430\u00b7\u0441, \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0421\u0413\u0421 \u2014 \u043f\u0443\u0430\u0437; 1 \u041f\u0430\u00b7\u0441 = 10 \u043f\u0443\u0430\u0437) \u0438 \u043a\u0438\u043d\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0432\u044f\u0437\u043a\u043e\u0441\u0442\u044c (\u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0432 \u0421\u0418 \u2014 \u043c\u00b2/\u0441, \u0432 \u0421\u0413\u0421 \u2014 \u0441\u0442\u043e\u043a\u0441, \u0432\u043d\u0435\u0441\u0438\u0441\u0442\u0435\u043c\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u2014 \u0433\u0440\u0430\u0434\u0443\u0441 \u042d\u043d\u0433\u043b\u0435\u0440\u0430). \u041a\u0438\u043d\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0432\u044f\u0437\u043a\u043e\u0441\u0442\u044c \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0430 \u043a\u0430\u043a \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u0434\u0438\u043d\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0432\u044f\u0437\u043a\u043e\u0441\u0442\u0438 \u043a \u043f\u043b\u043e\u0442\u043d\u043e\u0441\u0442\u0438 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u0438 \u0441\u0432\u043e\u0438\u043c \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435\u043c \u043e\u0431\u044f\u0437\u0430\u043d\u0430 \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043c\u0435\u0442\u043e\u0434\u0430\u043c \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0432\u044f\u0437\u043a\u043e\u0441\u0442\u0438, \u0442\u0430\u043a\u0438\u043c \u043a\u0430\u043a \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0432\u044b\u0442\u0435\u043a\u0430\u043d\u0438\u044f \u0437\u0430\u0434\u0430\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u044a\u0451\u043c\u0430 \u0447\u0435\u0440\u0435\u0437 \u043a\u0430\u043b\u0438\u0431\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u043e\u0442\u0432\u0435\u0440\u0441\u0442\u0438\u0435 \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u0441\u0438\u043b\u044b \u0442\u044f\u0436\u0435\u0441\u0442\u0438. \u041f\u0440\u0438\u0431\u043e\u0440 \u0434\u043b\u044f \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0432\u044f\u0437\u043a\u043e\u0441\u0442\u0438 \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0441\u043a\u043e\u0437\u0438\u043c\u0435\u0442\u0440\u043e\u043c. \u041f\u0435\u0440\u0435\u0445\u043e\u0434 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u0438\u0437 \u0436\u0438\u0434\u043a\u043e\u0433\u043e \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u044f \u0432 \u0441\u0442\u0435\u043a\u043b\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u043e\u0435 \u043e\u0431\u044b\u0447\u043d\u043e \u0441\u0432\u044f\u0437\u044b\u0432\u0430\u044e\u0442 \u0441 \u0434\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u0435\u043c \u0432\u044f\u0437\u043a\u043e\u0441\u0442\u0438 \u043f\u043e\u0440\u044f\u0434\u043a\u0430 1011\u22121012 \u041f\u0430\u00b7\u0441.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "The viscosity of a fluid is a measure of its resistance to gradual deformation by shear stress or tensile stress. For liquids, it corresponds to the informal concept of \"thickness\"; for example, honey has a much higher viscosity than water. Viscosity is a property arising from collisions between neighboring particles in a fluid that are moving at different velocities. When the fluid is forced through a tube, the particles which compose the fluid generally move more quickly near the tube's axis and more slowly near its walls; therefore some stress (such as a pressure difference between the two ends of the tube) is needed to overcome the friction between particle layers to keep the fluid moving. For a given velocity pattern, the stress required is proportional to the fluid's viscosity. A fluid that has no resistance to shear stress is known as an ideal or inviscid fluid. Zero viscosity is observed only at very low temperatures in superfluids. Otherwise, all fluids have positive viscosity, and are technically said to be viscous or viscid. In common parlance, however, a liquid is said to be viscous if its viscosity is substantially greater than that of water, and may be described as mobile if the viscosity is noticeably less than water. A fluid with a relatively high viscosity, such as pitch, may appear to be a solid.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u7c98\u5ea6\uff08\u306d\u3093\u3069\u3001\u30c9\u30a4\u30c4\u8a9e: Viskosit\u00e4t\u3001\u30d5\u30e9\u30f3\u30b9\u8a9e: viscosit\u00e9\u3001\u82f1\u8a9e: viscosity\uff09\u306f\u3001\u7269\u8cea\u306e\u306d\u3070\u308a\u306e\u5ea6\u5408\u3067\u3042\u308b\u3002\u7c98\u6027\u7387\u3001\u7c98\u6027\u4fc2\u6570\u3001\u307e\u305f\u306f\uff08\u52d5\u7c98\u5ea6\u3068\u533a\u5225\u3059\u308b\u969b\u306b\u306f) \u7d76\u5bfe\u7c98\u5ea6\u3068\u3082\u547c\u3076\u3002\u4e00\u822c\u306b\u306f\u6d41\u4f53\u304c\u6301\u3064\u6027\u8cea\u3068\u3055\u308c\u308b\u304c\u3001\u7c98\u5f3e\u6027\u306a\u3069\u306e\u6027\u8cea\u3092\u6301\u3064\u56fa\u4f53\u3067\u3082\u7528\u3044\u3089\u308c\u308b\u3002 \u91cf\u8a18\u53f7\u306b\u306f\u03bc\u307e\u305f\u306f\u03b7\u304c\u7528\u3044\u3089\u308c\u308b\u3002SI\u5358\u4f4d\u306fPa\u00b7s\uff08\u30d1\u30b9\u30ab\u30eb\u79d2\uff09\u3067\u3042\u308b\u3002CGS\u5358\u4f4d\u7cfb\u3067\u306fP\uff08\u30dd\u30a2\u30ba\uff09\u304c\u7528\u3044\u3089\u308c\u305f\u3002cm2/s = 10\u22124m2/s = 1 St\uff08\u30b9\u30c8\u30fc\u30af\u30b9\uff09\u3082\u4f7f\u308f\u308c\u308b\uff08\u5373\u3061\u30011 mm2/s = 1 cSt\uff08\u30bb\u30f3\u30c1\u30b9\u30c8\u30fc\u30af\u30b9\uff09\uff09\u3002\u5de5\u696d\u7684\u306b\u306f\u30bb\u30a4\u30dc\u30eb\u30c8\u79d2\u3082\u4f7f\u308f\u308c\u308b\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Viscosities.gif?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 745210955,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 18963754,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Measure"
+            }
+        ],
+        "http://dbpedia.org/property/unit": [
+            {
+                "type": "literal",
+                "value": "Pa\u00b7s = /m2 = kg/",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Poligeenan": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shear_Viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Centistoke": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Viscocity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Inviscid": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Viscosity_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Viscous_forces": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Heating_oil": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kinematic_viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Viscous_Force": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Consistency_-_thickness,_viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Viscosity": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Inviscid_fluids": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rhe": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pascal-second": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Viscosity_of_amorphous_materials": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Eddy_Viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bulk_Viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sutherland's_formula": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pa\u00b7s": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pa*s": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Stokes_(unit)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Viscous": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shear_stress": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dynamic_viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Coefficient_of_Viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dynamic_Viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Viscosities": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shear_viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kinematic_Viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Absolute_viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dynamic_kinematic_viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/CST": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Eddy_viscosity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Millipoiseuille": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Viscous_shear": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Centistokes": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Viscosity"
+            }
+        ]
+    }
+}

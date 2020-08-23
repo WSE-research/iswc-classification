@@ -1,0 +1,46 @@
+{
+    "@text": "Was Charles Barkley a member of the Los Angeles Clippers and Auburn Tigers men's basketball sports team?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Charles_Barkley",
+            "@support": "627",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q3665646,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:BasketballPlayer,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Barkley",
+            "@offset": "12",
+            "@similarityScore": "0.9999988702703733",
+            "@percentageOfSecondRank": "1.1294963720977926E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Los_Angeles_Clippers",
+            "@support": "3147",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:BasketballTeam,DBpedia:Agent",
+            "@surfaceForm": "Los Angeles Clippers",
+            "@offset": "36",
+            "@similarityScore": "0.9999999999939178",
+            "@percentageOfSecondRank": "1.4301453867710559E-12"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Auburn_Tigers_men's_basketball",
+            "@support": "231",
+            "@types": "",
+            "@surfaceForm": "Auburn Tigers",
+            "@offset": "61",
+            "@similarityScore": "0.736900018076705",
+            "@percentageOfSecondRank": "0.3399791516808315"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Basketball",
+            "@support": "84173",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "basketball",
+            "@offset": "81",
+            "@similarityScore": "0.9949308181893598",
+            "@percentageOfSecondRank": "0.005091932447132163"
+        }
+    ]
+}

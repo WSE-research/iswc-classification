@@ -1,0 +1,28 @@
+{
+    "@text": "What is the street address for the AT&T headquarters in Dallas?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/AT&T",
+            "@support": "4410",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "AT&T",
+            "@offset": "35",
+            "@similarityScore": "0.9330602934691318",
+            "@percentageOfSecondRank": "0.06422589136156946"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Dallas",
+            "@support": "27285",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Dallas",
+            "@offset": "56",
+            "@similarityScore": "0.998010142701579",
+            "@percentageOfSecondRank": "0.0011141700531246555"
+        }
+    ]
+}

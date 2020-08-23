@@ -1,0 +1,37 @@
+{
+    "@text": "Wich means{conjugate base} in {ammonium cation} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Conjugate_acid",
+            "@support": "346",
+            "@types": "",
+            "@surfaceForm": "conjugate base",
+            "@offset": "11",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ammonium",
+            "@support": "1130",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "ammonium",
+            "@offset": "31",
+            "@similarityScore": "0.9996950991052321",
+            "@percentageOfSecondRank": "2.5996436091690444E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ion",
+            "@support": "9321",
+            "@types": "",
+            "@surfaceForm": "cation",
+            "@offset": "40",
+            "@similarityScore": "0.9999999992285922",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

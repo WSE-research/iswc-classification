@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the museum for the parent organization of the Smithsonian Institution?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Museum",
+            "@support": "19971",
+            "@types": "",
+            "@surfaceForm": "museum",
+            "@offset": "13",
+            "@similarityScore": "0.999694426016608",
+            "@percentageOfSecondRank": "2.2009365301413008E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Smithsonian_Institution",
+            "@support": "9122",
+            "@types": "Wikidata:Q41176,Wikidata:Q33506,Schema:Place,DBpedia:Place,DBpedia:Museum,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Smithsonian",
+            "@offset": "55",
+            "@similarityScore": "0.9957540030839369",
+            "@percentageOfSecondRank": "0.0036588887085884213"
+        }
+    ]
+}

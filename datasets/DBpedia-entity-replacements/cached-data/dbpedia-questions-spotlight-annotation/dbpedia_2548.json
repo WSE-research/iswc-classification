@@ -1,0 +1,28 @@
+{
+    "@text": "During Star Wars Episode V: The Empire Strikes Back, what are the names of the vehicles used in the film.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Star_Wars",
+            "@support": "11776",
+            "@types": "",
+            "@surfaceForm": "Star Wars",
+            "@offset": "7",
+            "@similarityScore": "0.9999681338357052",
+            "@percentageOfSecondRank": "1.7341686314429068E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Roman_Empire",
+            "@support": "30520",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Empire",
+            "@offset": "32",
+            "@similarityScore": "0.782013577963492",
+            "@percentageOfSecondRank": "0.18521724704709824"
+        }
+    ]
+}

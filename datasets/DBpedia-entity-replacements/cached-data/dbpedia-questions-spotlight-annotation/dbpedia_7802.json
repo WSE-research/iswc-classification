@@ -1,0 +1,37 @@
+{
+    "@text": "What is the protein, found in its related taxon, in Homo sapiens?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Protein",
+            "@support": "53207",
+            "@types": "",
+            "@surfaceForm": "protein",
+            "@offset": "12",
+            "@similarityScore": "0.9999984412600822",
+            "@percentageOfSecondRank": "1.3377843448961097E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "42",
+            "@similarityScore": "0.9989942922020723",
+            "@percentageOfSecondRank": "0.0010063926760278978"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Homo_sapiens",
+            "@support": "2122",
+            "@types": "",
+            "@surfaceForm": "Homo sapiens",
+            "@offset": "52",
+            "@similarityScore": "0.9997995636448515",
+            "@percentageOfSecondRank": "1.0320940421495101E-4"
+        }
+    ]
+}

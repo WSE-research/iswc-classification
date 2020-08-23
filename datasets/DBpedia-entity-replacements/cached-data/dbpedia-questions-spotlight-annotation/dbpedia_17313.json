@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the mountain pass in the location of the Lewis and Clark Expedition?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mountain",
+            "@support": "17196",
+            "@types": "",
+            "@surfaceForm": "mountain",
+            "@offset": "13",
+            "@similarityScore": "0.9999784431878748",
+            "@percentageOfSecondRank": "1.0112361868843791E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Lewis",
+            "@support": "1529",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Lewis",
+            "@offset": "50",
+            "@similarityScore": "0.9825368664558014",
+            "@percentageOfSecondRank": "0.010559091699416816"
+        }
+    ]
+}

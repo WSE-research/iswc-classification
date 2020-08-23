@@ -1,0 +1,37 @@
+{
+    "@text": "Was Bryan Adams nominated for a Grammy for Album of the Year and a Juno for Entertainer of the Year?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Bryan_Adams",
+            "@support": "1835",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Bryan Adams",
+            "@offset": "4",
+            "@similarityScore": "0.9999999999980531",
+            "@percentageOfSecondRank": "1.83388098215575E-12"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Grammy_Award",
+            "@support": "22241",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Grammy",
+            "@offset": "32",
+            "@similarityScore": "0.9991649580625576",
+            "@percentageOfSecondRank": "6.488151433711524E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Juno_Award",
+            "@support": "2659",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Juno",
+            "@offset": "67",
+            "@similarityScore": "0.9992857152213186",
+            "@percentageOfSecondRank": "7.133655634696427E-4"
+        }
+    ]
+}

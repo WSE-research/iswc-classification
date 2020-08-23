@@ -1,0 +1,28 @@
+{
+    "@text": "\"What is the brother of Manfred von Richthofen whose burial place is Germany?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Manfred_von_Richthofen",
+            "@support": "772",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:MilitaryPerson,DBpedia:Agent",
+            "@surfaceForm": "Manfred von Richthofen",
+            "@offset": "24",
+            "@similarityScore": "0.9999999999928377",
+            "@percentageOfSecondRank": "7.135374921827817E-12"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Germany",
+            "@support": "216576",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Germany",
+            "@offset": "69",
+            "@similarityScore": "0.9942404193281277",
+            "@percentageOfSecondRank": "0.003558813556005801"
+        }
+    ]
+}

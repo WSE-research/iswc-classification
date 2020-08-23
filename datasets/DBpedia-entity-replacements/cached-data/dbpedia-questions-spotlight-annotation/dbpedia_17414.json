@@ -1,0 +1,37 @@
+{
+    "@text": "Is the Empire State Building located on Fifth Avenue and 34th street?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Roman_Empire",
+            "@support": "30520",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Empire",
+            "@offset": "7",
+            "@similarityScore": "0.5175551156516973",
+            "@percentageOfSecondRank": "0.4575133352515527"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Fifth_Avenue",
+            "@support": "2446",
+            "@types": "Wikidata:Q34442,Schema:Place,DBpedia:RouteOfTransportation,DBpedia:Road,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Fifth Avenue",
+            "@offset": "40",
+            "@similarityScore": "0.999987914311464",
+            "@percentageOfSecondRank": "1.1851456861284002E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/List_of_streets_in_Baltimore",
+            "@support": "824",
+            "@types": "",
+            "@surfaceForm": "34th street",
+            "@offset": "57",
+            "@similarityScore": "0.9997930273271881",
+            "@percentageOfSecondRank": "1.9455658768344759E-4"
+        }
+    ]
+}

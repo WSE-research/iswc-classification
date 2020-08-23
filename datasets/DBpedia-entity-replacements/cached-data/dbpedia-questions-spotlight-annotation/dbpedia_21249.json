@@ -1,0 +1,28 @@
+{
+    "@text": "City of Miami Cemetery is the governing body of which city?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Miami",
+            "@support": "28742",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Miami",
+            "@offset": "8",
+            "@similarityScore": "0.9976144483922633",
+            "@percentageOfSecondRank": "8.336371068980143E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "54",
+            "@similarityScore": "0.9054305578017326",
+            "@percentageOfSecondRank": "0.06016080379734412"
+        }
+    ]
+}

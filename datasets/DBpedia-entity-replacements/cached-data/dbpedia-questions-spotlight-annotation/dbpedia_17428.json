@@ -1,0 +1,28 @@
+{
+    "@text": "Who {died on} at {patron saint} of {dog} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Patron_saint",
+            "@support": "3170",
+            "@types": "",
+            "@surfaceForm": "patron saint",
+            "@offset": "18",
+            "@similarityScore": "0.9998995050998999",
+            "@percentageOfSecondRank": "6.151457816871728E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Dog",
+            "@support": "12528",
+            "@types": "",
+            "@surfaceForm": "dog",
+            "@offset": "36",
+            "@similarityScore": "0.9998665187409645",
+            "@percentageOfSecondRank": "5.0924348809684955E-5"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Is Lancy a city close to Geneva?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "11",
+            "@similarityScore": "0.8718436524187652",
+            "@percentageOfSecondRank": "0.07841690803093851"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Geneva",
+            "@support": "15258",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Geneva",
+            "@offset": "25",
+            "@similarityScore": "0.9883138813713144",
+            "@percentageOfSecondRank": "0.011809650008546248"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "What city is located on the mouth of Duwamish River?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "5",
+            "@similarityScore": "0.9156708287180512",
+            "@percentageOfSecondRank": "0.059359032635493275"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Duwamish_River",
+            "@support": "203",
+            "@types": "Wikidata:Q47521,Wikidata:Q4022,Schema:RiverBodyOfWater,Schema:Place,Schema:BodyOfWater,DBpedia:Stream,DBpedia:River,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "Duwamish River",
+            "@offset": "37",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

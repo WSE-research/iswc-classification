@@ -1,0 +1,37 @@
+{
+    "@text": "Who did Nelson Mandela replace as the President of South Africa?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Nelson_Mandela",
+            "@support": "4178",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q30461,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:President,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Nelson Mandela",
+            "@offset": "8",
+            "@similarityScore": "0.9999921119754194",
+            "@percentageOfSecondRank": "7.888086290573717E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+            "@support": "51563",
+            "@types": "",
+            "@surfaceForm": "President",
+            "@offset": "38",
+            "@similarityScore": "0.8142315115892325",
+            "@percentageOfSecondRank": "0.0949667092049476"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/South_Africa",
+            "@support": "77505",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "South Africa",
+            "@offset": "51",
+            "@similarityScore": "0.9948186758520744",
+            "@percentageOfSecondRank": "0.002958977473544828"
+        }
+    ]
+}

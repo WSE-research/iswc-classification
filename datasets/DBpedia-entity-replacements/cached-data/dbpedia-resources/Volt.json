@@ -1,0 +1,2336 @@
+{
+    "http://dbpedia.org/resource/Volt": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Organisation"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u4f0f\u7279",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Voltio",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Volt",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u30dc\u30eb\u30c8 (\u5358\u4f4d)",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Volt",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u043e\u043b\u044c\u0442",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Volt",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Wolt",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0641\u0648\u0644\u062a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Volt (eenheid)",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Volt",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Volt",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Wolt \u2013 jednostka potencja\u0142u elektrycznego, napi\u0119cia elektrycznego i si\u0142y elektromotorycznej, u\u017cywana w uk\u0142adach jednostek miar SI, MKS i MKSA, oznaczana V.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0641\u0648\u0644\u062a \u0647\u0648 \u0627\u0644\u0648\u062d\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u0639\u0645\u0644\u0629 \u0644\u0642\u064a\u0627\u0633 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0627\u0644\u0645\u062d\u0631\u0643\u0629 \u0623\u0648 \u0641\u0631\u0642 \u0627\u0644\u062c\u0647\u062f (\u0623\u0648 \u0627\u0644\u062a\u0648\u062a\u0631) \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u060c \u0648\u064a\u0631\u0645\u0632 \u0644\u0647 \u0628\u0627\u0644\u062d\u0631\u0641 \u0627\u0644\u0644\u0627\u062a\u064a\u0646\u064a (V)\u060c \u0627\u0633\u062a\u062e\u062f\u0645\u062a \u0647\u0630\u0647 \u0627\u0644\u0648\u062d\u062f\u0629 \u0628\u0647\u0630\u0627 \u0627\u0644\u0627\u0633\u0645 \u062a\u0643\u0631\u064a\u0645\u0627\u064b \u0644\u0644\u0639\u0627\u0644\u0645 \u0627\u0644\u0625\u064a\u0637\u0627\u0644\u064a \u0623\u0644\u0633\u0627\u0646\u062f\u0631\u0648 \u0641\u0648\u0644\u062a\u0627\u060c \u0645\u062e\u062a\u0631\u0639 \u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0639\u0627\u0645 1800 \u0645.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "The volt (symbol: V) is the derived unit for electric potential, electric potential difference (voltage), and electromotive force. The volt is named in honour of the Italian physicist Alessandro Volta (1745\u20131827), who invented the voltaic pile, possibly the first chemical battery.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Das Volt ist die im internationalen Einheitensystem (SI) f\u00fcr die elektrische Spannung verwendete Ma\u00dfeinheit. Sie wurde 1897 nach dem italienischen Physiker Alessandro Volta benannt. Als Einheitenzeichen wird der Gro\u00dfbuchstabe \u201eV\u201c verwendet. Das Volt ist eine koh\u00e4rente abgeleitete SI-Einheit, das hei\u00dft, sie ist mit den Basiseinheiten \u00fcber den numerischen Faktor Eins verbunden.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "El voltio, o volt, por s\u00edmbolo V, es la unidad derivada del Sistema Internacional para el potencial el\u00e9ctrico, la fuerza electromotriz y la tensi\u00f3n el\u00e9ctrica. Recibe su nombre en honor a Alessandro Volta, quien en 1800 invent\u00f3 la pila voltaica, la primera bater\u00eda qu\u00edmica.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "De volt (symbool van de eenheid volt is V) is de SI-eenheid voor elektrische potentiaal. De eenheid is genoemd naar de Italiaanse natuurkundige Alessandro Volta (1745-1827). Deze vond in 1800 de eerste chemische batterij, de zuil van Volta, uit. Bij een elektrische bron spreekt men van elektrische spanning of kortweg spanning als men het potentiaalverschil tussen beide polen bedoelt. Een veel gebruikte benaming voor potentiaalverschil is voltage. Uitgedrukt in SI-eenheden is dat: \n* 1,2 volt uit een oplaadbare batterij \n* 12 volt uit een autoaccu \n* 230 volt uit een wandcontactdoos \n* \n* \n*",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "O volt, ou v\u00f3ltio (s\u00edmbolo: V), \u00e9 a unidade de tens\u00e3o el\u00e9trica (diferen\u00e7a de potencial el\u00e9trico) do Sistema Internacional de Unidades. O plural do nome da unidade \u00e9 volts. O Volt \u00e9 o potencial de transmiss\u00e3o de energia, em Joules, por carga el\u00e9trica, em Coulombs, entre dois pontos distintos no espa\u00e7o. Dizer que a tens\u00e3o existente entre dois pontos corresponde a um volt, \u00e9 o mesmo que dizer que cada carga de um Coulomb que se movimenta entre tais pontos, transmite um Joule de energia. Utiliza-se a seguinte f\u00f3rmula para calcular a tens\u00e3o:",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u043e\u043b\u044c\u0442 (\u0440\u0443\u0441\u0441\u043a\u043e\u0435 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435: \u0412; \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0435: V) \u2014 \u0432 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0435\u0434\u0438\u043d\u0438\u0446 (\u0421\u0418) \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u0430, \u0440\u0430\u0437\u043d\u043e\u0441\u0442\u0438 \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u043e\u0432, \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044f \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0434\u0432\u0438\u0436\u0443\u0449\u0435\u0439 \u0441\u0438\u043b\u044b. \u041d\u0430\u0437\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0433\u043e \u0444\u0438\u0437\u0438\u043a\u0430 \u0438 \u0444\u0438\u0437\u0438\u043e\u043b\u043e\u0433\u0430 \u0410\u043b\u0435\u0441\u0441\u0430\u043d\u0434\u0440\u043e \u0412\u043e\u043b\u044c\u0442\u044b (1745\u20141827), \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0438\u0437\u043e\u0431\u0440\u0451\u043b \u043f\u0435\u0440\u0432\u0443\u044e \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0431\u0430\u0442\u0430\u0440\u0435\u044e \u2014 \u0432\u043e\u043b\u044c\u0442\u043e\u0432 \u0441\u0442\u043e\u043b\u0431 \u0438 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0441\u0432\u043e\u0438\u0445 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u043e\u0432 \u0432 1800 \u0433\u043e\u0434\u0443. 1 \u0412 = (1/300) \u0435\u0434. \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u0430 \u0421\u0413\u0421\u042d.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Il volt (simbolo: V) \u00e8 l'unit\u00e0 di misura derivata SI del potenziale elettrico e della differenza di potenziale elettrico. Ha questo nome in onore di Alessandro Volta, che nel 1799 invent\u00f2 la pila voltaica, la prima batteria elettrochimica. Negli anni 1880, l'International Electrical Congress (Congresso Elettrico Internazionale), ora International Electrotechnical Commission (IEC), approv\u00f2 il volt come unit\u00e0 di misura della forza elettromotrice. Il volt ha dimensioni fisiche J/C, oppure, usando le unit\u00e0 fondamentali del SI, di un m2 \u00b7 kg \u00b7 s\u22123 \u00b7 A\u22121",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Le volt (symbole : V) est une unit\u00e9, de force \u00e9lectromotrice et de diff\u00e9rence de potentiel (ou tension) et d\u00e9riv\u00e9e du SI. Ce nom a \u00e9t\u00e9 donn\u00e9 en hommage \u00e0 Alessandro Volta, inventeur italien de la pile volta\u00efque en 1800.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u4f0f\u7279\uff08\u82f1\u8bed\uff1avolt\uff09\u662f\u56fd\u9645\u5355\u4f4d\u5236\u4e2d\u7535\u538b\u7684\u5355\u4f4d\uff0c\u7b26\u53f7V\u3002 \u5728\u4e00\u6839\u5747\u5300\u7684\u3001\u6e29\u5ea6\u548c\u5bbd\u5ea6\u6052\u5b9a\u7684\u5bfc\u7ebf\u4e0a\u5047\u5982\u6709\u4e00\u5b89\u57f9\u7535\u6d41\u6d41\u52a8\uff0c\u90a3\u4e48\u5bfc\u7ebf\u7684\u7535\u963b\u5728\u4e00\u5b9a\u7684\u8ddd\u79bb\u5185\u53ef\u4ee5\u5c061\u74e6\uff08W\uff09\u7535\u80fd\u8f6c\u5316\u4e3a\u70ed\u80fd\uff081J/s\uff09\u3002\u8fd9\u4e2a\u8ddd\u79bb\u4e4b\u95f4\u7684\u7535\u538b\u5dee\u5c31\u88ab\u5b9a\u4e49\u4e3a\u4e00\u4f0f\u7279\uff1a \u6b64\u5355\u4f4d\u662f\u4ee5\u53d1\u660e\u7535\u6c60\u7684\u610f\u5927\u5229\u7269\u7406\u5b66\u5bb6\u2014\u2014\u4e9a\u5386\u5c71\u5fb7\u7f57\u00b7\u4f0f\u6253\u7684\u540d\u5b57\u547d\u540d\u7684\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u30dc\u30eb\u30c8\uff08volt\u3001\u8a18\u53f7\uff1aV\uff09\u306f\u3001\u96fb\u5727\u30fb\u96fb\u4f4d\u5dee\u30fb\u8d77\u96fb\u529b\u306e\u5358\u4f4d\u3067\u3042\u308b\u3002\u540d\u79f0\u306f\u3001\u30dc\u30eb\u30bf\u96fb\u6c60\u3092\u767a\u660e\u3057\u305f\u7269\u7406\u5b66\u8005\u30a2\u30ec\u30c3\u30b5\u30f3\u30c9\u30ed\u30fb\u30dc\u30eb\u30bf\u306b\u7531\u6765\u3059\u308b\u3002 1\u30dc\u30eb\u30c8\u306f\u3001\u4ee5\u4e0b\u306e\u3088\u3046\u306b\u5b9a\u7fa9\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u8868\u73fe\u306e\u4ed5\u65b9\u304c\u9055\u3046\u3060\u3051\u3067\u3001\u3044\u305a\u308c\u3082\u5024\u306f\u540c\u3058\u3067\u3042\u308b\u3002 \n*  1\u30a2\u30f3\u30da\u30a2\u306e\u96fb\u6d41\u304c\u6d41\u308c\u308b\u5c0e\u4f53\u306e2\u70b9\u9593\u306b\u304a\u3044\u3066\u6d88\u8cbb\u3055\u308c\u308b\u96fb\u529b\u304c1\u30ef\u30c3\u30c8\u3067\u3042\u308b\u3068\u304d\u306e\u3001\u305d\u306e2\u70b9\u9593\u306e\u96fb\u5727 (V = W / A) \uff08\u65e5\u672c\u306e\u8a08\u91cf\u5358\u4f4d\u4ee4\u3067\u306f\u3053\u306e\u5b9a\u7fa9\u3092\u63a1\u7528\u3057\u3066\u3044\u308b\uff09 \n*  \u5c0e\u4f53\u306e\u4e8c\u70b9\u9593\u30921\u30af\u30fc\u30ed\u30f3\u306e\u96fb\u8377\u3092\u904b\u3076\u306e\u306b1\u30b8\u30e5\u30fc\u30eb\u306e\u4ed5\u4e8b\u304c\u5fc5\u8981\u3068\u306a\u308b\u3068\u304d\u306e\u3001\u305d\u306e2\u70b9\u9593\u306e\u96fb\u5727 (V = J / C) \u56fd\u969b\u5358\u4f4d\u7cfb (SI) \u3067\u306f\u7d44\u7acb\u5358\u4f4d\u3068\u306a\u3063\u3066\u304a\u308a\u3001SI\u57fa\u672c\u5358\u4f4d\u3067\u8868\u3059\u3068 V = m2\u00b7kg\u00b7s\u22123\u00b7A\u22121 \u3068\u306a\u308b\u3002 1\u30dc\u30eb\u30c8\u306e\u96fb\u5727\u3092\u304b\u3051\u305f\u3068\u304d\u306b1\u30a2\u30f3\u30da\u30a2\u306e\u96fb\u6d41\u304c\u6d41\u308c\u308b\u96fb\u6c17\u62b5\u6297\u304c1\u30aa\u30fc\u30e0 (\u03a9) \u3067\u3042\u308b\u3002 \u30aa\u30fc\u30e0\u306f\u30dc\u30eb\u30c8\u3068\u30a2\u30f3\u30da\u30a2\u304b\u3089\u5b9a\u7fa9\u3055\u308c\u308b (\u03a9 = V / A)\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Volt"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q25250"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Voltio"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Volt"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Volt_(eenheid)"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ubcfc\ud2b8"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Volt"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0392\u03bf\u03bb\u03c4"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Volt"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Wolt"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.07_7_"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Volt"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30dc\u30eb\u30c8_(\u5358\u4f4d)"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q25250"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Volt"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Volt"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Alessandro_Volta"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:SI_derived_units"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Units_of_electrical_potential"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/NISTvoltChip.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Volt"
+            }
+        ],
+        "http://dbpedia.org/property/quantity": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electric_potential"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electromotive_force"
+            }
+        ],
+        "http://dbpedia.org/property/dimension": [
+            {
+                "type": "literal",
+                "value": "M\u00b7L2\u00b7T\u22123\u00b7I",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Volt?oldid=740942899"
+            }
+        ],
+        "http://dbpedia.org/property/namedafter": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Alessandro_Volta"
+            }
+        ],
+        "http://dbpedia.org/property/symbol": [
+            {
+                "type": "literal",
+                "value": "V",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://histoires-de-sciences.over-blog.fr/2013/11/electrical-units-history.html"
+            }
+        ],
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "literal",
+                "value": "Josephson junction array chip developed by the National Bureau of Standards as a standard volt",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Il volt (simbolo: V) \u00e8 l'unit\u00e0 di misura derivata SI del potenziale elettrico e della differenza di potenziale elettrico. Ha questo nome in onore di Alessandro Volta, che nel 1799 invent\u00f2 la pila voltaica, la prima batteria elettrochimica. Negli anni 1880, l'International Electrical Congress (Congresso Elettrico Internazionale), ora International Electrotechnical Commission (IEC), approv\u00f2 il volt come unit\u00e0 di misura della forza elettromotrice. Il modo corretto di scrivere volt \u00e8 con la lettera iniziale minuscola, tranne quando secondo le regole grammaticali si debba scrivere una parola con la maiuscola iniziale; allo stesso modo \u00e8 da ritenersi errato scrivere o dire volts al plurale (in quanto questa \u00e8 una regola grammaticale anglofona), rimanendo invece la parola invariata. In epoca fascista si usava la parola volta. Tra due punti A e B, appartenenti a uno spazio sede di un campo elettrico di tipo conservativo, c'\u00e8 una differenza di potenziale PB - PA pari a 1 V se per portare una carica positiva di 1 C dal punto A al punto B \u00e8 necessario compiere un lavoro positivo di 1 J o, equivalentemente, se nello spostamento da A a B della carica di 1 C il campo elettrico compie su di essa un lavoro di \u22121 J. Moltiplicando la differenza di potenziale, in volt, per l'intensit\u00e0 della corrente, in ampere, quantit\u00e0 di carica in coulomb che passa nell'unit\u00e0 di tempo in s, si otterr\u00e0 la potenza, in W (potenza = lavoro fatto nell'unit\u00e0 di tempo dal campo elettrico). Volendo fare un'analogia con i sistemi idraulici, si pu\u00f2 pensare al potenziale elettrico come grandezza con comportamento analogo alla pressione, mentre la corrente elettrica \u00e8 analoga alla portata di fluido passante in una certa sezione. Infatti, in un sistema idraulico si instaura un moto ogniqualvolta \u00e8 presente un salto di pressione, tra due punti del circuito; analogamente, in un sistema elettrico si instaura una corrente ogniqualvolta \u00e8 presente una differenza di potenziale, tra due punti del circuito. Il volt ha dimensioni fisiche J/C, oppure, usando le unit\u00e0 fondamentali del SI, di un m2 \u00b7 kg \u00b7 s\u22123 \u00b7 A\u22121",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Wolt \u2013 jednostka potencja\u0142u elektrycznego, napi\u0119cia elektrycznego i si\u0142y elektromotorycznej, u\u017cywana w uk\u0142adach jednostek miar SI, MKS i MKSA, oznaczana V.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0641\u0648\u0644\u062a \u0647\u0648 \u0627\u0644\u0648\u062d\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u0639\u0645\u0644\u0629 \u0644\u0642\u064a\u0627\u0633 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0627\u0644\u0645\u062d\u0631\u0643\u0629 \u0623\u0648 \u0641\u0631\u0642 \u0627\u0644\u062c\u0647\u062f (\u0623\u0648 \u0627\u0644\u062a\u0648\u062a\u0631) \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u060c \u0648\u064a\u0631\u0645\u0632 \u0644\u0647 \u0628\u0627\u0644\u062d\u0631\u0641 \u0627\u0644\u0644\u0627\u062a\u064a\u0646\u064a (V)\u060c \u0627\u0633\u062a\u062e\u062f\u0645\u062a \u0647\u0630\u0647 \u0627\u0644\u0648\u062d\u062f\u0629 \u0628\u0647\u0630\u0627 \u0627\u0644\u0627\u0633\u0645 \u062a\u0643\u0631\u064a\u0645\u0627\u064b \u0644\u0644\u0639\u0627\u0644\u0645 \u0627\u0644\u0625\u064a\u0637\u0627\u0644\u064a \u0623\u0644\u0633\u0627\u0646\u062f\u0631\u0648 \u0641\u0648\u0644\u062a\u0627\u060c \u0645\u062e\u062a\u0631\u0639 \u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0639\u0627\u0645 1800 \u0645.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u043e\u043b\u044c\u0442 (\u0440\u0443\u0441\u0441\u043a\u043e\u0435 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435: \u0412; \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0435: V) \u2014 \u0432 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0435\u0434\u0438\u043d\u0438\u0446 (\u0421\u0418) \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u0430, \u0440\u0430\u0437\u043d\u043e\u0441\u0442\u0438 \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u043e\u0432, \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044f \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0434\u0432\u0438\u0436\u0443\u0449\u0435\u0439 \u0441\u0438\u043b\u044b. \u041d\u0430\u0437\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0433\u043e \u0444\u0438\u0437\u0438\u043a\u0430 \u0438 \u0444\u0438\u0437\u0438\u043e\u043b\u043e\u0433\u0430 \u0410\u043b\u0435\u0441\u0441\u0430\u043d\u0434\u0440\u043e \u0412\u043e\u043b\u044c\u0442\u044b (1745\u20141827), \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0438\u0437\u043e\u0431\u0440\u0451\u043b \u043f\u0435\u0440\u0432\u0443\u044e \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0431\u0430\u0442\u0430\u0440\u0435\u044e \u2014 \u0432\u043e\u043b\u044c\u0442\u043e\u0432 \u0441\u0442\u043e\u043b\u0431 \u0438 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0441\u0432\u043e\u0438\u0445 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u043e\u0432 \u0432 1800 \u0433\u043e\u0434\u0443. \u0420\u0430\u0437\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u043e\u0432 \u043c\u0435\u0436\u0434\u0443 \u0434\u0432\u0443\u043c\u044f \u0442\u043e\u0447\u043a\u0430\u043c\u0438 \u0440\u0430\u0432\u043d\u0430 1 \u0432\u043e\u043b\u044c\u0442\u0443, \u0435\u0441\u043b\u0438 \u0434\u043b\u044f \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0435\u043d\u0438\u044f \u0437\u0430\u0440\u044f\u0434\u0430 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u043e\u0439 1 \u043a\u0443\u043b\u043e\u043d \u0438\u0437 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u0447\u043a\u0438 \u0432 \u0434\u0440\u0443\u0433\u0443\u044e \u043d\u0430\u0434 \u043d\u0438\u043c \u043d\u0430\u0434\u043e \u0441\u043e\u0432\u0435\u0440\u0448\u0438\u0442\u044c \u0440\u0430\u0431\u043e\u0442\u0443 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u043e\u0439 1 \u0434\u0436\u043e\u0443\u043b\u044c. \u0412\u043e\u043b\u044c\u0442 \u0442\u0430\u043a\u0436\u0435 \u0440\u0430\u0432\u0435\u043d \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u043c\u0443 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044e, \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0449\u0435\u043c\u0443 \u0432 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0446\u0435\u043f\u0438 \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u044b\u0439 \u0442\u043e\u043a \u0441\u0438\u043b\u043e\u0439 1 \u0430\u043c\u043f\u0435\u0440 \u043f\u0440\u0438 \u043c\u043e\u0449\u043d\u043e\u0441\u0442\u0438 1 \u0432\u0430\u0442\u0442. \u0412 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 \u043f\u0440\u0430\u0432\u0438\u043b\u0430\u043c\u0438 \u0421\u0418, \u043a\u0430\u0441\u0430\u044e\u0449\u0438\u043c\u0438\u0441\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u043d\u044b\u0445 \u0435\u0434\u0438\u043d\u0438\u0446, \u043d\u0430\u0437\u0432\u0430\u043d\u043d\u044b\u0445 \u043f\u043e \u0438\u043c\u0435\u043d\u0438 \u0443\u0447\u0451\u043d\u044b\u0445, \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u0435\u0434\u0438\u043d\u0438\u0446\u044b \u0432\u043e\u043b\u044c\u0442 \u043f\u0438\u0448\u0435\u0442\u0441\u044f \u0441\u043e \u0441\u0442\u0440\u043e\u0447\u043d\u043e\u0439 \u0431\u0443\u043a\u0432\u044b, \u0430 \u0435\u0451 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u2014 \u0441 \u043f\u0440\u043e\u043f\u0438\u0441\u043d\u043e\u0439. \u0422\u0430\u043a\u043e\u0435 \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f \u0438 \u0432 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u043d\u044b\u0445 \u0435\u0434\u0438\u043d\u0438\u0446, \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0432\u043e\u043b\u044c\u0442\u0430. \u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0435\u0434\u0438\u043d\u0438\u0446\u044b \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u043d\u0430\u043f\u0440\u044f\u0436\u0451\u043d\u043d\u043e\u0441\u0442\u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u00ab\u0432\u043e\u043b\u044c\u0442 \u043d\u0430 \u043c\u0435\u0442\u0440\u00bb \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u0412/\u043c. 1 \u0412 = (1/300) \u0435\u0434. \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u0430 \u0421\u0413\u0421\u042d.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "De volt (symbool van de eenheid volt is V) is de SI-eenheid voor elektrische potentiaal. De eenheid is genoemd naar de Italiaanse natuurkundige Alessandro Volta (1745-1827). Deze vond in 1800 de eerste chemische batterij, de zuil van Volta, uit. Bij een elektrische bron spreekt men van elektrische spanning of kortweg spanning als men het potentiaalverschil tussen beide polen bedoelt. Een veel gebruikte benaming voor potentiaalverschil is voltage. De volt is gedefinieerd als het potentiaalverschil over een geleider als een stroom van 1 amp\u00e8re daarin een vermogen van 1 watt in warmte omzet. De eenheid is ook gelijk aan een joule per coulomb. Uitgedrukt in SI-eenheden is dat: De vermenigvuldigingsfactoren uit het SI-stelsel worden ook voor volt gebruikt: men spreekt over \u00b5V (microvolt, 10-6), mV (milli-, 10-3), kV (kilo-, 103), en MV (mega-, 106). \n* 1,2 volt uit een oplaadbare batterij \n* 12 volt uit een autoaccu \n* 230 volt uit een wandcontactdoos \n* 400 volt (krachtstroom) \n* 380 000 volt (hoogspanningslijnen) \n* miljoenen volt (bliksem)",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "El voltio, o volt, por s\u00edmbolo V, es la unidad derivada del Sistema Internacional para el potencial el\u00e9ctrico, la fuerza electromotriz y la tensi\u00f3n el\u00e9ctrica. Recibe su nombre en honor a Alessandro Volta, quien en 1800 invent\u00f3 la pila voltaica, la primera bater\u00eda qu\u00edmica.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "The volt (symbol: V) is the derived unit for electric potential, electric potential difference (voltage), and electromotive force. The volt is named in honour of the Italian physicist Alessandro Volta (1745\u20131827), who invented the voltaic pile, possibly the first chemical battery.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Le volt (symbole : V) est une unit\u00e9, de force \u00e9lectromotrice et de diff\u00e9rence de potentiel (ou tension) et d\u00e9riv\u00e9e du SI. Ce nom a \u00e9t\u00e9 donn\u00e9 en hommage \u00e0 Alessandro Volta, inventeur italien de la pile volta\u00efque en 1800.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u4f0f\u7279\uff08\u82f1\u8bed\uff1avolt\uff09\u662f\u56fd\u9645\u5355\u4f4d\u5236\u4e2d\u7535\u538b\u7684\u5355\u4f4d\uff0c\u7b26\u53f7V\u3002 \u5728\u4e00\u6839\u5747\u5300\u7684\u3001\u6e29\u5ea6\u548c\u5bbd\u5ea6\u6052\u5b9a\u7684\u5bfc\u7ebf\u4e0a\u5047\u5982\u6709\u4e00\u5b89\u57f9\u7535\u6d41\u6d41\u52a8\uff0c\u90a3\u4e48\u5bfc\u7ebf\u7684\u7535\u963b\u5728\u4e00\u5b9a\u7684\u8ddd\u79bb\u5185\u53ef\u4ee5\u5c061\u74e6\uff08W\uff09\u7535\u80fd\u8f6c\u5316\u4e3a\u70ed\u80fd\uff081J/s\uff09\u3002\u8fd9\u4e2a\u8ddd\u79bb\u4e4b\u95f4\u7684\u7535\u538b\u5dee\u5c31\u88ab\u5b9a\u4e49\u4e3a\u4e00\u4f0f\u7279\uff1a \u6b64\u5355\u4f4d\u662f\u4ee5\u53d1\u660e\u7535\u6c60\u7684\u610f\u5927\u5229\u7269\u7406\u5b66\u5bb6\u2014\u2014\u4e9a\u5386\u5c71\u5fb7\u7f57\u00b7\u4f0f\u6253\u7684\u540d\u5b57\u547d\u540d\u7684\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Das Volt ist die im internationalen Einheitensystem (SI) f\u00fcr die elektrische Spannung verwendete Ma\u00dfeinheit. Sie wurde 1897 nach dem italienischen Physiker Alessandro Volta benannt. Als Einheitenzeichen wird der Gro\u00dfbuchstabe \u201eV\u201c verwendet. Das Volt ist eine koh\u00e4rente abgeleitete SI-Einheit, das hei\u00dft, sie ist mit den Basiseinheiten \u00fcber den numerischen Faktor Eins verbunden.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "O volt, ou v\u00f3ltio (s\u00edmbolo: V), \u00e9 a unidade de tens\u00e3o el\u00e9trica (diferen\u00e7a de potencial el\u00e9trico) do Sistema Internacional de Unidades. O plural do nome da unidade \u00e9 volts. O Volt \u00e9 o potencial de transmiss\u00e3o de energia, em Joules, por carga el\u00e9trica, em Coulombs, entre dois pontos distintos no espa\u00e7o. Dizer que a tens\u00e3o existente entre dois pontos corresponde a um volt, \u00e9 o mesmo que dizer que cada carga de um Coulomb que se movimenta entre tais pontos, transmite um Joule de energia. O nome 'volt' \u00e9 uma homenagem a Alessandro Volta, que desenvolveu a pilha voltaica, precursora da bateria el\u00e9trica. Utiliza-se a seguinte f\u00f3rmula para calcular a tens\u00e3o: Outra rela\u00e7\u00e3o importante \u00e9 a que relaciona a pot\u00eancia com a tens\u00e3o el\u00e9trica e a corrente el\u00e9trica: Assim, temos que 1 watt corresponde ao produto de 1 volt por 1 amp\u00e8re.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u30dc\u30eb\u30c8\uff08volt\u3001\u8a18\u53f7\uff1aV\uff09\u306f\u3001\u96fb\u5727\u30fb\u96fb\u4f4d\u5dee\u30fb\u8d77\u96fb\u529b\u306e\u5358\u4f4d\u3067\u3042\u308b\u3002\u540d\u79f0\u306f\u3001\u30dc\u30eb\u30bf\u96fb\u6c60\u3092\u767a\u660e\u3057\u305f\u7269\u7406\u5b66\u8005\u30a2\u30ec\u30c3\u30b5\u30f3\u30c9\u30ed\u30fb\u30dc\u30eb\u30bf\u306b\u7531\u6765\u3059\u308b\u3002 1\u30dc\u30eb\u30c8\u306f\u3001\u4ee5\u4e0b\u306e\u3088\u3046\u306b\u5b9a\u7fa9\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u8868\u73fe\u306e\u4ed5\u65b9\u304c\u9055\u3046\u3060\u3051\u3067\u3001\u3044\u305a\u308c\u3082\u5024\u306f\u540c\u3058\u3067\u3042\u308b\u3002 \n*  1\u30a2\u30f3\u30da\u30a2\u306e\u96fb\u6d41\u304c\u6d41\u308c\u308b\u5c0e\u4f53\u306e2\u70b9\u9593\u306b\u304a\u3044\u3066\u6d88\u8cbb\u3055\u308c\u308b\u96fb\u529b\u304c1\u30ef\u30c3\u30c8\u3067\u3042\u308b\u3068\u304d\u306e\u3001\u305d\u306e2\u70b9\u9593\u306e\u96fb\u5727 (V = W / A) \uff08\u65e5\u672c\u306e\u8a08\u91cf\u5358\u4f4d\u4ee4\u3067\u306f\u3053\u306e\u5b9a\u7fa9\u3092\u63a1\u7528\u3057\u3066\u3044\u308b\uff09 \n*  \u5c0e\u4f53\u306e\u4e8c\u70b9\u9593\u30921\u30af\u30fc\u30ed\u30f3\u306e\u96fb\u8377\u3092\u904b\u3076\u306e\u306b1\u30b8\u30e5\u30fc\u30eb\u306e\u4ed5\u4e8b\u304c\u5fc5\u8981\u3068\u306a\u308b\u3068\u304d\u306e\u3001\u305d\u306e2\u70b9\u9593\u306e\u96fb\u5727 (V = J / C) \u56fd\u969b\u5358\u4f4d\u7cfb (SI) \u3067\u306f\u7d44\u7acb\u5358\u4f4d\u3068\u306a\u3063\u3066\u304a\u308a\u3001SI\u57fa\u672c\u5358\u4f4d\u3067\u8868\u3059\u3068 V = m2\u00b7kg\u00b7s\u22123\u00b7A\u22121 \u3068\u306a\u308b\u3002 1\u30dc\u30eb\u30c8\u306e\u96fb\u5727\u3092\u304b\u3051\u305f\u3068\u304d\u306b1\u30a2\u30f3\u30da\u30a2\u306e\u96fb\u6d41\u304c\u6d41\u308c\u308b\u96fb\u6c17\u62b5\u6297\u304c1\u30aa\u30fc\u30e0 (\u03a9) \u3067\u3042\u308b\u3002 \u30aa\u30fc\u30e0\u306f\u30dc\u30eb\u30c8\u3068\u30a2\u30f3\u30da\u30a2\u304b\u3089\u5b9a\u7fa9\u3055\u308c\u308b (\u03a9 = V / A)\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/NISTvoltChip.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 740942899,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 32567,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/extralabel": [
+            {
+                "type": "literal",
+                "value": "In SI base units:",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/extradata": [
+            {
+                "type": "literal",
+                "value": "kg\u00b7m2\u00b7s\u22123\u00b7A\u22121",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/standard": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/SI_derived_unit"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Volt",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Unit"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IRT_Flushing_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Red_Line_(Jerusalem_Light_Rail)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Constantine_tramway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Llobregat\u2013Anoia_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/H\u00f6llentalbahn_(Black_Forest)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kintetsu_Namba_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Disneyland_Resort_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Island_Line_(MTR)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tattenham_Corner_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/North_London_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Barcelona\u2013Vall\u00e8s_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ligne_de_Cerdagne": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/South_Eastern_Main_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Great_Northern_Route": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/West_London_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tsuen_Wan_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/London_to_Aylesbury_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Watford_DC_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pixel_C": {
+        "http://dbpedia.org/property/power": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nexus_9": {
+        "http://dbpedia.org/property/power": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Petaluma_and_Santa_Rosa_Railroad": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Blue_and_Green_Lines_(Cleveland)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rhaetian_Railway__Rhaetian_Railway__1": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/South_London_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chatham_Main_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Airport_Express_(MTR)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Line_2_Bloor\u2013Danforth": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Line_5_Eglinton": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Honda_Insight": {
+        "http://dbpedia.org/property/motor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ALP-46": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/PRR_GG1": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sutton_and_Mole_Valley_Lines": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Alessandro_Volta": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Market_Street_Subway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/T\u014dky\u016b_Tamagawa_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ashland_branch": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/East_63rd_branch_(CTA)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Douglas_branch": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Brown_Line_(CTA)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rorschach\u2013Heiden_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aigle\u2013Leysin_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biasca\u2013Acquarossa_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/East_London_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thameslink": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chemins_de_fer_du_Jura": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lauterbrunnen\u2013M\u00fcrren_mountain_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Manx_Electric_Railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Schynige_Platte_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Snaefell_Mountain_Railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wengernalp_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lugano\u2013Cadro\u2013Dino_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aigle\u2013S\u00e9pey\u2013Diablerets_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Stadtbahn_Glattal": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chessington_Branch_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lugano\u2013Tesserete_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Silverliner": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Voltage": {
+        "http://dbpedia.org/property/unit": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Volt_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Volt": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kirnitzschtal_tramway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dublin/Pleasanton\u2013Daly_City_line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fremont\u2013Daly_City_line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pittsburg/Bay_Point\u2013SFO/Millbrae_line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Transbay_Tube": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Berkeley_Hills_Tunnel": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/V_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ancona\u2013Orte_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rittnerbahn": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Northern_City_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Waterfront_Streetcar": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/First_Hill_Streetcar": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Line_3_(Athens_Metro)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Line_4_(Athens_Metro)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Access_to_the_Region's_Core": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hempstead_Branch": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Long_Beach_Branch": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Oyster_Bay_Branch": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/West_Hempstead_Branch": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dan_Ryan_branch": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ronkonkoma_Branch": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Port_Jefferson_Branch": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Garfield_Park_branch_(CTA)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Babylon_Branch": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Port_Washington_Branch": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Atlantic_Branch": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Far_Rockaway_Branch": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Northbrae_Tunnel": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/63rd_Street_Lines": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Blue_Line_(CTA)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Staten_Island_Railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/New_Haven_EP5": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ],
+        "http://dbpedia.org/property/transmission": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Altdorf\u2013Fl\u00fcelen_tramway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Frauenfeld\u2013Wil_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bex\u2013Villars\u2013Bretaye_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Uster\u2013Oetwil_tramway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wetzikon\u2013Meilen_tramway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mendrisio_electric_tramway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Meiringen\u2013Reichenbach\u2013Aareschlucht_tramway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Uetliberg_railway_line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Meiringen\u2013Innertkirchen_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bremgarten\u2013Dietikon_railway_line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Forch_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bellinzona\u2013Mesocco_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aigle\u2013Ollon\u2013Monthey\u2013Champ\u00e9ry_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GE_E60": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aarhus_Letbane": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Brown_Line_(Pittsburgh)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Montreux\u2013Glion\u2013Rochers-de-Naye_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chemin_de_fer_du_Montenvers": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rigi_Railways": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Transports_Montreux\u2013Vevey\u2013Riviera": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Martigny\u2013Ch\u00e2telard_Railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Panoramique_des_D\u00f4mes": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dolderbahn": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Skitube_Alpine_Railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Transandine_Railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jungfrau_railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dubai_Tram": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/T_Third_Street": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/E_Embarcadero": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/K_Ingleside": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/L_Taraval": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Minami_Osaka_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/S_Castro_Shuttle": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Third_Street_Light_Rail_Project": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sunset_Tunnel": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Twin_Peaks_Tunnel": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/A_Line_(RTD)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Central_Subway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Alum_Rock\u2013Santa_Teresa_(VTA)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mountain_View\u2013Winchester_(VTA)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/B_Line_(RTD)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hanky\u016b_K\u014dbe_Main_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/J_Church": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N_Judah": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/MAX_Green_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Budd_Metroliner": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/British_Rail_Class_375": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/British_Rail_Class_377": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/British_Rail_Class_350": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ATM_Class_1500": {
+        "http://dbpedia.org/property/powersupply": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ATM_Class_4600_and_4700": {
+        "http://dbpedia.org/property/powersupply": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ATM_Class_4900": {
+        "http://dbpedia.org/property/powersupply": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/EMD_AEM-7": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Arrow_(railcar)": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/M8_(railcar)": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bombardier\u2013Alstom_HHP-8": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IND_Culver_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Br\u00fcnig_railway_line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/CFR_Class_47": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tunnel_Railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IPad": {
+        "http://dbpedia.org/property/power": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IPhone": {
+        "http://dbpedia.org/property/power": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Apple_Watch": {
+        "http://dbpedia.org/property/power": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IPad_Mini": {
+        "http://dbpedia.org/property/power": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IPod_Touch": {
+        "http://dbpedia.org/property/power": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IPad_(1st_generation)": {
+        "http://dbpedia.org/property/power": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IPad_Mini_(1st_generation)": {
+        "http://dbpedia.org/property/power": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IPad_Mini_3": {
+        "http://dbpedia.org/property/power": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Loop_Service_(Portland_Streetcar)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Line_2_(Athens_Metro)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Skin_(16_Volt_album)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Downtown_Hudson_Tubes": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Uptown_Hudson_Tubes": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/CFR_Class_EA": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Line_14,_Beijing_Subway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Line_8,_Beijing_Subway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Common_Tunnel": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/M2_(railcar)": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ALP-45DP": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cairo_Metro_Line_1": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cairo_Metro_Line_2": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/West_Island_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Downtown_Seattle_Transit_Tunnel": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Briskeby_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ekeberg_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Silverliner_V": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tung_Chung_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kilovolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/F_Market_&_Wharves": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Toden_Arakawa_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/T\u014dky\u016b_Setagaya_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chikuh\u014d_Electric_Railroad_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vallvidrera_Funicular": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Line_6,_Beijing_Subway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Line_9,_Beijing_Subway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/South_Western_Main_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/New_Haven_Line": {
+        "http://dbpedia.org/property/electrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/New_Athos_Cave_Railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Red_Line_(Tel_Aviv_Light_Rail)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Brighton_Main_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/International_Rhine_Regulation_Railway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/South_Lake_Union_Streetcar": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Green_Line_(Tel_Aviv_Light_Rail)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Line_10,_Beijing_Subway": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Furuset_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/7_Subway_Extension": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fornebu_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Exavolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Petavolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kilovolts": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Zettavolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u33b7": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Volts": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Teravolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/3.3v": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gigavolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Microvolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u039cV": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Millivolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Volt_(unit)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Attovolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Femtovolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nanovolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Picovolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Yoctovolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Yottavolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Zeptovolt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cell_voltage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/International_volt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u33b4": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u33b5": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u33b6": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u33b8": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u33b9": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/French_submarine_Narval_(Q4)": {
+        "http://dbpedia.org/ontology/powerType": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Keifuku_Electric_Railroad__Arashiyama_Line__1": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/J\u014detsu_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Line_1_(Athens_Metro)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kwun_Tong_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hanky\u016b_Itami_Line": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Line_H7_(Budapest_H\u00c9V)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kwun_Tong_Line_Extension": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Budd_Silverliner": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ABB_ALP-44": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GE_Silverliner_IV": {
+        "http://dbpedia.org/property/electricsystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Blue_Line_(St._Louis_MetroLink)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Red_Line_(St._Louis_MetroLink)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Premetro_(Buenos_Aires)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Light_Rail_(MTR)": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tacoma_Link": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Portland_Streetcar": {
+        "http://dbpedia.org/ontology/typeOfElectrification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Volt"
+            }
+        ]
+    }
+}

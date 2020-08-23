@@ -1,0 +1,28 @@
+{
+    "@text": "Which {twinned administrative body} is {located in the administrative territorial entity} of {Belfast} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Territorial_entity",
+            "@support": "131",
+            "@types": "",
+            "@surfaceForm": "administrative territorial entity",
+            "@offset": "55",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Belfast",
+            "@support": "23394",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Belfast",
+            "@offset": "94",
+            "@similarityScore": "0.9999079055109075",
+            "@percentageOfSecondRank": "4.3307822316615785E-5"
+        }
+    ]
+}

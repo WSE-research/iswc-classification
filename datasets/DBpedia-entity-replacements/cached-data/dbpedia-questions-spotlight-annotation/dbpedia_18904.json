@@ -1,0 +1,37 @@
+{
+    "@text": "Name the sea located near Europe and has a nearby city as Rostock ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Europe",
+            "@support": "79651",
+            "@types": "Schema:Place,Schema:Continent,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Continent",
+            "@surfaceForm": "Europe",
+            "@offset": "26",
+            "@similarityScore": "0.999844260934189",
+            "@percentageOfSecondRank": "9.469170541082382E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "50",
+            "@similarityScore": "0.950804134115283",
+            "@percentageOfSecondRank": "0.03671093929995689"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rostock",
+            "@support": "2332",
+            "@types": "Wikidata:Q486972,Wikidata:Q3957,Schema:Place,DBpedia:Town,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Rostock",
+            "@offset": "58",
+            "@similarityScore": "0.9955484185098579",
+            "@percentageOfSecondRank": "0.003792190476313227"
+        }
+    ]
+}

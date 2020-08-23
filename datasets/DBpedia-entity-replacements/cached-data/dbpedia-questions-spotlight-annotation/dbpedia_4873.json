@@ -1,0 +1,37 @@
+{
+    "@text": "What is the name of the city that Nadezha Mandelstam died in, whose sister city is Vienna?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "24",
+            "@similarityScore": "0.7988530046386275",
+            "@percentageOfSecondRank": "0.19018731297956726"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "sister city",
+            "@offset": "68",
+            "@similarityScore": "0.999992917266909",
+            "@percentageOfSecondRank": "5.547596903699759E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Vienna",
+            "@support": "49805",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Vienna",
+            "@offset": "83",
+            "@similarityScore": "0.9994039029339166",
+            "@percentageOfSecondRank": "5.597247845922628E-4"
+        }
+    ]
+}

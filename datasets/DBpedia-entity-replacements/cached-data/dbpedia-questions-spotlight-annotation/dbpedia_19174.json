@@ -1,0 +1,37 @@
+{
+    "@text": "Was Lionel Messi a member  of the 2009 FIFA World Cup squads?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Lionel_Messi",
+            "@support": "1452",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q937857,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:SoccerPlayer,DBpedia:Person,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Lionel Messi",
+            "@offset": "4",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/FIFA",
+            "@support": "23745",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "FIFA",
+            "@offset": "39",
+            "@similarityScore": "0.9997953970012751",
+            "@percentageOfSecondRank": "7.012807820315342E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/FIFA_World_Cup",
+            "@support": "18251",
+            "@types": "",
+            "@surfaceForm": "World Cup",
+            "@offset": "44",
+            "@similarityScore": "0.9471155646019764",
+            "@percentageOfSecondRank": "0.048072404841736714"
+        }
+    ]
+}

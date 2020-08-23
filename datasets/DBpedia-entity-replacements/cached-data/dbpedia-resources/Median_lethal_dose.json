@@ -1,0 +1,444 @@
+{
+    "http://en.wikipedia.org/wiki/Median_lethal_dose": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Median_lethal_dose"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dose": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Median_lethal_dose"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Median_lethal_dose": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Thinking105770926"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Process105701363"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/HigherCognitiveProcess105770664"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Cognition100023271"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Measure100033615"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/ProblemSolving105796750"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Trial105799212"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Experiment105798043"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Inquiry105797597"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Material114580897"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Chemical114806838"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Substance100019613"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Part113809207"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Software"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatUnitsOfMeasurement"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Pesticide114980215"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatPesticides"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatMedicalTests"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/DefiniteQuantity113576101"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Matter100020827"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/UnitOfMeasurement113583724"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Relation100031921"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Dose l\u00e9tale m\u00e9diane",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u534a\u6570\u81f4\u6b7b\u91cf",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Dosis letal mediana",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Dose letal mediana",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u041b\u041450",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Median lethal dose",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "LD50",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "LD50",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062c\u0631\u0639\u0629 \u0627\u0644\u0645\u0645\u064a\u062a\u0629 \u0627\u0644\u0648\u0633\u0637\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u534a\u6578\u81f4\u6b7b\u91cf",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Em toxicologia, dose letal mediana (DL50 ou LD50, do ingl\u00eas Lethal Dose) \u00e9 a dose necess\u00e1ria de uma dada subst\u00e2ncia ou tipo de radia\u00e7\u00e3o para matar 50% de uma popula\u00e7\u00e3o em teste (normalmente medida em miligramas de subst\u00e2ncia por quilograma de massa corporal dos indiv\u00edduos testados). A sua determina\u00e7\u00e3o \u00e9 feita expondo cobaias a diferentes doses da subst\u00e2ncia a ser testada por um determinado per\u00edodo de tempo at\u00e9 se determinar aquela que mata apenas metade da popula\u00e7\u00e3o testada. O DL50 \u00e9 frequentemente usado como um indicador da toxicidade aguda de uma subst\u00e2ncia; quanto maior a dose que ser\u00e1 letal, menos t\u00f3xica \u00e9 considerada. O teste foi criado por J.W. Trevan em 1927, mas est\u00e1 a ser preterido em algumas jurisdi\u00e7\u00f5es em detrimento de testes como o procedimento de dose fixa; no entanto, o conce",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062c\u0631\u0639\u0629 \u0627\u0644\u0645\u0645\u064a\u062a\u0629 \u0644\u0644\u0646\u0635\u0641 \u0623\u0648 \u062d\u0633\u0628 \u0627\u0644\u0645\u0639\u062c\u0645 \u0627\u0644\u0637\u0628\u064a \u0627\u0644\u0645\u0648\u062d\u062f \u062a\u0633\u0645\u0649: \u0627\u0644\u062c\u0631\u0639\u0629 \u0627\u0644\u0648\u0633\u0637\u0649 \u0627\u0644\u0645\u0645\u064a\u062a\u0629 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Median lethal dose) \u0641\u064a \u0639\u0644\u0645 \u0627\u0644\u0633\u0645\u0648\u0645 \u0644\u0645\u0627\u062f\u0629 \u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0647\u064a \u0627\u0644\u062c\u0631\u0639\u0629 \u0627\u0644\u0644\u0627\u0632\u0645\u0629 \u0644\u0642\u062a\u0644 \u0646\u0635\u0641 \u0639\u062f\u062f \u0623\u0641\u0631\u0627\u062f \u0639\u064a\u0646\u0629 \u062a\u062d\u062a \u0627\u0644\u0627\u062e\u062a\u0628\u0627\u0631. \u062a\u0639\u0628\u0631 \u0623\u0631\u0642\u0627\u0645 \u0627\u0644\u062c\u0631\u0639\u0629 \u0627\u0644\u0645\u0645\u064a\u062a\u0629 \u0644\u0644\u0646\u0635\u0641 \u0644\u0645\u0627\u062f\u0629 \u0645\u0627 \u0639\u0646 \u0645\u062f\u0649 \u0633\u0645\u064a\u062a\u0647\u0627. \u062a\u0645 \u0627\u0628\u062a\u0643\u0627\u0631 \u0647\u0630\u0627 \u0627\u0644\u0645\u0639\u064a\u0627\u0631 \u0639\u0627\u0645 1927 \u0645\u0646 \u0642\u0628\u0644 \u062c\u0648\u0646 \u0648\u0644\u064a\u0627\u0645 \u062a\u0631\u064a\u0641\u0627\u0646 . \u064a\u0645\u0643\u0646 \u0623\u0646 \u064a\u0639\u0628\u0631 \u0639\u0646 \u0627\u0644\u062c\u0631\u0639\u0629 \u0627\u0644\u0645\u0645\u064a\u062a\u0629 \u0644\u0644\u0646\u0635\u0641 \u0628\u0639\u062f\u0629 \u0623\u0633\u0627\u0644\u064a\u0628 \u0645\u0646\u0647\u0627 LD50 \u0648\u0647\u064a \u0627\u062e\u062a\u0635\u0627\u0631 \u0644\u0640 Lethal Dose, 50%\u060c \u0623\u0648 LCt50 \u0627\u062e\u062a\u0635\u0627\u0631 (Lethal Concentration & Time) \u0627\u0644\u062a\u0631\u0643\u064a\u0632 \u0648\u0627\u0644\u0632\u0645\u0646 \u0627\u0644\u0645\u0645\u064a\u062a\u060c \u0648\u063a\u064a\u0631\u0647\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u534a\u6578\u81f4\u6b7b\u91cf\uff08\u82f1\u8bed\uff1aMedian Lethal Dose\uff09\uff0c\u7c21\u7a31LD50\uff08\u5373Lethal Dose, 50%\uff09\uff0c\u5728\u6bd2\u7406\u5b78\u4e2d\u662f\u63cf\u8ff0\u6709\u6bd2\u7269\u8cea\u6216\u8f3b\u5c04\u7684\u6bd2\u6027\u7684\u5e38\u7528\u6307\u6a19\u3002\u6309\u7167\u91ab\u5b78\u4e3b\u984c\u8a5e\u8868\uff08MeSH\uff09\u7684\u5b9a\u7fa9\uff0cLD50\u662f\u6307\u201c\u80fd\u6bba\u6b7b\u4e00\u534a\u8a66\u9a57\u7e3d\u9ad4\u4e4b\u6709\u5bb3\u7269\u8cea\u3001\u6709\u6bd2\u7269\u8cea\u6216\u6e38\u96e2\u8f3b\u5c04\u7684\u5291\u91cf\u201d\u3002\u9019\u6e2c\u8a66\u6700\u5148\u7531J.W. Trevan\u65bc1927\u5e74\u767c\u660e\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "La dose l\u00e9tale m\u00e9diane (DL50), ou concentration l\u00e9tale m\u00e9diane (CL50), est un indicateur quantitatif de la toxicit\u00e9 d'une substance. Cette notion s'applique \u00e9galement aux irradiations. Cet indicateur mesure la dose de substance causant la mort de 50 % d'une population animale donn\u00e9e (souvent des souris ou des rats) dans des conditions d'exp\u00e9rimentation pr\u00e9cises. C'est la masse de substance n\u00e9cessaire pour tuer 50 % des animaux dans un lot. Elle s'exprime en milligrammes de mati\u00e8re active par kilogramme d'animal.Quant \u00e0 elle, la DL100 est la dose l\u00e9tale, engendrant la mort de 100 % des individus d'une population animale donn\u00e9e.Plus ce chiffre est petit, plus la substance est toxique. Cette dose n'est valable que pour une esp\u00e8ce pr\u00e9cise (le plus souvent le rat) et un mode d'introduction pr\u00e9c",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u534a\u6570\u81f4\u6b7b\u91cf\uff08\u306f\u3093\u3059\u3046\u3061\u3057\u308a\u3087\u3046\u3001median lethal dose\uff09\u3068\u306f\u3001\u7269\u8cea\u306e\u6025\u6027\u6bd2\u6027\u306e\u6307\u6a19\u3001\u81f4\u6b7b\u91cf\u306e\u4e00\u7a2e\u3068\u3057\u3066\u3057\u3070\u3057\u3070\u4f7f\u308f\u308c\u308b\u6570\u5024\u3067\u3001\u6295\u4e0e\u3057\u305f\u52d5\u7269\u306e\u534a\u6570\u304c\u6b7b\u4ea1\u3059\u308b\u7528\u91cf\u3092\u3044\u3046\u3002\"Lethal Dose, 50%\"\u3092\u7565\u3057\u3066LD50\u3068\u66f8\u304f\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "En toxicolog\u00eda, se denomina DL50 (abreviatura de Dosis Letal, 50%) a la dosis de una sustancia o radiaci\u00f3n que resulta mortal para la mitad de un conjunto de animales de prueba. Los valores de la DL50 son usados con frecuencia como un indicador general de la toxicidad aguda de una sustancia. Generalmente se expresa en miligramo (mg) de sustancia t\u00f3xica por kilogramo (kg) de peso del animal, y lo m\u00e1s com\u00fan es que el dato sea acompa\u00f1ado del animal en el que se prob\u00f3 (ratas, conejos, etc.). De esta forma, puede extrapolarse a los seres humanos.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u041b\u041450 (\u043f\u043e\u043b\u0443\u043b\u0435\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u0434\u043e\u0437\u0430, \u0442\u0430\u043a\u0436\u0435 DL50 (\u043e\u0442 \u0434\u0440.-\u0433\u0440\u0435\u0447. \u03b4\u03cc\u03c3\u03b9\u03c2 \u0438 \u043b\u0430\u0442. l\u0113t\u0101lis), \u0442\u0430\u043a\u0436\u0435 LD50 \u0430\u043d\u0433\u043b. lethal dose) \u2014 \u0441\u0440\u0435\u0434\u043d\u044f\u044f \u0434\u043e\u0437\u0430 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430, \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0449\u0430\u044f \u0433\u0438\u0431\u0435\u043b\u044c \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u044b \u0447\u043b\u0435\u043d\u043e\u0432 \u0438\u0441\u043f\u044b\u0442\u0443\u0435\u043c\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b. \u041e\u0434\u0438\u043d \u0438\u0437 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0448\u0438\u0440\u043e\u043a\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c\u044b\u0445 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0435\u0439 \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u044f\u0434\u043e\u0432\u0438\u0442\u044b\u0445 \u0438 \u0443\u043c\u0435\u0440\u0435\u043d\u043d\u043e-\u0442\u043e\u043a\u0441\u0438\u0447\u043d\u044b\u0445 \u0432\u0435\u0449\u0435\u0441\u0442\u0432. \u041e\u0431\u044b\u0447\u043d\u043e \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0435\u0434\u0438\u043d\u0438\u0446\u0430\u0445 \u043c\u0430\u0441\u0441\u044b \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u043d\u0430 \u0435\u0434\u0438\u043d\u0438\u0446\u0443 \u043c\u0430\u0441\u0441\u044b \u0438\u0441\u043f\u044b\u0442\u0443\u0435\u043c\u043e\u0433\u043e \u043e\u0431\u044a\u0435\u043a\u0442\u0430. \u041f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f, \u0447\u0442\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u0443\u0435\u043c\u044b\u0439 \u043e\u0431\u044a\u0435\u043a\u0442 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0442\u0438\u043f\u0438\u0447\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438, \u0432 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445, \u0431\u0435\u0437 \u043f\u0440\u0438\u0451\u043c\u0430 \u043a\u0430\u043a\u0438\u0445-\u043b\u0438\u0431\u043e \u0430\u043d\u0442\u0438\u0434\u043e\u0442\u043e\u0432 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u043c\u0435\u0440 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u043e\u0440\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0438 \u0443\u0441\u0443\u0433\u0443\u0431\u043b\u044f\u044e\u0449\u0438\u0445 \u0444\u0430\u043a\u0442\u043e\u0440\u043e\u0432.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "In tossicologia il termine DL50 sta per \"Dose Letale 50\" (in inglese LD50 da \"Lethal Dose 50\") e si riferisce alla dose di una sostanza, somministrata in una volta sola, in grado di uccidere il 50% (cio\u00e8 la met\u00e0) di una popolazione campione di cavie (generalmente ratti, ma anche altri mammiferi come cani, quando il test riguarda la tossicit\u00e0 nell'uomo). Oggi questo parametro tossicologico non \u00e8 pi\u00f9 in uso per motivi etici ed economici. Allo stesso modo viene definito l'LD90, in relazione al 90% di una popolazione di cavie.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "In toxicology, the median lethal dose, LD50 (abbreviation for \"lethal dose, 50%\"), LC50 (lethal concentration, 50%) or LCt50 is a measure of the lethal dose of a toxin, radiation, or pathogen. The value of LD50 for a substance is the dose required to kill half the members of a tested population after a specified test duration. LD50 figures are frequently used as a general indicator of a substance's acute toxicity. A lower LD50 is indicative of increased toxicity.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "LD50 of LD50 (van median Lethal Dose for 50% of subjects) is de hoeveelheid van een stof die bij 50% van een populatie tot de dood leidt. De stof wordt in een keer toegediend en hierdoor is de LD50 een maat voor de acute giftigheid en zegt niets over de langetermijntoxiciteit van de stof. De LD50 wordt meestal opgegeven in \u03bcg of mg per kg levend weefsel. Metingen van de LD50 werden voor het eerst in 1927 door J. W. Tervan gebruikt om de potenti\u00eble toxiciteit van medicijnen en chemische stoffen te kunnen schatten.",
+                "lang": "nl"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/LD50"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q711849"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Median_dosis_letal"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ubc18\uc218_\uce58\uc0ac\ub7c9"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Median_lethal_dose"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u534a\u6570\u81f4\u6b7b\u91cf"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Dose_letal_mediana"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q711849"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Dose_l\u00e9tale_m\u00e9diane"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039c\u03ad\u03c3\u03b7_\u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf\u03c2_\u03b4\u03cc\u03c3\u03b7"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Dosis_letal_mediana"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/LD50"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.02rp10"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/LD50"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Toxicology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Mathematics_in_medicine"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Animal_testing"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Median_lethal_dose"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Median_lethal_dose?oldid=740740761"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.ccohs.ca/oshanswers/chemicals/ld50.html"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "In toxicology, the median lethal dose, LD50 (abbreviation for \"lethal dose, 50%\"), LC50 (lethal concentration, 50%) or LCt50 is a measure of the lethal dose of a toxin, radiation, or pathogen. The value of LD50 for a substance is the dose required to kill half the members of a tested population after a specified test duration. LD50 figures are frequently used as a general indicator of a substance's acute toxicity. A lower LD50 is indicative of increased toxicity. The test was created by J.W. Trevan in 1927. The term semilethal dose is occasionally used with the same meaning, in particular in translations from non-English-language texts, but can also refer to a sublethal dose; because of this ambiguity, it is usually avoided. LD50 is usually determined by tests on animals such as laboratory mice.In 2011 the US Food and Drug Administration approved alternative methods to LD50 for testing the cosmetic drug Botox without animal tests.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u534a\u6578\u81f4\u6b7b\u91cf\uff08\u82f1\u8bed\uff1aMedian Lethal Dose\uff09\uff0c\u7c21\u7a31LD50\uff08\u5373Lethal Dose, 50%\uff09\uff0c\u5728\u6bd2\u7406\u5b78\u4e2d\u662f\u63cf\u8ff0\u6709\u6bd2\u7269\u8cea\u6216\u8f3b\u5c04\u7684\u6bd2\u6027\u7684\u5e38\u7528\u6307\u6a19\u3002\u6309\u7167\u91ab\u5b78\u4e3b\u984c\u8a5e\u8868\uff08MeSH\uff09\u7684\u5b9a\u7fa9\uff0cLD50\u662f\u6307\u201c\u80fd\u6bba\u6b7b\u4e00\u534a\u8a66\u9a57\u7e3d\u9ad4\u4e4b\u6709\u5bb3\u7269\u8cea\u3001\u6709\u6bd2\u7269\u8cea\u6216\u6e38\u96e2\u8f3b\u5c04\u7684\u5291\u91cf\u201d\u3002\u9019\u6e2c\u8a66\u6700\u5148\u7531J.W. Trevan\u65bc1927\u5e74\u767c\u660e\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u534a\u6570\u81f4\u6b7b\u91cf\uff08\u306f\u3093\u3059\u3046\u3061\u3057\u308a\u3087\u3046\u3001median lethal dose\uff09\u3068\u306f\u3001\u7269\u8cea\u306e\u6025\u6027\u6bd2\u6027\u306e\u6307\u6a19\u3001\u81f4\u6b7b\u91cf\u306e\u4e00\u7a2e\u3068\u3057\u3066\u3057\u3070\u3057\u3070\u4f7f\u308f\u308c\u308b\u6570\u5024\u3067\u3001\u6295\u4e0e\u3057\u305f\u52d5\u7269\u306e\u534a\u6570\u304c\u6b7b\u4ea1\u3059\u308b\u7528\u91cf\u3092\u3044\u3046\u3002\"Lethal Dose, 50%\"\u3092\u7565\u3057\u3066LD50\u3068\u66f8\u304f\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062c\u0631\u0639\u0629 \u0627\u0644\u0645\u0645\u064a\u062a\u0629 \u0644\u0644\u0646\u0635\u0641 \u0623\u0648 \u062d\u0633\u0628 \u0627\u0644\u0645\u0639\u062c\u0645 \u0627\u0644\u0637\u0628\u064a \u0627\u0644\u0645\u0648\u062d\u062f \u062a\u0633\u0645\u0649: \u0627\u0644\u062c\u0631\u0639\u0629 \u0627\u0644\u0648\u0633\u0637\u0649 \u0627\u0644\u0645\u0645\u064a\u062a\u0629 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Median lethal dose) \u0641\u064a \u0639\u0644\u0645 \u0627\u0644\u0633\u0645\u0648\u0645 \u0644\u0645\u0627\u062f\u0629 \u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0647\u064a \u0627\u0644\u062c\u0631\u0639\u0629 \u0627\u0644\u0644\u0627\u0632\u0645\u0629 \u0644\u0642\u062a\u0644 \u0646\u0635\u0641 \u0639\u062f\u062f \u0623\u0641\u0631\u0627\u062f \u0639\u064a\u0646\u0629 \u062a\u062d\u062a \u0627\u0644\u0627\u062e\u062a\u0628\u0627\u0631. \u062a\u0639\u0628\u0631 \u0623\u0631\u0642\u0627\u0645 \u0627\u0644\u062c\u0631\u0639\u0629 \u0627\u0644\u0645\u0645\u064a\u062a\u0629 \u0644\u0644\u0646\u0635\u0641 \u0644\u0645\u0627\u062f\u0629 \u0645\u0627 \u0639\u0646 \u0645\u062f\u0649 \u0633\u0645\u064a\u062a\u0647\u0627. \u062a\u0645 \u0627\u0628\u062a\u0643\u0627\u0631 \u0647\u0630\u0627 \u0627\u0644\u0645\u0639\u064a\u0627\u0631 \u0639\u0627\u0645 1927 \u0645\u0646 \u0642\u0628\u0644 \u062c\u0648\u0646 \u0648\u0644\u064a\u0627\u0645 \u062a\u0631\u064a\u0641\u0627\u0646 . \u064a\u0645\u0643\u0646 \u0623\u0646 \u064a\u0639\u0628\u0631 \u0639\u0646 \u0627\u0644\u062c\u0631\u0639\u0629 \u0627\u0644\u0645\u0645\u064a\u062a\u0629 \u0644\u0644\u0646\u0635\u0641 \u0628\u0639\u062f\u0629 \u0623\u0633\u0627\u0644\u064a\u0628 \u0645\u0646\u0647\u0627 LD50 \u0648\u0647\u064a \u0627\u062e\u062a\u0635\u0627\u0631 \u0644\u0640 Lethal Dose, 50%\u060c \u0623\u0648 LCt50 \u0627\u062e\u062a\u0635\u0627\u0631 (Lethal Concentration & Time) \u0627\u0644\u062a\u0631\u0643\u064a\u0632 \u0648\u0627\u0644\u0632\u0645\u0646 \u0627\u0644\u0645\u0645\u064a\u062a\u060c \u0648\u063a\u064a\u0631\u0647\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "In tossicologia il termine DL50 sta per \"Dose Letale 50\" (in inglese LD50 da \"Lethal Dose 50\") e si riferisce alla dose di una sostanza, somministrata in una volta sola, in grado di uccidere il 50% (cio\u00e8 la met\u00e0) di una popolazione campione di cavie (generalmente ratti, ma anche altri mammiferi come cani, quando il test riguarda la tossicit\u00e0 nell'uomo). Oggi questo parametro tossicologico non \u00e8 pi\u00f9 in uso per motivi etici ed economici. Allo stesso modo viene definito l'LD90, in relazione al 90% di una popolazione di cavie. Questa misurazione, dato il modo di somministrazione, \u00e8 un modo per testare il potenziale tossico di una sostanza solo a breve termine (tossicit\u00e0 acuta) e non si riferisce alla tossicit\u00e0 a lungo termine (cio\u00e8 dovuta a contatto con modiche quantit\u00e0 di una certa sostanza per lunghi periodi). L'LD50 viene espresso di solito come quantit\u00e0 di sostanza somministrata rispetto al peso dell'animale usato come campione, normalmente mg/100g o, pi\u00f9 spesso, in mg/kg, ovvero in milligrammi di sostanza per 100 grammi (per piccoli animali) o per chilogrammi (per animali pi\u00f9 grandi) di peso vivo. Queste sostanze da testare possono essere somministrate in ogni modo, ma la via dermica (applicazione sulla pelle) e orale (somministrazione per bocca) sono di solito le vie pi\u00f9 comuni (anche perch\u00e9 sono le vie pi\u00f9 comuni con cui si pu\u00f2 venire a contatto con una sostanza); ingresso (iniezione) per via intravenosa, intramuscolare e intraperitoneale (nella cavit\u00e0 addominale) sono anche possibili. Per quanto riguarda sostanze gassose, invece, la modalit\u00e0 di ingresso \u00e8 per inalazione e viene calcolata come concentrazione di gas in grado di uccidere il 50% delle cavie in un certo lasso di tempo (LCt50), dove C \u00e8 la concentrazione (espressa come parti per milione) e t \u00e8 il tempo.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "LD50 of LD50 (van median Lethal Dose for 50% of subjects) is de hoeveelheid van een stof die bij 50% van een populatie tot de dood leidt. De stof wordt in een keer toegediend en hierdoor is de LD50 een maat voor de acute giftigheid en zegt niets over de langetermijntoxiciteit van de stof. De LD50 wordt meestal opgegeven in \u03bcg of mg per kg levend weefsel. Metingen van de LD50 werden voor het eerst in 1927 door J. W. Tervan gebruikt om de potenti\u00eble toxiciteit van medicijnen en chemische stoffen te kunnen schatten. De keuze van 50% mortaliteit als referentiepunt voorkomt het testen van individuen onder extreme omstandigheden en verkleint het aantal tests dat nodig is. Niet ieder individu is namelijk even gevoelig voor de stof. De giftigheid van een stof kan daarom ook worden gemeten bij een LD1 of een LD99, de hoeveelheid vergif die nodig is om respectievelijk 1% en 99% van de populatie te doden. Het is van belang te vermelden voor welke soort en voor welke toedieningsweg dit getal geldt omdat er tussen soorten grote verschillen in gevoeligheid kunnen bestaan: een bij ratten gemeten waarde hoeft niet automatisch ook voor mensen op te gaan. Ook kan het een groot verschil maken of de stof wordt ingeademd, ingespoten, door de huid wordt opgenomen of opgegeten. De meest gebruikte toedieningswegen om de LD50 te bepalen zijn dermaal (via huid) en oraal (via mond). De reden hiervoor is dat deze lichaamsoppervlakken het meest frequent in contact komen met stoffen. Voor het bepalen van een LD50 wordt een aantal dieren vergiftigd, dat is de reden waarom veel mensen deze experimenten afwijzen. Een vergelijkbare meting is de LC50 (van \"median Lethal Concentration for 50% of subjects\"). Hier wordt gekeken naar de mediane concentratie van een stof in voeding, lucht, water of bodems. De LC50 wordt meestal opgegeven in mg/kg, \u00b5g/l of mg/m3.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "La dose l\u00e9tale m\u00e9diane (DL50), ou concentration l\u00e9tale m\u00e9diane (CL50), est un indicateur quantitatif de la toxicit\u00e9 d'une substance. Cette notion s'applique \u00e9galement aux irradiations. Cet indicateur mesure la dose de substance causant la mort de 50 % d'une population animale donn\u00e9e (souvent des souris ou des rats) dans des conditions d'exp\u00e9rimentation pr\u00e9cises. C'est la masse de substance n\u00e9cessaire pour tuer 50 % des animaux dans un lot. Elle s'exprime en milligrammes de mati\u00e8re active par kilogramme d'animal.Quant \u00e0 elle, la DL100 est la dose l\u00e9tale, engendrant la mort de 100 % des individus d'une population animale donn\u00e9e.Plus ce chiffre est petit, plus la substance est toxique. Cette dose n'est valable que pour une esp\u00e8ce pr\u00e9cise (le plus souvent le rat) et un mode d'introduction pr\u00e9cis dans l'organisme (ingestion, inhalation, application cutan\u00e9e). Notons toutefois que la DL 50 peut varier, parfois fortement, en fonction du solvant utilis\u00e9 ainsi qu'en fonction du sexe de l'animal. Ces chiffres ne sont pas directement extrapolables \u00e0 l'homme. La DL50 est le plus souvent exprim\u00e9e pour une ingestion orale chez le rat. La DL50 mesur\u00e9e par application dermale chez le lapin donne une information compl\u00e9mentaire sur le danger d'une substance. La valeur par ingestion est le plus souvent plus faible que la valeur dermale. Ces mesures ne donnent toutefois qu'une id\u00e9e partielle de la toxicit\u00e9 d'une substance, \u00e0 laquelle il faut rattacher l'existence ou non d'un antidote. Ainsi, le parathion \u00e9thyl, malgr\u00e9 une DL50 orale aigu\u00eb de 3,6 mg/kg, est relativement moins dangereux que le paraquat (DL50 de 236 mg/kg) car il existe un antidote efficace contre le premier mais aucun contre le second. Il est commun d'affirmer que les pesticides ayant une DL50 orale inf\u00e9rieure \u00e0 50 mg/kg constituent des substances chimiques extr\u00eamement toxiques pour l'homme.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u041b\u041450 (\u043f\u043e\u043b\u0443\u043b\u0435\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u0434\u043e\u0437\u0430, \u0442\u0430\u043a\u0436\u0435 DL50 (\u043e\u0442 \u0434\u0440.-\u0433\u0440\u0435\u0447. \u03b4\u03cc\u03c3\u03b9\u03c2 \u0438 \u043b\u0430\u0442. l\u0113t\u0101lis), \u0442\u0430\u043a\u0436\u0435 LD50 \u0430\u043d\u0433\u043b. lethal dose) \u2014 \u0441\u0440\u0435\u0434\u043d\u044f\u044f \u0434\u043e\u0437\u0430 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430, \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0449\u0430\u044f \u0433\u0438\u0431\u0435\u043b\u044c \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u044b \u0447\u043b\u0435\u043d\u043e\u0432 \u0438\u0441\u043f\u044b\u0442\u0443\u0435\u043c\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b. \u041e\u0434\u0438\u043d \u0438\u0437 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0448\u0438\u0440\u043e\u043a\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c\u044b\u0445 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0435\u0439 \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u044f\u0434\u043e\u0432\u0438\u0442\u044b\u0445 \u0438 \u0443\u043c\u0435\u0440\u0435\u043d\u043d\u043e-\u0442\u043e\u043a\u0441\u0438\u0447\u043d\u044b\u0445 \u0432\u0435\u0449\u0435\u0441\u0442\u0432. \u041e\u0431\u044b\u0447\u043d\u043e \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0435\u0434\u0438\u043d\u0438\u0446\u0430\u0445 \u043c\u0430\u0441\u0441\u044b \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430 \u043d\u0430 \u0435\u0434\u0438\u043d\u0438\u0446\u0443 \u043c\u0430\u0441\u0441\u044b \u0438\u0441\u043f\u044b\u0442\u0443\u0435\u043c\u043e\u0433\u043e \u043e\u0431\u044a\u0435\u043a\u0442\u0430. \u041f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f, \u0447\u0442\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u0443\u0435\u043c\u044b\u0439 \u043e\u0431\u044a\u0435\u043a\u0442 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0442\u0438\u043f\u0438\u0447\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438, \u0432 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445, \u0431\u0435\u0437 \u043f\u0440\u0438\u0451\u043c\u0430 \u043a\u0430\u043a\u0438\u0445-\u043b\u0438\u0431\u043e \u0430\u043d\u0442\u0438\u0434\u043e\u0442\u043e\u0432 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u043c\u0435\u0440 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u043e\u0440\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0438 \u0443\u0441\u0443\u0433\u0443\u0431\u043b\u044f\u044e\u0449\u0438\u0445 \u0444\u0430\u043a\u0442\u043e\u0440\u043e\u0432. \u0418\u043d\u043e\u0433\u0434\u0430 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u044e\u0442\u0441\u044f \u0430\u0431\u0431\u0440\u0435\u0432\u0438\u0430\u0442\u0443\u0440\u044b LC50 (\u0430\u043d\u0433\u043b. lethal concentration, \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u044f) \u0438\u043b\u0438 LCt50 (\u0430\u043d\u0433\u043b. lethal concentration and time, \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u044f \u0438 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f). \u041f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u043e\u0431\u044b\u0447\u043d\u043e \u0434\u043b\u044f \u044f\u0434\u043e\u0432\u0438\u0442\u044b\u0445 \u0433\u0430\u0437\u043e\u0432, \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u044f \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u0443\u044e \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u044e \u0433\u0430\u0437\u0430 \u0432 \u0432\u043e\u0437\u0434\u0443\u0445\u0435 \u0438 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "En toxicolog\u00eda, se denomina DL50 (abreviatura de Dosis Letal, 50%) a la dosis de una sustancia o radiaci\u00f3n que resulta mortal para la mitad de un conjunto de animales de prueba. Los valores de la DL50 son usados con frecuencia como un indicador general de la toxicidad aguda de una sustancia. Generalmente se expresa en miligramo (mg) de sustancia t\u00f3xica por kilogramo (kg) de peso del animal, y lo m\u00e1s com\u00fan es que el dato sea acompa\u00f1ado del animal en el que se prob\u00f3 (ratas, conejos, etc.). De esta forma, puede extrapolarse a los seres humanos. La prueba fue creada por J.W. Trevan en 1927, pero ahora est\u00e1 siendo retirada progresivamente a favor del Procedimiento de Dosis Fijo (Fixed Dose Procedure). El t\u00e9rmino dosis semiletal de vez en cuando es utilizado con el mismo significado, en particular en traducciones de textos, pero tambi\u00e9n puede referirse a una dosis submortal; debido a esta ambig\u00fcedad, generalmente deber\u00eda ser evitado.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Em toxicologia, dose letal mediana (DL50 ou LD50, do ingl\u00eas Lethal Dose) \u00e9 a dose necess\u00e1ria de uma dada subst\u00e2ncia ou tipo de radia\u00e7\u00e3o para matar 50% de uma popula\u00e7\u00e3o em teste (normalmente medida em miligramas de subst\u00e2ncia por quilograma de massa corporal dos indiv\u00edduos testados). A sua determina\u00e7\u00e3o \u00e9 feita expondo cobaias a diferentes doses da subst\u00e2ncia a ser testada por um determinado per\u00edodo de tempo at\u00e9 se determinar aquela que mata apenas metade da popula\u00e7\u00e3o testada. O DL50 \u00e9 frequentemente usado como um indicador da toxicidade aguda de uma subst\u00e2ncia; quanto maior a dose que ser\u00e1 letal, menos t\u00f3xica \u00e9 considerada. O teste foi criado por J.W. Trevan em 1927, mas est\u00e1 a ser preterido em algumas jurisdi\u00e7\u00f5es em detrimento de testes como o procedimento de dose fixa; no entanto, o conceito e o c\u00e1lculo da DL50 para efeitos de compara\u00e7\u00e3o ainda s\u00e3o largamente utilizados, apesar de ser considerado fraco como uma medida \u00fatil de toxicidade.",
+                "lang": "pt"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 740740761,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 18644,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Measure"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/MLD": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Median_lethal_dose"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LC50": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Median_lethal_dose"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LCt50": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Median_lethal_dose"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LD50": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Median_lethal_dose"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LD\u2085\u2080": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Median_lethal_dose"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lethal_concentration,_50%25": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Median_lethal_dose"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lethal_dose,_50%25": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Median_lethal_dose"
+            }
+        ]
+    }
+}

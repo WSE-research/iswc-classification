@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the Swiss municipality code of Z\u00fcrich?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Switzerland",
+            "@support": "73078",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Swiss",
+            "@offset": "13",
+            "@similarityScore": "0.9976943442973345",
+            "@percentageOfSecondRank": "0.001665736756841759"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Municipalities_of_Switzerland",
+            "@support": "30636",
+            "@types": "",
+            "@surfaceForm": "municipality",
+            "@offset": "19",
+            "@similarityScore": "0.9859433718487312",
+            "@percentageOfSecondRank": "0.011570572139268051"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/University_of_Zurich",
+            "@support": "1490",
+            "@types": "Wikidata:Q43229,Wikidata:Q3918,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:EducationalOrganization,Schema:CollegeOrUniversity,DBpedia:University,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "Z\u00fcrich",
+            "@offset": "40",
+            "@similarityScore": "0.8535056082570239",
+            "@percentageOfSecondRank": "0.16376486737465532"
+        }
+    ]
+}

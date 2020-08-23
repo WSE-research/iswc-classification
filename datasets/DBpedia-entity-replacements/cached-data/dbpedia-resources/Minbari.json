@@ -1,0 +1,384 @@
+{
+    "http://en.wikipedia.org/wiki/Minbari": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Minbari": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/SportsEvent"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/NaturalObject100019128"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/CelestialBody109239740"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Planet109394007"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatBabylon5Planets"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Minbari",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Minbari",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Minbari",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Minbari",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Los Minbari son una raza ficticia de alien\u00edgenas humanoides del universo de ciencia-ficci\u00f3n Babylon 5, creado por J. Michael Straczynski.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Les Minbaris sont une race fictive de la s\u00e9rie Babylon 5. Leur plan\u00e8te se nomme Minbar. Bien qu\u2019ils soient consid\u00e9rablement plus jeunes que les anciens Premiers (First Ones), ils sont la plus ancienne et la plus puissante des jeunes races. Les Minbaris sont plus avanc\u00e9s technologiquement que les humains et connaissent le vol spatial depuis plus de 1000 ans.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Minbari \u2013 fikcyjna rasa w telewizyjnym serialu science fiction Babilon 5.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "The Minbari are a fictional alien race featured in the television show Babylon 5. The Minbari characters of Delenn and Lennier figure prominently throughout the series; Neroon, Draal, and Dukhat are less prominent Minbari characters. The fictional planet of Minbar is the homeworld of the Minbari race. The planet and race were named by Babylon 5 creator J. Michael Straczynski after the Islamic pulpit known as a minbar.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q3173909"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Minbari"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q3173909"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Minbari"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Minbari"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Minbari"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.02x054"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Babylon_5_races"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Babylon_5_planets"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Minbari"
+            }
+        ],
+        "http://dbpedia.org/property/imagesize": [
+            {
+                "type": "literal",
+                "value": 250,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/locations": [
+            {
+                "type": "literal",
+                "value": "Yedor",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Tuzanor",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/people": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Lennier"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neroon"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Dukhat"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Draal"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Delenn"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Minbari?oldid=743965695"
+            }
+        ],
+        "http://dbpedia.org/property/universe": [
+            {
+                "type": "literal",
+                "value": "Babylon 5",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/creator": [
+            {
+                "type": "literal",
+                "value": "J. Michael Straczynski",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.isnnews.net/hyperspace/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.b5tech.com/"
+            }
+        ],
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "literal",
+                "value": "Sharlin class warships orbit Minbar",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Los Minbari son una raza ficticia de alien\u00edgenas humanoides del universo de ciencia-ficci\u00f3n Babylon 5, creado por J. Michael Straczynski.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "The Minbari are a fictional alien race featured in the television show Babylon 5. The Minbari characters of Delenn and Lennier figure prominently throughout the series; Neroon, Draal, and Dukhat are less prominent Minbari characters. The fictional planet of Minbar is the homeworld of the Minbari race. The planet and race were named by Babylon 5 creator J. Michael Straczynski after the Islamic pulpit known as a minbar. They use base-eleven mathematics but also place a great emphasis on the number three. They are arguably the most enigmatic of the \"younger races\" and generally prefer a more isolationist way of life, in fact, in the made-for-TV film In The Beginning the Centauri Ambassador Londo Mollari warns the Humans against provoking them for that very reason (a warning they ignored, ultimately leading Earth to almost complete annihilation in the Earth\u2013Minbari War). Although the Minbari are considerably younger than the ancient First Ones, they are among the oldest of the \"younger races\". The Minbari are more advanced in terms of technology than the humans. During the time-frame in which most Babylon 5 episodes are set, Earth warships and fighters (such as the Omega destroyers) are shown to be inferior in speed, maneuverability, and firepower to Minbari warcruisers and fighters.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Minbari \u2013 fikcyjna rasa w telewizyjnym serialu science fiction Babilon 5.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Les Minbaris sont une race fictive de la s\u00e9rie Babylon 5. Leur plan\u00e8te se nomme Minbar. Bien qu\u2019ils soient consid\u00e9rablement plus jeunes que les anciens Premiers (First Ones), ils sont la plus ancienne et la plus puissante des jeunes races. Les Minbaris sont plus avanc\u00e9s technologiquement que les humains et connaissent le vol spatial depuis plus de 1000 ans.",
+                "lang": "fr"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743965695,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 616746,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/races": [
+            {
+                "type": "literal",
+                "value": "Minbari",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sci-fi"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Minbar",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Race"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Trigati": {
+        "http://dbpedia.org/property/affiliation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mimbari": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Minbari_Warrior_Caste": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Minbari_Federation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Minbari_Fighting_Pike": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Minbar_(planet)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Minbari_warrior_caste": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Minbari_religion": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dukhat": {
+        "http://dbpedia.org/ontology/species": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Delenn": {
+        "http://dbpedia.org/ontology/species": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Neroon": {
+        "http://dbpedia.org/ontology/species": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lennier": {
+        "http://dbpedia.org/ontology/species": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Draal": {
+        "http://dbpedia.org/ontology/species": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Minbari"
+            }
+        ]
+    }
+}

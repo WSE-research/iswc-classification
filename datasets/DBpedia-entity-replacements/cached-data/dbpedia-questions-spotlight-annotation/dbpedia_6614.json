@@ -1,0 +1,37 @@
+{
+    "@text": "Which article of Z-Boys features the film director Stacy Peralta?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Z-Boys",
+            "@support": "95",
+            "@types": "",
+            "@surfaceForm": "Z-Boys",
+            "@offset": "17",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Film_director",
+            "@support": "17959",
+            "@types": "",
+            "@surfaceForm": "film director",
+            "@offset": "37",
+            "@similarityScore": "0.9999999253484929",
+            "@percentageOfSecondRank": "5.585191604301547E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Stacy_Peralta",
+            "@support": "96",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Stacy Peralta",
+            "@offset": "51",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "How many shows belong to the networks one of whose sister station is BBC News?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Sister_station",
+            "@support": "1717",
+            "@types": "",
+            "@surfaceForm": "sister station",
+            "@offset": "51",
+            "@similarityScore": "0.9999148507685186",
+            "@percentageOfSecondRank": "4.7561585130973806E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/BBC_News",
+            "@support": "10650",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "BBC News",
+            "@offset": "69",
+            "@similarityScore": "0.9903082573493757",
+            "@percentageOfSecondRank": "0.009450829110863899"
+        }
+    ]
+}

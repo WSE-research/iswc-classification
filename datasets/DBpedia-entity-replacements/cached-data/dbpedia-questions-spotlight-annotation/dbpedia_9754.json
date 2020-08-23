@@ -1,0 +1,28 @@
+{
+    "@text": "What is the name of the city next to where Yue Fei died?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "24",
+            "@similarityScore": "0.8688768729219047",
+            "@percentageOfSecondRank": "0.08354919163792075"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Yue_Fei",
+            "@support": "688",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:MilitaryPerson,DBpedia:Agent",
+            "@surfaceForm": "Yue Fei",
+            "@offset": "43",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

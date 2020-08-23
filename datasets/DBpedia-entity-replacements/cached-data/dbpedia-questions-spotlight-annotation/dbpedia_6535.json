@@ -1,0 +1,55 @@
+{
+    "@text": "What is the { start time } for { Arthur Wellesley, 1st Duke of Wellington } as { Prime Minister of the United Kingdom }?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington",
+            "@support": "3690",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Arthur Wellesley",
+            "@offset": "33",
+            "@similarityScore": "0.999999972777886",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Duke",
+            "@support": "4311",
+            "@types": "",
+            "@surfaceForm": "Duke",
+            "@offset": "55",
+            "@similarityScore": "0.9581723238281687",
+            "@percentageOfSecondRank": "0.041773966983273535"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Wellington",
+            "@support": "14869",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Wellington",
+            "@offset": "63",
+            "@similarityScore": "0.9966068877699418",
+            "@percentageOfSecondRank": "0.0014190387742011438"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom",
+            "@support": "10075",
+            "@types": "",
+            "@surfaceForm": "Prime Minister",
+            "@offset": "81",
+            "@similarityScore": "0.9903205251241217",
+            "@percentageOfSecondRank": "0.0047091136203581355"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_Kingdom",
+            "@support": "196237",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United Kingdom",
+            "@offset": "103",
+            "@similarityScore": "0.946533828076557",
+            "@percentageOfSecondRank": "0.04992291940007962"
+        }
+    ]
+}

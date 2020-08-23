@@ -1,0 +1,46 @@
+{
+    "@text": "List the mammals whose taxonomy is Diprotodontia and phylum is Chordate?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Linnaean_taxonomy",
+            "@support": "347",
+            "@types": "",
+            "@surfaceForm": "taxonomy",
+            "@offset": "23",
+            "@similarityScore": "0.9873475983502585",
+            "@percentageOfSecondRank": "0.011322967309193195"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Diprotodontia",
+            "@support": "103",
+            "@types": "",
+            "@surfaceForm": "Diprotodontia",
+            "@offset": "35",
+            "@similarityScore": "0.9999999979041831",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Phylum",
+            "@support": "1978",
+            "@types": "",
+            "@surfaceForm": "phylum",
+            "@offset": "53",
+            "@similarityScore": "0.9999999192428138",
+            "@percentageOfSecondRank": "8.073536751766598E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chordate",
+            "@support": "489",
+            "@types": "",
+            "@surfaceForm": "Chordate",
+            "@offset": "63",
+            "@similarityScore": "0.9999999999951257",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

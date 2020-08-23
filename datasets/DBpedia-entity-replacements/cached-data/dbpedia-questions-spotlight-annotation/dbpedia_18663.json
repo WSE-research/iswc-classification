@@ -1,0 +1,37 @@
+{
+    "@text": "Which wine region of Bogdanua is the Croatian Inline hockey team part of ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Wine",
+            "@support": "19907",
+            "@types": "Wikidata:Q2095,DUL:FunctionalSubstance,DBpedia:Food,DBpedia:Beverage",
+            "@surfaceForm": "wine",
+            "@offset": "6",
+            "@similarityScore": "0.8015396489082423",
+            "@percentageOfSecondRank": "0.1626414032036746"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Croatian_language",
+            "@support": "6522",
+            "@types": "Wikidata:Q34770,Wikidata:Q315,Schema:Language,DBpedia:Language",
+            "@surfaceForm": "Croatian",
+            "@offset": "37",
+            "@similarityScore": "0.9976958010296221",
+            "@percentageOfSecondRank": "0.0010574227393202538"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Roller_in-line_hockey",
+            "@support": "276",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "Inline hockey",
+            "@offset": "46",
+            "@similarityScore": "0.9993565395029164",
+            "@percentageOfSecondRank": "6.438748050821714E-4"
+        }
+    ]
+}

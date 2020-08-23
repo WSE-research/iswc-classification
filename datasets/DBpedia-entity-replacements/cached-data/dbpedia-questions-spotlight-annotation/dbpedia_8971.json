@@ -1,0 +1,37 @@
+{
+    "@text": "What Indian reservation region of Japan has diplomatic relations with Brazil?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Japan",
+            "@support": "175561",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Japan",
+            "@offset": "34",
+            "@similarityScore": "0.9988508611358671",
+            "@percentageOfSecondRank": "7.715609773931276E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Diplomacy",
+            "@support": "3879",
+            "@types": "",
+            "@surfaceForm": "diplomatic relations",
+            "@offset": "44",
+            "@similarityScore": "0.9998530465349269",
+            "@percentageOfSecondRank": "1.0237240113674082E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Brazil",
+            "@support": "96461",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Brazil",
+            "@offset": "70",
+            "@similarityScore": "0.9987414610659164",
+            "@percentageOfSecondRank": "0.0011040773772443987"
+        }
+    ]
+}

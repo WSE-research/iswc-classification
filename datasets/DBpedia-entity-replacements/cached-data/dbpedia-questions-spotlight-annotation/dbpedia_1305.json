@@ -1,0 +1,37 @@
+{
+    "@text": "Is Prince George of Cambridge related to Charles, Prince of Wales and Pippa Middleton?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Charles_II_of_England",
+            "@support": "7032",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Charles",
+            "@offset": "41",
+            "@similarityScore": "0.6460760489074974",
+            "@percentageOfSecondRank": "0.5360144845027112"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Wales",
+            "@support": "65349",
+            "@types": "",
+            "@surfaceForm": "Wales",
+            "@offset": "60",
+            "@similarityScore": "0.9924858764418788",
+            "@percentageOfSecondRank": "0.006316075017913597"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Pippa_Middleton",
+            "@support": "114",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Pippa Middleton",
+            "@offset": "70",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

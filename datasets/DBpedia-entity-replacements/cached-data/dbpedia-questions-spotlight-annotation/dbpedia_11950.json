@@ -1,0 +1,28 @@
+{
+    "@text": "What is the { start time } for { Jakarta } as { Tokyo } has { twined administrative body }?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Jakarta",
+            "@support": "13669",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Jakarta",
+            "@offset": "33",
+            "@similarityScore": "0.9999697439115992",
+            "@percentageOfSecondRank": "2.777043892504807E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tokyo",
+            "@support": "43062",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Tokyo",
+            "@offset": "48",
+            "@similarityScore": "0.9995810341765927",
+            "@percentageOfSecondRank": "2.804645136121875E-4"
+        }
+    ]
+}

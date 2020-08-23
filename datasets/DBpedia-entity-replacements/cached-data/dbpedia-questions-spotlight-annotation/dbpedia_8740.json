@@ -1,0 +1,28 @@
+{
+    "@text": "When is {drug interaction} {treatment} of {gastroenteritis} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Drug_interaction",
+            "@support": "197",
+            "@types": "",
+            "@surfaceForm": "drug interaction",
+            "@offset": "9",
+            "@similarityScore": "0.9999999999819522",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Gastroenteritis",
+            "@support": "679",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "gastroenteritis",
+            "@offset": "43",
+            "@similarityScore": "0.9999999691903843",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

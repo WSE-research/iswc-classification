@@ -1,0 +1,28 @@
+{
+    "@text": "Which {film genre} is {voiced by} of {Aesthetica of a Rogue Hero} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Aesthetica",
+            "@support": "52",
+            "@types": "Wikidata:Q41298,Wikidata:Q386724,Wikidata:Q1092563,Schema:CreativeWork,DBpedia:WrittenWork,DBpedia:Work,DBpedia:PeriodicalLiterature,DBpedia:Magazine",
+            "@surfaceForm": "Aesthetica",
+            "@offset": "38",
+            "@similarityScore": "0.9999999918787239",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rogue_Trooper",
+            "@support": "513",
+            "@types": "",
+            "@surfaceForm": "Rogue",
+            "@offset": "54",
+            "@similarityScore": "0.9095646652790615",
+            "@percentageOfSecondRank": "0.051816062715756527"
+        }
+    ]
+}

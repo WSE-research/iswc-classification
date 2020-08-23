@@ -1,0 +1,1462 @@
+{
+    "http://dbpedia.org/resource/Fiber_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ion_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chemical_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Far-infrared_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hydrogen_fluoride_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Blue_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Soviet_laser_pistol": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Strained_quantum-well_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Figure-8_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Solar-pumped_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Superradiant_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nanolaser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plasmonic_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/NLight": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Device"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u6fc0\u5149",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Laser",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Laser (licht)",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u041b\u0430\u0437\u0435\u0440",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u30ec\u30fc\u30b6\u30fc",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "L\u00e1ser",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Laser",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Laser",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0644\u064a\u0632\u0631",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Laser",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Laser",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Laser",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Il laser \u00e8 un dispositivo in grado di emettere un fascio di luce coerente. Il termine si riferisce oltre che al dispositivo anche al fenomeno fisico dell'amplificazione per emissione stimolata di un'onda elettromagnetica. La coerenza spaziale e temporale del raggio laser \u00e8 correlata alle sue principali propriet\u00e0. Alla coerenza temporale, cio\u00e8 al fatto che le onde conservano la stessa fase nel tempo, \u00e8 correlata la propriet\u00e0 dei laser di emettere fasci di radiazione in un intervallo spettrale molto stretto. \u00c8 considerata un'onda monocromatica anche se particolari dispositivi laser possono emettere contemporaneamente un numero discreto di fasci a diverse lunghezze d'onda. Alla coerenza spaziale, cio\u00e8 al fatto che la differenza di fase \u00e8 costante fra punti distinti in una sezione trasversa de",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u041b\u0430\u0301\u0437\u0435\u0440 (\u0430\u043d\u0433\u043b. laser, \u0430\u043a\u0440\u043e\u043d\u0438\u043c \u043e\u0442 light amplification by stimulated emission of radiation \u00ab\u0443\u0441\u0438\u043b\u0435\u043d\u0438\u0435 \u0441\u0432\u0435\u0442\u0430 \u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e\u043c \u0432\u044b\u043d\u0443\u0436\u0434\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u0437\u043b\u0443\u0447\u0435\u043d\u0438\u044f\u00bb), \u0438\u043b\u0438 \u043e\u043f\u0442\u0438\u0301\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u0432\u0430\u0301\u043d\u0442\u043e\u0432\u044b\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0301\u0442\u043e\u0440 \u2014 \u044d\u0442\u043e \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e, \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u0443\u044e\u0449\u0435\u0435 \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u043d\u0430\u043a\u0430\u0447\u043a\u0438 (\u0441\u0432\u0435\u0442\u043e\u0432\u0443\u044e, \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0443\u044e, \u0442\u0435\u043f\u043b\u043e\u0432\u0443\u044e, \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0438 \u0434\u0440.) \u0432 \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u043a\u043e\u0433\u0435\u0440\u0435\u043d\u0442\u043d\u043e\u0433\u043e, \u043c\u043e\u043d\u043e\u0445\u0440\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e, \u043f\u043e\u043b\u044f\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u0438 \u0443\u0437\u043a\u043e\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u043f\u043e\u0442\u043e\u043a\u0430 \u0438\u0437\u043b\u0443\u0447\u0435\u043d\u0438\u044f.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Laser ou l\u00eaiser (da sigla em ingl\u00eas para light amplification by stimulated emission of radiation, ou seja, amplifica\u00e7\u00e3o da luz por emiss\u00e3o estimulada de radia\u00e7\u00e3o) \u00e9 um dispositivo que produz radia\u00e7\u00e3o eletromagn\u00e9tica com caracter\u00edsticas muito especiais: ela \u00e9 monocrom\u00e1tica (possui comprimento de onda muito bem definido), coerente (todos os f\u00f3tons que comp\u00f5em o feixe emitido est\u00e3o em fase) e colimada (propaga-se como um feixe de ondas praticamente paralelas).",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "En 1916, Albert Einstein estableci\u00f3 los fundamentos para el desarrollo de los l\u00e1seres y de sus predecesores, los m\u00e1seres (que emiten microondas), utilizando la ley de radiaci\u00f3n de Max Planck basada en los conceptos de emisi\u00f3n espont\u00e1nea e inducida de radiaci\u00f3n. En 1928, Rudolf Landenburg inform\u00f3 haber obtenido la primera evidencia del fen\u00f3meno de emisi\u00f3n estimulada de radiaci\u00f3n, aunque no pas\u00f3 de ser una curiosidad de laboratorio, por lo que la teor\u00eda fue olvidada hasta despu\u00e9s de la Segunda Guerra Mundial, cuando fue demostrada definitivamente por Willis Eugene Lamb y R. C. Rutherford.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Laser /\u02c8l\u025b\u026az\u0259r/, /\u02c8le\u02d0z\u0259r/, /\u02c8la\u02d0z\u0259r/ (Akronym f\u00fcr engl. light amplification by stimulated emission of radiation \u201eLicht-Verst\u00e4rkung durch stimulierte Emission von Strahlung\u201c) ist ein Begriff aus der Physik. Er bezeichnet sowohl den physikalischen Effekt als auch das Ger\u00e4t, mit dem Laserstrahlen erzeugt werden.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Un laser (acronyme de l'anglais light amplification by stimulated emission of radiation) est un appareil qui produit un rayonnement spatialement et temporellement coh\u00e9rent bas\u00e9 sur l'effet laser. Descendant du maser, le laser s'est d'abord appel\u00e9 maser optique.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u30ec\u30fc\u30b6\u30fc\uff08laser\uff09\u3068\u306f\u3001\u5149\u3092\u5897\u5e45\u3057\u3066\u653e\u5c04\u3059\u308b\u30ec\u30fc\u30b6\u30fc\u88c5\u7f6e\u3092\u6307\u3059\u3002\u30ec\u30fc\u30b6\u3068\u3082\u547c\u3070\u308c\u308b\u3002\u30ec\u30fc\u30b6\u30fc\u5149\u306f\u6307\u5411\u6027\u3084\u53ce\u675f\u6027\u306b\u512a\u308c\u3066\u304a\u308a\u3001\u307e\u305f\u3001\u767a\u751f\u3059\u308b\u96fb\u78c1\u6ce2\u306e\u6ce2\u9577\u3092\u4e00\u5b9a\u306b\u4fdd\u3064\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u30ec\u30fc\u30b6\u30fc\u306e\u540d\u306f\u3001Light Amplification by Stimulated Emission of Radiation\uff08\u8f3b\u5c04\u306e\u8a98\u5c0e\u653e\u51fa\u306b\u3088\u308b\u5149\u5897\u5e45\uff09\u306e\u982d\u5b57\u8a9e\uff08\u30a2\u30af\u30ed\u30cb\u30e0\uff09\u304b\u3089\u540d\u4ed8\u3051\u3089\u308c\u305f\u3002\u30ec\u30fc\u30b6\u30fc\u306e\u767a\u660e\u306b\u3088\u308a\u975e\u7dda\u5f62\u5149\u5b66\u3068\u3044\u3046\u5b66\u554f\u304c\u751f\u307e\u308c\u305f\u3002 \u30ec\u30fc\u30b6\u30fc\u5149\u306f\u53ef\u8996\u5149\u9818\u57df\u306e\u96fb\u78c1\u6ce2\u3067\u3042\u308b\u3068\u306f\u9650\u3089\u306a\u3044\u3002\u7d2b\u5916\u7dda\u3084X\u7dda\u306a\u3069\u306e\u3088\u308a\u77ed\u3044\u6ce2\u9577\u3001\u307e\u305f\u8d64\u5916\u7dda\u306e\u3088\u3046\u306a\u3088\u308a\u9577\u3044\u6ce2\u9577\u306e\u30ec\u30fc\u30b6\u30fc\u5149\u3092\u767a\u751f\u3055\u305b\u308b\u88c5\u7f6e\u3082\u3042\u308b\u3002\u30df\u30ea\u6ce2\u3088\u308a\u6ce2\u9577\u306e\u9577\u3044\u96fb\u78c1\u6ce2\u306e\u3082\u306e\u306f\u30e1\u30fc\u30b6\u30fc\u3068\u547c\u3076\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Laser \u2013 urz\u0105dzenie emituj\u0105ce promieniowanie elektromagnetyczne z zakresu \u015bwiat\u0142a widzialnego, ultrafioletu lub podczerwieni, wykorzystuj\u0105ce zjawisko emisji wymuszonej. Nazwa jest akronimem od (ang.) Light Amplification by Stimulated Emission of Radiation: wzmocnienie \u015bwiat\u0142a poprzez wymuszon\u0105 emisj\u0119 promieniowania. Promieniowanie lasera jest sp\u00f3jne, zazwyczaj spolaryzowane i ma posta\u0107 wi\u0105zki o bardzo ma\u0142ej rozbie\u017cno\u015bci. W laserze \u0142atwo jest otrzyma\u0107 promieniowanie o bardzo ma\u0142ej szeroko\u015bci linii emisyjnej, co jest r\u00f3wnowa\u017cne bardzo du\u017cej mocy w wybranym, w\u0105skim obszarze widma. W laserach impulsowych mo\u017cna uzyska\u0107 bardzo du\u017c\u0105 moc w impulsie i bardzo kr\u00f3tki czas trwania impulsu (zob. laser femtosekundowy).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u6fc0\u5149\uff08\u82f1\u8bed\uff1aLight Amplification by Stimulated Emission of Radiation\uff0c\u7e2e\u5beb\u4e3aLASER\uff0c\u6216\u7c21\u7a31\u4e3alaser\uff1b\u5b57\u9762\u610f\u601d\u4e3a\u201c\u8f90\u5c04\u7684\u5149\u653e\u5927\u201d\uff09\uff0c\u53c8\u7a31\u956d\u5c04\u3001\u96f7\u5c04\uff0c\u6307\u901a\u8fc7\u8f90\u5c04\u800c\u4ea7\u751f\uff0c\u653e\u5927\u800c\u5177\u540c\u8abf\u6027\u7684\u5149\u3002\u7279\u70b9\u5305\u62ec\u53d1\u6563\u5ea6\u6781\u5c0f\uff0c\u4eae\u5ea6\uff08\u529f\u7387\uff09\u53ef\u4ee5\u8fbe\u5230\u5f88\u9ad8\u7b49\u3002\u7522\u751f\u6fc0\u5149\u9700\u8981\u201c\u6fc0\u767c\u4f86\u6e90\u201d\uff0c\u201c\u589e\u76ca\u4ecb\u8cea\u201d\uff0c\u201c\u5171\u632f\u7ed3\u6784\u201d\u9019\u4e09\u500b\u8981\u7d20\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Een laser is een lichtbron die in staat is een smalle coherente bundel licht voort te brengen. Het licht van een laser is daardoor monochromatisch en directioneel, in tegenstelling tot de meeste andere lichtbronnen, die in allerlei richtingen licht uitzenden in een breed spectrum van golflengtes en fasen. Ook zorgt laserlicht altijd voor een lichtbundel die niet of nauwelijks convergeert of divergeert.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016)  \u0647\u0630\u0647 \u0627\u0644\u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0644\u064a\u0632\u0631. \u0644\u062a\u0635\u0641\u062d \u0639\u0646\u0627\u0648\u064a\u0646 \u0645\u0634\u0627\u0628\u0647\u0629\u060c \u0627\u0646\u0638\u0631 \u0644\u064a\u0632\u0631 (\u062a\u0648\u0636\u064a\u062d). \u0627\u0644\u0644\u064a\u0632\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: LASER \u0648\u0647\u064a \u0627\u0633\u0645 \u062a\u0627\u062c\u064a \u0644\u0639\u0628\u0627\u0631\u0629 Light Amplification by Stimulated Emission of Radiation \u0623\u064a \u062a\u0636\u062e\u064a\u0645 \u0627\u0644\u0636\u0648\u0621 \u0628\u0627\u0646\u0628\u0639\u0627\u062b \u0627\u0644\u0625\u0634\u0639\u0627\u0639 \u0627\u0644\u0645\u062d\u0641\u0632) \u0647\u0648 \u0627\u0634\u0639\u0627\u0639 \u0643\u0647\u0631\u0648\u0645\u063a\u0646\u0627\u0637\u064a\u0633\u064a \u062a\u0643\u0648\u0646 \u0641\u0648\u062a\u0648\u0646\u0627\u062a\u0647 \u0645\u0633\u0627\u0648\u064a\u0629 \u0641\u064a \u0627\u0644\u062a\u0631\u062f\u062f \u0648\u0645\u062a\u0637\u0627\u0628\u0642\u0629 \u0627\u0644\u0637\u0648\u0631 \u0627\u0644\u0645\u0648\u062c\u064a \u062d\u064a\u062b \u062a\u062a\u062f\u0627\u062e\u0644 \u062a\u062f\u0627\u062e\u0644\u0627 \u0628\u0646\u0627\u0621\u064b \u0628\u064a\u0646 \u0645\u0648\u062c\u0627\u062a\u0647\u0627 \u0644\u062a\u062a\u062d\u0648\u0644 \u0625\u0644\u0649 \u0646\u0628\u0636\u0629 \u0636\u0648\u0626\u064a\u0629 \u0630\u0627\u062a \u0637\u0627\u0642\u0629 \u0639\u0627\u0644\u064a\u0629 \u0648\u0634\u062f\u064a\u062f\u0629 \u0627\u0644\u062a\u0645\u0627\u0633\u0643 \u0632\u0645\u0627\u0646\u064a\u0627 \u0648\u0645\u0643\u0627\u0646\u064a\u0627 \u0630\u0627\u062a \u0632\u0627\u0648\u064a\u0629 \u0627\u0646\u0641\u0631\u0627\u062c \u0635\u063a\u064a\u0631\u0629 \u062c\u062f\u0627 \u0648\u0647\u0648 \u0645\u0627\u0644\u0645 \u064a\u0645\u0643\u0646 \u062a\u062d\u0642\u064a\u0642\u0647 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u062a\u0642\u0646\u064a\u0627\u062a \u0623\u062e\u0631\u0649 \u063a\u064a\u0631 \u062a\u062d\u0641\u064a\u0632 \u0627\u0644\u0625\u0634\u0639\u0627\u0639.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "A laser is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnetic radiation. The term \"laser\" originated as an acronym for \"light amplification by stimulated emission of radiation\". The first laser was built in 1960 by Theodore H. Maiman at Hughes Research Laboratories, based on theoretical work by Charles Hard Townes and Arthur Leonard Schawlow. A laser differs from other sources of light in that it emits light coherently. Spatial coherence allows a laser to be focused to a tight spot, enabling applications such as laser cutting and lithography. Spatial coherence also allows a laser beam to stay narrow over great distances (collimation), enabling applications such as laser pointers. Lasers can also have high temporal cohere",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser_science"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Laser"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Laser"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Laser"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.04gh1"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Laser"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Laser_(licht)"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ub808\uc774\uc800"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30ec\u30fc\u30b6\u30fc"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Laser"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/L\u00e1ser"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4034610-9"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q38867"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Laser"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Laser"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039b\u03ad\u03b9\u03b6\u03b5\u03c1"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Laser"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q38867"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Directed-energy_weapons"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Soviet_inventions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:American_inventions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Russian_inventions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Photonics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Quantum_optics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Lasers"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Military_laser_experiment.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Laser"
+            }
+        ],
+        "http://www.w3.org/2004/02/skos/core#broadMatch": [
+            {
+                "type": "uri",
+                "value": "http://www.springernature.com/scigraph/things/subjects/high-field-lasers"
+            }
+        ],
+        "http://www.w3.org/2004/02/skos/core#closeMatch": [
+            {
+                "type": "uri",
+                "value": "http://www.springernature.com/scigraph/things/subjects/lasers-leds-and-light-sources"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Laser?oldid=743084595"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.optique-ingenieur.org/en/courses/OPI_ang_M01_C01/co/OPI_ang_M01_C01_web_1.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.advancingthelaser.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.irconnect.com/noc/press/pages/news_releases.html?d=154600"
+            },
+            {
+                "type": "uri",
+                "value": "http://ocw.mit.edu/resources/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.toutestquantique.fr/#laser"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.aip.org/history/exhibits/laser/sections/raydevices.html"
+            },
+            {
+                "type": "uri",
+                "value": "https://nanohub.org/resources/laserdyn"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.rp-photonics.com/encyclopedia.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.newscientist.com/article/dn13634-powerful-laser-is-brightest-light-in-the-universe.html#.VSLlWOGztqw"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.repairfaq.org/sam/lasersam.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://spie.org/x39914.xml"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.laserfest.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.technology.niagarac.on.ca/staff/mcsele/lasers/index.html"
+            }
+        ],
+        "http://dbpedia.org/property/alt": [
+            {
+                "type": "literal",
+                "value": "US laser warning label",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "European laser warning symbol",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/image": [
+            {
+                "type": "literal",
+                "value": "Laser label 2.jpg",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "DIN 4844-2 Warnung vor Laserstrahl D-W010.svg",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Een laser is een lichtbron die in staat is een smalle coherente bundel licht voort te brengen. Het licht van een laser is daardoor monochromatisch en directioneel, in tegenstelling tot de meeste andere lichtbronnen, die in allerlei richtingen licht uitzenden in een breed spectrum van golflengtes en fasen. Ook zorgt laserlicht altijd voor een lichtbundel die niet of nauwelijks convergeert of divergeert. Het woord laser is oorspronkelijk een acroniem van Light Amplification by Stimulated Emission of Radiation, in het Nederlands: lichtversterking door gestimuleerde uitzending van straling. Het woord is echter inmiddels zo ingeburgerd dat het niet meer gezien wordt als een afkorting. Zelfs in het Engels wordt het woord dan ook zonder hoofdletters geschreven (evenals radar).",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Laser /\u02c8l\u025b\u026az\u0259r/, /\u02c8le\u02d0z\u0259r/, /\u02c8la\u02d0z\u0259r/ (Akronym f\u00fcr engl. light amplification by stimulated emission of radiation \u201eLicht-Verst\u00e4rkung durch stimulierte Emission von Strahlung\u201c) ist ein Begriff aus der Physik. Er bezeichnet sowohl den physikalischen Effekt als auch das Ger\u00e4t, mit dem Laserstrahlen erzeugt werden. Laserstrahlen sind elektromagnetische Wellen. Vom Licht einer zur Beleuchtung verwendeten Lichtquelle, beispielsweise einer Gl\u00fchlampe, unterscheiden sie sich vor allem durch die sonst unerreichte Kombination von hoher Intensit\u00e4t, oft sehr engem Frequenzbereich (monochromatisches Licht), scharfer B\u00fcndelung des Strahls und gro\u00dfer Koh\u00e4renzl\u00e4nge. Auch sind, bei sehr weitem Frequenzbereich, extrem kurze und intensive Strahlpulse mit exakter Wiederholfrequenz m\u00f6glich. Laser haben zahlreiche Anwendungsm\u00f6glichkeiten in Technik und Forschung sowie im t\u00e4glichen Leben, vom einfachen Lichtzeiger (z. B. Laserpointer bei Pr\u00e4sentationen) \u00fcber Entfernungsmessger\u00e4te, Schneid- und Schwei\u00dfwerkzeuge, die Wiedergabe von optischen Speichermedien wie CDs, DVDs und Blu-ray Discs, Nachrichten\u00fcbertragung bis hin zum Laserskalpell und anderen Laserlicht verwendenden Ger\u00e4ten im medizinischen Alltag. Laser gibt es f\u00fcr Strahlungen in verschiedenen Bereichen des elektromagnetischen Spektrums: von Mikrowellen (Maser) \u00fcber Infrarot, sichtbares Licht, Ultraviolett bis hin zu R\u00f6ntgenstrahlung. Die besonderen Eigenschaften der Laserstrahlen entstehen durch ihre Erzeugung in Form einer stimulierten Emission. Der Laser arbeitet wie ein optischer Verst\u00e4rker, typischerweise in resonanter R\u00fcckkopplung. Die dazu erforderliche Energie wird von einem Lasermedium (bspw. Kristall, Gas oder Fl\u00fcssigkeit) bereitgestellt, in dem aufgrund \u00e4u\u00dferer Energiezufuhr eine Besetzungsinversion herrscht. Die resonante R\u00fcckkopplung entsteht in der Regel dadurch, dass das Lasermedium sich in einem elektromagnetischen Resonator f\u00fcr die Strahlung bestimmter Richtung und Wellenl\u00e4nge befindet. Neben den diskreten Energieniveaus von atomaren \u00dcberg\u00e4ngen gibt es auch Laserbauarten mit kontinuierlichen Energie\u00fcberg\u00e4ngen wie den Freie-Elektronen-Laser. Da atomare Energieniveaus auf < 13.6 eV (d. h. Wellenl\u00e4nge > 90 nm) beschr\u00e4nkt sind, ben\u00f6tigen insbesondere die im Bereich der R\u00f6ntgenstrahlung (< 10 nm) arbeitenden R\u00f6ntgenlaser solche besonderen Bauarten.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Il laser \u00e8 un dispositivo in grado di emettere un fascio di luce coerente. Il termine si riferisce oltre che al dispositivo anche al fenomeno fisico dell'amplificazione per emissione stimolata di un'onda elettromagnetica. La coerenza spaziale e temporale del raggio laser \u00e8 correlata alle sue principali propriet\u00e0. Alla coerenza temporale, cio\u00e8 al fatto che le onde conservano la stessa fase nel tempo, \u00e8 correlata la propriet\u00e0 dei laser di emettere fasci di radiazione in un intervallo spettrale molto stretto. \u00c8 considerata un'onda monocromatica anche se particolari dispositivi laser possono emettere contemporaneamente un numero discreto di fasci a diverse lunghezze d'onda. Alla coerenza spaziale, cio\u00e8 al fatto che la differenza di fase \u00e8 costante fra punti distinti in una sezione trasversa del fascio, \u00e8 correlata la possibilit\u00e0 di avere fasci unidirezionali e collimati, cio\u00e8 paralleli anche su lunghi percorsi. I fasci laser sono focalizzabili su aree molto piccole, anche con dimensioni dell'ordine del micrometro, impossibili con radiazioni non coerenti.L'emissione unidirezionale e coerente comporta la possibilit\u00e0 di raggiungere una irradianza o densit\u00e0 di potenza elevatissima a paragone di quella delle sorgenti luminose tradizionali. Queste propriet\u00e0 sono alla base del vasto ventaglio di applicazioni che i dispositivi laser hanno avuto e continuano ad avere nei campi pi\u00f9 disparati: l'elevatissima irradianza, data dal concentrare una grande potenza in un'area molto piccola, permette ai laser il taglio, l'incisione e la saldatura di metalli; la monocromaticit\u00e0 e coerenza li rende ottimi strumenti di misura di distanze, spostamenti e velocit\u00e0 anche piccolissimi, dell'ordine del micrometro (10^-6 m); sempre la monocromaticit\u00e0 li rende adatti a trasportare informazioni nelle fibre ottiche o nello spazio libero anche per lunghe distanze come avviene nelle comunicazioni ottiche. Inoltre impulsi laser ultrabrevi, dell'ordine dei femtosecondi, o con intensit\u00e0 elevatissima, dell'ordine dei 1018 W/cm2 sono impiegati nelle pi\u00f9 avanzate ricerche scientifiche.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "En 1916, Albert Einstein estableci\u00f3 los fundamentos para el desarrollo de los l\u00e1seres y de sus predecesores, los m\u00e1seres (que emiten microondas), utilizando la ley de radiaci\u00f3n de Max Planck basada en los conceptos de emisi\u00f3n espont\u00e1nea e inducida de radiaci\u00f3n. En 1928, Rudolf Landenburg inform\u00f3 haber obtenido la primera evidencia del fen\u00f3meno de emisi\u00f3n estimulada de radiaci\u00f3n, aunque no pas\u00f3 de ser una curiosidad de laboratorio, por lo que la teor\u00eda fue olvidada hasta despu\u00e9s de la Segunda Guerra Mundial, cuando fue demostrada definitivamente por Willis Eugene Lamb y R. C. Rutherford. En 1953, Charles H. Townes y los estudiantes de postgrado James P. Gordon y Herbert J. Zeiger construyeron el primer m\u00e1ser: un dispositivo que funcionaba con los mismos principios f\u00edsicos que el l\u00e1ser pero que produce un haz coherente de microondas. El m\u00e1ser de Townes era incapaz de funcionar en continuo. Nikol\u00e1i B\u00e1sov y Aleksandr Pr\u00f3jorov de la Uni\u00f3n Sovi\u00e9tica trabajaron independientemente en el oscilador cu\u00e1ntico y resolvieron el problema de obtener un m\u00e1ser de salida de luz continua, utilizando sistemas con m\u00e1s de dos niveles de energ\u00eda. Townes, B\u00e1sov y Pr\u00f3jorov compartieron el Premio Nobel de F\u00edsica en 1964 por \u00ablos trabajos fundamentales en el campo de la electr\u00f3nica cu\u00e1ntica\u00bb, los cuales condujeron a la construcci\u00f3n de osciladores y amplificadores basados en los principios de los m\u00e1ser-l\u00e1ser. El primer l\u00e1ser fue uno de rub\u00ed y funcion\u00f3 por primera vez el 16 de mayo de 1960. Fue construido por Theodore Maiman. El hecho de que sus resultados se publicaran con alg\u00fan retraso en Nature, dio tiempo a la puesta en marcha de otros desarrollos paralelos. Por este motivo, Townes y Arthur Leonard Schawlow tambi\u00e9n son considerados inventores del l\u00e1ser, el cual patentaron en 1960. Dos a\u00f1os despu\u00e9s, Robert Hall inventa el l\u00e1ser generado por semiconductor. En 1969 se encuentra la primera aplicaci\u00f3n industrial del l\u00e1ser al ser utilizado en las soldaduras de los elementos de chapa en la fabricaci\u00f3n de veh\u00edculos y, al a\u00f1o siguiente Gordon Gould patenta otras muchas aplicaciones pr\u00e1cticas para el l\u00e1ser. El 16 de mayo de 1980, un grupo de f\u00edsicos de la Universidad de Hull liderados por Geoffrey Pert registran la primera emisi\u00f3n l\u00e1ser en el rango de los rayos X. Pocos meses despu\u00e9s se comienza a comercializar el disco compacto, donde un haz l\u00e1ser de baja potencia \u00ablee\u00bb los datos codificados en forma de peque\u00f1os orificios (puntos y rayas) sobre un disco \u00f3ptico con una cara reflectante. Posteriormente esa secuencia de datos digitales se transforma en una se\u00f1al anal\u00f3gica permitiendo la escucha de los archivos musicales. En 1984, la tecnolog\u00eda desarrollada comienza a usarse en el campo del almacenamiento masivo de datos. En 1994, en el Reino Unido, se utiliza por primera vez la tecnolog\u00eda l\u00e1ser en cinem\u00f3metros para detectar conductores con exceso de velocidad. Posteriormente se extiende su uso por todo el mundo. Ya en el siglo XXI, cient\u00edficos de la Universidad de St. Andrews crean un l\u00e1ser que puede manipular objetos muy peque\u00f1os. Al mismo tiempo, cient\u00edficos japoneses crean objetos del tama\u00f1o de un gl\u00f3bulo rojo utilizando el l\u00e1ser. En 2002, cient\u00edficos australianos \u00abteletransportan\u00bb con \u00e9xito un haz de luz l\u00e1ser de un lugar a otro. Dos a\u00f1os despu\u00e9s el esc\u00e1ner l\u00e1ser permite al Museo Brit\u00e1nico efectuar exhibiciones virtuales. En 2006, cient\u00edficos de Intel descubren la forma de trabajar con un chip l\u00e1ser hecho con silicio abriendo las puertas para el desarrollo de redes de comunicaciones mucho m\u00e1s r\u00e1pidas y eficientes.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Un laser (acronyme de l'anglais light amplification by stimulated emission of radiation) est un appareil qui produit un rayonnement spatialement et temporellement coh\u00e9rent bas\u00e9 sur l'effet laser. Descendant du maser, le laser s'est d'abord appel\u00e9 maser optique. Une source laser associe un amplificateur optique bas\u00e9 sur l'effet laser \u00e0 une cavit\u00e9 optique, encore appel\u00e9e r\u00e9sonateur, g\u00e9n\u00e9ralement constitu\u00e9e de deux miroirs, dont au moins l'un des deux est partiellement r\u00e9fl\u00e9chissant, c'est-\u00e0-dire qu'une partie de la lumi\u00e8re sort de la cavit\u00e9 et l'autre partie est r\u00e9inject\u00e9e vers l'int\u00e9rieur de la cavit\u00e9 laser. Avec certaines longues cavit\u00e9s, la lumi\u00e8re laser peut \u00eatre extr\u00eamement directionnelle. Les caract\u00e9ristiques g\u00e9om\u00e9triques de cet ensemble imposent que le rayonnement \u00e9mis soit d'une grande puret\u00e9 spectrale, c\u2019est-\u00e0-dire temporellement coh\u00e9rent. Le spectre du rayonnement contient en effet un ensemble discret de raies tr\u00e8s fines, \u00e0 des longueurs d'ondes d\u00e9finies par la cavit\u00e9 et le milieu amplificateur. La finesse de ces raies est cependant limit\u00e9e par la stabilit\u00e9 de la cavit\u00e9 et par l'\u00e9mission spontan\u00e9e au sein de l'amplificateur (bruit quantique). Diff\u00e9rentes techniques permettent d'obtenir une \u00e9mission autour d'une seule longueur d'onde. Au XXIe si\u00e8cle, le laser est plus g\u00e9n\u00e9ralement vu comme une source possible pour tout rayonnement \u00e9lectromagn\u00e9tique, dont fait partie la lumi\u00e8re. Les longueurs d'ondes concern\u00e9es \u00e9taient d'abord les micro-ondes (maser), puis elles se sont \u00e9tendues aux domaines de l'infrarouge, du visible, de l'ultraviolet et commencent m\u00eame \u00e0 s'appliquer aux rayons X.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u041b\u0430\u0301\u0437\u0435\u0440 (\u0430\u043d\u0433\u043b. laser, \u0430\u043a\u0440\u043e\u043d\u0438\u043c \u043e\u0442 light amplification by stimulated emission of radiation \u00ab\u0443\u0441\u0438\u043b\u0435\u043d\u0438\u0435 \u0441\u0432\u0435\u0442\u0430 \u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e\u043c \u0432\u044b\u043d\u0443\u0436\u0434\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u0437\u043b\u0443\u0447\u0435\u043d\u0438\u044f\u00bb), \u0438\u043b\u0438 \u043e\u043f\u0442\u0438\u0301\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u0432\u0430\u0301\u043d\u0442\u043e\u0432\u044b\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0301\u0442\u043e\u0440 \u2014 \u044d\u0442\u043e \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e, \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u0443\u044e\u0449\u0435\u0435 \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u043d\u0430\u043a\u0430\u0447\u043a\u0438 (\u0441\u0432\u0435\u0442\u043e\u0432\u0443\u044e, \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0443\u044e, \u0442\u0435\u043f\u043b\u043e\u0432\u0443\u044e, \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0438 \u0434\u0440.) \u0432 \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u043a\u043e\u0433\u0435\u0440\u0435\u043d\u0442\u043d\u043e\u0433\u043e, \u043c\u043e\u043d\u043e\u0445\u0440\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e, \u043f\u043e\u043b\u044f\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u0438 \u0443\u0437\u043a\u043e\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u043f\u043e\u0442\u043e\u043a\u0430 \u0438\u0437\u043b\u0443\u0447\u0435\u043d\u0438\u044f. \u0424\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043e\u0441\u043d\u043e\u0432\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b \u043b\u0430\u0437\u0435\u0440\u0430 \u0441\u043b\u0443\u0436\u0438\u0442 \u043a\u0432\u0430\u043d\u0442\u043e\u0432\u043e\u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u044f\u0432\u043b\u0435\u043d\u0438\u0435 \u0432\u044b\u043d\u0443\u0436\u0434\u0435\u043d\u043d\u043e\u0433\u043e (\u0438\u043d\u0434\u0443\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e) \u0438\u0437\u043b\u0443\u0447\u0435\u043d\u0438\u044f. \u0418\u0437\u043b\u0443\u0447\u0435\u043d\u0438\u0435 \u043b\u0430\u0437\u0435\u0440\u0430 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u044b\u043c, \u0441 \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u0439 \u043c\u043e\u0449\u043d\u043e\u0441\u0442\u044c\u044e, \u0438\u043b\u0438 \u0438\u043c\u043f\u0443\u043b\u044c\u0441\u043d\u044b\u043c, \u0434\u043e\u0441\u0442\u0438\u0433\u0430\u044e\u0449\u0438\u043c \u043f\u0440\u0435\u0434\u0435\u043b\u044c\u043d\u043e \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u043f\u0438\u043a\u043e\u0432\u044b\u0445 \u043c\u043e\u0449\u043d\u043e\u0441\u0442\u0435\u0439. \u0412 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0441\u0445\u0435\u043c\u0430\u0445 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u043b\u0430\u0437\u0435\u0440\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043e\u043f\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0441\u0438\u043b\u0438\u0442\u0435\u043b\u044f \u0434\u043b\u044f \u0438\u0437\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u043e\u0442 \u0434\u0440\u0443\u0433\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430. \u0421\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0432\u0438\u0434\u043e\u0432 \u043b\u0430\u0437\u0435\u0440\u043e\u0432, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0449\u0438\u0445 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0440\u0430\u0431\u043e\u0447\u0435\u0439 \u0441\u0440\u0435\u0434\u044b \u0432\u0441\u0435 \u0430\u0433\u0440\u0435\u0433\u0430\u0442\u043d\u044b\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u044f \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430. \u041d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0442\u0438\u043f\u044b \u043b\u0430\u0437\u0435\u0440\u043e\u0432, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u043b\u0430\u0437\u0435\u0440\u044b \u043d\u0430 \u0440\u0430\u0441\u0442\u0432\u043e\u0440\u0430\u0445 \u043a\u0440\u0430\u0441\u0438\u0442\u0435\u043b\u0435\u0439 \u0438\u043b\u0438 \u043f\u043e\u043b\u0438\u0445\u0440\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0432\u0435\u0440\u0434\u043e\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043b\u0430\u0437\u0435\u0440\u044b, \u043c\u043e\u0433\u0443\u0442 \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0446\u0435\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440 \u0447\u0430\u0441\u0442\u043e\u0442 (\u043c\u043e\u0434 \u043e\u043f\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0435\u0437\u043e\u043d\u0430\u0442\u043e\u0440\u0430) \u0432 \u0448\u0438\u0440\u043e\u043a\u043e\u043c \u0441\u043f\u0435\u043a\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u043c \u0434\u0438\u0430\u043f\u0430\u0437\u043e\u043d\u0435. \u0413\u0430\u0431\u0430\u0440\u0438\u0442\u044b \u043b\u0430\u0437\u0435\u0440\u043e\u0432 \u0440\u0430\u0437\u043d\u044f\u0442\u0441\u044f \u043e\u0442 \u043c\u0438\u043a\u0440\u043e\u0441\u043a\u043e\u043f\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0434\u043b\u044f \u0440\u044f\u0434\u0430 \u043f\u043e\u043b\u0443\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u0438\u043a\u043e\u0432\u044b\u0445 \u043b\u0430\u0437\u0435\u0440\u043e\u0432 \u0434\u043e \u0440\u0430\u0437\u043c\u0435\u0440\u043e\u0432 \u0444\u0443\u0442\u0431\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0434\u043b\u044f \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043b\u0430\u0437\u0435\u0440\u043e\u0432 \u043d\u0430 \u043d\u0435\u043e\u0434\u0438\u043c\u043e\u0432\u043e\u043c \u0441\u0442\u0435\u043a\u043b\u0435. \u0423\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430 \u0438\u0437\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u043b\u0430\u0437\u0435\u0440\u043e\u0432 \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u043b\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0438\u0445 \u0432 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043e\u0442\u0440\u0430\u0441\u043b\u044f\u0445 \u043d\u0430\u0443\u043a\u0438 \u0438 \u0442\u0435\u0445\u043d\u0438\u043a\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0432 \u0431\u044b\u0442\u0443, \u043d\u0430\u0447\u0438\u043d\u0430\u044f \u0441 \u0447\u0442\u0435\u043d\u0438\u044f \u0438 \u0437\u0430\u043f\u0438\u0441\u0438 \u043a\u043e\u043c\u043f\u0430\u043a\u0442-\u0434\u0438\u0441\u043a\u043e\u0432 \u0438 \u0437\u0430\u043a\u0430\u043d\u0447\u0438\u0432\u0430\u044f \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f\u043c\u0438 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u043c\u043e\u0433\u043e \u0442\u0435\u0440\u043c\u043e\u044f\u0434\u0435\u0440\u043d\u043e\u0433\u043e \u0441\u0438\u043d\u0442\u0435\u0437\u0430.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Laser ou l\u00eaiser (da sigla em ingl\u00eas para light amplification by stimulated emission of radiation, ou seja, amplifica\u00e7\u00e3o da luz por emiss\u00e3o estimulada de radia\u00e7\u00e3o) \u00e9 um dispositivo que produz radia\u00e7\u00e3o eletromagn\u00e9tica com caracter\u00edsticas muito especiais: ela \u00e9 monocrom\u00e1tica (possui comprimento de onda muito bem definido), coerente (todos os f\u00f3tons que comp\u00f5em o feixe emitido est\u00e3o em fase) e colimada (propaga-se como um feixe de ondas praticamente paralelas).",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Laser \u2013 urz\u0105dzenie emituj\u0105ce promieniowanie elektromagnetyczne z zakresu \u015bwiat\u0142a widzialnego, ultrafioletu lub podczerwieni, wykorzystuj\u0105ce zjawisko emisji wymuszonej. Nazwa jest akronimem od (ang.) Light Amplification by Stimulated Emission of Radiation: wzmocnienie \u015bwiat\u0142a poprzez wymuszon\u0105 emisj\u0119 promieniowania. Promieniowanie lasera jest sp\u00f3jne, zazwyczaj spolaryzowane i ma posta\u0107 wi\u0105zki o bardzo ma\u0142ej rozbie\u017cno\u015bci. W laserze \u0142atwo jest otrzyma\u0107 promieniowanie o bardzo ma\u0142ej szeroko\u015bci linii emisyjnej, co jest r\u00f3wnowa\u017cne bardzo du\u017cej mocy w wybranym, w\u0105skim obszarze widma. W laserach impulsowych mo\u017cna uzyska\u0107 bardzo du\u017c\u0105 moc w impulsie i bardzo kr\u00f3tki czas trwania impulsu (zob. laser femtosekundowy).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u6fc0\u5149\uff08\u82f1\u8bed\uff1aLight Amplification by Stimulated Emission of Radiation\uff0c\u7e2e\u5beb\u4e3aLASER\uff0c\u6216\u7c21\u7a31\u4e3alaser\uff1b\u5b57\u9762\u610f\u601d\u4e3a\u201c\u8f90\u5c04\u7684\u5149\u653e\u5927\u201d\uff09\uff0c\u53c8\u7a31\u956d\u5c04\u3001\u96f7\u5c04\uff0c\u6307\u901a\u8fc7\u8f90\u5c04\u800c\u4ea7\u751f\uff0c\u653e\u5927\u800c\u5177\u540c\u8abf\u6027\u7684\u5149\u3002\u7279\u70b9\u5305\u62ec\u53d1\u6563\u5ea6\u6781\u5c0f\uff0c\u4eae\u5ea6\uff08\u529f\u7387\uff09\u53ef\u4ee5\u8fbe\u5230\u5f88\u9ad8\u7b49\u3002\u7522\u751f\u6fc0\u5149\u9700\u8981\u201c\u6fc0\u767c\u4f86\u6e90\u201d\uff0c\u201c\u589e\u76ca\u4ecb\u8cea\u201d\uff0c\u201c\u5171\u632f\u7ed3\u6784\u201d\u9019\u4e09\u500b\u8981\u7d20\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "A laser is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnetic radiation. The term \"laser\" originated as an acronym for \"light amplification by stimulated emission of radiation\". The first laser was built in 1960 by Theodore H. Maiman at Hughes Research Laboratories, based on theoretical work by Charles Hard Townes and Arthur Leonard Schawlow. A laser differs from other sources of light in that it emits light coherently. Spatial coherence allows a laser to be focused to a tight spot, enabling applications such as laser cutting and lithography. Spatial coherence also allows a laser beam to stay narrow over great distances (collimation), enabling applications such as laser pointers. Lasers can also have high temporal coherence, which allows them to emit light with a very narrow spectrum, i.e., they can emit a single color of light. Temporal coherence can be used to produce pulses of light as short as a femtosecond. Among their many applications, lasers are used in optical disk drives, laser printers, and barcode scanners; DNA sequencing instruments, fiber-optic and free-space optical communication; laser surgery and skin treatments; cutting and welding materials; military and law enforcement devices for marking targets and measuring range and speed; and laser lighting displays in entertainment.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016)  \u0647\u0630\u0647 \u0627\u0644\u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0644\u064a\u0632\u0631. \u0644\u062a\u0635\u0641\u062d \u0639\u0646\u0627\u0648\u064a\u0646 \u0645\u0634\u0627\u0628\u0647\u0629\u060c \u0627\u0646\u0638\u0631 \u0644\u064a\u0632\u0631 (\u062a\u0648\u0636\u064a\u062d). \u0627\u0644\u0644\u064a\u0632\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: LASER \u0648\u0647\u064a \u0627\u0633\u0645 \u062a\u0627\u062c\u064a \u0644\u0639\u0628\u0627\u0631\u0629 Light Amplification by Stimulated Emission of Radiation \u0623\u064a \u062a\u0636\u062e\u064a\u0645 \u0627\u0644\u0636\u0648\u0621 \u0628\u0627\u0646\u0628\u0639\u0627\u062b \u0627\u0644\u0625\u0634\u0639\u0627\u0639 \u0627\u0644\u0645\u062d\u0641\u0632) \u0647\u0648 \u0627\u0634\u0639\u0627\u0639 \u0643\u0647\u0631\u0648\u0645\u063a\u0646\u0627\u0637\u064a\u0633\u064a \u062a\u0643\u0648\u0646 \u0641\u0648\u062a\u0648\u0646\u0627\u062a\u0647 \u0645\u0633\u0627\u0648\u064a\u0629 \u0641\u064a \u0627\u0644\u062a\u0631\u062f\u062f \u0648\u0645\u062a\u0637\u0627\u0628\u0642\u0629 \u0627\u0644\u0637\u0648\u0631 \u0627\u0644\u0645\u0648\u062c\u064a \u062d\u064a\u062b \u062a\u062a\u062f\u0627\u062e\u0644 \u062a\u062f\u0627\u062e\u0644\u0627 \u0628\u0646\u0627\u0621\u064b \u0628\u064a\u0646 \u0645\u0648\u062c\u0627\u062a\u0647\u0627 \u0644\u062a\u062a\u062d\u0648\u0644 \u0625\u0644\u0649 \u0646\u0628\u0636\u0629 \u0636\u0648\u0626\u064a\u0629 \u0630\u0627\u062a \u0637\u0627\u0642\u0629 \u0639\u0627\u0644\u064a\u0629 \u0648\u0634\u062f\u064a\u062f\u0629 \u0627\u0644\u062a\u0645\u0627\u0633\u0643 \u0632\u0645\u0627\u0646\u064a\u0627 \u0648\u0645\u0643\u0627\u0646\u064a\u0627 \u0630\u0627\u062a \u0632\u0627\u0648\u064a\u0629 \u0627\u0646\u0641\u0631\u0627\u062c \u0635\u063a\u064a\u0631\u0629 \u062c\u062f\u0627 \u0648\u0647\u0648 \u0645\u0627\u0644\u0645 \u064a\u0645\u0643\u0646 \u062a\u062d\u0642\u064a\u0642\u0647 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u062a\u0642\u0646\u064a\u0627\u062a \u0623\u062e\u0631\u0649 \u063a\u064a\u0631 \u062a\u062d\u0641\u064a\u0632 \u0627\u0644\u0625\u0634\u0639\u0627\u0639. \u0628\u0633\u0628\u0628 \u0637\u0627\u0642\u062a\u0647\u0627 \u0627\u0644\u0639\u0627\u0644\u064a\u0629 \u0648\u0632\u0627\u0648\u064a\u0629 \u0627\u0646\u0641\u0631\u0627\u062c\u0647\u0627 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u062c\u062f\u0627 \u062a\u0633\u062a\u062e\u062f\u0645 \u0627\u0634\u0639\u0629 \u0627\u0644\u0644\u064a\u0632\u0631 \u0641\u064a \u0639\u062f\u0629 \u0645\u062c\u0627\u0644\u0627\u062a \u0623\u0647\u0645\u0647\u0627 \u0627\u0644\u0642\u064a\u0627\u0633 \u0643\u0642\u064a\u0627\u0633 \u0627\u0644\u0645\u0633\u0627\u0641\u0627\u062a \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u062c\u062f\u0627 \u0623\u0648 \u0627\u0644\u0643\u0628\u064a\u0631\u0629 \u062c\u062f\u0627 \u0628\u062f\u0642\u0629 \u0645\u062a\u0646\u0627\u0647\u064a\u0629 \u0648\u064a\u0633\u062a\u062e\u062f\u0645 \u0623\u064a\u0636\u0627 \u0641\u064a \u0625\u0646\u062a\u0627\u062c \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u0642\u0637\u0639 \u0627\u0644\u0635\u0646\u0627\u0639\u064a \u0648\u0641\u0649 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u062c\u0631\u0627\u062d\u064a\u0629 \u062e\u0627\u0635\u0629 \u0641\u064a \u0627\u0644\u0639\u064a\u0646 \u0648\u064a\u0633\u062a\u062e\u062f\u0645 \u0623\u064a\u0636\u0627 \u0641\u064a \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0629 \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0623\u0642\u0631\u0627\u0635 \u0627\u0644\u0636\u0648\u0626\u064a\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u30ec\u30fc\u30b6\u30fc\uff08laser\uff09\u3068\u306f\u3001\u5149\u3092\u5897\u5e45\u3057\u3066\u653e\u5c04\u3059\u308b\u30ec\u30fc\u30b6\u30fc\u88c5\u7f6e\u3092\u6307\u3059\u3002\u30ec\u30fc\u30b6\u3068\u3082\u547c\u3070\u308c\u308b\u3002\u30ec\u30fc\u30b6\u30fc\u5149\u306f\u6307\u5411\u6027\u3084\u53ce\u675f\u6027\u306b\u512a\u308c\u3066\u304a\u308a\u3001\u307e\u305f\u3001\u767a\u751f\u3059\u308b\u96fb\u78c1\u6ce2\u306e\u6ce2\u9577\u3092\u4e00\u5b9a\u306b\u4fdd\u3064\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u30ec\u30fc\u30b6\u30fc\u306e\u540d\u306f\u3001Light Amplification by Stimulated Emission of Radiation\uff08\u8f3b\u5c04\u306e\u8a98\u5c0e\u653e\u51fa\u306b\u3088\u308b\u5149\u5897\u5e45\uff09\u306e\u982d\u5b57\u8a9e\uff08\u30a2\u30af\u30ed\u30cb\u30e0\uff09\u304b\u3089\u540d\u4ed8\u3051\u3089\u308c\u305f\u3002\u30ec\u30fc\u30b6\u30fc\u306e\u767a\u660e\u306b\u3088\u308a\u975e\u7dda\u5f62\u5149\u5b66\u3068\u3044\u3046\u5b66\u554f\u304c\u751f\u307e\u308c\u305f\u3002 \u30ec\u30fc\u30b6\u30fc\u5149\u306f\u53ef\u8996\u5149\u9818\u57df\u306e\u96fb\u78c1\u6ce2\u3067\u3042\u308b\u3068\u306f\u9650\u3089\u306a\u3044\u3002\u7d2b\u5916\u7dda\u3084X\u7dda\u306a\u3069\u306e\u3088\u308a\u77ed\u3044\u6ce2\u9577\u3001\u307e\u305f\u8d64\u5916\u7dda\u306e\u3088\u3046\u306a\u3088\u308a\u9577\u3044\u6ce2\u9577\u306e\u30ec\u30fc\u30b6\u30fc\u5149\u3092\u767a\u751f\u3055\u305b\u308b\u88c5\u7f6e\u3082\u3042\u308b\u3002\u30df\u30ea\u6ce2\u3088\u308a\u6ce2\u9577\u306e\u9577\u3044\u96fb\u78c1\u6ce2\u306e\u3082\u306e\u306f\u30e1\u30fc\u30b6\u30fc\u3068\u547c\u3076\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Military_laser_experiment.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743084595,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 17556,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Device"
+            }
+        ],
+        "http://dbpedia.org/property/width": [
+            {
+                "type": "literal",
+                "value": 153,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/footer": [
+            {
+                "type": "literal",
+                "value": "Left: European laser warning symbol required for Class 2 lasers and higher. Right: US laser warning label, in this case for a Class 3B laser",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser_heater": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Optical_oscillator": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Type_87_Chu-MAT": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IllumiNations:_Reflections_of_Earth": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ElectricOIL": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Omid_Kokabee": {
+        "http://dbpedia.org/ontology/occupation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Green_laser": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gas_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tunable_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/4Pi_microscope": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Trodat": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lase": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Infrared_laser": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tactical_High_Energy_Laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Luminosity_\u2014_Ignite_the_Night!": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Quantum_dot_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ruby_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser_Radiation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Laser": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laserbeams": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Light_Amplification_By_Stimulated_Emission_Of_Radiation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Optical_laser": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ZT3_Ingwe": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser_light": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Light_Amplification_By_Stimulated_Emission": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Continuous_wave_laser": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/S\u00e9rgio_Pereira_da_Silva_Porto": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Brian_E._Dalrymple": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vertical-external-cavity_surface-emitting-laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LASER": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Boeing_YAL-1": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Active_species": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lazers": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Charles_H._Townes": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nicolaas_Bloembergen": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ronald_Drever": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser_Focus_World": {
+        "http://dbpedia.org/ontology/academicDiscipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rani_Spas": {
+        "http://dbpedia.org/ontology/service": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electro_Scientific_Industries": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Viridian_Green_Laser_Sights": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Willis_Lamb": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser_pulse": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Light_Amplification_by_Stimulated_Emissions_of_Radiation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Resolved_sideband_cooling": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Line_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser_beams": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nikolay_Basov": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Alexander_Prokhorov": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/9K121_Vikhr": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lasers": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dental_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Microlaser": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser-shooting": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Optical_maser": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gordon_Gould": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dieter_Laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Joseph_Weber": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nikolay_Kudryavtsev": {
+        "http://dbpedia.org/ontology/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Okan_Ersoy": {
+        "http://dbpedia.org/ontology/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Strontium_vapor_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jenoptik": {
+        "http://dbpedia.org/ontology/service": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Theodor_W._H\u00e4nsch": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SACLA": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Liquid-crystal_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nintendo_optical_discs": {
+        "http://dbpedia.org/property/read": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Argus_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ultrashort_pulse_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gas_dynamic_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/TEA_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Random_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/IgNight_\u2014_Grand_Finale": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/AN/PEQ-6": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Light_Amplification_By_Simulated_Emission_Of_Radia": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Continuous-wave_laser": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Free-electron_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nitrogen_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/All_gas-phase_iodine_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nova_(laser)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dye_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Helium\u2013neon_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Solid-state_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cyclops_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser_science": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser_treatment": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nuclear_pumped_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Energy_beams": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chemical_oxygen_iodine_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hybrid_silicon_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Coherent_radiation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Light_Amplification_by_Stimulated_Emission_of_Radiation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Energy_beam": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fiber_disk_laser": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LAHAT": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Iron_Beam": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Andrius_Baltu\u0161ka": {
+        "http://dbpedia.org/ontology/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Optical_molasses": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser_beam": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Light_Amplification_of_Stimulated_Emission_of_Radiation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Light_Amplification": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Light_amplification_by_simulated_emission_of_radiation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/L.A.S.E.R.": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bina_(missile)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gamma-Ray_Amplification_by_Stimulated_Emission_of_Radiation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Light_amplification_by_stimulated_emission_of_radiation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lasing": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Battery_powered_laser": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laserlight": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lasrs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser_treatment_for_tattoos": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Laser_oscillation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Laser"
+            }
+        ]
+    }
+}

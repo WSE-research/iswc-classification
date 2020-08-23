@@ -1,0 +1,844 @@
+{
+    "http://dbpedia.org/resource/Sahih_Al-Bukhari:_The_Early_Years_of_Islam": {
+        "http://dbpedia.org/ontology/literaryGenre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Religious_text": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/List106481320"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Book"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Database106637824"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Message106598915"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatReligiousTexts"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SacredText106429590"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatReligiousBibliographies"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Communication100033020"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Document106470073"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Information106634376"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatDocuments"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Bibliography106486630"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WrittenCommunication106349220"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Writing106362953"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Religious text",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u5b97\u6559\u7d93\u5178",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Livro sagrado",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0435 \u0442\u0435\u043a\u0441\u0442\u044b",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Libro sagrado",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Heilige Schrift",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Testi sacri",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u8056\u5178",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Texte sacr\u00e9",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Heilig boek",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u015awi\u0119te ksi\u0119gi",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0646\u0635\u0648\u0635 \u0645\u0642\u062f\u0633\u0629",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "I testi sacri (o sacre scritture) sono dei documenti o delle opere letterarie ritenute sacre dalle religioni e movimenti spirituali.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "La d\u00e9finition de texte sacr\u00e9 est tr\u00e8s large, elle indique simplement qu'un \u00e9crit est en relation avec le divin, avec une divinit\u00e9. Il peut s'agir de textes magiques (magie), mythologiques (mythe), ex\u00e9g\u00e9tiques, divinatoires, rituels, de pri\u00e8res, de prescriptions\u2026 Un ensemble de textes qui forment une unit\u00e9 est un corpus. La hi\u00e9rographologie ou hi\u00e9rologie est l'\u00e9tude des textes sacr\u00e9s. La Tanakh, la Bible ou le Coran sont des corpus, ils sont aussi devenus des canons. De nos jours, ils sont \u00e9dit\u00e9s sous forme papier ou \u00e9lectronique.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0643\u062a\u0627\u0628 \u0627\u0644\u0645\u064f\u0642\u062f\u0633\u060c \u064a\u064f\u0639\u0631\u0641 \u0623\u064a\u0636\u0627\u064b \u0628\u0627\u0633\u0645 \u0627\u0644\u0646\u0635 \u0627\u0644\u0645\u064f\u0642\u062f\u0633\u060c \u0627\u0644\u0623\u0645\u0631 \u0627\u0644\u0645\u064f\u0642\u062f\u0633 \u0648\u0627\u0644\u0633\u0650\u0641\u0631 \u0627\u0644\u0645\u064f\u0642\u062f\u0633. \u062a\u064f\u0639\u062a\u0628\u0631 \u0647\u0630\u0647 \u0627\u0644\u0643\u062a\u0628 \u0646\u0635\u0648\u0635\u0627\u064b \u0645\u0642\u062f\u0633\u0629 \u0641\u064a \u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0623\u062f\u064a\u0627\u0646 \u0648\u0627\u0644\u062a\u064a \u062a\u0631\u0627\u0647\u0627 \u0645\u062a\u0645\u062d\u0648\u0631\u0629 \u062d\u0648\u0644 \u0639\u0642\u064a\u062f\u0629 \u0627\u0644\u062f\u064a\u0646 \u0630\u0627\u062a\u0647. \u062a\u0624\u0645\u0646 \u063a\u0627\u0644\u0628\u064a\u0629 \u0627\u0644\u0623\u062f\u064a\u0627\u0646 \u0648\u0627\u0644\u062d\u0631\u0643\u0627\u062a \u0627\u0644\u0631\u0648\u062d\u0627\u0646\u064a\u0629 \u0628\u0623\u0646 \u0643\u064f\u062a\u0628\u0647\u0627 \u0627\u0644\u0645\u0642\u062f\u0633\u0629 \u0644\u0647\u0627 \u0623\u0635\u0644 \u0625\u0644\u0647\u064a \u0623\u0648 \u0642\u0648\u0649 \u0645\u0627\u0648\u0631\u0627\u0621 \u0627\u0644\u0637\u0628\u064a\u0639\u0629 \u0648\u0627\u0644\u062a\u064a \u062a\u0645 \u0625\u0646\u0632\u0627\u0644\u0647\u0627 \u0623\u0648 \u0648\u062d\u064a\u0647\u0627 \u0628\u0637\u0631\u064a\u0642\u0629 \u0645\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0435 \u0442\u0435\u043a\u0441\u0442\u044b \u0438\u043b\u0438 \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0435 \u0442\u0435\u043a\u0441\u0442\u044b \u2014 \u0442\u0435\u043a\u0441\u0442\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0440\u0435\u043b\u0438\u0433\u0438\u044f\u0445 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043a\u0430\u043a \u0441\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0435 \u0438 \u0437\u0430\u043d\u0438\u043c\u0430\u044e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0432 \u0438\u0445 \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u043e\u0439 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0438. \u041f\u0440\u0438 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0438 \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0445 \u0442\u0435\u043a\u0441\u0442\u043e\u0432 \u0431\u0435\u0440\u0443\u0442\u0441\u044f \u0438\u0441\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u0438\u0441\u044c\u043c\u0435\u043d\u043d\u044b\u0435 \u0442\u0435\u043a\u0441\u0442\u044b, \u0443\u0441\u0442\u043d\u0430\u044f \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u044f \u043d\u0435 \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u0442\u0441\u044f. \u041a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0435 \u0442\u0435\u043a\u0441\u0442\u044b, \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u043d\u0430 \u0441\u0432\u043e\u0451 \u0441\u0432\u0435\u0440\u0445\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u043e\u0435 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u0432\u0434\u043e\u0445\u043d\u043e\u0432\u0435\u043d\u0438\u0435 \u0431\u043e\u0436\u0435\u0441\u0442\u0432\u0430. \u0412 \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0445 \u0442\u0435\u043a\u0441\u0442\u0430\u0445 \u043e\u0447\u0435\u043d\u044c \u0432\u0430\u0436\u043d\u0430 \u043f\u0440\u0435\u0435\u043c\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0441\u0430\u043a\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u043d\u0430\u043d\u0438\u044f.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Als heilige Schriften bezeichnet die vergleichende Religionswissenschaft Texte, die f\u00fcr eine Religion normativ sind. In den unterschiedlichen Religionen gibt es auch ein je unterschiedliches Verst\u00e4ndnis, was als normativer Text gilt. Ebenso ist die jeweilige Autorit\u00e4t eines Textes in den Religionen unterschiedlich. Religionen, die sich stark an Texten orientieren, nennt man auch Schrift- oder Buchreligionen. In schriftlosen Kulturen spielen kollektive \u00dcberlieferungen von Mythen als orale Texte die gleiche Rolle wie heilige Schriften (siehe auch: Ethnische Religion).",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Religious texts (also known as scripture, or scriptures, from the Latin scriptura, meaning \"a writing\" ) are the texts which various religious traditions consider to be sacred, or central to their religious tradition. Religious texts may be used to evoke a deeper connection with the divine, convey spiritual truths, promote mystical experience, foster communal identity, and to guide individual and communal spiritual practice. Many religions and spiritual movements believe that their sacred texts are divinely or supernaturally revealed or inspired. The monotheistic faiths view their texts as the \"Word of God\" and divine revelation.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Een heilig boek of een heilig geschrift is in veel religies en spirituele bewegingen een boek of geschrift dat door de aanhangers van deze bewegingen wordt beschouwd als van goddelijke of spirituele oorsprong. Meestal vormen deze teksten een belangrijke fundering van zo'n beweging. Hoewel antieke beschavingen gedurende duizenden jaren handgemaakte teksten hebben geproduceerd, was het eerste gedrukte, voor massa-verspreiding bedoelde geschrift, de Diamantsoetra, een boeddhistisch geschrift uit het jaar 868.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u8056\u5178\uff08\u305b\u3044\u3066\u3093\uff09\u3068\u306f\u3001\u795e\u3084\u795e\u7684\u5b58\u5728\u3001\u8056\u4eba\u306e\u8a00\u884c\u304c\u66f8\u304b\u308c\u305f\u3082\u306e\u3001\u307e\u305f\u306f\u6559\u8aac\u304c\u3064\u3065\u3089\u308c\u305f\u3082\u306e\u306e\u5185\u3001\u305d\u308c\u305e\u308c\u306e\u5b97\u6559\u5185\u3067\u3001\u7279\u306b\u6a29\u5a01\u3042\u308b\u66f8\u7269\u3092\u3044\u3046\u3002\u6559\u5178\u3068\u3082\u3044\u3046\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u5b97\u6559\u7ecf\u5178\uff08\u82f1\u8bed\uff1areligious texts\u6216scripture\uff09\u662f\u88ab\u5404\u4e2a\u5b97\u6559\u5206\u522b\u89c6\u4e3a\u5177\u6709\u795e\u5723\u6027\uff0c\u4e00\u822c\u5728\u5b97\u6559\u6559\u4e49\u548c\u5b9e\u8df5\u4e2d\u5177\u6709\u4e2d\u5fc3\u5730\u4f4d\u7684\u6587\u732e\uff0c\u4f54\u4e86\u4e16\u754c\u6587\u737b\u7684\u4e00\u5927\u90e8\u5206\u3002\u5f88\u591a\u5b97\u6559\u548c\u65b0\u7d00\u5143\u904b\u52d5\u76f8\u4fe1\u4ed6\u5011\u7684\u795e\u8056\u6587\u737b\u662f\u7531\u795e\u6216\u8d85\u81ea\u7136\u529b\u91cf\u6240\u555f\u793a\u3002 \u591a\u6578\u53e4\u4ee3\u7684\u5b97\u6559\u6587\u737b\u8d77\u521d\u662f\u53e3\u50b3\uff0c\u901a\u904e\u80cc\u8aa6\u800c\u6d41\u50b3\uff0c\u5176\u5f8c\u624d\u8f2f\u9304\u6210\u66f8\u3002\u9019\u4e9b\u5b97\u6559\u6587\u737b\u6700\u521d\u5168\u90fd\u662f\u4eba\u624b\u7de8\u5beb\u7684\uff0c\u518d\u901a\u904e\u50b3\u6284\u65b9\u5f0f\u6d41\u50b3\u3002\u76f4\u5230\u516c\u5143868\u5e74\uff0c\u4f5b\u6559\u7684\u300a\u91d1\u525b\u7d93\u300b\u6210\u70ba\u7b2c\u4e00\u672c\u53ef\u4ee5\u5ee3\u70ba\u5206\u767c\u7684\u5370\u5237\u7248\u672c\u7d93\u7c4d\u3002\u81f3\u65bc\u5168\u4e16\u754c\u5370\u5237\u51fa\u7248\u6578\u91cf\u6700\u591a\u548c\u8b6f\u672c\u6700\u591a\u7684\u7d93\u66f8\u662f\u300a\u8056\u7d93\u300b\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Libro sagrado o texto sagrado, en singular o plural, son expresiones con que se conocen los libros o textos considerados sagrados por distintas religiones. Son un gran componente de la literatura universal. Entendidos como libros \u00abrevelados\u00bb por la divinidad, son considerados fuentes teol\u00f3gicas para cada una de esas religiones. Los libros sagrados fueron escritos por seres humanos con el esp\u00edritu desarrollado, lo que se conoce vulgarmente como \"inspiraci\u00f3n divina\".",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Livros Sagrados s\u00e3o conjuntos de textos que s\u00e3o considerados de inspira\u00e7\u00e3o divina ou recebidos diretamente de Deus. Tamb\u00e9m s\u00e3o muitas vezes referenciados simplesmente como as Escrituras ou como Sagradas escrituras Entre os mais antigos est\u00e3o o Rigveda do Hindu\u00edsmo, que ter\u00e1 sido redigido por entre 1500 e 1300 a.c.. A primeira escritura impressa para distribui\u00e7\u00e3o em massa foi o Sutra do Diamante, um texto budista, de que \u00e9 conhecida uma edi\u00e7\u00e3o de 868 d.c.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u015awi\u0119te ksi\u0119gi \u2013 pisma uznawane za \u017ar\u00f3d\u0142a prawd religijnych przez pewne religie. S\u0105 zwykle napisane przez prorok\u00f3w danej religii lub ich uczni\u00f3w. Cz\u0119sto s\u0105 uwa\u017cane za podyktowane przez wy\u017csze istoty.",
+                "lang": "pl"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Samaritans"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Buddhist_texts"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/History_of_religions"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Texte_sacr\u00e9"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Scripture"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.02mdj1"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Livro_sagrado"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q179461"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0399\u03b5\u03c1\u03cc_\u03c3\u03cd\u03b3\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Kitab_suci"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uacbd\uc804"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/\u015awi\u0119te_ksi\u0119gi"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Svat\u00e1_kniha"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Heilig_boek"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Testi_sacri"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Libro_sagrado"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Heilige_Schrift"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u8056\u5178"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q179461"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Religious_bibliographies"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Religious_texts"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Religion-related_lists"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex_Vaticanus_B,_2Thess._3,11-18,_Hebr._1,1-2,2.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Religious_text"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Religious_text?oldid=743814891"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.holybooks.com"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.sacred-texts.com/index.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ancienttexts.org/index.html"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Een heilig boek of een heilig geschrift is in veel religies en spirituele bewegingen een boek of geschrift dat door de aanhangers van deze bewegingen wordt beschouwd als van goddelijke of spirituele oorsprong. Meestal vormen deze teksten een belangrijke fundering van zo'n beweging. Hoewel antieke beschavingen gedurende duizenden jaren handgemaakte teksten hebben geproduceerd, was het eerste gedrukte, voor massa-verspreiding bedoelde geschrift, de Diamantsoetra, een boeddhistisch geschrift uit het jaar 868.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Libro sagrado o texto sagrado, en singular o plural, son expresiones con que se conocen los libros o textos considerados sagrados por distintas religiones. Son un gran componente de la literatura universal. Entendidos como libros \u00abrevelados\u00bb por la divinidad, son considerados fuentes teol\u00f3gicas para cada una de esas religiones. Con la expresi\u00f3n \u00absagrada escritura\u00bb, en singular o plural, se hace referencia tanto a la forma de escritura (entendible como una particular t\u00e9cnica de escribir \u2015especialmente la jerogl\u00edfica, que etimol\u00f3gicamente significa eso, ya que proviene del griego hier\u00f3s (\u2018sagrado\u2019) y glyph\u00f3s (\u2018escrito\u2018)\u2015 o bien como un particular g\u00e9nero literario) como a cada uno de los libros sagrados. En la mayor parte de la bibliograf\u00eda se utiliza esa expresi\u00f3n particularmente para designar a la Biblia (el conjunto de libros o textos sagrados del cristianismo). Los libros sagrados tienen diferentes formas de presentaci\u00f3n (rollo, c\u00f3dice, un \u00fanico libro, varios tomos, recopilaci\u00f3n), antig\u00fcedad y grado de santidad atribuido por los creyentes de sus religiones. Muchas de tales escrituras existieron originalmente como mitos de tradici\u00f3n oral memorizados y transmitidos de generaci\u00f3n en generaci\u00f3n antes de ser escritas y pasar a ser escritura, lo que aument\u00f3 significativamente su prestigio. En casi todas las religiones persisten distintas formas de recitado o de cantar todo o parte de los libros sagrados, en voz alta o mentalmente, como forma de oraci\u00f3n o en distintos rituales. En las religiones monote\u00edstas (denominadas tambi\u00e9n religiones abrah\u00e1micas o religiones del libro), la Biblia hebrea es el texto sagrado del juda\u00edsmo; la Biblia (compuesta por el Antiguo Testamento \u2015id\u00e9ntico a la Biblia hebrea con la adici\u00f3n de los textos Deuterocan\u00f3nicos\u2015 y el Nuevo Testamento) es el del cristianismo; y el Cor\u00e1n es el del islamismo. Entre las religiones orientales, las escrituras sagradas del hinduismo son los cuatro Vedas y los Upanishad, entre otros. Los libros sagrados fueron escritos por seres humanos con el esp\u00edritu desarrollado, lo que se conoce vulgarmente como \"inspiraci\u00f3n divina\". Aunque las civilizaciones antiguas copiaban textos a mano desde sus inicios (Libro de los Muertos del antiguo Egipto, por ejemplo), la primera escritura impresa para distribuci\u00f3n masiva fue el Sutra del diamante en el a\u00f1o 868 (C\u00e1nones del budismo); mientras que la Biblia de Gutenberg lo fue en 1455.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0643\u062a\u0627\u0628 \u0627\u0644\u0645\u064f\u0642\u062f\u0633\u060c \u064a\u064f\u0639\u0631\u0641 \u0623\u064a\u0636\u0627\u064b \u0628\u0627\u0633\u0645 \u0627\u0644\u0646\u0635 \u0627\u0644\u0645\u064f\u0642\u062f\u0633\u060c \u0627\u0644\u0623\u0645\u0631 \u0627\u0644\u0645\u064f\u0642\u062f\u0633 \u0648\u0627\u0644\u0633\u0650\u0641\u0631 \u0627\u0644\u0645\u064f\u0642\u062f\u0633. \u062a\u064f\u0639\u062a\u0628\u0631 \u0647\u0630\u0647 \u0627\u0644\u0643\u062a\u0628 \u0646\u0635\u0648\u0635\u0627\u064b \u0645\u0642\u062f\u0633\u0629 \u0641\u064a \u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0623\u062f\u064a\u0627\u0646 \u0648\u0627\u0644\u062a\u064a \u062a\u0631\u0627\u0647\u0627 \u0645\u062a\u0645\u062d\u0648\u0631\u0629 \u062d\u0648\u0644 \u0639\u0642\u064a\u062f\u0629 \u0627\u0644\u062f\u064a\u0646 \u0630\u0627\u062a\u0647. \u062a\u0624\u0645\u0646 \u063a\u0627\u0644\u0628\u064a\u0629 \u0627\u0644\u0623\u062f\u064a\u0627\u0646 \u0648\u0627\u0644\u062d\u0631\u0643\u0627\u062a \u0627\u0644\u0631\u0648\u062d\u0627\u0646\u064a\u0629 \u0628\u0623\u0646 \u0643\u064f\u062a\u0628\u0647\u0627 \u0627\u0644\u0645\u0642\u062f\u0633\u0629 \u0644\u0647\u0627 \u0623\u0635\u0644 \u0625\u0644\u0647\u064a \u0623\u0648 \u0642\u0648\u0649 \u0645\u0627\u0648\u0631\u0627\u0621 \u0627\u0644\u0637\u0628\u064a\u0639\u0629 \u0648\u0627\u0644\u062a\u064a \u062a\u0645 \u0625\u0646\u0632\u0627\u0644\u0647\u0627 \u0623\u0648 \u0648\u062d\u064a\u0647\u0627 \u0628\u0637\u0631\u064a\u0642\u0629 \u0645\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0435 \u0442\u0435\u043a\u0441\u0442\u044b \u0438\u043b\u0438 \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0435 \u0442\u0435\u043a\u0441\u0442\u044b \u2014 \u0442\u0435\u043a\u0441\u0442\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0440\u0435\u043b\u0438\u0433\u0438\u044f\u0445 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043a\u0430\u043a \u0441\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0435 \u0438 \u0437\u0430\u043d\u0438\u043c\u0430\u044e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0432 \u0438\u0445 \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u043e\u0439 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0438. \u041f\u0440\u0438 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0438 \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0445 \u0442\u0435\u043a\u0441\u0442\u043e\u0432 \u0431\u0435\u0440\u0443\u0442\u0441\u044f \u0438\u0441\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u0438\u0441\u044c\u043c\u0435\u043d\u043d\u044b\u0435 \u0442\u0435\u043a\u0441\u0442\u044b, \u0443\u0441\u0442\u043d\u0430\u044f \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u044f \u043d\u0435 \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u0442\u0441\u044f. \u041a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0435 \u0442\u0435\u043a\u0441\u0442\u044b, \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u043d\u0430 \u0441\u0432\u043e\u0451 \u0441\u0432\u0435\u0440\u0445\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u043e\u0435 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u0432\u0434\u043e\u0445\u043d\u043e\u0432\u0435\u043d\u0438\u0435 \u0431\u043e\u0436\u0435\u0441\u0442\u0432\u0430. \u0412 \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0445 \u0442\u0435\u043a\u0441\u0442\u0430\u0445 \u043e\u0447\u0435\u043d\u044c \u0432\u0430\u0436\u043d\u0430 \u043f\u0440\u0435\u0435\u043c\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0441\u0430\u043a\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u043d\u0430\u043d\u0438\u044f.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "I testi sacri (o sacre scritture) sono dei documenti o delle opere letterarie ritenute sacre dalle religioni e movimenti spirituali.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u015awi\u0119te ksi\u0119gi \u2013 pisma uznawane za \u017ar\u00f3d\u0142a prawd religijnych przez pewne religie. S\u0105 zwykle napisane przez prorok\u00f3w danej religii lub ich uczni\u00f3w. Cz\u0119sto s\u0105 uwa\u017cane za podyktowane przez wy\u017csze istoty.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "La d\u00e9finition de texte sacr\u00e9 est tr\u00e8s large, elle indique simplement qu'un \u00e9crit est en relation avec le divin, avec une divinit\u00e9. Il peut s'agir de textes magiques (magie), mythologiques (mythe), ex\u00e9g\u00e9tiques, divinatoires, rituels, de pri\u00e8res, de prescriptions\u2026 Un ensemble de textes qui forment une unit\u00e9 est un corpus. La hi\u00e9rographologie ou hi\u00e9rologie est l'\u00e9tude des textes sacr\u00e9s. Les supports utilis\u00e9s pour les textes sacr\u00e9s varient selon les \u00e9poques, les besoins et les traditions religieuses, par exemple, les M\u00e9sopotamiens \u00e9crivaient, notamment, leurs textes sacr\u00e9s sur des tablettes d'argile, les \u00c9gyptiens pouvaient \u00e9crire des textes sacr\u00e9s sur des papyrus ou contre les murs d'un hypog\u00e9e, le parchemin fut utilis\u00e9 en Europe comme support. Un livre sacr\u00e9 est un ensemble de textes qui forment une unit\u00e9 et dont le support est compos\u00e9 de carton ou de papier. Un canon est un ensemble de textes dont le contenu a \u00e9t\u00e9 arr\u00eat\u00e9 \u00e0 une \u00e9poque donn\u00e9e et qui ne peut plus \u00eatre modifi\u00e9. La Tanakh, la Bible ou le Coran sont des corpus, ils sont aussi devenus des canons. De nos jours, ils sont \u00e9dit\u00e9s sous forme papier ou \u00e9lectronique.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Religious texts (also known as scripture, or scriptures, from the Latin scriptura, meaning \"a writing\" ) are the texts which various religious traditions consider to be sacred, or central to their religious tradition. Religious texts may be used to evoke a deeper connection with the divine, convey spiritual truths, promote mystical experience, foster communal identity, and to guide individual and communal spiritual practice. Many religions and spiritual movements believe that their sacred texts are divinely or supernaturally revealed or inspired. The monotheistic faiths view their texts as the \"Word of God\" and divine revelation.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Als heilige Schriften bezeichnet die vergleichende Religionswissenschaft Texte, die f\u00fcr eine Religion normativ sind. In den unterschiedlichen Religionen gibt es auch ein je unterschiedliches Verst\u00e4ndnis, was als normativer Text gilt. Ebenso ist die jeweilige Autorit\u00e4t eines Textes in den Religionen unterschiedlich. Religionen, die sich stark an Texten orientieren, nennt man auch Schrift- oder Buchreligionen. In schriftlosen Kulturen spielen kollektive \u00dcberlieferungen von Mythen als orale Texte die gleiche Rolle wie heilige Schriften (siehe auch: Ethnische Religion).",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Livros Sagrados s\u00e3o conjuntos de textos que s\u00e3o considerados de inspira\u00e7\u00e3o divina ou recebidos diretamente de Deus. Tamb\u00e9m s\u00e3o muitas vezes referenciados simplesmente como as Escrituras ou como Sagradas escrituras Entre os mais antigos est\u00e3o o Rigveda do Hindu\u00edsmo, que ter\u00e1 sido redigido por entre 1500 e 1300 a.c.. A primeira escritura impressa para distribui\u00e7\u00e3o em massa foi o Sutra do Diamante, um texto budista, de que \u00e9 conhecida uma edi\u00e7\u00e3o de 868 d.c.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u8056\u5178\uff08\u305b\u3044\u3066\u3093\uff09\u3068\u306f\u3001\u795e\u3084\u795e\u7684\u5b58\u5728\u3001\u8056\u4eba\u306e\u8a00\u884c\u304c\u66f8\u304b\u308c\u305f\u3082\u306e\u3001\u307e\u305f\u306f\u6559\u8aac\u304c\u3064\u3065\u3089\u308c\u305f\u3082\u306e\u306e\u5185\u3001\u305d\u308c\u305e\u308c\u306e\u5b97\u6559\u5185\u3067\u3001\u7279\u306b\u6a29\u5a01\u3042\u308b\u66f8\u7269\u3092\u3044\u3046\u3002\u6559\u5178\u3068\u3082\u3044\u3046\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u5b97\u6559\u7ecf\u5178\uff08\u82f1\u8bed\uff1areligious texts\u6216scripture\uff09\u662f\u88ab\u5404\u4e2a\u5b97\u6559\u5206\u522b\u89c6\u4e3a\u5177\u6709\u795e\u5723\u6027\uff0c\u4e00\u822c\u5728\u5b97\u6559\u6559\u4e49\u548c\u5b9e\u8df5\u4e2d\u5177\u6709\u4e2d\u5fc3\u5730\u4f4d\u7684\u6587\u732e\uff0c\u4f54\u4e86\u4e16\u754c\u6587\u737b\u7684\u4e00\u5927\u90e8\u5206\u3002\u5f88\u591a\u5b97\u6559\u548c\u65b0\u7d00\u5143\u904b\u52d5\u76f8\u4fe1\u4ed6\u5011\u7684\u795e\u8056\u6587\u737b\u662f\u7531\u795e\u6216\u8d85\u81ea\u7136\u529b\u91cf\u6240\u555f\u793a\u3002 \u591a\u6578\u53e4\u4ee3\u7684\u5b97\u6559\u6587\u737b\u8d77\u521d\u662f\u53e3\u50b3\uff0c\u901a\u904e\u80cc\u8aa6\u800c\u6d41\u50b3\uff0c\u5176\u5f8c\u624d\u8f2f\u9304\u6210\u66f8\u3002\u9019\u4e9b\u5b97\u6559\u6587\u737b\u6700\u521d\u5168\u90fd\u662f\u4eba\u624b\u7de8\u5beb\u7684\uff0c\u518d\u901a\u904e\u50b3\u6284\u65b9\u5f0f\u6d41\u50b3\u3002\u76f4\u5230\u516c\u5143868\u5e74\uff0c\u4f5b\u6559\u7684\u300a\u91d1\u525b\u7d93\u300b\u6210\u70ba\u7b2c\u4e00\u672c\u53ef\u4ee5\u5ee3\u70ba\u5206\u767c\u7684\u5370\u5237\u7248\u672c\u7d93\u7c4d\u3002\u81f3\u65bc\u5168\u4e16\u754c\u5370\u5237\u51fa\u7248\u6578\u91cf\u6700\u591a\u548c\u8b6f\u672c\u6700\u591a\u7684\u7d93\u66f8\u662f\u300a\u8056\u7d93\u300b\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex_Vaticanus_B,_2Thess._3,11-18,_Hebr._1,1-2,2.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743814891,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 23410414,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Texts"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Message_of_The_Qur'an": {
+        "http://dbpedia.org/ontology/literaryGenre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Religious_text": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Gospel_of_the_Flying_Spaghetti_Monster": {
+        "http://dbpedia.org/ontology/literaryGenre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ren\u00e9_Gu\u00e9non": {
+        "http://dbpedia.org/ontology/mainInterest": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Religious_texts": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sacred_text": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holywrit": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Holy_Scriptures": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Scripute": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_Writ": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sacred_Texts": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_books": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Religious_scripture": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_script": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Religious_book": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_Scripture": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sacred_texts": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sacred_Scripture": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Written_word_of_God": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Scripture": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Book_of_God": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_book": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Scriptures": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_Book": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_Text": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_Scriptures": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sacred_writ": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Scriptural": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unscriptural": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hierographology": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hierography": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hierology_(text)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hierology_(texts)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hierology_(textual_criticism)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_text": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Religious_Text": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ancient_scripture": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sacred_scripture": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_scripture": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_writ": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sacred_writings": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_religious_texts": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Religious_writings": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_Writs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sacred_Scriptures": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sifrei_Kodesh": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sacred_book": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\ud83d\udd45": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_Books": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Scriptures": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Religious_Scriptures": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Text": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/At_the_Feet_of_the_Master": {
+        "http://dbpedia.org/ontology/nonFictionSubject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Religious_text"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "what is the {represents} for {North Atlantic Treaty} that has {signatory} as {Dean Acheson} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Atlantic_Ocean",
+            "@support": "24867",
+            "@types": "Schema:Place,Schema:BodyOfWater,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "North Atlantic",
+            "@offset": "30",
+            "@similarityScore": "0.9993355691353155",
+            "@percentageOfSecondRank": "3.0598038654546585E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Dean_Acheson",
+            "@support": "335",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Dean Acheson",
+            "@offset": "78",
+            "@similarityScore": "0.9999999999998863",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

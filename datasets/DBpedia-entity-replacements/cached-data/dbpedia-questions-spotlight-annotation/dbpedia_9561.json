@@ -1,0 +1,37 @@
+{
+    "@text": "Where on the coast of Attu Island, is the Lluta River tributary located?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Attu_Island",
+            "@support": "632",
+            "@types": "Wikidata:Q23442,Schema:Place,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Island",
+            "@surfaceForm": "Attu Island",
+            "@offset": "22",
+            "@similarityScore": "0.9988233617603133",
+            "@percentageOfSecondRank": "0.0011780243481741642"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Lluta_River",
+            "@support": "17",
+            "@types": "Wikidata:Q47521,Wikidata:Q4022,Schema:RiverBodyOfWater,Schema:Place,Schema:BodyOfWater,DBpedia:Stream,DBpedia:River,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "Lluta River",
+            "@offset": "42",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tributary",
+            "@support": "17917",
+            "@types": "",
+            "@surfaceForm": "tributary",
+            "@offset": "54",
+            "@similarityScore": "0.9999972685197706",
+            "@percentageOfSecondRank": "1.4545778460521502E-6"
+        }
+    ]
+}

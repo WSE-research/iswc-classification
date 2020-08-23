@@ -1,0 +1,678 @@
+{
+    "http://dbpedia.org/resource/Cell_membrane": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatSocialNetworks"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/AnatomicalStructure"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Network108434259"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/System108435388"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u7d30\u80de\u819c",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Zellmembran",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Cell membrane",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "B\u0142ona kom\u00f3rkowa",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Membrana plasm\u00e1tica",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Membrane plasmique",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Celmembraan",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Membrana plasm\u00e1tica",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u7ec6\u80de\u819c",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u043b\u0435\u0442\u043e\u0447\u043d\u0430\u044f \u043c\u0435\u043c\u0431\u0440\u0430\u043d\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u063a\u0634\u0627\u0621 \u062e\u0644\u0648\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Membrana cellulare",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u041a\u043b\u0435\u0301\u0442\u043e\u0447\u043d\u0430\u044f \u043c\u0435\u043c\u0431\u0440\u0430\u0301\u043d\u0430 (\u0442\u0430\u043a\u0436\u0435 \u0446\u0438\u0442\u043e\u043b\u0435\u043c\u043c\u0430, \u043f\u043b\u0430\u0437\u043c\u0430\u043b\u0435\u043c\u043c\u0430, \u0438\u043b\u0438 \u043f\u043b\u0430\u0437\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043c\u0435\u043c\u0431\u0440\u0430\u043d\u0430) \u2014 \u044d\u043b\u0430\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043c\u043e\u043b\u0435\u043a\u0443\u043b\u044f\u0440\u043d\u0430\u044f \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430, \u0441\u043e\u0441\u0442\u043e\u044f\u0449\u0430\u044f \u0438\u0437 \u0431\u0435\u043b\u043a\u043e\u0432 \u0438 \u043b\u0438\u043f\u0438\u0434\u043e\u0432. \u041e\u0442\u0434\u0435\u043b\u044f\u0435\u0442 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u043b\u044e\u0431\u043e\u0439 \u043a\u043b\u0435\u0442\u043a\u0438 \u043e\u0442 \u0432\u043d\u0435\u0448\u043d\u0435\u0439 \u0441\u0440\u0435\u0434\u044b, \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u044f \u0435\u0451 \u0446\u0435\u043b\u043e\u0441\u0442\u043d\u043e\u0441\u0442\u044c; \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u0443\u0435\u0442 \u043e\u0431\u043c\u0435\u043d \u043c\u0435\u0436\u0434\u0443 \u043a\u043b\u0435\u0442\u043a\u043e\u0439 \u0438 \u0441\u0440\u0435\u0434\u043e\u0439; \u0432\u043d\u0443\u0442\u0440\u0438\u043a\u043b\u0435\u0442\u043e\u0447\u043d\u044b\u0435 \u043c\u0435\u043c\u0431\u0440\u0430\u043d\u044b \u0440\u0430\u0437\u0434\u0435\u043b\u044f\u044e\u0442 \u0434\u0435\u0440\u043c\u043e \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0437\u0430\u043c\u043a\u043d\u0443\u0442\u044b\u0435 \u043e\u0442\u0441\u0435\u043a\u0438 \u2014 \u043a\u043e\u043c\u043f\u0430\u0440\u0442\u043c\u0435\u043d\u0442\u044b \u0438\u043b\u0438 \u043e\u0440\u0433\u0430\u043d\u0435\u043b\u043b\u044b, \u0432 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f \u0441\u0440\u0435\u0434\u044b.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "La membrana plasm\u00e1tica, membrana celular, membrana citoplasm\u00e1tica o plasmalema, es una bicapa lip\u00eddica que delimita toda la c\u00e9lula. Es una estructura formada por dos l\u00e1minas de fosfol\u00edpidos, glucol\u00edpidos y prote\u00ednas que rodean, limitan la forma y contribuyen a mantener el equilibrio entre el interior (medio intracelular) y el exterior (medio extracelular) de las c\u00e9lulas. Regula la entrada y salida de muchas sustancias entre el citoplasma y el medio extracelular. Es similar a las membranas que delimitan los org\u00e1nulos de c\u00e9lulas eucariotas. La membrana celular cumple varias funciones:",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "De celmembraan, plasmamembraan, plasmalemma of membrana cellularis is een biologische structuur die de binnenkant van een cel scheidt van de buitenkant. Celmembranen zijn opgebouwd uit een dubbele fosfolipidenlaag en bevatten daarnaast eiwitten en sterolen. Ze zijn semipermeabel, ofwel selectief doorlatend, voor ionen en sommige organische moleculen. Celmembranen spelen een rol in verschillende cellulaire processen, zoals transport, signalering en adhesie. Daarnaast bevatten ze ankerpunten voor zowel de extracellulaire matrix als het intracellulaire cytoskelet.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Zellmembran (anatom. Membrana cellularis), Zytomembran, Plasmamembran, auch Plasmalemma, wird die jeder lebenden Zelle eigene Biomembran genannt, die das Zellinnere umschlie\u00dfend und abgrenzend ihr inneres Milieu aufrechterh\u00e4lt.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "La membrana cellulare, anche detta membrana plasmatica, plasmalemma o citomembrana, \u00e8 un sottile rivestimento, con spessore di 5-10 nm (50-100 \u00c5), che delimita la cellula in tutti gli organismi viventi, la separa dall'ambiente esterno e ne regola gli scambi di elementi e sostanze chimiche con questo.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u063a\u0634\u0627\u0621 \u0627\u0644\u062e\u0644\u064a\u0629 , \u0627\u0644\u063a\u0634\u0627\u0621 \u0627\u0644\u0628\u0644\u0627\u0632\u0645\u064a \u0623\u0648 \u0627\u0644\u063a\u0634\u0627\u0621 \u0627\u0644\u062e\u0644\u0648\u064a \u064a\u0633\u0645\u0649 \u0643\u0630\u0644\u0643 \u0627\u0644\u0627\u0643\u062a\u0648\u0628\u0644\u0627\u0633\u062a Ectoplast \u0647\u0648 \u063a\u0634\u0627\u0621 \u062d\u064a\u0648\u064a \u064a\u0641\u0635\u0644 \u062f\u0627\u062e\u0644 \u0627\u0644\u062e\u0644\u064a\u0629 \u0639\u0646 \u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0645\u062d\u064a\u0637. \u0627\u0644\u063a\u0634\u0627\u0621 \u0627\u0644\u062e\u0644\u0648\u064a \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0637\u0628\u0642\u0629 \u062b\u0646\u0627\u0626\u064a\u0629 \u062f\u0633\u0645\u0629 \u0627\u062e\u062a\u064a\u0627\u0631\u064a\u0629 \u0627\u0644\u0646\u0641\u0627\u0630\u064a\u0629 \u0645\u0634\u062a\u0631\u0643\u0629 \u0641\u064a \u062c\u0645\u064a\u0639 \u0627\u0644\u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u062d\u064a\u0629.. \u064a\u062d\u062a\u0648\u064a \u0647\u0630\u0627 \u0627\u0644\u063a\u0634\u0627\u0621 \u0645\u062c\u0645\u0644 \u0643\u064a\u0627\u0646 \u0627\u0644\u062e\u0644\u064a\u0629 \u0645\u0646 \u0627\u0644\u0633\u0627\u064a\u062a\u0648\u0628\u0644\u0627\u0632\u0645 \u0648\u0645\u0627 \u0641\u064a\u0647\u0627 \u0645\u0646 \u0639\u0636\u064a\u0627\u062a \u062e\u0644\u0648\u064a\u0629 \u064a\u062a\u0623\u0644\u0641 \u0628\u0634\u0643\u0644 \u062e\u0627\u0635 \u0645\u0646 \u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646\u0627\u062a \u0648\u0627\u0644\u062f\u0647\u0646\u064a\u0627\u062a \u0645\u0631\u062a\u0628\u0629 \u0628\u0634\u0643\u0644 \u0641\u0633\u064a\u0641\u0633\u0627\u0626\u064a\u060c \u0647\u0630\u0647 \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u063a\u0634\u0627\u0626\u064a\u0629 \u062a\u062f\u062e\u0644 \u0641\u064a \u0645\u062c\u0645\u0648\u0639\u0629 \u0648\u0627\u0633\u0639\u0629 \u0645\u0646 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u062e\u0644\u0648\u064a\u0629. \u0641\u064a \u0646\u0641\u0633 \u0627\u0644\u0648\u0642\u062a \u064a\u0645\u0643\u0646 \u0623\u0646 \u064a\u0639\u0645\u0644 \u0643\u0646\u0642\u0637\u0629 \u0627\u062a\u0635\u0627\u0644 \u0628\u064a\u0646 \u0627\u0644\u0647\u064a\u0643\u0644 \u0627\u0644\u062e\u0644\u0648\u064a \u0648\u0627\u0644\u062c\u062f\u0627\u0631 \u0627\u0644\u062e\u0644\u0648\u064a \u0641\u064a \u062d\u0627\u0644 \u0648\u062c\u0648\u062f\u0647. \u0631\u0628\u0645\u0627 \u062a\u0643\u0648\u0646 \u0645\u0647\u0645\u062a\u0647 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629 \u0647\u064a \u062a\u0646\u0638\u064a\u0645 \u062f\u062e\u0648\u0644 \u0648\u062e\u0631\u0648\u062c \u0627\u0644\u062c\u0632\u064a\u0626\u0627\u062a \u0625\u0644\u0649 \u0627\u0644\u062e\u0644\u064a\u0629 \u0648\u062e\u0631\u0648\u062c\u0647\u0627 \u0645\u0646\u0647\u060c \u0639\u062f\u0627 \u0639\u0646 \u0627\u0633\u062a\u0642\u0628\u0627\u0644 \u0627\u0644\u0625\u0634\u0627\u0631\u0627\u062a \u0627\u0644\u062d\u064a\u0648\u064a\u0629 \u0645\u0646 \u062e\u0627\u0631\u062c \u0627\u0644\u062e\u0644\u064a\u0629 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0645\u0627 \u064a\u0633\u0645\u0649 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644\u0627\u062a.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "The cell membrane (also known as the plasma membrane or cytoplasmic membrane) is a biological membrane that separates the interior of all cells from the outside environment. The cell membrane is selectively permeable to ions and organic molecules and controls the movement of substances in and out of cells. The basic function of the cell membrane is to protect the cell from its surroundings.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u7ec6\u80de\u819c\uff0c\u53c8\u79f0\u539f\u751f\u8cea\u819c\uff0c\u4e3a\u7ec6\u80de\u7d50\u69cb\u4e2d\u5206\u9694\u7ec6\u80de\u5185\u3001\u5916\u4e0d\u540c\u4ecb\u8d28\u548c\u7ec4\u6210\u6210\u4efd\u7684\u754c\u9762\u3002\u539f\u751f\u8cea\u819c\u666e\u904d\u8ba4\u4e3a\u7531\u78f7\u8102\u8cea\u53cc\u5c42\u5206\u5b50\u4f5c\u4e3a\u57fa\u672c\u5355\u4f4d\u91cd\u590d\u800c\u6210\uff0c\u5373\u78f7\u8102\u53cc\u5206\u5b50\u5c42\uff0c\u5176\u4e0a\u9576\u5d4c\u6709\u5404\u79cd\u7c7b\u578b\u7684\u819c\u86cb\u767d\u4ee5\u53ca\u4e0e\u819c\u86cb\u767d\u7ed3\u5408\u7684\u7cd6\u548c\u7cd6\u8102\u3002\u539f\u751f\u8cea\u819c\u662f\u7ec6\u80de\u4e0e\u5468\u56f4\u73af\u5883\u548c\u7ec6\u80de\u4e0e\u7ec6\u80de\u95f4\u8fdb\u884c\u7269\u8d28\u4ea4\u6362\u548c\u4fe1\u606f\u4f20\u9012\u7684\u91cd\u8981\u901a\u9053\u3002\u539f\u751f\u8cea\u819c\u901a\u8fc7\u5176\u4e0a\u7684\u5b54\u9699\u548c\u8de8\u819c\u86cb\u767d\u7684\u67d0\u4e9b\u6027\u8d28\uff0c\u8fbe\u5230\u6709\u9009\u62e9\u6027\u7684\uff0c\u53ef\u8c03\u63a7\u7684\u7269\u8d28\u8fd0\u8f93\u4f5c\u7528\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "A membrana plasm\u00e1tica, membrana celular ou plasmalema \u00e9 a estrutura que delimita todas as c\u00e9lulas vivas, tanto as procari\u00f3ticas como as eucari\u00f3ticas. Ela estabelece a fronteira entre o meio intracelular, o citoplasma, e o ambiente extracelular, que pode ser a matriz dos diversos tecidos. Aparece em eletromicrografias como duas linhas escuras separadas por uma faixa central clara, com uma espessura de 6 a 10 nm. Esta estrutura trilaminar encontra-se em todas as membranas encontradas nas c\u00e9lulas, sendo por isso chamada de unidade de membrana ou membrana unit\u00e1ria.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "La membrane plasmique, ou plasmalemme, est la membrane qui d\u00e9limite une cellule, elle s\u00e9pare le cytoplasme du milieu ext\u00e9rieur.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u7d30\u80de\u819c\uff08\u3055\u3044\u307c\u3046\u307e\u304f\u3001cell membrane\uff09\u306f\u3001\u7d30\u80de\u306e\u5185\u5916\u3092\u9694\u3066\u308b\u751f\u4f53\u819c\u3002\u5f62\u8cea\u819c\u3084\u3001\u305d\u306e\u82f1\u8a33\u3067\u3042\u308b\u30d7\u30e9\u30ba\u30de\u30e1\u30f3\u30d6\u30ec\u30f3(plasma membrane)\u3068\u3082\u547c\u3070\u308c\u308b\u3002 \u7d30\u80de\u819c\u306f\u7d30\u80de\u5185\u5916\u3092\u5358\u306b\u9694\u3066\u3066\u3044\u308b\u9759\u7684\u306a\u69cb\u9020\u4f53\u3067\u306f\u306a\u304f\u3001\u7279\u7570\u7684\u306a\u30c1\u30e3\u30f3\u30cd\u30eb\u306b\u3088\u3063\u3066\u30a4\u30aa\u30f3\u306a\u3069\u306e\u4f4e\u5206\u5b50\u3092\u900f\u904e\u3055\u305b\u305f\u308a\u3001\u53d7\u5bb9\u4f53\u3092\u4ecb\u3057\u3066\u7d30\u80de\u5916\u304b\u3089\u306e\u30b7\u30b0\u30ca\u30eb\u3092\u53d7\u3051\u53d6\u308b\u6a5f\u80fd\u3001\u7d30\u80de\u819c\u306e\u4e00\u90e8\u3092\u53d6\u308a\u8fbc\u3093\u3067\u7d30\u80de\u5185\u306b\u8f38\u9001\u3059\u308b\u6a5f\u80fd\u306a\u3069\u3001\u7d30\u80de\u306b\u3068\u3063\u3066\u91cd\u8981\u306a\u6a5f\u80fd\u3092\u62c5\u3063\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "B\u0142ona kom\u00f3rkowa, b\u0142ona cytoplazmatyczna, b\u0142ona plazmatyczna, plazmolemma, plazmolema (cytolemma, plasmolemma) \u2013 p\u00f3\u0142przepuszczalna b\u0142ona biologiczna oddzielaj\u0105ca wn\u0119trze kom\u00f3rki od \u015bwiata zewn\u0119trznego. Jest ona z\u0142o\u017cona z dw\u00f3ch warstw fosfolipid\u00f3w oraz bia\u0142ek, z kt\u00f3rych niekt\u00f3re s\u0105 lu\u017ano zwi\u0105zane z powierzchni\u0105 b\u0142ony (bia\u0142ka powierzchniowe), a inne przebijaj\u0105 b\u0142on\u0119 (bia\u0142ka przezb\u0142onowe) lub s\u0105 w niej mocno osadzone motywem bia\u0142kowym lub niebia\u0142kowym (bia\u0142ka b\u0142onowe).",
+                "lang": "pl"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_walls"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Epithelial_polarity"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Lateral_diffusion"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q29548"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Zellmembran"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Membrana_cellulare"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Membrana_plasm\u00e1tica"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039a\u03c5\u03c4\u03c4\u03b1\u03c1\u03b9\u03ba\u03ae_\u03bc\u03b5\u03bc\u03b2\u03c1\u03ac\u03bd\u03b7"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/B\u0142ona_kom\u00f3rkowa"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Zelula_mintz"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q29548"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Membrane_plasmique"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Membrana_plasm\u00e1tica"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Cytoplazmatick\u00e1_membr\u00e1na"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc138\ud3ec\ub9c9"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.023j3"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Celmembraan"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u7d30\u80de\u819c"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Membran_sel"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Membrane_biology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Organelles"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Cell_anatomy"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Cell_membrane_detailed_diagram_4.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Cell_membrane"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Cell_membrane?oldid=735127443"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.phys.unsw.edu.au/~jw/tension.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.etap.org/demo/biology1/instruction3tutor.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.biochemweb.org/lipids_membranes.shtml"
+            },
+            {
+                "type": "uri",
+                "value": "http://opm.phar.umich.edu/localization.php?localization=Eukaryotic%20plasma%20membrane"
+            },
+            {
+                "type": "uri",
+                "value": "http://opm.phar.umich.edu/atlas.php?membrane=Eukaryotic%20plasma%20membrane"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.westernblotting.org/protocol%20membrane%20extraction.htm"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "A membrana plasm\u00e1tica, membrana celular ou plasmalema \u00e9 a estrutura que delimita todas as c\u00e9lulas vivas, tanto as procari\u00f3ticas como as eucari\u00f3ticas. Ela estabelece a fronteira entre o meio intracelular, o citoplasma, e o ambiente extracelular, que pode ser a matriz dos diversos tecidos. Aparece em eletromicrografias como duas linhas escuras separadas por uma faixa central clara, com uma espessura de 6 a 10 nm. Esta estrutura trilaminar encontra-se em todas as membranas encontradas nas c\u00e9lulas, sendo por isso chamada de unidade de membrana ou membrana unit\u00e1ria. A membrana celular n\u00e3o \u00e9 estanque, mas uma \u201cporta\u201d seletiva que a c\u00e9lula utiliza para captar os elementos do meio exterior que lhe s\u00e3o necess\u00e1rios para o seu metabolismo e para libertar as subst\u00e2ncias que a c\u00e9lula produz e que devem ser enviadas para o exterior (sejam elas produtos de excre\u00e7\u00e3o, das quais deve se libertar, ou secre\u00e7\u00f5es que a c\u00e9lula utiliza para v\u00e1rias fun\u00e7\u00f5es relacionadas com o meio).",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "La membrana plasm\u00e1tica, membrana celular, membrana citoplasm\u00e1tica o plasmalema, es una bicapa lip\u00eddica que delimita toda la c\u00e9lula. Es una estructura formada por dos l\u00e1minas de fosfol\u00edpidos, glucol\u00edpidos y prote\u00ednas que rodean, limitan la forma y contribuyen a mantener el equilibrio entre el interior (medio intracelular) y el exterior (medio extracelular) de las c\u00e9lulas. Regula la entrada y salida de muchas sustancias entre el citoplasma y el medio extracelular. Es similar a las membranas que delimitan los org\u00e1nulos de c\u00e9lulas eucariotas. Est\u00e1 compuesta por dos l\u00e1minas que sirven de \"contenedor\" para el citosol y los distintos compartimentos internos de la c\u00e9lula, as\u00ed como tambi\u00e9n otorga protecci\u00f3n mec\u00e1nica. Est\u00e1 formada principalmente por fosfol\u00edpidos (fosfatidiletanolamina y fosfatidilcolina), colesterol, gl\u00facidos y prote\u00ednas (integrales y perif\u00e9ricas). La principal caracter\u00edstica de esta barrera es su permeabilidad selectiva, lo que le permite seleccionar las mol\u00e9culas que deben entrar y salir de la c\u00e9lula. De esta forma se mantiene estable el medio intracelular, regulando el paso de agua, iones y metabolitos, a la vez que mantiene el potencial electroqu\u00edmico (haciendo que el medio interno est\u00e9 cargado negativamente). La membrana plasm\u00e1tica es capaz de recibir se\u00f1ales que permiten el ingreso de part\u00edculas a su interior. Cuando una mol\u00e9cula de gran tama\u00f1o atraviesa o es expulsada de la c\u00e9lula y se invagina parte de la membrana plasm\u00e1tica para recubrirlas cuando est\u00e1n en el interior ocurren respectivamente los procesos de endocitosis y exocitosis. Tiene un grosor aproximado de 7,5 nm (75 \u00c5) y no es visible al microscopio \u00f3ptico pero s\u00ed al microscopio electr\u00f3nico, donde se pueden observar dos capas oscuras bilaterales y una central m\u00e1s clara. En las c\u00e9lulas procariotas y en las eucariotas osm\u00f3trofas como plantas y hongos, se sit\u00faa bajo otra capa exterior, denominada pared celular. En la actualidad se ha descubierto que es posible que estas estructuras se formen sin la presencia de agua, a partir de metano l\u00edquido, lo que abre la posibilidad a encontrar vida fuera de la Tierra. La membrana celular cumple varias funciones: \n*  Delimita y protege las c\u00e9lulas.  \n*  Es una barrera selectivamente permeable, ya que impide el libre intercambio de materiales de un lado a otro, pero al mismo tiempo proporcionan el medio para comunicar un espacio con otro. \n*  Permite el paso o transporte de solutos de un lado a otro de la c\u00e9lula, pues regula el intercambio de sustancias entre el interior y el exterior de la c\u00e9lula siguiendo un gradiente de concentraci\u00f3n. \n*  Poseen receptores qu\u00edmicos que se combinan con mol\u00e9culas espec\u00edficas que permiten a la membrana recibir se\u00f1ales y responder de manera espec\u00edfica, por ejemplo, inhibiendo o estimulando actividades internas como el inicio de la divisi\u00f3n celular, la elaboraci\u00f3n de m\u00e1s gluc\u00f3geno, movimiento celular, liberaci\u00f3n de calcio de las reservas internas.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u043b\u0435\u0301\u0442\u043e\u0447\u043d\u0430\u044f \u043c\u0435\u043c\u0431\u0440\u0430\u0301\u043d\u0430 (\u0442\u0430\u043a\u0436\u0435 \u0446\u0438\u0442\u043e\u043b\u0435\u043c\u043c\u0430, \u043f\u043b\u0430\u0437\u043c\u0430\u043b\u0435\u043c\u043c\u0430, \u0438\u043b\u0438 \u043f\u043b\u0430\u0437\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043c\u0435\u043c\u0431\u0440\u0430\u043d\u0430) \u2014 \u044d\u043b\u0430\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043c\u043e\u043b\u0435\u043a\u0443\u043b\u044f\u0440\u043d\u0430\u044f \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430, \u0441\u043e\u0441\u0442\u043e\u044f\u0449\u0430\u044f \u0438\u0437 \u0431\u0435\u043b\u043a\u043e\u0432 \u0438 \u043b\u0438\u043f\u0438\u0434\u043e\u0432. \u041e\u0442\u0434\u0435\u043b\u044f\u0435\u0442 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u043b\u044e\u0431\u043e\u0439 \u043a\u043b\u0435\u0442\u043a\u0438 \u043e\u0442 \u0432\u043d\u0435\u0448\u043d\u0435\u0439 \u0441\u0440\u0435\u0434\u044b, \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u044f \u0435\u0451 \u0446\u0435\u043b\u043e\u0441\u0442\u043d\u043e\u0441\u0442\u044c; \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u0443\u0435\u0442 \u043e\u0431\u043c\u0435\u043d \u043c\u0435\u0436\u0434\u0443 \u043a\u043b\u0435\u0442\u043a\u043e\u0439 \u0438 \u0441\u0440\u0435\u0434\u043e\u0439; \u0432\u043d\u0443\u0442\u0440\u0438\u043a\u043b\u0435\u0442\u043e\u0447\u043d\u044b\u0435 \u043c\u0435\u043c\u0431\u0440\u0430\u043d\u044b \u0440\u0430\u0437\u0434\u0435\u043b\u044f\u044e\u0442 \u0434\u0435\u0440\u043c\u043e \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0437\u0430\u043c\u043a\u043d\u0443\u0442\u044b\u0435 \u043e\u0442\u0441\u0435\u043a\u0438 \u2014 \u043a\u043e\u043c\u043f\u0430\u0440\u0442\u043c\u0435\u043d\u0442\u044b \u0438\u043b\u0438 \u043e\u0440\u0433\u0430\u043d\u0435\u043b\u043b\u044b, \u0432 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f \u0441\u0440\u0435\u0434\u044b.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u063a\u0634\u0627\u0621 \u0627\u0644\u062e\u0644\u064a\u0629 , \u0627\u0644\u063a\u0634\u0627\u0621 \u0627\u0644\u0628\u0644\u0627\u0632\u0645\u064a \u0623\u0648 \u0627\u0644\u063a\u0634\u0627\u0621 \u0627\u0644\u062e\u0644\u0648\u064a \u064a\u0633\u0645\u0649 \u0643\u0630\u0644\u0643 \u0627\u0644\u0627\u0643\u062a\u0648\u0628\u0644\u0627\u0633\u062a Ectoplast \u0647\u0648 \u063a\u0634\u0627\u0621 \u062d\u064a\u0648\u064a \u064a\u0641\u0635\u0644 \u062f\u0627\u062e\u0644 \u0627\u0644\u062e\u0644\u064a\u0629 \u0639\u0646 \u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0645\u062d\u064a\u0637. \u0627\u0644\u063a\u0634\u0627\u0621 \u0627\u0644\u062e\u0644\u0648\u064a \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0637\u0628\u0642\u0629 \u062b\u0646\u0627\u0626\u064a\u0629 \u062f\u0633\u0645\u0629 \u0627\u062e\u062a\u064a\u0627\u0631\u064a\u0629 \u0627\u0644\u0646\u0641\u0627\u0630\u064a\u0629 \u0645\u0634\u062a\u0631\u0643\u0629 \u0641\u064a \u062c\u0645\u064a\u0639 \u0627\u0644\u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u062d\u064a\u0629.. \u064a\u062d\u062a\u0648\u064a \u0647\u0630\u0627 \u0627\u0644\u063a\u0634\u0627\u0621 \u0645\u062c\u0645\u0644 \u0643\u064a\u0627\u0646 \u0627\u0644\u062e\u0644\u064a\u0629 \u0645\u0646 \u0627\u0644\u0633\u0627\u064a\u062a\u0648\u0628\u0644\u0627\u0632\u0645 \u0648\u0645\u0627 \u0641\u064a\u0647\u0627 \u0645\u0646 \u0639\u0636\u064a\u0627\u062a \u062e\u0644\u0648\u064a\u0629 \u064a\u062a\u0623\u0644\u0641 \u0628\u0634\u0643\u0644 \u062e\u0627\u0635 \u0645\u0646 \u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646\u0627\u062a \u0648\u0627\u0644\u062f\u0647\u0646\u064a\u0627\u062a \u0645\u0631\u062a\u0628\u0629 \u0628\u0634\u0643\u0644 \u0641\u0633\u064a\u0641\u0633\u0627\u0626\u064a\u060c \u0647\u0630\u0647 \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u063a\u0634\u0627\u0626\u064a\u0629 \u062a\u062f\u062e\u0644 \u0641\u064a \u0645\u062c\u0645\u0648\u0639\u0629 \u0648\u0627\u0633\u0639\u0629 \u0645\u0646 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u062e\u0644\u0648\u064a\u0629. \u0641\u064a \u0646\u0641\u0633 \u0627\u0644\u0648\u0642\u062a \u064a\u0645\u0643\u0646 \u0623\u0646 \u064a\u0639\u0645\u0644 \u0643\u0646\u0642\u0637\u0629 \u0627\u062a\u0635\u0627\u0644 \u0628\u064a\u0646 \u0627\u0644\u0647\u064a\u0643\u0644 \u0627\u0644\u062e\u0644\u0648\u064a \u0648\u0627\u0644\u062c\u062f\u0627\u0631 \u0627\u0644\u062e\u0644\u0648\u064a \u0641\u064a \u062d\u0627\u0644 \u0648\u062c\u0648\u062f\u0647. \u0631\u0628\u0645\u0627 \u062a\u0643\u0648\u0646 \u0645\u0647\u0645\u062a\u0647 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629 \u0647\u064a \u062a\u0646\u0638\u064a\u0645 \u062f\u062e\u0648\u0644 \u0648\u062e\u0631\u0648\u062c \u0627\u0644\u062c\u0632\u064a\u0626\u0627\u062a \u0625\u0644\u0649 \u0627\u0644\u062e\u0644\u064a\u0629 \u0648\u062e\u0631\u0648\u062c\u0647\u0627 \u0645\u0646\u0647\u060c \u0639\u062f\u0627 \u0639\u0646 \u0627\u0633\u062a\u0642\u0628\u0627\u0644 \u0627\u0644\u0625\u0634\u0627\u0631\u0627\u062a \u0627\u0644\u062d\u064a\u0648\u064a\u0629 \u0645\u0646 \u062e\u0627\u0631\u062c \u0627\u0644\u062e\u0644\u064a\u0629 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0645\u0627 \u064a\u0633\u0645\u0649 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644\u0627\u062a.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u7d30\u80de\u819c\uff08\u3055\u3044\u307c\u3046\u307e\u304f\u3001cell membrane\uff09\u306f\u3001\u7d30\u80de\u306e\u5185\u5916\u3092\u9694\u3066\u308b\u751f\u4f53\u819c\u3002\u5f62\u8cea\u819c\u3084\u3001\u305d\u306e\u82f1\u8a33\u3067\u3042\u308b\u30d7\u30e9\u30ba\u30de\u30e1\u30f3\u30d6\u30ec\u30f3(plasma membrane)\u3068\u3082\u547c\u3070\u308c\u308b\u3002 \u7d30\u80de\u819c\u306f\u7d30\u80de\u5185\u5916\u3092\u5358\u306b\u9694\u3066\u3066\u3044\u308b\u9759\u7684\u306a\u69cb\u9020\u4f53\u3067\u306f\u306a\u304f\u3001\u7279\u7570\u7684\u306a\u30c1\u30e3\u30f3\u30cd\u30eb\u306b\u3088\u3063\u3066\u30a4\u30aa\u30f3\u306a\u3069\u306e\u4f4e\u5206\u5b50\u3092\u900f\u904e\u3055\u305b\u305f\u308a\u3001\u53d7\u5bb9\u4f53\u3092\u4ecb\u3057\u3066\u7d30\u80de\u5916\u304b\u3089\u306e\u30b7\u30b0\u30ca\u30eb\u3092\u53d7\u3051\u53d6\u308b\u6a5f\u80fd\u3001\u7d30\u80de\u819c\u306e\u4e00\u90e8\u3092\u53d6\u308a\u8fbc\u3093\u3067\u7d30\u80de\u5185\u306b\u8f38\u9001\u3059\u308b\u6a5f\u80fd\u306a\u3069\u3001\u7d30\u80de\u306b\u3068\u3063\u3066\u91cd\u8981\u306a\u6a5f\u80fd\u3092\u62c5\u3063\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La membrane plasmique, ou plasmalemme, est la membrane qui d\u00e9limite une cellule, elle s\u00e9pare le cytoplasme du milieu ext\u00e9rieur.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u7ec6\u80de\u819c\uff0c\u53c8\u79f0\u539f\u751f\u8cea\u819c\uff0c\u4e3a\u7ec6\u80de\u7d50\u69cb\u4e2d\u5206\u9694\u7ec6\u80de\u5185\u3001\u5916\u4e0d\u540c\u4ecb\u8d28\u548c\u7ec4\u6210\u6210\u4efd\u7684\u754c\u9762\u3002\u539f\u751f\u8cea\u819c\u666e\u904d\u8ba4\u4e3a\u7531\u78f7\u8102\u8cea\u53cc\u5c42\u5206\u5b50\u4f5c\u4e3a\u57fa\u672c\u5355\u4f4d\u91cd\u590d\u800c\u6210\uff0c\u5373\u78f7\u8102\u53cc\u5206\u5b50\u5c42\uff0c\u5176\u4e0a\u9576\u5d4c\u6709\u5404\u79cd\u7c7b\u578b\u7684\u819c\u86cb\u767d\u4ee5\u53ca\u4e0e\u819c\u86cb\u767d\u7ed3\u5408\u7684\u7cd6\u548c\u7cd6\u8102\u3002\u539f\u751f\u8cea\u819c\u662f\u7ec6\u80de\u4e0e\u5468\u56f4\u73af\u5883\u548c\u7ec6\u80de\u4e0e\u7ec6\u80de\u95f4\u8fdb\u884c\u7269\u8d28\u4ea4\u6362\u548c\u4fe1\u606f\u4f20\u9012\u7684\u91cd\u8981\u901a\u9053\u3002\u539f\u751f\u8cea\u819c\u901a\u8fc7\u5176\u4e0a\u7684\u5b54\u9699\u548c\u8de8\u819c\u86cb\u767d\u7684\u67d0\u4e9b\u6027\u8d28\uff0c\u8fbe\u5230\u6709\u9009\u62e9\u6027\u7684\uff0c\u53ef\u8c03\u63a7\u7684\u7269\u8d28\u8fd0\u8f93\u4f5c\u7528\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "De celmembraan, plasmamembraan, plasmalemma of membrana cellularis is een biologische structuur die de binnenkant van een cel scheidt van de buitenkant. Celmembranen zijn opgebouwd uit een dubbele fosfolipidenlaag en bevatten daarnaast eiwitten en sterolen. Ze zijn semipermeabel, ofwel selectief doorlatend, voor ionen en sommige organische moleculen. Celmembranen spelen een rol in verschillende cellulaire processen, zoals transport, signalering en adhesie. Daarnaast bevatten ze ankerpunten voor zowel de extracellulaire matrix als het intracellulaire cytoskelet.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Zellmembran (anatom. Membrana cellularis), Zytomembran, Plasmamembran, auch Plasmalemma, wird die jeder lebenden Zelle eigene Biomembran genannt, die das Zellinnere umschlie\u00dfend und abgrenzend ihr inneres Milieu aufrechterh\u00e4lt. Die Zellmembran von eukaryoten Zellen und Bakterien besteht aus einer zweilagigen Schicht von Lipiden (Lipiddoppelschicht), die eine hydrophobe Barriere bilden, und verschiedenen Membranproteinen, die darin eingelassenen sind. Mit etwa sechs bis zehn Nanometer Dicke ist sie lichtmikroskopisch nur vage als Linie zu ahnen. Die Zellmembran grenzt den Cytoplasmaraum einer Zelle ab und stellt die Grenzfl\u00e4che dar, \u00fcber die ein Stoffaustausch mit der Umgebung stattfindet. Dar\u00fcber hinaus \u00fcbernimmt die Zellmembran wesentliche Aufgaben bei Zell-Zell-Kontakten, Zell-Matrix-Verbindungen, Signal\u00fcbermittlungen, Zellwanderungen und Zellform\u00e4nderungen. Bei Prokaryoten ist sie auch Ort der Photosynthese oder der chemotrophen Bereitstellung von Energie und Anordnungsfl\u00e4che f\u00fcr Photosysteme, Atmungskettenkomplexe und weitere Enzymsysteme. Die ausw\u00e4rtige, extrazellul\u00e4re Seite der Zellmembran ist bei allen Zellen auch strukturell verschieden von der inwendigen, intrazellul\u00e4ren Membranseite. Nach au\u00dfen hin kann die Plasmamembran von einer Zellwand als sch\u00fctzender H\u00fclle umgeben sein. Nach innen zu kann sie mit Proteinen eines Zytoskeletts in Verbindung stehen oder bei manchen Einzellern zur Pellicula versteift sein.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "La membrana cellulare, anche detta membrana plasmatica, plasmalemma o citomembrana, \u00e8 un sottile rivestimento, con spessore di 5-10 nm (50-100 \u00c5), che delimita la cellula in tutti gli organismi viventi, la separa dall'ambiente esterno e ne regola gli scambi di elementi e sostanze chimiche con questo. Formata in prevalenza da lipidi, in massima parte fosfolipidi, viene chiamata anche \"doppio strato fosfolipidico\" o \"bilayer fosfolipidico\" secondo l'accezione inglese. Nella componente lipidica si vanno a collocare, con importanti funzioni fisiologiche, proteine e una piccola percentuale di glucidi, in forma di glicoproteine e glicolipidi, e di molecole di colesterolo che la stabilizzano. Negli organismi procarioti la membrana cellulare \u00e8 ricoperta da un rivestimento protettivo chiamato parete batterica, assente invece negli eucarioti; nelle cellule eucarioti vegetali \u00e8 presente una parete cellulare divisa in parete cellulare primaria (composta principalmente da pectina ed emicellulose - e in minor misura, da cellulosa) e in parete cellulare secondaria (composta da una maggiore percentuale di cellulosa e pu\u00f2 essere impregnata di lignina, di cutina o di suberina).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "The cell membrane (also known as the plasma membrane or cytoplasmic membrane) is a biological membrane that separates the interior of all cells from the outside environment. The cell membrane is selectively permeable to ions and organic molecules and controls the movement of substances in and out of cells. The basic function of the cell membrane is to protect the cell from its surroundings. It consists of the phospholipid bilayer with embedded proteins. Cell membranes are involved in a variety of cellular processes such as cell adhesion, ion conductivity and cell signalling and serve as the attachment surface for several extracellular structures, including the cell wall, glycocalyx, and intracellular cytoskeleton. Cell membranes can be artificially reassembled.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "B\u0142ona kom\u00f3rkowa, b\u0142ona cytoplazmatyczna, b\u0142ona plazmatyczna, plazmolemma, plazmolema (cytolemma, plasmolemma) \u2013 p\u00f3\u0142przepuszczalna b\u0142ona biologiczna oddzielaj\u0105ca wn\u0119trze kom\u00f3rki od \u015bwiata zewn\u0119trznego. Jest ona z\u0142o\u017cona z dw\u00f3ch warstw fosfolipid\u00f3w oraz bia\u0142ek, z kt\u00f3rych niekt\u00f3re s\u0105 lu\u017ano zwi\u0105zane z powierzchni\u0105 b\u0142ony (bia\u0142ka powierzchniowe), a inne przebijaj\u0105 b\u0142on\u0119 (bia\u0142ka przezb\u0142onowe) lub s\u0105 w niej mocno osadzone motywem bia\u0142kowym lub niebia\u0142kowym (bia\u0142ka b\u0142onowe). Zazwyczaj inne bia\u0142ka wyst\u0119puj\u0105 po wewn\u0119trznej, a inne po zewn\u0119trznej stronie b\u0142ony. Cz\u0105steczki nale\u017c\u0105ce do b\u0142ony mog\u0105 \u0142atwo porusza\u0107 si\u0119 wewn\u0105trz swojej warstwy (dyfuzja lateralna, o ile nie s\u0105 zwi\u0105zane na przyk\u0142ad od wewn\u0105trz z bia\u0142kami cytoszkieletu), jednak napotykaj\u0105 du\u017ce trudno\u015bci z przej\u015bciem do warstwy przeciwnej. Podobna asymetria dotyczy tak\u017ce samej b\u0142ony, kt\u00f3ra ma zazwyczaj odmienny sk\u0142ad (r\u00f3\u017cne proporcje, ale i jako\u015b\u0107) lipidowy w swojej monowarstwie wewn\u0119trznej i zewn\u0119trznej.Asymetria jako\u015bciowa rozmieszczenia lipid\u00f3w mo\u017ce tak\u017ce dotyczy\u0107 p\u0142aszczyzny b\u0142ony \u2013 w monowarstwach istniej\u0105 lokalne obszary o sk\u0142adzie odbiegaj\u0105cym od rozk\u0142adu przypadkowego, zwane tratwami lipidowymi. S\u0105 one bogatsze od s\u0105siednich obszar\u00f3w monowarstwy w specyficzne lipidy, cholesterol lub bia\u0142ka. Lipidy znajduj\u0105ce si\u0119 w takich domenach mog\u0105 by\u0107 poni\u017cej temperatury g\u0142\u00f3wnego przej\u015bcia fazowego i nie mie\u0107 struktury ciek\u0142okrystalicznej, co powoduje ich agregacj\u0119. Funkcje tratw oraz sposoby ich powstawania w b\u0142onach nie s\u0105 jeszcze dok\u0142adnie znane, ale nie wyklucza si\u0119 ich interakcji i wp\u0142ywania na aktywno\u015b\u0107 bia\u0142ek b\u0142onowych lub udzia\u0142 w fuzjach b\u0142on. B\u0142ony musz\u0105 dla swojego w\u0142a\u015bciwego funkcjonowania zachowa\u0107 p\u00f3\u0142p\u0142ynn\u0105 konsystencj\u0119. Zar\u00f3wno znaczne obni\u017cenie jak i znaczne podwy\u017cszenie temperatury zmienia w\u0142a\u015bciwo\u015bci b\u0142ony w stopniu, kt\u00f3ry mo\u017ce by\u0107 dla kom\u00f3rki \u015bmiertelny. Dlatego organizmy \u017cyj\u0105ce w r\u00f3\u017cnych temperaturach maj\u0105 r\u00f3\u017cny sk\u0142ad b\u0142on kom\u00f3rkowych.",
+                "lang": "pl"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Cell_membrane_detailed_diagram_4.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 735127443,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 33051527,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Apical_(cell_biology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unit_membrane": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fluid_mosaic": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plant_cell/membrane": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fluid-Mosaic_Model": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cell_surface": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plasmalemma": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cellular_membrane": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plasma_membrane": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Apical_membrane_(cell_biology)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fluid_Mosaics": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cytoplasmic_membrane": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Apical_surface": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Phosopholipid_bilayer": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Cell_membrane": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Membrane_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Basolateral_membrane": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gilbert_Ling": {
+        "http://dbpedia.org/ontology/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Apical_membrane": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Basolateral": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plaslemma": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cell's_membrane": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cell_Membrane": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Membrane_permeability": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Oolemma": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plasma_membranes": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cell-surface": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Basal_membrane": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cytoplamic_membrane": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Membrane_integrity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plasmalemmal": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cell_membranes": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cell's_plasma_membrane": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ectoplast": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fluid_Mosaic": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Membrane-spanning": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cell_membrane"
+            }
+        ]
+    }
+}

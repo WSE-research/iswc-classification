@@ -1,0 +1,28 @@
+{
+    "@text": "How many moons does Mars have?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Natural_satellite",
+            "@support": "1947",
+            "@types": "",
+            "@surfaceForm": "moons",
+            "@offset": "9",
+            "@similarityScore": "0.9599617108682931",
+            "@percentageOfSecondRank": "0.020972896437786215"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mars",
+            "@support": "27356",
+            "@types": "Wikidata:Q634,Schema:Place,DBpedia:Planet,DBpedia:Place,DBpedia:Location,DBpedia:CelestialBody",
+            "@surfaceForm": "Mars",
+            "@offset": "20",
+            "@similarityScore": "0.9993155621144232",
+            "@percentageOfSecondRank": "6.361225075705956E-4"
+        }
+    ]
+}

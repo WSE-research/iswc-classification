@@ -1,0 +1,28 @@
+{
+    "@text": "What is the language spoken in the city which Ronaldinho played sports?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "35",
+            "@similarityScore": "0.8479117645241497",
+            "@percentageOfSecondRank": "0.09720158451389267"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ronaldinho",
+            "@support": "693",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q937857,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:SoccerPlayer,DBpedia:Person,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Ronaldinho",
+            "@offset": "46",
+            "@similarityScore": "0.9999999191560992",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

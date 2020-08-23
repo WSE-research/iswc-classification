@@ -1,0 +1,28 @@
+{
+    "@text": "Which BBC's TV show is related with the Sarah Jane Adventures?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/BBC",
+            "@support": "106021",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "BBC",
+            "@offset": "6",
+            "@similarityScore": "0.999652239542172",
+            "@percentageOfSecondRank": "1.0240388681899731E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sarah_Jane_Smith",
+            "@support": "730",
+            "@types": "",
+            "@surfaceForm": "Sarah Jane",
+            "@offset": "40",
+            "@similarityScore": "0.9999982074605648",
+            "@percentageOfSecondRank": "1.7925426436858646E-6"
+        }
+    ]
+}

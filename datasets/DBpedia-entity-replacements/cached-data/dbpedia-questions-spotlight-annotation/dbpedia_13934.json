@@ -1,0 +1,37 @@
+{
+    "@text": "What is the motion picture studio which has made 'The Archers', which has received the award 'Satellite Award for Best Miniseries'?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Film",
+            "@support": "48262",
+            "@types": "",
+            "@surfaceForm": "motion picture",
+            "@offset": "12",
+            "@similarityScore": "0.999381256737016",
+            "@percentageOfSecondRank": "3.935713806458372E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/The_Archers",
+            "@support": "643",
+            "@types": "Wikidata:Q386724,Wikidata:Q1555508,Schema:CreativeWork,DBpedia:Work,DBpedia:RadioProgram",
+            "@surfaceForm": "The Archers",
+            "@offset": "50",
+            "@similarityScore": "0.990880596531803",
+            "@percentageOfSecondRank": "0.008952659515244684"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Satellite_Awards",
+            "@support": "990",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Satellite Award",
+            "@offset": "94",
+            "@similarityScore": "0.9908470410659511",
+            "@percentageOfSecondRank": "0.0073122042381869624"
+        }
+    ]
+}

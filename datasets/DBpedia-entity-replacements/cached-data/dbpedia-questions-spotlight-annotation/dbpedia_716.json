@@ -1,0 +1,37 @@
+{
+    "@text": "What is the JMA Seismic Intensity Database ID for the 2011 Tohoku Earthquake and tsunami?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Japan_Meteorological_Agency",
+            "@support": "1476",
+            "@types": "Wikidata:Q43229,Wikidata:Q327333,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:GovernmentAgency,DBpedia:Agent",
+            "@surfaceForm": "JMA",
+            "@offset": "12",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/2011_T\u014dhoku_earthquake_and_tsunami",
+            "@support": "2138",
+            "@types": "Wikidata:Q1656682,DUL:Event,Schema:Event,DBpedia:NaturalEvent,DBpedia:Event,DBpedia:Earthquake",
+            "@surfaceForm": "2011 Tohoku Earthquake",
+            "@offset": "54",
+            "@similarityScore": "0.9999999999996874",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tsunami",
+            "@support": "4922",
+            "@types": "",
+            "@surfaceForm": "tsunami",
+            "@offset": "81",
+            "@similarityScore": "0.9999841162424856",
+            "@percentageOfSecondRank": "1.5856492435794848E-5"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Do the White Plains Road lie in the Bronx county?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/White_Plains_Road",
+            "@support": "108",
+            "@types": "Wikidata:Q34442,Schema:Place,DBpedia:RouteOfTransportation,DBpedia:Road,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "White Plains Road",
+            "@offset": "7",
+            "@similarityScore": "0.9841830064237523",
+            "@percentageOfSecondRank": "0.01598000525807174"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/The_Bronx",
+            "@support": "10878",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Bronx",
+            "@offset": "36",
+            "@similarityScore": "0.8126891189307348",
+            "@percentageOfSecondRank": "0.2297697568068238"
+        }
+    ]
+}

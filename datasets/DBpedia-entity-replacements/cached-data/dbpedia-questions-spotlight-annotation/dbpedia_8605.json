@@ -1,0 +1,37 @@
+{
+    "@text": "Were the administrators of Lyon Aleppo and Curitiba?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Lyon",
+            "@support": "11943",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Lyon",
+            "@offset": "27",
+            "@similarityScore": "0.9905085059376778",
+            "@percentageOfSecondRank": "0.009376109464778537"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Aleppo",
+            "@support": "8422",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Aleppo",
+            "@offset": "32",
+            "@similarityScore": "0.9967438930671841",
+            "@percentageOfSecondRank": "0.0031413434700504985"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Curitiba",
+            "@support": "1765",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Curitiba",
+            "@offset": "43",
+            "@similarityScore": "0.9992818425072874",
+            "@percentageOfSecondRank": "5.828009309694514E-4"
+        }
+    ]
+}

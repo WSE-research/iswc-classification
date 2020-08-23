@@ -1,0 +1,854 @@
+{
+    "http://dbpedia.org/resource/Diana,_Princess_of_Wales": {
+        "http://dbpedia.org/ontology/parent": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/John_Spencer": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Edward_John_Spencer,_8th_Earl_Spencer": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Charles_Spencer,_9th_Earl_Spencer": {
+        "http://dbpedia.org/property/parents": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ],
+        "http://dbpedia.org/property/predecessor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes": {
+        "http://dbpedia.org/property/parents": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lady_Sarah_McCorquodale": {
+        "http://dbpedia.org/ontology/parent": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wedding_of_Charles,_Prince_of_Wales,_and_Lady_Diana_Spencer": {
+        "http://dbpedia.org/property/participants": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Edward_John,_8th_Earl_Spencer": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/John_Spencer,_8th_Earl_Spencer": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Edward_Spencer,_8th_Earl_Spencer": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Frances_Shand_Kydd": {
+        "http://dbpedia.org/ontology/spouse": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Officeholder110371450"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Owner110389398"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Holder110180178"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Equerry110062594"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Sheriff110589140"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatEquerries"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatGraduatesOfTheRoyalMilitaryAcademySandhurst"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatEarlsInThePeerageOfGreatBritain"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Noble110271677"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Lawman110249459"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Leader109623038"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Serviceman110582746"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Peer110412910"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/MilitaryOfficer110317007"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Peer109626238"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SkilledWorker110605985"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Organism100004475"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Person"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Aristocrat109807754"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/LivingThing100004258"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/CausalAgent100007347"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/MaleAristocrat110285135"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Worker109632518"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatHighSheriffsOfNorthamptonshire"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActor"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Defender109614684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Intellectual109621545"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Person100007846"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatPeopleEducatedAtEtonCollege"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Preserver110466918"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatRoyalScotsGreysOfficers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatAlumniOfTheRoyalAgriculturalUniversity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Alumnus109786338"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatPeopleFromLondon"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Official110372373"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Earl110041373"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Scholar110557854"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Edward Spencer, 8. Earl Spencer",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "John Spencer, 8th Earl Spencer",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "John Spencer, VIII conte Spencer",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Edward Spencer",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Edward Spencer (8. hrabia Spencer)",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "John Spencer, VIII conde de Spencer",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "John Spencer (1924-1992)",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a8\u30c9\u30ef\u30fc\u30c9\u30fb\u30b9\u30da\u30f3\u30b5\u30fc (\u7b2c8\u4ee3\u30b9\u30da\u30f3\u30b5\u30fc\u4f2f\u7235)",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "John Spencer, 8\u00ba Conde Spencer",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Edward John ('Johnny') Spencer, 8ste graaf Spencer, burggraaf van Althorp, MVO, (Londen, 24 januari 1924 - aldaar, 29 maart 1992) was een Britse edelman die vooral bekend is omdat hij de vader was van Lady Diana Spencer, de eerste echtgenote van Charles, prins van Wales.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Edward John Spencer, VIII conde Spencer, (24 de enero de 1924 \u2013 29 de marzo de 1992).",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Edward John Spencer (ur. 24 stycznia 1924 w Londynie, zm. 29 marca 1992 tam\u017ce) \u2013 brytyjski arystokrata, ojciec Diany, ksi\u0119\u017cnej Walii. By\u0142 jedynym synem Alberta Spencera, 7. hrabiego Spencer i lady Cynthii Hamilton, c\u00f3rki 3. ksi\u0119cia Abercorn. 1 czerwca 1954 r. w katedrze westminsterskiej, po\u015blubi\u0142 Frances Ruth Roche (20 stycznia 1936 - 3 czerwca 2004), c\u00f3rk\u0119 Edmunda Burke Roche, 4. barona Fermoy i Ruth Gill, c\u00f3rki pu\u0142kownika Williama Gilla. \u015alubu udzieli\u0142 im biskup Norwich Percy Herbert. Edward i Frances mieli razem dw\u00f3ch syn\u00f3w i trzy c\u00f3rki:",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Edward John \"Johnnie\" Spencer, 8. Earl Spencer MVO, (* 24. Januar 1924; \u2020 29. M\u00e4rz 1992), Viscount Althorp bis 1975, war ein britischer Peer und Vater von Diana, Princess of Wales.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Edward John \"Johnnie\" Spencer, 8th Earl Spencer, MVO (24 January 1924 \u2013 29 March 1992), styled Viscount Althorp until 1975, was a British peer and the father of Diana, Princess of Wales.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Edward John Spencer dit Johnnie, 8e comte Spencer, n\u00e9 le 24 janvier 1924 \u00e0 Londres et mort le 29 mars 1992 dans la m\u00eame ville, est un aristocrate britannique, p\u00e8re de Diana, princesse de Galles.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Edward John Spencer, 8.\u00b0 Conde Spencer (24 de janeiro de 1924 \u2014 29 de mar\u00e7o de 1992) foi o pai de Diana, Princesa de Gales.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u7b2c8\u4ee3\u30b9\u30da\u30f3\u30b5\u30fc\u4f2f\u7235\u30a8\u30c9\u30ef\u30fc\u30c9\u30fb\u30b8\u30e7\u30f3\u30fb\u30b9\u30da\u30f3\u30b5\u30fc\uff08\u82f1: Edward John Spencer, 8th Earl Spencer, MVO\u30011924\u5e741\u670824\u65e5 - 1992\u5e743\u670829\u65e5\uff09\u306f\u3001\u30a4\u30ae\u30ea\u30b9\u306e\u8cb4\u65cf\u3001\u653f\u6cbb\u5bb6\u3002 \u7235\u4f4d\u3092\u7d99\u627f\u3059\u308b1975\u5e74\u4ee5\u524d\u306f\u30aa\u30fc\u30eb\u30c8\u30e9\u30c3\u30d7\u5b50\u7235\uff08Viscount Althorp\uff09\u306e\u5100\u793c\u79f0\u53f7\u3092\u4f7f\u7528\u3057\u305f\u3002\u611b\u79f0\u306f\u30b8\u30e7\u30cb\u30fc\uff08Johnnie\uff09\u3002\u30c0\u30a4\u30a2\u30ca\u5143\u7687\u592a\u5b50\u5983\u306e\u7236\u89aa\u306b\u3042\u305f\u308b\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://dbpedia.org/property/birthDate": [
+            {
+                "type": "literal",
+                "value": "1924-01-24",
+                "datatype": "http://www.w3.org/2001/XMLSchema#date"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Edward_Spencer,_8._Earl_Spencer"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q593671"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q593671"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/John_Spencer,_8._hrab\u011b_Spencer"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/John_Spencer,_8\u00ba_Conde_Spencer"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Edward_Spencer_(8._hrabia_Spencer)"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30a8\u30c9\u30ef\u30fc\u30c9\u30fb\u30b9\u30da\u30f3\u30b5\u30fc_(\u7b2c8\u4ee3\u30b9\u30da\u30f3\u30b5\u30fc\u4f2f\u7235)"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/John_Spencer,_8th_Earl_Spencer"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/John_Spencer,_VIII_conte_Spencer"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Edward_Spencer"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/John_Spencer_(1924-1992)"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc81c8\ub300_\uc2a4\ud39c\uc11c_\ubc31\uc791_\uc874_\uc2a4\ud39c\uc11c"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/John_Spencer,_VIII_conde_de_Spencer"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.031_v1"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Equerries"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Members_of_the_Royal_Victorian_Order"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Graduates_of_the_Royal_Military_College,_Sandhurst"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:British_Army_personnel_of_World_War_II"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:British_people_of_English_descent"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Spencer-Churchill_family"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Royal_Scots_Greys_officers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:People_educated_at_Eton_College"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:High_Sheriffs_of_Northamptonshire"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Earls_Spencer"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:British_landowners"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:1992_deaths"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Alumni_of_the_Royal_Agricultural_University"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:1924_births"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/name": [
+            {
+                "type": "literal",
+                "value": "John Spencer, 8th Earl Spencer",
+                "lang": "en"
+            }
+        ],
+        "http://purl.org/dc/terms/description": [
+            {
+                "type": "literal",
+                "value": "British Earl",
+                "lang": "en"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/givenName": [
+            {
+                "type": "literal",
+                "value": "John",
+                "lang": "en"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/gender": [
+            {
+                "type": "literal",
+                "value": "male",
+                "lang": "en"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/John_Spencer,_8th_Earl_Spencer"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/surname": [
+            {
+                "type": "literal",
+                "value": "Spencer",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/property/parents": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Cynthia_Spencer,_Countess_Spencer"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Albert_Spencer,_7th_Earl_Spencer"
+            }
+        ],
+        "http://dbpedia.org/property/coronet": [
+            {
+                "type": "literal",
+                "value": "A Coronet of an Earl",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/supporters": [
+            {
+                "type": "literal",
+                "value": "Dexter:  A Griffin per fess Ermine and Erminois gorged with a Collar Sable the edges flory-counterflory and chained of the last and on the Collar three Escallops Argent;  Sinister:  A Wyvern Erect on his tail Ermine similarly collared and chained",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/years": [
+            {
+                "type": "literal",
+                "value": "--06-09",
+                "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay"
+            },
+            {
+                "type": "literal",
+                "value": 1959,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/after": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Evelyn_Fanshawe"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Charles_Spencer,_9th_Earl_Spencer"
+            }
+        ],
+        "http://dbpedia.org/property/children": [
+            {
+                "type": "literal",
+                "value": "John Spencer",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Charles_Spencer,_9th_Earl_Spencer"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Diana,_Princess_of_Wales"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Lady_Sarah_McCorquodale"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/John_Spencer,_8th_Earl_Spencer?oldid=742682269"
+            }
+        ],
+        "http://dbpedia.org/property/spouse": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Frances_Shand_Kydd"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Raine_Spencer,_Countess_Spencer"
+            }
+        ],
+        "http://dbpedia.org/property/escutcheon": [
+            {
+                "type": "literal",
+                "value": "Quarterly Argent and Gules in the 2nd and 3rd quarters a Fret Or over all on a Bend Sable three Escallops of the first",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/birthName": [
+            {
+                "type": "literal",
+                "value": "Edward John Spencer",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/birthPlace": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/London"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/England"
+            }
+        ],
+        "http://dbpedia.org/property/deathDate": [
+            {
+                "type": "literal",
+                "value": "1992-03-29",
+                "datatype": "http://www.w3.org/2001/XMLSchema#date"
+            }
+        ],
+        "http://dbpedia.org/property/before": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Albert_Spencer,_7th_Earl_Spencer"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sir_Gyles_Isham,_12th_Baronet"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "The Earl Spencer",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/deathPlace": [
+            {
+                "type": "literal",
+                "value": "Humana Hospital, Wellington, London, England",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/tenure": [
+            {
+                "type": "literal",
+                "value": "1975-06-09",
+                "datatype": "http://www.w3.org/2001/XMLSchema#date"
+            }
+        ],
+        "http://dbpedia.org/property/crest": [
+            {
+                "type": "literal",
+                "value": "Out of a Ducal Coronet Or a Griffin's Head Azure gorged with a Bar Gemelle Gules between two Wings expanded of the second",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/predecessor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Albert_Spencer,_7th_Earl_Spencer"
+            }
+        ],
+        "http://dbpedia.org/property/successor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Charles_Spencer,_9th_Earl_Spencer"
+            }
+        ],
+        "http://dbpedia.org/property/motto": [
+            {
+                "type": "literal",
+                "value": "Dieu Defend Le Droit",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Edward John \"Johnnie\" Spencer, 8. Earl Spencer MVO, (* 24. Januar 1924; \u2020 29. M\u00e4rz 1992), Viscount Althorp bis 1975, war ein britischer Peer und Vater von Diana, Princess of Wales.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u7b2c8\u4ee3\u30b9\u30da\u30f3\u30b5\u30fc\u4f2f\u7235\u30a8\u30c9\u30ef\u30fc\u30c9\u30fb\u30b8\u30e7\u30f3\u30fb\u30b9\u30da\u30f3\u30b5\u30fc\uff08\u82f1: Edward John Spencer, 8th Earl Spencer, MVO\u30011924\u5e741\u670824\u65e5 - 1992\u5e743\u670829\u65e5\uff09\u306f\u3001\u30a4\u30ae\u30ea\u30b9\u306e\u8cb4\u65cf\u3001\u653f\u6cbb\u5bb6\u3002 \u7235\u4f4d\u3092\u7d99\u627f\u3059\u308b1975\u5e74\u4ee5\u524d\u306f\u30aa\u30fc\u30eb\u30c8\u30e9\u30c3\u30d7\u5b50\u7235\uff08Viscount Althorp\uff09\u306e\u5100\u793c\u79f0\u53f7\u3092\u4f7f\u7528\u3057\u305f\u3002\u611b\u79f0\u306f\u30b8\u30e7\u30cb\u30fc\uff08Johnnie\uff09\u3002\u30c0\u30a4\u30a2\u30ca\u5143\u7687\u592a\u5b50\u5983\u306e\u7236\u89aa\u306b\u3042\u305f\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Edward John Spencer (ur. 24 stycznia 1924 w Londynie, zm. 29 marca 1992 tam\u017ce) \u2013 brytyjski arystokrata, ojciec Diany, ksi\u0119\u017cnej Walii. By\u0142 jedynym synem Alberta Spencera, 7. hrabiego Spencer i lady Cynthii Hamilton, c\u00f3rki 3. ksi\u0119cia Abercorn. Wykszta\u0142cenie odebra\u0142 w Eton College, Royal Military College w Sandhurst i Royal Agricultural College w Cirencester. W latach 1944-1945 walczy\u0142 na froncie zachodnim i zosta\u0142 wspomniany w rozkazie dziennym. W latach 1947-1950 by\u0142 adiutantem gubernatora Australii Po\u0142udniowej. W 1952 r. zosta\u0142 cz\u0142onkiem rady hrabstwa Northamptonshire. Dwa lata p\u00f3\u017aniej zosta\u0142 odznaczony Krzy\u017cem Kawalerskim Kr\u00f3lewskiego Wiktoria\u0144skiego Orderu. W 1970 r. zosta\u0142 Stra\u017cnikiem Pokoju w Norfolk. W 1975 r. odziedziczy\u0142 tytu\u0142 hrabiego Spencer i zasiad\u0142 w Izbie Lord\u00f3w. 1 czerwca 1954 r. w katedrze westminsterskiej, po\u015blubi\u0142 Frances Ruth Roche (20 stycznia 1936 - 3 czerwca 2004), c\u00f3rk\u0119 Edmunda Burke Roche, 4. barona Fermoy i Ruth Gill, c\u00f3rki pu\u0142kownika Williama Gilla. \u015alubu udzieli\u0142 im biskup Norwich Percy Herbert. Edward i Frances mieli razem dw\u00f3ch syn\u00f3w i trzy c\u00f3rki: \n*  Elisabeth Sarah Lavinia Spencer (ur. 19 marca 1955), \u017cona Neila Edmunda McCorquodale'a, ma dzieci; \n*  Cynthia Jane Spencer (ur. 11 lutego 1957), \u017cona Roberta Fellowesa, barona Fellowes, ma dzieci; \n*  John Spencer (ur. i zm. 12 stycznia 1960), \u017cy\u0142 10 godzin; \n*  Diana Frances Spencer (1 lipca 1961 - 31 sierpnia 1997), pierwsza \u017cona Karola, ksi\u0119cia Walii, znana jako Diana, ksi\u0119\u017cna Walii, mia\u0142a dzieci, zgin\u0119\u0142a w wypadku samochodowym; \n*  Charles Edward Maurice Spencer (ur. 20 maja 1964), 9. hrabia Spencer W kwietniu 1967 r. nast\u0105pi\u0142 rozw\u00f3d Spencer\u00f3w, z powodu romansu lady Spencer z Peterem Shand Kyddem (za kt\u00f3rego lady Frances wysz\u0142a za m\u0105\u017c po rozwodzie). 14 lipca 1976 r. w Caxton Hall, po\u015blubi\u0142 Raine McCorquodale (ur. 9 wrze\u015bnia 1929), by\u0142\u0105 \u017con\u0119 hrabiego Darthmouth, c\u00f3rk\u0119 Alexandra McCorquodale'a i pisarki Barbary Cartland, c\u00f3rki majora Bertrama Cartlanda. Ma\u0142\u017ce\u0144stwo to nie doczeka\u0142o si\u0119 potomstwa.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Edward John Spencer dit Johnnie, 8e comte Spencer, n\u00e9 le 24 janvier 1924 \u00e0 Londres et mort le 29 mars 1992 dans la m\u00eame ville, est un aristocrate britannique, p\u00e8re de Diana, princesse de Galles.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Edward John Spencer, VIII conde Spencer, (24 de enero de 1924 \u2013 29 de marzo de 1992).",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Edward John \"Johnnie\" Spencer, 8th Earl Spencer, MVO (24 January 1924 \u2013 29 March 1992), styled Viscount Althorp until 1975, was a British peer and the father of Diana, Princess of Wales.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Edward John ('Johnny') Spencer, 8ste graaf Spencer, burggraaf van Althorp, MVO, (Londen, 24 januari 1924 - aldaar, 29 maart 1992) was een Britse edelman die vooral bekend is omdat hij de vader was van Lady Diana Spencer, de eerste echtgenote van Charles, prins van Wales.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Edward John Spencer, 8.\u00b0 Conde Spencer (24 de janeiro de 1924 \u2014 29 de mar\u00e7o de 1992) foi o pai de Diana, Princesa de Gales.",
+                "lang": "pt"
+            }
+        ],
+        "http://dbpedia.org/ontology/birthDate": [
+            {
+                "type": "literal",
+                "value": "1924-1-24",
+                "datatype": "http://www.w3.org/2001/XMLSchema#date"
+            }
+        ],
+        "http://dbpedia.org/ontology/deathDate": [
+            {
+                "type": "literal",
+                "value": "1992-3-29",
+                "datatype": "http://www.w3.org/2001/XMLSchema#date"
+            }
+        ],
+        "http://dbpedia.org/ontology/deathPlace": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/London"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742682269,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/birthPlace": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/London"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 675678,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/knownFor": [
+            {
+                "type": "literal",
+                "value": "Father of Diana, Princess of Wales and maternal grandfather of Prince William, Duke of Cambridge and Prince Harry of Wales",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/creationDate": [
+            {
+                "type": "literal",
+                "value": "1765-11-01",
+                "datatype": "http://www.w3.org/2001/XMLSchema#date"
+            }
+        ],
+        "http://dbpedia.org/property/title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Earl_Spencer_(peerage)"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/High_Sheriff_of_Northamptonshire"
+            }
+        ],
+        "http://dbpedia.org/property/education": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Eton_College"
+            },
+            {
+                "type": "literal",
+                "value": "Royal Military College, Sandhurst",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Royal Agricultural College",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Albert_Spencer,_7th_Earl_Spencer": {
+        "http://dbpedia.org/property/after": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ],
+        "http://dbpedia.org/property/children": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Raine_Spencer,_Countess_Spencer": {
+        "http://dbpedia.org/ontology/spouse": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Earl_Spencer": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer"
+            }
+        ]
+    }
+}

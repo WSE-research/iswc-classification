@@ -1,0 +1,435 @@
+{
+    "http://dbpedia.org/resource/Dana_Gioia": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Public_Safety_Officer_Medal_of_Valor": {
+        "http://dbpedia.org/property/higher": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Robert_C._Frasure": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jeana_Yeager": {
+        "http://dbpedia.org/property/awards": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Presidential_Citizens_Medal": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Award"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatCivilAwardsAndDecorationsOfTheUnitedStates"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Symbol106806469"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Signal106791372"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Communication100033020"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatAwardsEstablishedIn1969"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatCivilAwardsAndDecorations"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Award106696483"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Presidential Citizens Medal",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Presidential Citizens Medal",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u7e3d\u7d71\u516c\u6c11\u734e\u7ae0",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Presidential Citizens Medal",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Presidential Citizen Medal",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "The Presidential Citizens Medal is an award bestowed by the President of the United States. It is the second-highest civilian award in the United States, second only to the Presidential Medal of Freedom. Established by executive order on November 13, 1969, by President Richard Nixon, it recognizes an individual \"who has performed exemplary deeds or services for his or her country or fellow citizens.\" The award is only eligible to United States citizens and may be awarded posthumously.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Die Presidential Citizens Medal (B\u00fcrgermedaille des Pr\u00e4sidenten) ist die zweith\u00f6chste zivile Auszeichnung in den Vereinigten Staaten nach der Presidential Medal of Freedom. Sie wird durch den Pr\u00e4sidenten der Vereinigten Staaten verliehen. Eine posthume Verleihung ist m\u00f6glich, eine mehrfache Verleihung an dieselbe Person ist nicht vorgesehen. Nur sehr wenige Personen haben sowohl die Presidential Citizens Medal als auch die Presidential Medal of Freedom erhalten; ein Beispiel ist Muhammad Ali (Citizens Medal 2001, Medal of Freedom 2005).",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Presidential Citizens Medal (pol. Prezydencki Medal Obywatelski) \u2013 cywilne odznaczenie Stan\u00f3w Zjednoczonych Ameryki ustanowione w 1969, nadawane za wybitne zas\u0142ugi obywatelom USA.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "La Presidential Citizen Medal est la seconde plus \u00e9lev\u00e9e d\u00e9coration civile des \u00c9tats-Unis (apr\u00e8s la Presidential Medal of Freedom), distribu\u00e9e uniquement par le pr\u00e9sident des \u00c9tats-Unis d'Am\u00e9rique. Cr\u00e9\u00e9e le 13 novembre 1969, cette d\u00e9coration peut \u00eatre d\u00e9cern\u00e9e \u00e0 tout citoyen des \u00c9tats-Unis \u00ab ayant rempli des services exemplaires pour le pays ou pour les citoyens de ce pays \u00bb. Elle peut \u00eatre d\u00e9cern\u00e9e \u00e0 titre posthume.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u7e3d\u7d71\u516c\u6c11\u734e\u7ae0\uff08Presidential Citizens Medal\uff09\u662f\u7f8e\u570b\u7b2c\u4e8c\u9ad8\u7684\u5e73\u6c11\u734e\uff0c\u50c5\u6b21\u65bc\u7e3d\u7d71\u81ea\u7531\u52f3\u7ae0\uff0c\u6bcf\u5e74\u7531\u7f8e\u570b\u7e3d\u7d71\u9812\u767c\uff0c\u7372\u734e\u4eba\u6578\u4e0d\u5b9a\u3002 \u7e3d\u7d71\u516c\u6c11\u734e\u7ae0\u7531\u7f8e\u570b\u7e3d\u7d71\u5c3c\u514b\u68ee\uff08Richard M. Nixon\uff09\u65bc1969\u5e7411\u670813\u65e5\u8a2d\u7acb\uff0c\u53ef\u6388\u4e88\u4efb\u4f55\u201c\u70ba\u570b\u5bb6\u6216\u540c\u80de\u57f7\u884c\u6a21\u7bc4\u4e8b\u8e5f\u6216\u670d\u52d9\u201d\u7684\u7f8e\u570b\u516c\u6c11\u3002\u734e\u7ae0\u53ef\u4ee5\u8ffd\u6388\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1582967"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Presidential_Citizens_Medal"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1582967"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Presidential_Citizen_Medal"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Presidential_Citizens_Medal"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Presidential_Citizens_Medal"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.060q6b"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Awards_established_in_1969"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Presidential_Citizens_Medal_recipients"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Civil_awards_and_decorations_of_the_United_States"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Presidential_Citizens_Medal.png"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Presidential_Citizens_Medal"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Presidential_Citizens_Medal?oldid=734022109"
+            }
+        ],
+        "http://dbpedia.org/property/eligibility": [
+            {
+                "type": "literal",
+                "value": "Citizens of the United States",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://clinton5.nara.gov/WH/new/html/Mon_Jan_8_141714_2001.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.librarything.com/commonknowledge/search.php?q=Presidential+Citizens+Medal&f=4&exact=1"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.whitehouse.gov/citizensmedal/criteria"
+            }
+        ],
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "literal",
+                "value": "Ribbon of the medal",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "The Presidential Citizens Medal is an award bestowed by the President of the United States. It is the second-highest civilian award in the United States, second only to the Presidential Medal of Freedom. Established by executive order on November 13, 1969, by President Richard Nixon, it recognizes an individual \"who has performed exemplary deeds or services for his or her country or fellow citizens.\" The award is only eligible to United States citizens and may be awarded posthumously. The medal is a disc of gilt and enamel, based on the Seal of the President of the United States, with the eagle surrounded by a wreath of leaves. The medal is suspended on a ribbon, dark blue with a light blue central stripe and white edge stripes.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u7e3d\u7d71\u516c\u6c11\u734e\u7ae0\uff08Presidential Citizens Medal\uff09\u662f\u7f8e\u570b\u7b2c\u4e8c\u9ad8\u7684\u5e73\u6c11\u734e\uff0c\u50c5\u6b21\u65bc\u7e3d\u7d71\u81ea\u7531\u52f3\u7ae0\uff0c\u6bcf\u5e74\u7531\u7f8e\u570b\u7e3d\u7d71\u9812\u767c\uff0c\u7372\u734e\u4eba\u6578\u4e0d\u5b9a\u3002 \u7e3d\u7d71\u516c\u6c11\u734e\u7ae0\u7531\u7f8e\u570b\u7e3d\u7d71\u5c3c\u514b\u68ee\uff08Richard M. Nixon\uff09\u65bc1969\u5e7411\u670813\u65e5\u8a2d\u7acb\uff0c\u53ef\u6388\u4e88\u4efb\u4f55\u201c\u70ba\u570b\u5bb6\u6216\u540c\u80de\u57f7\u884c\u6a21\u7bc4\u4e8b\u8e5f\u6216\u670d\u52d9\u201d\u7684\u7f8e\u570b\u516c\u6c11\u3002\u734e\u7ae0\u53ef\u4ee5\u8ffd\u6388\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Presidential Citizens Medal (pol. Prezydencki Medal Obywatelski) \u2013 cywilne odznaczenie Stan\u00f3w Zjednoczonych Ameryki ustanowione w 1969, nadawane za wybitne zas\u0142ugi obywatelom USA.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "La Presidential Citizen Medal est la seconde plus \u00e9lev\u00e9e d\u00e9coration civile des \u00c9tats-Unis (apr\u00e8s la Presidential Medal of Freedom), distribu\u00e9e uniquement par le pr\u00e9sident des \u00c9tats-Unis d'Am\u00e9rique. Cr\u00e9\u00e9e le 13 novembre 1969, cette d\u00e9coration peut \u00eatre d\u00e9cern\u00e9e \u00e0 tout citoyen des \u00c9tats-Unis \u00ab ayant rempli des services exemplaires pour le pays ou pour les citoyens de ce pays \u00bb. Elle peut \u00eatre d\u00e9cern\u00e9e \u00e0 titre posthume. Elle se pr\u00e9sente sous la forme d'une m\u00e9daille en forme de disque d'\u00e9mail dor\u00e9 bas\u00e9 sur le sceau du pr\u00e9sident, avec l'aigle pr\u00e9sidentiel entour\u00e9 d'une couronne de lauriers. Elle est suspendue \u00e0 un ruban bleu fonc\u00e9 avec une ligne centrale bleu clair et des coins blancs.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Die Presidential Citizens Medal (B\u00fcrgermedaille des Pr\u00e4sidenten) ist die zweith\u00f6chste zivile Auszeichnung in den Vereinigten Staaten nach der Presidential Medal of Freedom. Sie wird durch den Pr\u00e4sidenten der Vereinigten Staaten verliehen. Eine posthume Verleihung ist m\u00f6glich, eine mehrfache Verleihung an dieselbe Person ist nicht vorgesehen. Gestiftet wurde die Medaille am 13. November 1969 und 1973 zum ersten Mal verliehen. Sie kann an jeden Staatsb\u00fcrger der USA verliehen werden, der \u201ebeispielhafte Taten f\u00fcr sein Land oder seine Mitb\u00fcrger erbracht hat\u201c. Jeder kann Vorschl\u00e4ge beim Wei\u00dfen Haus einreichen, wer mit der Medaille ausgezeichnet werden sollte. Die Medaille besteht aus Gold und Emaille und ist mit dem Siegel des Pr\u00e4sidenten der Vereinigten Staaten versehen. Der Wei\u00dfkopfseeadler ist mit einem Kranz von Bl\u00e4ttern umgeben. Die Medaille ist befestigt an einem Band, das aus zwei dunkelblauen und einem hellblauen Streifen in der Mitte und einem und wei\u00dfen Rand an beiden Seiten besteht. Nur sehr wenige Personen haben sowohl die Presidential Citizens Medal als auch die Presidential Medal of Freedom erhalten; ein Beispiel ist Muhammad Ali (Citizens Medal 2001, Medal of Freedom 2005).",
+                "lang": "de"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Presidential_Citizens_Medal.png?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 734022109,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 1847725,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/image": [
+            {
+                "type": "literal",
+                "value": 106,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/status": [
+            {
+                "type": "literal",
+                "value": "Active",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/established": [
+            {
+                "type": "literal",
+                "value": 1969,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/type": [
+            {
+                "type": "literal",
+                "value": "Medal",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/awardedBy": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/President_of_the_United_States"
+            },
+            {
+                "type": "literal",
+                "value": 30,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/firstAward": [
+            {
+                "type": "literal",
+                "value": 1973,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/for": [
+            {
+                "type": "literal",
+                "value": "\"Exemplary deeds or services [performed] for his or her country or fellow citizens.\"",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/higher": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Medal_of_Freedom"
+            }
+        ],
+        "http://dbpedia.org/property/lower": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Public_Safety_Officer_Medal_of_Valor"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Presidential Citizens Medal",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Award"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Presidential_Citizens_Medal": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Forrest_Bird": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Robert_P._George": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jorge_Mu\u00f1oz": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Citizen's_medal": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Citizens_Medal": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Presidential_Citizen's_Medal": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Presidential_Medal_of_Freedom": {
+        "http://dbpedia.org/property/lower": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jack_Greenberg_(lawyer)": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/History_of_women_in_Puerto_Rico": {
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Presidential_Citizen_Medal": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Presidential_Citizens_Medal"
+            }
+        ]
+    }
+}

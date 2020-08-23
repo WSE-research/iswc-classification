@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the National Bridge Inventory Number of the George Washington Bridge?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/National_Bridge_Inventory",
+            "@support": "143",
+            "@types": "",
+            "@surfaceForm": "National Bridge Inventory",
+            "@offset": "13",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/George_Washington_Bridge",
+            "@support": "645",
+            "@types": "Wikidata:Q12280,Schema:Place,DBpedia:RouteOfTransportation,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:Bridge,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "George Washington Bridge",
+            "@offset": "53",
+            "@similarityScore": "0.9999999999999716",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

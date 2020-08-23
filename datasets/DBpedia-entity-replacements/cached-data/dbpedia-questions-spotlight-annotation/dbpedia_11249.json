@@ -1,0 +1,37 @@
+{
+    "@text": "Tell me me a city-state whose name consist of the word \"hamburg\" and whose highest point hasselbrack.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City-state",
+            "@support": "1477",
+            "@types": "",
+            "@surfaceForm": "city-state",
+            "@offset": "13",
+            "@similarityScore": "0.9990693903876156",
+            "@percentageOfSecondRank": "8.978176172572323E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Hamburg",
+            "@support": "27504",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "hamburg",
+            "@offset": "56",
+            "@similarityScore": "0.9999995887437898",
+            "@percentageOfSecondRank": "2.592237388726915E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Hasselbrack",
+            "@support": "6",
+            "@types": "Wikidata:Q8502,Schema:Place,Schema:Mountain,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Mountain,DBpedia:Location",
+            "@surfaceForm": "hasselbrack",
+            "@offset": "89",
+            "@similarityScore": "0.9999999999992895",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the owner of Ford Motor Credit comapny which is also the builder of FORD SHO V8 engine ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ford_Motor_Company",
+            "@support": "23230",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Ford",
+            "@offset": "20",
+            "@similarityScore": "0.9986504581643736",
+            "@percentageOfSecondRank": "5.171518629507834E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ford_SHO_V8_engine",
+            "@support": "19",
+            "@types": "DBpedia:Engine,DBpedia:Device,DBpedia:AutomobileEngine",
+            "@surfaceForm": "FORD SHO V8 engine",
+            "@offset": "75",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

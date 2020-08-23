@@ -1,0 +1,37 @@
+{
+    "@text": "Who first ascented a mountain of Cathedral Peak (California) ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mountain",
+            "@support": "17196",
+            "@types": "",
+            "@surfaceForm": "mountain",
+            "@offset": "21",
+            "@similarityScore": "0.9999708171864211",
+            "@percentageOfSecondRank": "2.346999935285666E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cathedral_Peak_(California)",
+            "@support": "38",
+            "@types": "Wikidata:Q8502,Schema:Place,Schema:Mountain,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Mountain,DBpedia:Location",
+            "@surfaceForm": "Cathedral Peak",
+            "@offset": "33",
+            "@similarityScore": "0.9064621633778275",
+            "@percentageOfSecondRank": "0.053324099722992284"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/California",
+            "@support": "185510",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "California",
+            "@offset": "49",
+            "@similarityScore": "0.9999037201695165",
+            "@percentageOfSecondRank": "5.032719658951834E-5"
+        }
+    ]
+}

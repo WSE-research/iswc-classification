@@ -1,0 +1,37 @@
+{
+    "@text": "Did Tom Hanks attend California State University in Sacramento?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Tom_Hanks",
+            "@support": "1805",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Tom Hanks",
+            "@offset": "4",
+            "@similarityScore": "0.9999999999983089",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/California_State_University",
+            "@support": "1503",
+            "@types": "Wikidata:Q43229,Wikidata:Q3918,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:EducationalOrganization,Schema:CollegeOrUniversity,DBpedia:University,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "California State University",
+            "@offset": "21",
+            "@similarityScore": "0.9999976609941469",
+            "@percentageOfSecondRank": "7.542974762634391E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sacramento_Kings",
+            "@support": "3914",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:BasketballTeam,DBpedia:Agent",
+            "@surfaceForm": "Sacramento",
+            "@offset": "52",
+            "@similarityScore": "0.5540681671671375",
+            "@percentageOfSecondRank": "0.7046440131292362"
+        }
+    ]
+}

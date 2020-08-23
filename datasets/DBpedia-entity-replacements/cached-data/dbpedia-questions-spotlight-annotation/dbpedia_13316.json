@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the HMDB ID of glycogen?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Human_Metabolome_Database",
+            "@support": "44",
+            "@types": "Wikidata:Q386724,DUL:InformationObject,Schema:CreativeWork,DBpedia:Work,DBpedia:Database,DBpedia:BiologicalDatabase",
+            "@surfaceForm": "HMDB",
+            "@offset": "13",
+            "@similarityScore": "0.9999999999999858",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Glycogen",
+            "@support": "1182",
+            "@types": "",
+            "@surfaceForm": "glycogen",
+            "@offset": "24",
+            "@similarityScore": "0.9999997803589294",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

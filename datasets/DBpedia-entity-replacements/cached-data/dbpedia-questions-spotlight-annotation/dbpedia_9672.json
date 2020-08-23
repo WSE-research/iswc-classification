@@ -1,0 +1,28 @@
+{
+    "@text": "What is the Italian municipality for Cardiff's sister administration?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Italy",
+            "@support": "150965",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Italian",
+            "@offset": "12",
+            "@similarityScore": "0.8559374741738003",
+            "@percentageOfSecondRank": "0.12276009480981932"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cardiff",
+            "@support": "17735",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Cardiff",
+            "@offset": "37",
+            "@similarityScore": "0.9936226486959705",
+            "@percentageOfSecondRank": "0.004598677651104196"
+        }
+    ]
+}

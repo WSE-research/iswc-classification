@@ -1,0 +1,37 @@
+{
+    "@text": "Is Pittsburgh Steelers the former team of Marv McFadden?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Pittsburgh",
+            "@support": "33094",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Pittsburgh",
+            "@offset": "3",
+            "@similarityScore": "0.7295047707701647",
+            "@percentageOfSecondRank": "0.36741671441266976"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Pittsburgh_Steelers",
+            "@support": "8634",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:AmericanFootballTeam,DBpedia:Agent",
+            "@surfaceForm": "Steelers",
+            "@offset": "14",
+            "@similarityScore": "0.999387231968632",
+            "@percentageOfSecondRank": "4.687142177093646E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Marv_McFadden",
+            "@support": "2",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q14128148,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:GridironFootballPlayer,DBpedia:Athlete,DBpedia:AmericanFootballPlayer,DBpedia:Agent",
+            "@surfaceForm": "Marv McFadden",
+            "@offset": "42",
+            "@similarityScore": "0.9999991221510686",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

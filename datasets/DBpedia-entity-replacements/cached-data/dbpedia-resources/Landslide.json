@@ -1,0 +1,610 @@
+{
+    "http://dbpedia.org/resource/Rock_avalanche": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rockslide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Landslide": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Landslide": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Disease"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Aardverschuiving",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u041e\u043f\u043e\u043b\u0437\u0435\u043d\u044c",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Deslizamento de terra",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Landslide",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u5730\u3059\u3079\u308a",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Osuwisko",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Glissement de terrain",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0646\u0647\u064a\u0627\u0644",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Erdrutsch",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Corrimiento de tierra",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u5c71\u5d29",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Frana",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0627\u0644\u0627\u0646\u0647\u064a\u0627\u0644 (\u0628\u0627\u0644\u0625\u0646\u0643\u0644\u064a\u0632\u064a\u0629: landslide \u0623\u0648 landslip) \u0638\u0627\u0647\u0631\u0629 \u062c\u064a\u0648\u0644\u0648\u062c\u064a\u0629 \u062a\u0634\u0645\u0644 \u0645\u062c\u0645\u0648\u0639\u0629 \u0648\u0627\u0633\u0639\u0629 \u0645\u0646 \u062d\u0631\u0643\u0627\u062a \u0627\u0644\u0623\u0631\u0636\u064a\u0629\u060c \u0645\u062b\u0644 \u0627\u0644\u062a\u0633\u0627\u0642\u0637 \u0627\u0644\u0635\u062e\u0631\u064a\u060c \u0648\u0627\u0644\u0636\u0639\u0641 \u0627\u0644\u0639\u0645\u064a\u0642 \u0644\u0644\u0645\u0646\u062d\u062f\u0631\u0627\u062a \u0648\u062a\u062f\u0641\u0642\u0627\u062a \u0627\u0644\u062d\u0637\u0627\u0645 \u0627\u0644\u0636\u062d\u0644\u060c \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u062d\u062f\u062b \u0641\u064a \u0627\u0644\u0628\u064a\u0626\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u0648\u0627\u0644\u0633\u0627\u062d\u0644\u064a\u0629 \u0648\u0627\u0644\u0628\u0631\u064a\u0629. \u0639\u0644\u0649 \u0627\u0644\u0631\u063a\u0645 \u0645\u0646 \u0623\u0646 \u0639\u0645\u0644 \u0627\u0644\u062c\u0627\u0630\u0628\u064a\u0629 \u0647\u064a \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u062f\u0627\u0641\u0639\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 \u0644\u062d\u062f\u0648\u062b \u0627\u0644\u0627\u0646\u0647\u064a\u0627\u0644\u060c \u062b\u0645\u062a \u0639\u0648\u0627\u0645\u0644 \u0645\u0633\u0627\u0647\u0645\u0629 \u0623\u062e\u0631\u0649 \u062a\u0624\u062b\u0631 \u0639\u0644\u0649 \u0627\u0633\u062a\u0642\u0631\u0627\u0631\u064a\u0629 \u0627\u0644\u0645\u064a\u0644 \u0627\u0644\u0623\u0635\u0644\u064a\u0629. \u0639\u0627\u062f\u0629\u060c \u062a\u0628\u0646\u064a \u0639\u0648\u0627\u0645\u0644 \u0623\u0648\u0644\u064a\u0629 \u0638\u0631\u0648\u0641\u0627\u064b \u062a\u062d\u062a \u0633\u0637\u062d\u064a\u0629 \u0645\u062d\u062f\u062f\u0629 \u062a\u062c\u0639\u0644 \u0627\u0644\u0645\u0646\u0637\u0642\u0629 / \u0627\u0644\u0645\u0646\u062d\u062f\u0631 \u0639\u0631\u0636\u0629 \u0644\u0644\u0636\u0639\u0641\u060c \u0641\u064a \u062d\u064a\u0646 \u0623\u0646 \u0627\u0644\u0627\u0646\u0647\u064a\u0627\u0644 \u0627\u0644\u0641\u0639\u0644\u064a \u063a\u0627\u0644\u0628\u0627\u064b \u0645\u0627 \u064a\u062a\u0637\u0644\u0628 \u0645\u062d\u0641\u0632\u0627\u064b \u0642\u0628\u0644 \u0623\u0646 \u064a\u0646\u0637\u0644\u0642.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Osuwisko \u2013 nag\u0142e przemieszczenie si\u0119 mas ziemnych, powierzchniowej zwietrzeliny i mas skalnych pod\u0142o\u017ca spowodowane si\u0142ami przyrody lub dzia\u0142alno\u015bci\u0105 cz\u0142owieka (podkopanie stoku lub jego znaczne obci\u0105\u017cenie). Jest to rodzaj ruch\u00f3w masowych, polegaj\u0105cy na przesuwaniu si\u0119 materia\u0142u skalnego lub zwietrzelinowego wzd\u0142u\u017c powierzchni po\u015blizgu (na kt\u00f3rej nast\u0105pi\u0142o \u015bci\u0119cie), po\u0142\u0105czone z obrotem. Ruch taki zachodzi pod wp\u0142ywem si\u0142y ci\u0119\u017cko\u015bci. Osuwiska s\u0105 szczeg\u00f3lnie cz\u0119ste w obszarach o sprzyjaj\u0105cej im budowie geologicznej, gdzie warstwy ska\u0142 przepuszczalnych i nieprzepuszczalnych wyst\u0119puj\u0105 naprzemiennie. Miejsca wyst\u0119powania osuwisk to naturalne stoki i zbocza dolin i zbiornik\u00f3w wodnych, obszary \u017ar\u00f3d\u0142owe rzek (gdzie erozja wsteczna zwi\u0119ksza spadek terenu), skarpy wykop\u00f3w i nasyp\u00f3w oraz wyrobisk.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Con il termine frana si indicano tutti i fenomeni di movimento o caduta di materiale roccioso o sciolto dovuti alla rottura dell'equilibrio statico preesistente ovvero all'effetto della forza di gravit\u00e0 che, agendo su di esso, supera le forze opposte di coesione del terreno.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Een aardverschuiving is een gebeurtenis waarbij vele duizenden tonnen aan grond plotseling in beweging komen en (meestal) langs een helling vallen of naar beneden glijden. Een aardverschuiving is niet hetzelfde als een aardbeving, maar kan hierdoor wel veroorzaakt worden. Als bij de aardverschuiving met name steen in beweging komt, wordt ook wel gesproken van een rotslawine (of steen- of puinlawine). Een vulkaanuitbarsting kan ook een aardverschuiving veroorzaken. Hierbij kan een deel van de vulkaanhelling instorten en naar beneden schuiven.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Erdrutsch ist das Abgleiten gr\u00f6\u00dferer Erd- und Gesteinsmassen, meistens ausgel\u00f6st durch starke Niederschl\u00e4ge (langandauernder Regen oder Starkregen) und das dadurch bedingte Eindringen von Wasser zwischen vorher gebundene Bodenschichten. Durch die Schwerkraft und die Verminderung der Haftreibung zwischen den Bodenschichten rutscht der Hang (bei ausreichend gro\u00dfer Hangneigung) ab. Ein gro\u00dfer Erdrutsch wird auch Bergrutsch genannt; wenn kleine Fl\u00e4chen betroffen sind, auch Hangrutsch oder Hangrutschung. Ein Erdrutsch unterscheidet sich vom Bergsturz durch die geringere Geschwindigkeit.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u5c71\u5d29\u53c8\u7a31\u5c71\u4f53\u6ed1\u5761\u3001\u5c71\u6ce5\u50be\u7009\u3001\u571f\u6e9c\uff0c\u662f\u6307\u5728\u91cd\u529b\u7684\u5f71\u97ff\u4e0b\u584a\u9ad4\u6cbf\u7740\u4e00\u6bb5\u5c71\u5761\u4e0b\u6ed1\u7684\u73fe\u8c61\uff0c\u53c8\u7a31\u4f5c\u574d\u65b9\u3002\u82e5\u662f\u571f\u9ad4\u574d\u65b9\u6642\uff0c\u6df7\u548c\u96e8\u6c34\u6216\u6cb3\u6c34\u5247\u6f14\u8b8a\u6210\u571f\u77f3\u6d41\u3002\u5730\u6ed1\u53c8\u7a31\u8d70\u5c71\uff0c\u662f\u878d\u5408\u5ca9\u5c51\u548c\u571f\u58e4\u7684\u5ca9\u9ad4\u6cbf\u5c64\u9762\u6ed1\u52d5\u6216\u79fb\u52d5\uff0c\u8207\u5c71\u5d29\u4e0d\u540c\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Un corrimiento de tierra, deslave o derrumbe, es un desastre relacionado con las avalanchas, pero en vez de nieve lleva tierra, rocas, \u00e1rboles, casas, etc. Los corrimientos de tierra pueden ser provocados por terremotos, erupciones volc\u00e1nicas o inestabilidad en las zonas circundantes, as\u00ed como explosiones causadas por el hombre para construcciones.Los corrimientos (deslaves) de barro o lodo son un tipo especial de corrimiento cuyo causante es el agua que penetra en el terreno por lluvias fuertes, modific\u00e1ndolo y provocando el deslizamiento. Esto ocurre con cierta regularidad en varios lugares como California durante los per\u00edodos de lluvias.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "A landslide, also known as a landslip, is a form of mass wasting that includes a wide range of ground movements, such as rockfalls, deep failure of slopes, and shallow debris flows. Landslides can occur in underwater, called a submarine landslide, coastal and onshore environments. Although the action of gravity is the primary driving force for a landslide to occur, there are other contributing factors affecting the original slope stability. Typically, pre-conditional factors build up specific sub-surface conditions that make the area/slope prone to failure, whereas the actual landslide often requires a trigger before being released. Landslides should not be confused with mud flows, a form of mass wasting involving very to extremely rapid flow of debris that has become partially or fully li",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Un glissement de terrain est un ph\u00e9nom\u00e8ne d'origine sismique, g\u00e9ologique et g\u00e9ophysique o\u00f9 une masse de terre descend sur une pente, autrement dit un plan de glissement plus ou moins continu, plus ou moins plan ou incurv\u00e9. Apr\u00e8s la mise en mouvement la masse conserve globalement sa consistance et sa physionomie. Elle est donc toujours reconnaissable ; ceci diff\u00e9rencie le glissement de terrain de la coul\u00e9e de boue ou de sable (qui n'ont pas de formes propres). Dans certains cas, des millions, voire dizaines de millions de m3 peuvent \u00eatre concern\u00e9s, et brutalement d\u00e9truire des villages entiers (comme au N\u00e9pal en 2015 o\u00f9 un glissement de terrain a enseveli plusieurs villages dont celui de Langtang et environ 400 personnes. il a \u00e9t\u00e9 estim\u00e9 que l'\u00e9nergie lib\u00e9r\u00e9e est l'\u00e9quivalent de celle de la ",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Um deslizamento/escorregamento de terra ou desabamento \u00e9 um fen\u00f4meno de ordem geol\u00f3gica e climatol\u00f3gica que inclui um largo espectro de movimentos do solo, tais como quedas de rochas, fal\u00eancia de encostas em profundidade e fluxos superficiais de detritos. Embora a a\u00e7\u00e3o da gravidade sobre encostas demasiado inclinadas seja a principal causa dos deslizamentos de terra, existem outros factores em a\u00e7\u00e3o:",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u5730\u3059\u3079\u308a\uff08\u3058\u3059\u3079\u308a\u3001\u82f1\u8a9e\uff1alandslide\uff09\u3068\u306f\u3001\u571f\u7802\u79fb\u52d5\u306e\u4e00\u5f62\u614b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u041e\u0301\u043f\u043e\u043b\u0437\u0435\u043d\u044c \u2014 \u043e\u043f\u0430\u0441\u043d\u043e\u0435 \u0433\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u044f\u0432\u043b\u0435\u043d\u0438\u0435, \u0441\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u043c\u0430\u0441\u0441 \u0433\u043e\u0440\u043d\u044b\u0445 \u043f\u043e\u0440\u043e\u0434 \u043f\u043e \u0441\u043a\u043b\u043e\u043d\u0443 \u043f\u043e\u0434 \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0435\u0441\u0430 \u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043d\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0432\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0435 \u043f\u043e\u0434\u043c\u044b\u0432\u0430 \u0441\u043a\u043b\u043e\u043d\u0430, \u043f\u0435\u0440\u0435\u0443\u0432\u043b\u0430\u0436\u043d\u0435\u043d\u0438\u044f, \u0441\u0435\u0439\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0442\u043e\u043b\u0447\u043a\u043e\u0432 \u0438 \u0438\u043d\u044b\u0445 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0432. \u041e\u043f\u043e\u043b\u0437\u043d\u0438 \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0442 \u043d\u0430 \u0441\u043a\u043b\u043e\u043d\u0430\u0445 \u0434\u043e\u043b\u0438\u043d \u0438\u043b\u0438 \u0440\u0435\u0447\u043d\u044b\u0445 \u0431\u0435\u0440\u0435\u0433\u043e\u0432, \u0432 \u0433\u043e\u0440\u0430\u0445, \u043d\u0430 \u0431\u0435\u0440\u0435\u0433\u0430\u0445 \u043c\u043e\u0440\u0435\u0439, \u0441\u0430\u043c\u044b\u0435 \u0433\u0440\u0430\u043d\u0434\u0438\u043e\u0437\u043d\u044b\u0435 \u043d\u0430 \u0434\u043d\u0435 \u043c\u043e\u0440\u0435\u0439. \u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0447\u0430\u0441\u0442\u043e \u043e\u043f\u043e\u043b\u0437\u043d\u0438 \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0442 \u043d\u0430 \u0441\u043a\u043b\u043e\u043d\u0430\u0445, \u0441\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0445 \u0447\u0435\u0440\u0435\u0434\u0443\u044e\u0449\u0438\u043c\u0438\u0441\u044f \u0432\u043e\u0434\u043e\u0443\u043f\u043e\u0440\u043d\u044b\u043c\u0438 \u0438 \u0432\u043e\u0434\u043e\u043d\u043e\u0441\u043d\u044b\u043c\u0438 \u043f\u043e\u0440\u043e\u0434\u0430\u043c\u0438. \u0421\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u043a\u0440\u0443\u043f\u043d\u044b\u0445 \u043c\u0430\u0441\u0441 \u0437\u0435\u043c\u043b\u0438 \u0438\u043b\u0438 \u043f\u043e\u0440\u043e\u0434\u044b \u043f\u043e \u0441\u043a\u043b\u043e\u043d\u0443 \u0438\u043b\u0438 \u043a\u043b\u0438\u0444\u0443 \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0435 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441\u043c\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u0435\u043c \u0434\u043e\u0436\u0434\u0435\u0432\u043e\u0439 \u0432\u043e\u0434\u043e\u0439 \u0433\u0440\u0443\u043d\u0442\u0430 \u0442\u0430\u043a, \u0447\u0442\u043e \u043c\u0430\u0441\u0441\u0430 \u0433\u0440\u0443\u043d\u0442\u0430 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0442\u044f\u0436\u0435\u043b\u043e\u0439 \u0438 \u0431\u043e\u043b\u0435\u0435 \u043f\u043e\u0434\u0432\u0438\u0436\u043d\u043e\u0439. \u041c\u043e\u0436\u0435\u0442 \u0432\u044b\u0437\u044b\u0432\u0430\u0442\u044c\u0441\u044f \u0442\u0430\u043a\u0436\u0435 \u0437\u0435\u043c\u043b\u0435\u0442\u0440\u044f\u0441\u0435\u043d\u0438\u044f\u043c\u0438 \u0438\u043b\u0438 \u0440\u0430\u0437\u0440\u0443\u0448\u0430\u044e\u0449\u0435\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c\u044e \u043c\u043e\u0440\u044f.\u0421\u0438\u043b\u044b \u0442\u0440\u0435\u043d\u0438\u044f, \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u044e\u0449\u0438\u0435 \u0441\u0446\u0435\u043f\u043b\u0435\u043d\u0438\u0435 \u0433\u0440\u0443\u043d\u0442\u043e\u0432 \u0438\u043b\u0438 \u0433\u043e\u0440\u043d\u044b\u0445 \u043f\u043e\u0440\u043e\u0434 \u043d\u0430 \u0441\u043a\u043b\u043e\u043d\u0430\u0445, \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043c\u0435\u043d\u044c\u0448\u0435 \u0441\u0438\u043b",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Slump_(geology)"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Slope_stability_analysis"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Tsunami"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Tanah_longsor"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q167903"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Svahov\u00fd_pohyb"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4152709-4"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039a\u03b1\u03c4\u03bf\u03bb\u03af\u03c3\u03b8\u03b7\u03c3\u03b7"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u5730\u3059\u3079\u308a"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q167903"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Glissement_de_terrain"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Deslizamento_de_terra"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Luizi"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Aardverschuiving"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Osuwisko"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.098pd"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Frana"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Erdrutsch"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc0b0\uc0ac\ud0dc"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Corrimiento_de_tierra"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Environmental_soil_science"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Landslides"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Mameyes.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Landslide"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Landslide?oldid=742853827"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://landslides.usgs.gov/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bgs.ac.uk/landslides/NLD.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bgs.ac.uk/landslides/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u5c71\u5d29\u53c8\u7a31\u5c71\u4f53\u6ed1\u5761\u3001\u5c71\u6ce5\u50be\u7009\u3001\u571f\u6e9c\uff0c\u662f\u6307\u5728\u91cd\u529b\u7684\u5f71\u97ff\u4e0b\u584a\u9ad4\u6cbf\u7740\u4e00\u6bb5\u5c71\u5761\u4e0b\u6ed1\u7684\u73fe\u8c61\uff0c\u53c8\u7a31\u4f5c\u574d\u65b9\u3002\u82e5\u662f\u571f\u9ad4\u574d\u65b9\u6642\uff0c\u6df7\u548c\u96e8\u6c34\u6216\u6cb3\u6c34\u5247\u6f14\u8b8a\u6210\u571f\u77f3\u6d41\u3002\u5730\u6ed1\u53c8\u7a31\u8d70\u5c71\uff0c\u662f\u878d\u5408\u5ca9\u5c51\u548c\u571f\u58e4\u7684\u5ca9\u9ad4\u6cbf\u5c64\u9762\u6ed1\u52d5\u6216\u79fb\u52d5\uff0c\u8207\u5c71\u5d29\u4e0d\u540c\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Erdrutsch ist das Abgleiten gr\u00f6\u00dferer Erd- und Gesteinsmassen, meistens ausgel\u00f6st durch starke Niederschl\u00e4ge (langandauernder Regen oder Starkregen) und das dadurch bedingte Eindringen von Wasser zwischen vorher gebundene Bodenschichten. Durch die Schwerkraft und die Verminderung der Haftreibung zwischen den Bodenschichten rutscht der Hang (bei ausreichend gro\u00dfer Hangneigung) ab. Ein gro\u00dfer Erdrutsch wird auch Bergrutsch genannt; wenn kleine Fl\u00e4chen betroffen sind, auch Hangrutsch oder Hangrutschung. Ein Erdrutsch unterscheidet sich vom Bergsturz durch die geringere Geschwindigkeit.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Un glissement de terrain est un ph\u00e9nom\u00e8ne d'origine sismique, g\u00e9ologique et g\u00e9ophysique o\u00f9 une masse de terre descend sur une pente, autrement dit un plan de glissement plus ou moins continu, plus ou moins plan ou incurv\u00e9. Apr\u00e8s la mise en mouvement la masse conserve globalement sa consistance et sa physionomie. Elle est donc toujours reconnaissable ; ceci diff\u00e9rencie le glissement de terrain de la coul\u00e9e de boue ou de sable (qui n'ont pas de formes propres). Dans certains cas, des millions, voire dizaines de millions de m3 peuvent \u00eatre concern\u00e9s, et brutalement d\u00e9truire des villages entiers (comme au N\u00e9pal en 2015 o\u00f9 un glissement de terrain a enseveli plusieurs villages dont celui de Langtang et environ 400 personnes. il a \u00e9t\u00e9 estim\u00e9 que l'\u00e9nergie lib\u00e9r\u00e9e est l'\u00e9quivalent de celle de la bombe atomique qui a explos\u00e9 au dessus d'Hiroshima. Les glissements de terrain sont l'un des types de mouvement gravitaire (ou mouvement de masse de g\u00e9omat\u00e9riau), pourtant, par analogie avec certains auteurs anglophones (landslide en anglais), on utilise parfois improprement le terme \u00ab glissement de terrain \u00bb pour d\u00e9signer des ph\u00e9nom\u00e8nes diff\u00e9rents (solifluxion par exemple). Les glissements de terrain sont souvent des formations marneuses et argileuses, qui se caract\u00e9risent par des loupes superficielles de glissement (appel\u00e9es aussi loupes d'arrachement (et parfois de solifluxion), sortes de demi-sph\u00e8res biconvexes avec des structures d'arrachement et de rupture en t\u00eate (partie haute de la loupe d\u00e9gageant parfois une couronne et une niche d\u2019arrachement comme dans les falaises des Vaches Noires) et de grosses d\u00e9formations de la surface en pied et en front de glissement (partie basse de la loupe).",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Um deslizamento/escorregamento de terra ou desabamento \u00e9 um fen\u00f4meno de ordem geol\u00f3gica e climatol\u00f3gica que inclui um largo espectro de movimentos do solo, tais como quedas de rochas, fal\u00eancia de encostas em profundidade e fluxos superficiais de detritos. Embora a a\u00e7\u00e3o da gravidade sobre encostas demasiado inclinadas seja a principal causa dos deslizamentos de terra, existem outros factores em a\u00e7\u00e3o: \n*  A eros\u00e3o pelos rios, glaciares ou ondas oce\u00e2nicas cria encostas demasiado inclinadas. \n*  As encostas de rocha e solo s\u00e3o enfraquecidas por via da satura\u00e7\u00e3o com \u00e1gua proveniente do degelo ou de grandes chuvas. \n*  Sismos criam tens\u00f5es que levam \u00e0 fal\u00eancia de encostas fr\u00e1geis. \n*  Erup\u00e7\u00f5es vulc\u00e2nicas produzem dep\u00f3sitos de cinzas soltas, chuvas fortes e fluxos de detritos. \n*  Maquinaria, o tr\u00e1fego, explos\u00f5es e mesmo trov\u00f5es causam vibra\u00e7\u00f5es que podem accionar a fal\u00eancia de encostas fr\u00e1geis. \n*  O excesso de peso por acumula\u00e7\u00e3o de chuva ou neve, deposi\u00e7\u00e3o de rochas ou min\u00e9rios, pilhas de res\u00edduos ou criado por estruturas feitas pelo homem podem tamb\u00e9m acumular tens\u00f5es sobre encostas fr\u00e1geis at\u00e9 \u00e0 sua fal\u00eancia. \n*  Aluimento - Em geologia, chama-se aluimento a um tipo de deslizamento de terras sobre outro local de menor altitude, que pode ser provocado pelo avan\u00e7o dos glaciares, por chuva intensa ou por um terramoto. Este fen\u00f3meno pode dar-se tanto em terra como no fundo dos oceanos.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u041e\u0301\u043f\u043e\u043b\u0437\u0435\u043d\u044c \u2014 \u043e\u043f\u0430\u0441\u043d\u043e\u0435 \u0433\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u044f\u0432\u043b\u0435\u043d\u0438\u0435, \u0441\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u043c\u0430\u0441\u0441 \u0433\u043e\u0440\u043d\u044b\u0445 \u043f\u043e\u0440\u043e\u0434 \u043f\u043e \u0441\u043a\u043b\u043e\u043d\u0443 \u043f\u043e\u0434 \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0435\u0441\u0430 \u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043d\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0432\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0435 \u043f\u043e\u0434\u043c\u044b\u0432\u0430 \u0441\u043a\u043b\u043e\u043d\u0430, \u043f\u0435\u0440\u0435\u0443\u0432\u043b\u0430\u0436\u043d\u0435\u043d\u0438\u044f, \u0441\u0435\u0439\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0442\u043e\u043b\u0447\u043a\u043e\u0432 \u0438 \u0438\u043d\u044b\u0445 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0432. \u041e\u043f\u043e\u043b\u0437\u043d\u0438 \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0442 \u043d\u0430 \u0441\u043a\u043b\u043e\u043d\u0430\u0445 \u0434\u043e\u043b\u0438\u043d \u0438\u043b\u0438 \u0440\u0435\u0447\u043d\u044b\u0445 \u0431\u0435\u0440\u0435\u0433\u043e\u0432, \u0432 \u0433\u043e\u0440\u0430\u0445, \u043d\u0430 \u0431\u0435\u0440\u0435\u0433\u0430\u0445 \u043c\u043e\u0440\u0435\u0439, \u0441\u0430\u043c\u044b\u0435 \u0433\u0440\u0430\u043d\u0434\u0438\u043e\u0437\u043d\u044b\u0435 \u043d\u0430 \u0434\u043d\u0435 \u043c\u043e\u0440\u0435\u0439. \u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0447\u0430\u0441\u0442\u043e \u043e\u043f\u043e\u043b\u0437\u043d\u0438 \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0442 \u043d\u0430 \u0441\u043a\u043b\u043e\u043d\u0430\u0445, \u0441\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0445 \u0447\u0435\u0440\u0435\u0434\u0443\u044e\u0449\u0438\u043c\u0438\u0441\u044f \u0432\u043e\u0434\u043e\u0443\u043f\u043e\u0440\u043d\u044b\u043c\u0438 \u0438 \u0432\u043e\u0434\u043e\u043d\u043e\u0441\u043d\u044b\u043c\u0438 \u043f\u043e\u0440\u043e\u0434\u0430\u043c\u0438. \u0421\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u043a\u0440\u0443\u043f\u043d\u044b\u0445 \u043c\u0430\u0441\u0441 \u0437\u0435\u043c\u043b\u0438 \u0438\u043b\u0438 \u043f\u043e\u0440\u043e\u0434\u044b \u043f\u043e \u0441\u043a\u043b\u043e\u043d\u0443 \u0438\u043b\u0438 \u043a\u043b\u0438\u0444\u0443 \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0435 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441\u043c\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u0435\u043c \u0434\u043e\u0436\u0434\u0435\u0432\u043e\u0439 \u0432\u043e\u0434\u043e\u0439 \u0433\u0440\u0443\u043d\u0442\u0430 \u0442\u0430\u043a, \u0447\u0442\u043e \u043c\u0430\u0441\u0441\u0430 \u0433\u0440\u0443\u043d\u0442\u0430 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0442\u044f\u0436\u0435\u043b\u043e\u0439 \u0438 \u0431\u043e\u043b\u0435\u0435 \u043f\u043e\u0434\u0432\u0438\u0436\u043d\u043e\u0439. \u041c\u043e\u0436\u0435\u0442 \u0432\u044b\u0437\u044b\u0432\u0430\u0442\u044c\u0441\u044f \u0442\u0430\u043a\u0436\u0435 \u0437\u0435\u043c\u043b\u0435\u0442\u0440\u044f\u0441\u0435\u043d\u0438\u044f\u043c\u0438 \u0438\u043b\u0438 \u0440\u0430\u0437\u0440\u0443\u0448\u0430\u044e\u0449\u0435\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c\u044e \u043c\u043e\u0440\u044f.\u0421\u0438\u043b\u044b \u0442\u0440\u0435\u043d\u0438\u044f, \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u044e\u0449\u0438\u0435 \u0441\u0446\u0435\u043f\u043b\u0435\u043d\u0438\u0435 \u0433\u0440\u0443\u043d\u0442\u043e\u0432 \u0438\u043b\u0438 \u0433\u043e\u0440\u043d\u044b\u0445 \u043f\u043e\u0440\u043e\u0434 \u043d\u0430 \u0441\u043a\u043b\u043e\u043d\u0430\u0445, \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043c\u0435\u043d\u044c\u0448\u0435 \u0441\u0438\u043b\u044b \u0442\u044f\u0436\u0435\u0441\u0442\u0438, \u0438 \u0432\u0441\u044f \u043c\u0430\u0441\u0441\u0430 \u0433\u043e\u0440\u043d\u043e\u0439 \u043f\u043e\u0440\u043e\u0434\u044b \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442 \u0432 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Osuwisko \u2013 nag\u0142e przemieszczenie si\u0119 mas ziemnych, powierzchniowej zwietrzeliny i mas skalnych pod\u0142o\u017ca spowodowane si\u0142ami przyrody lub dzia\u0142alno\u015bci\u0105 cz\u0142owieka (podkopanie stoku lub jego znaczne obci\u0105\u017cenie). Jest to rodzaj ruch\u00f3w masowych, polegaj\u0105cy na przesuwaniu si\u0119 materia\u0142u skalnego lub zwietrzelinowego wzd\u0142u\u017c powierzchni po\u015blizgu (na kt\u00f3rej nast\u0105pi\u0142o \u015bci\u0119cie), po\u0142\u0105czone z obrotem. Ruch taki zachodzi pod wp\u0142ywem si\u0142y ci\u0119\u017cko\u015bci. Osuwiska s\u0105 szczeg\u00f3lnie cz\u0119ste w obszarach o sprzyjaj\u0105cej im budowie geologicznej, gdzie warstwy ska\u0142 przepuszczalnych i nieprzepuszczalnych wyst\u0119puj\u0105 naprzemiennie. Miejsca wyst\u0119powania osuwisk to naturalne stoki i zbocza dolin i zbiornik\u00f3w wodnych, obszary \u017ar\u00f3d\u0142owe rzek (gdzie erozja wsteczna zwi\u0119ksza spadek terenu), skarpy wykop\u00f3w i nasyp\u00f3w oraz wyrobisk. Olbrzymie rozmiary maj\u0105 osuwiska podmorskie, zar\u00f3wno wsp\u00f3\u0142czesne jak i znane z osad\u00f3w r\u00f3\u017cnego wieku, zw\u0142aszcza powstaj\u0105ce na sk\u0142onie kontynentalnym.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Con il termine frana si indicano tutti i fenomeni di movimento o caduta di materiale roccioso o sciolto dovuti alla rottura dell'equilibrio statico preesistente ovvero all'effetto della forza di gravit\u00e0 che, agendo su di esso, supera le forze opposte di coesione del terreno.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u5730\u3059\u3079\u308a\uff08\u3058\u3059\u3079\u308a\u3001\u82f1\u8a9e\uff1alandslide\uff09\u3068\u306f\u3001\u571f\u7802\u79fb\u52d5\u306e\u4e00\u5f62\u614b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0627\u0644\u0627\u0646\u0647\u064a\u0627\u0644 (\u0628\u0627\u0644\u0625\u0646\u0643\u0644\u064a\u0632\u064a\u0629: landslide \u0623\u0648 landslip) \u0638\u0627\u0647\u0631\u0629 \u062c\u064a\u0648\u0644\u0648\u062c\u064a\u0629 \u062a\u0634\u0645\u0644 \u0645\u062c\u0645\u0648\u0639\u0629 \u0648\u0627\u0633\u0639\u0629 \u0645\u0646 \u062d\u0631\u0643\u0627\u062a \u0627\u0644\u0623\u0631\u0636\u064a\u0629\u060c \u0645\u062b\u0644 \u0627\u0644\u062a\u0633\u0627\u0642\u0637 \u0627\u0644\u0635\u062e\u0631\u064a\u060c \u0648\u0627\u0644\u0636\u0639\u0641 \u0627\u0644\u0639\u0645\u064a\u0642 \u0644\u0644\u0645\u0646\u062d\u062f\u0631\u0627\u062a \u0648\u062a\u062f\u0641\u0642\u0627\u062a \u0627\u0644\u062d\u0637\u0627\u0645 \u0627\u0644\u0636\u062d\u0644\u060c \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u062d\u062f\u062b \u0641\u064a \u0627\u0644\u0628\u064a\u0626\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u0648\u0627\u0644\u0633\u0627\u062d\u0644\u064a\u0629 \u0648\u0627\u0644\u0628\u0631\u064a\u0629. \u0639\u0644\u0649 \u0627\u0644\u0631\u063a\u0645 \u0645\u0646 \u0623\u0646 \u0639\u0645\u0644 \u0627\u0644\u062c\u0627\u0630\u0628\u064a\u0629 \u0647\u064a \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u062f\u0627\u0641\u0639\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 \u0644\u062d\u062f\u0648\u062b \u0627\u0644\u0627\u0646\u0647\u064a\u0627\u0644\u060c \u062b\u0645\u062a \u0639\u0648\u0627\u0645\u0644 \u0645\u0633\u0627\u0647\u0645\u0629 \u0623\u062e\u0631\u0649 \u062a\u0624\u062b\u0631 \u0639\u0644\u0649 \u0627\u0633\u062a\u0642\u0631\u0627\u0631\u064a\u0629 \u0627\u0644\u0645\u064a\u0644 \u0627\u0644\u0623\u0635\u0644\u064a\u0629. \u0639\u0627\u062f\u0629\u060c \u062a\u0628\u0646\u064a \u0639\u0648\u0627\u0645\u0644 \u0623\u0648\u0644\u064a\u0629 \u0638\u0631\u0648\u0641\u0627\u064b \u062a\u062d\u062a \u0633\u0637\u062d\u064a\u0629 \u0645\u062d\u062f\u062f\u0629 \u062a\u062c\u0639\u0644 \u0627\u0644\u0645\u0646\u0637\u0642\u0629 / \u0627\u0644\u0645\u0646\u062d\u062f\u0631 \u0639\u0631\u0636\u0629 \u0644\u0644\u0636\u0639\u0641\u060c \u0641\u064a \u062d\u064a\u0646 \u0623\u0646 \u0627\u0644\u0627\u0646\u0647\u064a\u0627\u0644 \u0627\u0644\u0641\u0639\u0644\u064a \u063a\u0627\u0644\u0628\u0627\u064b \u0645\u0627 \u064a\u062a\u0637\u0644\u0628 \u0645\u062d\u0641\u0632\u0627\u064b \u0642\u0628\u0644 \u0623\u0646 \u064a\u0646\u0637\u0644\u0642. \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0639\u0644\u0648\u0645 \u0627\u0644\u0623\u0631\u0636\u0645\u0634\u0627\u0631\u064a\u0639 \u0634\u0642\u064a\u0642\u0629 \u0641\u064a \u0643\u0648\u0645\u0646\u0632 \u0635\u0648\u0631 \u0648\u0645\u0644\u0641\u0627\u062a \u0639\u0646: \u0627\u0646\u0647\u064a\u0627\u0644 25\u0628\u0643 \u0647\u0630\u0647 \u0628\u0630\u0631\u0629 \u0645\u0642\u0627\u0644\u0629 \u0628\u062d\u0627\u062c\u0629 \u0644\u0644\u062a\u0648\u0633\u064a\u0639. \u0634\u0627\u0631\u0643 \u0641\u064a \u062a\u062d\u0631\u064a\u0631\u0647\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Un corrimiento de tierra, deslave o derrumbe, es un desastre relacionado con las avalanchas, pero en vez de nieve lleva tierra, rocas, \u00e1rboles, casas, etc. Los corrimientos de tierra pueden ser provocados por terremotos, erupciones volc\u00e1nicas o inestabilidad en las zonas circundantes, as\u00ed como explosiones causadas por el hombre para construcciones.Los corrimientos (deslaves) de barro o lodo son un tipo especial de corrimiento cuyo causante es el agua que penetra en el terreno por lluvias fuertes, modific\u00e1ndolo y provocando el deslizamiento. Esto ocurre con cierta regularidad en varios lugares como California durante los per\u00edodos de lluvias.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Een aardverschuiving is een gebeurtenis waarbij vele duizenden tonnen aan grond plotseling in beweging komen en (meestal) langs een helling vallen of naar beneden glijden. Een aardverschuiving is niet hetzelfde als een aardbeving, maar kan hierdoor wel veroorzaakt worden. Als bij de aardverschuiving met name steen in beweging komt, wordt ook wel gesproken van een rotslawine (of steen- of puinlawine). Een vulkaanuitbarsting kan ook een aardverschuiving veroorzaken. Hierbij kan een deel van de vulkaanhelling instorten en naar beneden schuiven. Een derde mogelijke oorzaak is hevige regenval op een door erosie aangetaste heuvel of berghelling. Hierdoor wordt de grond dermate verzadigd met water dat hij zijn onderlinge samenhang verliest, en gaat schuiven. Als de grond met water voor een stroom van modder zorgt, spreekt men van een modderlawine. Aardverschuivingen kunnen zeer verwoestend zijn. Wanneer een dorp of stad bedolven wordt door een aardverschuiving, is het haast onvermijdelijk dat er doden vallen, tenzij men de gebeurtenis heeft zien aankomen en er tijdige evacuatie heeft plaatsgevonden. Meestal is dit echter niet het geval. Als door een grote aardverschuiving een deel van een berg in zee glijdt, of als er een onderzeese aardverschuiving plaatsvindt, kan ook een tsunami ontstaan. Deskundigen verwachten dat een dergelijk fenomeen zich vroeg of laat aan de westkant van het Canarische Eiland La Palma zal voordoen. De resulterende tsunami zou zelfs de Amerikaanse oostkust aan de overzijde van de Atlantische Oceaan kunnen bedreigen. Het is echter goed mogelijk dat deze gebeurtenis zich pas over honderden of zelfs duizenden jaren zal voordoen, en de verschuiving zou ook geleidelijk kunnen plaatsvinden, zonder dat een tsunami optreedt.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "A landslide, also known as a landslip, is a form of mass wasting that includes a wide range of ground movements, such as rockfalls, deep failure of slopes, and shallow debris flows. Landslides can occur in underwater, called a submarine landslide, coastal and onshore environments. Although the action of gravity is the primary driving force for a landslide to occur, there are other contributing factors affecting the original slope stability. Typically, pre-conditional factors build up specific sub-surface conditions that make the area/slope prone to failure, whereas the actual landslide often requires a trigger before being released. Landslides should not be confused with mud flows, a form of mass wasting involving very to extremely rapid flow of debris that has become partially or fully liquefied by the addition of significant amounts of water to the source material.",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Mameyes.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742853827,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 37208,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Phenomenon"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rock_slide": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Landslides": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Illinois_gubernatorial_election,_1994": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Landslide_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2000_Mumbai_landslide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2008_Bukit_Antarabangsa_landslide": {
+        "http://dbpedia.org/property/cause": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aldercrest-Banyon_landslide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/1997_Thredbo_landslide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hope_Slide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2011_Hulu_Langat_landslide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2003_Derrybrien_landslide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Swift_Creek_Landslide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ferguson_landslide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tuve_landslide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Slano_Blato_Landslide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/2006_Kampung_Pasir_landslide": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Debris_avalanche": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Land_slide": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Slide": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Seamount": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shallow_landslide": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Land_slip": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Landslip": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nambija_mine_disaster": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Flexural_toppling": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Slope_failure": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Land_slippage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Earth_slide": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Landslide"
+            }
+        ]
+    }
+}

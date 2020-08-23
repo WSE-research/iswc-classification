@@ -1,0 +1,46 @@
+{
+    "@text": "In how many countries does the Zurich Affoltern am Albis Zug line go?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/ETH_Zurich",
+            "@support": "1885",
+            "@types": "Wikidata:Q43229,Wikidata:Q3918,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:EducationalOrganization,Schema:CollegeOrUniversity,DBpedia:University,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "Zurich",
+            "@offset": "31",
+            "@similarityScore": "0.8085557791454634",
+            "@percentageOfSecondRank": "0.11537985198569538"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Affoltern_am_Albis",
+            "@support": "42",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Affoltern",
+            "@offset": "38",
+            "@similarityScore": "0.7487823288861649",
+            "@percentageOfSecondRank": "0.3355016022981296"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Albis",
+            "@support": "101",
+            "@types": "",
+            "@surfaceForm": "Albis",
+            "@offset": "51",
+            "@similarityScore": "0.9999999999930651",
+            "@percentageOfSecondRank": "6.931840399486792E-12"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Zug",
+            "@support": "544",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Zug",
+            "@offset": "57",
+            "@similarityScore": "0.8810230565252564",
+            "@percentageOfSecondRank": "0.13487224945522178"
+        }
+    ]
+}

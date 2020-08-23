@@ -1,0 +1,37 @@
+{
+    "@text": "Which city was founded by  George Washington and John Forbes (British Army officer)?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "6",
+            "@similarityScore": "0.8771437349301662",
+            "@percentageOfSecondRank": "0.08808130970491179"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/George_Washington",
+            "@support": "12333",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "George Washington",
+            "@offset": "27",
+            "@similarityScore": "0.9995507724687027",
+            "@percentageOfSecondRank": "4.328605307779862E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/John_Forbes_(British_Army_officer)",
+            "@support": "93",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:MilitaryPerson,DBpedia:Agent",
+            "@surfaceForm": "John Forbes (British Army officer)",
+            "@offset": "49",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

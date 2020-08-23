@@ -1,0 +1,37 @@
+{
+    "@text": "What is the treatment for cough, whose drug interaction is domperidone?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Cough",
+            "@support": "841",
+            "@types": "",
+            "@surfaceForm": "cough",
+            "@offset": "26",
+            "@similarityScore": "0.9997592439253865",
+            "@percentageOfSecondRank": "2.407949129079894E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Drug_interaction",
+            "@support": "197",
+            "@types": "",
+            "@surfaceForm": "drug interaction",
+            "@offset": "39",
+            "@similarityScore": "0.999999999981938",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Domperidone",
+            "@support": "67",
+            "@types": "Wikidata:Q8386,DUL:ChemicalObject,DBpedia:Drug,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "domperidone",
+            "@offset": "59",
+            "@similarityScore": "0.9999999997251763",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

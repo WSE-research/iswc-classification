@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the parent taxon for Python reticulatus?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "20",
+            "@similarityScore": "0.9996838471642834",
+            "@percentageOfSecondRank": "3.1570111623775184E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Reticulated_python",
+            "@support": "174",
+            "@types": "Wikidata:Q729,Wikidata:Q19088,DBpedia:Species,DBpedia:Reptile,DBpedia:Eukaryote,DBpedia:Animal",
+            "@surfaceForm": "Python reticulatus",
+            "@offset": "30",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

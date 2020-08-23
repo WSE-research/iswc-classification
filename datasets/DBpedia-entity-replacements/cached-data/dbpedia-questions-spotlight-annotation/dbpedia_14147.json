@@ -1,0 +1,37 @@
+{
+    "@text": "What is the college attended by Ron Chernow whose subsidiary entity is Department of Psychology, University of Cambridge?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ron_Chernow",
+            "@support": "125",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Ron Chernow",
+            "@offset": "32",
+            "@similarityScore": "0.9999999999999716",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Psychology",
+            "@support": "19998",
+            "@types": "",
+            "@surfaceForm": "Psychology",
+            "@offset": "85",
+            "@similarityScore": "0.9998470235912716",
+            "@percentageOfSecondRank": "1.1490452525196776E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/University_of_Cambridge",
+            "@support": "25356",
+            "@types": "Wikidata:Q43229,Wikidata:Q3918,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:EducationalOrganization,Schema:CollegeOrUniversity,DBpedia:University,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "Cambridge",
+            "@offset": "111",
+            "@similarityScore": "0.9174370046289375",
+            "@percentageOfSecondRank": "0.08976031901399843"
+        }
+    ]
+}

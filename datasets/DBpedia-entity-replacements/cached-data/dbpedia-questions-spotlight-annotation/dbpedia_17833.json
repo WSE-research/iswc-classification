@@ -1,0 +1,37 @@
+{
+    "@text": "Did Anna Paquin study at Cornell University and Windward School?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Anna_Paquin",
+            "@support": "336",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Anna Paquin",
+            "@offset": "4",
+            "@similarityScore": "0.999999999999929",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cornell_University",
+            "@support": "12600",
+            "@types": "Wikidata:Q43229,Wikidata:Q3918,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:EducationalOrganization,Schema:CollegeOrUniversity,DBpedia:University,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "Cornell University",
+            "@offset": "25",
+            "@similarityScore": "0.9999720344728641",
+            "@percentageOfSecondRank": "1.5283263325685044E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Windward_School",
+            "@support": "21",
+            "@types": "Wikidata:Q43229,Wikidata:Q3914,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:School,Schema:Organization,Schema:EducationalOrganization,DBpedia:School,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "Windward School",
+            "@offset": "48",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

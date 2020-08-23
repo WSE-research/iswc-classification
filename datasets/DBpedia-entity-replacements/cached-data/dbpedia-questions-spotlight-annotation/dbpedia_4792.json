@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the FIS ski jumper ID of Matti Nyk\u00e4nen?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/International_Ski_Federation",
+            "@support": "1686",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "FIS",
+            "@offset": "13",
+            "@similarityScore": "0.9999999991915018",
+            "@percentageOfSecondRank": "7.634347457396928E-10"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ski_jumping",
+            "@support": "2562",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "ski jumper",
+            "@offset": "17",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Matti_Nyk\u00e4nen",
+            "@support": "92",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q4270517,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:WinterSportPlayer,DBpedia:Skier,DBpedia:Person,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Matti Nyk\u00e4nen",
+            "@offset": "34",
+            "@similarityScore": "0.9999999635299168",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

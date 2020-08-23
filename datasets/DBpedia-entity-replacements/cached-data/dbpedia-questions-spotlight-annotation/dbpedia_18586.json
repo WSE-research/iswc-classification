@@ -1,0 +1,28 @@
+{
+    "@text": "Name the television program voiced by Isaac Hayes and aired on Comedy Central?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Isaac_Hayes",
+            "@support": "1155",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Isaac Hayes",
+            "@offset": "38",
+            "@similarityScore": "0.9999631442032901",
+            "@percentageOfSecondRank": "3.685715502774872E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Comedy_Central",
+            "@support": "4732",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q15265344,DUL:SocialPerson,DUL:Agent,Schema:TelevisionStation,Schema:Organization,DBpedia:TelevisionStation,DBpedia:Organisation,DBpedia:Broadcaster,DBpedia:Agent",
+            "@surfaceForm": "Comedy Central",
+            "@offset": "63",
+            "@similarityScore": "0.9998934455645722",
+            "@percentageOfSecondRank": "4.9687984870580835E-5"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "What basketball league's champion is Golden State Warriors",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Basketball",
+            "@support": "84173",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "basketball",
+            "@offset": "5",
+            "@similarityScore": "0.9976429056824125",
+            "@percentageOfSecondRank": "0.002357926647782679"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Golden_State_Warriors",
+            "@support": "4600",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:BasketballTeam,DBpedia:Agent",
+            "@surfaceForm": "Golden State Warriors",
+            "@offset": "37",
+            "@similarityScore": "0.9999999534278896",
+            "@percentageOfSecondRank": "1.717401919184909E-8"
+        }
+    ]
+}

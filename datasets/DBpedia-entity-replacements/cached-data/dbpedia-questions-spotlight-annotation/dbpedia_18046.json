@@ -1,0 +1,28 @@
+{
+    "@text": "Which series has an episode called The lost special and also a character named Sherlock Holmes ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/The_Lost_Special",
+            "@support": "15",
+            "@types": "Wikidata:Q386724,Schema:CreativeWork,DBpedia:WrittenWork,DBpedia:Work",
+            "@surfaceForm": "The lost special",
+            "@offset": "35",
+            "@similarityScore": "0.999999999974392",
+            "@percentageOfSecondRank": "2.5607682194011095E-11"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sherlock_Holmes",
+            "@support": "5600",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q95074,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:FictionalCharacter,DBpedia:Agent",
+            "@surfaceForm": "Sherlock Holmes",
+            "@offset": "79",
+            "@similarityScore": "0.999896969946555",
+            "@percentageOfSecondRank": "1.0304034051538404E-4"
+        }
+    ]
+}

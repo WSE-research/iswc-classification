@@ -1,0 +1,28 @@
+{
+    "@text": "Which draft team of bob Macmillan is also the prospect team of Mikhail Pashnin ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Bob_MacMillan",
+            "@support": "33",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "bob Macmillan",
+            "@offset": "20",
+            "@similarityScore": "0.9999999999976978",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mikhail_Pashnin",
+            "@support": "6",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q11774891,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:WinterSportPlayer,DBpedia:Person,DBpedia:IceHockeyPlayer,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Mikhail Pashnin",
+            "@offset": "63",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

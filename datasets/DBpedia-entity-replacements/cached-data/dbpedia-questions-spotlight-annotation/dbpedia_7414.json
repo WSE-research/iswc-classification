@@ -1,0 +1,28 @@
+{
+    "@text": "\"What is {method of murder} of {Istv\u00e1n Fekete}, which has {used for treatment} is {PLAU} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Istv\u00e1n_Fekete",
+            "@support": "25",
+            "@types": "",
+            "@surfaceForm": "Istv\u00e1n Fekete",
+            "@offset": "32",
+            "@similarityScore": "0.9999999418637361",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Urokinase",
+            "@support": "78",
+            "@types": "Wikidata:Q8386,DUL:ChemicalObject,DBpedia:Drug,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "PLAU",
+            "@offset": "83",
+            "@similarityScore": "0.9999995518342796",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

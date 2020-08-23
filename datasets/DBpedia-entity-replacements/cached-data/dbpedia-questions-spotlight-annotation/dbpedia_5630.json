@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the gene that encodes the Insulin, isoform CRA_a and that contains the word ins in it's name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Gene",
+            "@support": "42240",
+            "@types": "",
+            "@surfaceForm": "gene",
+            "@offset": "13",
+            "@similarityScore": "0.9999999995930295",
+            "@percentageOfSecondRank": "3.5176165576917154E-10"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Insulin",
+            "@support": "5681",
+            "@types": "",
+            "@surfaceForm": "Insulin",
+            "@offset": "35",
+            "@similarityScore": "0.9999999999996021",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Protein_isoform",
+            "@support": "1274",
+            "@types": "",
+            "@surfaceForm": "isoform",
+            "@offset": "44",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

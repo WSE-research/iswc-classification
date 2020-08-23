@@ -1,0 +1,37 @@
+{
+    "@text": "Is Sao Paulo the largest city of Brazil?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/S\u00e3o_Paulo",
+            "@support": "17709",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Sao Paulo",
+            "@offset": "3",
+            "@similarityScore": "0.9888884237351827",
+            "@percentageOfSecondRank": "0.010301989898360736"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "25",
+            "@similarityScore": "0.9591965656637994",
+            "@percentageOfSecondRank": "0.027470453102869843"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Brazil",
+            "@support": "96461",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Brazil",
+            "@offset": "33",
+            "@similarityScore": "0.9998848215039082",
+            "@percentageOfSecondRank": "1.0667621899295564E-4"
+        }
+    ]
+}

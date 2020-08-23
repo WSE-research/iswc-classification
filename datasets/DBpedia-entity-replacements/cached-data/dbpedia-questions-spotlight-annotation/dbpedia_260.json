@@ -1,0 +1,28 @@
+{
+    "@text": "tell me about thoracic disease that contains the word syndrome in their name",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Thorax",
+            "@support": "2313",
+            "@types": "Wikidata:Q4936952,DBpedia:AnatomicalStructure",
+            "@surfaceForm": "thoracic",
+            "@offset": "14",
+            "@similarityScore": "0.9666949116216798",
+            "@percentageOfSecondRank": "0.019633882350524885"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Syndrome",
+            "@support": "4175",
+            "@types": "",
+            "@surfaceForm": "syndrome",
+            "@offset": "54",
+            "@similarityScore": "0.9999967391860822",
+            "@percentageOfSecondRank": "2.349254763710937E-6"
+        }
+    ]
+}

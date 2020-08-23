@@ -1,0 +1,28 @@
+{
+    "@text": "Give me a count of everything under the archipelago, where Papeete is the biggest town.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Archipelago",
+            "@support": "3931",
+            "@types": "",
+            "@surfaceForm": "archipelago",
+            "@offset": "40",
+            "@similarityScore": "0.9985894438224753",
+            "@percentageOfSecondRank": "5.983474619232153E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Papeete",
+            "@support": "594",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Papeete",
+            "@offset": "59",
+            "@similarityScore": "0.9999106841245564",
+            "@percentageOfSecondRank": "8.922748023983716E-5"
+        }
+    ]
+}

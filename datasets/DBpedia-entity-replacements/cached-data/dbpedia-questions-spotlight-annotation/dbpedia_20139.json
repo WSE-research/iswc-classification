@@ -1,0 +1,28 @@
+{
+    "@text": "How many tenants are there in the Mercedes Benz Superdome?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mercedes-Benz",
+            "@support": "7256",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Mercedes Benz",
+            "@offset": "34",
+            "@similarityScore": "0.9999891036298507",
+            "@percentageOfSecondRank": "4.755062738182801E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mercedes-Benz_Superdome",
+            "@support": "1035",
+            "@types": "Schema:Place,DBpedia:Venue,DBpedia:Place,DBpedia:Location,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Superdome",
+            "@offset": "48",
+            "@similarityScore": "0.9999998021890573",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

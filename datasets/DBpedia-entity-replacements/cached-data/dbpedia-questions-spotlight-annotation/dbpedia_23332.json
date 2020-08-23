@@ -1,0 +1,28 @@
+{
+    "@text": "Show me all the breweries in Australia.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Brewery",
+            "@support": "5926",
+            "@types": "",
+            "@surfaceForm": "breweries",
+            "@offset": "16",
+            "@similarityScore": "0.9999793219523795",
+            "@percentageOfSecondRank": "9.465897564781271E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Australia",
+            "@support": "189357",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Australia",
+            "@offset": "29",
+            "@similarityScore": "0.9942815144289138",
+            "@percentageOfSecondRank": "0.004174830915884742"
+        }
+    ]
+}

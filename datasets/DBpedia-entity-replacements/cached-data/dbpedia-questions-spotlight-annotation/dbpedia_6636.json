@@ -1,0 +1,37 @@
+{
+    "@text": "When was Louis XVI of France divorced his spouse Marie Antoinette?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Louis_XVI_of_France",
+            "@support": "3269",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Louis XVI",
+            "@offset": "9",
+            "@similarityScore": "0.9999985068547438",
+            "@percentageOfSecondRank": "1.4862977968795867E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/France",
+            "@support": "256130",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "France",
+            "@offset": "22",
+            "@similarityScore": "0.975375532938998",
+            "@percentageOfSecondRank": "0.02496201655922507"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Marie_Antoinette",
+            "@support": "2060",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Marie Antoinette",
+            "@offset": "49",
+            "@similarityScore": "0.999999993913903",
+            "@percentageOfSecondRank": "5.307976857808699E-9"
+        }
+    ]
+}

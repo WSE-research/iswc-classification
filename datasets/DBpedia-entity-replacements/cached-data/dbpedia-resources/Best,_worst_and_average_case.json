@@ -1,0 +1,367 @@
+{
+    "http://en.wikipedia.org/wiki/Best,_worst_and_average_case": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Best,_worst_and_average_case": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Casos peor, mejor y promedio",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Melhor caso, pior caso e caso m\u00e9dio",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Best, worst and average case",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "En an\u00e1lisis de algoritmos, los t\u00e9rminos caso peor, caso mejor y caso promedio tienen los siguientes significados: \n*  Caso mejor: se refiere a la situaci\u00f3n inicial de los datos que genera una ejecuci\u00f3n del algoritmo con una menor complejidad computacional. \n*  Caso peor: se refiere a la situaci\u00f3n inicial de los datos que genera una ejecuci\u00f3n del algoritmo con una complejidad computacional mayor. \n*  Caso promedio: la situaci\u00f3n inicial de los datos no sigue ning\u00fan patr\u00f3n preestablecido que aporte ventajas o desventajas. Se puede considerar, por tanto, la situaci\u00f3n t\u00edpica de ejecuci\u00f3n del algoritmo.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Na ci\u00eancia da computa\u00e7\u00e3o, melhor caso, pior caso, e o caso m\u00e9dio de um determinado algoritmo, expressa a quantidade de recurso usado nesse algoritmo, no m\u00ednimo, no m\u00e1ximo e em m\u00e9dia, respectivamente. Normalmente, o recurso a ser considerado \u00e9 o tempo de execu\u00e7\u00e3o, isto \u00e9, complexidade do tempo, por\u00e9m poderia ser tamb\u00e9m a quantidade de mem\u00f3ria usada ou outros recursos.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "In computer science, best, worst, and average cases of a given algorithm express what the resource usage is at least, at most and on average, respectively. Usually the resource being considered is running time, i.e. time complexity, but it could also be memory or other resources. In real-time computing, the worst-case execution time is often of particular concern since it is important to know how much time might be needed in the worst case to guarantee that the algorithm will always finish on time.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Search_data_structure"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sorting_algorithm"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q186094"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q186094"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Melhor_caso,_pior_caso_e_caso_m\u00e9dio"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Casos_peor,_mejor_y_promedio"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.09gj0"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Analysis_of_algorithms"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Computational_complexity_theory"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Best,_worst_and_average_case"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Best,_worst_and_average_case?oldid=740425605"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.algorithmiccomplexity.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://bigocheatsheet.com/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Na ci\u00eancia da computa\u00e7\u00e3o, melhor caso, pior caso, e o caso m\u00e9dio de um determinado algoritmo, expressa a quantidade de recurso usado nesse algoritmo, no m\u00ednimo, no m\u00e1ximo e em m\u00e9dia, respectivamente. Normalmente, o recurso a ser considerado \u00e9 o tempo de execu\u00e7\u00e3o, isto \u00e9, complexidade do tempo, por\u00e9m poderia ser tamb\u00e9m a quantidade de mem\u00f3ria usada ou outros recursos. No tempo real da computa\u00e7\u00e3o, o pior caso em tempo de execu\u00e7\u00e3o \u00e9 muitas vezes motivo de especial preocupa\u00e7\u00e3o, pois \u00e9 importante saber quanto tempo pode ser necess\u00e1rio no pior caso para garantir que um algoritmo sempre termine no tempo. O desempenho m\u00e9dio e o desempenho do pior caso s\u00e3o os mais utilizados na anal\u00edse de algoritmo. O menos usado \u00e9 o desempenho do melhor caso. Por\u00e9m existe uso para ele: por exemplo, quando se conhece os melhores casos das tarefas individuais, eles podem ser usados para melhorar a precis\u00e3o da an\u00e1lise do pior caso. Cientistas da computa\u00e7\u00e3o usam t\u00e9cnicas de an\u00e1lise probabil\u00edstica, especialmente a do valor esperado, para determinar o tempos de execu\u00e7\u00e3o esperado. Esses termos s\u00e3o usados em outros contextos; por exemplo o pior e o melhor caso do resultado de um planejamento para a epidemia, o pior caso da temperatura \u00e0 qual um elemento de um circuito eletr\u00f4nico \u00e9 exposto, etc. Em lugares onde componentes com especificas toler\u00e2ncia s\u00e3o utilizados, os dispositivos devem ser feitos para funcionar corretamente em um pior caso da combina\u00e7\u00e3o de toler\u00e2ncias e das condi\u00e7\u00f5es externas.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "En an\u00e1lisis de algoritmos, los t\u00e9rminos caso peor, caso mejor y caso promedio tienen los siguientes significados: \n*  Caso mejor: se refiere a la situaci\u00f3n inicial de los datos que genera una ejecuci\u00f3n del algoritmo con una menor complejidad computacional. \n*  Caso peor: se refiere a la situaci\u00f3n inicial de los datos que genera una ejecuci\u00f3n del algoritmo con una complejidad computacional mayor. \n*  Caso promedio: la situaci\u00f3n inicial de los datos no sigue ning\u00fan patr\u00f3n preestablecido que aporte ventajas o desventajas. Se puede considerar, por tanto, la situaci\u00f3n t\u00edpica de ejecuci\u00f3n del algoritmo. En el caso de los algoritmos de ordenamiento o clasificaci\u00f3n, la complejidad computacional est\u00e1 determinada por el n\u00famero de comparaciones y de asignaciones entre elementos del conjunto que se realiza en una implementaci\u00f3n espec\u00edfica del algoritmo. Por ejemplo, en el algoritmo de Inserci\u00f3n directa el caso mejor se presenta cuando el conjunto de elementos a ordenar se encuentra ya ordenado. En ese caso, los valores representativos son los siguientes: donde y son el n\u00famero m\u00ednimo de comparaciones y el n\u00famero m\u00ednimo de movimientos entre elementos del conjunto de datos del algoritmo de Inserci\u00f3n directa.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "In computer science, best, worst, and average cases of a given algorithm express what the resource usage is at least, at most and on average, respectively. Usually the resource being considered is running time, i.e. time complexity, but it could also be memory or other resources. In real-time computing, the worst-case execution time is often of particular concern since it is important to know how much time might be needed in the worst case to guarantee that the algorithm will always finish on time. Average performance and worst-case performance are the most used in algorithm analysis. Less widely found is best-case performance, but it does have uses: for example, where the best cases of individual tasks are known, they can be used to improve the accuracy of an overall worst-case analysis. Computer scientists use probabilistic analysis techniques, especially expected value, to determine expected running times. The terms are used in other contexts; for example the worst- and best-case outcome of a planned-for epidemic, worst-case temperature to which an electronic circuit element is exposed, etc. Where components of specified tolerance are used, devices must be designed to work properly with the worst-case combination of tolerances and external conditions.",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 740425605,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 37956,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Case": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Best-case_cost": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Average-case": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Best-case_analysis": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Best_case_analysis": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Worst_case_analysis": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Worst-case": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Worst-case_performance": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Worst_case": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Average-case_cost": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Average_case": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Average_(performance)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Worst-case_(performance)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Best_and_worst_cases": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Worst-case_cost": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Best-case_performance": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Average_case_analysis": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Worst-case_analysis": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Best,_worst_&_average_case": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Best-case_complexity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Best_case_complexity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Best,_worst,_and_average_case": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/BCET_(computing)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Best-case_execution_time": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Best_case_execution_time": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Best_case": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Average_performance": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Best,_worst_and_average_case"
+            }
+        ]
+    }
+}

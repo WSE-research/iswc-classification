@@ -1,0 +1,37 @@
+{
+    "@text": "Which associate musical artist of Carolyn Dennis is also the composer of Motorpsycho Nitemare ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Carolyn_Dennis",
+            "@support": "35",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Carolyn Dennis",
+            "@offset": "34",
+            "@similarityScore": "0.999999999999801",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Composer",
+            "@support": "22915",
+            "@types": "",
+            "@surfaceForm": "composer",
+            "@offset": "61",
+            "@similarityScore": "0.9991980396300981",
+            "@percentageOfSecondRank": "4.5253982908071154E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Motorpsycho_Nitemare",
+            "@support": "4",
+            "@types": "Wikidata:Q386724,Wikidata:Q2188189,Schema:MusicRecording,Schema:CreativeWork,DBpedia:Work,DBpedia:Song,DBpedia:MusicalWork",
+            "@surfaceForm": "Motorpsycho Nitemare",
+            "@offset": "73",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

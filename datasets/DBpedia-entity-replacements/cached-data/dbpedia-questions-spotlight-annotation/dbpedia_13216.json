@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me London borough whose name has the word london in it.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/London",
+            "@support": "222686",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "London",
+            "@offset": "8",
+            "@similarityScore": "0.998561281092407",
+            "@percentageOfSecondRank": "0.0011172582727149954"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Borough",
+            "@support": "3993",
+            "@types": "",
+            "@surfaceForm": "borough",
+            "@offset": "15",
+            "@similarityScore": "0.8220777482402473",
+            "@percentageOfSecondRank": "0.0968507838907228"
+        }
+    ]
+}

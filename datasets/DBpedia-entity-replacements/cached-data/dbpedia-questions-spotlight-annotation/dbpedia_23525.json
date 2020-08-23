@@ -1,0 +1,46 @@
+{
+    "@text": "Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Lufthansa",
+            "@support": "2163",
+            "@types": "Wikidata:Q46970,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline,DBpedia:Agent",
+            "@surfaceForm": "Lufthansa",
+            "@offset": "20",
+            "@similarityScore": "0.9999996292036121",
+            "@percentageOfSecondRank": "3.7027777749346915E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Dortmund",
+            "@support": "3515",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Dortmund",
+            "@offset": "42",
+            "@similarityScore": "0.9977374111414234",
+            "@percentageOfSecondRank": "0.0013583105781221124"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Berlin",
+            "@support": "79823",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Berlin",
+            "@offset": "55",
+            "@similarityScore": "0.9999472038108862",
+            "@percentageOfSecondRank": "4.2189665070757986E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Berlin_Tegel_Airport",
+            "@support": "407",
+            "@types": "Wikidata:Q1248784,Schema:Place,Schema:Airport,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure,DBpedia:Airport",
+            "@surfaceForm": "Tegel",
+            "@offset": "62",
+            "@similarityScore": "0.8471381319028474",
+            "@percentageOfSecondRank": "0.18044156209509224"
+        }
+    ]
+}

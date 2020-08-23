@@ -1,0 +1,28 @@
+{
+    "@text": "What is the base currency of the country which operates the Marion Dufresne?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Currency",
+            "@support": "6095",
+            "@types": "",
+            "@surfaceForm": "currency",
+            "@offset": "17",
+            "@similarityScore": "0.9994116696477285",
+            "@percentageOfSecondRank": "1.8327086605274295E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Marc-Joseph_Marion_du_Fresne",
+            "@support": "51",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Marion Dufresne",
+            "@offset": "60",
+            "@similarityScore": "0.9999999109830253",
+            "@percentageOfSecondRank": "8.901676829857786E-8"
+        }
+    ]
+}

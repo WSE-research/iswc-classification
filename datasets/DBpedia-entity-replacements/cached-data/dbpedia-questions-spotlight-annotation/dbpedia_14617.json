@@ -1,0 +1,37 @@
+{
+    "@text": "Does the net tonnage of the Maggie Lee equal 8?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Net_tonnage",
+            "@support": "78",
+            "@types": "",
+            "@surfaceForm": "net tonnage",
+            "@offset": "9",
+            "@similarityScore": "0.9168353946138271",
+            "@percentageOfSecondRank": "0.08856831646635967"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Maggie_Simpson",
+            "@support": "688",
+            "@types": "",
+            "@surfaceForm": "Maggie",
+            "@offset": "28",
+            "@similarityScore": "0.6652420827738953",
+            "@percentageOfSecondRank": "0.29410539497814775"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Robert_E._Lee",
+            "@support": "4095",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:MilitaryPerson,DBpedia:Agent",
+            "@surfaceForm": "Lee",
+            "@offset": "35",
+            "@similarityScore": "0.9476954674032213",
+            "@percentageOfSecondRank": "0.02033022367261235"
+        }
+    ]
+}

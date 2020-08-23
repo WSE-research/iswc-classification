@@ -1,0 +1,37 @@
+{
+    "@text": "What country in the Russian empire  did Fyodor Dostoyevsky die in?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Russian_Empire",
+            "@support": "25461",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Russian empire",
+            "@offset": "20",
+            "@similarityScore": "0.9999999999990905",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Fyodor_Dostoyevsky",
+            "@support": "2140",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Fyodor",
+            "@offset": "40",
+            "@similarityScore": "0.9987906491112803",
+            "@percentageOfSecondRank": "6.964198286682859E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Fyodor_Dostoyevsky",
+            "@support": "2140",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Dostoyevsky",
+            "@offset": "47",
+            "@similarityScore": "0.9999999999810996",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

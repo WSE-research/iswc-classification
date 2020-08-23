@@ -1,0 +1,46 @@
+{
+    "@text": "Was Alan Alda nominated for a Tony Award for Best Actor in a Play and a Drama Desk Award for Outstanding Featured Actor in a Play?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Alan_Alda",
+            "@support": "662",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Alan Alda",
+            "@offset": "4",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tony_Award",
+            "@support": "8023",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Tony Award",
+            "@offset": "30",
+            "@similarityScore": "0.9991008575126396",
+            "@percentageOfSecondRank": "4.6083184530810913E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Award_for_Best_Actor",
+            "@support": "2328",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Best Actor",
+            "@offset": "45",
+            "@similarityScore": "0.9990952409234466",
+            "@percentageOfSecondRank": "2.4767078291243515E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Drama_Desk_Award",
+            "@support": "2558",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Drama Desk Award",
+            "@offset": "72",
+            "@similarityScore": "0.9970361704528954",
+            "@percentageOfSecondRank": "0.002800955793240897"
+        }
+    ]
+}

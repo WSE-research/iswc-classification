@@ -1,0 +1,37 @@
+{
+    "@text": "Name a city located next to the Rhine river that contains the word \" mannheim\" in its name",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "7",
+            "@similarityScore": "0.8598471719056443",
+            "@percentageOfSecondRank": "0.10888118590079247"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rhine",
+            "@support": "12948",
+            "@types": "Wikidata:Q47521,Wikidata:Q4022,Schema:RiverBodyOfWater,Schema:Place,Schema:BodyOfWater,DBpedia:Stream,DBpedia:River,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "Rhine",
+            "@offset": "32",
+            "@similarityScore": "0.9999866240497127",
+            "@percentageOfSecondRank": "1.0238175584528055E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mannheim",
+            "@support": "4125",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "mannheim",
+            "@offset": "69",
+            "@similarityScore": "0.996128491224076",
+            "@percentageOfSecondRank": "0.0038428553031338995"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Is the cash back of Amazon.de VISA Card equal to 0.4?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Amazon.com",
+            "@support": "9227",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Amazon.de",
+            "@offset": "20",
+            "@similarityScore": "0.9998921386186218",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Visa_Inc.",
+            "@support": "1500",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:BankOrCreditUnion,DBpedia:Organisation,DBpedia:Company,DBpedia:Bank,DBpedia:Agent",
+            "@surfaceForm": "VISA",
+            "@offset": "30",
+            "@similarityScore": "0.9999979173563476",
+            "@percentageOfSecondRank": "1.5803675550501374E-6"
+        }
+    ]
+}

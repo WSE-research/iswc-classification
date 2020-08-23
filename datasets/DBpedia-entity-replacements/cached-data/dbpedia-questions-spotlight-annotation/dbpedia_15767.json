@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the FISA rower ID for Steve Redgrave?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/International_Rowing_Federation",
+            "@support": "296",
+            "@types": "",
+            "@surfaceForm": "FISA",
+            "@offset": "13",
+            "@similarityScore": "0.983911854590034",
+            "@percentageOfSecondRank": "0.016333484535105983"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rowing",
+            "@support": "892",
+            "@types": "",
+            "@surfaceForm": "rower",
+            "@offset": "18",
+            "@similarityScore": "0.8958013116820925",
+            "@percentageOfSecondRank": "0.11618530899926499"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Steve_Redgrave",
+            "@support": "225",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Steve Redgrave",
+            "@offset": "31",
+            "@similarityScore": "0.9999999999999858",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "What is the region of the Battle of Leipzig whose partner town is Lyon?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Leipzig",
+            "@support": "15700",
+            "@types": "Wikidata:Q486972,Wikidata:Q3957,Schema:Place,DBpedia:Town,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Leipzig",
+            "@offset": "36",
+            "@similarityScore": "0.9926773471403241",
+            "@percentageOfSecondRank": "0.005701087078237252"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Lyon",
+            "@support": "11943",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Lyon",
+            "@offset": "66",
+            "@similarityScore": "0.9918998250556074",
+            "@percentageOfSecondRank": "0.008010338423925503"
+        }
+    ]
+}

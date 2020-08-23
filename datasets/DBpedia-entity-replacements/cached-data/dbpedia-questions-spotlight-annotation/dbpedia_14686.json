@@ -1,0 +1,37 @@
+{
+    "@text": "Who is the pianist artist of The Rise and Fall of Ziggy Stardust and The Spiders from Mars?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ziggy_Stardust_Tour",
+            "@support": "74",
+            "@types": "",
+            "@surfaceForm": "Ziggy Stardust",
+            "@offset": "50",
+            "@similarityScore": "0.9834970816706424",
+            "@percentageOfSecondRank": "0.016723458548938665"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/The_Spiders_(Japanese_band)",
+            "@support": "28",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q215380,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:MusicGroup,DBpedia:Organisation,DBpedia:Group,DBpedia:Band,DBpedia:Agent",
+            "@surfaceForm": "The Spiders",
+            "@offset": "69",
+            "@similarityScore": "0.5116949784786496",
+            "@percentageOfSecondRank": "0.39000000000000357"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mars",
+            "@support": "27356",
+            "@types": "Wikidata:Q634,Schema:Place,DBpedia:Planet,DBpedia:Place,DBpedia:Location,DBpedia:CelestialBody",
+            "@surfaceForm": "Mars",
+            "@offset": "86",
+            "@similarityScore": "0.999974828222887",
+            "@percentageOfSecondRank": "1.836264159791833E-5"
+        }
+    ]
+}

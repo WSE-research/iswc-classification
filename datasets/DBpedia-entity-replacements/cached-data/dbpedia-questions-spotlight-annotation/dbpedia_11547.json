@@ -1,0 +1,37 @@
+{
+    "@text": "What is Bermuda's diplomatic relation, that has the same time zone as Alaska?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Bermuda",
+            "@support": "14712",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Bermuda",
+            "@offset": "8",
+            "@similarityScore": "0.9982026574928221",
+            "@percentageOfSecondRank": "0.0010172639040317078"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Time_zone",
+            "@support": "1619",
+            "@types": "",
+            "@surfaceForm": "time zone",
+            "@offset": "57",
+            "@similarityScore": "0.9989964659921196",
+            "@percentageOfSecondRank": "9.80247403172785E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Alaska",
+            "@support": "38153",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Alaska",
+            "@offset": "70",
+            "@similarityScore": "0.9999081183984332",
+            "@percentageOfSecondRank": "5.771277809919381E-5"
+        }
+    ]
+}

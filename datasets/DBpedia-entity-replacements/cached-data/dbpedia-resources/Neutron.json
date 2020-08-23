@@ -1,0 +1,751 @@
+{
+    "http://dbpedia.org/resource/Neutron": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Atom114619225"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Isotope114619658"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Matter100020827"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Substance100019613"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatIsotopesOfNeutronium"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Scientist"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Part113809207"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Relation100031921"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u4e2d\u5b50",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Neutron",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Neutron",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0646\u064a\u0648\u062a\u0631\u0648\u0646",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Neutron",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e2d\u6027\u5b50",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Neutron",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Neutr\u00f3n",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Neutrone",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Neutron",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u041d\u0435\u0439\u0442\u0440\u043e\u043d",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "N\u00eautron",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Le neutron est une particule subatomique de charge \u00e9lectrique nulle. Les neutrons sont pr\u00e9sents dans le noyau des atomes, li\u00e9s avec des protons par l'interaction forte. Si le nombre de protons d'un noyau d\u00e9termine son \u00e9l\u00e9ment chimique, le nombre de neutrons d\u00e9termine son isotope. Les neutrons li\u00e9s dans un noyau atomique sont en g\u00e9n\u00e9ral stables mais les neutrons libres sont instables : ils se d\u00e9sint\u00e8grent en un peu moins de 15 minutes (880,3 secondes). Les neutrons libres sont produits dans les op\u00e9rations de fission et de fusion nucl\u00e9aires.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Das Neutron [\u02c8n\u0254\u026a\u032ftr\u0254n] (Plural Neutronen [n\u0254\u026a\u032f\u02c8tro\u02d0n\u0259n]) ist ein elektrisch neutrales Teilchen mit dem Formelzeichen n. Es ist, neben dem Proton, Bestandteil der meisten Atomkerne und somit aller uns vertrauten Materie. Beide geh\u00f6ren zu den Hadronen und Nukleonen. Neutronen existieren auch ohne Einbindung in einen Atomkern. In diesem Zustand werden sie als freie Neutronen bezeichnet und sind instabil.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Neutron) \u062c\u0633\u064a\u0645 \u062a\u062d\u062a \u0630\u0631\u064a \u0643\u0627\u0646 \u064a\u0638\u0646 \u0641\u064a \u0628\u0627\u062f\u0626 \u0627\u0644\u0623\u0645\u0631 \u0623\u0646\u0647 \u062c\u0633\u064a\u0645 \u0623\u0648\u0644\u064a (\u0644\u0627 \u064a\u062a\u0643\u0648\u0646 \u0645\u0646 \u062c\u0633\u064a\u0645\u0627\u062a \u0623\u0635\u063a\u0631) \u0648\u0644\u0643\u0646 \u062a\u0628\u064a\u0646 \u0641\u064a\u0645\u0627 \u0628\u0639\u062f \u062e\u0637\u0623 \u0647\u0630\u0627 \u0627\u0644\u0627\u0639\u062a\u0642\u0627\u062f\u060c \u0643\u062a\u0644\u062a\u0647 \u062a\u0633\u0627\u0648\u064a \u062a\u0642\u0631\u064a\u0628\u0627\u064b \u0643\u062a\u0644\u0629 \u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0646\u060c \u064a\u0648\u062c\u062f \u0641\u064a \u0623\u0646\u0648\u064a\u0629 \u0627\u0644\u0630\u0631\u0627\u062a\u060c \u0643\u0645\u0627 \u064a\u0645\u0643\u0646 \u0623\u0646 \u064a\u0648\u062c\u062f \u062e\u0627\u0631\u062c\u0647\u0627 \u062d\u064a\u062b \u064a\u062f\u0639\u0649 \u0628\u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646 \u0627\u0644\u062d\u0631. \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646 \u0627\u0644\u062d\u0631 \u063a\u064a\u0631 \u0645\u0633\u062a\u0642\u0631 \u0644\u0647 \u0645\u062a\u0648\u0633\u0637 \u0639\u0645\u0631 \u0642\u062f\u0631\u0647 \u062d\u0648\u0627\u0644\u064a 886 \u062b\u0627\u0646\u064a\u0629 (\u062d\u0648\u0627\u0644\u064a 15 \u062f\u0642\u064a\u0642\u0629)\u060c \u062d\u064a\u062b \u064a\u062a\u062d\u0644\u0644 \u0628\u0639\u062f \u0647\u0630\u0647 \u0627\u0644\u0641\u062a\u0631\u0629 \u0627\u0644\u0642\u0635\u064a\u0631\u0629 \u0625\u0644\u0649 \u0628\u0631\u0648\u062a\u0648\u0646 \u0648\u0625\u0644\u0643\u062a\u0631\u0648\u0646.\u0648\u0644\u0623\u0646 \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u063a\u064a\u0631 \u0645\u0634\u062d\u0648\u0646\u0629 \u064a\u062c\u0639\u0644 \u0645\u0646 \u0627\u0644\u0635\u0639\u0628 \u0643\u0634\u0641\u0647\u0627 \u0623\u0648 \u0627\u0644\u062a\u062d\u0643\u0645 \u0628\u0647\u0627 \u060c \u0627\u0644\u0623\u0645\u0631 \u0627\u0644\u0630\u064a \u0623\u062f\u0649 \u0644\u062a\u0623\u062e\u0631 \u0627\u0643\u062a\u0634\u0627\u0641\u0647\u0627. \u0641\u0642\u062f \u0627\u0643\u062a\u0634\u0641\u0647\u0627 \u0639\u0627\u0644\u0645 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u062d\u0627\u0645\u0644 \u062c\u0627\u0626\u0632\u0629 \u0646\u0648\u0628\u0644 \"\u062c\u064a\u0645\u0633 \u0634\u0627\u062f\u0648\u064a\u0643\".",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Neutron (z \u0142ac. neuter \u2013 \"oboj\u0119tny\") \u2013 cz\u0105stka subatomowa wyst\u0119puj\u0105ca w j\u0105drach atomowych. Jest elektrycznie oboj\u0119tna. Posiada spin \u00bd. Wed\u0142ug Modelu Standardowego neutron jest cz\u0105stk\u0105 z\u0142o\u017con\u0105 nale\u017c\u0105c\u0105 do klasy barion\u00f3w, a dok\u0142adniej nukleon\u00f3w i sk\u0142ada si\u0119 z dw\u00f3ch kwark\u00f3w dolnych (d) i jednego g\u00f3rnego (u), zwi\u0105zanych ze sob\u0105 oddzia\u0142ywaniem silnym. . Jego masa spoczynkowa wynosi 1,008 664 915 78 u, czyli 1,674 927 21\u00b710-27 kg (jest nieco wi\u0119ksza od masy protonu). Antycz\u0105stk\u0105 neutronu jest antyneutron.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "The neutron is a subatomic particle, symbol n or n0, with no net electric charge and a mass slightly larger than that of a proton. Protons and neutrons, each with mass approximately one atomic mass unit, constitute the nucleus of an atom, and they are collectively referred to as nucleons. Their properties and interactions are described by nuclear physics.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "El neutr\u00f3n es una part\u00edcula subat\u00f3mica, un nucle\u00f3n, sin carga neta, presente en el n\u00facleo at\u00f3mico de pr\u00e1cticamente todos los \u00e1tomos, excepto el protio. Aunque se dice que el neutr\u00f3n no tiene carga, en realidad est\u00e1 compuesto por tres part\u00edculas fundamentales cargadas llamadas quarks, cuyas cargas sumadas son cero. Por tanto, el neutr\u00f3n es un bari\u00f3n neutro compuesto por dos quarks de tipo abajo, y un quark de tipo arriba.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u041d\u0435\u0439\u0442\u0440\u043e\u0301\u043d (\u043e\u0442 \u043b\u0430\u0442. neuter \u2014 \u043d\u0438 \u0442\u043e\u0442, \u043d\u0438 \u0434\u0440\u0443\u0433\u043e\u0439) \u2014 \u0442\u044f\u0436\u0451\u043b\u0430\u044f \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u0440\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u0438\u0446\u0430, \u043d\u0435 \u0438\u043c\u0435\u044e\u0449\u0430\u044f \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0437\u0430\u0440\u044f\u0434\u0430. \u041d\u0435\u0439\u0442\u0440\u043e\u043d \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0444\u0435\u0440\u043c\u0438\u043e\u043d\u043e\u043c \u0438 \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u0438\u0442 \u043a \u043a\u043b\u0430\u0441\u0441\u0443 \u0431\u0430\u0440\u0438\u043e\u043d\u043e\u0432. \u041d\u0435\u0439\u0442\u0440\u043e\u043d\u044b \u0438 \u043f\u0440\u043e\u0442\u043e\u043d\u044b \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0434\u0432\u0443\u043c\u044f \u0433\u043b\u0430\u0432\u043d\u044b\u043c\u0438 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u0430\u043c\u0438 \u0430\u0442\u043e\u043c\u043d\u044b\u0445 \u044f\u0434\u0435\u0440; \u043e\u0431\u0449\u0435\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0434\u043b\u044f \u043f\u0440\u043e\u0442\u043e\u043d\u043e\u0432 \u0438 \u043d\u0435\u0439\u0442\u0440\u043e\u043d\u043e\u0432 \u2014 \u043d\u0443\u043a\u043b\u043e\u043d\u044b.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Um n\u00eautron (portugu\u00eas brasileiro) ou neutr\u00e3o (portugu\u00eas europeu) \u00e9 um b\u00e1rion eletricamente neutro. Formado por dois quarks down e um quark up, forma o n\u00facleo at\u00f4mico juntamente com o pr\u00f3ton e, uma vez fora deste, \u00e9 inst\u00e1vel e tem uma vida m\u00e9dia de cerca de 15 minutos, emitindo um el\u00e9tron e um antineutrino, convertendo-se em um pr\u00f3ton. Foi descoberto pelo f\u00edsico ingl\u00eas James Chadwick em 1932, que recebeu o Pr\u00eamio Nobel de F\u00edsica em 1935 por essa descoberta. Para saber a quantidade de n\u00eautrons que um \u00e1tomo possui, basta fazer a subtra\u00e7\u00e3o entre o n\u00famero de massa (A) e o n\u00famero at\u00f3mico (Z).",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e2d\u5b50\uff08\u82f1\u6587\uff1aNeutron\uff09\u662f\u4e00\u79cd\u7535\u4e2d\u6027\u7684\u7c92\u5b50\uff0c\u5177\u6709\u4e0e\u8d28\u5b50\u5927\u7ea6\u76f8\u540c\u7684\u8d28\u91cf\u3002\u4e2d\u5b50\u5c5e\u4e8e\u91cd\u5b50\u7c7b\uff0c\u7531\u4e24\u4e2a\u4e0b\u5938\u514b\u548c\u4e00\u4e2a\u4e0a\u5938\u514b\u6784\u6210\u3002\u7edd\u5927\u591a\u6570\u7684\u539f\u5b50\u6838\u90fd\u7531\u4e2d\u5b50\u548c\u8d28\u5b50\u7ec4\u6210\uff08\u4ec5\u6709\u4e00\u79cd\u6c22\u539f\u5b50\u7684\u540c\u4f4d\u7d20\u4f8b\u5916\uff0c\u5b83\u7531\u4e00\u4e2a\u8d28\u5b50\u6784\u6210\uff09\u3002\u5728\u539f\u5b50\u6838\u5916\uff0c\u81ea\u7531\u4e2d\u5b50\u6027\u8d28\u4e0d\u7a33\u5b9a\uff0c\u5e73\u5747\u58fd\u547d\u7d04\u4e3a15\u5206\u949f\u3002\u4e2d\u5b50\u8870\u53d8\u65f6\u91ca\u653e\u4e00\u4e2a\u7535\u5b50\u548c\u4e00\u4e2a\u53cd\u4e2d\u5fae\u5b50\u800c\u6210\u4e3a\u8d28\u5b50\uff08\u03b2\u8870\u53d8\uff09\u3002\u540c\u6837\u7684\u8870\u53d8\u8fc7\u7a0b\u5728\u4e00\u4e9b\u539f\u5b50\u6838\u4e2d\u4e5f\u5b58\u5728\u3002\u539f\u5b50\u6838\u4e2d\u7684\u4e2d\u5b50\u548c\u8d28\u5b50\u53ef\u4ee5\u901a\u8fc7\u5438\u6536\u548c\u91ca\u653e\u03c0\u4ecb\u5b50\u4e92\u76f8\u8f6c\u6362\u3002\u4e2d\u5b50\u662f\u7531\u5251\u6865\u5927\u5b66\u5361\u6587\u8fea\u8bb8\u5b9e\u9a8c\u5ba4\u7684\u82f1\u56fd\u7269\u7406\u5b66\u5bb6\u8a79\u59c6\u65af\u00b7\u67e5\u5fb7\u5a01\u514b\u4e8e1932\u5e74\u53d1\u73b0\u7684\u3002 \u4ee5\u5f80\u66fe\u7d93\u5c07\u4e2d\u5b50\u5217\u70ba\u57fa\u672c\u7c92\u5b50\u7684\u4e00\u54e1\u3002\u4f46\u73fe\u4eca\u5728\u6a19\u6e96\u6a21\u578b\u7406\u8ad6\u4e0b\uff0c\u56e0\u70ba\u4e2d\u5b50\u662f\u7531\u5938\u514b\u7d44\u6210\uff0c\u6240\u4ee5\u5b83\u662f\u500b\u8907\u5408\u7c92\u5b50\u3002 \u4e2d\u5b50\u548c\u5176\u5b83\u5e38\u898b\u7684\u6b21\u539f\u5b50\u7c92\u5b50\u6700\u5927\u7684\u5206\u5225\u5728\u65bc\u4e2d\u5b50\u56e0\u5176\u4e0b\u5938\u514b\u548c\u4e0a\u5938\u514b\u4e4b\u96fb\u8377\u4e92\u76f8\u62b5\u6d88\uff0c\u672c\u8eab\u4e0d\u5e36\u96fb\u8377\u3002\u53e6\u5b83\u7a7f\u900f\u6027\u5f37\uff0c\u7121\u6cd5\u76f4\u63a5\u9032\u884c\u89c0\u5bdf\uff0c\u4e5f\u4ee4\u5b83\u5728\u6838\u8f49\u8b8a\u4e2d\u6210\u70ba\u975e\u5e38\u91cd\u8981\u7684\u5a92\u4ecb\u7269\u3002\u9019\u5169\u9805\u56e0\u7d20\u4f7f\u5f97\u5b83\u5728\u6b21\u539f\u5b50\u7c92\u5b50\u767c\u5c55\u6b77\u53f2\u7684\u8f03\u5f8c\u671f\u624d\u88ab\u767c\u73fe\u3002 \u81ea\u7531\u4e2d\u5b50\u548c\u539f\u5b50\u6838\u7684\u78b0\u649e\u662f\u5f48\u6027\u78b0\u649e\uff0c\u5176\u9075\u5faa\u5de8\u89c0\u4e0b\u5169\u5c0f\u7403\u5f48\u6027\u78b0\u649e\u6642\u7684\u52d5\u91cf\u6cd5\u5247\u3002\u7576\u88ab\u78b0\u649e\u7684\u539f\u5b50\u6838\u5f88\u91cd\u6642\uff0c\u539f\u5b50\u6838\u53ea\u6703\u6709\u5f88\u5c0f\u7684\u901f\u5ea6\uff1b\u4f46\u662f\uff0c\u82e5\u662f\u78b0\u649e\u7684\u5c0d\u8c61\u662f\u548c\u4e2d\u5b50\u8cea\u91cf\u5dee\u4e0d\u591a\u8cea\u5b50\uff0c\u5247\u8cea\u5b50\u548c\u4e2d\u5b50\u6703\u4ee5\u5e7e\u4e4e\u76f8\u540c\u7684\u901f\u5ea6\u98db\u51fa\u3002\u9019\u985e\u7684\u78b0\u649e\u5c07\u6703\u56e0\u70ba\u88fd\u9020\u51fa\u7684\u96e2\u5b50\u800c\u88ab\u5075\u6e2c\u5230\u3002 \u7269\u7406\u5b66\u4e2d\u6709\u4e13\u95e8\u7684\u4e2d\u5b50\u5b66\u3001\u4e2d\u5b50\u7269\u7406\u5b66\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Een neutron is een subatomair deeltje zonder elektrische lading dat voorkomt in atoomkernen. Het is opgebouwd uit 3 quarks, namelijk 2 down-quarks en 1 up-quark. Alle atoomkernen op \u00e9\u00e9n na bevatten naast een of meer protonen ook een of meer neutronen. De enige uitzondering is 1H (de meest voorkomende vorm van waterstof), waarvan de kern uit alleen \u00e9\u00e9n proton bestaat. De massa van het neutron is vrijwel gelijk aan die van het proton (het neutron is iets zwaarder), maar het neutron mist de positieve lading van het proton.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Il neutrone \u00e8 una particella subatomica costituita da due quark down e un quark up, con carica elettrica netta pari a zero. In quanto formato da quark appartiene alla famiglia degli adroni ed in particolare al gruppo dei barioni. Avendo spin semi-intero \u00e8 un fermione. Ha massa a riposo di 939,57 MeV/c\u00b2, leggermente superiore a quella del protone, e ad eccezione del pi\u00f9 comune isotopo dell'idrogeno (il cui nucleo atomico consiste di un singolo protone) il neutrone compone i nuclei insieme al protone, con il quale si trasforma in continuazione mediante l'emissione e l'assorbimento di pioni.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e2d\u6027\u5b50\uff08\u3061\u3085\u3046\u305b\u3044\u3057\u3001\uff08\u7f85: \u862d: \u72ec: \u4ecf: \u82f1: neutron\uff09\uff09\u3068\u306f\u3001\u539f\u5b50\u6838\u3092\u69cb\u6210\u3059\u308b\u7c92\u5b50\u306e\u3046\u3061\u3001\u7121\u96fb\u8377\u306e\u7c92\u5b50\u306e\u4e8b\u3067\u3001\u30d0\u30ea\u30aa\u30f3\u306e1\u7a2e\u3067\u3042\u308b\u3002\u8a18\u53f7 n \u3067\u8868\u3055\u308c\u308b\u3002\u8cea\u91cf\u6570\u306f\u539f\u5b50\u8cea\u91cf\u5358\u4f4d\u3067\u7d04 1.00867 u\u3001\u5e73\u5747\u5bff\u547d\u306f\u7d0415\u5206\u3067\u03b2\u5d29\u58ca\u3092\u8d77\u3053\u3057\u967d\u5b50\u3068\u306a\u308b\u3002\u539f\u5b50\u6838\u306f\u3001\u967d\u5b50\u3068\u4e2d\u6027\u5b50\u3068\u8a00\u30462\u7a2e\u985e\u306e\u7c92\u5b50\u306b\u3088\u3063\u3066\u69cb\u6210\u3055\u308c\u3066\u3044\u308b\u70ba\u3001\u3053\u306e2\u3064\u3092\u7dcf\u79f0\u3057\u3066\u6838\u5b50\u3068\u547c\u3076\u3002 \u539f\u5b50\u6838\u5185\u3067\u6838\u5b50\u540c\u58eb\u3092\u307e\u3068\u3081\u3066\u304a\u304f\u529b\u306b\u3064\u3044\u3066\u306f\u300c\u30d1\u30a4\u4e2d\u9593\u5b50\u300d\u3092\u53c2\u7167",
+                "lang": "ja"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Delta_baryon"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Valley_of_stability"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.05bdy"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4041964-2"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Mononeutron"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Neutrone"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039d\u03b5\u03c4\u03c1\u03cc\u03bd\u03b9\u03bf"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Neutron"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q2348"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Neutron"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u4e2d\u6027\u5b50"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc911\uc131\uc790"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Neutronium-1"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Neutr\u00f3n"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Neutron"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Neutron"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q2348"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/N\u00eautron"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Neutron"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Neutroi"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Neutron"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Neutron"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Nucleons"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Quark_structure_neutron.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Neutron"
+            }
+        ],
+        "http://dbpedia.org/property/statistics": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Fermionic"
+            }
+        ],
+        "http://dbpedia.org/property/composition": [
+            {
+                "type": "literal",
+                "value": 1,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/group": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hadron"
+            }
+        ],
+        "http://dbpedia.org/property/reason": [
+            {
+                "type": "literal",
+                "value": "A step of logic is missing here. Are the neutrons needed to make something fission? Why is so much water used if it is too much?",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/symbol": [
+            {
+                "type": "literal",
+                "value": ", ,",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/discovered": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/James_Chadwick"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Neutron?oldid=743703890"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://alsos.wlu.edu/qsearch.aspx?browse=science/Neutrons"
+            }
+        ],
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "literal",
+                "value": "The quark structure of the neutron.  The color assignment of individual quarks is arbitrary, but all three colors must be present.  Forces between quarks are mediated by gluons.",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/antiparticle": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Antineutron"
+            }
+        ],
+        "http://dbpedia.org/property/interaction": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electromagnetic_interaction"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Weak_interaction"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Gravity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Strong_Interaction"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Neutron",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/isospin": [
+            {
+                "type": "literal",
+                "value": "\u2212",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Um n\u00eautron (portugu\u00eas brasileiro) ou neutr\u00e3o (portugu\u00eas europeu) \u00e9 um b\u00e1rion eletricamente neutro. Formado por dois quarks down e um quark up, forma o n\u00facleo at\u00f4mico juntamente com o pr\u00f3ton e, uma vez fora deste, \u00e9 inst\u00e1vel e tem uma vida m\u00e9dia de cerca de 15 minutos, emitindo um el\u00e9tron e um antineutrino, convertendo-se em um pr\u00f3ton. Foi descoberto pelo f\u00edsico ingl\u00eas James Chadwick em 1932, que recebeu o Pr\u00eamio Nobel de F\u00edsica em 1935 por essa descoberta. Para saber a quantidade de n\u00eautrons que um \u00e1tomo possui, basta fazer a subtra\u00e7\u00e3o entre o n\u00famero de massa (A) e o n\u00famero at\u00f3mico (Z).",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Das Neutron [\u02c8n\u0254\u026a\u032ftr\u0254n] (Plural Neutronen [n\u0254\u026a\u032f\u02c8tro\u02d0n\u0259n]) ist ein elektrisch neutrales Teilchen mit dem Formelzeichen n. Es ist, neben dem Proton, Bestandteil der meisten Atomkerne und somit aller uns vertrauten Materie. Beide geh\u00f6ren zu den Hadronen und Nukleonen. Neutronen existieren auch ohne Einbindung in einen Atomkern. In diesem Zustand werden sie als freie Neutronen bezeichnet und sind instabil.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Le neutron est une particule subatomique de charge \u00e9lectrique nulle. Les neutrons sont pr\u00e9sents dans le noyau des atomes, li\u00e9s avec des protons par l'interaction forte. Si le nombre de protons d'un noyau d\u00e9termine son \u00e9l\u00e9ment chimique, le nombre de neutrons d\u00e9termine son isotope. Les neutrons li\u00e9s dans un noyau atomique sont en g\u00e9n\u00e9ral stables mais les neutrons libres sont instables : ils se d\u00e9sint\u00e8grent en un peu moins de 15 minutes (880,3 secondes). Les neutrons libres sont produits dans les op\u00e9rations de fission et de fusion nucl\u00e9aires. Le neutron n'est pas une particule \u00e9l\u00e9mentaire, \u00e9tant compos\u00e9 de trois autres particules : un quark up et deux quarks down.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "El neutr\u00f3n es una part\u00edcula subat\u00f3mica, un nucle\u00f3n, sin carga neta, presente en el n\u00facleo at\u00f3mico de pr\u00e1cticamente todos los \u00e1tomos, excepto el protio. Aunque se dice que el neutr\u00f3n no tiene carga, en realidad est\u00e1 compuesto por tres part\u00edculas fundamentales cargadas llamadas quarks, cuyas cargas sumadas son cero. Por tanto, el neutr\u00f3n es un bari\u00f3n neutro compuesto por dos quarks de tipo abajo, y un quark de tipo arriba. Fuera del n\u00facleo at\u00f3mico, los neutrones son inestables, teniendo una vida media de 15 minutos (885,7 \u00b1 0,8 s); cada neutr\u00f3n libre se descompone en un electr\u00f3n, un antineutrino y un prot\u00f3n. Su masa es muy similar a la del prot\u00f3n, aunque ligeramente mayor. El neutr\u00f3n es necesario para la estabilidad de casi todos los n\u00facleos at\u00f3micos, a excepci\u00f3n del is\u00f3topo hidr\u00f3geno-1. La interacci\u00f3n nuclear fuerte es responsable de mantenerlos estables en los n\u00facleos at\u00f3micos.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Een neutron is een subatomair deeltje zonder elektrische lading dat voorkomt in atoomkernen. Het is opgebouwd uit 3 quarks, namelijk 2 down-quarks en 1 up-quark. Alle atoomkernen op \u00e9\u00e9n na bevatten naast een of meer protonen ook een of meer neutronen. De enige uitzondering is 1H (de meest voorkomende vorm van waterstof), waarvan de kern uit alleen \u00e9\u00e9n proton bestaat. De massa van het neutron is vrijwel gelijk aan die van het proton (het neutron is iets zwaarder), maar het neutron mist de positieve lading van het proton.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Il neutrone \u00e8 una particella subatomica costituita da due quark down e un quark up, con carica elettrica netta pari a zero. In quanto formato da quark appartiene alla famiglia degli adroni ed in particolare al gruppo dei barioni. Avendo spin semi-intero \u00e8 un fermione. Ha massa a riposo di 939,57 MeV/c\u00b2, leggermente superiore a quella del protone, e ad eccezione del pi\u00f9 comune isotopo dell'idrogeno (il cui nucleo atomico consiste di un singolo protone) il neutrone compone i nuclei insieme al protone, con il quale si trasforma in continuazione mediante l'emissione e l'assorbimento di pioni. Al di fuori del nucleo i neutroni sono instabili e hanno un'emivita di circa 15 minuti. Decadono in un protone emettendo un elettrone e un antineutrino, secondo la reazione: n \u2192 p+ + e\u2212 + \u03bde che prende il nome di decadimento beta e che si verifica anche in alcuni nuclei.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Neutron) \u062c\u0633\u064a\u0645 \u062a\u062d\u062a \u0630\u0631\u064a \u0643\u0627\u0646 \u064a\u0638\u0646 \u0641\u064a \u0628\u0627\u062f\u0626 \u0627\u0644\u0623\u0645\u0631 \u0623\u0646\u0647 \u062c\u0633\u064a\u0645 \u0623\u0648\u0644\u064a (\u0644\u0627 \u064a\u062a\u0643\u0648\u0646 \u0645\u0646 \u062c\u0633\u064a\u0645\u0627\u062a \u0623\u0635\u063a\u0631) \u0648\u0644\u0643\u0646 \u062a\u0628\u064a\u0646 \u0641\u064a\u0645\u0627 \u0628\u0639\u062f \u062e\u0637\u0623 \u0647\u0630\u0627 \u0627\u0644\u0627\u0639\u062a\u0642\u0627\u062f\u060c \u0643\u062a\u0644\u062a\u0647 \u062a\u0633\u0627\u0648\u064a \u062a\u0642\u0631\u064a\u0628\u0627\u064b \u0643\u062a\u0644\u0629 \u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0646\u060c \u064a\u0648\u062c\u062f \u0641\u064a \u0623\u0646\u0648\u064a\u0629 \u0627\u0644\u0630\u0631\u0627\u062a\u060c \u0643\u0645\u0627 \u064a\u0645\u0643\u0646 \u0623\u0646 \u064a\u0648\u062c\u062f \u062e\u0627\u0631\u062c\u0647\u0627 \u062d\u064a\u062b \u064a\u062f\u0639\u0649 \u0628\u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646 \u0627\u0644\u062d\u0631. \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646 \u0627\u0644\u062d\u0631 \u063a\u064a\u0631 \u0645\u0633\u062a\u0642\u0631 \u0644\u0647 \u0645\u062a\u0648\u0633\u0637 \u0639\u0645\u0631 \u0642\u062f\u0631\u0647 \u062d\u0648\u0627\u0644\u064a 886 \u062b\u0627\u0646\u064a\u0629 (\u062d\u0648\u0627\u0644\u064a 15 \u062f\u0642\u064a\u0642\u0629)\u060c \u062d\u064a\u062b \u064a\u062a\u062d\u0644\u0644 \u0628\u0639\u062f \u0647\u0630\u0647 \u0627\u0644\u0641\u062a\u0631\u0629 \u0627\u0644\u0642\u0635\u064a\u0631\u0629 \u0625\u0644\u0649 \u0628\u0631\u0648\u062a\u0648\u0646 \u0648\u0625\u0644\u0643\u062a\u0631\u0648\u0646.\u0648\u0644\u0623\u0646 \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u063a\u064a\u0631 \u0645\u0634\u062d\u0648\u0646\u0629 \u064a\u062c\u0639\u0644 \u0645\u0646 \u0627\u0644\u0635\u0639\u0628 \u0643\u0634\u0641\u0647\u0627 \u0623\u0648 \u0627\u0644\u062a\u062d\u0643\u0645 \u0628\u0647\u0627 \u060c \u0627\u0644\u0623\u0645\u0631 \u0627\u0644\u0630\u064a \u0623\u062f\u0649 \u0644\u062a\u0623\u062e\u0631 \u0627\u0643\u062a\u0634\u0627\u0641\u0647\u0627. \u0641\u0642\u062f \u0627\u0643\u062a\u0634\u0641\u0647\u0627 \u0639\u0627\u0644\u0645 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u062d\u0627\u0645\u0644 \u062c\u0627\u0626\u0632\u0629 \u0646\u0648\u0628\u0644 \"\u062c\u064a\u0645\u0633 \u0634\u0627\u062f\u0648\u064a\u0643\". \u0643\u0645\u0627 \u0623\u0646 \u0627\u0644\u0646\u064a\u0648\u062a\u0648\u0646\u0627\u062a \u0627\u0644\u062d\u0631\u0629 (\u0627\u0644\u0625\u0634\u0639\u0627\u0639\u0627\u062a \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u064a\u0629) \u0644\u0647\u0627 \u0642\u062f\u0631\u062a\u0647\u0627 \u0627\u0644\u0639\u0627\u0644\u064a\u0629 \u0639\u0644\u0649 \u0627\u0644\u0646\u0641\u0627\u0630 \u0641\u064a \u0627\u0644\u0645\u0648\u0627\u062f.\u0627\u0644\u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u0648\u062d\u064a\u062f\u0629 \u0644\u062a\u063a\u064a\u064a\u0631 \u0645\u0633\u0627\u0631 \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646 \u0647\u064a \u0628\u0648\u0636\u0639 \u0646\u0648\u0627\u0629 \u0641\u064a \u0645\u0633\u0627\u0631\u0647\u060c \u062d\u064a\u062b \u064a\u062a\u0645 \u062a\u0635\u0627\u062f\u0645 \u062a\u0627\u0645 \u0627\u0644\u0645\u0631\u0648\u0646\u0629. \u0644\u0643\u0646 \u0627\u062d\u062a\u0645\u0627\u0644 \u0627\u0635\u0637\u062f\u0627\u0645 \u0646\u064a\u0648\u062a\u0631\u0648\u0646 \u062d\u0631 \u0645\u062a\u062d\u0631\u0643 \u0628\u0646\u0648\u0627\u0629 \u0625\u062d\u062f\u0649 \u0627\u0644\u0630\u0631\u0627\u062a \u0641\u064a \u0627\u0644\u0645\u0627\u062f\u0629 \u0636\u0639\u064a\u0641 \u062c\u062f\u0627\u064b \u0628\u0633\u0628\u0628 \u0627\u0644\u0641\u0631\u0642 \u0627\u0644\u0647\u0627\u0626\u0644 \u0628\u064a\u0646 \u062d\u062c\u0645 \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646 \u0648\u0627\u0644\u0646\u0648\u0627\u0629\u060c \u0639\u0644\u0645\u0627 \u064b \u0628\u0623\u0646 \u0646\u0648\u0627\u0629 \u0627\u0644\u0630\u0631\u0629 \u0623\u0635\u063a\u0631 \u0643\u062b\u064a\u0631\u0627 \u062c\u062f\u0627 \u0645\u0646 \u062d\u062c\u0645 \u0627\u0644\u0630\u0631\u0629 (\u0623\u064a \u0623\u0646 \u0627\u0644\u0630\u0631\u0629 \u062a\u062d\u0648\u064a \u0641\u0631\u0627\u063a\u0627\u064b \u0643\u0628\u064a\u0631\u0627\u064b)\u060c \u0645\u0645\u0627 \u064a\u0639\u0637\u064a \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u0642\u062f\u0631\u0629 \u0643\u0628\u064a\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0642. \u062a\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u0641\u064a \u0634\u0637\u0631 \u0623\u0646\u0648\u064a\u0629 \u0627\u0644\u064a\u0648\u0631\u0627\u0646\u064a\u0648\u0645 \u0641\u064a \u0627\u0644\u0645\u0641\u0627\u0639\u0644\u0627\u062a \u0627\u0644\u0646\u0648\u0648\u064a\u0629.\u0648\u064a\u0646\u062a\u062c \u0639\u0646\u062f \u0627\u0646\u0634\u0637\u0627\u0631 \u0646\u0648\u0627\u0629 \u0627\u0644\u064a\u0648\u0631\u0627\u0646\u064a\u0648\u0645 \u0646\u064a\u0648\u062a\u0631\u0648\u0646\u064a\u0646 \u0641\u064a \u0627\u0644\u0645\u062a\u0648\u0633\u0637\u060c \u062a\u062a\u0641\u0627\u0639\u0644 \u0647\u064a \u0627\u0644\u0623\u062e\u0631\u0649 \u0645\u0639 \u0646\u0648\u0627\u064a\u0627 \u064a\u0648\u0631\u0627\u0646\u064a\u0648\u0645 \u0623\u062e\u0631\u0649\u060c \u0628\u0647\u0630\u0627 \u062a\u062a\u0632\u0627\u064a\u062f \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u0648\u0643\u0630\u0644\u0643 \u0645\u0639\u062f\u0644 \u0627\u0644\u0627\u0646\u0634\u0637\u0627\u0631 \u064a\u0632\u062f\u0627\u062f \u0628\u0645\u0627 \u064a\u0633\u0645\u0649 \u0627\u0644\u062a\u0641\u0627\u0639\u0644 \u0627\u0644\u0645\u062a\u0633\u0644\u0633\u0644. \u0648\u0641\u064a \u0627\u0644\u0645\u0641\u0627\u0639\u0644 \u0627\u0644\u0646\u0648\u0648\u064a \u062a\u0648\u062c\u062f \u0645\u0648\u0627\u062f \u0644\u0627\u0645\u062a\u0635\u0627\u0635 \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u0627\u0644\u0632\u0627\u0626\u062f\u0629 \u0628\u062d\u064a\u062b \u064a\u0628\u0642\u0649 \u0627\u0644\u062a\u0641\u0627\u0639\u0644 \u0645\u062a\u0648\u0627\u0632\u0646\u0627\u064b\u060c \u0648\u0646\u0633\u062a\u0637\u064a\u0639 \u0628\u0630\u0644\u0643 \u0625\u0646\u062a\u0627\u062c \u0627\u0644\u0637\u0627\u0642\u0629 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0627\u0644\u0645\u0641\u0627\u0639\u0644\u0627\u062a \u0627\u0644\u0630\u0631\u064a\u0629 \u0623\u0648 \u0627\u0644\u0646\u0648\u0648\u064a\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "The neutron is a subatomic particle, symbol n or n0, with no net electric charge and a mass slightly larger than that of a proton. Protons and neutrons, each with mass approximately one atomic mass unit, constitute the nucleus of an atom, and they are collectively referred to as nucleons. Their properties and interactions are described by nuclear physics. The nucleus consists of Z protons, where Z is called the atomic number, and N neutrons, where N is the neutron number. The atomic number defines the chemical properties of the atom, and the neutron number determines the isotope or nuclide. The terms isotope and nuclide are often used synonymously, but they are chemical and nuclear concepts, respectively. The atomic mass number, symbol A, equals Z+N. For example, carbon has atomic number 6, and its abundant carbon-12 isotope has 6 neutrons, whereas its rare carbon-13 isotope has 7 neutrons. Some elements occur in nature with only one stable isotope, such as fluorine. Other elements occur as many stable isotopes, such as tin with ten stable isotopes. Even though it is not a chemical element, the neutron is included in the table of nuclides. Within the nucleus, protons and neutrons are bound together through the nuclear force, and neutrons are required for the stability of nuclei. Neutrons are produced copiously in nuclear fission and fusion. They are a primary contributor to the nucleosynthesis of chemical elements within stars through fission, fusion, and neutron capture processes. The neutron is essential to the production of nuclear power. In the decade after the neutron was discovered in 1932, neutrons were used to induce many different types of nuclear transmutations. With the discovery of nuclear fission in 1938, it was quickly realized that, if a fission event produced neutrons, each of these neutrons might cause further fission events, etc., in a cascade known as a nuclear chain reaction. These events and findings led to the first self-sustaining nuclear reactor (Chicago Pile-1, 1942) and the first nuclear weapon (Trinity, 1945). Free neutrons, or individual neutrons free of the nucleus, are effectively a form of ionizing radiation, and as such, are a biological hazard, depending upon dose. A small natural \"neutron background\" flux of free neutrons exists on Earth, caused by cosmic ray showers, and by the natural radioactivity of spontaneously fissionable elements in the Earth's crust. Dedicated neutron sources like neutron generators, research reactors and spallation sources produce free neutrons for use in irradiation and in neutron scattering experiments.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Neutron (z \u0142ac. neuter \u2013 \"oboj\u0119tny\") \u2013 cz\u0105stka subatomowa wyst\u0119puj\u0105ca w j\u0105drach atomowych. Jest elektrycznie oboj\u0119tna. Posiada spin \u00bd. Wed\u0142ug Modelu Standardowego neutron jest cz\u0105stk\u0105 z\u0142o\u017con\u0105 nale\u017c\u0105c\u0105 do klasy barion\u00f3w, a dok\u0142adniej nukleon\u00f3w i sk\u0142ada si\u0119 z dw\u00f3ch kwark\u00f3w dolnych (d) i jednego g\u00f3rnego (u), zwi\u0105zanych ze sob\u0105 oddzia\u0142ywaniem silnym. Neutrony b\u0119d\u0105ce cz\u0119\u015bci\u0105 j\u0105der atomowych s\u0105 bardzo stabilne. Swobodne neutrony (tzn. wyst\u0119puj\u0105ce poza j\u0105drem) nie s\u0105 stabilne i rozpadaj\u0105 si\u0119 w wyniku oddzia\u0142ywa\u0144 s\u0142abych. \u015aredni czas \u017cycia swobodnego neutronu wynosi 885,7 s (oko\u0142o 15 minut). Neutron rozpada si\u0119 z wytworzeniem protonu, elektronu i antyneutrina elektronowego: . Jego masa spoczynkowa wynosi 1,008 664 915 78 u, czyli 1,674 927 21\u00b710-27 kg (jest nieco wi\u0119ksza od masy protonu). Antycz\u0105stk\u0105 neutronu jest antyneutron.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e2d\u6027\u5b50\uff08\u3061\u3085\u3046\u305b\u3044\u3057\u3001\uff08\u7f85: \u862d: \u72ec: \u4ecf: \u82f1: neutron\uff09\uff09\u3068\u306f\u3001\u539f\u5b50\u6838\u3092\u69cb\u6210\u3059\u308b\u7c92\u5b50\u306e\u3046\u3061\u3001\u7121\u96fb\u8377\u306e\u7c92\u5b50\u306e\u4e8b\u3067\u3001\u30d0\u30ea\u30aa\u30f3\u306e1\u7a2e\u3067\u3042\u308b\u3002\u8a18\u53f7 n \u3067\u8868\u3055\u308c\u308b\u3002\u8cea\u91cf\u6570\u306f\u539f\u5b50\u8cea\u91cf\u5358\u4f4d\u3067\u7d04 1.00867 u\u3001\u5e73\u5747\u5bff\u547d\u306f\u7d0415\u5206\u3067\u03b2\u5d29\u58ca\u3092\u8d77\u3053\u3057\u967d\u5b50\u3068\u306a\u308b\u3002\u539f\u5b50\u6838\u306f\u3001\u967d\u5b50\u3068\u4e2d\u6027\u5b50\u3068\u8a00\u30462\u7a2e\u985e\u306e\u7c92\u5b50\u306b\u3088\u3063\u3066\u69cb\u6210\u3055\u308c\u3066\u3044\u308b\u70ba\u3001\u3053\u306e2\u3064\u3092\u7dcf\u79f0\u3057\u3066\u6838\u5b50\u3068\u547c\u3076\u3002 \u539f\u5b50\u6838\u5185\u3067\u6838\u5b50\u540c\u58eb\u3092\u307e\u3068\u3081\u3066\u304a\u304f\u529b\u306b\u3064\u3044\u3066\u306f\u300c\u30d1\u30a4\u4e2d\u9593\u5b50\u300d\u3092\u53c2\u7167",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u041d\u0435\u0439\u0442\u0440\u043e\u0301\u043d (\u043e\u0442 \u043b\u0430\u0442. neuter \u2014 \u043d\u0438 \u0442\u043e\u0442, \u043d\u0438 \u0434\u0440\u0443\u0433\u043e\u0439) \u2014 \u0442\u044f\u0436\u0451\u043b\u0430\u044f \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u0440\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u0438\u0446\u0430, \u043d\u0435 \u0438\u043c\u0435\u044e\u0449\u0430\u044f \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0437\u0430\u0440\u044f\u0434\u0430. \u041d\u0435\u0439\u0442\u0440\u043e\u043d \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0444\u0435\u0440\u043c\u0438\u043e\u043d\u043e\u043c \u0438 \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u0438\u0442 \u043a \u043a\u043b\u0430\u0441\u0441\u0443 \u0431\u0430\u0440\u0438\u043e\u043d\u043e\u0432. \u041d\u0435\u0439\u0442\u0440\u043e\u043d\u044b \u0438 \u043f\u0440\u043e\u0442\u043e\u043d\u044b \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0434\u0432\u0443\u043c\u044f \u0433\u043b\u0430\u0432\u043d\u044b\u043c\u0438 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u0430\u043c\u0438 \u0430\u0442\u043e\u043c\u043d\u044b\u0445 \u044f\u0434\u0435\u0440; \u043e\u0431\u0449\u0435\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0434\u043b\u044f \u043f\u0440\u043e\u0442\u043e\u043d\u043e\u0432 \u0438 \u043d\u0435\u0439\u0442\u0440\u043e\u043d\u043e\u0432 \u2014 \u043d\u0443\u043a\u043b\u043e\u043d\u044b.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e2d\u5b50\uff08\u82f1\u6587\uff1aNeutron\uff09\u662f\u4e00\u79cd\u7535\u4e2d\u6027\u7684\u7c92\u5b50\uff0c\u5177\u6709\u4e0e\u8d28\u5b50\u5927\u7ea6\u76f8\u540c\u7684\u8d28\u91cf\u3002\u4e2d\u5b50\u5c5e\u4e8e\u91cd\u5b50\u7c7b\uff0c\u7531\u4e24\u4e2a\u4e0b\u5938\u514b\u548c\u4e00\u4e2a\u4e0a\u5938\u514b\u6784\u6210\u3002\u7edd\u5927\u591a\u6570\u7684\u539f\u5b50\u6838\u90fd\u7531\u4e2d\u5b50\u548c\u8d28\u5b50\u7ec4\u6210\uff08\u4ec5\u6709\u4e00\u79cd\u6c22\u539f\u5b50\u7684\u540c\u4f4d\u7d20\u4f8b\u5916\uff0c\u5b83\u7531\u4e00\u4e2a\u8d28\u5b50\u6784\u6210\uff09\u3002\u5728\u539f\u5b50\u6838\u5916\uff0c\u81ea\u7531\u4e2d\u5b50\u6027\u8d28\u4e0d\u7a33\u5b9a\uff0c\u5e73\u5747\u58fd\u547d\u7d04\u4e3a15\u5206\u949f\u3002\u4e2d\u5b50\u8870\u53d8\u65f6\u91ca\u653e\u4e00\u4e2a\u7535\u5b50\u548c\u4e00\u4e2a\u53cd\u4e2d\u5fae\u5b50\u800c\u6210\u4e3a\u8d28\u5b50\uff08\u03b2\u8870\u53d8\uff09\u3002\u540c\u6837\u7684\u8870\u53d8\u8fc7\u7a0b\u5728\u4e00\u4e9b\u539f\u5b50\u6838\u4e2d\u4e5f\u5b58\u5728\u3002\u539f\u5b50\u6838\u4e2d\u7684\u4e2d\u5b50\u548c\u8d28\u5b50\u53ef\u4ee5\u901a\u8fc7\u5438\u6536\u548c\u91ca\u653e\u03c0\u4ecb\u5b50\u4e92\u76f8\u8f6c\u6362\u3002\u4e2d\u5b50\u662f\u7531\u5251\u6865\u5927\u5b66\u5361\u6587\u8fea\u8bb8\u5b9e\u9a8c\u5ba4\u7684\u82f1\u56fd\u7269\u7406\u5b66\u5bb6\u8a79\u59c6\u65af\u00b7\u67e5\u5fb7\u5a01\u514b\u4e8e1932\u5e74\u53d1\u73b0\u7684\u3002 \u4ee5\u5f80\u66fe\u7d93\u5c07\u4e2d\u5b50\u5217\u70ba\u57fa\u672c\u7c92\u5b50\u7684\u4e00\u54e1\u3002\u4f46\u73fe\u4eca\u5728\u6a19\u6e96\u6a21\u578b\u7406\u8ad6\u4e0b\uff0c\u56e0\u70ba\u4e2d\u5b50\u662f\u7531\u5938\u514b\u7d44\u6210\uff0c\u6240\u4ee5\u5b83\u662f\u500b\u8907\u5408\u7c92\u5b50\u3002 \u4e2d\u5b50\u548c\u5176\u5b83\u5e38\u898b\u7684\u6b21\u539f\u5b50\u7c92\u5b50\u6700\u5927\u7684\u5206\u5225\u5728\u65bc\u4e2d\u5b50\u56e0\u5176\u4e0b\u5938\u514b\u548c\u4e0a\u5938\u514b\u4e4b\u96fb\u8377\u4e92\u76f8\u62b5\u6d88\uff0c\u672c\u8eab\u4e0d\u5e36\u96fb\u8377\u3002\u53e6\u5b83\u7a7f\u900f\u6027\u5f37\uff0c\u7121\u6cd5\u76f4\u63a5\u9032\u884c\u89c0\u5bdf\uff0c\u4e5f\u4ee4\u5b83\u5728\u6838\u8f49\u8b8a\u4e2d\u6210\u70ba\u975e\u5e38\u91cd\u8981\u7684\u5a92\u4ecb\u7269\u3002\u9019\u5169\u9805\u56e0\u7d20\u4f7f\u5f97\u5b83\u5728\u6b21\u539f\u5b50\u7c92\u5b50\u767c\u5c55\u6b77\u53f2\u7684\u8f03\u5f8c\u671f\u624d\u88ab\u767c\u73fe\u3002 \u96d6\u7136\u7ec4\u6210\u7269\u8d28\u7684\u539f\u5b50\u5728\u6b63\u5e38\u60c5\u6cc1\u4e0b\u4e0d\u5e36\u96fb\u8377\uff0c\u4f46\u539f\u5b50\u6bd4\u4e2d\u5b50\u5927\u4e00\u842c\u500d\uff0c\u662f\u7531\u5e36\u8ca0\u96fb\u7684\u96fb\u5b50\u570d\u7e5e\u5e36\u6b63\u96fb\u7684\u539f\u5b50\u6838\u904b\u884c\u800c\u5f62\u6210\u7684\u8907\u96dc\u7cfb\u7d71\u3002\u5e36\u96fb\u7c92\u5b50\uff08\u5982\u8cea\u5b50\uff0c\u96fb\u5b50\uff0c\u6216\u96e2\u5b50\uff09\u548c\u96fb\u78c1\u6ce2\uff08\u5982\u4f3d\u746a\u5c04\u7dda\uff09\u90fd\u6703\u5728\u7a7f\u900f\u7269\u8cea\u6642\u6d88\u8017\u80fd\u91cf\uff0c\u5f62\u5f0f\u662f\u5c07\u6240\u7a7f\u900f\u7269\u8cea\u96e2\u5b50\u5316\u3002\u5e36\u96fb\u7c92\u5b50\u6703\u56e0\u6b64\u800c\u6162\u4e0b\u4f86\uff0c\u96fb\u78c1\u6ce2\u5219\u6703\u88ab\u6240\u7a7f\u900f\u7269\u8cea\u5438\u6536\u3002\u4e2d\u5b50\u7684\u60c5\u6cc1\u622a\u7136\u4e0d\u540c\uff0c\u5b83\u53ea\u6703\u5728\u8207\u539f\u5b50\u6838\u8fd1\u8ddd\u96e2\u63a5\u89f8\u6642\u53d7\u5f3a\u76f8\u4e92\u4f5c\u7528\u6216\u5f31\u76f8\u4e92\u4f5c\u7528\u5f71\u97ff\uff1a\u7d50\u679c\u4e00\u500b\u81ea\u7531\u4e2d\u5b50\u5728\u8207\u539f\u5b50\u6838\u76f4\u63a5\u78b0\u649e\u524d\u4e0d\u53d7\u4efb\u4f55\u5916\u529b\u5f71\u97ff\u3002\u56e0\u70ba\u539f\u5b50\u6838\u592a\u5c0f\uff0c\u78b0\u649e\u6a5f\u6703\u6975\u5c11\uff0c\u56e0\u6b64\u81ea\u7531\u4e2d\u5b50\u6703\u5728\u4e00\u6bb5\u6975\u9577\u7684\u8ddd\u96e2\u4fdd\u6301\u4e0d\u8b8a\u3002 \u81ea\u7531\u4e2d\u5b50\u548c\u539f\u5b50\u6838\u7684\u78b0\u649e\u662f\u5f48\u6027\u78b0\u649e\uff0c\u5176\u9075\u5faa\u5de8\u89c0\u4e0b\u5169\u5c0f\u7403\u5f48\u6027\u78b0\u649e\u6642\u7684\u52d5\u91cf\u6cd5\u5247\u3002\u7576\u88ab\u78b0\u649e\u7684\u539f\u5b50\u6838\u5f88\u91cd\u6642\uff0c\u539f\u5b50\u6838\u53ea\u6703\u6709\u5f88\u5c0f\u7684\u901f\u5ea6\uff1b\u4f46\u662f\uff0c\u82e5\u662f\u78b0\u649e\u7684\u5c0d\u8c61\u662f\u548c\u4e2d\u5b50\u8cea\u91cf\u5dee\u4e0d\u591a\u8cea\u5b50\uff0c\u5247\u8cea\u5b50\u548c\u4e2d\u5b50\u6703\u4ee5\u5e7e\u4e4e\u76f8\u540c\u7684\u901f\u5ea6\u98db\u51fa\u3002\u9019\u985e\u7684\u78b0\u649e\u5c07\u6703\u56e0\u70ba\u88fd\u9020\u51fa\u7684\u96e2\u5b50\u800c\u88ab\u5075\u6e2c\u5230\u3002 \u4e2d\u5b50\u7684\u96fb\u4e2d\u6027\u8b93\u5b83\u4e0d\u50c5\u5f88\u96e3\u5075\u6e2c\uff0c\u4e5f\u5f88\u96e3\u88ab\u63a7\u5236\u3002\u96fb\u4e2d\u6027\u4f7f\u5f97\u6211\u5011\u7121\u6cd5\u4ee5\u96fb\u78c1\u5834\u4f86\u52a0\u901f\u3001\u6e1b\u901f\u6216\u662f\u675f\u7e1b\u4e2d\u5b50\u3002\u81ea\u7531\u4e2d\u5b50\u50c5\u5c0d\u78c1\u5834\u6709\u5f88\u5fae\u5f31\u7684\u4f5c\u7528\uff08\u56e0\u70ba\u4e2d\u5b50\u5b58\u5728\u78c1\u77e9\uff09\u3002\u771f\u6b63\u80fd\u6709\u6548\u63a7\u5236\u4e2d\u5b50\u7684\u53ea\u6709\u6838\u4f5c\u7528\u529b\u3002\u6211\u5011\u552f\u4e00\u80fd\u63a7\u5236\u81ea\u7531\u4e2d\u5b50\u904b\u52d5\u7684\u65b9\u5f0f\u53ea\u662f\u653e\u7f6e\u539f\u5b50\u6838\u5806\u5728\u5b83\u5011\u7684\u904b\u52d5\u8def\u5f91\u4e0a\uff0c\u8b93\u4e2d\u5b50\u548c\u539f\u5b50\u6838\u78b0\u649e\u85c9\u4ee5\u5438\u6536\u4e4b\u3002\u9019\u7a2e\u4ee5\u4e2d\u5b50\u649e\u64ca\u539f\u5b50\u6838\u7684\u53cd\u61c9\u5728\u6838\u53cd\u61c9\u4e2d\u626e\u6f14\u91cd\u8981\u89d2\u8272\uff0c\u4e5f\u662f\u6838\u5b50\u6b66\u5668\u904b\u4f5c\u7684\u539f\u7406\u3002\u81ea\u7531\u4e2d\u5b50\u5247\u53ef\u7531\u6838\u8870\u8b8a\u3001\u6838\u53cd\u61c9\u6216\u9ad8\u80fd\u53cd\u61c9\u7b49\u4e2d\u5b50\u6e90\u7522\u751f\u3002 \u7269\u7406\u5b66\u4e2d\u6709\u4e13\u95e8\u7684\u4e2d\u5b50\u5b66\u3001\u4e2d\u5b50\u7269\u7406\u5b66\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Quark_structure_neutron.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743703890,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 21272,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/magneticMoment": [
+            {
+                "type": "literal",
+                "value": "J\u00b7T\u22121",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/date": [
+            {
+                "type": "literal",
+                "value": "May 2015",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Particle"
+            }
+        ],
+        "http://dbpedia.org/property/classification": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Baryon"
+            }
+        ],
+        "http://dbpedia.org/property/parity": [
+            {
+                "type": "literal",
+                "value": "+1",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/theorized": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ernest_Rutherford"
+            }
+        ],
+        "http://dbpedia.org/property/condensedSymmetries": [
+            {
+                "type": "literal",
+                "value": "I =",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/electricDipoleMoment": [
+            {
+                "type": "literal",
+                "value": "<",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Absolutely_(ABC_album)": {
+        "http://dbpedia.org/ontology/recordLabel": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sodern": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Neutron_spin_echo": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fusion_neutron": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nuetron": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Neutron": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Neutron_mass": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nutron": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unineutron": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ISIS_neutron_source": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mononeutron": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/J._M._Robson": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Free_neutron": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Neutron_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bragg_Institute": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electron": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Neutrino": {
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pakistan_Institute_of_Nuclear_Science_and_Technology": {
+        "http://dbpedia.org/property/data": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vladimir_Lobashev": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Antineutron": {
+        "http://dbpedia.org/property/particle": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Neutrons": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Neutron_backscattering": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Neutronium-1": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N\u2070": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Free_Neutron": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Neurtron": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Prompt_neutron": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Delayed_neutron": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Neutron_(physics)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron"
+            }
+        ]
+    }
+}

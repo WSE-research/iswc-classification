@@ -1,0 +1,37 @@
+{
+    "@text": "What kid of Francis I of Austria was born in Vienna?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Francis_I_of_France",
+            "@support": "2361",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Francis I",
+            "@offset": "12",
+            "@similarityScore": "0.8326450792529979",
+            "@percentageOfSecondRank": "0.20064757005487205"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Austria",
+            "@support": "51113",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Austria",
+            "@offset": "25",
+            "@similarityScore": "0.9964301410854263",
+            "@percentageOfSecondRank": "0.0011716350575375653"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Vienna",
+            "@support": "49805",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Vienna",
+            "@offset": "45",
+            "@similarityScore": "0.999507008198528",
+            "@percentageOfSecondRank": "4.7731609297343866E-4"
+        }
+    ]
+}

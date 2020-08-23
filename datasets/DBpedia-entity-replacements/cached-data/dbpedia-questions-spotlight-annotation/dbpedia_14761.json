@@ -1,0 +1,46 @@
+{
+    "@text": "Which is the Smithsonian American Art Museum: person/institution thesaurus ID for Antoine Watteau?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Smithsonian_Institution",
+            "@support": "9122",
+            "@types": "Wikidata:Q41176,Wikidata:Q33506,Schema:Place,DBpedia:Place,DBpedia:Museum,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Smithsonian",
+            "@offset": "13",
+            "@similarityScore": "0.997335085651538",
+            "@percentageOfSecondRank": "0.0026500784357317833"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "American",
+            "@offset": "25",
+            "@similarityScore": "0.99864409157677",
+            "@percentageOfSecondRank": "0.0011736060871577211"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Thesaurus",
+            "@support": "338",
+            "@types": "",
+            "@surfaceForm": "thesaurus",
+            "@offset": "65",
+            "@similarityScore": "0.9999999951787402",
+            "@percentageOfSecondRank": "4.820594173902722E-9"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Jean-Antoine_Watteau",
+            "@support": "447",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Antoine Watteau",
+            "@offset": "82",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

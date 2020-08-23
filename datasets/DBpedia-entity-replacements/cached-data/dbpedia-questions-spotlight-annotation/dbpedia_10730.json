@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the medication that is found in taxon of Homo Sapiens and contains the word tyrosine in it's name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "41",
+            "@similarityScore": "0.999022488306408",
+            "@percentageOfSecondRank": "9.781732532452836E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Homo_sapiens",
+            "@support": "2122",
+            "@types": "",
+            "@surfaceForm": "Homo Sapiens",
+            "@offset": "50",
+            "@similarityScore": "0.9999999999227072",
+            "@percentageOfSecondRank": "2.7281100472528848E-11"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tyrosine",
+            "@support": "1720",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "tyrosine",
+            "@offset": "85",
+            "@similarityScore": "0.9999970743292318",
+            "@percentageOfSecondRank": "2.912982001642554E-6"
+        }
+    ]
+}

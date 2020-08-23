@@ -1,0 +1,28 @@
+{
+    "@text": "Give me the count of interests of the philosopher whose primary interest is Metaphysics ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Philosopher",
+            "@support": "5914",
+            "@types": "",
+            "@surfaceForm": "philosopher",
+            "@offset": "38",
+            "@similarityScore": "0.7249802772781833",
+            "@percentageOfSecondRank": "0.3761807405817924"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Metaphysics",
+            "@support": "3546",
+            "@types": "",
+            "@surfaceForm": "Metaphysics",
+            "@offset": "76",
+            "@similarityScore": "0.9999921790112319",
+            "@percentageOfSecondRank": "3.2911872164027465E-6"
+        }
+    ]
+}

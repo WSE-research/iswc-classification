@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the British Museum person-institution for Henry Lawson?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/British_Museum",
+            "@support": "11394",
+            "@types": "Wikidata:Q41176,Wikidata:Q33506,Schema:Place,DBpedia:Place,DBpedia:Museum,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "British Museum",
+            "@offset": "13",
+            "@similarityScore": "0.9996987880912724",
+            "@percentageOfSecondRank": "2.968297747119022E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Henry_Lawson",
+            "@support": "592",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Henry Lawson",
+            "@offset": "51",
+            "@similarityScore": "0.9999999999999147",
+            "@percentageOfSecondRank": "7.991006467468657E-14"
+        }
+    ]
+}

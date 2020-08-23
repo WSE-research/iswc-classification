@@ -1,0 +1,37 @@
+{
+    "@text": "Which sitcom's company is Paramount Television and is located in Cheers Beacon hill ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Sitcom",
+            "@support": "10090",
+            "@types": "",
+            "@surfaceForm": "sitcom",
+            "@offset": "6",
+            "@similarityScore": "0.9998082730919856",
+            "@percentageOfSecondRank": "1.3747844427361395E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Paramount_Television",
+            "@support": "500",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Paramount Television",
+            "@offset": "26",
+            "@similarityScore": "0.9982954934765943",
+            "@percentageOfSecondRank": "0.0016582518794549129"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cheers_Beacon_Hill",
+            "@support": "46",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Cheers Beacon hill",
+            "@offset": "65",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

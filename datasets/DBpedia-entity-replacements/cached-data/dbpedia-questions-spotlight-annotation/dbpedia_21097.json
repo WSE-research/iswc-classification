@@ -1,0 +1,46 @@
+{
+    "@text": "What is the hub airport of Pawan Hans, and is also the largest city of India?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Airline_hub",
+            "@support": "1071",
+            "@types": "",
+            "@surfaceForm": "hub airport",
+            "@offset": "12",
+            "@similarityScore": "0.9999999999997158",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Pawan_Hans",
+            "@support": "88",
+            "@types": "Wikidata:Q46970,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline,DBpedia:Agent",
+            "@surfaceForm": "Pawan Hans",
+            "@offset": "27",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "63",
+            "@similarityScore": "0.8912873210964203",
+            "@percentageOfSecondRank": "0.08100011745932408"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/India",
+            "@support": "281440",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "India",
+            "@offset": "71",
+            "@similarityScore": "0.999687424637838",
+            "@percentageOfSecondRank": "2.7869001651080954E-4"
+        }
+    ]
+}

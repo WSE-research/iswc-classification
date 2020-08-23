@@ -1,0 +1,28 @@
+{
+    "@text": "What state of Germany owns the copyright of Mein Kampf ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Germany",
+            "@support": "216576",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Germany",
+            "@offset": "14",
+            "@similarityScore": "0.9882264780559871",
+            "@percentageOfSecondRank": "0.010410305169226055"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mein_Kampf",
+            "@support": "1002",
+            "@types": "Wikidata:Q571,Wikidata:Q386724,Schema:CreativeWork,Schema:Book,Http://purl.org/ontology/bibo/Book,DBpedia:WrittenWork,DBpedia:Work,DBpedia:Book",
+            "@surfaceForm": "Mein Kampf",
+            "@offset": "44",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Name a military unit whose command structure is United States Department of the Navy and garrison is Arlington County, Virginia?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "48",
+            "@similarityScore": "0.9999649180427065",
+            "@percentageOfSecondRank": "2.6562309685804227E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States_Navy",
+            "@support": "56101",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q176799,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:MilitaryUnit,DBpedia:Agent",
+            "@surfaceForm": "Navy",
+            "@offset": "80",
+            "@similarityScore": "0.9906661710227128",
+            "@percentageOfSecondRank": "0.0031372050845698473"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Virginia",
+            "@support": "84030",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Virginia",
+            "@offset": "119",
+            "@similarityScore": "0.9996734771718894",
+            "@percentageOfSecondRank": "1.2542257511494458E-4"
+        }
+    ]
+}

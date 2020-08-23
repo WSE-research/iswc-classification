@@ -1,0 +1,46 @@
+{
+    "@text": "Did Nancy Pelosi participated in the Inauguration of John F. Kennedy and efforts to impeach George W. Bush?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Nancy_Pelosi",
+            "@support": "1108",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Nancy Pelosi",
+            "@offset": "4",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/John_F._Kennedy",
+            "@support": "10945",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Kennedy",
+            "@offset": "61",
+            "@similarityScore": "0.9994947478725029",
+            "@percentageOfSecondRank": "3.8681088285577754E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Impeachment",
+            "@support": "2057",
+            "@types": "",
+            "@surfaceForm": "impeach",
+            "@offset": "84",
+            "@similarityScore": "0.7100968430250729",
+            "@percentageOfSecondRank": "0.4082408994483438"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/George_W._Bush",
+            "@support": "20141",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q30461,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:President,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Bush",
+            "@offset": "102",
+            "@similarityScore": "0.9913392924319671",
+            "@percentageOfSecondRank": "0.008188606065647891"
+        }
+    ]
+}

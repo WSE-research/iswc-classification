@@ -1,0 +1,37 @@
+{
+    "@text": "What city is twinned to Los Angeles and contains the word \" Vancouver\" in its name",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "5",
+            "@similarityScore": "0.9502665116701237",
+            "@percentageOfSecondRank": "0.026899703096243763"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Los_Angeles",
+            "@support": "110438",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Los Angeles",
+            "@offset": "24",
+            "@similarityScore": "0.9997953639555086",
+            "@percentageOfSecondRank": "1.1760087916135952E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Vancouver",
+            "@support": "36352",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Vancouver",
+            "@offset": "60",
+            "@similarityScore": "0.9994522275190687",
+            "@percentageOfSecondRank": "3.0533776549745994E-4"
+        }
+    ]
+}

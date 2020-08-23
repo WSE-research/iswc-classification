@@ -1,0 +1,732 @@
+{
+    "http://dbpedia.org/resource/Operating_system": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Software"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Operating system",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u64cd\u4f5c\u7cfb\u7edf",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Sistema operativo",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Sistema operativo",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Besturingssysteem",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Sistema operativo",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Betriebssystem",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0646\u0638\u0627\u0645 \u062a\u0634\u063a\u064a\u0644",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "System operacyjny",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Syst\u00e8me d'exploitation",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u64cd\u4f5c\u7cfb\u7edf\uff08\u82f1\u8bed\uff1aoperating system\uff0c\u7e2e\u5beb\uff1aOS\uff09\u662f\u7ba1\u7406\u8ba1\u7b97\u673a\u786c\u4ef6\u8207\u8f6f\u4ef6\u8cc7\u6e90\u7684\u8ba1\u7b97\u673a\u7a0b\u5e8f\uff0c\u540c\u65f6\u4e5f\u662f\u8ba1\u7b97\u673a\u7cfb\u7edf\u7684\u6838\u5fc3\u4e0e\u57fa\u77f3\u3002\u64cd\u4f5c\u7cfb\u7edf\u9700\u8981\u5904\u7406\u5982\u7ba1\u7406\u8207\u914d\u7f6e\u5185\u5b58\u3001\u6c7a\u5b9a\u7cfb\u7d71\u8cc7\u6e90\u4f9b\u9700\u7684\u512a\u5148\u6b21\u5e8f\u3001\u63a7\u5236\u8f38\u5165\u8207\u8f38\u51fa\u88dd\u7f6e\u3001\u64cd\u4f5c\u7f51\u7edc\u8207\u7ba1\u7406\u6587\u4ef6\u7cfb\u7edf\u7b49\u57fa\u672c\u4e8b\u52d9\u3002\u64cd\u4f5c\u7cfb\u7edf\u4e5f\u63d0\u4f9b\u4e00\u500b\u8b93\u4f7f\u7528\u8005\u8207\u7cfb\u7d71\u4e92\u52d5\u7684\u64cd\u4f5c\u754c\u9762\u3002 \u64cd\u4f5c\u7cfb\u7edf\u7684\u578b\u614b\u975e\u5e38\u591a\u6a23\uff0c\u4e0d\u540c\u6a5f\u5668\u5b89\u88dd\u7684\u64cd\u4f5c\u7cfb\u7edf\u53ef\u5f9e\u7c21\u55ae\u5230\u8907\u96dc\uff0c\u53ef\u5f9e\u975e\u667a\u6167\u578b\u624b\u6a5f\u7684\u5d4c\u5165\u5f0f\u7cfb\u7edf\u5230\u8d85\u7d1a\u96fb\u8166\u7684\u5927\u578b\u4f5c\u696d\u7cfb\u7d71\u3002\u8a31\u591a\u64cd\u4f5c\u7cfb\u7edf\u88fd\u9020\u8005\u5c0d\u5b83\u6db5\u76d6\u8303\u7574\u7684\u5b9a\u4e49\u4e5f\u4e0d\u5c3d\u4e00\u81f4\uff0c\u4f8b\u5982\u6709\u4e9b\u64cd\u4f5c\u7cfb\u7edf\u6574\u5408\u4e86\u56fe\u5f62\u7528\u6237\u754c\u9762\uff0c\u800c\u6709\u4e9b\u50c5\u4f7f\u7528\u547d\u4ee4\u884c\u754c\u9762\uff0c\u800c\u5c07\u56fe\u5f62\u7528\u6237\u754c\u9762\u8996\u70ba\u4e00\u7a2e\u975e\u5fc5\u8981\u7684\u61c9\u7528\u7a0b\u5f0f\u3002 \u64cd\u4f5c\u7cfb\u7edf\u7406\u8bba\u5728\u8ba1\u7b97\u673a\u79d1\u5b66\u4e2d\uff0c\u70ba\u6b77\u53f2\u60a0\u4e45\u800c\u53c8\u6d3b\u8dc3\u7684\u5206\u652f\uff1b\u800c\u64cd\u4f5c\u7cfb\u7edf\u7684\u8bbe\u8ba1\u4e0e\u5b9e\u73b0\u5219\u662f\u8f6f\u4ef6\u5de5\u4e1a\u7684\u57fa\u7840\u4e0e\u6838\u5fc3\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "An operating system (OS) is system software that manages computer hardware and software resources and provides common services for computer programs. All computer programs, excluding firmware, require an operating system to function. Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, printing, and other resources.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "En informatique, un syst\u00e8me d'exploitation (souvent appel\u00e9 OS pour Operating System, le terme anglophone) est un ensemble de programmes qui dirige l'utilisation des capacit\u00e9s d'un ordinateur par des logiciels applicatifs. Il re\u00e7oit des demandes d'utilisation des capacit\u00e9s de l'ordinateur - capacit\u00e9 de stockage des m\u00e9moires et des disques durs, capacit\u00e9 de calcul du processeur, capacit\u00e9s de communication vers des p\u00e9riph\u00e9riques ou via le r\u00e9seau - de la part des logiciels applicatifs. Le syst\u00e8me d'exploitation accepte ou refuse ces demandes, puis r\u00e9serve les ressources en question pour \u00e9viter que leur utilisation n'interf\u00e8re avec d'autres demandes provenant d'autres logiciels.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Betriebssystem ist eine Zusammenstellung von Computerprogrammen, die die Systemressourcen eines Computers wie Arbeitsspeicher, Festplatten, Ein- und Ausgabeger\u00e4te verwaltet und diese Anwendungsprogrammen zur Verf\u00fcgung stellt.Das Betriebssystem bildet dadurch die Schnittstelle zwischen den Hardware-Komponenten und der Anwendungssoftware des Benutzers. Betriebssysteme bestehen in der Regel aus einem Kernel (deutsch: Kern), der die Hardware des Computers verwaltet, sowie speziellen Programmen, die beim Start unterschiedliche Aufgaben \u00fcbernehmen. Zu diesen Aufgaben geh\u00f6rt unter anderem das Laden von Ger\u00e4tetreibern. Betriebssysteme finden sich in fast allen Arten von Computern: Als Echtzeitbetriebssysteme auf Prozessrechnern und Eingebetteten Systemen, auf Personal Computern, Tablet Compute",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Un sistema operativo (SO o, frecuentemente, OS \u2014del ingl\u00e9s operating system\u2014) es un programa o conjunto de programas de un sistema inform\u00e1tico que gestiona los recursos de hardware y provee servicios a los programas de aplicaci\u00f3n de software, ejecut\u00e1ndose en modo privilegiado respecto de los restantes (aunque puede que parte de \u00e9l se ejecute en espacio de usuario).",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Een besturingssysteem (ook wel: bedrijfssysteem, in het Engels operating system of afgekort OS) is een programma (meestal een geheel van samenwerkende programma's) dat na het opstarten van een computer in het geheugen geladen wordt en de hardware aanstuurt. Het fungeert als een medium tussen de hardware en de computergebruiker met als opzet dat de gebruiker programma's op een gemakkelijke en/of effici\u00ebnte manier kan uitvoeren.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Sistema operativo (portugu\u00eas europeu) ou operacional (portugu\u00eas brasileiro) (em ingl\u00eas: Operating System - OS) \u00e9 um programa ou um conjunto de programas cuja fun\u00e7\u00e3o \u00e9 gerenciar os recursos do sistema (definir qual programa recebe aten\u00e7\u00e3o do processador, gerenciar mem\u00f3ria, criar um sistema de arquivos, etc.), fornecendo uma interface entre o computador e o usu\u00e1rio. Embora possa ser executado imediatamente ap\u00f3s a m\u00e1quina ser ligada, a maioria dos computadores pessoais de hoje o executa atrav\u00e9s de outro programa armazenado em uma mem\u00f3ria n\u00e3o-vol\u00e1til ROM chamado BIOS num processo chamado \"bootstrapping\", conceito em ingl\u00eas usado para designar processos auto-sustent\u00e1veis, ou seja, capazes de prosseguirem sem ajuda externa. Ap\u00f3s executar testes e iniciar os componentes da m\u00e1quina (monitores, dis",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "System operacyjny (ang. operating system, skr\u00f3t OS) \u2013 oprogramowanie zarz\u0105dzaj\u0105ce systemem komputerowym, tworz\u0105ce \u015brodowisko do uruchamiania i kontroli zada\u0144 u\u017cytkownika. W celu uruchamiania i kontroli zada\u0144 u\u017cytkownika system operacyjny zajmuje si\u0119: \n*  planowaniem oraz przydzia\u0142em czasu procesora poszczeg\u00f3lnym zadaniom, \n*  kontrol\u0105 i przydzia\u0142em pami\u0119ci operacyjnej dla uruchomionych zada\u0144, \n*  dostarcza mechanizmy do synchronizacji zada\u0144 i komunikacji pomi\u0119dzy zadaniami, \n*  obs\u0142uguje sprz\u0119t oraz zapewnia r\u00f3wnolegle wykonywanym zadaniom jednolity, wolny od interferencji dost\u0119p do sprz\u0119tu.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0\uff08\u82f1\uff1aOperating System, OS\uff09\u3068\u306f\u3001\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u306b\u304a\u3044\u3066\u3001\u30cf\u30fc\u30c9\u30a6\u30a7\u30a2\u3092\u6a5f\u80fd\u6bce\u306b\u62bd\u8c61\u5316\u3057\u305f\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30fc\u30b9\u3092\u5229\u7528\u8005\u307e\u305f\u306f\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u306b\u63d0\u4f9b\u3059\u308b\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30d7\u30ed\u30b0\u30e9\u30e0\u3067\u3042\u308b\u3002\u4e3b\u306b\u3001\u4e0e\u3048\u3089\u308c\u305f\u30cf\u30fc\u30c9\u30a6\u30a7\u30a2\u30ea\u30bd\u30fc\u30b9\u3092\u7121\u99c4\u306a\u304f\u7c21\u6613\u306b\u5229\u7528\u53ef\u80fd\u306b\u3059\u308b\u3053\u3068\u306b\u91cd\u70b9\u304c\u7f6e\u304b\u308c\u3066\u3044\u308b\u3002\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u306b\u5bfe\u3057\u3066\u3001\u5b9f\u884c\u306e\u305f\u3081\u306e\u30cf\u30fc\u30c9\u30a6\u30a7\u30a2\u30ea\u30bd\u30fc\u30b9\u3092\u63d0\u4f9b\u3059\u308b\u30b7\u30b9\u30c6\u30e0\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u306e\u4e00\u7a2e\u306b\u5206\u985e\u3055\u308c\u308b\u3002\u30de\u30b9\u30b3\u30df\u306a\u3069\u306f\u65e5\u672c\u8a9e\u8a33\u3068\u3057\u3066\u300c\u57fa\u672c\u30bd\u30d5\u30c8\u300d\u3092\u4f7f\u3063\u3066\u3044\u308b\u304c\u3001\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3092\u6307\u3059\u300c\u5fdc\u7528\u30bd\u30d5\u30c8\u300d\u3068\u5bfe\u306b\u306a\u3063\u3066\u3044\u308b\u3060\u3051\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0634\u063a\u064a\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Operating System \u0648 \u062a\u062e\u062a\u0635\u0631 \u0625\u0644\u0649 OS) \u0647\u0648 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0628\u0631\u0645\u062c\u064a\u0627\u062a \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u0629 \u0639\u0646 \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0648\u0627\u0631\u062f (\u0639\u062a\u0627\u062f \u0627\u0644\u062d\u0627\u0633\u0648\u0628)\u060c \u0648\u0628\u0631\u0645\u062c\u064a\u0627\u062a \u0627\u0644\u062d\u0627\u0633\u0648\u0628\u060c \u0648\u064a\u0645\u062b\u0644 \u0648\u0633\u064a\u0637 \u0628\u064a\u0646 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u060c \u0648\u0639\u062a\u0627\u062f \u0627\u0644\u062d\u0627\u0633\u0648\u0628\u060c \u0648\u064a\u0645\u0643\u0646 \u0627\u0644\u0642\u0648\u0644 \u0623\u0646\u0647 \u062c\u0633\u0631 \u0644\u062a\u0634\u063a\u064a\u0644 \u0628\u0631\u0627\u0645\u062c \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645. \u064a\u0642\u0648\u0645 \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0634\u063a\u064a\u0644 \u0628\u0627\u0644\u0645\u0647\u0627\u0645 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629 \u0645\u062b\u0644: \u0625\u062f\u0627\u0631\u0629 \u0648\u062a\u062e\u0635\u064a\u0635 \u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 (\u0627\u0644\u0630\u0627\u0643\u0631\u0629\u060c \u0627\u0644\u0642\u0631\u0635 \u0627\u0644\u0635\u0644\u0628\u060c \u0627\u0644\u0648\u0635\u0648\u0644 \u0644\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0645\u0644\u062d\u0642\u0629 \u0625\u0644\u062e...)\u060c \u062a\u0631\u062a\u064a\u0628 \u0623\u0648\u0644\u0648\u064a\u0629 \u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0623\u0648\u0627\u0645\u0631\u060c \u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0625\u062f\u062e\u0627\u0644\u060c \u0648\u0627\u0644\u0625\u062e\u0631\u0627\u062c \u0645\u062b\u0644: \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0641\u0627\u062a\u064a\u062d\u060c \u0644\u062a\u0633\u0647\u064a\u0644 \u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0634\u0628\u0643\u0627\u062a\u060c \u0648\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0644\u0641\u0627\u062a.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Un sistema operativo (abbreviato in SO, in lingua inglese OS, \"operating system\"), in informatica, \u00e8 un insieme di componenti software, che rende operativi (da cui il nome) computer, apparati e dispositivi informatici. Esempi di sistemi operativi sono l'MS DOS (ormai obsoleto), Windows, Mac OS, le distribuzioni GNU/Linux, i sistemi Unix-like, BSD, e poi Android, iOS e Windows Phone per smartphone.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u0301\u043d\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u0301\u043c\u0430, \u0441\u043e\u043a\u0440. \u041e\u0421 (\u0430\u043d\u0433\u043b. operating system, OS) \u2014 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u0432\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c, \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0440\u0435\u0441\u0443\u0440\u0441\u0430\u043c\u0438 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430 \u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0441 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u043c. \u0412 \u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435 \u0442\u0438\u043f\u0438\u0447\u043d\u043e\u0439 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043c\u0435\u0436\u0434\u0443 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430\u043c\u0438 \u0441 \u0438\u0445 \u043c\u0438\u043a\u0440\u043e\u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u043e\u0439, \u043c\u0430\u0448\u0438\u043d\u043d\u044b\u043c \u044f\u0437\u044b\u043a\u043e\u043c \u0438, \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c\u0438 (\u0432\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u043c\u0438) \u043c\u0438\u043a\u0440\u043e\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u043c\u0438 (\u0434\u0440\u0430\u0439\u0432\u0435\u0440\u0430\u043c\u0438) \u2014 \u0441 \u043e\u0434\u043d\u043e\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u2014 \u0438 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u044b\u043c\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u043c\u0438 \u0441 \u0434\u0440\u0443\u0433\u043e\u0439.",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hobbyist_operating_system_development"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/History_of_IBM_mainframe_operating_systems"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Resident_monitor"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q9135"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Syst\u00e8me_d'exploitation"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4006216-8"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Sistema_operativo"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Sistema_operativo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Sistem_operasi"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Sistema_eragile"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Betriebssystem"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Sistema_operativo"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/System_operacyjny"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Besturingssysteem"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Opera\u010dn\u00ed_syst\u00e9m"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc6b4\uc601_\uccb4\uc81c"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.05khh"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039b\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03b9\u03ba\u03cc_\u03c3\u03cd\u03c3\u03c4\u03b7\u03bc\u03b1"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q9135"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Operating_systems"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Operating_system"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Operating_system?oldid=742458002"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.research.ibm.com/journal/rd/255/auslander.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://pages.cs.wisc.edu/~remzi/OSTEP/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cbi.umn.edu/iterations/haigh.html"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "En informatique, un syst\u00e8me d'exploitation (souvent appel\u00e9 OS pour Operating System, le terme anglophone) est un ensemble de programmes qui dirige l'utilisation des capacit\u00e9s d'un ordinateur par des logiciels applicatifs. Il re\u00e7oit des demandes d'utilisation des capacit\u00e9s de l'ordinateur - capacit\u00e9 de stockage des m\u00e9moires et des disques durs, capacit\u00e9 de calcul du processeur, capacit\u00e9s de communication vers des p\u00e9riph\u00e9riques ou via le r\u00e9seau - de la part des logiciels applicatifs. Le syst\u00e8me d'exploitation accepte ou refuse ces demandes, puis r\u00e9serve les ressources en question pour \u00e9viter que leur utilisation n'interf\u00e8re avec d'autres demandes provenant d'autres logiciels. Le syst\u00e8me d'exploitation est le premier programme ex\u00e9cut\u00e9 lors de la mise en marche de l'ordinateur, apr\u00e8s l\u2019amor\u00e7age. Il offre une suite de services g\u00e9n\u00e9raux facilitant la cr\u00e9ation de logiciels applicatifs et sert d'interm\u00e9diaire entre ces logiciels et le mat\u00e9riel informatique. Un syst\u00e8me d'exploitation apporte commodit\u00e9, efficacit\u00e9 et capacit\u00e9 d'\u00e9volution, permettant d'introduire de nouvelles fonctions et du nouveau mat\u00e9riel sans remettre en cause les logiciels. Il existe sur le march\u00e9 des dizaines de syst\u00e8mes d'exploitation diff\u00e9rents, souvent livr\u00e9s avec l'appareil informatique. C'est le cas de Windows, Mac OS, Irix, Symbian OS, Linux (pour lequel il existe de nombreuses distributions) ou Android. Les fonctionnalit\u00e9s offertes diff\u00e8rent d'un mod\u00e8le \u00e0 l'autre et sont typiquement en rapport avec l'ex\u00e9cution des programmes, l'utilisation de la m\u00e9moire centrale ou des p\u00e9riph\u00e9riques, la manipulation des syst\u00e8mes de fichiers, la communication, ou la d\u00e9tection d'erreurs. La d\u00e9finition des syst\u00e8mes d'exploitation est rendue floue par le fait que les vendeurs de ces produits consid\u00e8rent le syst\u00e8me d'exploitation comme \u00e9tant la totalit\u00e9 du contenu de leur produit, y compris les vid\u00e9os, les images et les logiciels applicatifs l'accompagnant. En 2012, les deux familles de syst\u00e8mes d'exploitation les plus populaires sont Unix (dont OS X, GNU/Linux, iOS et Android) et Windows. Cette derni\u00e8re d\u00e9tient un quasi-monopole sur les ordinateurs personnels avec pr\u00e8s de 90 % de part de march\u00e9 depuis 15 ans.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "System operacyjny (ang. operating system, skr\u00f3t OS) \u2013 oprogramowanie zarz\u0105dzaj\u0105ce systemem komputerowym, tworz\u0105ce \u015brodowisko do uruchamiania i kontroli zada\u0144 u\u017cytkownika. W celu uruchamiania i kontroli zada\u0144 u\u017cytkownika system operacyjny zajmuje si\u0119: \n*  planowaniem oraz przydzia\u0142em czasu procesora poszczeg\u00f3lnym zadaniom, \n*  kontrol\u0105 i przydzia\u0142em pami\u0119ci operacyjnej dla uruchomionych zada\u0144, \n*  dostarcza mechanizmy do synchronizacji zada\u0144 i komunikacji pomi\u0119dzy zadaniami, \n*  obs\u0142uguje sprz\u0119t oraz zapewnia r\u00f3wnolegle wykonywanym zadaniom jednolity, wolny od interferencji dost\u0119p do sprz\u0119tu. Dodatkowe przyk\u0142adowe zadania, kt\u00f3rymi mo\u017ce, ale nie musi, zajmowa\u0107 si\u0119 system operacyjny to: \n*  ustalanie po\u0142\u0105cze\u0144 sieciowych \n*  zarz\u0105dzanie plikami. Wiele system\u00f3w operacyjnych posiada \u015brodowiska graficzne u\u0142atwiaj\u0105ce komunikacje maszyny z u\u017cytkownikiem.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Betriebssystem ist eine Zusammenstellung von Computerprogrammen, die die Systemressourcen eines Computers wie Arbeitsspeicher, Festplatten, Ein- und Ausgabeger\u00e4te verwaltet und diese Anwendungsprogrammen zur Verf\u00fcgung stellt.Das Betriebssystem bildet dadurch die Schnittstelle zwischen den Hardware-Komponenten und der Anwendungssoftware des Benutzers. Betriebssysteme bestehen in der Regel aus einem Kernel (deutsch: Kern), der die Hardware des Computers verwaltet, sowie speziellen Programmen, die beim Start unterschiedliche Aufgaben \u00fcbernehmen. Zu diesen Aufgaben geh\u00f6rt unter anderem das Laden von Ger\u00e4tetreibern. Betriebssysteme finden sich in fast allen Arten von Computern: Als Echtzeitbetriebssysteme auf Prozessrechnern und Eingebetteten Systemen, auf Personal Computern, Tablet Computern, Smartphones und auf gr\u00f6\u00dferen Mehrprozessorsystemen wie z. B. Servern und Gro\u00dfrechnern. Die Aufgaben eines Betriebssystems lassen sich wie folgt zusammenfassen:Benutzerkommunikation; Laden, Ausf\u00fchren, Unterbrechen und Beenden von Programmen; Verwaltung und Zuteilung der Prozessorzeit; Verwaltung des internen Speicherplatzes f\u00fcr Anwendungen; Verwaltung und Betrieb der angeschlossenen Ger\u00e4te; Schutzfunktionen z. B. durch Zugriffsbeschr\u00e4nkungen. Die Gewichtung zwischen diesen Aufgaben wandelte sich im Laufe der Zeit, insbesondere wird Schutzfunktionen wie dem Speicherschutz oder begrenzten Benutzerrechten heute eine h\u00f6here Bedeutung zugemessen als noch in den 1990er Jahren. Dies macht Systeme allgemein robuster, reduziert z. B. die Zahl der Programm- und Systemabst\u00fcrze und macht das System auch stabiler gegen Angriffe von au\u00dfen, etwa durch Computerviren. Dieser Artikel behandelt den Begriff \u201eBetriebssystem\u201c haupts\u00e4chlich im Kontext \u201eallgemein zur Informationsverarbeitung verwendete Computersysteme\u201c. Daneben sind Betriebssysteme (mit ggf. spezialisierter Funktionalit\u00e4t) grunds\u00e4tzlich in nahezu allen Ger\u00e4ten im Einsatz, in denen Software betrieben wird (wie Spielecomputer, Mobiltelefone, Navigationssysteme, Maschinen der Maschinenbaubranchen u. v. a.). Auch viele Steuerungssysteme (eingebettetes System) die z. B. in Flugzeugen, Autos, Z\u00fcgen, oder in Satelliten zu finden sind, besitzen spezialisierte Betriebssysteme.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Un sistema operativo (SO o, frecuentemente, OS \u2014del ingl\u00e9s operating system\u2014) es un programa o conjunto de programas de un sistema inform\u00e1tico que gestiona los recursos de hardware y provee servicios a los programas de aplicaci\u00f3n de software, ejecut\u00e1ndose en modo privilegiado respecto de los restantes (aunque puede que parte de \u00e9l se ejecute en espacio de usuario). N\u00f3tese que es un error com\u00fan muy extendido denominar al conjunto completo de herramientas sistema operativo,es decir, la inclusi\u00f3n en el mismo t\u00e9rmino de programas como el explorador de ficheros, el navegador web y todo tipo de herramientas que permiten la interacci\u00f3n con el sistema operativo. Otro ejemplo para comprender esta diferencia se encuentra en la plataforma Amiga, donde el entorno gr\u00e1fico de usuario se distribu\u00eda por separado, de modo que, tambi\u00e9n pod\u00eda reemplazarse por otro, como era el caso de directory Opus o incluso manejarlo arrancando con una l\u00ednea de comandos y el sistema gr\u00e1fico. De este modo, comenzaba a funcionar con el propio sistema operativo que llevaba incluido en una ROM, por lo que era cuesti\u00f3n del usuario decidir si necesitaba un entorno gr\u00e1fico para manejar el sistema operativo o simplemente otra aplicaci\u00f3n. Uno de los m\u00e1s prominentes ejemplos de esta diferencia, es el n\u00facleo Linux, usado en las llamadas distribuciones Linux, ya que al estar tambi\u00e9n basadas en Unix, proporcionan un sistema de funcionamiento similar. Este error de precisi\u00f3n, se debe a la modernizaci\u00f3n de la inform\u00e1tica llevada a cabo a finales de los 80, cuando la filosof\u00eda de estructura b\u00e1sica de funcionamiento de los grandes computadores se redise\u00f1\u00f3 a fin de llevarla a los hogares y facilitar su uso, cambiando el concepto de computador multiusuario, (muchos usuarios al mismo tiempo) por un sistema monousuario (\u00fanicamente un usuario al mismo tiempo) m\u00e1s sencillo de gestionar. V\u00e9ase AmigaOS, beOS o Mac OS como los pioneros de dicha modernizaci\u00f3n, cuando los Amiga fueron bautizados con el sobrenombre de Video Toasters por su capacidad para la Edici\u00f3n de v\u00eddeo en entorno multitarea round robin, con gesti\u00f3n de miles de colores e interfaces intuitivos para dise\u00f1o en 3D. En ciertos textos, el sistema operativo es llamado indistintamente como n\u00facleo o kernel, pero debe tenerse en cuenta que la diferencia entre kernel y sistema operativo solo es aplicable si el n\u00facleo es monol\u00edtico, lo cual fue muy com\u00fan entre los primeros sistemas. En caso contrario, es incorrecto llamar al sistema operativo n\u00facleo. Uno de los prop\u00f3sitos del sistema operativo que gestiona el n\u00facleo intermediario consiste en gestionar los recursos de localizaci\u00f3n y protecci\u00f3n de acceso del hardware, hecho que alivia a los programadores de aplicaciones de tener que tratar con estos detalles. La mayor\u00eda de aparatos electr\u00f3nicos que utilizan microprocesadores para funcionar, llevan incorporado un sistema operativo (tel\u00e9fonos m\u00f3viles, reproductores de DVD, computadoras, radios, enrutadores, etc.). En cuyo caso, son manejados mediante una interfaz gr\u00e1fica de usuario, un gestor de ventanas o un entorno de escritorio, si es un celular, mediante una consola o control remoto si es un DVD y, mediante una l\u00ednea de comandos o navegador web si es un enrutador.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0634\u063a\u064a\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Operating System \u0648 \u062a\u062e\u062a\u0635\u0631 \u0625\u0644\u0649 OS) \u0647\u0648 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0628\u0631\u0645\u062c\u064a\u0627\u062a \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u0629 \u0639\u0646 \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0648\u0627\u0631\u062f (\u0639\u062a\u0627\u062f \u0627\u0644\u062d\u0627\u0633\u0648\u0628)\u060c \u0648\u0628\u0631\u0645\u062c\u064a\u0627\u062a \u0627\u0644\u062d\u0627\u0633\u0648\u0628\u060c \u0648\u064a\u0645\u062b\u0644 \u0648\u0633\u064a\u0637 \u0628\u064a\u0646 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u060c \u0648\u0639\u062a\u0627\u062f \u0627\u0644\u062d\u0627\u0633\u0648\u0628\u060c \u0648\u064a\u0645\u0643\u0646 \u0627\u0644\u0642\u0648\u0644 \u0623\u0646\u0647 \u062c\u0633\u0631 \u0644\u062a\u0634\u063a\u064a\u0644 \u0628\u0631\u0627\u0645\u062c \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645. \u064a\u0642\u0648\u0645 \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0634\u063a\u064a\u0644 \u0628\u0627\u0644\u0645\u0647\u0627\u0645 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629 \u0645\u062b\u0644: \u0625\u062f\u0627\u0631\u0629 \u0648\u062a\u062e\u0635\u064a\u0635 \u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 (\u0627\u0644\u0630\u0627\u0643\u0631\u0629\u060c \u0627\u0644\u0642\u0631\u0635 \u0627\u0644\u0635\u0644\u0628\u060c \u0627\u0644\u0648\u0635\u0648\u0644 \u0644\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0645\u0644\u062d\u0642\u0629 \u0625\u0644\u062e...)\u060c \u062a\u0631\u062a\u064a\u0628 \u0623\u0648\u0644\u0648\u064a\u0629 \u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0623\u0648\u0627\u0645\u0631\u060c \u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0625\u062f\u062e\u0627\u0644\u060c \u0648\u0627\u0644\u0625\u062e\u0631\u0627\u062c \u0645\u062b\u0644: \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0641\u0627\u062a\u064a\u062d\u060c \u0644\u062a\u0633\u0647\u064a\u0644 \u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0634\u0628\u0643\u0627\u062a\u060c \u0648\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0644\u0641\u0627\u062a.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "An operating system (OS) is system software that manages computer hardware and software resources and provides common services for computer programs. All computer programs, excluding firmware, require an operating system to function. Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, printing, and other resources. For hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware, although the application code is usually executed directly by the hardware and frequently makes system calls to an OS function or is interrupted by it. Operating systems are found on many devices that contain a computer \u2013 from cellular phones and video game consoles to web servers and supercomputers. The dominant desktop operating system is Microsoft Windows with a market share of around 82%. OS X by Apple Inc. is in second place (9.8%), and Linux is in third position (1.5%). In the mobile (smartphone and tablet combined) sector Android by Google is dominant with 65% and iOS by Apple is placed second with around 25%. Linux is dominant in the server and supercomputing sectors. Other specialized classes of operating systems, such as embedded and real-time systems, exist for many applications.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u0301\u043d\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u0301\u043c\u0430, \u0441\u043e\u043a\u0440. \u041e\u0421 (\u0430\u043d\u0433\u043b. operating system, OS) \u2014 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u0432\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c, \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0440\u0435\u0441\u0443\u0440\u0441\u0430\u043c\u0438 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430 \u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0441 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u043c. \u0412 \u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435 \u0442\u0438\u043f\u0438\u0447\u043d\u043e\u0439 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043c\u0435\u0436\u0434\u0443 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430\u043c\u0438 \u0441 \u0438\u0445 \u043c\u0438\u043a\u0440\u043e\u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u043e\u0439, \u043c\u0430\u0448\u0438\u043d\u043d\u044b\u043c \u044f\u0437\u044b\u043a\u043e\u043c \u0438, \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c\u0438 (\u0432\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u043c\u0438) \u043c\u0438\u043a\u0440\u043e\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u043c\u0438 (\u0434\u0440\u0430\u0439\u0432\u0435\u0440\u0430\u043c\u0438) \u2014 \u0441 \u043e\u0434\u043d\u043e\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u2014 \u0438 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u044b\u043c\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u043c\u0438 \u0441 \u0434\u0440\u0443\u0433\u043e\u0439. \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430\u043c \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0430\u0431\u0441\u0442\u0440\u0430\u0433\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u0434\u0435\u0442\u0430\u043b\u0435\u0439 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432, \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044f \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u044b\u0439 \u043d\u0430\u0431\u043e\u0440 \u0444\u0443\u043d\u043a\u0446\u0438\u0439 (\u0441\u043c.: \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439). \u0412 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439, \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0432\u0430\u0436\u043d\u043e\u0439 (\u0430 \u0438\u043d\u043e\u0433\u0434\u0430 \u0438 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439) \u0447\u0430\u0441\u0442\u044c\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f. \u0421 1990-\u0445 \u0433\u043e\u0434\u043e\u0432 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0451\u043d\u043d\u044b\u043c\u0438 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u043c\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u043c\u0438 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0430 Windows, UNIX \u0438 UNIX-\u043f\u043e\u0434\u043e\u0431\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0\uff08\u82f1\uff1aOperating System, OS\uff09\u3068\u306f\u3001\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u306b\u304a\u3044\u3066\u3001\u30cf\u30fc\u30c9\u30a6\u30a7\u30a2\u3092\u6a5f\u80fd\u6bce\u306b\u62bd\u8c61\u5316\u3057\u305f\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30fc\u30b9\u3092\u5229\u7528\u8005\u307e\u305f\u306f\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u306b\u63d0\u4f9b\u3059\u308b\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30d7\u30ed\u30b0\u30e9\u30e0\u3067\u3042\u308b\u3002\u4e3b\u306b\u3001\u4e0e\u3048\u3089\u308c\u305f\u30cf\u30fc\u30c9\u30a6\u30a7\u30a2\u30ea\u30bd\u30fc\u30b9\u3092\u7121\u99c4\u306a\u304f\u7c21\u6613\u306b\u5229\u7528\u53ef\u80fd\u306b\u3059\u308b\u3053\u3068\u306b\u91cd\u70b9\u304c\u7f6e\u304b\u308c\u3066\u3044\u308b\u3002\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u306b\u5bfe\u3057\u3066\u3001\u5b9f\u884c\u306e\u305f\u3081\u306e\u30cf\u30fc\u30c9\u30a6\u30a7\u30a2\u30ea\u30bd\u30fc\u30b9\u3092\u63d0\u4f9b\u3059\u308b\u30b7\u30b9\u30c6\u30e0\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u306e\u4e00\u7a2e\u306b\u5206\u985e\u3055\u308c\u308b\u3002\u30de\u30b9\u30b3\u30df\u306a\u3069\u306f\u65e5\u672c\u8a9e\u8a33\u3068\u3057\u3066\u300c\u57fa\u672c\u30bd\u30d5\u30c8\u300d\u3092\u4f7f\u3063\u3066\u3044\u308b\u304c\u3001\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3092\u6307\u3059\u300c\u5fdc\u7528\u30bd\u30d5\u30c8\u300d\u3068\u5bfe\u306b\u306a\u3063\u3066\u3044\u308b\u3060\u3051\u3067\u3042\u308b\u3002 \u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u74b0\u5883\u3084\u30a6\u30a3\u30f3\u30c9\u30a6\u30b7\u30b9\u30c6\u30e0\u306a\u3069\u3001\u3042\u308b\u3044\u306f\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u7ba1\u7406\u30b7\u30b9\u30c6\u30e0 (DBMS) \u306a\u3069\u306e\u30df\u30c9\u30eb\u30a6\u30a7\u30a2\u3001\u30d5\u30a1\u30a4\u30eb\u7ba1\u7406\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3084\u30a8\u30c7\u30a3\u30bf\u3084\u5404\u7a2e\u8a2d\u5b9a\u30c4\u30fc\u30eb\u306a\u3069\u306e\u30e6\u30fc\u30c6\u30a3\u30ea\u30c6\u30a3\u3001\u57fa\u672c\u7684\u306a\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\uff08\u30a6\u30a7\u30d6\u30d6\u30e9\u30a6\u30b6\u3084\u6642\u8a08\u306a\u3069\u306e\u30a2\u30af\u30bb\u30b5\u30ea\uff09\u3092\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u4e0a\u306e\u7406\u7531\u306a\u3069\u304b\u3089\u4e00\u7dd2\u306b\u542b\u3081\u308b\u3053\u3068\u3082\u3042\u308b\u3002OS\u306e\u4e2d\u3067\u3001\u30cf\u30fc\u30c9\u30a6\u30a7\u30a2\u3092\u76f4\u63a5\u7ba1\u7406\u64cd\u4f5c\u3059\u308b\u306a\u3069\u306e\u6700\u3082\u4e2d\u5fc3\u7684\u306a\u6a5f\u80fd\u306e\u90e8\u5206\u3092\u3001\u7279\u306b\u30ab\u30fc\u30cd\u30eb\u3068\u547c\u3093\u3067\u5206\u3051\u308b\u3053\u3068\u3082\u3042\u308b\u3002\u30ab\u30fc\u30cd\u30eb\u4ee5\u5916\u306e\u90e8\u5206\uff08\u30b7\u30a7\u30eb\u306a\u3069\uff09\u3092\u30e6\u30fc\u30b6\u30e9\u30f3\u30c9\u3068\u547c\u3076\u3002\u3053\u308c\u306f\u4e00\u822c\u306b\u3001\u305d\u308c\u3092\u5b9f\u884c\u3059\u308bCPU\u304c\u7279\u6a29\u30e2\u30fc\u30c9\u306b\u3042\u308b\u304b\u3001\u4fdd\u8b77\u30e2\u30fc\u30c9\uff08\u30e6\u30fc\u30b6\u30e2\u30fc\u30c9\uff09\u306b\u3042\u308b\u304b\u3001\u306e\u9055\u3044\u304b\u3089\u6765\u3066\u3044\u308b\u3002\u73fe\u4ee3\u306e\u4e3b\u306a\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0\u306e\u4f8b\u3068\u3057\u3066\u3001Android\u3001BSD\u3001iOS\u3001Linux\u3001Microsoft Windows\u3001OS X\u3001Windows Phone\u3001IBM z/OS \u306a\u3069\u304c\u3042\u308b\u3002\u3053\u308c\u3089\u306e\u3046\u3061\u3001Windows\u7cfb\u3068z/OS\u4ee5\u5916\u306f\u5168\u3066Unix\u7cfb\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Een besturingssysteem (ook wel: bedrijfssysteem, in het Engels operating system of afgekort OS) is een programma (meestal een geheel van samenwerkende programma's) dat na het opstarten van een computer in het geheugen geladen wordt en de hardware aanstuurt. Het fungeert als een medium tussen de hardware en de computergebruiker met als opzet dat de gebruiker programma's op een gemakkelijke en/of effici\u00ebnte manier kan uitvoeren.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Sistema operativo (portugu\u00eas europeu) ou operacional (portugu\u00eas brasileiro) (em ingl\u00eas: Operating System - OS) \u00e9 um programa ou um conjunto de programas cuja fun\u00e7\u00e3o \u00e9 gerenciar os recursos do sistema (definir qual programa recebe aten\u00e7\u00e3o do processador, gerenciar mem\u00f3ria, criar um sistema de arquivos, etc.), fornecendo uma interface entre o computador e o usu\u00e1rio. Embora possa ser executado imediatamente ap\u00f3s a m\u00e1quina ser ligada, a maioria dos computadores pessoais de hoje o executa atrav\u00e9s de outro programa armazenado em uma mem\u00f3ria n\u00e3o-vol\u00e1til ROM chamado BIOS num processo chamado \"bootstrapping\", conceito em ingl\u00eas usado para designar processos auto-sustent\u00e1veis, ou seja, capazes de prosseguirem sem ajuda externa. Ap\u00f3s executar testes e iniciar os componentes da m\u00e1quina (monitores, discos, etc), o BIOS procura pelo sistema operacional em alguma unidade de armazenamento, geralmente o Disco R\u00edgido, e a partir da\u00ed, o sistema operacional \"toma\" o controle da m\u00e1quina. O sistema operacional reveza sua execu\u00e7\u00e3o com a de outros programas, como se estivesse vigiando, controlando e orquestrando todo o processo computacional. Segundo Tanenbaum, existem dois modos distintos de conceituar um sistema operacional: \n*  vis\u00e3o top-down pela perspectiva do usu\u00e1rio ou programador: \u00e9 uma abstra\u00e7\u00e3o do hardware, fazendo o papel de intermedi\u00e1rio entre o software (programas) e os componentes f\u00edsicos do computador, o (hardware); ou \n*  numa vis\u00e3o bottom-up, de baixo para cima: \u00e9 um gerenciador de recursos, i.e., que controla quais aplica\u00e7\u00f5es (processos) podem ser executadas, quando devem ser executadas e quais recursos (mem\u00f3ria, disco, perif\u00e9ricos) podem ser utilizados. Um sistema operacional \u00e9 projetado para ocultar detalhes de hardware de baixo n\u00edvel e para criar uma m\u00e1quina abstrata que fornece \u00e0s aplica\u00e7\u00f5es servi\u00e7os de alto n\u00edvel.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Un sistema operativo (abbreviato in SO, in lingua inglese OS, \"operating system\"), in informatica, \u00e8 un insieme di componenti software, che rende operativi (da cui il nome) computer, apparati e dispositivi informatici. Esempi di sistemi operativi sono l'MS DOS (ormai obsoleto), Windows, Mac OS, le distribuzioni GNU/Linux, i sistemi Unix-like, BSD, e poi Android, iOS e Windows Phone per smartphone.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u64cd\u4f5c\u7cfb\u7edf\uff08\u82f1\u8bed\uff1aoperating system\uff0c\u7e2e\u5beb\uff1aOS\uff09\u662f\u7ba1\u7406\u8ba1\u7b97\u673a\u786c\u4ef6\u8207\u8f6f\u4ef6\u8cc7\u6e90\u7684\u8ba1\u7b97\u673a\u7a0b\u5e8f\uff0c\u540c\u65f6\u4e5f\u662f\u8ba1\u7b97\u673a\u7cfb\u7edf\u7684\u6838\u5fc3\u4e0e\u57fa\u77f3\u3002\u64cd\u4f5c\u7cfb\u7edf\u9700\u8981\u5904\u7406\u5982\u7ba1\u7406\u8207\u914d\u7f6e\u5185\u5b58\u3001\u6c7a\u5b9a\u7cfb\u7d71\u8cc7\u6e90\u4f9b\u9700\u7684\u512a\u5148\u6b21\u5e8f\u3001\u63a7\u5236\u8f38\u5165\u8207\u8f38\u51fa\u88dd\u7f6e\u3001\u64cd\u4f5c\u7f51\u7edc\u8207\u7ba1\u7406\u6587\u4ef6\u7cfb\u7edf\u7b49\u57fa\u672c\u4e8b\u52d9\u3002\u64cd\u4f5c\u7cfb\u7edf\u4e5f\u63d0\u4f9b\u4e00\u500b\u8b93\u4f7f\u7528\u8005\u8207\u7cfb\u7d71\u4e92\u52d5\u7684\u64cd\u4f5c\u754c\u9762\u3002 \u64cd\u4f5c\u7cfb\u7edf\u7684\u578b\u614b\u975e\u5e38\u591a\u6a23\uff0c\u4e0d\u540c\u6a5f\u5668\u5b89\u88dd\u7684\u64cd\u4f5c\u7cfb\u7edf\u53ef\u5f9e\u7c21\u55ae\u5230\u8907\u96dc\uff0c\u53ef\u5f9e\u975e\u667a\u6167\u578b\u624b\u6a5f\u7684\u5d4c\u5165\u5f0f\u7cfb\u7edf\u5230\u8d85\u7d1a\u96fb\u8166\u7684\u5927\u578b\u4f5c\u696d\u7cfb\u7d71\u3002\u8a31\u591a\u64cd\u4f5c\u7cfb\u7edf\u88fd\u9020\u8005\u5c0d\u5b83\u6db5\u76d6\u8303\u7574\u7684\u5b9a\u4e49\u4e5f\u4e0d\u5c3d\u4e00\u81f4\uff0c\u4f8b\u5982\u6709\u4e9b\u64cd\u4f5c\u7cfb\u7edf\u6574\u5408\u4e86\u56fe\u5f62\u7528\u6237\u754c\u9762\uff0c\u800c\u6709\u4e9b\u50c5\u4f7f\u7528\u547d\u4ee4\u884c\u754c\u9762\uff0c\u800c\u5c07\u56fe\u5f62\u7528\u6237\u754c\u9762\u8996\u70ba\u4e00\u7a2e\u975e\u5fc5\u8981\u7684\u61c9\u7528\u7a0b\u5f0f\u3002 \u64cd\u4f5c\u7cfb\u7edf\u7406\u8bba\u5728\u8ba1\u7b97\u673a\u79d1\u5b66\u4e2d\uff0c\u70ba\u6b77\u53f2\u60a0\u4e45\u800c\u53c8\u6d3b\u8dc3\u7684\u5206\u652f\uff1b\u800c\u64cd\u4f5c\u7cfb\u7edf\u7684\u8bbe\u8ba1\u4e0e\u5b9e\u73b0\u5219\u662f\u8f6f\u4ef6\u5de5\u4e1a\u7684\u57fa\u7840\u4e0e\u6838\u5fc3\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742458002,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 22194,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Software"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Operating_Systems": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Parakey": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Robot_Operating_System": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Operational_system": {
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/General-purpose_operating_system": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Operative_system": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Commodity_operating_systems": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Operation_system": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Operatingsystem": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Computer_operating_sysem": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Computer_operating_system": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Desktop_OS": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Desktop_operating_system": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Desktop_os": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GPOS": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Operating_System_Types": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/OPSYS": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Server_OS": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Andrew_S._Tanenbaum": {
+        "http://dbpedia.org/ontology/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Windows_MultiPoint_Server": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Windows_Server_Essentials": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Office_2004_for_Mac": {
+        "http://dbpedia.org/property/label": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/URBI": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UnxUtils": {
+        "http://dbpedia.org/property/label": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GnuWin32": {
+        "http://dbpedia.org/property/label": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unix": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/DIG64": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SCO_Group": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Robert_Watson_(computer_scientist)": {
+        "http://dbpedia.org/ontology/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Operating_system": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thomas_E._Anderson": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Berkeley_Software_Design": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fixstars_Solutions": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carl_Sassenrath": {
+        "http://dbpedia.org/ontology/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Operating_System": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mobile_security": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/OpenTV": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/AmigaOne_X1000": {
+        "http://dbpedia.org/property/className": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SnapStream": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/OS": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/PDP-12": {
+        "http://dbpedia.org/ontology/operatingSystem": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/YaST": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/WebConfig": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/GAdmintools": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Alexia_Massalin": {
+        "http://dbpedia.org/ontology/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/System_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Computer_program": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/V._K._Govindan": {
+        "http://dbpedia.org/ontology/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Operating_systems": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Operating_system"
+            }
+        ]
+    }
+}

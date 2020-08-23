@@ -1,0 +1,487 @@
+{
+    "http://dbpedia.org/resource/Apple_Productivity_Experience_Group": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remote_Desktop_Protocol"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Remote_Desktop_Protocol": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remote_Desktop_Protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Remote_Desktop_Protocol": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Concept105835747"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Component105868954"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Part105867413"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Communication100033020"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatWindowsComponents"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Software"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Content105809192"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Idea105833840"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Rule106652242"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Cognition100023271"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatNetworkProtocols"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Direction106786629"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Protocol106665108"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Message106598915"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatRemoteDesktopProtocols"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatApplicationLayerProtocols"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Remote Desktop",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u9060\u7aef\u684c\u9762\u5354\u5b9a",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Remote desktop is het volledig overnemen van een pc van op afstand, inclusief het gebruik van het toetsenbord en de muis. Remote desktop is een Microsoft-technologie.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Das Remote Desktop Protocol (RDP) ist ein propriet\u00e4res Netzwerkprotokoll von Microsoft zum Darstellen und Steuern des Bildschirminhalts (Desktop) entfernter Computer. Es regelt, wie die Terminaldienste (Remote Desktop Services, vormals Terminal Services) unter Microsoft Windows NT angesprochen und genutzt werden. Der Dienst wird normalerweise auf Port TCP 3389 bereitgestellt. Ab der Version 8.0 des Remote Desktop Protokolls wird zus\u00e4tzlich UDP 3389 verwendet.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u8fdc\u7a0b\u684c\u9762\u534f\u8bae\uff08\u82f1\u8bed\uff1aRemote Desktop Protocol\uff0c\u7f29\u5199\uff1aRDP\uff09\u662f\u4e00\u500b\u591a\u901a\u9053\uff08multi-channel\uff09\u7684\u5354\u5b9a\uff0c\u8b93\u4f7f\u7528\u8005\uff08\u7528\u6236\u7aef\u6216\u7a31\u300c\u672c\u5730\u96fb\u8166\u300d\uff09\u9023\u4e0a\u63d0\u4f9b\u5fae\u8edf\u7d42\u7aef\u6a5f\u670d\u52d9\u7684\u96fb\u8166\uff08\u4f3a\u670d\u5668\u7aef\u6216\u7a31\u300c\u9060\u7aef\u96fb\u8166\u300d\uff09\u3002\u5927\u90e8\u5206\u7684Windows\u90fd\u6709\u7528\u6236\u7aef\u6240\u9700\u8edf\u9ad4\u3002\u5176\u4ed6\u4f5c\u696d\u7cfb\u7d71\u4e5f\u6709\u9019\u4e9b\u7528\u6236\u7aef\u8edf\u9ad4\uff0c\u4f8b\u5982Linux\u3001FreeBSD\u3001Mac OS X\u3002\u4f3a\u670d\u7aef\u96fb\u8166\u65b9\u9762\uff0c\u5247\u76d1\u542c\u9001\u5230TCP 3389\u57e0\u7684\u8cc7\u6599\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol (RDP) est un protocole qui permet \u00e0 un utilisateur de se connecter sur un serveur ex\u00e9cutant Microsoft Terminal Services. Des clients existent pour la quasi-totalit\u00e9 des versions de Windows, et pour d'autres syst\u00e8mes d'exploitation, comme les syst\u00e8mes GNU/Linux. Le serveur \u00e9coute par d\u00e9faut sur le port TCP 3389.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "RDP (Remote Desktop Protocol) \u00e8 un protocollo di rete proprietario sviluppato da Microsoft, che permette la connessione remota da un computer a un altro in maniera grafica. Il protocollo di default utilizza la porta TCP e UDP 3389. I client RDP esistono per la maggior parte delle versioni di Microsoft Windows, Linux, Unix, macOS, Android, iOS e altri. I server RDP ufficiali esistono per i sistemi operativi Windows nonostante ne esistano anche per i sistemi simil-Unix.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol (RDP) es un protocolo propietario desarrollado por Microsoft que permite la comunicaci\u00f3n en la ejecuci\u00f3n de una aplicaci\u00f3n entre un terminal (mostrando la informaci\u00f3n procesada que recibe del servidor) y un servidor Windows (recibiendo la informaci\u00f3n dada por el usuario en el terminal mediante el rat\u00f3n \u00f3 el teclado). Este servicio tiene distintos tipos de aplicaciones: se utiliza frecuentemente para el acceso remoto en la administraci\u00f3n de equipos, pero tambi\u00e9n es cada vez m\u00e1s utilizado en la gesti\u00f3n de servicios de terminal o clientes ligeros (thin clients).",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol \uff08\u30ea\u30e2\u30fc\u30c8 \u30c7\u30b9\u30af\u30c8\u30c3\u30d7 \u30d7\u30ed\u30c8\u30b3\u30eb\u3001RDP\uff09\u306f\u30de\u30a4\u30af\u30ed\u30bd\u30d5\u30c8\u304c\u958b\u767a\u3057\u3066\u3044\u308b\u30ea\u30e2\u30fc\u30c8\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u30b5\u30fc\u30d3\u30b9\uff08RDS\u3001\u65e7\u79f0\uff1a\u30bf\u30fc\u30df\u30ca\u30eb\u30b5\u30fc\u30d3\u30b9\uff09\u304c\u7a3c\u52d5\u3057\u3066\u3044\u308b\u30b5\u30fc\u30d0\u306b\u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u304c\u63a5\u7d9a\u3059\u308b\u30ea\u30e2\u30fc\u30c8\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u306e\u591a\u91cd\u30c1\u30e3\u30cd\u30eb\u30d7\u30ed\u30c8\u30b3\u30eb\u3067\u3042\u308b\u3002\u30ea\u30e2\u30fc\u30c8\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u63a5\u7d9a\uff08RDC\u3001\u65e7\u79f0\uff1a\u30bf\u30fc\u30df\u30ca\u30eb\u30b5\u30fc\u30d3\u30b9\u63a5\u7d9a\uff09\u3068\u3057\u3066 TCP \u30dd\u30fc\u30c8 3389 \u304a\u3088\u3073 UDP \u30dd\u30fc\u30c8 3389 \u3092\u4f7f\u7528\u3057\u3066\u63a5\u7d9a\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol (RDP) is a proprietary protocol developed by Microsoft, which provides a user with a graphical interface to connect to another computer over a network connection. The user employs RDP client software for this purpose, while the other computer must run RDP server software. Microsoft currently refers to their official RDP client software as Remote Desktop Connection, formerly \"Terminal Services Client\". The protocol is an extension of the ITU-T T.128 application sharing protocol.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "RDP (\u0430\u043d\u0433\u043b. Remote Desktop Protocol \u2014 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0443\u0434\u0430\u043b\u0451\u043d\u043d\u043e\u0433\u043e \u0440\u0430\u0431\u043e\u0447\u0435\u0433\u043e \u0441\u0442\u043e\u043b\u0430) \u2014 \u043f\u0440\u043e\u043f\u0440\u0438\u0435\u0442\u0430\u0440\u043d\u044b\u0439 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f, \u043f\u043e\u0437\u0430\u0438\u043c\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u043d\u044b\u0439 Microsoft \u0438\u0437 \u043a\u0443\u043f\u043b\u0435\u043d\u043d\u043e\u0439 \u0443 PictureTel (\u043d\u044b\u043d\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0439 \u043a\u0430\u043a Polycom) \u0442\u0435\u043b\u0435\u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b Liveshare Plus (\u043d\u0430\u0437\u0432\u0430\u043d\u043d\u043e\u0439 \u0432\u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0438 NetMeeting), \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0449\u0438\u0439\u0441\u044f \u0434\u043b\u044f \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f \u0443\u0434\u0430\u043b\u0451\u043d\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0441 \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u043c, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u0437\u0430\u043f\u0443\u0449\u0435\u043d \u0441\u0435\u0440\u0432\u0438\u0441 \u0442\u0435\u0440\u043c\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0439. \u041a\u043b\u0438\u0435\u043d\u0442\u044b \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0432\u0435\u0440\u0441\u0438\u0439 Windows (\u0432\u043a\u043b\u044e\u0447\u0430\u044f Windows CE, Phone \u0438 Mobile), Linux, FreeBSD, Mac OS X, iOS, Android, Symbian. \u041f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u043f\u043e\u0440\u0442 TCP 3389. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u041c\u0430\u0439\u043a\u0440\u043e\u0441\u043e\u0444\u0442 \u0434\u043b\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u041f\u041e \u2014 Remote Desktop Connection \u0438\u043b\u0438 Terminal Services Client (TSC), \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u043a\u043b\u0438\u0435\u043d\u0442 \u0432 Windows 2k/XP/2003/Vista/2008/7/8/10 \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f mstsc.exe.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol (ou somente RDP) \u00e9 um protocolo multi-canal que permite que um usu\u00e1rio se conecte a um computador rodando o Microsoft Terminal Services (antigo Terminal Service). Existem clientes para a maioria das vers\u00f5es do Windows, e outros sistemas operacionais como o Linux. O servidor escuta por padr\u00e3o a porta TCP 3389.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol, RDP \u2013 protok\u00f3\u0142 pozwalaj\u0105cy na komunikacj\u0119 z us\u0142ug\u0105 terminala graficznego w Microsoft Windows (Terminal Services). Us\u0142uga ta jest dost\u0119pna we wszystkich systemach operacyjnych Windows od wersji Windows 2000 za pomoc\u0105 programu Pod\u0142\u0105czanie pulpitu zdalnego. RDP wykorzystywany jest r\u00f3wnie\u017c przez systemy operacyjne Linux, FreeBSD, Solaris i OS X. Przy domy\u015blnych ustawieniach serwer RDP nas\u0142uchuje na porcie TCP 3389.",
+                "lang": "pl"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remote_Desktop_Protocol"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Remote_Desktop_Protocol"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Remote_Desktop_Protocol"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Remote_Desktop"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Remote_Desktop_Protocol"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Remote_Desktop_Protocol"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Remote_Desktop_Protocol"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.02_syk"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Remote_Desktop_Protocol"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q49150"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Remote_Desktop_Protocol"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc6d0\uaca9_\ub370\uc2a4\ud06c\ud1b1_\ud504\ub85c\ud1a0\ucf5c"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Remote_Desktop_Protocol"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q49150"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Remote_Desktop_Protocol"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/Remote_Desktop_Protocol"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Windows_components"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Remote_desktop"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Remote_desktop_protocols"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Application_layer_protocols"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Microsoft_server_technology"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Remote_Desktop_Protocol"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Remote_Desktop_Protocol?oldid=738341556"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://webpundits.in/clients/knowledgebase/4/How-can-I-connect-to-RDP.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://msdn2.microsoft.com/en-us/library/aa383015.aspx"
+            },
+            {
+                "type": "uri",
+                "value": "http://guac-dev.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.microsoft.com/windowsserver2003/techinfo/overview/termserv.mspx"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.microsoft.com/mac/remote-desktop-client"
+            },
+            {
+                "type": "uri",
+                "value": "https://support.microsoft.com/en-us/kb/186607"
+            },
+            {
+                "type": "uri",
+                "value": "http://msdn.microsoft.com/en-us/library/cc240445(PROT.10).aspx"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u8fdc\u7a0b\u684c\u9762\u534f\u8bae\uff08\u82f1\u8bed\uff1aRemote Desktop Protocol\uff0c\u7f29\u5199\uff1aRDP\uff09\u662f\u4e00\u500b\u591a\u901a\u9053\uff08multi-channel\uff09\u7684\u5354\u5b9a\uff0c\u8b93\u4f7f\u7528\u8005\uff08\u7528\u6236\u7aef\u6216\u7a31\u300c\u672c\u5730\u96fb\u8166\u300d\uff09\u9023\u4e0a\u63d0\u4f9b\u5fae\u8edf\u7d42\u7aef\u6a5f\u670d\u52d9\u7684\u96fb\u8166\uff08\u4f3a\u670d\u5668\u7aef\u6216\u7a31\u300c\u9060\u7aef\u96fb\u8166\u300d\uff09\u3002\u5927\u90e8\u5206\u7684Windows\u90fd\u6709\u7528\u6236\u7aef\u6240\u9700\u8edf\u9ad4\u3002\u5176\u4ed6\u4f5c\u696d\u7cfb\u7d71\u4e5f\u6709\u9019\u4e9b\u7528\u6236\u7aef\u8edf\u9ad4\uff0c\u4f8b\u5982Linux\u3001FreeBSD\u3001Mac OS X\u3002\u4f3a\u670d\u7aef\u96fb\u8166\u65b9\u9762\uff0c\u5247\u76d1\u542c\u9001\u5230TCP 3389\u57e0\u7684\u8cc7\u6599\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol (RDP) is a proprietary protocol developed by Microsoft, which provides a user with a graphical interface to connect to another computer over a network connection. The user employs RDP client software for this purpose, while the other computer must run RDP server software. Clients exist for most versions of Microsoft Windows (including Windows Mobile), Linux, Unix, OS X, iOS, Android, and other operating systems. RDP servers are built into Windows operating systems; an RDP server for Unix and OS X also exists. By default, the server listens on TCP port 3389 and UDP port 3389. Microsoft currently refers to their official RDP client software as Remote Desktop Connection, formerly \"Terminal Services Client\". The protocol is an extension of the ITU-T T.128 application sharing protocol.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "RDP (Remote Desktop Protocol) \u00e8 un protocollo di rete proprietario sviluppato da Microsoft, che permette la connessione remota da un computer a un altro in maniera grafica. Il protocollo di default utilizza la porta TCP e UDP 3389. I client RDP esistono per la maggior parte delle versioni di Microsoft Windows, Linux, Unix, macOS, Android, iOS e altri. I server RDP ufficiali esistono per i sistemi operativi Windows nonostante ne esistano anche per i sistemi simil-Unix.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol (ou somente RDP) \u00e9 um protocolo multi-canal que permite que um usu\u00e1rio se conecte a um computador rodando o Microsoft Terminal Services (antigo Terminal Service). Existem clientes para a maioria das vers\u00f5es do Windows, e outros sistemas operacionais como o Linux. O servidor escuta por padr\u00e3o a porta TCP 3389. Baseado no protocolo da ITU T.share (conhecido como T.128), a primeira vers\u00e3o do RDP (chamada vers\u00e3o 4.0) foi introduzida com o Terminal Service no Windows NT 4.0 Server, Terminal Server Edition. A vers\u00e3o 5.0 introduzida com o Windows 2000 Server adicionou suporte para alguns recursos incluindo impress\u00e3o em impressoras locais e foi voltado para melhorar o uso da banda. A vers\u00e3o 5.1, lan\u00e7ada com o Windows XP inclui v\u00e1rios recursos como suporte a cor em 24-bits e som.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol (RDP) es un protocolo propietario desarrollado por Microsoft que permite la comunicaci\u00f3n en la ejecuci\u00f3n de una aplicaci\u00f3n entre un terminal (mostrando la informaci\u00f3n procesada que recibe del servidor) y un servidor Windows (recibiendo la informaci\u00f3n dada por el usuario en el terminal mediante el rat\u00f3n \u00f3 el teclado). El modo de funcionamiento del protocolo es sencillo. La informaci\u00f3n gr\u00e1fica que genera el servidor es convertida a un formato propio RDP y enviada a trav\u00e9s de la red al terminal, que interpretar\u00e1 la informaci\u00f3n contenida en el paquete del protocolo para reconstruir la imagen a mostrar en la pantalla del terminal. En cuanto a la introducci\u00f3n de \u00f3rdenes en el terminal por parte del usuario, las teclas que pulse el usuario en el teclado del terminal as\u00ed como los movimientos y pulsaciones de rat\u00f3n son redirigidos al servidor, permitiendo el protocolo un cifrado de los mismos por motivos de seguridad. El protocolo tambi\u00e9n permite que toda la informaci\u00f3n que intercambien cliente y servidor sea comprimida para un mejor rendimiento en las redes menos veloces. Este servicio utiliza por defecto el puerto TCP 3389 en el servidor para recibir las peticiones. Una vez iniciada la sesi\u00f3n desde un punto remoto el ordenador servidor mostrar\u00e1 la pantalla de bienvenida de windows, no se ver\u00e1 lo que el usuario est\u00e1 realizando de forma remota. Este servicio tiene distintos tipos de aplicaciones: se utiliza frecuentemente para el acceso remoto en la administraci\u00f3n de equipos, pero tambi\u00e9n es cada vez m\u00e1s utilizado en la gesti\u00f3n de servicios de terminal o clientes ligeros (thin clients).",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Remote desktop is het volledig overnemen van een pc van op afstand, inclusief het gebruik van het toetsenbord en de muis. Remote desktop is een Microsoft-technologie.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol, RDP \u2013 protok\u00f3\u0142 pozwalaj\u0105cy na komunikacj\u0119 z us\u0142ug\u0105 terminala graficznego w Microsoft Windows (Terminal Services). Us\u0142uga ta jest dost\u0119pna we wszystkich systemach operacyjnych Windows od wersji Windows 2000 za pomoc\u0105 programu Pod\u0142\u0105czanie pulpitu zdalnego. RDP wykorzystywany jest r\u00f3wnie\u017c przez systemy operacyjne Linux, FreeBSD, Solaris i OS X. Przy domy\u015blnych ustawieniach serwer RDP nas\u0142uchuje na porcie TCP 3389.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol (RDP) est un protocole qui permet \u00e0 un utilisateur de se connecter sur un serveur ex\u00e9cutant Microsoft Terminal Services. Des clients existent pour la quasi-totalit\u00e9 des versions de Windows, et pour d'autres syst\u00e8mes d'exploitation, comme les syst\u00e8mes GNU/Linux. Le serveur \u00e9coute par d\u00e9faut sur le port TCP 3389.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "RDP (\u0430\u043d\u0433\u043b. Remote Desktop Protocol \u2014 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0443\u0434\u0430\u043b\u0451\u043d\u043d\u043e\u0433\u043e \u0440\u0430\u0431\u043e\u0447\u0435\u0433\u043e \u0441\u0442\u043e\u043b\u0430) \u2014 \u043f\u0440\u043e\u043f\u0440\u0438\u0435\u0442\u0430\u0440\u043d\u044b\u0439 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f, \u043f\u043e\u0437\u0430\u0438\u043c\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u043d\u044b\u0439 Microsoft \u0438\u0437 \u043a\u0443\u043f\u043b\u0435\u043d\u043d\u043e\u0439 \u0443 PictureTel (\u043d\u044b\u043d\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0439 \u043a\u0430\u043a Polycom) \u0442\u0435\u043b\u0435\u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b Liveshare Plus (\u043d\u0430\u0437\u0432\u0430\u043d\u043d\u043e\u0439 \u0432\u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0438 NetMeeting), \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0449\u0438\u0439\u0441\u044f \u0434\u043b\u044f \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f \u0443\u0434\u0430\u043b\u0451\u043d\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0441 \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u043c, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u0437\u0430\u043f\u0443\u0449\u0435\u043d \u0441\u0435\u0440\u0432\u0438\u0441 \u0442\u0435\u0440\u043c\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0439. \u041a\u043b\u0438\u0435\u043d\u0442\u044b \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0432\u0435\u0440\u0441\u0438\u0439 Windows (\u0432\u043a\u043b\u044e\u0447\u0430\u044f Windows CE, Phone \u0438 Mobile), Linux, FreeBSD, Mac OS X, iOS, Android, Symbian. \u041f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u043f\u043e\u0440\u0442 TCP 3389. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u041c\u0430\u0439\u043a\u0440\u043e\u0441\u043e\u0444\u0442 \u0434\u043b\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u041f\u041e \u2014 Remote Desktop Connection \u0438\u043b\u0438 Terminal Services Client (TSC), \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u043a\u043b\u0438\u0435\u043d\u0442 \u0432 Windows 2k/XP/2003/Vista/2008/7/8/10 \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f mstsc.exe. \u041e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u0432\u0435\u0440\u0441\u0438\u0438 5.2, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u043e\u0439 \u0432 Windows Server 2003 SP2 \u0438 \u0432 Windows XP SP3: \n*  \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 32-\u0431\u0438\u0442\u043d\u043e\u0433\u043e \u0446\u0432\u0435\u0442\u0430 (\u0432 \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u043a 8-, 15-, 16-, \u0438 24-\u0431\u0438\u0442\u043d\u043e\u043c\u0443 \u0432 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0445 \u0432\u0435\u0440\u0441\u0438\u044f\u0445); \n*  \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c 128-\u0431\u0438\u0442\u043e\u0432\u043e\u0435 \u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u043e \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u0430\u043c RC4, AES \u0438\u043b\u0438 3DES \u0441 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u043e\u0439 \u0446\u0435\u043b\u043e\u0441\u0442\u043d\u043e\u0441\u0442\u0438 \u0445\u0435\u0448\u0435\u043c MD5 \u0438\u043b\u0438 SHA1, \u043f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e \u043d\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f, \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 RDP \u0432 Windows 2003 \u043f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e \u2014 RC2 (56 \u0431\u0438\u0442) c \u0445\u0435\u0448\u0435\u043c MD5 \u0441 \u043e\u0442\u043a\u0430\u0442\u043e\u043c \u043d\u0430 DES (40 \u0431\u0438\u0442). (\u0418\u0437-\u0437\u0430 \u0441\u043b\u0430\u0431\u043e\u0433\u043e \u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043d\u0438\u044f RC2 \u0438 DES \u043f\u0440\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u043f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e \u0442\u0440\u0430\u0444\u0438\u043a \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0440\u0430\u0441\u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043d \u043f\u043e \u043f\u0443\u0442\u0438, \u0441\u043c. \u0442\u0438\u043f \u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u0438 \u00abman-in-the-middle vulnerability\u00bb); \n*  \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 Transport Layer Security (\u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0440\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043d\u0438\u044f RC4, AES \u0438\u043b\u0438 3DES), \u043f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e \u043d\u0435 \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u0430; \n*  \u0417\u0432\u0443\u043a \u0441 \u0443\u0434\u0430\u043b\u0451\u043d\u043d\u043e\u0433\u043e \u041f\u041a \u043f\u0435\u0440\u0435\u0430\u0434\u0440\u0435\u0441\u043e\u0432\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0438 \u0432\u043e\u0441\u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e\u043c \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0435; \n*  \u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0430\u0442\u044c \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0440\u0435\u0441\u0443\u0440\u0441\u044b \u043a \u0443\u0434\u0430\u043b\u0451\u043d\u043d\u043e\u0439 \u043c\u0430\u0448\u0438\u043d\u0435 (mapping); \n*  \u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u043b\u0438 \u0441\u0435\u0442\u0435\u0432\u043e\u0439 \u043f\u0440\u0438\u043d\u0442\u0435\u0440\u044b \u043d\u0430 \u0443\u0434\u0430\u043b\u0451\u043d\u043d\u043e\u043c \u041f\u041a; \n*  \u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u043c, \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u044e\u0449\u0438\u043c\u0441\u044f \u0432 \u043f\u0440\u0435\u0434\u0435\u043b\u0430\u0445 \u0442\u0435\u043a\u0443\u0449\u0435\u0433\u043e \u0441\u0435\u0430\u043d\u0441\u0430, \u043e\u0431\u0440\u0430\u0449\u0430\u0442\u044c\u0441\u044f \u043a \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u043c \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u0438 \u043f\u0430\u0440\u0430\u043b\u043b\u0435\u043b\u044c\u043d\u044b\u043c \u043f\u043e\u0440\u0442\u0430\u043c; \n*  \u041c\u043e\u0436\u043d\u043e \u043e\u0431\u043c\u0435\u043d\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439 \u0447\u0435\u0440\u0435\u0437 \u0431\u0443\u0444\u0435\u0440 \u043e\u0431\u043c\u0435\u043d\u0430. \u0412 Windows Vista \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0432\u0435\u0440\u0441\u0438\u044f 6 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430 RDP, \u0432 Windows Server 2008 \u2014 \u0432\u0435\u0440\u0441\u0438\u044f 6.1, \u0432 Windows 7 \u2014 \u0432\u0435\u0440\u0441\u0438\u044f 7 (\u043f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e, \u0432 SP1 \u043c\u043e\u0436\u043d\u043e \u043e\u0431\u043d\u043e\u0432\u0438\u0442\u044c), \u0432 Windows 8 \u2014 \u0432\u0435\u0440\u0441\u0438\u044f 8. \u0422\u0430\u043a \u043a\u0430\u043a RDP \u043f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e \u0441\u043e\u0437\u0434\u0430\u0451\u0442 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u043a\u043e\u043d\u0441\u043e\u043b\u0438, \u0442\u043e \u0434\u043b\u044f \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u043d\u0435 \u043a \u043d\u0438\u043c, \u0430 \u043d\u0435\u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043a \u043a\u043e\u043d\u0441\u043e\u043b\u0438 0 (\u043e\u0441\u043d\u043e\u0432\u043d\u0430\u044f \u043a\u043e\u043d\u0441\u043e\u043b\u044c-\u043c\u044b\u0448\u044c/\u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u0430) \u043d\u0443\u0436\u043d\u043e \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u044c RDP-\u043a\u043b\u0438\u0435\u043d\u0442 \u0441 \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u043e\u043c console. \n*  \u041f\u0440\u0438\u043c\u0435\u0440: mstsc /console \n*  \u041f\u0440\u0438\u043c\u0435\u0440 RDP 6: mstsc /admin [[\u041a:\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f:\u0421\u0442\u0430\u0442\u044c\u0438 \u0431\u0435\u0437 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432 (\u0441\u0442\u0440\u0430\u043d\u0430: )]][[\u041a:\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f:\u0421\u0442\u0430\u0442\u044c\u0438 \u0431\u0435\u0437 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432 (\u0441\u0442\u0440\u0430\u043d\u0430: )]][[\u041a:\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f:\u0421\u0442\u0430\u0442\u044c\u0438 \u0431\u0435\u0437 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432 (\u0441\u0442\u0440\u0430\u043d\u0430: )]]Remote Desktop ProtocolRemote Desktop ProtocolRemote Desktop Protocol",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Remote Desktop Protocol \uff08\u30ea\u30e2\u30fc\u30c8 \u30c7\u30b9\u30af\u30c8\u30c3\u30d7 \u30d7\u30ed\u30c8\u30b3\u30eb\u3001RDP\uff09\u306f\u30de\u30a4\u30af\u30ed\u30bd\u30d5\u30c8\u304c\u958b\u767a\u3057\u3066\u3044\u308b\u30ea\u30e2\u30fc\u30c8\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u30b5\u30fc\u30d3\u30b9\uff08RDS\u3001\u65e7\u79f0\uff1a\u30bf\u30fc\u30df\u30ca\u30eb\u30b5\u30fc\u30d3\u30b9\uff09\u304c\u7a3c\u52d5\u3057\u3066\u3044\u308b\u30b5\u30fc\u30d0\u306b\u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u304c\u63a5\u7d9a\u3059\u308b\u30ea\u30e2\u30fc\u30c8\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u306e\u591a\u91cd\u30c1\u30e3\u30cd\u30eb\u30d7\u30ed\u30c8\u30b3\u30eb\u3067\u3042\u308b\u3002\u30ea\u30e2\u30fc\u30c8\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u63a5\u7d9a\uff08RDC\u3001\u65e7\u79f0\uff1a\u30bf\u30fc\u30df\u30ca\u30eb\u30b5\u30fc\u30d3\u30b9\u63a5\u7d9a\uff09\u3068\u3057\u3066 TCP \u30dd\u30fc\u30c8 3389 \u304a\u3088\u3073 UDP \u30dd\u30fc\u30c8 3389 \u3092\u4f7f\u7528\u3057\u3066\u63a5\u7d9a\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Das Remote Desktop Protocol (RDP) ist ein propriet\u00e4res Netzwerkprotokoll von Microsoft zum Darstellen und Steuern des Bildschirminhalts (Desktop) entfernter Computer. Es regelt, wie die Terminaldienste (Remote Desktop Services, vormals Terminal Services) unter Microsoft Windows NT angesprochen und genutzt werden. Der Dienst wird normalerweise auf Port TCP 3389 bereitgestellt. Ab der Version 8.0 des Remote Desktop Protokolls wird zus\u00e4tzlich UDP 3389 verwendet.",
+                "lang": "de"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 738341556,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 652617,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Remote_desktop_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remote_Desktop_Protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/RDP": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remote_Desktop_Protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Remote_desktop_proxy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remote_Desktop_Protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/MSRDP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remote_Desktop_Protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Port_3389": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remote_Desktop_Protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Windows_Remote_Desktop": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remote_Desktop_Protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/.rdp": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remote_Desktop_Protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Microsoft_RDP_protocol": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remote_Desktop_Protocol"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ericom_Software": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Remote_Desktop_Protocol"
+            }
+        ]
+    }
+}

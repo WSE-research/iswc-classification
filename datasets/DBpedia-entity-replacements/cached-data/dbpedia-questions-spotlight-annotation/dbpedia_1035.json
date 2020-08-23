@@ -1,0 +1,28 @@
+{
+    "@text": "What was the space probe launched from Cape Canaveral that starts with letter V ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Space_probe",
+            "@support": "671",
+            "@types": "",
+            "@surfaceForm": "space probe",
+            "@offset": "13",
+            "@similarityScore": "0.9980738801442928",
+            "@percentageOfSecondRank": "0.0019298369529159149"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station",
+            "@support": "1003",
+            "@types": "Wikidata:Q41176,Schema:Place,DBpedia:Place,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Cape Canaveral",
+            "@offset": "39",
+            "@similarityScore": "0.7050912274737305",
+            "@percentageOfSecondRank": "0.4158837637923256"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Which person constituency is Duboce Triangle, San Francisco and military unit is USS Kittiwake (ASR-13)?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Duboce_Triangle,_San_Francisco",
+            "@support": "23",
+            "@types": "",
+            "@surfaceForm": "Duboce Triangle",
+            "@offset": "29",
+            "@similarityScore": "0.9999999952417795",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/San_Francisco",
+            "@support": "68107",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "San Francisco",
+            "@offset": "46",
+            "@similarityScore": "0.9999957301035562",
+            "@percentageOfSecondRank": "1.5529929044192359E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/USS_Kittiwake_(ASR-13)",
+            "@support": "4",
+            "@types": "Wikidata:Q11446,DUL:DesignedArtifact,Schema:Product,DBpedia:Ship,DBpedia:MeanOfTransportation",
+            "@surfaceForm": "USS Kittiwake (ASR-13)",
+            "@offset": "81",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

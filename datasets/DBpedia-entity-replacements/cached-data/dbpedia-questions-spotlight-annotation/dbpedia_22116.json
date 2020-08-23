@@ -1,0 +1,28 @@
+{
+    "@text": "Give me all commanders which had an important role in both, the Battle of Fort Stephenson and Battle of the Thames?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Battle_of_Fort_Stephenson",
+            "@support": "26",
+            "@types": "Wikidata:Q1656682,DUL:Event,Schema:Event,DBpedia:SocietalEvent,DBpedia:MilitaryConflict,DBpedia:Event",
+            "@surfaceForm": "Fort Stephenson",
+            "@offset": "74",
+            "@similarityScore": "0.5776447315603292",
+            "@percentageOfSecondRank": "0.7311678707722408"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/River_Thames",
+            "@support": "9898",
+            "@types": "Wikidata:Q47521,Wikidata:Q4022,Schema:RiverBodyOfWater,Schema:Place,Schema:BodyOfWater,DBpedia:Stream,DBpedia:River,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "Thames",
+            "@offset": "108",
+            "@similarityScore": "0.9980383080814468",
+            "@percentageOfSecondRank": "0.001935289363974713"
+        }
+    ]
+}

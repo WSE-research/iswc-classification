@@ -1,0 +1,28 @@
+{
+    "@text": "Which national association football team occupies Wembley Stadium?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Association_football",
+            "@support": "280277",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "football",
+            "@offset": "27",
+            "@similarityScore": "0.9849657853459508",
+            "@percentageOfSecondRank": "0.013172823282696425"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Wembley_Stadium",
+            "@support": "4104",
+            "@types": "Schema:Place,DBpedia:Venue,DBpedia:Place,DBpedia:Location,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Wembley Stadium",
+            "@offset": "50",
+            "@similarityScore": "0.9996587235414306",
+            "@percentageOfSecondRank": "2.102309362779373E-4"
+        }
+    ]
+}

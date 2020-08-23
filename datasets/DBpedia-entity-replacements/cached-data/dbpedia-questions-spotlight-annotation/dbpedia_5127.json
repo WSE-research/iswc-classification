@@ -1,0 +1,37 @@
+{
+    "@text": "Did Will Smith received a Grammy Award for best rap performance as a duo or group?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Will_Smith",
+            "@support": "1653",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Will Smith",
+            "@offset": "4",
+            "@similarityScore": "0.9999999646503859",
+            "@percentageOfSecondRank": "1.2575053242185522E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Grammy_Award",
+            "@support": "22241",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Grammy Award",
+            "@offset": "26",
+            "@similarityScore": "0.9992204097487861",
+            "@percentageOfSecondRank": "3.9646013165546833E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rapping",
+            "@support": "10173",
+            "@types": "",
+            "@surfaceForm": "rap",
+            "@offset": "48",
+            "@similarityScore": "0.6037305650318789",
+            "@percentageOfSecondRank": "0.6528623833709897"
+        }
+    ]
+}

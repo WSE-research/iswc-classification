@@ -1,0 +1,28 @@
+{
+    "@text": "List the people died in Hyderabad and are a member of political party ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Hyderabad",
+            "@support": "12560",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Hyderabad",
+            "@offset": "24",
+            "@similarityScore": "0.9769541200211481",
+            "@percentageOfSecondRank": "0.02144782463826931"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Political_party",
+            "@support": "12621",
+            "@types": "",
+            "@surfaceForm": "political party",
+            "@offset": "54",
+            "@similarityScore": "0.9973228937863837",
+            "@percentageOfSecondRank": "0.001567227870369237"
+        }
+    ]
+}

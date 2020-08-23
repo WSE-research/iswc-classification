@@ -1,0 +1,28 @@
+{
+    "@text": "Do the trolleybuses in Cremona have a voltage less than 480?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Cremona",
+            "@support": "1886",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Cremona",
+            "@offset": "23",
+            "@similarityScore": "0.996840393025888",
+            "@percentageOfSecondRank": "0.0025195378511817658"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Voltage",
+            "@support": "9077",
+            "@types": "",
+            "@surfaceForm": "voltage",
+            "@offset": "38",
+            "@similarityScore": "0.997951894957749",
+            "@percentageOfSecondRank": "0.0019108057162571545"
+        }
+    ]
+}

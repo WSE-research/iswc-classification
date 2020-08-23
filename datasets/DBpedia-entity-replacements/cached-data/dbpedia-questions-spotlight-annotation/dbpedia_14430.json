@@ -1,0 +1,37 @@
+{
+    "@text": "Who was nominated for the Truman Show at the Academy Awards for Best Supporting Actor?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Harry_S._Truman",
+            "@support": "5920",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Truman",
+            "@offset": "26",
+            "@similarityScore": "0.9979172432864278",
+            "@percentageOfSecondRank": "0.001796844019088095"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Awards",
+            "@support": "24888",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Academy Awards",
+            "@offset": "45",
+            "@similarityScore": "0.9993314865722639",
+            "@percentageOfSecondRank": "1.939387826162673E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actor",
+            "@support": "1604",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Best Supporting Actor",
+            "@offset": "64",
+            "@similarityScore": "0.9805585744166612",
+            "@percentageOfSecondRank": "0.015753066482743983"
+        }
+    ]
+}

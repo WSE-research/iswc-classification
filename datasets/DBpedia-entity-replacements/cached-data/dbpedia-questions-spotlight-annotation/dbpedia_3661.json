@@ -1,0 +1,28 @@
+{
+    "@text": "does the topaz mohs' hardness equal to 8?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Topaz",
+            "@support": "365",
+            "@types": "Wikidata:Q7946,DUL:ChemicalObject,DBpedia:Mineral,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "topaz",
+            "@offset": "9",
+            "@similarityScore": "0.9999999365700509",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mohs_scale_of_mineral_hardness",
+            "@support": "670",
+            "@types": "",
+            "@surfaceForm": "hardness",
+            "@offset": "21",
+            "@similarityScore": "0.8710502731924691",
+            "@percentageOfSecondRank": "0.14709496324306"
+        }
+    ]
+}

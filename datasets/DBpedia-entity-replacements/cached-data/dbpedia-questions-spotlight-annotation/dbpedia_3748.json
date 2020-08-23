@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the railway tunnel with terminus Erstfeld and contains the word base in it's name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Tunnel",
+            "@support": "7791",
+            "@types": "",
+            "@surfaceForm": "tunnel",
+            "@offset": "21",
+            "@similarityScore": "0.9999993371960507",
+            "@percentageOfSecondRank": "4.301887831439375E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Erstfeld",
+            "@support": "77",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Erstfeld",
+            "@offset": "42",
+            "@similarityScore": "0.9998884978963494",
+            "@percentageOfSecondRank": "1.1151448605361893E-4"
+        }
+    ]
+}

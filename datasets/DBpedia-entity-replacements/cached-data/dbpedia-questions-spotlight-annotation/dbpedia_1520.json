@@ -1,0 +1,28 @@
+{
+    "@text": "Is the maximum temperature record of Russia less than 54.48?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Global_temperature_record",
+            "@support": "114",
+            "@types": "",
+            "@surfaceForm": "temperature record",
+            "@offset": "15",
+            "@similarityScore": "0.9999999997039026",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Russia",
+            "@support": "124390",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Russia",
+            "@offset": "37",
+            "@similarityScore": "0.9971039657941473",
+            "@percentageOfSecondRank": "0.002600620586960677"
+        }
+    ]
+}

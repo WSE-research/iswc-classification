@@ -1,0 +1,28 @@
+{
+    "@text": "Which current player of Chicago Bulls was drafted by Los Angeles Clippers ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Chicago_Bulls",
+            "@support": "4906",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:BasketballTeam,DBpedia:Agent",
+            "@surfaceForm": "Chicago Bulls",
+            "@offset": "24",
+            "@similarityScore": "0.9999999995036291",
+            "@percentageOfSecondRank": "1.0035012043374233E-10"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Los_Angeles_Clippers",
+            "@support": "3147",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:BasketballTeam,DBpedia:Agent",
+            "@surfaceForm": "Los Angeles Clippers",
+            "@offset": "53",
+            "@similarityScore": "0.9999999999294715",
+            "@percentageOfSecondRank": "1.6615532596999754E-11"
+        }
+    ]
+}

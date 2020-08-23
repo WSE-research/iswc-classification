@@ -1,0 +1,28 @@
+{
+    "@text": "Which TV show's writer is Erik Jendresen and distributor is HBO?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Erik_Jendresen",
+            "@support": "21",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Erik Jendresen",
+            "@offset": "26",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/HBO",
+            "@support": "14634",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q15265344,DUL:SocialPerson,DUL:Agent,Schema:TelevisionStation,Schema:Organization,DBpedia:TelevisionStation,DBpedia:Organisation,DBpedia:Broadcaster,DBpedia:Agent",
+            "@surfaceForm": "HBO",
+            "@offset": "60",
+            "@similarityScore": "0.9999982559721732",
+            "@percentageOfSecondRank": "1.6257355601293453E-6"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "@text": "\"What is {developed by} of {Nintendo 3DS}, which has {chief operating officer} is {Reggie Fils-Aime} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Nintendo",
+            "@support": "21906",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Nintendo",
+            "@offset": "28",
+            "@similarityScore": "0.999999970354168",
+            "@percentageOfSecondRank": "2.1164041421099928E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Nintendo_3DS",
+            "@support": "3276",
+            "@types": "Wikidata:Q1067263,DBpedia:InformationAppliance,DBpedia:Device",
+            "@surfaceForm": "3DS",
+            "@offset": "37",
+            "@similarityScore": "0.9994049620686046",
+            "@percentageOfSecondRank": "5.940218812786471E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chief_operating_officer",
+            "@support": "1479",
+            "@types": "",
+            "@surfaceForm": "chief operating officer",
+            "@offset": "54",
+            "@similarityScore": "0.9999999999999432",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Reggie_Fils-Aim\u00e9",
+            "@support": "96",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Reggie Fils-Aime",
+            "@offset": "83",
+            "@similarityScore": "0.9999999317082052",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "For which movie did Vivien Leigh recieve the Academy Award for Best Actress?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Vivien_Leigh",
+            "@support": "736",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Vivien Leigh",
+            "@offset": "20",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Awards",
+            "@support": "24888",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Academy Award",
+            "@offset": "45",
+            "@similarityScore": "0.8973130289265715",
+            "@percentageOfSecondRank": "0.06372107402385577"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress",
+            "@support": "2581",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Best Actress",
+            "@offset": "63",
+            "@similarityScore": "0.9988809522103803",
+            "@percentageOfSecondRank": "9.851163218717448E-4"
+        }
+    ]
+}

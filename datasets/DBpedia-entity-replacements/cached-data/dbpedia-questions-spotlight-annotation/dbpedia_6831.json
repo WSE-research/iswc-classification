@@ -1,0 +1,37 @@
+{
+    "@text": "What is the patronym or matronym for Vladimir Putin's name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Patronymic",
+            "@support": "2334",
+            "@types": "",
+            "@surfaceForm": "patronym",
+            "@offset": "12",
+            "@similarityScore": "0.9985319517029473",
+            "@percentageOfSecondRank": "0.0014701991838201199"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Matronymic",
+            "@support": "99",
+            "@types": "",
+            "@surfaceForm": "matronym",
+            "@offset": "24",
+            "@similarityScore": "0.9999999999430571",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Vladimir_Putin",
+            "@support": "6115",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Vladimir Putin",
+            "@offset": "37",
+            "@similarityScore": "0.9999999999999858",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

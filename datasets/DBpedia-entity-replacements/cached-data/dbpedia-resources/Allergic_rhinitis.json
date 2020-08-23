@@ -1,0 +1,584 @@
+{
+    "http://dbpedia.org/resource/Allergic_rhinitis": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Disease"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://vocab.org/frbr/core#Work"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Katar sienny",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u062d\u0633\u0627\u0633\u064a\u0629 \u0627\u0644\u0623\u0646\u0641",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Allergische Rhinitis",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Hooikoorts",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u043e\u043b\u043b\u0438\u043d\u043e\u0437",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Rinite al\u00e9rgica",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Rhinite allergique",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Rinitis al\u00e9rgica",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Rinite allergica",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Allergic rhinitis",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u904e\u654f\u6027\u9f3b\u708e",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Hooikoorts (pollinosis) is een vorm van allergische rinitis, die wordt gekenmerkt door allergie voor stuifmeel (pollen) van planten, vaak grassen of boomsoorten. Het gaat daarbij om pollen die via de wind worden verspreid. Planten die door insecten bestoven worden, hebben pollen die te zwaar zijn om door de wind te worden verspreid. Hooikoorts is seizoensgebonden, in tegenstelling tot allergische aandoeningen die het hele jaar door aanhouden zoals huisstofmijtallergie.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062a\u0647\u0627\u0628 \u0627\u0644\u0623\u0646\u0641 \u0627\u0644\u062a\u062d\u0633\u0633\u064a\u060c \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0623\u064a\u0636\u0627 \u0628\u0627\u0633\u0645 \u062d\u0645\u0649 \u0627\u0644\u0642\u0634 \u0623\u0648 \u0637\u0644\u0627\u0639\u060c \u0647\u0648 \u062d\u0627\u0644\u0629 \u0627\u0644\u062a\u064a \u062a\u062d\u062f\u062b \u0639\u0646\u062f\u0645\u0627 \u064a\u0631\u062f \u062c\u0647\u0627\u0632 \u0627\u0644\u0645\u0646\u0627\u0639\u0629 \u0628\u0635\u0648\u0631\u0629 \u0645\u0628\u0627\u0644\u063a \u0641\u064a\u0647\u0627 \u0644\u0644\u062d\u0633\u0627\u0633\u064a\u0629 \u0641\u064a \u0627\u0644\u0647\u0648\u0627\u0621. \u062a\u0634\u0645\u0644 \u0627\u0644\u0639\u0644\u0627\u0645\u0627\u062a \u0648\u0627\u0644\u0623\u0639\u0631\u0627\u0636 \u0633\u064a\u0644\u0627\u0646 \u0627\u0644\u0623\u0646\u0641 \u0623\u0648 \u0627\u0646\u0633\u062f\u0627\u062f\u060c \u0648\u0627\u0644\u0639\u0637\u0633\u060c \u0648\u0627\u0644\u0623\u062d\u0645\u0631\u0627\u0631\u060c \u0648\u0627\u0644\u062d\u0643\u0629\u060c \u0648\u0627\u0644\u0639\u064a\u0648\u0646 \u0627\u0644\u062f\u0627\u0645\u0639\u0629\u060c \u0648\u062a\u0648\u0631\u0645 \u062d\u0648\u0644 \u0627\u0644\u0639\u064a\u0646\u064a\u0646. \u0639\u0627\u062f\u0629 \u0645\u0627 \u064a\u0643\u0648\u0646 \u0633\u0627\u0626\u0644 \u0627\u0644\u0623\u0646\u0641 \u0646\u0638\u064a\u0641\u0627. \u062a\u0638\u0647\u0631 \u0627\u0644\u0623\u0639\u0631\u0627\u0636 \u0641\u064a \u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0623\u062d\u064a\u0627\u0646 \u0641\u064a \u063a\u0636\u0648\u0646 \u062f\u0642\u0627\u0626\u0642 \u0628\u0639\u062f \u0627\u0644\u062a\u0639\u0631\u0636 \u0644\u0644\u062d\u0633\u0627\u0633\u064a\u0629 \u0648\u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u0624\u062b\u0631 \u0639\u0644\u0649 \u0627\u0644\u0646\u0648\u0645\u060c \u0648\u0627\u0644\u0642\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0639\u0645\u0644\u060c \u0648\u0639\u062f\u0645 \u0627\u0644\u0642\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u062a\u0631\u0643\u064a\u0632 \u0641\u064a \u0627\u0644\u0645\u062f\u0631\u0633\u0629. \u0623\u0648\u0644\u0626\u0643 \u0627\u0644\u0630\u064a\u0646 \u062a\u0638\u0647\u0631 \u0623\u0639\u0631\u0627\u0636\u0647\u0645 \u0628\u0633\u0628\u0628 \u062d\u0628\u0648\u0628 \u0627\u0644\u0644\u0642\u0627\u062d \u0639\u0627\u062f\u0629 \u0645\u0627 \u062a\u0637\u0648\u0631 \u062e\u0644\u0627\u0644 \u0623\u0648\u0642\u0627\u062a \u0645\u0639\u064a\u0646\u0629 \u0645\u0646 \u0627\u0644\u0633\u0646\u0629. \u064a\u0639\u0627\u0646\u064a \u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0646\u0627\u0633 \u0627\u0644\u0630\u064a\u0646 \u064a\u0639\u0627\u0646\u0648\u0646 \u0645\u0646 \u062d\u0633\u0627\u0633\u064a\u0629 \u0627\u0644\u0623\u0646\u0641 \u0623\u064a\u0636\u0627 \u0627\u0644\u0631\u0628\u0648\u060c \u0648\u0627\u0644\u062a\u0647\u0627\u0628 \u0627\u0644\u0645\u0644\u062a\u062d\u0645\u0629 \u0627\u0644\u062a\u062d\u0633\u0633\u064a\u060c \u0623\u0648 \u0627\u0644\u062a\u0647\u0627\u0628 \u0627\u0644\u062c\u0644\u062f \u0627\u0644\u062a\u0623\u062a\u0628\u064a.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "La rhinite allergique est une affection m\u00e9dicale b\u00e9nigne secondaire \u00e0 une hypersensibilisation \u00e0 une substance \u00e9trang\u00e8re d\u00e9nomm\u00e9e allerg\u00e8ne. Son expression clinique est essentiellement la rhinite et la conjonctivite. L'allerg\u00e8ne peut \u00eatre le pollen (dans le cadre du rhume des foins) mais aussi les acariens, ainsi que d'autres produits.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "La rinite allergica (indicata anche come raffreddore allergico) \u00e8 una patologia infiammatoria acuta e ricorrente a carico della mucosa nasale dovuta a una reazione di un antigene esogeno (allergene).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Katar sienny, alergiczny nie\u017cyt nosa, ANN \u2013 alergiczne lub sezonowe zapalenie b\u0142ony \u015bluzowej nosa, definiowane jako objawowe zapalenie b\u0142ony \u015bluzowej nosa wywo\u0142ane reakcj\u0105 IgE-zale\u017cn\u0105. Wskutek reakcji organizmu na alergen (g\u0142\u00f3wnie py\u0142ki ro\u015blin) immunoglobuliny dr\u00f3g oddechowych powoduj\u0105 uwalnianie dra\u017cni\u0105cej b\u0142on\u0119 \u015bluzow\u0105 nosa histaminy przez mastocyty i bazofile. Odno\u015bnie do kataru siennego u\u017cywa si\u0119 te\u017c poj\u0119cia py\u0142kowica, kt\u00f3re obejmuje alergiczne lub sezonowe zapalenie b\u0142ony \u015bluzowej nosa i spoj\u00f3wek wraz z dolegliwo\u015bciami towarzysz\u0105cymi, jak napady astmy oskrzelowej, alergiczne reakcje sk\u00f3ry lub uk\u0142adu pokarmowego. Innymi funkcjonuj\u0105cymi w obiegu okre\u015bleniami schorzenia s\u0105: alergia py\u0142kowa, gor\u0105czka sienna, uczulenie sienne. Alergiczny nie\u017cyt nosa wyst\u0119puje zar\u00f3wno u niemowl\u0105t, jak i u d",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Die allergische Rhinitis (auch genannt Rhinitis allergica oder allergischer Schnupfen, speziell f\u00fcr pollenbedingte allergische Rhinitis Heuschnupfen, Heufieber oder Pollinose bzw. Pollinosis von lat. pollen = feines Mehl) ist eine allergisch bedingte Entz\u00fcndung der Nasenschleimhaut (Rhinitis). Diese wird oft von weiteren Erkrankungen der Atemwege begleitet (Komorbidit\u00e4t) wie Entz\u00fcndungen der Nasennebenh\u00f6hlen (Sinusitis) und Asthma.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "La rinitis al\u00e9rgica o fiebre del heno es una reacci\u00f3n de las membranas de la mucosa de la nariz (nasal) despu\u00e9s de una exposici\u00f3n a part\u00edculas de polvo, de polen, algunas veces al fr\u00edo, u otras sustancias que perjudican al que sea al\u00e9rgico. Se ven afectados los ojos y la nariz principalmente.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u904e\u654f\u6027\u9f3b\u708e\uff0c\u53c8\u7a31\u70ba\u9f3b\u654f\u611f\u3001\u4e7e\u8349\u71b1\u3001\u82b1\u7c89\u71b1\u3001\u82b1\u7c89\u75c7\u6216\u5b63\u7bc0\u6027\u904e\u654f\u6027\u9f3b\u708e\uff0c\u662f\u56e0\u70ba\u514d\u75ab\u7cfb\u7d71\u53d7\u5230\u7a7a\u6c23\u4e2d\u7684\u904e\u654f\u539f\u5f71\u97ff\u800c\u5c0e\u81f4\u7684\u9f3b\u708e\u75c7\u72c0\u3002\u5fb5\u5146\u548c\u75c5\u75c7\u5305\u62ec\u6d41\u9f3b\u6d95\u6216\u9f3b\u585e\u3001\u6253\u5674\u568f\u3001\u773c\u775b\u7684\u7d05\u7662\u8207\u6ea2\u6dda\u3001\u773c\u775b\u5468\u570d\u816b\u8139\u3002\u5f9e\u9f3b\u8154\u6d41\u51fa\u7684\u6db2\u9ad4\u901a\u5e38\u662f\u6e05\u6f88\u7684\u3002\u75c7\u72c0\u901a\u5e38\u6703\u5728\u63a5\u89f8\u904e\u654f\u539f\u5f8c\u7684\u5e7e\u5206\u9418\u5f8c\u7522\u751f\uff0c\u800c\u4e14\u6703\u5f71\u97ff\u7761\u7720\u3001\u5de5\u4f5c\u80fd\u529b\u4ee5\u53ca\u5728\u5b78\u5b78\u751f\u7684\u6ce8\u610f\u529b\uff0c\u56e0\u70ba\u82b1\u7c89\u800c\u6709\u75c5\u5fb5\u7684\u60a3\u8005\uff0c\u5927\u6982\u90fd\u96c6\u4e2d\u5728\u4e00\u5e74\u7684\u7279\u5b9a\u6642\u9593\u767c\u75c5\u3002\u8a31\u591a\u904e\u654f\u6027\u9f3b\u708e\u7684\u75c5\u60a3\u4e5f\u6703\u70ba\u6c23\u5598\u3001\u904e\u654f\u6027\u7d50\u819c\u708e\u6216\u7570\u4f4d\u6027\u76ae\u819a\u708e\u6240\u82e6\u3002 \u904e\u654f\u6027\u9f3b\u708e\u57fa\u672c\u4e0a\u662f\u53d7\u5230\u74b0\u5883\u904e\u654f\u539f\u7684\u8a98\u767c\uff0c\u4f8b\u5982\u82b1\u7c89\u3001\u52d5\u7269\u6bdb\u9aee\u3001\u7070\u5875\u6216\u9ef4\u83cc\uff0c\u907a\u50b3\u57fa\u56e0\u9084\u6709\u74b0\u5883\u66b4\u9732\u90fd\u662f\u9020\u6210\u904e\u654f\u7684\u539f\u56e0\u3002\u5728\u8fb2\u5834\u88e1\u9577\u5927\u6216\u6709\u591a\u500b\u5144\u5f1f\u59ca\u59b9\u90fd\u80fd\u6e1b\u4f4e\u7f79\u60a3\u904e\u654f\u7684\u6a5f\u7387\u5176\u4f5c\u7528\u6a5f\u5236\u548cIgE\u6297\u9ad4\u6709\u95dc\uff0c\u7576\u6b64\u6297\u9ad4\u63a5\u89f8\u5230\u904e\u654f\u539f\u6642\u6703\u4fc3\u4f7f\u80a5\u5927\u7d30\u80de\u91cb\u51fa\u50cf\u662f\u7d44\u7e54\u80fa\u7684\u5316\u5b78\u7269\u8cea\u4f86\u9020\u6210\u767c\u708e\u53cd\u61c9\u3002\u8a3a\u65b7\u65b9\u6cd5\u5e38\u4ef0\u8cf4\u91ab\u7642\u75c5\u53f2\uff0c\u4e14\u7d50\u5408\u76ae\u819a\u904e\u654f\u8a66\u9a57\u6216\u662f\u62bd\u8840\u4f86\u6aa2\u67e5\u662f\u5426\u542b\u6709\u7279\u5b9aIgE\u6297\u9ad4\u3002\u4e0d\u904e\u9019\u4e9b\u6e2c\u8a66\u6709\u6642\u6703\u5448\u73fe\u507d\u967d\u6027\u3002\u904e\u654f\u7684\u75c5\u5fb5\u548c\u666e\u901a\u611f\u5192\u7684\u75c7\u72c0\u985e\u4f3c\uff0c\u4f46\u904e\u654f\u7684\u75c7\u72c0\u5e38\u6301\u7e8c\u8d85\u904e\u5169\u500b\u79ae\u62dc\u800c\u4e14\u8f03\u5c11\u6703\u6709\u767c\u71d2\u7684\u60c5\u5f62\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Rinite al\u00e9rgica, conhecida popularmente por febre dos fenos, \u00e9 um tipo de inflama\u00e7\u00e3o do nariz que ocorre quando o sistema imunit\u00e1rio tem uma rea\u00e7\u00e3o excessiva aos alerg\u00e9nios no ar. Os sinais e sintomas incluem congest\u00e3o ou corrimento nasal, espirros e comich\u00e3o nos olhos, que se podem tornar vermelhos e inflamados. O muco que escorre do nariz \u00e9 geralmente l\u00edmpido. Os sintomas t\u00eam geralmente in\u00edcio poucos minutos ap\u00f3s a exposi\u00e7\u00e3o ao alerg\u00e9nio e podem afetar o sono, a capacidade de trabalho e a capacidade de concentra\u00e7\u00e3o. Nas pessoas al\u00e9rgicas ao p\u00f3len, os sintomas geralmente ocorrem com maior intensidade durante determinadas \u00e9pocas do ano. Muitas pessoas com rinite al\u00e9rgica tamb\u00e9m apresentam asma, conjuntivite al\u00e9rgica ou dermatite at\u00f3pica. Os sintomas da rinite al\u00e9rgicca s\u00e3o semelhantes aos ",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u043e\u043b\u043b\u0438\u043d\u043e\u0437, \u0438\u043b\u0438 \u0441\u0435\u0437\u043e\u043d\u043d\u044b\u0439 \u0430\u043b\u043b\u0435\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0438\u043d\u043e\u043a\u043e\u043d\u044a\u044e\u043d\u043a\u0442\u0438\u0432\u0438\u0442 \u2014 \u0441\u0435\u0437\u043e\u043d\u043d\u043e\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0435, \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0430\u043b\u043b\u0435\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0430\u043a\u0446\u0438\u044f \u043d\u0430 \u043f\u044b\u043b\u044c\u0446\u0443 \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0439. \u0417\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0435 \u0438\u043d\u043e\u0433\u0434\u0430 \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u0441\u0435\u043d\u043d\u043e\u0439 \u043b\u0438\u0445\u043e\u0440\u0430\u0434\u043a\u043e\u0439, \u0445\u043e\u0442\u044f \u0441\u0435\u043d\u043e \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0437\u043d\u0430\u0447\u0438\u043c\u044b\u043c \u0444\u0430\u043a\u0442\u043e\u0440\u043e\u043c \u0432 \u0433\u0435\u043d\u0435\u0437\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f, \u0430 \u043b\u0438\u0445\u043e\u0440\u0430\u0434\u043a\u0430 \u043d\u0435 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u0430 \u0434\u043b\u044f \u0434\u0430\u043d\u043d\u043e\u0439 \u043f\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e\uff08\u30a2\u30ec\u30eb\u30ae\u30fc\u305b\u3044\u3073\u3048\u3093\u3001allergic rhinitis\u3001\u7565\uff1aAR \uff09\u3068\u306f\u3001\u767a\u4f5c\u6027\u53cd\u5fa9\u6027\u306e\u304f\u3057\u3083\u307f\u3001\u6c34\u6027\u9f3b\u6c41\u3001\u9f3b\u9589\u3092\u4e3b\u5fb4\u3068\u3059\u308b\u9f3b\u7c98\u819c\u306eI\u578b\u30a2\u30ec\u30eb\u30ae\u30fc\u3067\u3042\u308b\u3002 \u9f3b\u30a2\u30ec\u30eb\u30ae\u30fc\uff08nasal allergy\uff09\u3068\u3082\u547c\u3070\u308c\u308b\u304c\u3001\u3053\u306e\u5834\u5408\u306f\u9f3b\u7c98\u819c\u306b\u304a\u3051\u308b\u708e\u75c7\u3067\u3042\u308b\u9f3b\u708e\u4ee5\u5916\u3001\u3059\u306a\u308f\u3061\u526f\u9f3b\u8154\u306a\u3069\u3092\u542b\u3080\u9f3b\u306b\u304a\u3051\u308b\u30a2\u30ec\u30eb\u30ae\u30fc\u75be\u60a3\u5168\u822c\u3092\u6307\u3059\u3002\u3057\u304b\u3057\u306a\u304c\u3089\u3001\u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e\u3068\u9f3b\u30a2\u30ec\u30eb\u30ae\u30fc\u3068\u306f\u3057\u3070\u3057\u3070\u540c\u7fa9\u306b\u7528\u3044\u3089\u308c\u308b\u3002 \u9f3b\u904e\u654f\u75c7\uff08hyperesthetic rhinitis\uff09\u3068\u547c\u3076\u3053\u3068\u3082\u3042\u308b\u304c\u3001\u3053\u308c\u306f\u3055\u3089\u306b\u5e83\u7fa9\u3067\u3042\u308a\u3001\u30a2\u30ec\u30eb\u30ae\u30fc\u306e\u6a5f\u5e8f\u306b\u3088\u3089\u306a\u3044\u9f3b\u75be\u60a3\u3001\u305f\u3068\u3048\u3070\u8840\u7ba1\u904b\u52d5\u6027\u9f3b\u708e\u306a\u3069\u3082\u542b\u3080\u6982\u5ff5\u3067\u3042\u308b\u3002 \u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e\u306b\u306f\u901a\u5e74\u6027\u3068\u5b63\u7bc0\u6027\u304c\u3042\u308a\u3001\u5f8c\u8005\u306e\u4ee3\u8868\u7684\u306a\u3082\u306e\u306b\u82b1\u7c89\u75c7\u304c\u3042\u308b\u3002\u7a7a\u6c17\u304c\u4e7e\u71e5\u3059\u308b\u5b63\u7bc0\u306b\u9650\u3063\u3066\u3001\u9f3b\u708e\u3092\u8d77\u3053\u3059\u30b1\u30fc\u30b9\u3082\u3042\u308b\u3002 \u3084\u3084\u72ed\u7fa9\u304a\u3088\u3073\u4e00\u822c\u5e02\u6c11\u306e\u9593\u3067\u7528\u3044\u3089\u308c\u308b\u610f\u5473\u3067\u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e\u3068\u8a00\u3063\u305f\u5834\u5408\u3001\u901a\u5e74\u6027\u306e\u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e\u3092\u6307\u3059\u3053\u3068\u304c\u591a\u3044\u3002\u901a\u5e74\u6027\u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e\u306e\u4ee3\u8868\u7684\u306a\u3082\u306e\u306f\u3001\u30c0\u30cb\u306b\u3088\u308b\u9f3b\u708e\u3067\u3042\u308b\u3002\u3057\u304b\u3057\u3001\u30ab\u30d3\u306b\u3088\u308b\u9f3b\u708e\u3082\u5c11\u306a\u304f\u306a\u3044\u3053\u3068\u304c\u308f\u304b\u3063\u3066\u304d\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Allergic rhinitis, also known as hay fever, is a type of inflammation in the nose which occurs when the immune system overreacts to allergens in the air. Signs and symptoms include a runny or stuffy nose, sneezing, red, itchy, and watery eyes, and swelling around the eyes. The fluid from the nose is usually clear. Symptom onset is often within minutes following exposure and they can affect sleep, the ability to work, and the ability to concentrate at school. Those whose symptoms are due to pollen typically develop symptoms during specific times of the year. Many people with allergic rhinitis also have asthma, allergic conjunctivitis, or atopic dermatitis.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://lobid.org/resource/HT002235791"
+            },
+            {
+                "type": "uri",
+                "value": "http://lobid.org/resource/HT003033091"
+            },
+            {
+                "type": "uri",
+                "value": "http://lobid.org/resource/HT008231161"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Alergick\u00e1_r\u00fdma"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0c01msq"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Allergische_Rhinitis"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Rinite_al\u00e9rgica"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Rinitis_al\u00e9rgica"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc54c\ub808\ub974\uae30_\ube44\uc5fc"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Rinite_allergica"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q272436"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q272436"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.029r38"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Katar_sienny"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Hooikoorts"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Rhinite_allergique"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Type_I_hypersensitivity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:RTT"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Allergology"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Special:FilePath/Misc_pollen.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Allergic_rhinitis"
+            }
+        ],
+        "http://dbpedia.org/property/diseasesdb": [
+            {
+                "type": "literal",
+                "value": 31140,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/icd": [
+            {
+                "type": "literal",
+                "value": "J30",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": 477,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/medlineplus": [
+            {
+                "type": "literal",
+                "value": 813,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergy_and_immunology"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Allergic_rhinitis?oldid=740761917"
+            }
+        ],
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "literal",
+                "value": "0.4",
+                "datatype": "http://dbpedia.org/datatype/millimetre"
+            },
+            {
+                "type": "literal",
+                "value": "wide.",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Pollen grains from a variety of plants. Enlarged 500 times and about",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://rdvocab.info/RDARelationshipsWEMI/manifestationOfWork": [
+            {
+                "type": "uri",
+                "value": "http://lobid.org/resource/HT002235791"
+            },
+            {
+                "type": "uri",
+                "value": "http://lobid.org/resource/HT008231161"
+            },
+            {
+                "type": "uri",
+                "value": "http://lobid.org/resource/HT003033091"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Allergic rhinitis",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/omim": [
+            {
+                "type": "literal",
+                "value": 607154,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/with": [
+            {
+                "type": "literal",
+                "value": "Examples of how to prevent or lessen the effects of allergic rhinitis",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "La rinitis al\u00e9rgica o fiebre del heno es una reacci\u00f3n de las membranas de la mucosa de la nariz (nasal) despu\u00e9s de una exposici\u00f3n a part\u00edculas de polvo, de polen, algunas veces al fr\u00edo, u otras sustancias que perjudican al que sea al\u00e9rgico. Se ven afectados los ojos y la nariz principalmente.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e\uff08\u30a2\u30ec\u30eb\u30ae\u30fc\u305b\u3044\u3073\u3048\u3093\u3001allergic rhinitis\u3001\u7565\uff1aAR \uff09\u3068\u306f\u3001\u767a\u4f5c\u6027\u53cd\u5fa9\u6027\u306e\u304f\u3057\u3083\u307f\u3001\u6c34\u6027\u9f3b\u6c41\u3001\u9f3b\u9589\u3092\u4e3b\u5fb4\u3068\u3059\u308b\u9f3b\u7c98\u819c\u306eI\u578b\u30a2\u30ec\u30eb\u30ae\u30fc\u3067\u3042\u308b\u3002 \u9f3b\u30a2\u30ec\u30eb\u30ae\u30fc\uff08nasal allergy\uff09\u3068\u3082\u547c\u3070\u308c\u308b\u304c\u3001\u3053\u306e\u5834\u5408\u306f\u9f3b\u7c98\u819c\u306b\u304a\u3051\u308b\u708e\u75c7\u3067\u3042\u308b\u9f3b\u708e\u4ee5\u5916\u3001\u3059\u306a\u308f\u3061\u526f\u9f3b\u8154\u306a\u3069\u3092\u542b\u3080\u9f3b\u306b\u304a\u3051\u308b\u30a2\u30ec\u30eb\u30ae\u30fc\u75be\u60a3\u5168\u822c\u3092\u6307\u3059\u3002\u3057\u304b\u3057\u306a\u304c\u3089\u3001\u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e\u3068\u9f3b\u30a2\u30ec\u30eb\u30ae\u30fc\u3068\u306f\u3057\u3070\u3057\u3070\u540c\u7fa9\u306b\u7528\u3044\u3089\u308c\u308b\u3002 \u9f3b\u904e\u654f\u75c7\uff08hyperesthetic rhinitis\uff09\u3068\u547c\u3076\u3053\u3068\u3082\u3042\u308b\u304c\u3001\u3053\u308c\u306f\u3055\u3089\u306b\u5e83\u7fa9\u3067\u3042\u308a\u3001\u30a2\u30ec\u30eb\u30ae\u30fc\u306e\u6a5f\u5e8f\u306b\u3088\u3089\u306a\u3044\u9f3b\u75be\u60a3\u3001\u305f\u3068\u3048\u3070\u8840\u7ba1\u904b\u52d5\u6027\u9f3b\u708e\u306a\u3069\u3082\u542b\u3080\u6982\u5ff5\u3067\u3042\u308b\u3002 \u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e\u306b\u306f\u901a\u5e74\u6027\u3068\u5b63\u7bc0\u6027\u304c\u3042\u308a\u3001\u5f8c\u8005\u306e\u4ee3\u8868\u7684\u306a\u3082\u306e\u306b\u82b1\u7c89\u75c7\u304c\u3042\u308b\u3002\u7a7a\u6c17\u304c\u4e7e\u71e5\u3059\u308b\u5b63\u7bc0\u306b\u9650\u3063\u3066\u3001\u9f3b\u708e\u3092\u8d77\u3053\u3059\u30b1\u30fc\u30b9\u3082\u3042\u308b\u3002 \u3084\u3084\u72ed\u7fa9\u304a\u3088\u3073\u4e00\u822c\u5e02\u6c11\u306e\u9593\u3067\u7528\u3044\u3089\u308c\u308b\u610f\u5473\u3067\u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e\u3068\u8a00\u3063\u305f\u5834\u5408\u3001\u901a\u5e74\u6027\u306e\u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e\u3092\u6307\u3059\u3053\u3068\u304c\u591a\u3044\u3002\u901a\u5e74\u6027\u30a2\u30ec\u30eb\u30ae\u30fc\u6027\u9f3b\u708e\u306e\u4ee3\u8868\u7684\u306a\u3082\u306e\u306f\u3001\u30c0\u30cb\u306b\u3088\u308b\u9f3b\u708e\u3067\u3042\u308b\u3002\u3057\u304b\u3057\u3001\u30ab\u30d3\u306b\u3088\u308b\u9f3b\u708e\u3082\u5c11\u306a\u304f\u306a\u3044\u3053\u3068\u304c\u308f\u304b\u3063\u3066\u304d\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u904e\u654f\u6027\u9f3b\u708e\uff0c\u53c8\u7a31\u70ba\u9f3b\u654f\u611f\u3001\u4e7e\u8349\u71b1\u3001\u82b1\u7c89\u71b1\u3001\u82b1\u7c89\u75c7\u6216\u5b63\u7bc0\u6027\u904e\u654f\u6027\u9f3b\u708e\uff0c\u662f\u56e0\u70ba\u514d\u75ab\u7cfb\u7d71\u53d7\u5230\u7a7a\u6c23\u4e2d\u7684\u904e\u654f\u539f\u5f71\u97ff\u800c\u5c0e\u81f4\u7684\u9f3b\u708e\u75c7\u72c0\u3002\u5fb5\u5146\u548c\u75c5\u75c7\u5305\u62ec\u6d41\u9f3b\u6d95\u6216\u9f3b\u585e\u3001\u6253\u5674\u568f\u3001\u773c\u775b\u7684\u7d05\u7662\u8207\u6ea2\u6dda\u3001\u773c\u775b\u5468\u570d\u816b\u8139\u3002\u5f9e\u9f3b\u8154\u6d41\u51fa\u7684\u6db2\u9ad4\u901a\u5e38\u662f\u6e05\u6f88\u7684\u3002\u75c7\u72c0\u901a\u5e38\u6703\u5728\u63a5\u89f8\u904e\u654f\u539f\u5f8c\u7684\u5e7e\u5206\u9418\u5f8c\u7522\u751f\uff0c\u800c\u4e14\u6703\u5f71\u97ff\u7761\u7720\u3001\u5de5\u4f5c\u80fd\u529b\u4ee5\u53ca\u5728\u5b78\u5b78\u751f\u7684\u6ce8\u610f\u529b\uff0c\u56e0\u70ba\u82b1\u7c89\u800c\u6709\u75c5\u5fb5\u7684\u60a3\u8005\uff0c\u5927\u6982\u90fd\u96c6\u4e2d\u5728\u4e00\u5e74\u7684\u7279\u5b9a\u6642\u9593\u767c\u75c5\u3002\u8a31\u591a\u904e\u654f\u6027\u9f3b\u708e\u7684\u75c5\u60a3\u4e5f\u6703\u70ba\u6c23\u5598\u3001\u904e\u654f\u6027\u7d50\u819c\u708e\u6216\u7570\u4f4d\u6027\u76ae\u819a\u708e\u6240\u82e6\u3002 \u904e\u654f\u6027\u9f3b\u708e\u57fa\u672c\u4e0a\u662f\u53d7\u5230\u74b0\u5883\u904e\u654f\u539f\u7684\u8a98\u767c\uff0c\u4f8b\u5982\u82b1\u7c89\u3001\u52d5\u7269\u6bdb\u9aee\u3001\u7070\u5875\u6216\u9ef4\u83cc\uff0c\u907a\u50b3\u57fa\u56e0\u9084\u6709\u74b0\u5883\u66b4\u9732\u90fd\u662f\u9020\u6210\u904e\u654f\u7684\u539f\u56e0\u3002\u5728\u8fb2\u5834\u88e1\u9577\u5927\u6216\u6709\u591a\u500b\u5144\u5f1f\u59ca\u59b9\u90fd\u80fd\u6e1b\u4f4e\u7f79\u60a3\u904e\u654f\u7684\u6a5f\u7387\u5176\u4f5c\u7528\u6a5f\u5236\u548cIgE\u6297\u9ad4\u6709\u95dc\uff0c\u7576\u6b64\u6297\u9ad4\u63a5\u89f8\u5230\u904e\u654f\u539f\u6642\u6703\u4fc3\u4f7f\u80a5\u5927\u7d30\u80de\u91cb\u51fa\u50cf\u662f\u7d44\u7e54\u80fa\u7684\u5316\u5b78\u7269\u8cea\u4f86\u9020\u6210\u767c\u708e\u53cd\u61c9\u3002\u8a3a\u65b7\u65b9\u6cd5\u5e38\u4ef0\u8cf4\u91ab\u7642\u75c5\u53f2\uff0c\u4e14\u7d50\u5408\u76ae\u819a\u904e\u654f\u8a66\u9a57\u6216\u662f\u62bd\u8840\u4f86\u6aa2\u67e5\u662f\u5426\u542b\u6709\u7279\u5b9aIgE\u6297\u9ad4\u3002\u4e0d\u904e\u9019\u4e9b\u6e2c\u8a66\u6709\u6642\u6703\u5448\u73fe\u507d\u967d\u6027\u3002\u904e\u654f\u7684\u75c5\u5fb5\u548c\u666e\u901a\u611f\u5192\u7684\u75c7\u72c0\u985e\u4f3c\uff0c\u4f46\u904e\u654f\u7684\u75c7\u72c0\u5e38\u6301\u7e8c\u8d85\u904e\u5169\u500b\u79ae\u62dc\u800c\u4e14\u8f03\u5c11\u6703\u6709\u767c\u71d2\u7684\u60c5\u5f62\u3002 \u5982\u679c\u5728\u5e7c\u7ae5\u6642\u671f\u5c31\u958b\u59cb\u63a5\u89f8\u52d5\u7269\uff0c\u5247\u6709\u6a5f\u6703\u964d\u4f4e\u65e5\u5f8c\u56e0\u6b64\u800c\u904e\u654f\u7684\u6a5f\u6703\u3002\u3002\u6709\u90e8\u5206\u85e5\u7269\u53ef\u4ee5\u6539\u5584\u904e\u654f\u75c7\u72c0\uff0c\u7576\u4e2d\u5305\u62ec\u9f3b\u708e\u985e\u56fa\u9187\u3001\u6297\u7d44\u7e54\u80fa\uff0c\u4f8b\u5982\u82ef\u6d77\u62c9\u660e\u3001\u8272\u7518\u9178\u9209\u4ee5\u53ca\u767d\u4e09\u70ef\u53d7\u9ad4\u62ee\u6297\u5291\u985e\u7684montelukast\uff08\u85e5\u54c1\u540d\uff1a\u6b23\u6d41\uff09\u90fd\u5c6c\u6b64\u985e\u3002\u4e0d\u904e\u5c0d\u8a31\u591a\u4eba\u800c\u8a00\uff0c\u85e5\u7269\u6539\u5584\u7684\u6548\u679c\u6709\u9650\uff0c\u6216\u662f\u6703\u6709\u526f\u4f5c\u7528\u3002\u904e\u654f\u539f\u514d\u75ab\u7642\u6cd5\u662f\u8b93\u4eba\u66b4\u9732\u5728\u8d8a\u4f86\u8d8a\u591a\u7684\u904e\u654f\u539f\u4e2d\uff0c\u6b64\u7642\u6cd5\u4e00\u822c\u800c\u8a00\u662f\u6709\u6548\u7684\uff0c\u904e\u654f\u539f\u53ef\u4ee5\u6ce8\u5c04\u5230\u9ad4\u4e2d\uff0c\u6216\u662f\u7528\u53e3\u542b\u9320\u7684\u65b9\u5f0f\u542b\u5728\u820c\u4e0b\u3002 \u904e\u654f\u6027\u9f3b\u708e\u662f\u904e\u654f\u7684\u4e00\u7a2e\uff0c\u6703\u5f71\u97ff\u8a31\u591a\u4eba\u7684\u751f\u6d3b\u3002\u897f\u65b9\u570b\u5bb6\u5728\u4e00\u5e74\u5167\u7d04\u670910-30%\u7684\u4eba\u5011\u53d7\u904e\u654f\u56f0\u64fe\uff0c\u6700\u5e38\u898b\u7684\u5e74\u9f61\u5927\u6982\u662f\u5f9e20-40\u6b72\u5de6\u53f3\u3002\u5728\u897f\u5143\u5341\u4e16\u7d00\u7684\u6642\u5019\uff0c\u62c9\u6fa4\u65af\u91ab\u5e2b\u7b2c\u4e00\u6b21\u5c0d\u904e\u654f\u6709\u5b8c\u6574\u7684\u6558\u8ff0\u30021859\u5e74\uff0c\u67e5\u7406\u00b7\u5e03\u840a\u514b\u5229\u91ab\u5e2b\u767c\u73fe\u82b1\u7c89\u662f\u9020\u6210\u904e\u654f\u7684\u539f\u56e0\uff0c\u800c\u76ae\u594e\u7279\u3002\u548c\u4e7e\u8349\u7684\u95dc\u806f\u537b\u662f\u56e0\u70ba\u65e9\u671f\uff08\u4e14\u932f\u8aa4\uff09\u7684\u7406\u8ad6\uff0c\u8a72\u7406\u8ad6\u63d0\u5230\u904e\u654f\u5176\u5be6\u662f\u65b0\u4e7e\u8349\u7684\u5473\u9053\u5f15\u8d77\u7684\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u043e\u043b\u043b\u0438\u043d\u043e\u0437, \u0438\u043b\u0438 \u0441\u0435\u0437\u043e\u043d\u043d\u044b\u0439 \u0430\u043b\u043b\u0435\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0438\u043d\u043e\u043a\u043e\u043d\u044a\u044e\u043d\u043a\u0442\u0438\u0432\u0438\u0442 \u2014 \u0441\u0435\u0437\u043e\u043d\u043d\u043e\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0435, \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0430\u043b\u043b\u0435\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0430\u043a\u0446\u0438\u044f \u043d\u0430 \u043f\u044b\u043b\u044c\u0446\u0443 \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0439. \u0417\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0435 \u0438\u043d\u043e\u0433\u0434\u0430 \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u0441\u0435\u043d\u043d\u043e\u0439 \u043b\u0438\u0445\u043e\u0440\u0430\u0434\u043a\u043e\u0439, \u0445\u043e\u0442\u044f \u0441\u0435\u043d\u043e \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0437\u043d\u0430\u0447\u0438\u043c\u044b\u043c \u0444\u0430\u043a\u0442\u043e\u0440\u043e\u043c \u0432 \u0433\u0435\u043d\u0435\u0437\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f, \u0430 \u043b\u0438\u0445\u043e\u0440\u0430\u0434\u043a\u0430 \u043d\u0435 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u0430 \u0434\u043b\u044f \u0434\u0430\u043d\u043d\u043e\u0439 \u043f\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u062a\u0647\u0627\u0628 \u0627\u0644\u0623\u0646\u0641 \u0627\u0644\u062a\u062d\u0633\u0633\u064a\u060c \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0623\u064a\u0636\u0627 \u0628\u0627\u0633\u0645 \u062d\u0645\u0649 \u0627\u0644\u0642\u0634 \u0623\u0648 \u0637\u0644\u0627\u0639\u060c \u0647\u0648 \u062d\u0627\u0644\u0629 \u0627\u0644\u062a\u064a \u062a\u062d\u062f\u062b \u0639\u0646\u062f\u0645\u0627 \u064a\u0631\u062f \u062c\u0647\u0627\u0632 \u0627\u0644\u0645\u0646\u0627\u0639\u0629 \u0628\u0635\u0648\u0631\u0629 \u0645\u0628\u0627\u0644\u063a \u0641\u064a\u0647\u0627 \u0644\u0644\u062d\u0633\u0627\u0633\u064a\u0629 \u0641\u064a \u0627\u0644\u0647\u0648\u0627\u0621. \u062a\u0634\u0645\u0644 \u0627\u0644\u0639\u0644\u0627\u0645\u0627\u062a \u0648\u0627\u0644\u0623\u0639\u0631\u0627\u0636 \u0633\u064a\u0644\u0627\u0646 \u0627\u0644\u0623\u0646\u0641 \u0623\u0648 \u0627\u0646\u0633\u062f\u0627\u062f\u060c \u0648\u0627\u0644\u0639\u0637\u0633\u060c \u0648\u0627\u0644\u0623\u062d\u0645\u0631\u0627\u0631\u060c \u0648\u0627\u0644\u062d\u0643\u0629\u060c \u0648\u0627\u0644\u0639\u064a\u0648\u0646 \u0627\u0644\u062f\u0627\u0645\u0639\u0629\u060c \u0648\u062a\u0648\u0631\u0645 \u062d\u0648\u0644 \u0627\u0644\u0639\u064a\u0646\u064a\u0646. \u0639\u0627\u062f\u0629 \u0645\u0627 \u064a\u0643\u0648\u0646 \u0633\u0627\u0626\u0644 \u0627\u0644\u0623\u0646\u0641 \u0646\u0638\u064a\u0641\u0627. \u062a\u0638\u0647\u0631 \u0627\u0644\u0623\u0639\u0631\u0627\u0636 \u0641\u064a \u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0623\u062d\u064a\u0627\u0646 \u0641\u064a \u063a\u0636\u0648\u0646 \u062f\u0642\u0627\u0626\u0642 \u0628\u0639\u062f \u0627\u0644\u062a\u0639\u0631\u0636 \u0644\u0644\u062d\u0633\u0627\u0633\u064a\u0629 \u0648\u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u0624\u062b\u0631 \u0639\u0644\u0649 \u0627\u0644\u0646\u0648\u0645\u060c \u0648\u0627\u0644\u0642\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0639\u0645\u0644\u060c \u0648\u0639\u062f\u0645 \u0627\u0644\u0642\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u062a\u0631\u0643\u064a\u0632 \u0641\u064a \u0627\u0644\u0645\u062f\u0631\u0633\u0629. \u0623\u0648\u0644\u0626\u0643 \u0627\u0644\u0630\u064a\u0646 \u062a\u0638\u0647\u0631 \u0623\u0639\u0631\u0627\u0636\u0647\u0645 \u0628\u0633\u0628\u0628 \u062d\u0628\u0648\u0628 \u0627\u0644\u0644\u0642\u0627\u062d \u0639\u0627\u062f\u0629 \u0645\u0627 \u062a\u0637\u0648\u0631 \u062e\u0644\u0627\u0644 \u0623\u0648\u0642\u0627\u062a \u0645\u0639\u064a\u0646\u0629 \u0645\u0646 \u0627\u0644\u0633\u0646\u0629. \u064a\u0639\u0627\u0646\u064a \u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0646\u0627\u0633 \u0627\u0644\u0630\u064a\u0646 \u064a\u0639\u0627\u0646\u0648\u0646 \u0645\u0646 \u062d\u0633\u0627\u0633\u064a\u0629 \u0627\u0644\u0623\u0646\u0641 \u0623\u064a\u0636\u0627 \u0627\u0644\u0631\u0628\u0648\u060c \u0648\u0627\u0644\u062a\u0647\u0627\u0628 \u0627\u0644\u0645\u0644\u062a\u062d\u0645\u0629 \u0627\u0644\u062a\u062d\u0633\u0633\u064a\u060c \u0623\u0648 \u0627\u0644\u062a\u0647\u0627\u0628 \u0627\u0644\u062c\u0644\u062f \u0627\u0644\u062a\u0623\u062a\u0628\u064a. \u0648\u0639\u0627\u062f\u0629 \u0645\u0627 \u062a\u0633\u0628\u0628 \u062d\u0633\u0627\u0633\u064a\u0629 \u0627\u0644\u0623\u0646\u0641 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0645\u0633\u0628\u0628\u0629 \u0644\u0644\u062d\u0633\u0627\u0633\u064a\u0629 \u0627\u0644\u0628\u064a\u0626\u064a\u0629 \u0645\u062b\u0644 \u062d\u0628\u0648\u0628 \u0627\u0644\u0644\u0642\u0627\u062d\u060c \u0634\u0639\u0631 \u0627\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a \u0627\u0644\u0623\u0644\u064a\u0641\u0629\u060c \u0648\u0627\u0644\u063a\u0628\u0627\u0631\u060c \u0623\u0648 \u0627\u0644\u0639\u0641\u0646. \u062a\u0633\u0627\u0647\u0645 \u0627\u0644\u062c\u064a\u0646\u0627\u062a \u0627\u0644\u0645\u0648\u0631\u0648\u062b\u0629 \u0648\u0627\u0644\u062a\u0639\u0631\u0636 \u0644\u0644\u0639\u0648\u0627\u0645\u0644 \u0627\u0644\u0628\u064a\u0626\u064a\u0629 \u0641\u064a \u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u062d\u0633\u0627\u0633\u064a\u0629. \u062a\u0642\u0644\u0644 \u0627\u0644\u0646\u0634\u0623\u0629 \u0641\u064a \u0645\u0632\u0631\u0639\u0629 \u0648\u0648\u062c\u0648\u062f \u0627\u0644\u0623\u0634\u0642\u0627\u0621 \u0645\u0646 \u062e\u0637\u0631 \u0627\u0644\u0625\u0635\u0627\u0628\u0629 \u0628\u0627\u0644\u0645\u0631\u0636. \u062a\u0636\u0645\u0646\u062a \u0627\u0644\u0622\u0644\u064a\u0629 \u0643\u0631\u064a\u064a\u0646 \u0645\u0646\u0627\u0639\u064a \u0647\u0640 \u0627\u0644\u0643\u0627\u0645\u0646\u0629 \u0648\u0631\u0627\u0621 \u0627\u0644\u0623\u062c\u0633\u0627\u0645 \u0627\u0644\u0645\u0636\u0627\u062f\u0629 \u0627\u0644\u0645\u062a\u0631\u062a\u0628\u0629 \u0639\u0644\u0649 \u0645\u0633\u0628\u0628\u0627\u062a \u0627\u0644\u062d\u0633\u0627\u0633\u064a\u0629 \u0641\u064a \u0625\u0637\u0644\u0627\u0642 \u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0627\u0644\u0627\u0644\u062a\u0647\u0627\u0628\u064a\u0629 \u0645\u062b\u0644 \u0627\u0644\u0647\u0633\u062a\u0627\u0645\u064a\u0646 \u0645\u0646 \u062e\u0644\u064a\u0629 \u0628\u062f\u064a\u0646\u0629. \u0639\u0627\u062f\u0629 \u0645\u0627 \u064a\u0633\u062a\u0646\u062f \u0627\u0644\u062a\u0634\u062e\u064a\u0635 \u0639\u0644\u0649 \u0627\u0644\u0633\u064a\u0631\u0629 \u0627\u0644\u0645\u0631\u0636\u064a\u0629 \u0627\u0644\u0645\u062e\u062a\u0644\u0637 \u0645\u0639 \u0627\u062e\u062a\u0628\u0627\u0631 \u0648\u062e\u0632 \u0627\u0644\u062c\u0644\u062f \u0623\u0648 \u0627\u062e\u062a\u0628\u0627\u0631\u0627\u062a \u0645\u062d\u062f\u062f\u0629 \u0644\u062d\u0633\u0627\u0633\u064a\u0629 \u0627\u0644\u062f\u0645 \u0644\u0643\u0631\u064a\u064a\u0646 \u0645\u0646\u0627\u0639\u064a \u0647\u0640. \u062a\u0643\u0648\u0646 \u0646\u062a\u064a\u062c\u0629 \u0647\u0630\u0647 \u0627\u0644\u0627\u062e\u062a\u0628\u0627\u0631\u0627\u062a \u0641\u064a \u0628\u0639\u0636 \u0627\u0644\u0623\u062d\u064a\u0627\u0646 \u0625\u064a\u062c\u0627\u0628\u064a\u0629 \u0628\u0634\u0643\u0644 \u062e\u0627\u0637\u0626  \u062a\u0634\u0628\u0647 \u0623\u0639\u0631\u0627\u0636 \u0647\u0630\u0647 \u0627\u0644\u062d\u0633\u0627\u0633\u064a\u0629 \u0646\u0632\u0644\u0627\u062a \u0627\u0644\u0628\u0631\u062f\u061b \u0648\u0645\u0639 \u0630\u0644\u0643\u060c \u0641\u0625\u0646\u0647\u0627 \u063a\u0627\u0644\u0628\u0627 \u0645\u0627 \u062a\u0633\u062a\u0645\u0631 \u0644\u0623\u0643\u062b\u0631 \u0645\u0646 \u0623\u0633\u0628\u0648\u0639\u064a\u0646\u060c \u0648\u0639\u0627\u062f\u0629 \u0644\u0627 \u062a\u062a\u0636\u0645\u0646 \u0627\u0644\u062d\u0645\u0649. \u0642\u062f \u064a\u0642\u0644\u0644 \u0627\u0644\u062a\u0639\u0631\u0636 \u0644\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a \u0641\u064a \u0648\u0642\u062a \u0645\u0628\u0643\u0631 \u0645\u0646 \u0627\u0644\u062d\u064a\u0627\u0629 \u0645\u0646 \u062e\u0637\u0631 \u0627\u0644\u0627\u0635\u0627\u0628\u0629 \u0628\u0627\u0644\u062d\u0633\u0627\u0633\u064a\u0629 \u0644\u0647\u0645 \u0641\u064a \u0648\u0642\u062a \u0644\u0627\u062d\u0642. \u0648\u0647\u0646\u0627\u0643 \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u0642\u062f \u064a\u062d\u0633\u0646 \u0627\u0644\u0623\u0639\u0631\u0627\u0636 \u0645\u0646\u0634\u0637\u0627\u062a \u0627\u0644\u0623\u0646\u0641 \u0645\u0634\u0644 \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u0628\u0645\u0627 \u0641\u064a \u0630\u0644\u0643 \u0627\u0644\u0643\u0648\u0631\u062a\u064a\u0643\u0648\u0633\u062a\u064a\u0631\u0648\u064a\u062f \u0648\u0645\u0636\u0627\u062f \u0627\u0644\u0647\u0633\u062a\u0627\u0645\u064a\u0646 \u0645\u062b\u0644 \u062f\u064a\u0641\u064a\u0646\u0647\u064a\u062f\u0631\u0627\u0645\u064a\u0646\u060c \u0643\u0631\u0648\u0645\u0648\u0644\u064a\u0646 \u0627\u0644\u0635\u0648\u062f\u064a\u0648\u0645\u060c \u0648\u0645\u0636\u0627\u062f\u0627\u062a \u0627\u0644\u0644\u064a\u0643\u0648\u062a\u0631\u064a\u0646 \u0645\u0633\u062a\u0642\u0628\u0644\u0627\u062a \u0645\u062b\u0644 \u0627\u0644\u0645\u0648\u0646\u062a\u064a\u0644\u0648\u0643\u0627\u0633\u062a. \u0648\u0644\u0643\u0646 \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u0644\u064a\u0633\u062a \u0643\u0627\u0641\u064a\u0629 \u0623\u0648 \u0645\u0631\u062a\u0628\u0637\u0629 \u0645\u0639 \u0627\u0644\u0622\u062b\u0627\u0631 \u0627\u0644\u062c\u0627\u0646\u0628\u064a\u0629 \u0641\u064a \u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0646\u0627\u0633. \u062a\u0639\u0631\u064a\u0636 \u0627\u0644\u0646\u0627\u0633 \u0644\u0643\u0645\u064a\u0627\u062a \u0623\u0643\u0628\u0631 \u0648\u0623\u0643\u0628\u0631 \u0645\u0646 \u0645\u0633\u0628\u0628\u0627\u062a \u0627\u0644\u062d\u0633\u0627\u0633\u064a\u0629\u060c \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641\u0629 \u0628\u0627\u0633\u0645 \u062d\u0633\u0627\u0633\u064a\u0629 \u0627\u0644\u0639\u0644\u0627\u062c \u0627\u0644\u0645\u0646\u0627\u0639\u064a \u0647\u0648 \u063a\u0627\u0644\u0628\u0627 \u0645\u0627 \u062a\u0643\u0648\u0646 \u0641\u0639\u0627\u0644\u0629. \u0642\u062f \u064a\u064a\u062a \u0625\u0639\u0637\u0627\u0621 \u0645\u0633\u0628\u0628\u0627\u062a \u0627\u0644\u062d\u0633\u0627\u0633\u064a\u0629 \u0639\u0644\u0649 \u0634\u0643\u0644 \u062d\u0642\u0646 \u062a\u062d\u062a \u0627\u0644\u062c\u0644\u062f \u0623\u0648 \u0641\u064a \u0634\u0643\u0644 \u0642\u0631\u0635 \u062a\u062d\u062a \u0627\u0644\u0644\u0633\u0627\u0646. \u0648\u0639\u0627\u062f\u0629 \u0645\u0627 \u064a\u0633\u062a\u0645\u0631 \u0627\u0644\u0639\u0644\u0627\u062c 3-5 \u0633\u0646\u0648\u0627\u062a \u0628\u0639\u062f \u0648\u0627\u0644\u062a\u064a \u0642\u062f \u062a\u0633\u062a\u0645\u0631 \u0641\u0648\u0627\u0626\u062f\u0647 \u0644\u0645\u062f\u0629 \u0637\u0648\u064a\u0644\u0629. \u0627\u0644\u062a\u0647\u0627\u0628 \u0627\u0644\u0623\u0646\u0641 \u0627\u0644\u062a\u062d\u0633\u0633\u064a \u0647\u0648 \u0646\u0648\u0639 \u0645\u0646 \u0627\u0644\u062d\u0633\u0627\u0633\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0624\u062b\u0631 \u0639\u0644\u0649 \u0623\u0643\u0628\u0631 \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0646\u0627\u0633. \u064a\u062a\u0623\u062b\u0631 \u0628\u064a\u0646 10-30\u066a \u0645\u0646 \u0627\u0644\u0646\u0627\u0633 \u0641\u064a \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u063a\u0631\u0628\u064a\u0629 \u0641\u064a \u0633\u0646\u0629 \u0645\u0639\u064a\u0646\u0629. \u0648\u0647\u0648 \u0623\u0643\u062b\u0631 \u0634\u064a\u0648\u0639\u0627 \u0628\u064a\u0646 \u0633\u0646 \u0627\u0644\u0639\u0634\u0631\u064a\u0646 \u0648\u0627\u0644\u0623\u0631\u0628\u0639\u064a\u0646. \u0648\u0623\u0648\u0644 \u0648\u0635\u0641 \u062f\u0642\u064a\u0642 \u0643\u0627\u0646 \u0645\u0646 \u0627\u0644\u0637\u0628\u064a\u0628 \u0623\u0628\u0648 \u0628\u0643\u0631 \u0627\u0644\u0631\u0627\u0632\u064a \u0641\u064a \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0639\u0627\u0634\u0631. \u062a\u0645 \u062a\u062d\u062f\u064a\u062f \u0627\u0644\u0644\u0642\u0627\u062d \u0643\u0633\u0628\u0628 \u0641\u064a \u0639\u0627\u0645 1859 \u0645\u0646 \u0642\u0628\u0644 \u062a\u0634\u0627\u0631\u0644\u0632 \u0628\u0644\u0627\u0643 \u0644\u0627\u064a. \u0628\u064a\u0646\u0645\u0627 \u062a\u0645 \u0627\u0643\u062a\u0634\u0627\u0641 \u0627\u0644\u0637\u0631\u064a\u0642\u0629 \u0641\u064a \u0639\u0627\u0645 1906 \u0628\u0648\u0627\u0633\u0637\u0629 \u0643\u0644\u064a\u0645\u0646\u0633 \u0641\u0648\u0646 \u0628\u064a\u0631\u0643\u064a\u0647. \u0648\u062c\u0627\u0621 \u0627\u0644\u0627\u0631\u062a\u0628\u0627\u0637 \u0645\u0639 \u0627\u0644\u0642\u0634 \u0641\u064a \u0648\u0642\u062a \u0645\u0628\u0643\u0631 \u0628\u0633\u0628\u0628 \u0646\u0638\u0631\u064a\u0629 (\u063a\u064a\u0631 \u0635\u062d\u064a\u062d\u0629) \u0623\u0646 \u0627\u0644\u0623\u0639\u0631\u0627\u0636 \u0646\u0627\u062c\u0645\u0629 \u0639\u0646 \u0631\u0627\u0626\u062d\u0629 \u0627\u0644\u0642\u0634 \u0627\u0644\u062c\u062f\u064a\u062f.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Hooikoorts (pollinosis) is een vorm van allergische rinitis, die wordt gekenmerkt door allergie voor stuifmeel (pollen) van planten, vaak grassen of boomsoorten. Het gaat daarbij om pollen die via de wind worden verspreid. Planten die door insecten bestoven worden, hebben pollen die te zwaar zijn om door de wind te worden verspreid. Hooikoorts is seizoensgebonden, in tegenstelling tot allergische aandoeningen die het hele jaar door aanhouden zoals huisstofmijtallergie.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "La rhinite allergique est une affection m\u00e9dicale b\u00e9nigne secondaire \u00e0 une hypersensibilisation \u00e0 une substance \u00e9trang\u00e8re d\u00e9nomm\u00e9e allerg\u00e8ne. Son expression clinique est essentiellement la rhinite et la conjonctivite. L'allerg\u00e8ne peut \u00eatre le pollen (dans le cadre du rhume des foins) mais aussi les acariens, ainsi que d'autres produits.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Allergic rhinitis, also known as hay fever, is a type of inflammation in the nose which occurs when the immune system overreacts to allergens in the air. Signs and symptoms include a runny or stuffy nose, sneezing, red, itchy, and watery eyes, and swelling around the eyes. The fluid from the nose is usually clear. Symptom onset is often within minutes following exposure and they can affect sleep, the ability to work, and the ability to concentrate at school. Those whose symptoms are due to pollen typically develop symptoms during specific times of the year. Many people with allergic rhinitis also have asthma, allergic conjunctivitis, or atopic dermatitis. Allergic rhinitis is typically triggered by environmental allergens such as pollen, pet hair, dust, or mold. Inherited genetics and environmental exposures contribute to the development of allergies. Growing up on a farm and having multiple siblings decreases the risk. The underlying mechanism involves IgE antibodies attaching to the allergen and causing the release of inflammatory chemicals such as histamine from mast cells. Diagnosis is usually based on a medical history in combination with a skin prick test or blood tests for allergen-specific IgE antibodies. These tests, however, are sometimes falsely positive. The symptoms of allergies resemble those of the common cold; however, they often last for more than two weeks and typically do not include a fever. Exposure to animals in early life might reduce the risk of developing allergies to them later. A number of medications may improve symptoms including nasal steroids, antihistamines such as diphenhydramine, cromolyn sodium, and leukotriene receptor antagonists such as montelukast. Medications are, however, not sufficient or associated with side effects in many people. Exposing people to larger and larger amounts of allergen, known as allergen immunotherapy is often effective. The allergen may be given as injections just under the skin or as a tablet under the tongue. Treatment typically lasts three to five years after which benefits may be prolonged. Allergic rhinitis is the type of allergy that affects the greatest number of people. In Western countries, between 10\u201330% of people are affected in a given year. It is most common between the ages of twenty and forty. The first accurate description is from the 10th century physician Rhazes. Pollen was identified as the cause in 1859 by Charles Blackley. In 1906 the mechanism was determined by Clemens von Pirquet. The link with hay came about due to an early (and incorrect) theory that the symptoms were brought about by the smell of new hay.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "La rinite allergica (indicata anche come raffreddore allergico) \u00e8 una patologia infiammatoria acuta e ricorrente a carico della mucosa nasale dovuta a una reazione di un antigene esogeno (allergene).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Die allergische Rhinitis (auch genannt Rhinitis allergica oder allergischer Schnupfen, speziell f\u00fcr pollenbedingte allergische Rhinitis Heuschnupfen, Heufieber oder Pollinose bzw. Pollinosis von lat. pollen = feines Mehl) ist eine allergisch bedingte Entz\u00fcndung der Nasenschleimhaut (Rhinitis). Diese wird oft von weiteren Erkrankungen der Atemwege begleitet (Komorbidit\u00e4t) wie Entz\u00fcndungen der Nasennebenh\u00f6hlen (Sinusitis) und Asthma. Die Erkrankung beginnt meistens im fr\u00fchen Kindesalter und f\u00fchrt jahrzehntelang zur Beeintr\u00e4chtigung der Lebensqualit\u00e4t. Die gesundheitlichen Auswirkungen betreffen das Sozialleben, die schulische Leistungsf\u00e4higkeit und die Arbeitsproduktivit\u00e4t. Je nach Quelle wird der Anteil an kranken Kindern und Jugendlichen zwischen 15 und \u00fcber 30 Prozent beziffert. Im Erwachsenenalter spielen zudem Kreuzallergien eine gro\u00dfe Rolle.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Rinite al\u00e9rgica, conhecida popularmente por febre dos fenos, \u00e9 um tipo de inflama\u00e7\u00e3o do nariz que ocorre quando o sistema imunit\u00e1rio tem uma rea\u00e7\u00e3o excessiva aos alerg\u00e9nios no ar. Os sinais e sintomas incluem congest\u00e3o ou corrimento nasal, espirros e comich\u00e3o nos olhos, que se podem tornar vermelhos e inflamados. O muco que escorre do nariz \u00e9 geralmente l\u00edmpido. Os sintomas t\u00eam geralmente in\u00edcio poucos minutos ap\u00f3s a exposi\u00e7\u00e3o ao alerg\u00e9nio e podem afetar o sono, a capacidade de trabalho e a capacidade de concentra\u00e7\u00e3o. Nas pessoas al\u00e9rgicas ao p\u00f3len, os sintomas geralmente ocorrem com maior intensidade durante determinadas \u00e9pocas do ano. Muitas pessoas com rinite al\u00e9rgica tamb\u00e9m apresentam asma, conjuntivite al\u00e9rgica ou dermatite at\u00f3pica. Os sintomas da rinite al\u00e9rgicca s\u00e3o semelhantes aos da constipa\u00e7\u00e3o; no entanto, raramente duram mais do que duas semanas e n\u00e3o incluem febre. O desenvolvimento de alergias \u00e9 uma combina\u00e7\u00e3o de heran\u00e7a gen\u00e9tica e de exposi\u00e7\u00e3o a fatores ambientais. A rinite al\u00e9rgica \u00e9 geralmente desencadeada por alerg\u00e9nios ambientais, como o p\u00f3len, p\u00ealo de animais, p\u00f3 ou bolor. O mecanismo subjacente envolve a liga\u00e7\u00e3o de anticorpos IgE ao alerg\u00e9nio, o que causa a liberta\u00e7\u00e3o de qu\u00edmicos anti-inflamat\u00f3rios dos mast\u00f3citos, como a histamina. O diagn\u00f3stico geralmente tem por base o historial cl\u00ednico em conjuga\u00e7\u00e3o com testes cut\u00e2neo-al\u00e9rgicos ou an\u00e1lises ao sangue para detectar anticorpos IgE espec\u00edficos. No entanto, estes testas apresentam frequentemente falsos positivos. Crescer no meio rural e ter v\u00e1rios irm\u00e3os aparenta diminuir o risco. A exposi\u00e7\u00e3o a animais no in\u00edcio da vida aparenta diminuir o risco de desenvolver posteriormente alergias ao pelo. Est\u00e3o dispon\u00edveis v\u00e1rios medicamentos para al\u00edvio dos sintomas, incluindo esteroides nasais, anti-histam\u00ednicos como a difenidramina, cromoglicato e antagonistas do receptor de leucotrieno. No entanto, para muitas pessoas a medica\u00e7\u00e3o n\u00e3o \u00e9 suficiente ou est\u00e1 associada a efeitos secund\u00e1rios. A exposi\u00e7\u00e3o a quantidades cada vez maiores de alerg\u00e9nios, denominada por , pode ser eficaz em casos graves. O alerg\u00e9nio pode ser administrado por via intravenosa ou como comprimido sublingual. O tratamento geralmente tem a dura\u00e7\u00e3o de tr\u00eas a cinco anos. A rinite al\u00e9rgica \u00e9 o tipo de alergia que afeta o maior n\u00famero de pessoas. Nos pa\u00edses ocidentais, entre 10 e 30% das pessoas s\u00e3o afetadas todos os anos pela doen\u00e7a. \u00c9 mais comum entre os 12 e os 40 anos de idade. A primeira descri\u00e7\u00e3o precisa da doen\u00e7a foi feita pelo m\u00e9dico do s\u00e9culo X Rasis. Em 1859, Charles Blackley identificou o p\u00f3len como causa da doen\u00e7a. Em 1906, Clemens von Pirquet identificou o mecanismo. A liga\u00e7\u00e3o ao feno deve-se a uma antiga (e incorreta) teoria de que os sintomas seriam espoletados pelo aroma do feno novo.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Katar sienny, alergiczny nie\u017cyt nosa, ANN \u2013 alergiczne lub sezonowe zapalenie b\u0142ony \u015bluzowej nosa, definiowane jako objawowe zapalenie b\u0142ony \u015bluzowej nosa wywo\u0142ane reakcj\u0105 IgE-zale\u017cn\u0105. Wskutek reakcji organizmu na alergen (g\u0142\u00f3wnie py\u0142ki ro\u015blin) immunoglobuliny dr\u00f3g oddechowych powoduj\u0105 uwalnianie dra\u017cni\u0105cej b\u0142on\u0119 \u015bluzow\u0105 nosa histaminy przez mastocyty i bazofile. Odno\u015bnie do kataru siennego u\u017cywa si\u0119 te\u017c poj\u0119cia py\u0142kowica, kt\u00f3re obejmuje alergiczne lub sezonowe zapalenie b\u0142ony \u015bluzowej nosa i spoj\u00f3wek wraz z dolegliwo\u015bciami towarzysz\u0105cymi, jak napady astmy oskrzelowej, alergiczne reakcje sk\u00f3ry lub uk\u0142adu pokarmowego. Innymi funkcjonuj\u0105cymi w obiegu okre\u015bleniami schorzenia s\u0105: alergia py\u0142kowa, gor\u0105czka sienna, uczulenie sienne. Alergiczny nie\u017cyt nosa wyst\u0119puje zar\u00f3wno u niemowl\u0105t, jak i u dzieci starszych. Towarzyszy astmie u 50\u201370% pacjent\u00f3w, a jego wyst\u0119powanie w populacji og\u00f3lnej ocenia si\u0119 na 5\u201315%. Nie\u017cyt py\u0142kowy nosa ujawnia si\u0119 pomi\u0119dzy 7 a 14 rokiem \u017cycia. Do 6 roku \u017cycia istnieje zwi\u0119kszone ryzyko wyst\u0105pienia astmy, po 6 roku \u017cycia wyst\u0119puje g\u0142\u00f3wnie ryzyko rozwoju alergicznego nie\u017cytu nosa.",
+                "lang": "pl"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Special:FilePath/Misc_pollen.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 740761917,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 412753,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/meshid": [
+            {
+                "type": "literal",
+                "value": "D012221",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/emedicineMult": [
+            {
+                "type": "literal",
+                "value": ",",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/date": [
+            {
+                "type": "literal",
+                "value": "September 2015",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/emedicinesubj": [
+            {
+                "type": "literal",
+                "value": "ent",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/emedicinetopic": [
+            {
+                "type": "literal",
+                "value": 194,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Inflammation"
+            }
+        ],
+        "http://dbpedia.org/property/synonyms": [
+            {
+                "type": "literal",
+                "value": "hay fever, pollinosis",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Environmental_allergy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Allergic_rhinitis": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cedar_Fever": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pollinosis": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hay-fever": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Allergic_to_grass": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hay_Fever": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hay_fever": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hayfever": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hay_fever_medication": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Environmental_allergies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Allergic_conjunctivorhinitis": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Birkenpollenallergie": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pollen_allergy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cedar_fever": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Allergic_rhinitis"
+            }
+        ]
+    }
+}

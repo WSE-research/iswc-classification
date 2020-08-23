@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the locality of Vojvodina having a diplomatic relation of Holy See?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Urban_areas_in_Sweden",
+            "@support": "2421",
+            "@types": "",
+            "@surfaceForm": "locality",
+            "@offset": "13",
+            "@similarityScore": "0.8762024183294321",
+            "@percentageOfSecondRank": "0.08415815903155822"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Vojvodina",
+            "@support": "4366",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Vojvodina",
+            "@offset": "25",
+            "@similarityScore": "0.9643651210832582",
+            "@percentageOfSecondRank": "0.035811574998679624"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Holy_See",
+            "@support": "12112",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Holy See",
+            "@offset": "67",
+            "@similarityScore": "0.9999650486110769",
+            "@percentageOfSecondRank": "3.0418358043049543E-5"
+        }
+    ]
+}

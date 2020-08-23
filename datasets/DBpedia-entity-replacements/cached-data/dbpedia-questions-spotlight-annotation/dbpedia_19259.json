@@ -1,0 +1,37 @@
+{
+    "@text": "Which destination of the Novair International Airways is also the  predecessor of the Chevrolet Caprice?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Novair_International_Airways",
+            "@support": "5",
+            "@types": "Wikidata:Q46970,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline,DBpedia:Agent",
+            "@surfaceForm": "Novair International Airways",
+            "@offset": "25",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chevrolet",
+            "@support": "10840",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Chevrolet",
+            "@offset": "86",
+            "@similarityScore": "0.9987188776032715",
+            "@percentageOfSecondRank": "9.543239573396757E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chevrolet_Caprice",
+            "@support": "315",
+            "@types": "DUL:DesignedArtifact,Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Automobile",
+            "@surfaceForm": "Caprice",
+            "@offset": "96",
+            "@similarityScore": "0.9378370352642348",
+            "@percentageOfSecondRank": "0.066071937088701"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "\"Where is {narrative set in} of {Lolita}, whichhas {diplomatic relation} is {Guyana} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Lolita",
+            "@support": "868",
+            "@types": "Wikidata:Q571,Wikidata:Q386724,Schema:CreativeWork,Schema:Book,Http://purl.org/ontology/bibo/Book,DBpedia:WrittenWork,DBpedia:Work,DBpedia:Book",
+            "@surfaceForm": "Lolita",
+            "@offset": "33",
+            "@similarityScore": "0.9918250640155098",
+            "@percentageOfSecondRank": "0.008242316328008778"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Guyana",
+            "@support": "9518",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Guyana",
+            "@offset": "77",
+            "@similarityScore": "0.9694138184068867",
+            "@percentageOfSecondRank": "0.01235851810487155"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the captain of the Indian national cricket team?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Sea_captain",
+            "@support": "2545",
+            "@types": "",
+            "@surfaceForm": "captain",
+            "@offset": "11",
+            "@similarityScore": "0.5240500797647476",
+            "@percentageOfSecondRank": "0.306652012149477"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cricket",
+            "@support": "71008",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "cricket",
+            "@offset": "42",
+            "@similarityScore": "0.9998302728506111",
+            "@percentageOfSecondRank": "1.4163603212746795E-4"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the musical score by in It Happened One Night that states someone's middle name is Howard?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/It_Happened_One_Night",
+            "@support": "226",
+            "@types": "Wikidata:Q386724,Schema:Movie,Schema:CreativeWork,DBpedia:Work,DBpedia:Wikidata:Q11424,DBpedia:Film",
+            "@surfaceForm": "It Happened One Night",
+            "@offset": "31",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Dwight_Howard",
+            "@support": "1917",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q3665646,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:BasketballPlayer,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Howard",
+            "@offset": "90",
+            "@similarityScore": "0.6741146580137322",
+            "@percentageOfSecondRank": "0.23997356552363894"
+        }
+    ]
+}

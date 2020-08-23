@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the city that shares a border with LA?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "13",
+            "@similarityScore": "0.7789576304847599",
+            "@percentageOfSecondRank": "0.1982409622662836"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Los_Angeles",
+            "@support": "110438",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "LA",
+            "@offset": "44",
+            "@similarityScore": "0.8536537758558075",
+            "@percentageOfSecondRank": "0.1672281111388979"
+        }
+    ]
+}

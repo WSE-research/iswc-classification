@@ -1,0 +1,28 @@
+{
+    "@text": "Which human Go player, has the minimum EGF rating?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Go_(game)",
+            "@support": "3683",
+            "@types": "Wikidata:Q1914636,Wikidata:Q11410,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Game,DBpedia:Activity",
+            "@surfaceForm": "Go",
+            "@offset": "12",
+            "@similarityScore": "0.9812861910015421",
+            "@percentageOfSecondRank": "0.013661306203456548"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Epidermal_growth_factor",
+            "@support": "288",
+            "@types": "",
+            "@surfaceForm": "EGF",
+            "@offset": "39",
+            "@similarityScore": "0.9804321307944571",
+            "@percentageOfSecondRank": "0.019958023116301814"
+        }
+    ]
+}

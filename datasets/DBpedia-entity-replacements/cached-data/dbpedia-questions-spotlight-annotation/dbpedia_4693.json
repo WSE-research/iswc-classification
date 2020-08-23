@@ -1,0 +1,28 @@
+{
+    "@text": "What is the country of Abkhazia whose statement is disputed by Russia?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Abkhazia",
+            "@support": "4623",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Abkhazia",
+            "@offset": "23",
+            "@similarityScore": "0.999831695283208",
+            "@percentageOfSecondRank": "1.2232267699468613E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Russia",
+            "@support": "124390",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Russia",
+            "@offset": "63",
+            "@similarityScore": "0.9986314616616115",
+            "@percentageOfSecondRank": "0.001321604184082981"
+        }
+    ]
+}

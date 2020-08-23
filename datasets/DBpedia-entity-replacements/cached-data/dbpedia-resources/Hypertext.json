@@ -1,0 +1,494 @@
+{
+    "http://dbpedia.org/resource/Douglas_Engelbart": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Geoff_Ryman_bibliography": {
+        "http://dbpedia.org/ontology/publisher": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ted_Nelson": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Hypertext": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hyper": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hypertext": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Book"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Hipertexto",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Hipertekst",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Hypertekst",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Hypertexte",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0413\u0438\u043f\u0435\u0440\u0442\u0435\u043a\u0441\u0442",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u0646\u0635 \u0641\u0627\u0626\u0642",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Hipertexto",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Hypertext",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u8d85\u6587\u672c",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Hypertext",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Ipertesto",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Hypertext is text displayed on a computer display or other electronic devices with references (hyperlinks) to other text which the reader can immediately access, or where text can be revealed progressively at multiple levels of detail (also called StretchText). The hypertext pages are interconnected by hyperlinks, typically activated by a mouse click, keypress sequence or by touching the screen. Apart from text, hypertext is sometimes used to describe tables, images and other presentational content forms with hyperlinks. Hypertext is the underlying concept defining the structure of the World Wide Web, with pages often written in the Hypertext Markup Language (HTML). It enables an easy-to-use and flexible connection and sharing of information over the Internet.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Hipertekst \u2013 organizacja danych w postaci niezale\u017cnych leksji po\u0142\u0105czonych hiper\u0142\u0105czami. Hipertekst cechuje nielinearno\u015b\u0107 i niestrukturalno\u015b\u0107 uk\u0142adu leksji. Oznacza to, \u017ce nie ma z g\u00f3ry zdefiniowanej kolejno\u015bci czytania leksji, a nawigacja mi\u0119dzy nimi zale\u017cy wy\u0142\u0105cznie od u\u017cytkownika. 5 stycznia 1965 r., w li\u015bcie informuj\u0105cym College Community o sponsorowaniu przez Faculty Science Club na Vassar College wyk\u0142adu Teda Nelsona (tw\u00f3rcy projektu Xanadu) prawdopodobnie po raz pierwszy pada termin hipertekst. Nelson u\u017cywa go nieco p\u00f3\u017aniej na konferencji Association for Computing Machinery.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0413\u0438\u043f\u0435\u0440\u0442\u0435\u0301\u043a\u0441\u0442 (\u0430\u043d\u0433\u043b. hypertext) \u2014 \u0442\u0435\u0440\u043c\u0438\u043d, \u0432\u0432\u0435\u0434\u0451\u043d\u043d\u044b\u0439 \u0422\u0435\u0434\u043e\u043c \u041d\u0435\u043b\u044c\u0441\u043e\u043d\u043e\u043c \u0432 1965 \u0433\u043e\u0434\u0443 \u0434\u043b\u044f \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u0442\u0435\u043a\u0441\u0442\u0430, \u00ab\u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0440\u0430\u0437\u0432\u0435\u0442\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u0431\u044b \u0441\u0430\u043c \u043f\u043e \u0441\u0435\u0431\u0435 \u0438\u043b\u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443\u00bb. \u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u043c \u043f\u0440\u0438\u043c\u0435\u0440\u043e\u043c \u0433\u0438\u043f\u0435\u0440\u0442\u0435\u043a\u0441\u0442\u0430 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0432\u0435\u0431-\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u044b \u2014 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b HTML (\u044f\u0437\u044b\u043a \u0440\u0430\u0437\u043c\u0435\u0442\u043a\u0438 \u0433\u0438\u043f\u0435\u0440\u0442\u0435\u043a\u0441\u0442\u0430) \u043a\u0430\u043a \u043e\u043d\u0438 \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u044e\u0442\u0441\u044f \u0432 \u0421\u0435\u0442\u0438. \u0412 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0439 \u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0433\u0438\u043f\u0435\u0440\u0442\u0435\u043a\u0441\u0442 \u2014 \u044d\u0442\u043e \u0442\u0435\u043a\u0441\u0442, \u0441\u0444\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u044f\u0437\u044b\u043a\u0430 \u0440\u0430\u0437\u043c\u0435\u0442\u043a\u0438 \u0441 \u0440\u0430\u0441\u0447\u0435\u0442\u043e\u043c \u043d\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u0433\u0438\u043f\u0435\u0440\u0441\u0441\u044b\u043b\u043e\u043a.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0646\u0635 \u0627\u0644\u0641\u0627\u0626\u0642 \u0623\u0648 \u0627\u0644\u0646\u0635 \u0627\u0644\u062a\u0634\u0639\u0628\u064a (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Hypertext) \u0647\u0648 \u0646\u0635 \u0639\u0644\u0649 \u0634\u0627\u0634\u0629 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0639\u0646\u062f \u0627\u0644\u0646\u0642\u0631 \u0639\u0644\u064a\u0647\u060c \u064a\u0642\u0648\u062f \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645 \u0625\u0644\u0649 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0623\u062e\u0631\u0649. \u062a\u0645\u062b\u0644 \u0627\u0644\u0646\u0635\u0648\u0635 \u0627\u0644\u062a\u0634\u0639\u0628\u064a\u0629 \u062a\u0642\u062f\u0645\u0627 \u0645\u0647\u0645\u0627 \u0641\u064a \u0648\u0627\u062c\u0647\u0627\u062a \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u060c \u062d\u064a\u062b \u0623\u0646\u0647\u0627 \u062a\u062a\u063a\u0644\u0628 \u0639\u0644\u0649 \u0642\u064a\u0648\u062f \u0627\u0644\u0646\u0635 \u0627\u0644\u0645\u0643\u062a\u0648\u0628\u061b \u0625\u0630 \u0623\u0646\u0647\u0627 \u0644\u0627 \u062a\u0628\u0642\u0649 \u062b\u0627\u0628\u062a\u0629 \u0643\u0627\u0644\u0646\u0635\u0648\u0635 \u0627\u0644\u062a\u0642\u0644\u064a\u062f\u064a\u0629\u060c \u0628\u0644 \u062a\u0645\u0643\u0646 \u0645\u0646 \u062a\u0646\u0638\u064a\u0645 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u0648\u0627\u0633\u0637\u0629 \u0631\u0648\u0627\u0628\u0637 \u0648\u0648\u0635\u0644\u0627\u062a \u062a\u0639\u0631\u0641 \u0628\u0627\u0644\u0631\u0648\u0627\u0628\u0637 \u0627\u0644\u062a\u0634\u0639\u0628\u064a\u0629. \u064a\u0645\u0643\u0646 \u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u0646\u0635\u0648\u0635 \u0627\u0644\u062a\u0634\u0639\u0628\u064a\u0629 \u0644\u062a\u0623\u062f\u064a\u0629 \u0645\u0647\u0627\u0645 \u0645\u062a\u0639\u062f\u062f\u0629\u061b \u0639\u0644\u0649 \u0633\u0628\u064a\u0644 \u0627\u0644\u0645\u062b\u0627\u0644: \u0639\u0646\u062f\u0645\u0627 \u064a\u0646\u0642\u0631 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645 \u0639\u0644\u0649 \u0646\u0635 \u062a\u0634\u0639\u0628\u064a \u0623\u0648 \u064a\u0636\u0639 \u0645\u0624\u0634\u0631 \u0627\u0644\u0641\u0623\u0631\u0629 \u0641\u0648\u0642\u0647\u060c \u062a\u0638\u0647\u0631 \u0641\u0642\u0627\u0639\u0629 \u062a\u062d\u0648\u064a \u062a\u0639\u0631\u064a\u0641\u0627 \u0642\u0627\u0645\u0648\u0633\u064a\u0627\u060c \u0623\u0648 \u062a\u0638\u0647\u0631 \u0635\u0641\u062d\u0629 \u0648\u064a\u0628 \u0645\u0639 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0627\u0644\u0645\u0648\u0636\u0648\u0639\u060c \u0623\u0648 \u062a\u0634\u063a\u0644 \u0645\u0642\u0637\u0639 \u0641\u064a\u062f\u064a\u0648\u060c \u0623\u0648 \u062a\u0634\u063a\u0644 \u062a\u0637\u0628\u064a\u0642\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Hipertexto \u00e9 o termo que remete a um texto ao qual se agregam outros conjuntos de informa\u00e7\u00e3o na forma de blocos de textos, palavras, imagens ou sons, cujo acesso se d\u00e1 atrav\u00e9s de refer\u00eancias espec\u00edficas, no meio digital denominadas hiperlinks, ou simplesmente links. Esses links ocorrem na forma de termos destacados no corpo de texto principal, \u00edcones gr\u00e1ficos ou imagens e t\u00eam a fun\u00e7\u00e3o de interconectar os diversos conjuntos de informa\u00e7\u00e3o, oferecendo acesso sob demanda \u00e0s informa\u00e7\u00f5es que estendem ou complementam o texto principal. O conceito de \"linkar\" ou de \"ligar\" textos foi criado por Ted Nelson nos anos 1960 e teve como influ\u00eancia o pensador franc\u00eas Roland Barthes, que concebeu em seu livro S/Z o conceito de \"Lexia\", que seria a liga\u00e7\u00e3o de textos com outros textos.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "El hipertexto es una herramienta con estructura secuencial que permite crear, agregar, enlazar y compartir informaci\u00f3n de diversas fuentes por medio de enlaces asociativos. La forma m\u00e1s habitual de hipertexto en inform\u00e1tica es la de hiperv\u00ednculos o referencias cruzadas autom\u00e1ticas que van a otros documentos (lex\u00edas). Si el usuario selecciona un hiperv\u00ednculo, el programa muestra el documento enlazado. Otra forma de hipertexto es el stretchtext que consiste en dos indicadores o aceleradores y una pantalla. El primer indicador permite que lo escrito pueda moverse de arriba hacia abajo en la pantalla.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8 (hypertext) \u3068\u306f\u3001\u8907\u6570\u306e\u6587\u66f8\uff08\u30c6\u30ad\u30b9\u30c8\uff09\u3092\u76f8\u4e92\u306b\u95a2\u9023\u4ed8\u3051\u3001\u7d50\u3073\u4ed8\u3051\u308b\u4ed5\u7d44\u307f\u3067\u3042\u308b\u3002\u300c\u30c6\u30ad\u30b9\u30c8\u3092\u8d85\u3048\u308b\u300d\u3068\u3044\u3046\u610f\u5473\u304b\u3089\"hyper-\"\uff08\uff5e\u3092\u8d85\u3048\u305f\uff09 \"text\"\uff08\u6587\u66f8\uff09\u3068\u540d\u4ed8\u3051\u3089\u308c\u305f\u3002\u30c6\u30ad\u30b9\u30c8\u9593\u3092\u7d50\u3073\u3064\u3051\u308b\u53c2\u7167\u306e\u3053\u3068\u3092\u30cf\u30a4\u30d1\u30fc\u30ea\u30f3\u30af\u3068\u8a00\u3046\u3002\u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8\u306f\u6587\u66f8\u3092\u8868\u793a\u3059\u308b\u30e6\u30fc\u30b6\u30a4\u30f3\u30bf\u30d5\u30a7\u30fc\u30b9\u306e\u4e00\u7a2e\u3067\u3042\u308a\u3001\u5f93\u6765\u306e\u6587\u66f8\u4f5c\u6210\u65b9\u6cd5\u306e\u6301\u3064\u3001\u8981\u7d20\u3092\u7d44\u7e54\u5316\u3059\u308b\u3053\u3068\u306b\u3064\u3044\u3066\u306e\u9650\u754c\uff08\u7279\u306b\u305d\u306e\u7dda\u5f62\u6027\uff09\u3092\u514b\u670d\u3057\u3088\u3046\u3068\u3059\u308b\u3082\u306e\u3067\u3042\u308b\u3002 \u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8\u306b\u3088\u308b\u6587\u66f8\u306f\u9759\u7684\uff08\u524d\u3082\u3063\u3066\u6e96\u5099\u3055\u308c\u683c\u7d0d\u3055\u308c\u3066\u3044\u308b\uff09\u307e\u305f\u306f\u52d5\u7684\u306b\uff08\u30e6\u30fc\u30b6\u306e\u5165\u529b\u306b\u5fdc\u3058\u3066\uff09\u751f\u6210\u3055\u308c\u308b\u3002\u3088\u3063\u3066\u3001\u3046\u307e\u304f\u4f5c\u3089\u308c\u305f\u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u30e1\u30cb\u30e5\u30fc\u3084\u30b3\u30de\u30f3\u30c9\u30e9\u30a4\u30f3\u306a\u3069\u306e\u3001\u4ed6\u306e\u30e6\u30fc\u30b6\u30a4\u30f3\u30bf\u30d5\u30a7\u30fc\u30b9\u30d1\u30e9\u30c0\u30a4\u30e0\u306e\u80fd\u529b\u3092\u5305\u542b\u3057\u3066\u304a\u308a\u3001\u305d\u308c\u3089\u3092\u7f6e\u304d\u63db\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u30af\u30ed\u30b9\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9\u3092\u542b\u3080\u9759\u7684\u306a\u6587\u66f8\u7fa4\u3068\u3001\u5bfe\u8a71\u7684\u306a\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u4e21\u65b9\u3092\u5b9f\u73fe\u3059\u308b\u306e\u306b\u4f7f\u3048\u308b\u3002\u6587\u66f8\u3084\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306f\u30ed\u30fc\u30ab\u30eb\u3067\u3082\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u306e\u3088\u3046\u306a\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u74b0\u5883\u3067\u3082\u5229\u7528\u3067\u304d\u308b\u3002\u6700\u3082\u6709\u540d\u306a\u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8\u306e\u5b9f\u88c5\u306fWorld Wide Web\u3067\u3042\u308b\u3002 \u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8\u3068\u3044\u3046\u8a9e\u306f\u5e83\u304f\u4f7f\u308f\u308c\u3066\u3044\u308b\u304c\u3001\u5b9f\u969b\u306b\u306f\u30cf\u30a4\u30d1\u30fc\u30e1\u30c7\u30a3\u30a2\u3068\u547c\u3093\u3060\u307b\u3046\u304c\u9069\u5207\u306a\u5834\u5408\u3082\u591a\u3044\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Hypertekst is tekst met direct activeerbare hyperlinks (verwijzingen). De lezer hoeft voor het volgen van een verwijzing geen bladzijden, hoofdstukken of andere teksten op te zoeken en open te slaan, maar kan direct naar een specifieke tekst of een specifieke plek in de tekst doorspringen. Dit maakt in veel gevallen een index bij een lange tekst overbodig: de hyperlinks kunnen immers de index vervangen. Historisch gezien is de term hypertekst sterk verbonden met de ontwikkeling van de moderne GUI en het inzetten daarvan voor groupwaresystemen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Un ipertesto \u00e8 un insieme di documenti messi in relazione tra loro per mezzo di parole chiave. Pu\u00f2 essere visto come una rete; i documenti ne costituiscono i nodi. La caratteristica principale di un ipertesto \u00e8 che la lettura pu\u00f2 svolgersi in maniera non lineare: qualsiasi documento della rete pu\u00f2 essere \"il successivo\", in base alla scelta del lettore di quale parola chiave usare come collegamento. \u00c8 possibile, infatti, leggere all'interno di un ipertesto tutti i documenti collegati alla relativa parola chiave marcata. La scelta di una parola chiave diversa porta all'apertura di un documento diverso: all'interno dell'ipertesto sono possibili praticamente infiniti percorsi di lettura.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u8d85\u6587\u672c\uff08\u82f1\u8bed\uff1aHypertext\uff09\u662f\u4e00\u7a2e\u5728\u96fb\u8166\u986f\u793a\u5668\u6216\u5176\u4ed6\u96fb\u5b50\u8a2d\u5099\uff0c\u7528\u4ee5\u986f\u793a\u6587\u672c\u53ca\u8207\u6587\u672c\u76f8\u95dc\u7684\u5167\u5bb9\uff0c\u5176\u4e2d\u7684\u6587\u5b57\u5305\u542b\u6709\u53ef\u4ee5\u94fe\u63a5\u5230\u5176\u4ed6\u5b57\u6bb5\u6216\u8005\u6587\u6863\u7684\u8d85\u9023\u7d50\uff0c\u5141\u8bb8\u4ece\u5f53\u524d\u9605\u8bfb\u4f4d\u7f6e\u76f4\u63a5\u5207\u6362\u5230\u8d85\u9023\u7d50\u6240\u6307\u5411\u7684\u6587\u5b57\u3002\u5168\u7403\u8cc7\u8a0a\u7db2\u7684\u67b6\u69cb\u4fbf\u662f\u4ee5\u8d85\u6587\u672c\u7684\u5e95\u5c64\u6982\u5ff5\u5b9a\u7fa9\u70ba\u57fa\u790e\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Hypertext (engl. Aussprache [\u02c8ha\u026a\u032fp\u0250\u02cct\u025bkst], deutsch \u00dcbertext) ist ein Text, der mit einer netzartigen Struktur von Objekten Informationen durch Querverweise (Hyperlinks) zwischen Hypertext-Knoten verkn\u00fcpft. Hypertext wird in Auszeichnungssprachen geschrieben, die neben Format-Anweisungen auch Befehle f\u00fcr Hyperlinks enthalten; die bekannteste ist die Hypertext Markup Language (HTML) f\u00fcr Internetdokumente.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Un hypertexte est un document ou un ensemble de documents contenant des unit\u00e9s d'information li\u00e9es entre elles par des hyperliens. Ce syst\u00e8me permet \u00e0 l'utilisateur d'aller directement \u00e0 l'unit\u00e9 qui l'int\u00e9resse, \u00e0 son gr\u00e9, d'une fa\u00e7on non lin\u00e9aire. Le terme, cr\u00e9\u00e9 en 1965 par Ted Nelson, d\u00e9signait, dans les premi\u00e8res ann\u00e9es, un champ de recherche d'orientation litt\u00e9raire fonctionnant sur un syst\u00e8me ferm\u00e9. En parall\u00e8le, les grandes industries commencent \u00e0 d\u00e9finir un langage de balisage standardis\u00e9 (GML / SGML) afin de g\u00e9rer leurs documents sur un ordinateur central. C'est cette technologie que retiendra Tim Berners-Lee pour relier entre elles les ressources de l'Internet dans le World Wide Web.",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Hypertekst"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03hnx"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Hiperteks"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q93241"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Ipertesto"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Hipertekst"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4239975-0"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ud558\uc774\ud37c\ud14d\uc2a4\ud2b8"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Hypertext"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Hipertexto"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Hipertexto"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q93241"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Hypertexte"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Hipertestu"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Hypertext"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a5\u03c0\u03b5\u03c1\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03bf"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Hypertext"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Ted_Nelson"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:American_inventions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:1945_introductions"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Vannevar_Bush_portrait.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Hypertext"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Hypertext?oldid=742432902"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.aace.org/conf/edmedia/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.useit.com/alertbox/20050103.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://portal.acm.org/citation.cfm?id=806036"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.interaction-design.org/references/conferences/series/acm_conference_on_hypertext_and_hypermedia.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cisenet.com/cisenet/writing/essays/hypertextuality.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cs.brown.edu/memex/HT_87_Keynote_Address.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.dougengelbart.org/pubs/augment-3906.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.newmediareader.com/excerpts.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ericdigests.org/pre-9212/hype.htm"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u8d85\u6587\u672c\uff08\u82f1\u8bed\uff1aHypertext\uff09\u662f\u4e00\u7a2e\u5728\u96fb\u8166\u986f\u793a\u5668\u6216\u5176\u4ed6\u96fb\u5b50\u8a2d\u5099\uff0c\u7528\u4ee5\u986f\u793a\u6587\u672c\u53ca\u8207\u6587\u672c\u76f8\u95dc\u7684\u5167\u5bb9\uff0c\u5176\u4e2d\u7684\u6587\u5b57\u5305\u542b\u6709\u53ef\u4ee5\u94fe\u63a5\u5230\u5176\u4ed6\u5b57\u6bb5\u6216\u8005\u6587\u6863\u7684\u8d85\u9023\u7d50\uff0c\u5141\u8bb8\u4ece\u5f53\u524d\u9605\u8bfb\u4f4d\u7f6e\u76f4\u63a5\u5207\u6362\u5230\u8d85\u9023\u7d50\u6240\u6307\u5411\u7684\u6587\u5b57\u3002\u5168\u7403\u8cc7\u8a0a\u7db2\u7684\u67b6\u69cb\u4fbf\u662f\u4ee5\u8d85\u6587\u672c\u7684\u5e95\u5c64\u6982\u5ff5\u5b9a\u7fa9\u70ba\u57fa\u790e\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0413\u0438\u043f\u0435\u0440\u0442\u0435\u0301\u043a\u0441\u0442 (\u0430\u043d\u0433\u043b. hypertext) \u2014 \u0442\u0435\u0440\u043c\u0438\u043d, \u0432\u0432\u0435\u0434\u0451\u043d\u043d\u044b\u0439 \u0422\u0435\u0434\u043e\u043c \u041d\u0435\u043b\u044c\u0441\u043e\u043d\u043e\u043c \u0432 1965 \u0433\u043e\u0434\u0443 \u0434\u043b\u044f \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u0442\u0435\u043a\u0441\u0442\u0430, \u00ab\u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0440\u0430\u0437\u0432\u0435\u0442\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u0431\u044b \u0441\u0430\u043c \u043f\u043e \u0441\u0435\u0431\u0435 \u0438\u043b\u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443\u00bb. \u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u043c \u043f\u0440\u0438\u043c\u0435\u0440\u043e\u043c \u0433\u0438\u043f\u0435\u0440\u0442\u0435\u043a\u0441\u0442\u0430 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0432\u0435\u0431-\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u044b \u2014 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b HTML (\u044f\u0437\u044b\u043a \u0440\u0430\u0437\u043c\u0435\u0442\u043a\u0438 \u0433\u0438\u043f\u0435\u0440\u0442\u0435\u043a\u0441\u0442\u0430) \u043a\u0430\u043a \u043e\u043d\u0438 \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u044e\u0442\u0441\u044f \u0432 \u0421\u0435\u0442\u0438. \u0412 \u0431\u043e\u043b\u0435\u0435 \u0448\u0438\u0440\u043e\u043a\u043e\u043c \u043f\u043e\u043d\u0438\u043c\u0430\u043d\u0438\u0438 \u0433\u0438\u043f\u0435\u0440\u0442\u0435\u043a\u0441\u0442\u043e\u043c \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u043d\u043e\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0435, \u0441\u043b\u043e\u0432\u0430\u0440\u044c \u0438\u043b\u0438 \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f, \u0433\u0434\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u0441\u044f \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u0438 (patterns), \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0441\u043e\u043e\u0442\u043d\u043e\u0441\u0438\u0442\u044c \u043d\u0435 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0435 \u043b\u0438\u043d\u0435\u0439\u043d\u043e\u0439 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c\u044e \u0447\u0430\u0441\u0442\u0438 \u0442\u0435\u043a\u0441\u0442\u0430, \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044f \u0438\u0445 \u043a\u0430\u043a \u0432\u043e\u043f\u043b\u043e\u0449\u0435\u043d\u0438\u0435 \u0441\u043c\u044b\u0441\u043b\u043e\u0432\u043e\u0433\u043e \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0430. \u0412 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0439 \u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0433\u0438\u043f\u0435\u0440\u0442\u0435\u043a\u0441\u0442 \u2014 \u044d\u0442\u043e \u0442\u0435\u043a\u0441\u0442, \u0441\u0444\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u044f\u0437\u044b\u043a\u0430 \u0440\u0430\u0437\u043c\u0435\u0442\u043a\u0438 \u0441 \u0440\u0430\u0441\u0447\u0435\u0442\u043e\u043c \u043d\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u0433\u0438\u043f\u0435\u0440\u0441\u0441\u044b\u043b\u043e\u043a.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0646\u0635 \u0627\u0644\u0641\u0627\u0626\u0642 \u0623\u0648 \u0627\u0644\u0646\u0635 \u0627\u0644\u062a\u0634\u0639\u0628\u064a (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Hypertext) \u0647\u0648 \u0646\u0635 \u0639\u0644\u0649 \u0634\u0627\u0634\u0629 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0639\u0646\u062f \u0627\u0644\u0646\u0642\u0631 \u0639\u0644\u064a\u0647\u060c \u064a\u0642\u0648\u062f \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645 \u0625\u0644\u0649 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0623\u062e\u0631\u0649. \u062a\u0645\u062b\u0644 \u0627\u0644\u0646\u0635\u0648\u0635 \u0627\u0644\u062a\u0634\u0639\u0628\u064a\u0629 \u062a\u0642\u062f\u0645\u0627 \u0645\u0647\u0645\u0627 \u0641\u064a \u0648\u0627\u062c\u0647\u0627\u062a \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u060c \u062d\u064a\u062b \u0623\u0646\u0647\u0627 \u062a\u062a\u063a\u0644\u0628 \u0639\u0644\u0649 \u0642\u064a\u0648\u062f \u0627\u0644\u0646\u0635 \u0627\u0644\u0645\u0643\u062a\u0648\u0628\u061b \u0625\u0630 \u0623\u0646\u0647\u0627 \u0644\u0627 \u062a\u0628\u0642\u0649 \u062b\u0627\u0628\u062a\u0629 \u0643\u0627\u0644\u0646\u0635\u0648\u0635 \u0627\u0644\u062a\u0642\u0644\u064a\u062f\u064a\u0629\u060c \u0628\u0644 \u062a\u0645\u0643\u0646 \u0645\u0646 \u062a\u0646\u0638\u064a\u0645 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u0648\u0627\u0633\u0637\u0629 \u0631\u0648\u0627\u0628\u0637 \u0648\u0648\u0635\u0644\u0627\u062a \u062a\u0639\u0631\u0641 \u0628\u0627\u0644\u0631\u0648\u0627\u0628\u0637 \u0627\u0644\u062a\u0634\u0639\u0628\u064a\u0629. \u064a\u0645\u0643\u0646 \u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u0646\u0635\u0648\u0635 \u0627\u0644\u062a\u0634\u0639\u0628\u064a\u0629 \u0644\u062a\u0623\u062f\u064a\u0629 \u0645\u0647\u0627\u0645 \u0645\u062a\u0639\u062f\u062f\u0629\u061b \u0639\u0644\u0649 \u0633\u0628\u064a\u0644 \u0627\u0644\u0645\u062b\u0627\u0644: \u0639\u0646\u062f\u0645\u0627 \u064a\u0646\u0642\u0631 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645 \u0639\u0644\u0649 \u0646\u0635 \u062a\u0634\u0639\u0628\u064a \u0623\u0648 \u064a\u0636\u0639 \u0645\u0624\u0634\u0631 \u0627\u0644\u0641\u0623\u0631\u0629 \u0641\u0648\u0642\u0647\u060c \u062a\u0638\u0647\u0631 \u0641\u0642\u0627\u0639\u0629 \u062a\u062d\u0648\u064a \u062a\u0639\u0631\u064a\u0641\u0627 \u0642\u0627\u0645\u0648\u0633\u064a\u0627\u060c \u0623\u0648 \u062a\u0638\u0647\u0631 \u0635\u0641\u062d\u0629 \u0648\u064a\u0628 \u0645\u0639 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0627\u0644\u0645\u0648\u0636\u0648\u0639\u060c \u0623\u0648 \u062a\u0634\u063a\u0644 \u0645\u0642\u0637\u0639 \u0641\u064a\u062f\u064a\u0648\u060c \u0623\u0648 \u062a\u0634\u063a\u0644 \u062a\u0637\u0628\u064a\u0642\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Hypertext (engl. Aussprache [\u02c8ha\u026a\u032fp\u0250\u02cct\u025bkst], deutsch \u00dcbertext) ist ein Text, der mit einer netzartigen Struktur von Objekten Informationen durch Querverweise (Hyperlinks) zwischen Hypertext-Knoten verkn\u00fcpft. Hypertext wird in Auszeichnungssprachen geschrieben, die neben Format-Anweisungen auch Befehle f\u00fcr Hyperlinks enthalten; die bekannteste ist die Hypertext Markup Language (HTML) f\u00fcr Internetdokumente.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8 (hypertext) \u3068\u306f\u3001\u8907\u6570\u306e\u6587\u66f8\uff08\u30c6\u30ad\u30b9\u30c8\uff09\u3092\u76f8\u4e92\u306b\u95a2\u9023\u4ed8\u3051\u3001\u7d50\u3073\u4ed8\u3051\u308b\u4ed5\u7d44\u307f\u3067\u3042\u308b\u3002\u300c\u30c6\u30ad\u30b9\u30c8\u3092\u8d85\u3048\u308b\u300d\u3068\u3044\u3046\u610f\u5473\u304b\u3089\"hyper-\"\uff08\uff5e\u3092\u8d85\u3048\u305f\uff09 \"text\"\uff08\u6587\u66f8\uff09\u3068\u540d\u4ed8\u3051\u3089\u308c\u305f\u3002\u30c6\u30ad\u30b9\u30c8\u9593\u3092\u7d50\u3073\u3064\u3051\u308b\u53c2\u7167\u306e\u3053\u3068\u3092\u30cf\u30a4\u30d1\u30fc\u30ea\u30f3\u30af\u3068\u8a00\u3046\u3002\u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8\u306f\u6587\u66f8\u3092\u8868\u793a\u3059\u308b\u30e6\u30fc\u30b6\u30a4\u30f3\u30bf\u30d5\u30a7\u30fc\u30b9\u306e\u4e00\u7a2e\u3067\u3042\u308a\u3001\u5f93\u6765\u306e\u6587\u66f8\u4f5c\u6210\u65b9\u6cd5\u306e\u6301\u3064\u3001\u8981\u7d20\u3092\u7d44\u7e54\u5316\u3059\u308b\u3053\u3068\u306b\u3064\u3044\u3066\u306e\u9650\u754c\uff08\u7279\u306b\u305d\u306e\u7dda\u5f62\u6027\uff09\u3092\u514b\u670d\u3057\u3088\u3046\u3068\u3059\u308b\u3082\u306e\u3067\u3042\u308b\u3002 \u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8\u306b\u3088\u308b\u6587\u66f8\u306f\u9759\u7684\uff08\u524d\u3082\u3063\u3066\u6e96\u5099\u3055\u308c\u683c\u7d0d\u3055\u308c\u3066\u3044\u308b\uff09\u307e\u305f\u306f\u52d5\u7684\u306b\uff08\u30e6\u30fc\u30b6\u306e\u5165\u529b\u306b\u5fdc\u3058\u3066\uff09\u751f\u6210\u3055\u308c\u308b\u3002\u3088\u3063\u3066\u3001\u3046\u307e\u304f\u4f5c\u3089\u308c\u305f\u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u30e1\u30cb\u30e5\u30fc\u3084\u30b3\u30de\u30f3\u30c9\u30e9\u30a4\u30f3\u306a\u3069\u306e\u3001\u4ed6\u306e\u30e6\u30fc\u30b6\u30a4\u30f3\u30bf\u30d5\u30a7\u30fc\u30b9\u30d1\u30e9\u30c0\u30a4\u30e0\u306e\u80fd\u529b\u3092\u5305\u542b\u3057\u3066\u304a\u308a\u3001\u305d\u308c\u3089\u3092\u7f6e\u304d\u63db\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u30af\u30ed\u30b9\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9\u3092\u542b\u3080\u9759\u7684\u306a\u6587\u66f8\u7fa4\u3068\u3001\u5bfe\u8a71\u7684\u306a\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u4e21\u65b9\u3092\u5b9f\u73fe\u3059\u308b\u306e\u306b\u4f7f\u3048\u308b\u3002\u6587\u66f8\u3084\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306f\u30ed\u30fc\u30ab\u30eb\u3067\u3082\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u306e\u3088\u3046\u306a\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u74b0\u5883\u3067\u3082\u5229\u7528\u3067\u304d\u308b\u3002\u6700\u3082\u6709\u540d\u306a\u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8\u306e\u5b9f\u88c5\u306fWorld Wide Web\u3067\u3042\u308b\u3002 \u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8\u3068\u3044\u3046\u8a9e\u306f\u5e83\u304f\u4f7f\u308f\u308c\u3066\u3044\u308b\u304c\u3001\u5b9f\u969b\u306b\u306f\u30cf\u30a4\u30d1\u30fc\u30e1\u30c7\u30a3\u30a2\u3068\u547c\u3093\u3060\u307b\u3046\u304c\u9069\u5207\u306a\u5834\u5408\u3082\u591a\u3044\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "El hipertexto es una herramienta con estructura secuencial que permite crear, agregar, enlazar y compartir informaci\u00f3n de diversas fuentes por medio de enlaces asociativos. La forma m\u00e1s habitual de hipertexto en inform\u00e1tica es la de hiperv\u00ednculos o referencias cruzadas autom\u00e1ticas que van a otros documentos (lex\u00edas). Si el usuario selecciona un hiperv\u00ednculo, el programa muestra el documento enlazado. Otra forma de hipertexto es el stretchtext que consiste en dos indicadores o aceleradores y una pantalla. El primer indicador permite que lo escrito pueda moverse de arriba hacia abajo en la pantalla. Es importante mencionar que el hipertexto no est\u00e1 limitado a datos textuales, podemos encontrar dibujos del elemento especificado o especializado, sonido o v\u00eddeo referido al tema. El programa que se usa para leer los documentos de hipertexto se llama navegador, browser, visualizador o cliente, y cuando seguimos un enlace decimos que estamos navegando por la web. El hipertexto es una de las formas de la hipermedia, enfocada en dise\u00f1ar, escribir y redactar texto en una media.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Un ipertesto \u00e8 un insieme di documenti messi in relazione tra loro per mezzo di parole chiave. Pu\u00f2 essere visto come una rete; i documenti ne costituiscono i nodi. La caratteristica principale di un ipertesto \u00e8 che la lettura pu\u00f2 svolgersi in maniera non lineare: qualsiasi documento della rete pu\u00f2 essere \"il successivo\", in base alla scelta del lettore di quale parola chiave usare come collegamento. \u00c8 possibile, infatti, leggere all'interno di un ipertesto tutti i documenti collegati alla relativa parola chiave marcata. La scelta di una parola chiave diversa porta all'apertura di un documento diverso: all'interno dell'ipertesto sono possibili praticamente infiniti percorsi di lettura. L'ipertesto informatico \u00e8 la versione di ipertesto pi\u00f9 usata e pi\u00f9 diffusa oggi. Il computer ha automatizzato il passaggio da un documento all'altro. I documenti sono leggibili a video grazie a un'interfaccia elettronica, le parole chiave in esso contenute appaiono marcate (sottolineate oppure evidenziate, ecc) in maniera da renderle riconoscibili. L'ipertesto consiste in un collegamento alla parola chiave (opportunamente evidenziata allo scopo), che talvolta appare nello schermo anche sotto forma di icona o immagine. Selezionando o posizionandosi su tale parola o oggetto e facendo clic con il mouse oppure dando l'invio (per navigazione basata sulla tastiera) si ottiene come conseguenza l'apertura di un altro documento, che si pu\u00f2 trovare sullo stesso server o altrove. Quindi le parole chiave funzionano come collegamenti ipertestuali (hyperlink in inglese), che consentono all'utente di navigare verso informazioni aggiuntive. Dopo la nascita del World Wide Web (1993) l'ipertesto ha avuto un notevolissimo sviluppo. Tutto il web, infatti, \u00e8 stato concepito dal suo inventore, l'inglese Tim Berners-Lee, come un ipertesto globale in cui tutti i siti mondiali possono essere consultati da tutti. La pagina web \u00e8 il singolo documento e la \"navigazione\" \u00e8 il passaggio da un sito all'altro tramite i \"link\" (ma anche da una pagina all'altra dello stesso sito o in un'altra parte della stessa pagina). L'interfaccia per visualizzare i siti web (e le pagine ipertestuali contenute) \u00e8 il browser.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Hipertexto \u00e9 o termo que remete a um texto ao qual se agregam outros conjuntos de informa\u00e7\u00e3o na forma de blocos de textos, palavras, imagens ou sons, cujo acesso se d\u00e1 atrav\u00e9s de refer\u00eancias espec\u00edficas, no meio digital denominadas hiperlinks, ou simplesmente links. Esses links ocorrem na forma de termos destacados no corpo de texto principal, \u00edcones gr\u00e1ficos ou imagens e t\u00eam a fun\u00e7\u00e3o de interconectar os diversos conjuntos de informa\u00e7\u00e3o, oferecendo acesso sob demanda \u00e0s informa\u00e7\u00f5es que estendem ou complementam o texto principal. O conceito de \"linkar\" ou de \"ligar\" textos foi criado por Ted Nelson nos anos 1960 e teve como influ\u00eancia o pensador franc\u00eas Roland Barthes, que concebeu em seu livro S/Z o conceito de \"Lexia\", que seria a liga\u00e7\u00e3o de textos com outros textos. Em termos mais simples, o hipertexto \u00e9 uma liga\u00e7\u00e3o que facilita a navega\u00e7\u00e3o dos internautas. Um texto pode ter diversas palavras, imagens ou at\u00e9 mesmo sons que, ao serem clicados, s\u00e3o remetidos para outra p\u00e1gina onde se esclarece com mais precis\u00e3o o assunto do link abordado. O sistema de hipertexto mais conhecido atualmente \u00e9 a World Wide Web, no entanto a Internet n\u00e3o \u00e9 o \u00fanico suporte onde este modelo de organiza\u00e7\u00e3o da informa\u00e7\u00e3o e produ\u00e7\u00e3o textual se manifesta.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Un hypertexte est un document ou un ensemble de documents contenant des unit\u00e9s d'information li\u00e9es entre elles par des hyperliens. Ce syst\u00e8me permet \u00e0 l'utilisateur d'aller directement \u00e0 l'unit\u00e9 qui l'int\u00e9resse, \u00e0 son gr\u00e9, d'une fa\u00e7on non lin\u00e9aire. Le terme, cr\u00e9\u00e9 en 1965 par Ted Nelson, d\u00e9signait, dans les premi\u00e8res ann\u00e9es, un champ de recherche d'orientation litt\u00e9raire fonctionnant sur un syst\u00e8me ferm\u00e9. En parall\u00e8le, les grandes industries commencent \u00e0 d\u00e9finir un langage de balisage standardis\u00e9 (GML / SGML) afin de g\u00e9rer leurs documents sur un ordinateur central. C'est cette technologie que retiendra Tim Berners-Lee pour relier entre elles les ressources de l'Internet dans le World Wide Web. \u00c9tymologiquement, le pr\u00e9fixe \u00ab hyper \u00bb suivi de la base \u00ab texte \u00bb renvoie au d\u00e9passement des contraintes de la lin\u00e9arit\u00e9 du texte \u00e9crit. Lorsque les unit\u00e9s d'information ne sont pas uniquement textuelles, mais aussi audiovisuels, on peut parler de syst\u00e8me et de documents hyperm\u00e9dias. Le terme \u00ab hypertexte \u00bb est polys\u00e9mique. Dans les ann\u00e9es 1990, lorsque ce terme \u00e9tait peu r\u00e9pandu dans son sens informatique, les dictionnaires lui donnaient le sens du n\u00e9ologisme cr\u00e9\u00e9 par G\u00e9rard Genette pour la th\u00e9orie litt\u00e9raire : \u00ab texte litt\u00e9raire d\u00e9riv\u00e9 par rapport \u00e0 un autre qui lui est ant\u00e9rieur et lui sert de mod\u00e8le ou de source, d'o\u00f9 des ph\u00e9nom\u00e8nes de r\u00e9\u00e9criture possibles comme le pastiche ou la parodie \u00bb.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Hypertekst is tekst met direct activeerbare hyperlinks (verwijzingen). De lezer hoeft voor het volgen van een verwijzing geen bladzijden, hoofdstukken of andere teksten op te zoeken en open te slaan, maar kan direct naar een specifieke tekst of een specifieke plek in de tekst doorspringen. Dit maakt in veel gevallen een index bij een lange tekst overbodig: de hyperlinks kunnen immers de index vervangen. In de praktijk beperkt dit de toepassing van hypertekst tot elektronisch gepresenteerde tekst. Het gaat hier in het algemeen om opgemaakte documenten waar zich bijvoorbeeld ook afbeeldingen in bevinden. Men spreekt van hypermedia als ook andere middelen, zoals geluid en bewegend beeld, integraal in het geheel zijn opgenomen. Historisch gezien is de term hypertekst sterk verbonden met de ontwikkeling van de moderne GUI en het inzetten daarvan voor groupwaresystemen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Hipertekst \u2013 organizacja danych w postaci niezale\u017cnych leksji po\u0142\u0105czonych hiper\u0142\u0105czami. Hipertekst cechuje nielinearno\u015b\u0107 i niestrukturalno\u015b\u0107 uk\u0142adu leksji. Oznacza to, \u017ce nie ma z g\u00f3ry zdefiniowanej kolejno\u015bci czytania leksji, a nawigacja mi\u0119dzy nimi zale\u017cy wy\u0142\u0105cznie od u\u017cytkownika. Najbardziej znanym systemem hipertekstowym jest sie\u0107 WWW, chocia\u017c posiada ona pewne ograniczenia w stosunku do innych system\u00f3w, takich jak HyperCard czy Storyspace (np. nie s\u0105 przewidziane po\u0142\u0105czenia leksji/stron jeden do wielu). Wed\u0142ug Teda Nelsona, autora terminu hipertekst, WWW jest mocno ograniczon\u0105, nieudan\u0105 pr\u00f3b\u0105 zastosowania idei hipertekstu, kt\u00f3r\u0105 on sam stara si\u0119 realizowa\u0107 pracuj\u0105c nad Xanadu. Hipertekst doskonale sprawdza si\u0119 w przypadku przechowywania danych o charakterze informacyjnym (vide Wiki), popularny jest jednak r\u00f3wnie\u017c tzw. hipertekst literacki (hiperfikcja) czyli utw\u00f3r literacki zorganizowany w postaci hipertekstu. Niekt\u00f3rzy uwa\u017caj\u0105, \u017ce hiperfikcja jest realizacj\u0105 postmodernistycznego has\u0142a o \u201e\u015bmierci autora\u201d. Mo\u017cna wyr\u00f3\u017cni\u0107 hiperfikcje dyskowe (stand alone hypertext), tworzone przy u\u017cyciu r\u00f3\u017cnorodnych system\u00f3w hipertekstowych i rozprowadzane na materialnych no\u015bnikach, jak np. CD oraz hiperfikcje sieciowe dost\u0119pne na stronach WWW. Korzenie hipertekstu tkwi\u0105 nie tylko w historii komputer\u00f3w, ale r\u00f3wnie\u017c w teorii literatury (m.in. Roland Barthes, autor poj\u0119cia leksja) oraz w literaturze, w postaci tzw. protohipertekst\u00f3w, do kt\u00f3rych niekt\u00f3rzy badacze zaliczaj\u0105 m.in. \u017bycie i my\u015bli JW Pana Tristrama Shandy Lawrence'a Sterne'a, R\u0119kopis znaleziony w Saragossie Jana Potockiego czy Gr\u0119 w klasy Julia Cort\u00e1zara. 5 stycznia 1965 r., w li\u015bcie informuj\u0105cym College Community o sponsorowaniu przez Faculty Science Club na Vassar College wyk\u0142adu Teda Nelsona (tw\u00f3rcy projektu Xanadu) prawdopodobnie po raz pierwszy pada termin hipertekst. Nelson u\u017cywa go nieco p\u00f3\u017aniej na konferencji Association for Computing Machinery.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Hypertext is text displayed on a computer display or other electronic devices with references (hyperlinks) to other text which the reader can immediately access, or where text can be revealed progressively at multiple levels of detail (also called StretchText). The hypertext pages are interconnected by hyperlinks, typically activated by a mouse click, keypress sequence or by touching the screen. Apart from text, hypertext is sometimes used to describe tables, images and other presentational content forms with hyperlinks. Hypertext is the underlying concept defining the structure of the World Wide Web, with pages often written in the Hypertext Markup Language (HTML). It enables an easy-to-use and flexible connection and sharing of information over the Internet.",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Vannevar_Bush_portrait.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742432902,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 13460,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Text"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/HyperText_Template": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hyper_Text": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/HyperText": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Text_link": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hypertextuality": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Metatext": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hypotextuality": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Webtext": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hypertext_markup": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ek\u015fi_S\u00f6zl\u00fck": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hypertext"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Who owns the ford kansas assembly plant?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ford_Motor_Company",
+            "@support": "23230",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "ford",
+            "@offset": "13",
+            "@similarityScore": "0.9995243891281267",
+            "@percentageOfSecondRank": "4.753703039307301E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Kansas",
+            "@support": "37890",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "kansas",
+            "@offset": "18",
+            "@similarityScore": "0.9970229396779813",
+            "@percentageOfSecondRank": "0.0016489351340349544"
+        }
+    ]
+}

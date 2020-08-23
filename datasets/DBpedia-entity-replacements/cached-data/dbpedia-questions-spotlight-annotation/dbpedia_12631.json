@@ -1,0 +1,28 @@
+{
+    "@text": "Which dependency of Norway with a weather station as a capital has the longest coastline ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Norway",
+            "@support": "86469",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Norway",
+            "@offset": "20",
+            "@similarityScore": "0.9994791520680965",
+            "@percentageOfSecondRank": "3.5608321503157066E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Weather_station",
+            "@support": "616",
+            "@types": "",
+            "@surfaceForm": "weather station",
+            "@offset": "34",
+            "@similarityScore": "0.999638692160923",
+            "@percentageOfSecondRank": "3.577036318997614E-4"
+        }
+    ]
+}

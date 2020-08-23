@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me taxon whose name has the word trigonotarbida in it.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "8",
+            "@similarityScore": "0.9996929496188692",
+            "@percentageOfSecondRank": "3.0518649428289515E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Trigonotarbida",
+            "@support": "33",
+            "@types": "Wikidata:Q729,Wikidata:Q19088,DBpedia:Species,DBpedia:Eukaryote,DBpedia:Arachnid,DBpedia:Animal",
+            "@surfaceForm": "trigonotarbida",
+            "@offset": "38",
+            "@similarityScore": "0.9999998846822176",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

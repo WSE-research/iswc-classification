@@ -1,0 +1,37 @@
+{
+    "@text": "What is the birthplace of Ahmad al-Mansur whose twin city is Trarza Region?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Al-Mansur",
+            "@support": "388",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "al-Mansur",
+            "@offset": "32",
+            "@similarityScore": "0.9436852650861391",
+            "@percentageOfSecondRank": "0.03807695496337358"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "twin city",
+            "@offset": "48",
+            "@similarityScore": "0.9879388186251857",
+            "@percentageOfSecondRank": "0.012208429452503083"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Trarza_Region",
+            "@support": "92",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Trarza Region",
+            "@offset": "61",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

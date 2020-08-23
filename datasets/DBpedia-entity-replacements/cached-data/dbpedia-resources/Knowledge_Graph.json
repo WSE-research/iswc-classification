@@ -1,0 +1,385 @@
+{
+    "http://en.wikipedia.org/wiki/Knowledge_Graph": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Knowledge_Graph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Knowledge_Graph": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Machine103699975"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Instrumentality103575240"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatProductsIntroducedIn2012"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Airport"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Commodity103076708"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Computer103082979"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Device103183080"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Merchandise103748886"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Artifact100021939"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WebSite106359193"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Knowledge Graph",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Knowledge Graph",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Google Knowledge Graph",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Google\u77e5\u8bc6\u56fe\u8c31",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Google Knowledge Graph",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Knowledge Graph",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u30ca\u30ec\u30c3\u30b8\u30b0\u30e9\u30d5",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Knowledge Graph",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Gr\u00e1fico de conocimiento",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Le Knowledge Graph est une base de connaissance utilis\u00e9e par Google pour compiler les r\u00e9sultats de son moteur de recherche avec des informations s\u00e9mantiques issues par ailleurs de sources diverses. L'affichage du Knowledge Graph est ajout\u00e9 au moteur de recherche de Google en 2012 aux \u00c9tats-Unis apr\u00e8s avoir \u00e9t\u00e9 annonc\u00e9 le 16 mai 2012. Cet outil fournit une information structur\u00e9e et d\u00e9taill\u00e9e centr\u00e9e sur l'objet de la recherche, en plus de la liste d'hyperliens vers d'autres sites. L'objectif est de permettre aux utilisateurs de r\u00e9soudre leur requ\u00eate sans avoir besoin de naviguer vers d'autres sites pour acc\u00e9der aux informations capitales.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u30ca\u30ec\u30c3\u30b8\u30b0\u30e9\u30d5\uff08\u82f1\u8a9e\uff1aKnowledge Graph\uff09\u306f\u3001\u69d8\u3005\u306a\u60c5\u5831\u6e90\u304b\u3089\u53ce\u96c6\u3057\u305f\u30bb\u30de\u30f3\u30c6\u30a3\u30c3\u30af\u691c\u7d22\u60c5\u5831\u3092\u7528\u3044\u3066\u691c\u7d22\u30a8\u30f3\u30b8\u30f3\u306e\u691c\u7d22\u7d50\u679c\u3092\u62e1\u5f35\u3059\u308b\u305f\u3081\u306bGoogle\u304c\u4f7f\u7528\u3059\u308b\u77e5\u8b58\u30d9\u30fc\u30b9\u3067\u3042\u308b\u30022012\u5e745\u670816\u65e5\u306bGoogle\u304c\u767a\u8868\u3057\u3001\u540c\u5e74\u30ca\u30ec\u30c3\u30b8\u30b0\u30e9\u30d5\u8868\u793a\u6a5f\u80fd\u304c\u7c73\u56fd\u7248\u304b\u3089\u9806\u6b21\u691c\u7d22\u30a8\u30f3\u30b8\u30f3\u306b\u8ffd\u52a0\u3055\u308c\u305f\u3002\u30ca\u30ec\u30c3\u30b8\u30b0\u30e9\u30d5\u306f\u3001\u4ed6\u306e\u30b5\u30a4\u30c8\u3078\u306e\u30ea\u30f3\u30af\u4e00\u89a7\u306b\u52a0\u3048\u3066\u7279\u5b9a\u306e\u30c8\u30d4\u30c3\u30af\u306b\u95a2\u3059\u308b\u69cb\u9020\u5316\u3055\u308c\u305f\u8a73\u7d30\u60c5\u5831\u3092\u63d0\u4f9b\u3059\u308b\u3002\u305d\u306e\u76ee\u7684\u306f\u3001\u691c\u7d22\u30a8\u30f3\u30b8\u30f3\u306e\u5229\u7528\u8005\u304c\u4ed6\u306e\u30b5\u30a4\u30c8\u3092\u898b\u3066\u56de\u308a\u81ea\u5206\u3067\u60c5\u5831\u3092\u53ce\u96c6\u30fb\u6574\u7406\u3057\u306a\u304f\u3066\u3082\u3001\u7591\u554f\u3092\u89e3\u6c7a\u3067\u304d\u308b\u3088\u3046\u306b\u3059\u308b\u3053\u3068\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Knowledge Graph (\u0413\u0440\u0430\u0444 \u0437\u043d\u0430\u043d\u0438\u0439) \u2014 \u0441\u0435\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f \u0438 \u0431\u0430\u0437\u0430 \u0437\u043d\u0430\u043d\u0438\u0439, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u0430\u044f Google \u0434\u043b\u044f \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u044f \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0441\u0432\u043e\u0435\u0439 \u043f\u043e\u0438\u0441\u043a\u043e\u0432\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0441 \u0441\u0435\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u043e-\u0440\u043e\u0437\u044b\u0441\u043a\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439, \u0441\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0439 \u0438\u0437 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432. \u0413\u0440\u0430\u0444 \u0437\u043d\u0430\u043d\u0438\u0439 \u0431\u044b\u043b \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d \u0432 \u043f\u043e\u0438\u0441\u043a\u043e\u0432\u0443\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u0443 Google \u0432 2012 \u0433\u043e\u0434\u0443, \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0432 \u0421\u0428\u0410, \u043e \u0447\u0451\u043c \u0431\u044b\u043b\u043e \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u043e 16 \u043c\u0430\u044f 2012 \u0433\u043e\u0434\u0430. \u0413\u0440\u0430\u0444 \u0437\u043d\u0430\u043d\u0438\u0439 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u0438 \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u0442\u0435\u043c\u0435 \u0432 \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u043a \u0441\u043f\u0438\u0441\u043a\u0443 \u0441\u0441\u044b\u043b\u043e\u043a \u043d\u0430 \u0434\u0440\u0443\u0433\u0438\u0435 \u0441\u0430\u0439\u0442\u044b. \u0426\u0435\u043b\u044c \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u0441\u043c\u043e\u0433\u0443\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u044d\u0442\u0443 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u0434\u043b\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0441\u0432\u043e\u0438\u0445 \u0437\u0430\u043f\u0440\u043e\u0441\u043e\u0432 \u0431\u0435\u0437 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0430 \u043d\u0430 \u0434\u0440\u0443\u0433\u0438\u0435 \u0441\u0430\u0439\u0442\u044b \u0438 \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u043e.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Knowledge Graph jest baz\u0105 wiedzy b\u0119d\u0105c\u0105 w\u0142asno\u015bci\u0105 Google. Technologia ta ma na celu u\u0142atwienie dost\u0119pu do informacji m.in. poprzez popraw\u0119 jako\u015bci wynik\u00f3w wyszukiwania kontekstowego oraz selekcj\u0119 mo\u017cliwie najistotniejszych tre\u015bci. Wdra\u017canie interfejsu Knowledge Graph do wyszukiwarki rozpocz\u0119to 16 maja 2012 roku (Stany Zjednoczone), 4 grudnia 2012 wprowadzono kolejnych 7 j\u0119zyk\u00f3w: francuski, niemiecki, hiszpa\u0144ski, rosyjski, japo\u0144ski, portugalski oraz w\u0142oski. Obs\u0142uga j\u0119zyka polskiego ukaza\u0142a si\u0119 w maju 2013 roku. Dostarcza\u0142 on przejrzystego i graficznie uporz\u0105dkowanego podsumowania informacji dotycz\u0105cych zapytania wraz z odno\u015bnikami do szczeg\u00f3lowych informacji. Mia\u0142o to wyeliminowa\u0107 konieczno\u015b\u0107 przegl\u0105dania stron spor\u00f3d wynik\u00f3w wyszukiwania, celem pozyskania elementarnych informacji dotycz\u0105c",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Google Knowledge Graph, conhecido tamb\u00e9m como Knowledge Graph (Grafo de Conhecimento (em portugu\u00eas)) \u00e9 uma base de conhecimento do sistema de pesquisa da empresa Google que est\u00e1 a ser testado na vers\u00e3o estadunidense do s\u00edtio de busca da empresa, visando melhorar os resultados da sua ferramenta de busca com informa\u00e7\u00f5es de pesquisa sem\u00e2ntica. Segundo o Google, esta informa\u00e7\u00e3o \u00e9 proveniente de v\u00e1rias fontes, incluindo Freebase, a Wikip\u00e9dia e a CIA World Factbook, bem como das pr\u00f3prias fontes internas do Google.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "The Knowledge Graph is a knowledge base used by Google to enhance its search engine's search results with semantic-search information gathered from a wide variety of sources. Knowledge Graph display was added to Google's search engine in 2012, starting in the United States, having been announced on May 16, 2012. It provides structured and detailed information about the topic in addition to a list of links to other sites. The goal is that users would be able to use this information to resolve their query without having to navigate to other sites and assemble the information themselves. The short summary provided in the knowledge graph is often used as a spoken answer in Google Now searches.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "El Gr\u00e1fico de conocimiento (Knowledge Graph en ingl\u00e9s) es una base de conocimiento usada por Google para mejorar los resultados obtenidos con su motor de b\u00fasqueda mediante informaci\u00f3n de b\u00fasqueda sem\u00e1ntica recolectada de una amplia gama de recursos. La aparici\u00f3n de este gr\u00e1fico se a\u00f1adi\u00f3 al motor de b\u00fasqueda de Google en 2012, inicialmente en los Estados Unidos, luego de haber sido anunciado el 16 de mayo de 2012.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Il Knowledge Graph (in italiano \"grafo della conoscenza\") \u00e8 una funzione di ricerca che \u00e8 stata introdotta il 16 maggio 2012 in google.com, mentre nella versione italiana \u00e8 stata attivata il 4 dicembre 2012. Il Knowledge Graph \u00e8 il primo passo verso una ricerca semantica: grazie a questa funzione, il motore di ricerca di Google associa alle parole cercate un oggetto e metter\u00e0 in relazioni oggetti in modo da avere una ricerca pi\u00f9 veloce e accurata. La tecnologia del Knowledge Graph \u00e8 la stessa alla base di Google Now, una applicazione per Android sviluppata da Google Inc..",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Google\u77e5\u8bc6\u56fe\u8c31\uff08\u82f1\u8bed\uff1aGoogle Knowledge Graph\uff0c\u4e5f\u79f0Google\u77e5\u8bc6\u56fe\uff09\u662fGoogle\u7684\u4e00\u4e2a\u77e5\u8bc6\u5e93\uff0c\u5176\u4f7f\u7528\u8bed\u4e49\u68c0\u7d22\u4ece\u591a\u79cd\u6765\u6e90\u6536\u96c6\u4fe1\u606f\uff0c\u4ee5\u63d0\u9ad8Google\u641c\u7d22\u7684\u8d28\u91cf\u3002\u77e5\u8bc6\u56fe\u8c312012\u5e74\u52a0\u5165Google\u641c\u7d22\uff0c2012\u5e745\u670816\u65e5\u6b63\u5f0f\u53d1\u5e03\uff0c\u9996\u5148\u53ef\u5728\u7f8e\u56fd\u4f7f\u7528\u3002\u77e5\u8bc6\u56fe\u8c31\u9664\u4e86\u663e\u793a\u5176\u4ed6\u7f51\u7ad9\u7684\u94fe\u63a5\u5217\u8868\uff0c\u8fd8\u63d0\u4f9b\u7ed3\u6784\u5316\u53ca\u8be6\u7ec6\u7684\u5173\u4e8e\u4e3b\u9898\u7684\u4fe1\u606f\u3002\u5176\u76ee\u6807\u662f\uff0c\u7528\u6237\u5c06\u80fd\u591f\u4f7f\u7528\u6b64\u529f\u80fd\u63d0\u4f9b\u7684\u4fe1\u606f\u6765\u89e3\u51b3\u4ed6\u4eec\u67e5\u8be2\u7684\u95ee\u9898\uff0c\u800c\u4e0d\u5fc5\u5bfc\u822a\u5230\u5176\u4ed6\u7f51\u7ad9\u5e76\u81ea\u5df1\u6c47\u603b\u4fe1\u606f\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q648625"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Knowledge_Graph"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30ca\u30ec\u30c3\u30b8\u30b0\u30e9\u30d5"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q648625"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Google_Knowledge_Graph"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc9c0\uc2dd_\uadf8\ub798\ud504"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Knowledge_Graph"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Knowledge_Graph"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Gr\u00e1fico_de_conocimiento"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Knowledge_Graph"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Google_Knowledge_Graph"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0jwvf5b"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Internet_search_engines"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Knowledge_bases"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Products_introduced_in_2012"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Google_Search"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/homepage": [
+            {
+                "type": "uri",
+                "value": "https://www.google.com/intl/es419/insidesearch/features/search/knowledge.html"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Google_Knowledge_Panel.png"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Knowledge_Graph"
+            }
+        ],
+        "http://dbpedia.org/property/products": [
+            {
+                "type": "literal",
+                "value": "yes",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/corporate": [
+            {
+                "type": "literal",
+                "value": "yes",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Knowledge_Graph?oldid=743664871"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "https://www.google.com/intl/es419/insidesearch/features/search/knowledge.html"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u30ca\u30ec\u30c3\u30b8\u30b0\u30e9\u30d5\uff08\u82f1\u8a9e\uff1aKnowledge Graph\uff09\u306f\u3001\u69d8\u3005\u306a\u60c5\u5831\u6e90\u304b\u3089\u53ce\u96c6\u3057\u305f\u30bb\u30de\u30f3\u30c6\u30a3\u30c3\u30af\u691c\u7d22\u60c5\u5831\u3092\u7528\u3044\u3066\u691c\u7d22\u30a8\u30f3\u30b8\u30f3\u306e\u691c\u7d22\u7d50\u679c\u3092\u62e1\u5f35\u3059\u308b\u305f\u3081\u306bGoogle\u304c\u4f7f\u7528\u3059\u308b\u77e5\u8b58\u30d9\u30fc\u30b9\u3067\u3042\u308b\u30022012\u5e745\u670816\u65e5\u306bGoogle\u304c\u767a\u8868\u3057\u3001\u540c\u5e74\u30ca\u30ec\u30c3\u30b8\u30b0\u30e9\u30d5\u8868\u793a\u6a5f\u80fd\u304c\u7c73\u56fd\u7248\u304b\u3089\u9806\u6b21\u691c\u7d22\u30a8\u30f3\u30b8\u30f3\u306b\u8ffd\u52a0\u3055\u308c\u305f\u3002\u30ca\u30ec\u30c3\u30b8\u30b0\u30e9\u30d5\u306f\u3001\u4ed6\u306e\u30b5\u30a4\u30c8\u3078\u306e\u30ea\u30f3\u30af\u4e00\u89a7\u306b\u52a0\u3048\u3066\u7279\u5b9a\u306e\u30c8\u30d4\u30c3\u30af\u306b\u95a2\u3059\u308b\u69cb\u9020\u5316\u3055\u308c\u305f\u8a73\u7d30\u60c5\u5831\u3092\u63d0\u4f9b\u3059\u308b\u3002\u305d\u306e\u76ee\u7684\u306f\u3001\u691c\u7d22\u30a8\u30f3\u30b8\u30f3\u306e\u5229\u7528\u8005\u304c\u4ed6\u306e\u30b5\u30a4\u30c8\u3092\u898b\u3066\u56de\u308a\u81ea\u5206\u3067\u60c5\u5831\u3092\u53ce\u96c6\u30fb\u6574\u7406\u3057\u306a\u304f\u3066\u3082\u3001\u7591\u554f\u3092\u89e3\u6c7a\u3067\u304d\u308b\u3088\u3046\u306b\u3059\u308b\u3053\u3068\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Google\u77e5\u8bc6\u56fe\u8c31\uff08\u82f1\u8bed\uff1aGoogle Knowledge Graph\uff0c\u4e5f\u79f0Google\u77e5\u8bc6\u56fe\uff09\u662fGoogle\u7684\u4e00\u4e2a\u77e5\u8bc6\u5e93\uff0c\u5176\u4f7f\u7528\u8bed\u4e49\u68c0\u7d22\u4ece\u591a\u79cd\u6765\u6e90\u6536\u96c6\u4fe1\u606f\uff0c\u4ee5\u63d0\u9ad8Google\u641c\u7d22\u7684\u8d28\u91cf\u3002\u77e5\u8bc6\u56fe\u8c312012\u5e74\u52a0\u5165Google\u641c\u7d22\uff0c2012\u5e745\u670816\u65e5\u6b63\u5f0f\u53d1\u5e03\uff0c\u9996\u5148\u53ef\u5728\u7f8e\u56fd\u4f7f\u7528\u3002\u77e5\u8bc6\u56fe\u8c31\u9664\u4e86\u663e\u793a\u5176\u4ed6\u7f51\u7ad9\u7684\u94fe\u63a5\u5217\u8868\uff0c\u8fd8\u63d0\u4f9b\u7ed3\u6784\u5316\u53ca\u8be6\u7ec6\u7684\u5173\u4e8e\u4e3b\u9898\u7684\u4fe1\u606f\u3002\u5176\u76ee\u6807\u662f\uff0c\u7528\u6237\u5c06\u80fd\u591f\u4f7f\u7528\u6b64\u529f\u80fd\u63d0\u4f9b\u7684\u4fe1\u606f\u6765\u89e3\u51b3\u4ed6\u4eec\u67e5\u8be2\u7684\u95ee\u9898\uff0c\u800c\u4e0d\u5fc5\u5bfc\u822a\u5230\u5176\u4ed6\u7f51\u7ad9\u5e76\u81ea\u5df1\u6c47\u603b\u4fe1\u606f\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "El Gr\u00e1fico de conocimiento (Knowledge Graph en ingl\u00e9s) es una base de conocimiento usada por Google para mejorar los resultados obtenidos con su motor de b\u00fasqueda mediante informaci\u00f3n de b\u00fasqueda sem\u00e1ntica recolectada de una amplia gama de recursos. La aparici\u00f3n de este gr\u00e1fico se a\u00f1adi\u00f3 al motor de b\u00fasqueda de Google en 2012, inicialmente en los Estados Unidos, luego de haber sido anunciado el 16 de mayo de 2012. Provee informaci\u00f3n estructurada y detallada acerca de un tema adem\u00e1s de una lista de enlaces a otros sitios. La meta es que el usuario sea capaz de usar esta informaci\u00f3n para resolver su consulta sin tener que navegar a otros sitios para que re\u00fana la informaci\u00f3n por s\u00ed mismo. De acuerdo con Google, esta informaci\u00f3n se deriva de muchos recursos, que incluyen el CIA World Factbook, Freebase y Wikipedia. La caracter\u00edstica es similar en intenci\u00f3n a los motores de respuesta tales como Ask Jeeves y Wolfram Alpha. A partir de 2012, su red sem\u00e1ntica conten\u00eda m\u00e1s de 570 millones de objetos y m\u00e1s de 18 mil millones de sucesos acerca de \u2013y relaciones entre\u2013 esos diferentes objetos que se usan para entender el significado del t\u00e9rmino \u00edndice ingresado en la b\u00fasqueda.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Il Knowledge Graph (in italiano \"grafo della conoscenza\") \u00e8 una funzione di ricerca che \u00e8 stata introdotta il 16 maggio 2012 in google.com, mentre nella versione italiana \u00e8 stata attivata il 4 dicembre 2012. Il Knowledge Graph \u00e8 il primo passo verso una ricerca semantica: grazie a questa funzione, il motore di ricerca di Google associa alle parole cercate un oggetto e metter\u00e0 in relazioni oggetti in modo da avere una ricerca pi\u00f9 veloce e accurata. La tecnologia del Knowledge Graph \u00e8 la stessa alla base di Google Now, una applicazione per Android sviluppata da Google Inc..",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Le Knowledge Graph est une base de connaissance utilis\u00e9e par Google pour compiler les r\u00e9sultats de son moteur de recherche avec des informations s\u00e9mantiques issues par ailleurs de sources diverses. L'affichage du Knowledge Graph est ajout\u00e9 au moteur de recherche de Google en 2012 aux \u00c9tats-Unis apr\u00e8s avoir \u00e9t\u00e9 annonc\u00e9 le 16 mai 2012. Cet outil fournit une information structur\u00e9e et d\u00e9taill\u00e9e centr\u00e9e sur l'objet de la recherche, en plus de la liste d'hyperliens vers d'autres sites. L'objectif est de permettre aux utilisateurs de r\u00e9soudre leur requ\u00eate sans avoir besoin de naviguer vers d'autres sites pour acc\u00e9der aux informations capitales. Selon Google, ces informations sont issues de diff\u00e9rentes sources, telles que le World Factbook de la CIA (CIA World Factbook), Wikidata, ou encore Wikip\u00e9dia. Cet outil rejoint les objectifs des \u00ab moteurs de r\u00e9ponse \u00bb comme Ask.com (ex-Ask Jeeves) et Wolfram Alpha. En 2012, son r\u00e9seau s\u00e9mantique contenait plus de 500 millions d'objets et plus de 18 milliards de faits et relations entre ces diff\u00e9rents objets utilis\u00e9s par le moteur de recherche afin de comprendre la signification des mots-clefs, saisis lors de toute recherche.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "The Knowledge Graph is a knowledge base used by Google to enhance its search engine's search results with semantic-search information gathered from a wide variety of sources. Knowledge Graph display was added to Google's search engine in 2012, starting in the United States, having been announced on May 16, 2012. It provides structured and detailed information about the topic in addition to a list of links to other sites. The goal is that users would be able to use this information to resolve their query without having to navigate to other sites and assemble the information themselves. The short summary provided in the knowledge graph is often used as a spoken answer in Google Now searches. According to some news websites, the implementation of Google's Knowledge Graph has played a role in the page view decline of various language versions of Wikipedia.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Google Knowledge Graph, conhecido tamb\u00e9m como Knowledge Graph (Grafo de Conhecimento (em portugu\u00eas)) \u00e9 uma base de conhecimento do sistema de pesquisa da empresa Google que est\u00e1 a ser testado na vers\u00e3o estadunidense do s\u00edtio de busca da empresa, visando melhorar os resultados da sua ferramenta de busca com informa\u00e7\u00f5es de pesquisa sem\u00e2ntica. A novidade foi adicionada ao motor de busca do Google em 2012. Ele fornece informa\u00e7\u00f5es estruturadas e detalhadas sobre o tema, al\u00e9m de uma lista de links para outros s\u00edtios. O objetivo \u00e9 fornecer aos usu\u00e1rios as informa\u00e7\u00f5es necess\u00e1rias para responder \u00e0s suas d\u00favidas consultadas sem precisarem navegar para outros sites. Segundo o Google, esta informa\u00e7\u00e3o \u00e9 proveniente de v\u00e1rias fontes, incluindo Freebase, a Wikip\u00e9dia e a CIA World Factbook, bem como das pr\u00f3prias fontes internas do Google. O recurso \u00e9 semelhante na inten\u00e7\u00e3o de outros motores de busca inteligentes, como Ask Jeeves e Wolfram Alpha. Desde 2012, sua rede sem\u00e2ntica (contendo cerca de 3,5 bilh\u00f5es atributos) s\u00e3o usados \u200b\u200bpara compreender o significado das palavras-chave usadas na pesquisa. O intuito da empresa \u00e9 interpretar as palavras-chave da pesquisa n\u00e3o como uma sequ\u00eancia de caracteres arbitr\u00e1rios, mas vincul\u00e1-las a objetos, pessoas e lugares do mundo real .",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Knowledge Graph jest baz\u0105 wiedzy b\u0119d\u0105c\u0105 w\u0142asno\u015bci\u0105 Google. Technologia ta ma na celu u\u0142atwienie dost\u0119pu do informacji m.in. poprzez popraw\u0119 jako\u015bci wynik\u00f3w wyszukiwania kontekstowego oraz selekcj\u0119 mo\u017cliwie najistotniejszych tre\u015bci. Wdra\u017canie interfejsu Knowledge Graph do wyszukiwarki rozpocz\u0119to 16 maja 2012 roku (Stany Zjednoczone), 4 grudnia 2012 wprowadzono kolejnych 7 j\u0119zyk\u00f3w: francuski, niemiecki, hiszpa\u0144ski, rosyjski, japo\u0144ski, portugalski oraz w\u0142oski. Obs\u0142uga j\u0119zyka polskiego ukaza\u0142a si\u0119 w maju 2013 roku. Dostarcza\u0142 on przejrzystego i graficznie uporz\u0105dkowanego podsumowania informacji dotycz\u0105cych zapytania wraz z odno\u015bnikami do szczeg\u00f3lowych informacji. Mia\u0142o to wyeliminowa\u0107 konieczno\u015b\u0107 przegl\u0105dania stron spor\u00f3d wynik\u00f3w wyszukiwania, celem pozyskania elementarnych informacji dotycz\u0105cych danego zagadnienia. Google Knowledge Graph jest r\u00f3wnie\u017c wykorzystywany przez aplikacj\u0119 Google Now w odpowiedziach g\u0142osowych.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Knowledge Graph (\u0413\u0440\u0430\u0444 \u0437\u043d\u0430\u043d\u0438\u0439) \u2014 \u0441\u0435\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f \u0438 \u0431\u0430\u0437\u0430 \u0437\u043d\u0430\u043d\u0438\u0439, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u0430\u044f Google \u0434\u043b\u044f \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u044f \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0441\u0432\u043e\u0435\u0439 \u043f\u043e\u0438\u0441\u043a\u043e\u0432\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0441 \u0441\u0435\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u043e-\u0440\u043e\u0437\u044b\u0441\u043a\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439, \u0441\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0439 \u0438\u0437 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432. \u0413\u0440\u0430\u0444 \u0437\u043d\u0430\u043d\u0438\u0439 \u0431\u044b\u043b \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d \u0432 \u043f\u043e\u0438\u0441\u043a\u043e\u0432\u0443\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u0443 Google \u0432 2012 \u0433\u043e\u0434\u0443, \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0432 \u0421\u0428\u0410, \u043e \u0447\u0451\u043c \u0431\u044b\u043b\u043e \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u043e 16 \u043c\u0430\u044f 2012 \u0433\u043e\u0434\u0430. \u0413\u0440\u0430\u0444 \u0437\u043d\u0430\u043d\u0438\u0439 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u0438 \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u0442\u0435\u043c\u0435 \u0432 \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u043a \u0441\u043f\u0438\u0441\u043a\u0443 \u0441\u0441\u044b\u043b\u043e\u043a \u043d\u0430 \u0434\u0440\u0443\u0433\u0438\u0435 \u0441\u0430\u0439\u0442\u044b. \u0426\u0435\u043b\u044c \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u0441\u043c\u043e\u0433\u0443\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u044d\u0442\u0443 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u0434\u043b\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0441\u0432\u043e\u0438\u0445 \u0437\u0430\u043f\u0440\u043e\u0441\u043e\u0432 \u0431\u0435\u0437 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0430 \u043d\u0430 \u0434\u0440\u0443\u0433\u0438\u0435 \u0441\u0430\u0439\u0442\u044b \u0438 \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u043e. \u041f\u043e \u0441\u043b\u043e\u0432\u0430\u043c \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0435\u0439 Google, \u0431\u0430\u0437\u0430 \u0437\u043d\u0430\u043d\u0438\u0439 Knowledge Graph \u0441\u0444\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u0438\u0437 \u043c\u043d\u043e\u0433\u0438\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432, \u0432\u043a\u043b\u044e\u0447\u0430\u044f CIA World Factbook, Freebase \u0438 Wikipedia. \u041f\u043e \u0444\u0443\u043d\u043a\u0446\u0438\u044f\u043c Knowledge Graph \u043f\u043e\u0445\u043e\u0436 \u043d\u0430 \u043f\u043e\u0438\u0441\u043a\u043e\u0432\u0438\u043a\u0438, \u0434\u0430\u044e\u0449\u0438\u0435 \u043e\u0442\u0432\u0435\u0442, \u0442\u0430\u043a\u0438\u0435 \u043a\u0430\u043a Ask Jeeves, Wolfram Alpha, Linked data \u0438 DBpedia. \u0421 2012 \u0432 \u0441\u0435\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0435\u0442\u0438 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442\u0441\u044f \u0431\u043e\u043b\u0435\u0435 570 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u0438 \u0431\u043e\u043b\u0435\u0435 18 \u043c\u043b\u0440\u0434 \u0444\u0430\u043a\u0442\u043e\u0432 \u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u043c\u0435\u0436\u0434\u0443 \u044d\u0442\u0438\u043c\u0438 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c\u0438 \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043d\u044f\u0442\u044c \u0441\u043c\u044b\u0441\u043b \u0437\u0430\u043f\u0440\u043e\u0441\u0430.",
+                "lang": "ru"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Google_Knowledge_Panel.png?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743664871,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 35847782,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Google_Knowledge_Graph": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Knowledge_Graph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/KnowledgeGraph": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Knowledge_Graph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Knowledge_Panel": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Knowledge_Graph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Knowledge_Panels": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Knowledge_Graph"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Knowledge_graphs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Knowledge_Graph"
+            }
+        ]
+    }
+}

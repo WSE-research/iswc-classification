@@ -1,0 +1,37 @@
+{
+    "@text": "What is the dwarf planet with the lowest argument of periapsis whose instance of is asteroid ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Dwarf_planet",
+            "@support": "845",
+            "@types": "",
+            "@surfaceForm": "dwarf planet",
+            "@offset": "12",
+            "@similarityScore": "0.9999064220582572",
+            "@percentageOfSecondRank": "9.358669938679741E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Apsis",
+            "@support": "2909",
+            "@types": "",
+            "@surfaceForm": "periapsis",
+            "@offset": "53",
+            "@similarityScore": "0.9999999999778737",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Asteroid",
+            "@support": "14510",
+            "@types": "",
+            "@surfaceForm": "asteroid",
+            "@offset": "84",
+            "@similarityScore": "0.9999644358353037",
+            "@percentageOfSecondRank": "3.453979624724302E-5"
+        }
+    ]
+}

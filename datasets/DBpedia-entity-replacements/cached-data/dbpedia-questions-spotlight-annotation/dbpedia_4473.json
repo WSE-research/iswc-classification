@@ -1,0 +1,37 @@
+{
+    "@text": "Was John Quincy Adams a United States Ambassador to Germany and to the Netherlands?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "24",
+            "@similarityScore": "0.9999415372462881",
+            "@percentageOfSecondRank": "3.727926867822492E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Germany",
+            "@support": "216576",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Germany",
+            "@offset": "52",
+            "@similarityScore": "0.995848674788872",
+            "@percentageOfSecondRank": "0.002146104098308498"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Netherlands",
+            "@support": "101149",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Netherlands",
+            "@offset": "71",
+            "@similarityScore": "0.9979059355967177",
+            "@percentageOfSecondRank": "0.0017201233170182303"
+        }
+    ]
+}

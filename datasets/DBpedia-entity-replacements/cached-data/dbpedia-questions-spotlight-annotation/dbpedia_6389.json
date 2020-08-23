@@ -1,0 +1,37 @@
+{
+    "@text": "What is the HQ location of the Hermitage Museum whose twin town is Krakow?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Hermitage_Museum",
+            "@support": "1926",
+            "@types": "Wikidata:Q41176,Wikidata:Q33506,Schema:Place,DBpedia:Place,DBpedia:Museum,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Hermitage Museum",
+            "@offset": "31",
+            "@similarityScore": "0.9999999999999147",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "twin town",
+            "@offset": "54",
+            "@similarityScore": "0.9995366310280546",
+            "@percentageOfSecondRank": "4.6358378021318E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Krak\u00f3w",
+            "@support": "17667",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Krakow",
+            "@offset": "67",
+            "@similarityScore": "0.5058662582089324",
+            "@percentageOfSecondRank": "0.5299526721514359"
+        }
+    ]
+}

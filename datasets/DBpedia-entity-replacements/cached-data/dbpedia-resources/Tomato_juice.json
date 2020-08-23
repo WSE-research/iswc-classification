@@ -1,0 +1,414 @@
+{
+    "http://dbpedia.org/resource/Tomato_juice": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Beverage"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u0639\u0635\u064a\u0631 \u0627\u0644\u0637\u0645\u0627\u0637\u0645",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u043e\u043c\u0430\u0442\u043d\u044b\u0439 \u0441\u043e\u043a",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Tomatensap",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Jus de tomate",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u30c8\u30de\u30c8\u30b8\u30e5\u30fc\u30b9",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Tomato juice",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Zumo de tomate",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Sok pomidorowy",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u756a\u8304\u6c41",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Tomatensaft",
+                "lang": "de"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Le jus de tomate est un jus de fruit fait \u00e0 partir de tomates. Il est consomm\u00e9 comme boisson, soit directement, soit en cocktail comme le bloody mary. Il est g\u00e9n\u00e9ralement vendu sal\u00e9 (6 \u00e0 7 grammes par litre). Il est traditionnellement servi avec des ingr\u00e9dients pour l'assaisonner : sel au c\u00e9leri, tabasco, et parfois sauce Worcestershire. \n* Portail des boissons Portail des boissons",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Tomato juice is a juice made from tomatoes. It is usually used as a beverage, either plain or in cocktails such as a Bloody Mary or Michelada.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u043e\u043c\u0430\u0442\u043d\u044b\u0439 \u0441\u043e\u043a \u2014 \u0441\u043e\u043a, \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u044b\u0439 \u0438\u0437 \u0442\u043e\u043c\u0430\u0442\u043e\u0432 (\u043f\u043e\u043c\u0438\u0434\u043e\u0440\u043e\u0432). \u041f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u0435\u0442\u0441\u044f \u0432 \u0432\u0438\u0434\u0435 \u043d\u0430\u043f\u0438\u0442\u043a\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0438\u043d\u0433\u0440\u0435\u0434\u0438\u0435\u043d\u0442\u043e\u043c \u0434\u043b\u044f \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043a\u043e\u043a\u0442\u0435\u0439\u043b\u0435\u0439, \u0442\u0430\u043a\u0438\u0445 \u043a\u0430\u043a \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u0430\u044f \u041c\u044d\u0440\u0438\u00bb, \u00ab\u0421\u0430\u043d\u0433\u0440\u0438\u0442\u0430\u00bb \u0438 \u00ab\u041c\u0438\u0447\u0435\u043b\u0430\u0434\u0430\u00bb. \u0422\u043e\u043c\u0430\u0442\u043d\u044b\u0439 \u0441\u043e\u043a \u0447\u0430\u0441\u0442\u043e \u043f\u043e\u0434\u0430\u0451\u0442\u0441\u044f \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043d\u0430\u043f\u0438\u0442\u043a\u0430 \u043f\u0430\u0441\u0441\u0430\u0436\u0438\u0440\u0430\u043c \u0441\u0430\u043c\u043e\u043b\u0451\u0442\u043e\u0432 \u0438 \u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0443 \u043d\u0438\u0445 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u044c\u044e. \u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0430\u0432\u0438\u0430\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0435\u0439 Lufthansa \u0432 2008 \u0433\u043e\u0434\u0443 \u0431\u044b\u043b\u043e \u043f\u0440\u043e\u0434\u0430\u043d\u043e \u0431\u043e\u043b\u0435\u0435 1,7 \u043c\u043b\u043d \u043b\u0438\u0442\u0440\u043e\u0432 \u0442\u043e\u043c\u0430\u0442\u043d\u043e\u0433\u043e \u0441\u043e\u043a\u0430; \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u043c \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u043c, \u043f\u0440\u0438\u0447\u0438\u043d\u0430 \u0435\u0433\u043e \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u0438 \u0437\u0430\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u043f\u0435\u0440\u0435\u043f\u0430\u0434\u0430\u0445 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u043f\u043e\u043b\u0451\u0442\u0430.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u0639\u0635\u064a\u0631 \u0627\u0644\u0637\u0645\u0627\u0637\u0645 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Tomato juice) \u0647\u0648 \u0627\u0644\u0639\u0635\u064a\u0631 \u0627\u0644\u0645\u0635\u0646\u0648\u0639 \u0645\u0646 \u0627\u0644\u0637\u0645\u0627\u0637\u0645. \u0648\u0639\u0627\u062f\u0629 \u0645\u0627 \u064a\u0633\u062a\u062e\u062f\u0645 \u0639\u0644\u0649 \u0623\u0646\u0647 \u0645\u0646 \u0627\u0644\u0645\u0634\u0631\u0648\u0628\u0627\u062a\u060c \u0625\u0645\u0627 \u0639\u0627\u062f\u064a \u0623\u0648 \u0639\u0644\u0649 \u0634\u0643\u0644 \u0643\u0648\u0643\u062a\u064a\u0644\u0627\u062a.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u30c8\u30de\u30c8\u30b8\u30e5\u30fc\u30b9\u3068\u306f\u3001\u30c8\u30de\u30c8\u3092\u3064\u3076\u3057\u3066\u7d5e\u3063\u305f\u30b8\u30e5\u30fc\u30b9\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Tomatensaft ist ein aus Tomaten hergestellter Gem\u00fcsesaft. Er enth\u00e4lt aufgrund der Erhitzung der Tomaten in der Herstellung deutlich mehr vom Pflanzenfarbstoff Lycopin als frische Tomaten. Dem Pflanzenfarbstoff wird unter anderem eine krebsvorbeugende Wirkung zugesprochen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Tomatensap is het sap dat wordt verkregen uit tomaten, vaak met toegevoegd zout. Tomatensap wordt normaal gesproken puur gedronken, met wat tabasco of peper of als ingredi\u00ebnt in een cocktail.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Sok pomidorowy \u2013 sok przecierowy otrzymywany z owoc\u00f3w pomidora przeznaczony do bezpo\u015bredniego spo\u017cycia. Prawdopodobnie najpopularniejszy sok warzywny. Stosowany jest jako sok jednowarzywny, ale tak\u017ce wykorzystywany jest w po\u0142\u0105czeniach z innymi do produkcji sok\u00f3w wielowarzywnych i soku pomidorowo-selerowego.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "El zumo de tomate es un preparado procedente del jugo de los tomates que se suele emplear como bebida. Se suele distribuir en recipientes de conservas. Suele emplearse como ingrediente l\u00edquido en ciertos cocktails como son el norteamericano Bloody Mary (con Vodka), el Caesar, la cerveza preparada (con cerveza) y la Michelada mexicana. Suele emplearse en las bebidas por su sabor \u00e1cido y por su contenido de vitamina C, y minerales como el potasio y el yodo. El zumo contiene tambi\u00e9n antioxidantes (principalmente licopeno).",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u756a\u8304\u6c41\u662f\u4ee5\u756a\u8304\u88fd\u6210\u7684\u679c\u6c41\uff0c\u4e00\u822c\u4f5c\u4e3a\u996e\u6599\u670d\u7528\uff0c\u4e5f\u53ef\u4f5c\u4e3a\u8840\u739b\u4e3d\u3001Michelada\u7b49\u9e21\u5c3e\u9152\u7684\u914d\u6599\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://dbpedia.org/property/sourceUsda": [
+            {
+                "type": "literal",
+                "value": 1,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/opt1n": [
+            {
+                "type": "literal",
+                "value": "Water",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03gkc1"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Zumo_de_tomate"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Raj\u010datov\u00fd_d\u017eus"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Jus_tomat"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Tomatensaft"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q787325"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Tomato_juice"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Jus_de_tomate"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Sok_pomidorowy"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30c8\u30de\u30c8\u30b8\u30e5\u30fc\u30b9"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q787325"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Tomatensap"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4322578-0"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Mexican_cuisine"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Tomato_products"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Ohio_culture"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Fruit_juice"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Vegetable_juice"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Mexican_drinks"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Symbols_of_Ohio"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomato_Juice.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Tomato_juice"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Tomato_juice?oldid=744822849"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Tomato juice, canned, without salt added",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Le jus de tomate est un jus de fruit fait \u00e0 partir de tomates. Il est consomm\u00e9 comme boisson, soit directement, soit en cocktail comme le bloody mary. Il est g\u00e9n\u00e9ralement vendu sal\u00e9 (6 \u00e0 7 grammes par litre). Il est traditionnellement servi avec des ingr\u00e9dients pour l'assaisonner : sel au c\u00e9leri, tabasco, et parfois sauce Worcestershire. \n* Portail des boissons Portail des boissons",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Tomatensap is het sap dat wordt verkregen uit tomaten, vaak met toegevoegd zout. Tomatensap wordt normaal gesproken puur gedronken, met wat tabasco of peper of als ingredi\u00ebnt in een cocktail.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Tomatensaft ist ein aus Tomaten hergestellter Gem\u00fcsesaft. Er enth\u00e4lt aufgrund der Erhitzung der Tomaten in der Herstellung deutlich mehr vom Pflanzenfarbstoff Lycopin als frische Tomaten. Dem Pflanzenfarbstoff wird unter anderem eine krebsvorbeugende Wirkung zugesprochen. Ferner hat eine Studie des Instituts f\u00fcr Ern\u00e4hrungsphysiologie der Bundesforschungsanstalt f\u00fcr Ern\u00e4hrung und Lebensmittel in Karlsruhe ergeben, dass der t\u00e4gliche Genuss von Tomatensaft das LDL-Cholesterin deutlich verringert und zur Verringerung der oxidativen DNA-Sch\u00e4digung beitr\u00e4gt. Angeblich stimuliert Tomatensaft auch das Immunsystem. Es ist bekannt, dass bereits die Azteken, Maya und Inka Tomatensaft zur Herstellung von Arzneigetr\u00e4nken verwendet haben.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "El zumo de tomate es un preparado procedente del jugo de los tomates que se suele emplear como bebida. Se suele distribuir en recipientes de conservas. Suele emplearse como ingrediente l\u00edquido en ciertos cocktails como son el norteamericano Bloody Mary (con Vodka), el Caesar, la cerveza preparada (con cerveza) y la Michelada mexicana. Suele emplearse en las bebidas por su sabor \u00e1cido y por su contenido de vitamina C, y minerales como el potasio y el yodo. El zumo contiene tambi\u00e9n antioxidantes (principalmente licopeno).",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u043e\u043c\u0430\u0442\u043d\u044b\u0439 \u0441\u043e\u043a \u2014 \u0441\u043e\u043a, \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u044b\u0439 \u0438\u0437 \u0442\u043e\u043c\u0430\u0442\u043e\u0432 (\u043f\u043e\u043c\u0438\u0434\u043e\u0440\u043e\u0432). \u041f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u0435\u0442\u0441\u044f \u0432 \u0432\u0438\u0434\u0435 \u043d\u0430\u043f\u0438\u0442\u043a\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0438\u043d\u0433\u0440\u0435\u0434\u0438\u0435\u043d\u0442\u043e\u043c \u0434\u043b\u044f \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043a\u043e\u043a\u0442\u0435\u0439\u043b\u0435\u0439, \u0442\u0430\u043a\u0438\u0445 \u043a\u0430\u043a \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u0430\u044f \u041c\u044d\u0440\u0438\u00bb, \u00ab\u0421\u0430\u043d\u0433\u0440\u0438\u0442\u0430\u00bb \u0438 \u00ab\u041c\u0438\u0447\u0435\u043b\u0430\u0434\u0430\u00bb. \u0412 \u0410\u043c\u0435\u0440\u0438\u043a\u0435 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044f, \u0447\u0442\u043e \u043f\u0435\u0440\u0432\u044b\u043c \u0441\u0442\u0430\u043b \u043f\u0440\u043e\u0434\u0430\u0432\u0430\u0442\u044c \u0442\u043e\u043c\u0430\u0442\u043d\u044b\u0439 \u0441\u043e\u043a \u0432 1917 \u0433\u043e\u0434\u0443 \u041b\u0443\u0438 \u041f\u0435\u0440\u0440\u0435\u043d, \u0432\u043b\u0430\u0434\u0435\u043b\u0435\u0446 \u0433\u043e\u0441\u0442\u0438\u043d\u0438\u0446\u044b French Lick Springs Hotel \u0432 \u044e\u0436\u043d\u043e\u0439 \u0418\u043d\u0434\u0438\u0430\u043d\u0435, \u043a\u043e\u0433\u0434\u0430 \u0443 \u043d\u0435\u0433\u043e \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b\u0441\u044f \u0430\u043f\u0435\u043b\u044c\u0441\u0438\u043d\u043e\u0432\u044b\u0439 \u0441\u043e\u043a \u0438 \u0435\u0433\u043e \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043b\u043e\u0441\u044c \u0441\u0440\u043e\u0447\u043d\u043e \u0447\u0435\u043c-\u0442\u043e \u0437\u0430\u043c\u0435\u043d\u0438\u0442\u044c. \u0418\u0437\u043e\u0431\u0440\u0435\u0442\u0451\u043d\u043d\u044b\u0439 \u041f\u0435\u0440\u0440\u0435\u043d\u043e\u043c \u0440\u0435\u0446\u0435\u043f\u0442 \u0441\u043e\u043a\u0430, \u0432\u043a\u043b\u044e\u0447\u0430\u0432\u0448\u0438\u0439 \u043c\u044f\u043a\u043e\u0442\u044c \u043f\u043e\u043c\u0438\u0434\u043e\u0440\u043e\u0432, \u0441\u0430\u0445\u0430\u0440 \u0438 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u043e\u0443\u0441, \u0431\u044b\u0441\u0442\u0440\u043e \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u044c; \u0442\u043e\u0433\u0434\u0430 \u0436\u0435 \u0432 \u0427\u0438\u043a\u0430\u0433\u043e \u043f\u043e\u044f\u0432\u0438\u043b\u0441\u044f \u043f\u0435\u0440\u0432\u044b\u0439 \u043a\u043e\u043a\u0442\u0435\u0439\u043b\u044c \u0441 \u0442\u043e\u043c\u0430\u0442\u043d\u044b\u043c \u0441\u043e\u043a\u043e\u043c. \u041c\u043d\u043e\u0433\u0438\u0435 \u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0438 \u0442\u043e\u043c\u0430\u0442\u043d\u043e\u0433\u043e \u0441\u043e\u043a\u0430 \u0434\u043e\u0431\u0430\u0432\u043b\u044f\u044e\u0442 \u0432 \u043d\u0435\u0433\u043e \u0441\u043e\u043b\u044c. \u0427\u0430\u0441\u0442\u043e \u043c\u043e\u0436\u043d\u043e \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0442\u044c \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0434\u043e\u0431\u0430\u0432\u043a\u0438 \u2014 \u043b\u0443\u043a\u043e\u0432\u044b\u0439 \u0438\u043b\u0438 \u0447\u0435\u0441\u043d\u043e\u0447\u043d\u044b\u0439 \u043f\u043e\u0440\u043e\u0448\u043e\u043a, \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u0441\u043f\u0435\u0446\u0438\u0438. \u0412 \u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0445 \u0428\u0442\u0430\u0442\u0430\u0445 \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u0438 \u043f\u0440\u043e\u0434\u0430\u0436\u0438 \u0442\u043e\u043c\u0430\u0442\u043d\u043e\u0433\u043e \u0441\u043e\u043a\u0430 \u043d\u0430\u0447\u0430\u043b\u0438\u0441\u044c \u0432 \u0441\u0435\u0440\u0435\u0434\u0438\u043d\u0435 1920-\u0445 \u0433\u043e\u0434\u043e\u0432, \u0430 \u0447\u0435\u0440\u0435\u0437 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043b\u0435\u0442 \u043e\u043d \u0441\u0442\u0430\u043b \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u043c \u043d\u0430\u043f\u0438\u0442\u043a\u043e\u043c \u0434\u043b\u044f \u0437\u0430\u0432\u0442\u0440\u0430\u043a\u0430. \u041a\u0430\u043d\u0430\u0434\u0441\u043a\u0438\u0435 \u0437\u0430\u043a\u043e\u043d\u044b \u0442\u0440\u0435\u0431\u0443\u044e\u0442, \u0447\u0442\u043e\u0431\u044b \u0441\u043e\u043a \u0431\u044b\u043b \u0432\u044b\u0436\u0430\u0442 \u0438\u0437 \u0446\u0435\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u043c\u0438\u0434\u043e\u0440\u043e\u0432, \u0442\u043e\u0433\u0434\u0430 \u043a\u0430\u043a \u0432 \u0421\u0428\u0410 \u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0447\u0430\u0441\u0442\u044c \u0442\u043e\u043c\u0430\u0442\u043d\u043e\u0433\u043e \u0441\u043e\u043a\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u0442\u043e\u043c\u0430\u0442\u043d\u043e\u0439 \u043f\u0430\u0441\u0442\u044b. \u0422\u043e\u043c\u0430\u0442\u043d\u044b\u0439 \u0441\u043e\u043a, \u043a\u0430\u043a \u0438 \u0441\u0430\u043c\u0438 \u0442\u043e\u043c\u0430\u0442\u044b, \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u0430\u043d\u0442\u0438\u043e\u043a\u0441\u0438\u0434\u0430\u043d\u0442 \u043b\u0438\u043a\u043e\u043f\u0438\u043d, \u043f\u043e\u0442\u0440\u0435\u0431\u043b\u0435\u043d\u0438\u0435 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e, \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u043c \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f\u043c, \u043c\u043e\u0436\u0435\u0442 \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u043e\u0442 \u0446\u0435\u043b\u043e\u0433\u043e \u0440\u044f\u0434\u0430 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0439. \u041d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u043f\u043e \u043c\u0430\u0441\u0448\u0442\u0430\u0431\u0430\u043c \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0432 2000 \u0433\u043e\u0434\u0443 \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u043e, \u0447\u0442\u043e \u0442\u043e\u043c\u0430\u0442\u043d\u044b\u0439 \u0441\u043e\u043a \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u0444\u0430\u043a\u0442\u043e\u0440 (\u043f\u043e\u0434 \u043a\u043e\u0434\u043e\u0432\u044b\u043c \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435\u043c P3), \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u00ab\u0441\u043b\u0438\u043f\u0430\u043d\u0438\u044e\u00bb \u0442\u0440\u043e\u043c\u0431\u043e\u0446\u0438\u0442\u043e\u0432 \u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044e \u0442\u0440\u043e\u043c\u0431\u043e\u0432. \u0410\u0432\u0442\u043e\u0440\u044b \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u044e\u0442, \u0447\u0442\u043e \u043f\u0440\u043e\u0434\u0443\u043a\u0442 \u043c\u043e\u0436\u0435\u0442 \u043e\u043a\u0430\u0437\u0430\u0442\u044c\u0441\u044f \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u043c \u0434\u043b\u044f \u0431\u043e\u043b\u044c\u043d\u044b\u0445 \u0434\u0438\u0430\u0431\u0435\u0442\u043e\u043c. \u0412\u043f\u0440\u043e\u0447\u0435\u043c, \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \u043e\u0442 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u0435\u043d\u0438\u044f \u0442\u043e\u043c\u0430\u0442\u043d\u043e\u0433\u043e \u0441\u043e\u043a\u0430 \u0431\u043e\u043b\u044c\u043d\u044b\u043c\u0438 \u0434\u0438\u0430\u0431\u0435\u0442\u043e\u043c \u0442\u043e\u043b\u043a\u043e\u043c \u043d\u0435 \u0438\u0437\u0443\u0447\u0430\u043b\u0441\u044f. \u0422\u043e\u043c\u0430\u0442\u043d\u044b\u0439 \u0441\u043e\u043a \u0447\u0430\u0441\u0442\u043e \u043f\u043e\u0434\u0430\u0451\u0442\u0441\u044f \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043d\u0430\u043f\u0438\u0442\u043a\u0430 \u043f\u0430\u0441\u0441\u0430\u0436\u0438\u0440\u0430\u043c \u0441\u0430\u043c\u043e\u043b\u0451\u0442\u043e\u0432 \u0438 \u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0443 \u043d\u0438\u0445 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u044c\u044e. \u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0430\u0432\u0438\u0430\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0435\u0439 Lufthansa \u0432 2008 \u0433\u043e\u0434\u0443 \u0431\u044b\u043b\u043e \u043f\u0440\u043e\u0434\u0430\u043d\u043e \u0431\u043e\u043b\u0435\u0435 1,7 \u043c\u043b\u043d \u043b\u0438\u0442\u0440\u043e\u0432 \u0442\u043e\u043c\u0430\u0442\u043d\u043e\u0433\u043e \u0441\u043e\u043a\u0430; \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u043c \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u043c, \u043f\u0440\u0438\u0447\u0438\u043d\u0430 \u0435\u0433\u043e \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u0438 \u0437\u0430\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u043f\u0435\u0440\u0435\u043f\u0430\u0434\u0430\u0445 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u043f\u043e\u043b\u0451\u0442\u0430.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Sok pomidorowy \u2013 sok przecierowy otrzymywany z owoc\u00f3w pomidora przeznaczony do bezpo\u015bredniego spo\u017cycia. Prawdopodobnie najpopularniejszy sok warzywny. Stosowany jest jako sok jednowarzywny, ale tak\u017ce wykorzystywany jest w po\u0142\u0105czeniach z innymi do produkcji sok\u00f3w wielowarzywnych i soku pomidorowo-selerowego.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Tomato juice is a juice made from tomatoes. It is usually used as a beverage, either plain or in cocktails such as a Bloody Mary or Michelada.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u30c8\u30de\u30c8\u30b8\u30e5\u30fc\u30b9\u3068\u306f\u3001\u30c8\u30de\u30c8\u3092\u3064\u3076\u3057\u3066\u7d5e\u3063\u305f\u30b8\u30e5\u30fc\u30b9\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u756a\u8304\u6c41\u662f\u4ee5\u756a\u8304\u88fd\u6210\u7684\u679c\u6c41\uff0c\u4e00\u822c\u4f5c\u4e3a\u996e\u6599\u670d\u7528\uff0c\u4e5f\u53ef\u4f5c\u4e3a\u8840\u739b\u4e3d\u3001Michelada\u7b49\u9e21\u5c3e\u9152\u7684\u914d\u6599\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0639\u0635\u064a\u0631 \u0627\u0644\u0637\u0645\u0627\u0637\u0645 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Tomato juice) \u0647\u0648 \u0627\u0644\u0639\u0635\u064a\u0631 \u0627\u0644\u0645\u0635\u0646\u0648\u0639 \u0645\u0646 \u0627\u0644\u0637\u0645\u0627\u0637\u0645. \u0648\u0639\u0627\u062f\u0629 \u0645\u0627 \u064a\u0633\u062a\u062e\u062f\u0645 \u0639\u0644\u0649 \u0623\u0646\u0647 \u0645\u0646 \u0627\u0644\u0645\u0634\u0631\u0648\u0628\u0627\u062a\u060c \u0625\u0645\u0627 \u0639\u0627\u062f\u064a \u0623\u0648 \u0639\u0644\u0649 \u0634\u0643\u0644 \u0643\u0648\u0643\u062a\u064a\u0644\u0627\u062a.",
+                "lang": "ar"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomato_Juice.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744822849,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 845836,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/opt1v": [
+            {
+                "type": "literal",
+                "value": "94.24",
+                "datatype": "http://dbpedia.org/datatype/gram"
+            }
+        ],
+        "http://dbpedia.org/property/kj": [
+            {
+                "type": "literal",
+                "value": 73,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/sugars": [
+            {
+                "type": "literal",
+                "value": "2.58",
+                "datatype": "http://dbpedia.org/datatype/gram"
+            }
+        ],
+        "http://dbpedia.org/property/carbs": [
+            {
+                "type": "literal",
+                "value": "3.53",
+                "datatype": "http://dbpedia.org/datatype/gram"
+            }
+        ],
+        "http://dbpedia.org/property/fiber": [
+            {
+                "type": "literal",
+                "value": "0.4",
+                "datatype": "http://dbpedia.org/datatype/gram"
+            }
+        ],
+        "http://dbpedia.org/property/fat": [
+            {
+                "type": "literal",
+                "value": "0.29",
+                "datatype": "http://dbpedia.org/datatype/gram"
+            }
+        ],
+        "http://dbpedia.org/property/vitcMg": [
+            {
+                "type": "literal",
+                "value": 70.1,
+                "datatype": "http://www.w3.org/2001/XMLSchema#double"
+            }
+        ],
+        "http://dbpedia.org/property/protein": [
+            {
+                "type": "literal",
+                "value": "0.85",
+                "datatype": "http://dbpedia.org/datatype/gram"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Juice"
+            }
+        ],
+        "http://dbpedia.org/property/right": [
+            {
+                "type": "literal",
+                "value": 1,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Tomato_juice": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Tomato_juice"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ohio": {
+        "http://dbpedia.org/property/beverage": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Tomato_juice"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rinflaj\u0161": {
+        "http://dbpedia.org/ontology/ingredient": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Tomato_juice"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tomato_Juice": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Tomato_juice"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Where is the work location of Theresa May whose twin town is Shanghai?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Theresa_May",
+            "@support": "1634",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Theresa May",
+            "@offset": "30",
+            "@similarityScore": "0.9999999999999005",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "twin town",
+            "@offset": "48",
+            "@similarityScore": "0.999781488466783",
+            "@percentageOfSecondRank": "2.185592900789118E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Shanghai",
+            "@support": "26899",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Shanghai",
+            "@offset": "61",
+            "@similarityScore": "0.9998109991195185",
+            "@percentageOfSecondRank": "1.4181307398166367E-4"
+        }
+    ]
+}

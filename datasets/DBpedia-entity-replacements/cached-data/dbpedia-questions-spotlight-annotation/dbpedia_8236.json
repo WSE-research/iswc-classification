@@ -1,0 +1,37 @@
+{
+    "@text": "Did the UK and Prussia participate in the Battle of Waterloo?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/United_Kingdom",
+            "@support": "196237",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "UK",
+            "@offset": "8",
+            "@similarityScore": "0.9900232396815956",
+            "@percentageOfSecondRank": "0.00769752138948253"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Prussia",
+            "@support": "12843",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Prussia",
+            "@offset": "15",
+            "@similarityScore": "0.8888559500347784",
+            "@percentageOfSecondRank": "0.12433312783756433"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Battle_of_Waterloo",
+            "@support": "2984",
+            "@types": "Wikidata:Q1656682,DUL:Event,Schema:Event,DBpedia:SocietalEvent,DBpedia:MilitaryConflict,DBpedia:Event",
+            "@surfaceForm": "Waterloo",
+            "@offset": "52",
+            "@similarityScore": "0.9926186010354402",
+            "@percentageOfSecondRank": "0.006960371906482268"
+        }
+    ]
+}

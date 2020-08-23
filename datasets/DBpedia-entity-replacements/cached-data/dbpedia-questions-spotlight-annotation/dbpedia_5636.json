@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the automobile marque for the business division of Ford Motor Company?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Car",
+            "@support": "11713",
+            "@types": "",
+            "@surfaceForm": "automobile",
+            "@offset": "13",
+            "@similarityScore": "0.9989354467890593",
+            "@percentageOfSecondRank": "9.369698601759565E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ford_Motor_Company",
+            "@support": "23230",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Ford Motor Company",
+            "@offset": "60",
+            "@similarityScore": "0.999758808898773",
+            "@percentageOfSecondRank": "1.5780241737294598E-4"
+        }
+    ]
+}

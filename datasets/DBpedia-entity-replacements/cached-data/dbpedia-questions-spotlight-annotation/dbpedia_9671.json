@@ -1,0 +1,37 @@
+{
+    "@text": "What is the {death location} of {John Hancock}, which has the {sister city} of {Johannesburg}?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/John_Hancock",
+            "@support": "673",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q132050,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Politician,DBpedia:Person,DBpedia:Governor,DBpedia:Agent",
+            "@surfaceForm": "John Hancock",
+            "@offset": "33",
+            "@similarityScore": "0.9977010489718215",
+            "@percentageOfSecondRank": "0.001950067802041386"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "sister city",
+            "@offset": "63",
+            "@similarityScore": "0.9999938849522562",
+            "@percentageOfSecondRank": "4.885546613374819E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Johannesburg",
+            "@support": "11915",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Johannesburg",
+            "@offset": "80",
+            "@similarityScore": "0.9997134852482028",
+            "@percentageOfSecondRank": "1.3484440162653678E-4"
+        }
+    ]
+}

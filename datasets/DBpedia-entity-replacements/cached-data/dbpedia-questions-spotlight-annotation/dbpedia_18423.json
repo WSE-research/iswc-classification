@@ -1,0 +1,28 @@
+{
+    "@text": "CN Atletic-Barceloneta has a stadium in Barcelona?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Canadian_National_Railway",
+            "@support": "3862",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:PublicTransitSystem,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "CN",
+            "@offset": "0",
+            "@similarityScore": "0.8321837565829594",
+            "@percentageOfSecondRank": "0.06610661092024223"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Barcelona",
+            "@support": "30579",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Barcelona",
+            "@offset": "40",
+            "@similarityScore": "0.7077085327633286",
+            "@percentageOfSecondRank": "0.31249263845897796"
+        }
+    ]
+}

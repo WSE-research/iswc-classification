@@ -1,0 +1,37 @@
+{
+    "@text": "When did Ilse Koch become a member of the political party NSDAP?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ilse_Koch",
+            "@support": "71",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Ilse Koch",
+            "@offset": "9",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Political_party",
+            "@support": "12621",
+            "@types": "",
+            "@surfaceForm": "political party",
+            "@offset": "42",
+            "@similarityScore": "0.9994193453763343",
+            "@percentageOfSecondRank": "3.479260445731979E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Nazi_Party",
+            "@support": "8354",
+            "@types": "Wikidata:Q7278,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:PoliticalParty,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "NSDAP",
+            "@offset": "58",
+            "@similarityScore": "0.9999999998608331",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

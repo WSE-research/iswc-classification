@@ -1,0 +1,518 @@
+{
+    "http://en.wikipedia.org/wiki/Electronegativity": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/EN": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electronegativity": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Building"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Elektronegativit\u00e4t",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Electronegativity",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u96fb\u6c17\u9670\u6027\u5ea6",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Elektroujemno\u015b\u0107",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Elektronegativiteit",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Eletronegatividade",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u7535\u8d1f\u6027",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Elettronegativit\u00e0",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Electronegatividad",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u00c9lectron\u00e9gativit\u00e9",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u0643\u0647\u0631\u0633\u0644\u0628\u064a\u0629",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u042d\u043b\u0435\u0301\u043a\u0442\u0440\u043e\u043e\u0442\u0440\u0438\u0446\u0430\u0301\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c (\u03c7) (\u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c) \u2014 \u0444\u0443\u043d\u0434\u0430\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e\u0435 \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u043e \u0430\u0442\u043e\u043c\u0430, \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0430\u0442\u043e\u043c\u0430 \u0432 \u043c\u043e\u043b\u0435\u043a\u0443\u043b\u0435 \u0441\u043c\u0435\u0449\u0430\u0442\u044c \u043a \u0441\u0435\u0431\u0435 \u043e\u0431\u0449\u0438\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043f\u0430\u0440\u044b, \u0442\u043e \u0435\u0441\u0442\u044c \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0430\u0442\u043e\u043c\u043e\u0432 \u043e\u0442\u0442\u044f\u0433\u0438\u0432\u0430\u0442\u044c \u043a \u0441\u0435\u0431\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u044b \u0434\u0440\u0443\u0433\u0438\u0445 \u0430\u0442\u043e\u043c\u043e\u0432. \u0421\u0430\u043c\u0430\u044f \u0432\u044b\u0441\u043e\u043a\u0430\u044f \u0441\u0442\u0435\u043f\u0435\u043d\u044c \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0443 \u0433\u0430\u043b\u043e\u0433\u0435\u043d\u043e\u0432 \u0438 \u0441\u0438\u043b\u044c\u043d\u044b\u0445 \u043e\u043a\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u0435\u0439 (p-\u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432, F, O, N, Cl), \u0430 \u043d\u0438\u0437\u043a\u0430\u044f \u2014 \u0443 \u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0445 \u043c\u0435\u0442\u0430\u043b\u043b\u043e\u0432 (s-\u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 I \u0433\u0440\u0443\u043f\u043f\u044b).",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Em qu\u00edmica, eletronegatividade \u00e9 uma medida relativa da for\u00e7a de atra\u00e7\u00e3o que um \u00e1tomo exerce (ou, embora com menos frequ\u00eancia, um grupo funcional) sobre os el\u00e9trons aquando da forma\u00e7\u00e3o de uma liga\u00e7\u00e3o qu\u00edmica com outro elemento. Ao considerarem-se as liga\u00e7\u00f5es qu\u00edmicas entre dois ou mais elementos as liga\u00e7\u00f5es i\u00f4nicas e covalentes figuram como dois casos lim\u00edtrofes, das quais apenas a segunda pode ocorrer em s\u00f3lidos compostos por \u00e1tomos de um \u00fanico elemento (a liga\u00e7\u00e3o met\u00e1lica em s\u00f3lidos elementares figura ent\u00e3o como um caso especial de liga\u00e7\u00e3o covalente). Na maioria dos casos a liga\u00e7\u00e3o apresenta uma natureza intermedi\u00e1ria representando uma mistura dos dois casos lim\u00edtrofes.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "La electronegatividad es una medida de la capacidad de un \u00e1tomo (o de manera menos frecuente de un grupo funcional) para atraer a los electrones, cuando forma un enlace qu\u00edmico en una mol\u00e9cula. Tambi\u00e9n debemos considerar la distribuci\u00f3n de densidad electr\u00f3nica alrededor de un \u00e1tomo determinado frente a otros distintos, tanto en una especie molecular como en sistemas o especies no moleculares. El fl\u00faor es el elemento con m\u00e1s electronegatividad, el Francio es el elemento con menos electronegatividad.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Elektroujemno\u015b\u0107 \u2013 miara tendencji do przyci\u0105gania elektron\u00f3w przez atomy danego pierwiastka, gdy tworzy on zwi\u0105zek chemiczny z atomami innego pierwiastka. Bardziej elektroujemny pierwiastek \"\u015bci\u0105ga\" do siebie elektrony tworz\u0105ce wi\u0105zanie z atomem mniej elektroujemnym, co prowadzi do polaryzacji wi\u0105zania. W skrajnym przypadku, gdy elektroujemno\u015bci obu pierwiastk\u00f3w bardzo si\u0119 r\u00f3\u017cni\u0105 (np. s\u00f3d i chlor), dochodzi do pe\u0142nego przeskoku elektron\u00f3w na bardziej elektroujemny atom, co prowadzi do powstania wi\u0105zania jonowego.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u7535\u8d1f\u6027\uff08\u82f1\u8bed\uff1aelectron negativity\uff0c\u7c21\u5bebEN\uff09\uff0c\u4e5f\u8b6f\u4f5c\u96e2\u5b50\u6027\u3001\u8ca0\u96fb\u6027\u53ca\u9670\u96fb\u6027\uff0c\u662f\u7efc\u5408\u8003\u8651\u4e86\u7535\u79bb\u80fd\u548c\u7535\u5b50\u4eb2\u5408\u80fd\uff0c\u9996\u5148\u7531\u83b1\u7eb3\u65af\u00b7\u9c8d\u6797\u4e8e1932\u5e74\u63d0\u51fa\u3002\u5b83\u4ee5\u4e00\u7ec4\u6570\u503c\u7684\u76f8\u5bf9\u5927\u5c0f\u8868\u793a\u5143\u7d20\u539f\u5b50\u5728\u5206\u5b50\u4e2d\u5bf9\u6210\u952e\u7535\u5b50\u7684\u5438\u5f15\u80fd\u529b\uff0c\u79f0\u4e3a\u76f8\u5bf9\u7535\u8d1f\u6027\uff0c\u7b80\u79f0\u7535\u8d1f\u6027\u3002\u5143\u7d20\u7535\u8d1f\u6027\u6570\u503c\u8d8a\u5927\uff0c\u539f\u5b50\u5728\u5f62\u6210\u5316\u5b66\u952e\u65f6\u5bf9\u6210\u952e\u7535\u5b50\u7684\u5438\u5f15\u529b\u8d8a\u5f3a\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "De elektronegativiteit (EN) of elektronegatieve waarde (ENW) is een maat voor de neiging van een atoom dat een chemische binding aangaat met een buuratoom om de gezamenlijke elektronenwolk naar zich toe te trekken. De elektronegativiteit neemt diagonaal toe in het periodiek systeem. Francium en cesium (linksonder) hebben de laagste waarde, fluor (rechtsboven) de hoogste. Wanneer waterstofgas (H2) en fluorgas (F2) met elkaar reageren ontstaan twee moleculen waterstoffluoride (HF):",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u96fb\u6c17\u9670\u6027\u5ea6\uff08\u3067\u3093\u304d\u3044\u3093\u305b\u3044\u3069\u3001\u82f1: electronegativity\uff09\u306f\u3001\u5206\u5b50\u5185\u306e\u539f\u5b50\u304c\u96fb\u5b50\u3092\u5f15\u304d\u5bc4\u305b\u308b\u5f37\u3055\u306e\u76f8\u5bfe\u7684\u306a\u5c3a\u5ea6\u3067\u3042\u308a\u3001\u30ae\u30ea\u30b7\u30e3\u6587\u5b57\u306e\u03c7\u3067\u8868\u3055\u308c\u308b\u3002 \u7570\u7a2e\u306e\u539f\u5b50\u540c\u58eb\u304c\u5316\u5b66\u7d50\u5408\u3057\u3066\u3044\u308b\u3068\u3059\u308b\u3002\u3053\u306e\u3068\u304d\u3001\u5404\u539f\u5b50\u306b\u304a\u3051\u308b\u96fb\u5b50\u306e\u96fb\u8377\u5206\u5e03\u306f\u3001\u5f53\u8a72\u539f\u5b50\u304c\u5b64\u7acb\u3057\u3066\u3044\u305f\u5834\u5408\u3068\u7570\u306a\u308b\u5206\u5e03\u3092\u3068\u308b\u3002\u3053\u308c\u306f\u7d50\u5408\u306e\u76f8\u624b\u306e\u539f\u5b50\u304b\u3089\u306e\u5f71\u97ff\u306b\u3088\u308b\u3082\u306e\u3067\u3042\u308a\u3001\u539f\u5b50\u306e\u7a2e\u985e\u306b\u3088\u308a\u96fb\u5b50\u3092\u5f15\u304d\u3064\u3051\u308b\u5f37\u3055\u306b\u9055\u3044\u304c\u5b58\u5728\u3059\u308b\u305f\u3081\u3067\u3042\u308b\u3002 \u3053\u306e\u96fb\u5b50\u3092\u5f15\u304d\u3064\u3051\u308b\u5f37\u3055\u306f\u3001\u539f\u5b50\u306e\u7a2e\u985e\u3054\u3068\u306e\u76f8\u5bfe\u7684\u306a\u3082\u306e\u3068\u3057\u3066\u3001\u305d\u306e\u5c3a\u5ea6\u3092\u6c7a\u3081\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u3053\u306e\u5c3a\u5ea6\u306e\u3053\u3068\u3092\u96fb\u6c17\u9670\u6027\u5ea6\u3068\u8a00\u3046\u3002\u4e00\u822c\u306b\u5468\u671f\u8868\u306e\u5de6\u4e0b\u306b\u4f4d\u7f6e\u3059\u308b\u5143\u7d20\u307b\u3069\u5c0f\u3055\u304f\u3001\u53f3\u4e0a\u307b\u3069\u5927\u304d\u304f\u306a\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Electronegativity, symbol \u03c7, is a chemical property that describes the tendency of an atom or a functional group to attract electrons (or electron density) towards itself. An atom's electronegativity is affected by both its atomic number and the distance at which its valence electrons reside from the charged nucleus. The higher the associated electronegativity number, the more an element or compound attracts electrons towards it. The opposite of electronegativity is electropositivity: a measure of an element's ability to donate electrons.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Elektronegativit\u00e4t (Abk\u00fcrzung EN; Formelzeichen (griechisch Chi)) ist ein relatives Ma\u00df f\u00fcr die F\u00e4higkeit eines Atoms, in einer chemischen Bindung Elektronenpaare an sich zu ziehen. Sie wird unter anderem von der Kernladung und dem Atomradius bestimmt. Die Elektronegativit\u00e4t kann daher als Anhaltspunkt f\u00fcr die Polarit\u00e4t und den Ionenbindungscharakter einer Bindung genommen werden: Je h\u00f6her der Unterschied in der Elektronegativit\u00e4t der gebundenen Elemente, desto polarer ist die Bindung.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "En chimie, l'\u00e9lectron\u00e9gativit\u00e9 d'un \u00e9l\u00e9ment est une grandeur qui caract\u00e9rise sa capacit\u00e9 \u00e0 attirer les \u00e9lectrons lors de la formation d'une liaison chimique avec un autre \u00e9l\u00e9ment. La diff\u00e9rence d'\u00e9lectron\u00e9gativit\u00e9 entre ces deux \u00e9l\u00e9ments d\u00e9termine la nature de la liaison covalente : Liaison apolaire lorsque la diff\u00e9rence est nulle, liaison polaire quand la diff\u00e9rence n'est pas nulle, et ionique quand la diff\u00e9rence est tellement forte qu'un des \u00e9l\u00e9ments a attir\u00e9 compl\u00e8tement les \u00e9lectrons: les atomes sont devenus des ions et portent des charges \u00e9lectriques enti\u00e8res. La notion d'\u00e9lectron\u00e9gativit\u00e9, qui d\u00e9crit le comportement des \u00e9lectrons dans une liaison chimique, ne doit pas \u00eatre confondue avec celle d'affinit\u00e9 \u00e9lectronique.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0643\u0647\u0631\u0633\u0644\u0628\u064a\u0629 \u0623\u0648 \u0627\u0644\u0633\u0627\u0644\u0628\u064a\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0647\u064a \u0645\u0642\u064a\u0627\u0633 \u0644\u0645\u0642\u062f\u0631\u0629 \u0627\u0644\u0630\u0631\u0629 \u0641\u064a \u0627\u0644\u062c\u0632\u064a\u0621 \u0627\u0644\u062a\u0633\u0627\u0647\u0645\u064a \u0639\u0644\u0649 \u062c\u0630\u0628 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u0627\u062a \u0641\u064a \u0627\u0644\u0631\u0648\u0627\u0628\u0637 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629. \u0648\u062a\u0639\u062a\u0645\u062f \u0646\u0648\u0639\u064a\u0629 \u0627\u0644\u0631\u0627\u0628\u0637\u0629 \u0627\u0644\u0645\u062a\u0643\u0648\u0646\u0629 \u0627\u0639\u062a\u0645\u0627\u062f\u0627 \u0643\u0628\u064a\u0631\u0627 \u0639\u0644\u0649 \u0627\u0644\u0641\u0631\u0642 \u0641\u064a \u0627\u0644\u0633\u0627\u0644\u0628\u064a\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u064a\u0629 \u0628\u064a\u0646 \u0627\u0644\u0630\u0631\u0627\u062a \u0627\u0644\u062f\u0627\u062e\u0644\u0629 \u0641\u064a\u0647\u0627. \u0648\u062a\u0642\u0648\u0645 \u0627\u0644\u0630\u0631\u0627\u062a \u0627\u0644\u0645\u062a\u0634\u0627\u0628\u0647\u0629 \u0641\u064a \u0627\u0644\u0633\u0627\u0644\u0628\u064a\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u064a\u0629 \" \u0628\u0633\u0631\u0642\u0629 \" \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u0627\u062a \u0645\u0646 \u0628\u0639\u0636\u0647\u0627 \u0627\u0644\u0628\u0639\u0636 \u0648\u0627\u0644\u0630\u064a \u064a\u0631\u062c\u0639 \u0644\u0645\u0627 \u064a\u0633\u0645\u0649 \" \u0645\u0634\u0627\u0631\u0643\u0629 \" \u0648\u062a\u0643\u0648\u0646 \u0631\u0627\u0628\u0637\u0629 \u062a\u0633\u0627\u0647\u0645\u064a\u0629. \u0648\u0644\u0643\u0646 \u0644\u0648 \u0643\u0627\u0646 \u0647\u0630\u0627 \u0627\u0644\u0641\u0631\u0642 \u0643\u0628\u064a\u0631 \u0633\u064a\u0646\u062a\u0642\u0644 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646 \u0625\u0644\u0649 \u0623\u062d\u062f \u0627\u0644\u0630\u0631\u0627\u062a \u0648\u062a\u062a\u0643\u0648\u0646 \u0631\u0627\u0628\u0637\u0629 \u0623\u064a\u0648\u0646\u064a\u0629. \u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643 \u0641\u064a \u062d\u0627\u0644\u0629 \u0623\u0646 \u0623\u062d\u062f \u0627\u0644\u0630\u0631\u0627\u062a \u062a\u0642\u0648\u0645 \u0628\u0633\u062d\u0628 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u0627\u062a \u0628\u0642\u0648\u0629 \u0623\u0643\u0628\u0631 \u0642\u0644\u064a\u0644\u0627 \u0645\u0646 \u0627\u0644\u0623\u062e\u0631\u0649 \u0641\u0625\u0646\u0647 \u062a\u062a\u0643\u0648\u0646 \u0631\u0627\u0628\u0637\u0629 \u062a\u0633\u0627\u0647\u0645\u064a\u0629 \u0642\u0637\u0628\u064a\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "L'elettronegativit\u00e0 \u00e8 una misura relativa della capacit\u00e0 di un atomo di attrarre elettroni quando prende parte a un legame chimico. Il concetto di elettronegativit\u00e0 fu introdotto nel 1932 dal Premio Nobel per la Chimica Linus Carl Pauling, che propose la scala di elettronegativit\u00e0 che ne porta il nome. Sono state proposte varie scale di elettronegativit\u00e0, le pi\u00f9 utilizzate sono quella di Pauling e quella di Mulliken.",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc804\uae30_\uc74c\uc131\ub3c4"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Elettronegativit\u00e0"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Elektronegativiteit"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Elektronegativita"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Eletronegatividade"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q78974"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Electronegatividad"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q78974"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Elektronegativit\u00e4t"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u96fb\u6c17\u9670\u6027\u5ea6"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Elektronegativitas"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.02n4f"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Elektronegatibotasun"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Elektroujemno\u015b\u0107"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/\u00c9lectron\u00e9gativit\u00e9"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Chemical_properties"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Dimensionless_numbers_of_chemistry"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Chemical_bonding"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Electrostatic_Potential.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Electronegativity"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Electronegativity?oldid=742791372"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://sciencehack.com/videos/view/6952235798166539784"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.webelements.com/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Elektronegativit\u00e4t (Abk\u00fcrzung EN; Formelzeichen (griechisch Chi)) ist ein relatives Ma\u00df f\u00fcr die F\u00e4higkeit eines Atoms, in einer chemischen Bindung Elektronenpaare an sich zu ziehen. Sie wird unter anderem von der Kernladung und dem Atomradius bestimmt. Die Elektronegativit\u00e4t kann daher als Anhaltspunkt f\u00fcr die Polarit\u00e4t und den Ionenbindungscharakter einer Bindung genommen werden: Je h\u00f6her der Unterschied in der Elektronegativit\u00e4t der gebundenen Elemente, desto polarer ist die Bindung. Atome mit hoher Elektronegativit\u00e4t bezeichnet man auch als elektronegativ, solche mit geringer Elektronegativit\u00e4t als elektropositiv. Die Elektronegativit\u00e4t ist umso gr\u00f6\u00dfer, je weniger Elektronen auf der Au\u00dfenschale fehlen, weil diese \u201eL\u00fccken\u201c leicht aufgef\u00fcllt werden k\u00f6nnen. Sie nimmt daher in der Regel innerhalb einer Elementperiode von links nach rechts zu, da die Kernladungszahl w\u00e4chst. Innerhalb einer Elementgruppe nimmt sie von oben nach unten ab, haupts\u00e4chlich weil der Abstand zum Kern immer gr\u00f6\u00dfer wird. Die Anziehungskraft des Kerns auf die Elektronen wird dadurch kleiner. Nichtmetalle sind st\u00e4rker elektronegativ und nehmen daher bevorzugt Elektronen auf. Metalle sind schwach elektronegativ und geben Elektronen ab. Edelgase besitzen keine Elektronegativit\u00e4t, weil sie sich bereits in einem sehr stabilen Zustand befinden.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "La electronegatividad es una medida de la capacidad de un \u00e1tomo (o de manera menos frecuente de un grupo funcional) para atraer a los electrones, cuando forma un enlace qu\u00edmico en una mol\u00e9cula. Tambi\u00e9n debemos considerar la distribuci\u00f3n de densidad electr\u00f3nica alrededor de un \u00e1tomo determinado frente a otros distintos, tanto en una especie molecular como en sistemas o especies no moleculares. El fl\u00faor es el elemento con m\u00e1s electronegatividad, el Francio es el elemento con menos electronegatividad. La electronegatividad de un \u00e1tomo determinado est\u00e1 afectada fundamentalmente por dos magnitudes: su masa at\u00f3mica y la distancia promedio de los electrones de valencia con respecto al n\u00facleo at\u00f3mico. Esta propiedad se ha podido correlacionar con otras propiedades at\u00f3micas y moleculares. Fue Linus Pauling el investigador que propuso esta magnitud por primera vez en el a\u00f1o 1932, como un desarrollo m\u00e1s de su teor\u00eda del enlace de valencia.La electronegatividad no se puede medir experimentalmente de manera directa como, por ejemplo, la energ\u00eda de ionizaci\u00f3n, pero se puede determinar de manera indirecta efectuando c\u00e1lculos a partir de otras propiedades at\u00f3micas o moleculares. Se han propuesto distintos m\u00e9todos para su determinaci\u00f3n y aunque hay peque\u00f1as diferencias entre los resultados obtenidos todos los m\u00e9todos muestran la misma tendencia peri\u00f3dica entre los elementos. El procedimiento de c\u00e1lculo m\u00e1s com\u00fan es el inicialmente propuesto por Pauling. El resultado obtenido mediante este procedimiento es un n\u00famero adimensional que se incluye dentro de la escala de Pauling. Esta escala var\u00eda entre 0,7 para el elemento menos electronegativo y 4,0 para el mayor. Es interesante se\u00f1alar que la electronegatividad no es estrictamente una propiedad at\u00f3mica, pues se refiere a un \u00e1tomo dentro de una mol\u00e9cula y, por tanto, puede variar ligeramente cuando var\u00eda el \"entorno\" de un mismo \u00e1tomo en distintos enlaces de distintas mol\u00e9culas. La propiedad equivalente de la electronegatividad para un \u00e1tomo aislado ser\u00eda la afinidad electr\u00f3nica o electroafinidad. Dos \u00e1tomos con electronegatividades muy diferentes forman un enlace i\u00f3nico. Pares de \u00e1tomos con diferencias peque\u00f1as de electronegatividad forman enlaces covalentes polares con la carga negativa en el \u00e1tomo de mayor electronegatividad.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u7535\u8d1f\u6027\uff08\u82f1\u8bed\uff1aelectron negativity\uff0c\u7c21\u5bebEN\uff09\uff0c\u4e5f\u8b6f\u4f5c\u96e2\u5b50\u6027\u3001\u8ca0\u96fb\u6027\u53ca\u9670\u96fb\u6027\uff0c\u662f\u7efc\u5408\u8003\u8651\u4e86\u7535\u79bb\u80fd\u548c\u7535\u5b50\u4eb2\u5408\u80fd\uff0c\u9996\u5148\u7531\u83b1\u7eb3\u65af\u00b7\u9c8d\u6797\u4e8e1932\u5e74\u63d0\u51fa\u3002\u5b83\u4ee5\u4e00\u7ec4\u6570\u503c\u7684\u76f8\u5bf9\u5927\u5c0f\u8868\u793a\u5143\u7d20\u539f\u5b50\u5728\u5206\u5b50\u4e2d\u5bf9\u6210\u952e\u7535\u5b50\u7684\u5438\u5f15\u80fd\u529b\uff0c\u79f0\u4e3a\u76f8\u5bf9\u7535\u8d1f\u6027\uff0c\u7b80\u79f0\u7535\u8d1f\u6027\u3002\u5143\u7d20\u7535\u8d1f\u6027\u6570\u503c\u8d8a\u5927\uff0c\u539f\u5b50\u5728\u5f62\u6210\u5316\u5b66\u952e\u65f6\u5bf9\u6210\u952e\u7535\u5b50\u7684\u5438\u5f15\u529b\u8d8a\u5f3a\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Elektroujemno\u015b\u0107 \u2013 miara tendencji do przyci\u0105gania elektron\u00f3w przez atomy danego pierwiastka, gdy tworzy on zwi\u0105zek chemiczny z atomami innego pierwiastka. Bardziej elektroujemny pierwiastek \"\u015bci\u0105ga\" do siebie elektrony tworz\u0105ce wi\u0105zanie z atomem mniej elektroujemnym, co prowadzi do polaryzacji wi\u0105zania. W skrajnym przypadku, gdy elektroujemno\u015bci obu pierwiastk\u00f3w bardzo si\u0119 r\u00f3\u017cni\u0105 (np. s\u00f3d i chlor), dochodzi do pe\u0142nego przeskoku elektron\u00f3w na bardziej elektroujemny atom, co prowadzi do powstania wi\u0105zania jonowego. Elektroujemno\u015b\u0107 pierwiastk\u00f3w jest cz\u0119sto zale\u017cna od uk\u0142adu atom\u00f3w w danym zwi\u0105zku, ich stopnia utlenienia, przyj\u0119tej w danym momencie hybrydyzacji i do\u015b\u0107 cz\u0119sto zdarza si\u0119, \u017ce wi\u0105zania polaryzuj\u0105 si\u0119 odwrotnie ni\u017cby to wynika\u0142o z formalnej elektroujemno\u015bci zwi\u0105zanych pierwiastk\u00f3w. Mimo to zaproponowano wiele sposob\u00f3w, aby ilo\u015bciowo zdefiniowa\u0107 og\u00f3ln\u0105 elektroujemno\u015b\u0107 pierwiastk\u00f3w.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Em qu\u00edmica, eletronegatividade \u00e9 uma medida relativa da for\u00e7a de atra\u00e7\u00e3o que um \u00e1tomo exerce (ou, embora com menos frequ\u00eancia, um grupo funcional) sobre os el\u00e9trons aquando da forma\u00e7\u00e3o de uma liga\u00e7\u00e3o qu\u00edmica com outro elemento. Ao considerarem-se as liga\u00e7\u00f5es qu\u00edmicas entre dois ou mais elementos as liga\u00e7\u00f5es i\u00f4nicas e covalentes figuram como dois casos lim\u00edtrofes, das quais apenas a segunda pode ocorrer em s\u00f3lidos compostos por \u00e1tomos de um \u00fanico elemento (a liga\u00e7\u00e3o met\u00e1lica em s\u00f3lidos elementares figura ent\u00e3o como um caso especial de liga\u00e7\u00e3o covalente). Na maioria dos casos a liga\u00e7\u00e3o apresenta uma natureza intermedi\u00e1ria representando uma mistura dos dois casos lim\u00edtrofes. Uma medida qualitativa da ionicidade de uma liga\u00e7\u00e3o qu\u00edmica \u00e9 fornecida por meio de uma escala de eletronegatividade, tamb\u00e9m denominada de car\u00e1ter amet\u00e1lico, \u00e9 uma propriedade peri\u00f3dica que mede a tend\u00eancia de um \u00e1tomo, de uma liga\u00e7\u00e3o qu\u00edmica, em ganhar el\u00e9trons. Esta escala foi inicialmente proposta por Linus Pauling como resultado de seus estudos sobre energias de liga\u00e7\u00e3o. Posteriormente Mullikan definiu numericamente a eletronegatividade E em termos da energia de ioniza\u00e7\u00e3o I e da afinidade eletr\u00f4nica A mediante a equa\u00e7\u00e3o: Com as parcelas expressas em el\u00e9tron-volts (eV) obtemos a tabela para as eletronegatividades dos elementos exibida ao fim deste artigo, com valores tamb\u00e9m expressas em el\u00e9tron-volts. Em uma liga\u00e7\u00e3o entre dois \u00e1tomos, o \u00e1tomo com maior eletronegatividade ser\u00e1 o \u00e2nion. A diferen\u00e7a entre as eletronegatividades dos dois \u00e1tomos \u00e9 uma medida da ionicidade da liga\u00e7\u00e3o, e se este valor superar a 1,7eV a liga\u00e7\u00e3o ser\u00e1 puramente i\u00f4nica e n\u00e3o apresentar\u00e1 car\u00e1ter covalente.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u96fb\u6c17\u9670\u6027\u5ea6\uff08\u3067\u3093\u304d\u3044\u3093\u305b\u3044\u3069\u3001\u82f1: electronegativity\uff09\u306f\u3001\u5206\u5b50\u5185\u306e\u539f\u5b50\u304c\u96fb\u5b50\u3092\u5f15\u304d\u5bc4\u305b\u308b\u5f37\u3055\u306e\u76f8\u5bfe\u7684\u306a\u5c3a\u5ea6\u3067\u3042\u308a\u3001\u30ae\u30ea\u30b7\u30e3\u6587\u5b57\u306e\u03c7\u3067\u8868\u3055\u308c\u308b\u3002 \u7570\u7a2e\u306e\u539f\u5b50\u540c\u58eb\u304c\u5316\u5b66\u7d50\u5408\u3057\u3066\u3044\u308b\u3068\u3059\u308b\u3002\u3053\u306e\u3068\u304d\u3001\u5404\u539f\u5b50\u306b\u304a\u3051\u308b\u96fb\u5b50\u306e\u96fb\u8377\u5206\u5e03\u306f\u3001\u5f53\u8a72\u539f\u5b50\u304c\u5b64\u7acb\u3057\u3066\u3044\u305f\u5834\u5408\u3068\u7570\u306a\u308b\u5206\u5e03\u3092\u3068\u308b\u3002\u3053\u308c\u306f\u7d50\u5408\u306e\u76f8\u624b\u306e\u539f\u5b50\u304b\u3089\u306e\u5f71\u97ff\u306b\u3088\u308b\u3082\u306e\u3067\u3042\u308a\u3001\u539f\u5b50\u306e\u7a2e\u985e\u306b\u3088\u308a\u96fb\u5b50\u3092\u5f15\u304d\u3064\u3051\u308b\u5f37\u3055\u306b\u9055\u3044\u304c\u5b58\u5728\u3059\u308b\u305f\u3081\u3067\u3042\u308b\u3002 \u3053\u306e\u96fb\u5b50\u3092\u5f15\u304d\u3064\u3051\u308b\u5f37\u3055\u306f\u3001\u539f\u5b50\u306e\u7a2e\u985e\u3054\u3068\u306e\u76f8\u5bfe\u7684\u306a\u3082\u306e\u3068\u3057\u3066\u3001\u305d\u306e\u5c3a\u5ea6\u3092\u6c7a\u3081\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u3053\u306e\u5c3a\u5ea6\u306e\u3053\u3068\u3092\u96fb\u6c17\u9670\u6027\u5ea6\u3068\u8a00\u3046\u3002\u4e00\u822c\u306b\u5468\u671f\u8868\u306e\u5de6\u4e0b\u306b\u4f4d\u7f6e\u3059\u308b\u5143\u7d20\u307b\u3069\u5c0f\u3055\u304f\u3001\u53f3\u4e0a\u307b\u3069\u5927\u304d\u304f\u306a\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "L'elettronegativit\u00e0 \u00e8 una misura relativa della capacit\u00e0 di un atomo di attrarre elettroni quando prende parte a un legame chimico. Il concetto di elettronegativit\u00e0 fu introdotto nel 1932 dal Premio Nobel per la Chimica Linus Carl Pauling, che propose la scala di elettronegativit\u00e0 che ne porta il nome. Sono state proposte varie scale di elettronegativit\u00e0, le pi\u00f9 utilizzate sono quella di Pauling e quella di Mulliken. In un legame covalente la differenza di elettronegativit\u00e0 determina la polarit\u00e0 della molecola. Infatti se l'atomo, o gli atomi, posizionati in una parte della molecola hanno un'elettronegativit\u00e0 maggiore di quelli dalle altre parti, gli elettroni si concentrano nella prima parte, dando polarit\u00e0 alla molecola (cio\u00e8 una differenza di carica elettrica, come nell'acqua).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Electronegativity, symbol \u03c7, is a chemical property that describes the tendency of an atom or a functional group to attract electrons (or electron density) towards itself. An atom's electronegativity is affected by both its atomic number and the distance at which its valence electrons reside from the charged nucleus. The higher the associated electronegativity number, the more an element or compound attracts electrons towards it. The term \"electronegativity\" was introduced by J\u00f6ns Jacob Berzelius in 1811,though the concept was known even before that and was studied by many chemists including Avogadro.In spite of its long history, an accurate scale of electronegativity had to wait till 1932, when Linus Pauling proposed an electronegativity scale, which depends on bond energies, as a development of valence bond theory. It has been shown to correlate with a number of other chemical properties. Electronegativity cannot be directly measured and must be calculated from other atomic or molecular properties. Several methods of calculation have been proposed, and although there may be small differences in the numerical values of the electronegativity, all methods show the same periodic trends between elements. The most commonly used method of calculation is that originally proposed by Linus Pauling. This gives a dimensionless quantity, commonly referred to as the Pauling scale, on a relative scale running from around 0.7 to 3.98 (hydrogen = 2.20). When other methods of calculation are used, it is conventional (although not obligatory) to quote the results on a scale that covers the same range of numerical values: this is known as an electronegativity in Pauling units. As it is usually calculated, electronegativity is not a property of an atom alone, but rather a property of an atom in a molecule. Properties of a free atom include ionization energy and electron affinity. It is to be expected that the electronegativity of an element will vary with its chemical environment, but it is usually considered to be a transferable property, that is to say that similar values will be valid in a variety of situations. On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number/location of other electrons present in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result the less positive charge they will experience\u2014both because of their increased distance from the nucleus, and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus). The opposite of electronegativity is electropositivity: a measure of an element's ability to donate electrons. Caesium is the least electronegative element in the periodic table (=0.79), while fluorine is most electronegative (=3.98). (Francium and caesium were originally both assigned 0.7; caesium's value was later refined to 0.79, but no experimental data allows a similar refinement for francium. However, francium's ionization energy is known to be slightly higher than caesium's, in accordance with the relativistic stabilization of the 7s orbital, and this in turn implies that francium is in fact more electronegative than caesium.)",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "En chimie, l'\u00e9lectron\u00e9gativit\u00e9 d'un \u00e9l\u00e9ment est une grandeur qui caract\u00e9rise sa capacit\u00e9 \u00e0 attirer les \u00e9lectrons lors de la formation d'une liaison chimique avec un autre \u00e9l\u00e9ment. La diff\u00e9rence d'\u00e9lectron\u00e9gativit\u00e9 entre ces deux \u00e9l\u00e9ments d\u00e9termine la nature de la liaison covalente : Liaison apolaire lorsque la diff\u00e9rence est nulle, liaison polaire quand la diff\u00e9rence n'est pas nulle, et ionique quand la diff\u00e9rence est tellement forte qu'un des \u00e9l\u00e9ments a attir\u00e9 compl\u00e8tement les \u00e9lectrons: les atomes sont devenus des ions et portent des charges \u00e9lectriques enti\u00e8res. La notion d'\u00e9lectron\u00e9gativit\u00e9, qui d\u00e9crit le comportement des \u00e9lectrons dans une liaison chimique, ne doit pas \u00eatre confondue avec celle d'affinit\u00e9 \u00e9lectronique. Le concept d\u2019\u00e9lectron\u00e9gativit\u00e9 a \u00e9t\u00e9 introduit pour la premi\u00e8re fois par Berzelius en 1835. Par la suite, Pauling a am\u00e9lior\u00e9 ce concept et a d\u00e9duit que l\u2019\u00e9lectron\u00e9gativit\u00e9 repose plut\u00f4t sur l\u2019existence des liaisons ioniques et covalentes, contrairement \u00e0 ce que Berzelius avait trouv\u00e9 auparavant. L'\u00e9lectron\u00e9gativit\u00e9 est not\u00e9e o\u00f9 est le symbole de l'\u00e9l\u00e9ment consid\u00e9r\u00e9. Plus est grand et plus l'\u00e9l\u00e9ment est susceptible d'attirer des \u00e9lectrons \u00e0 lui dans une liaison chimique.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u042d\u043b\u0435\u0301\u043a\u0442\u0440\u043e\u043e\u0442\u0440\u0438\u0446\u0430\u0301\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c (\u03c7) (\u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c) \u2014 \u0444\u0443\u043d\u0434\u0430\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e\u0435 \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u043e \u0430\u0442\u043e\u043c\u0430, \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0430\u0442\u043e\u043c\u0430 \u0432 \u043c\u043e\u043b\u0435\u043a\u0443\u043b\u0435 \u0441\u043c\u0435\u0449\u0430\u0442\u044c \u043a \u0441\u0435\u0431\u0435 \u043e\u0431\u0449\u0438\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043f\u0430\u0440\u044b, \u0442\u043e \u0435\u0441\u0442\u044c \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0430\u0442\u043e\u043c\u043e\u0432 \u043e\u0442\u0442\u044f\u0433\u0438\u0432\u0430\u0442\u044c \u043a \u0441\u0435\u0431\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u044b \u0434\u0440\u0443\u0433\u0438\u0445 \u0430\u0442\u043e\u043c\u043e\u0432. \u0421\u0430\u043c\u0430\u044f \u0432\u044b\u0441\u043e\u043a\u0430\u044f \u0441\u0442\u0435\u043f\u0435\u043d\u044c \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0443 \u0433\u0430\u043b\u043e\u0433\u0435\u043d\u043e\u0432 \u0438 \u0441\u0438\u043b\u044c\u043d\u044b\u0445 \u043e\u043a\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u0435\u0439 (p-\u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432, F, O, N, Cl), \u0430 \u043d\u0438\u0437\u043a\u0430\u044f \u2014 \u0443 \u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0445 \u043c\u0435\u0442\u0430\u043b\u043b\u043e\u0432 (s-\u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 I \u0433\u0440\u0443\u043f\u043f\u044b).",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "De elektronegativiteit (EN) of elektronegatieve waarde (ENW) is een maat voor de neiging van een atoom dat een chemische binding aangaat met een buuratoom om de gezamenlijke elektronenwolk naar zich toe te trekken. De elektronegativiteit neemt diagonaal toe in het periodiek systeem. Francium en cesium (linksonder) hebben de laagste waarde, fluor (rechtsboven) de hoogste. Wanneer waterstofgas (H2) en fluorgas (F2) met elkaar reageren ontstaan twee moleculen waterstoffluoride (HF): Wanneer twee gelijke atomen een molecuul vormen, bijvoorbeeld een waterstofmolecuul (H-H) of een fluormolecuul (F-F), dan trekken zij met evenveel 'elektronische kracht' aan de elektronenwolk. De elektronenwolk is dan perfect symmetrisch verdeeld binnen het molecuul en dat bezit dus geen permanent dipoolmoment \u03bc: de binding is strikt covalent. De binding tussen verschillende atomen, zoals in het HF-molecuul, is echter polair. De elektronenwolk wordt meer naar het fluoratoom toegetrokken dan naar het waterstofatoom. Dit komt doordat de ionisatiepotentiaal en de elektronenaffiniteit van de beide elementen verschillend zijn. Men zou ook kunnen stellen dat statistisch gesproken voor een deel van de tijd het molecuul bestaat uit een H+- en een F--ion. Waterstof doneert dan als het ware het elektron aan fluor, als gevolg van de verschillen in ionisatiepotentiaal en elektronenaffiniteit. Dit werd door Linus Pauling vervat in \u00e9\u00e9n begrip, de elektronegativiteit.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0643\u0647\u0631\u0633\u0644\u0628\u064a\u0629 \u0623\u0648 \u0627\u0644\u0633\u0627\u0644\u0628\u064a\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0647\u064a \u0645\u0642\u064a\u0627\u0633 \u0644\u0645\u0642\u062f\u0631\u0629 \u0627\u0644\u0630\u0631\u0629 \u0641\u064a \u0627\u0644\u062c\u0632\u064a\u0621 \u0627\u0644\u062a\u0633\u0627\u0647\u0645\u064a \u0639\u0644\u0649 \u062c\u0630\u0628 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u0627\u062a \u0641\u064a \u0627\u0644\u0631\u0648\u0627\u0628\u0637 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629. \u0648\u062a\u0639\u062a\u0645\u062f \u0646\u0648\u0639\u064a\u0629 \u0627\u0644\u0631\u0627\u0628\u0637\u0629 \u0627\u0644\u0645\u062a\u0643\u0648\u0646\u0629 \u0627\u0639\u062a\u0645\u0627\u062f\u0627 \u0643\u0628\u064a\u0631\u0627 \u0639\u0644\u0649 \u0627\u0644\u0641\u0631\u0642 \u0641\u064a \u0627\u0644\u0633\u0627\u0644\u0628\u064a\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u064a\u0629 \u0628\u064a\u0646 \u0627\u0644\u0630\u0631\u0627\u062a \u0627\u0644\u062f\u0627\u062e\u0644\u0629 \u0641\u064a\u0647\u0627. \u0648\u062a\u0642\u0648\u0645 \u0627\u0644\u0630\u0631\u0627\u062a \u0627\u0644\u0645\u062a\u0634\u0627\u0628\u0647\u0629 \u0641\u064a \u0627\u0644\u0633\u0627\u0644\u0628\u064a\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u064a\u0629 \" \u0628\u0633\u0631\u0642\u0629 \" \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u0627\u062a \u0645\u0646 \u0628\u0639\u0636\u0647\u0627 \u0627\u0644\u0628\u0639\u0636 \u0648\u0627\u0644\u0630\u064a \u064a\u0631\u062c\u0639 \u0644\u0645\u0627 \u064a\u0633\u0645\u0649 \" \u0645\u0634\u0627\u0631\u0643\u0629 \" \u0648\u062a\u0643\u0648\u0646 \u0631\u0627\u0628\u0637\u0629 \u062a\u0633\u0627\u0647\u0645\u064a\u0629. \u0648\u0644\u0643\u0646 \u0644\u0648 \u0643\u0627\u0646 \u0647\u0630\u0627 \u0627\u0644\u0641\u0631\u0642 \u0643\u0628\u064a\u0631 \u0633\u064a\u0646\u062a\u0642\u0644 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646 \u0625\u0644\u0649 \u0623\u062d\u062f \u0627\u0644\u0630\u0631\u0627\u062a \u0648\u062a\u062a\u0643\u0648\u0646 \u0631\u0627\u0628\u0637\u0629 \u0623\u064a\u0648\u0646\u064a\u0629. \u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643 \u0641\u064a \u062d\u0627\u0644\u0629 \u0623\u0646 \u0623\u062d\u062f \u0627\u0644\u0630\u0631\u0627\u062a \u062a\u0642\u0648\u0645 \u0628\u0633\u062d\u0628 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u0627\u062a \u0628\u0642\u0648\u0629 \u0623\u0643\u0628\u0631 \u0642\u0644\u064a\u0644\u0627 \u0645\u0646 \u0627\u0644\u0623\u062e\u0631\u0649 \u0641\u0625\u0646\u0647 \u062a\u062a\u0643\u0648\u0646 \u0631\u0627\u0628\u0637\u0629 \u062a\u0633\u0627\u0647\u0645\u064a\u0629 \u0642\u0637\u0628\u064a\u0629. \u0648\u064a\u062a\u0645 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0645\u0642\u064a\u0627\u0633\u064a\u0646 \u0645\u0634\u0647\u0648\u0631\u064a\u0646 \u0644\u0644\u0633\u0627\u0644\u0628\u064a\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u064a\u0629\u060c \u0645\u0642\u064a\u0627\u0633 \u0628\u0627\u0648\u0644\u0646\u062c (\u062a\u0645 \u0627\u0642\u062a\u0631\u0627\u062d\u0647 \u0639\u0627\u0645 1932) \u0648\u0645\u0642\u064a\u0627\u0633 \u0645\u0648\u0644\u0643\u064a\u0646 (\u062a\u0645 \u0627\u0642\u062a\u0631\u0627\u062d\u0647 \u0639\u0627\u0645 1934). \u0643\u0645\u0627 \u064a\u0648\u062c\u062f \u0627\u0642\u062a\u0631\u0627\u062d \u0622\u062e\u0631 \u064a\u0633\u0645\u0649 \u0645\u0642\u064a\u0627\u0633 \u0623\u0644\u0641\u0631\u064a\u062f-\u0631\u0648\u0634\u0648.",
+                "lang": "ar"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Electrostatic_Potential.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742791372,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 9707,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Property"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electro_negative": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electronegativities": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Allred\u2013Rochow_scale": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mulliken_scale": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pauling_Electronegativity_Scale": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pauling_scale": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Allen_electronegativity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sanderson_electronegativity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electropositivity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electropositive": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electro_negativity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electronegativeity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electro-Negativity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pauling_scale_of_electronegativity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electronegativity_equalization": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mulliken_electronegativity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mulliken_Scale": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Allen_scale": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Electronegative": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Allred-Rochow_scale": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Negativity": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Electronegativity"
+            }
+        ]
+    }
+}

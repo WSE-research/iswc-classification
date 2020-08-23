@@ -1,0 +1,55 @@
+{
+    "@text": "\"Who is {chef-lieu} of {Shashanka}, whicg has {chef-lieu of} is {Nawabs of Bengal and Murshidabad} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Administrative_centre",
+            "@support": "8693",
+            "@types": "",
+            "@surfaceForm": "chef-lieu",
+            "@offset": "9",
+            "@similarityScore": "0.9999999999575095",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Shashanka",
+            "@support": "133",
+            "@types": "",
+            "@surfaceForm": "Shashanka",
+            "@offset": "24",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Administrative_centre",
+            "@support": "8693",
+            "@types": "",
+            "@surfaceForm": "chef-lieu",
+            "@offset": "47",
+            "@similarityScore": "0.9999999999575095",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bengal",
+            "@support": "12715",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Bengal",
+            "@offset": "75",
+            "@similarityScore": "0.9962346290468799",
+            "@percentageOfSecondRank": "0.003425054874385365"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Murshidabad",
+            "@support": "649",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Murshidabad",
+            "@offset": "86",
+            "@similarityScore": "0.991496230784071",
+            "@percentageOfSecondRank": "0.008576703523338194"
+        }
+    ]
+}

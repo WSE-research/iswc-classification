@@ -1,0 +1,37 @@
+{
+    "@text": "Does Ford own the Ford Kansas Assembly plant?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ford_Motor_Company",
+            "@support": "23230",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Ford",
+            "@offset": "5",
+            "@similarityScore": "0.9989186584598011",
+            "@percentageOfSecondRank": "4.811814337695719E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ford_Motor_Company",
+            "@support": "23230",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Ford",
+            "@offset": "18",
+            "@similarityScore": "0.9989187001313949",
+            "@percentageOfSecondRank": "4.811814337695719E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Kansas",
+            "@support": "37890",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Kansas",
+            "@offset": "23",
+            "@similarityScore": "0.9960302009239309",
+            "@percentageOfSecondRank": "0.0020442088428834484"
+        }
+    ]
+}

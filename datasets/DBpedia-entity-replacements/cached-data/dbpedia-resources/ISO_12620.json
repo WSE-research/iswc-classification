@@ -1,0 +1,165 @@
+{
+    "http://en.wikipedia.org/wiki/ISO_12620": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/ISO_12620"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ISO_12620": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Standard107260623"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Work"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatISOStandards"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Measure100033615"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SystemOfMeasurement113577171"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "ISO 12620",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "ISO 12620 is a standard from ISO/TC 37 which defines a Data Category Registry, a registry for registering linguistic terms used in various fields of translation, computational linguistics and natural language processing and defining mappings both between different terms and the same terms used in different systems. The standard was first released as ISO 12620:1999 which was rendered obsolete by ISO 12620:2009. The first edition was English-only, the second bilingual English-French.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q5974188"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0hhvp9g"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/ISO_12620"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q5974188"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/ISO_12620"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:ISO_standards"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Translation"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Ontology_(information_science)"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Terminology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Computational_linguistics"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/ISO_12620"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/ISO_12620?oldid=729500664"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.isocat.org/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "ISO 12620 is a standard from ISO/TC 37 which defines a Data Category Registry, a registry for registering linguistic terms used in various fields of translation, computational linguistics and natural language processing and defining mappings both between different terms and the same terms used in different systems. The goal of the registry is that new systems can reuse existing terminology, or at least be easily mapped to existing terminology, to aid interoperability. To this end a number of terminologies have been added to the registry, including ones based on the General Ontology for Linguistic Description, the National Corpus of Polish and the TermBase eXchange from the Localization Industry Standards Association. The standard was first released as ISO 12620:1999 which was rendered obsolete by ISO 12620:2009. The first edition was English-only, the second bilingual English-French. The standard is relatively low-level but is used by other standards such as Lexical Markup Framework (ISO 24613:2008).",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 729500664,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 33687622,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Standard"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Data_Category_Registry": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/ISO_12620"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ISO_12620:1999": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/ISO_12620"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ISO_12620:2009": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/ISO_12620"
+            }
+        ]
+    }
+}

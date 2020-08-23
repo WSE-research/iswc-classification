@@ -1,0 +1,28 @@
+{
+    "@text": "Name the band atleast one of whose members is famous for playing the Fender Stratocaster?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Fender_Musical_Instruments_Corporation",
+            "@support": "3645",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Fender",
+            "@offset": "69",
+            "@similarityScore": "0.9987093591188438",
+            "@percentageOfSecondRank": "0.001260464301759296"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Fender_Stratocaster",
+            "@support": "1203",
+            "@types": "",
+            "@surfaceForm": "Stratocaster",
+            "@offset": "76",
+            "@similarityScore": "0.9999999999772342",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

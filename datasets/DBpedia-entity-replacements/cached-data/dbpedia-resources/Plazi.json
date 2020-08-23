@@ -1,0 +1,169 @@
+{
+    "http://dbpedia.org/resource/Plazi": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActor"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatNon-profitOrganisationsBasedInSwitzerland"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Organisation"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SocialGroup107950920"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Organization108008335"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatInternationalOrganizations"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WorldOrganization108294696"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Alliance108293982"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Plazi",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Plazi is a Swiss based international non-profit association supporting and promoting the development of persistent and openly accessible digital bio-taxonomic literature. Plazi is maintaining a digital taxonomic literature repository to enable archiving of taxonomic treatments, enhances submitted taxonomic treatments by creating version in the XML formats TaxonXand Taxpub, and educates about the importance of maintaining open access to scientific discourse and data. It is a contributor to the evolving e-taxonomy in the field of Biodiversity Informatics.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.09gclpp"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q7203726"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q7203726"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Plazi"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Plazi"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:International_scientific_organizations"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:International_organisations_based_in_Switzerland"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Taxonomy_(biology)"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Plazi"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Plazi?oldid=724025074"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://wiki.tdwg.org/twiki/bin/view/SPM/WebHome"
+            },
+            {
+                "type": "uri",
+                "value": "http://osuc.biosci.ohio-state.edu/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.tdwg.org/dav/subgroups/tapir/1.0/docs/TAPIRNetworkBuildersGuide_2008-09-18.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://plazi.org/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Plazi is a Swiss based international non-profit association supporting and promoting the development of persistent and openly accessible digital bio-taxonomic literature. Plazi is maintaining a digital taxonomic literature repository to enable archiving of taxonomic treatments, enhances submitted taxonomic treatments by creating version in the XML formats TaxonXand Taxpub, and educates about the importance of maintaining open access to scientific discourse and data. It is a contributor to the evolving e-taxonomy in the field of Biodiversity Informatics. The approach was originally developed in a binational National Science Foundation (NSF) and German Research Foundation (DFG) digital library program to the American Museum of Natural History and the University of Karlsruhe, respectively, to create an XML schema modeling the content of bio-systematic literature. The TaxonX schema is applied to legacy publications using GoldenGATE, a semiautomatic editor. In its current state GoldenGATE is a complex mark up tool allowing community involvement in the process of rendering documents into semantically enhanced documents. Plazi developed ways to make distribution records in published taxonomic literature accessible through a TAPIR service that is harvested by the Global Biodiversity Information Facility (GBIF). Similarly, the Species Page Model (SPM) transfer schema has been implemented to allow harvesting of treatments (the scientific descriptions of species and higher taxa) by third parties such as the Encyclopedia of Life (EOL). If available, the treatments are enhanced with links to external databases such as GenBank, The Hymenoptera Name Server for scientific names or ZooBank, the registry of zoological names. Plazi claims it adheres to copyright law and argues that taxonomic treatments do not qualify as literary and artistic work. Plazi claims that such works are therefore in the public domain and can be freely used and disseminated (with scientific practice requiring appropriate citation).",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 724025074,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 24860133,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Association"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Plazi": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Plazi"
+            }
+        ]
+    }
+}

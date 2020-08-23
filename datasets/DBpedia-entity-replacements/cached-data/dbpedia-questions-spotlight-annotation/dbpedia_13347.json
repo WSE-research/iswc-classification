@@ -1,0 +1,28 @@
+{
+    "@text": "Is the voltage in Italy 276.0 or greater?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Voltage",
+            "@support": "9077",
+            "@types": "",
+            "@surfaceForm": "voltage",
+            "@offset": "7",
+            "@similarityScore": "0.999665645817041",
+            "@percentageOfSecondRank": "1.3713819655918793E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Italy",
+            "@support": "150965",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Italy",
+            "@offset": "18",
+            "@similarityScore": "0.9936206676126446",
+            "@percentageOfSecondRank": "0.004173143531806292"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Is fox belong to the phylum of Chordate?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Fox",
+            "@support": "3278",
+            "@types": "Wikidata:Q7377,Wikidata:Q729,Wikidata:Q19088,DBpedia:Species,DBpedia:Mammal,DBpedia:Eukaryote,DBpedia:Animal",
+            "@surfaceForm": "fox",
+            "@offset": "3",
+            "@similarityScore": "0.9332162246978754",
+            "@percentageOfSecondRank": "0.04011951135909529"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Phylum",
+            "@support": "1978",
+            "@types": "",
+            "@surfaceForm": "phylum",
+            "@offset": "21",
+            "@similarityScore": "0.9999974465678947",
+            "@percentageOfSecondRank": "2.552833145156532E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chordate",
+            "@support": "489",
+            "@types": "",
+            "@surfaceForm": "Chordate",
+            "@offset": "31",
+            "@similarityScore": "0.9999999997893383",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

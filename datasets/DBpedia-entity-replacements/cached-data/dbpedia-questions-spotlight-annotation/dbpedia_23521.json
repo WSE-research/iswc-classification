@@ -1,0 +1,28 @@
+{
+    "@text": "Is Michelle Obama the wife of Barack Obama?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Michelle_Obama",
+            "@support": "1429",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Michelle Obama",
+            "@offset": "3",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Barack_Obama",
+            "@support": "25941",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q30461,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:President,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Barack Obama",
+            "@offset": "30",
+            "@similarityScore": "0.9999964973401726",
+            "@percentageOfSecondRank": "2.3192237171414737E-6"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the China administrative division code of Hong Kong?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/China",
+            "@support": "192191",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "China",
+            "@offset": "13",
+            "@similarityScore": "0.9962519871616972",
+            "@percentageOfSecondRank": "0.0018782812302383565"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Administrative_division",
+            "@support": "1419",
+            "@types": "",
+            "@surfaceForm": "administrative division",
+            "@offset": "19",
+            "@similarityScore": "0.8474459816652781",
+            "@percentageOfSecondRank": "0.13032606298163144"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Hong_Kong",
+            "@support": "74574",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Hong Kong",
+            "@offset": "51",
+            "@similarityScore": "0.9967686503443145",
+            "@percentageOfSecondRank": "0.0011011523296522014"
+        }
+    ]
+}

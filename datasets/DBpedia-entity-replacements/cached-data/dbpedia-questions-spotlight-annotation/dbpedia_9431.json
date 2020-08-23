@@ -1,0 +1,28 @@
+{
+    "@text": "Which {plant taxon in botanical garden} is {located in} of {Gao Gao} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "13",
+            "@similarityScore": "0.9998030886314527",
+            "@percentageOfSecondRank": "1.9691600581014343E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Gao_Gao",
+            "@support": "12",
+            "@types": "",
+            "@surfaceForm": "Gao Gao",
+            "@offset": "60",
+            "@similarityScore": "0.9999999987651336",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

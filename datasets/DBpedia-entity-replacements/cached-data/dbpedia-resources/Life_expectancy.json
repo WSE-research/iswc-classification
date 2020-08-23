@@ -1,0 +1,682 @@
+{
+    "http://dbpedia.org/resource/Central-West_Region,_Brazil": {
+        "http://dbpedia.org/property/demographics2Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/South_Region,_Brazil": {
+        "http://dbpedia.org/property/demographics2Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Life_expectancy": {
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Life expectancy",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Oczekiwana dalsza d\u0142ugo\u015b\u0107 trwania \u017cycia",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u9884\u671f\u5bff\u547d",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Lebenserwartung",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Esperan\u00e7a de vida",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Levensverwachting",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Esp\u00e9rance de vie humaine",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u5e73\u5747\u4f59\u547d",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Esperanza de vida",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Speranza di vita",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0623\u0645\u0648\u0644 \u0627\u0644\u0639\u0645\u0631",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u041e\u0436\u0438\u0434\u0430\u0435\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0436\u0438\u0437\u043d\u0438",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u041e\u0436\u0438\u0434\u0430\u0301\u0435\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0301\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0436\u0438\u0301\u0437\u043d\u0438 (\u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c \u0441\u0440\u0435\u0434\u043d\u0435\u0439 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0436\u0438\u0437\u043d\u0438) \u2014 \u0432\u0430\u0436\u043d\u0435\u0439\u0448\u0438\u0439 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0434\u0435\u043c\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c, \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u044e\u0449\u0438\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0441\u043c\u0435\u0440\u0442\u043d\u043e\u0441\u0442\u0438 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f. \u0423\u043f\u0440\u043e\u0449\u0435\u043d\u043d\u043e \u0433\u043e\u0432\u043e\u0440\u044f, \u043e\u043d \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442 \u0441\u0440\u0435\u0434\u043d\u0435\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043b\u0435\u0442 \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0436\u0438\u0437\u043d\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u0434\u043e\u0441\u0442\u0438\u0433\u0448\u0435\u0433\u043e \u0434\u0430\u043d\u043d\u043e\u0433\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430, \u0438 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0438\u0442\u043e\u0433\u043e\u0432\u044b\u043c \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0435\u043c \u0442\u0430\u0431\u043b\u0438\u0446\u044b \u0441\u043c\u0435\u0440\u0442\u043d\u043e\u0441\u0442\u0438. \u041a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u043f\u043e\u0434 \u00ab\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u043e\u0439 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c\u044e \u0436\u0438\u0437\u043d\u0438\u00bb \u043f\u043e\u043d\u0438\u043c\u0430\u044e\u0442 \u043e\u0436\u0438\u0434\u0430\u0435\u043c\u0443\u044e \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0436\u0438\u0437\u043d\u0438 \u043f\u0440\u0438 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0438, \u0442\u043e \u0435\u0441\u0442\u044c \u0432 \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0435 0 \u043b\u0435\u0442.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "La esperanza de vida o expectativa de vida es la media de la cantidad de a\u00f1os que vive una determinada poblaci\u00f3n absoluta o total en un cierto per\u00edodo. Se suele dividir en masculina y femenina, y se ve influida por factores como la calidad de la medicina, la higiene, las guerras, etc, si bien actualmente se suele referir \u00fanicamente a las personas que tienen una muerte no violenta.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u5e73\u5747\u5bff\u547d\u3001\u751f\u547d\u671f\u671b\u6216\u9810\u671f\u58fd\u547d\uff08\u82f1\u8bed\uff1alife expectancy\uff09\uff0c\u6307\u751f\u7269\u7fa4\u4f53\u4e2d\u8861\u91cf\u5355\u4e00\u751f\u547d\u5b58\u6d3b\u5e73\u5747\u957f\u5ea6\u7684\u7edf\u8ba1\u91cf\u3002\u9810\u671f\u58fd\u547d\u6700\u5e38\u7528\u7684\u6e2c\u91cf\u65b9\u6cd5\u662f\u81ea\u51fa\u751f\u8d77\u7b97\uff08\u82f1\u8bed\uff1aLife expectancy at birth\uff0cLEB\uff09\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Die Lebenserwartung ist die im Durchschnitt zu erwartende Zeitspanne, die einem Lebewesen ab einem gegebenen Zeitpunkt bis zu seinem Tod verbleibt. Diese Spanne wird in der Regel mit Hilfe einer Sterbetafel ermittelt, die auf beobachteten Sterbeh\u00e4ufigkeiten der Vergangenheit und auf Modellannahmen f\u00fcr deren zuk\u00fcnftige Entwicklung basiert. Grunds\u00e4tzlich kann der Zeitpunkt, ab dem die restliche Lebenserwartung ermittelt werden soll, beliebig gew\u00e4hlt werden. Im allgemeinen Fall ist es der Zeitraum vom biologischen Beginn der Entwicklung des Lebewesens aus gerechnet.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "In de demografie is de levensverwachting een statistisch begrip dat het gemiddelde, of wiskundige verwachting, van de resterende levensduur van een individu in de bepaalde groep aangeeft. Voor niet-menselijke organismen wordt de term levensduur vaak gebruikt om op de gemiddelde lengte van het leven van een bepaalde soort aan te geven.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "A expectativa de vida ou esperan\u00e7a de vida \u00e0 nascen\u00e7a \u00e9 o n\u00famero aproximado de anos que um grupo de indiv\u00edduos nascidos no mesmo ano ir\u00e1 viver, se mantidas, desde o seu nascimento.Para saber a expectativa de vida de um determinado local deve-se fazer uma media aritm\u00e9tica das idades que as pessoas morreram nesse determinado local. \u00c9 calculada considerando-se, al\u00e9m das taxa de mortalidade geral e infantil segundo a classe de renda, o acesso a servi\u00e7os de sa\u00fade, saneamento, educa\u00e7\u00e3o, cultura e lazer, bem como os \u00edndices de viol\u00eancia, criminalidade e polui\u00e7\u00e3o do local onde vive a popula\u00e7\u00e3o.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Oczekiwana dalsza d\u0142ugo\u015b\u0107 trwania \u017cycia \u2013 wielko\u015b\u0107 statystyczna stosowana w demografii i matematyce ubezpiecze\u0144 \u017cyciowych. Jest r\u00f3wna \u015bredniej liczbie lat \u017cycia, jaka pozosta\u0142a osobnikowi w danym wieku i z danej grupy. W szczeg\u00f3lnym przypadku przy wieku r\u00f3wnym 0 (czyli dla noworodka) oczekiwana dalsza d\u0142ugo\u015b\u0107 trwania \u017cycia jest r\u00f3wna \u015bredniej d\u0142ugo\u015bci \u017cycia w danej populacji.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5e73\u5747\u4f59\u547d\uff08\u3078\u3044\u304d\u3093\u3088\u3081\u3044/\u3078\u3044\u304d\u3093\u3088\u307f\u3087\u3046\uff09\u3068\u306f\u3001\u3042\u308b\u5e74\u9f62\u306e\u4eba\u3005\u304c\u3001\u305d\u306e\u5f8c\u4f55\u5e74\u751f\u304d\u3089\u308c\u308b\u304b\u3068\u3044\u3046\u671f\u5f85\u5024\u306e\u3053\u3068\u3067\u3042\u308b\u3002\u751f\u547d\u8868\u3067\u8a08\u7b97\u3055\u308c\u3066\u3044\u308b\u3002 \u751f\u547d\u8868\u306b\u306f\u300110\u4e07\u4eba\u304c\u751f\u307e\u308c\u305f\u3068\u304d\u3001\u3042\u308b\u5e74\u9f62\u306b\u9054\u3059\u308b\u307e\u3067\u4f55\u4eba\u751f\u5b58\u3057\u3001\u305d\u306e\u5e74\u9f62\u306e\u5185\u306b\u4f55\u4eba\u304c\u6b7b\u4ea1\u3059\u308b\u304b\u304c\u8a08\u7b97\u3055\u308c\u3001\u63b2\u8f09\u3055\u308c\u3066\u3044\u308b\u3002\u307e\u305f\u3001\u6bce\u5e7410\u4e07\u4eba\u304c\u5b9a\u5e38\u7684\u306b\u751f\u307e\u308c\u308b\u96c6\u56e3\u306b\u304a\u3044\u3066\u3001\u3042\u308b\u5e74\u9f62\u306b\u5c5e\u3059\u308b\u4eba\u53e3\u304c\u4f55\u4eba\u306b\u306a\u308b\u304b\u3082\u8a08\u7b97\u3055\u308c\u3066\u3044\u308b\uff08\u3053\u308c\u3092\u305d\u306e\u5e74\u9f62\u306e\u5b9a\u5e38\u4eba\u53e3\u3068\u3044\u3046\u3002\u305d\u306e\u5e74\u9f62\u306b\u5230\u9054\u3059\u308b\u4eba\u6570\u3067\u3042\u308b\u751f\u5b58\u6570\u3068\u306f\u7570\u306a\u308b\uff09\u3002 x\u6b73\u3067\u306e\u751f\u5b58\u6570\u3092lx\u3001x\u6b73\u4ee5\u4e0a\u306e\u5b9a\u5e38\u4eba\u53e3\u7dcf\u6570\u3092Tx\u3068\u3059\u308b\u3068\u3001x\u6b73\u3067\u306e\u5e73\u5747\u4f59\u547dex\u306f \u3067\u8868\u3055\u308c\u308b\u3002 \u305f\u3060\u3057\u3001\u3053\u306e\u6570\u5024\u306f\u3001\u73fe\u5728\u306e\u6b7b\u4ea1\u72b6\u6cc1\u304c\u5c06\u6765\u306b\u308f\u305f\u3063\u3066\u7d9a\u304f\u3068\u4eee\u5b9a\u3057\u305f\u5834\u5408\u306e\u3082\u306e\u3067\u3042\u308b\u3002\u533b\u7642\u306e\u9032\u6b69\u3084\u751f\u6d3b\u74b0\u5883\u306e\u5909\u5316\u306b\u3088\u3063\u3066\u3001\u5b9f\u969b\u306e\u5e73\u5747\u751f\u5b58\u671f\u9593\u306f\u5e73\u5747\u4f59\u547d\u3068\u7570\u306a\u3063\u3066\u304f\u308b\u53ef\u80fd\u6027\u306f\u5927\u304d\u3044\u3002 \u307e\u305f\u3001\u3042\u308b\u6709\u5bb3\u8981\u56e0\uff08\u55ab\u7159\u3001\u653e\u5c04\u7dda\u88ab\u66dd\u306a\u3069\uff09\u306b\u3088\u3063\u3066\u5e73\u5747\u4f59\u547d\u304c\u3069\u306e\u7a0b\u5ea6\u77ed\u7e2e\u3055\u308c\u308b\u304b\u8a08\u7b97\u3057\u305f\u3082\u306e\u3092\u5e73\u5747\u4f59\u547d\u640d\u5931\u3068\u3044\u3044\u3001\u6709\u5bb3\u5ea6\u306e\u5c3a\u5ea6\u3068\u3057\u3066\u7528\u3044\u3089\u308c\u308b\u3053\u3068\u304c\u3042\u308b\u3002 0\u6b73\u3067\u306e\u5e73\u5747\u4f59\u547d\u306e\u3053\u3068\u306f\u7279\u306b\u5e73\u5747\u5bff\u547d\u3068\u3044\u3044\u3001\u56fd\u3084\u5730\u57df\u306e\u533b\u7642\u30fb\u885b\u751f\u6c34\u6e96\u3092\u793a\u3059\u6307\u6a19\u3068\u3057\u3066\u7528\u3044\u3089\u308c\u3066\u3044\u308b\u3002\u4e73\u5150\u6b7b\u4ea1\u7387\u306f\u4ed6\u306e\u5e74\u4ee3\u306e\u6b7b\u4ea1\u7387\u3068\u6bd4\u8f03\u3057\u3066\u9ad8\u7387\u306e\u305f\u3081\u3001\u5e73\u5747\u5bff\u547d\u304c\u5e73\u5747\u4f59\u547d\u306e\u4e2d\u3067\u6700\u9577\u3068\u306f\u9650\u3089\u306a\u3044\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Life expectancy is a statistical measure of the average time an organism is expected to live, based on the year of their birth, their current age and other demographic factors including sex. The most commonly used measure of life expectancy is at birth (LEB), which can be defined in two ways: while cohort LEB is the mean length of life of an actual birth cohort (all individuals born a given year) and can be computed only for cohorts born many decades ago, so that all their members died, period LEB is the mean length of life of a hypothetical cohort assumed to be exposed since birth until death of all their members to the mortality rates observed at a given year.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "L'esp\u00e9rance de vie \u00e0 la naissance est un des indicateurs statistiques les plus utilis\u00e9s dans les domaines de la prospective et des projections d\u00e9mographiques, et pour \u00e9valuer le niveau de d\u00e9veloppement et l'indice de d\u00e9veloppement humain d'un \u00c9tat ou d'une r\u00e9gion du monde. Elle permet de quantifier les conditions de mortalit\u00e9 une ann\u00e9e donn\u00e9e  : l'esp\u00e9rance de vie \u00e0 la naissance est \u00e9gale \u00e0 la dur\u00e9e de vie moyenne d'une population fictive qui vivrait toute son existence dans les conditions de mortalit\u00e9 de l'ann\u00e9e consid\u00e9r\u00e9e.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u062a\u0648\u0633\u0637 \u0627\u0644\u0639\u0645\u0631 \u0627\u0644\u0645\u062a\u0648\u0642\u0639 \u0623\u0648 \u0645\u0623\u0645\u0648\u0644 \u0627\u0644\u0639\u0645\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: life expectancy) (\u0623\u0648 \u0645\u064e\u0623\u0652\u0645\u0648\u0644\u064f \u0627\u0644\u062d\u064e\u064a\u0627\u0629 \u0623\u0648 \u0645\u062a\u0648\u0633\u0637 \u0627\u0644\u0639\u0645\u0631 \u0627\u0644\u0645\u0623\u0645\u0648\u0644 \u0623\u0648 \u062a\u0648\u0642\u0639 \u0627\u0644\u0628\u0642\u0627\u0621 \u0639\u0644\u0649 \u0642\u064a\u062f \u0627\u0644\u062d\u064a\u0627\u0629) \u0647\u0648 \u0642\u064a\u0627\u0633 \u0625\u062d\u0635\u0627\u0626\u064a \u0644\u0645\u0639\u062f\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062a \u0627\u0644\u0627\u0636\u0627\u0641\u064a\u0629 \u0627\u0644\u062a\u064a \u0642\u062f \u064a\u0639\u064a\u0634\u0647\u0627 \u0627\u0644\u0641\u0631\u062f \u0625\u0630\u0627 \u0627\u0633\u062a\u0645\u0631\u062a \u0627\u062a\u062c\u0627\u0647\u0627\u062a \u0627\u0644\u0648\u0641\u0627\u0629 \u0627\u0644\u062d\u0627\u0644\u064a\u0629 \u0639\u0644\u0649 \u062d\u0627\u0644\u0647\u0627. \u0648\u064a\u062e\u062a\u0644\u0641 \u0647\u0630\u0627 \u0627\u0644\u062a\u0648\u0642\u0639 \u0628\u0646\u0627\u0621\u064b \u0639\u0644\u0649 \u0639\u0648\u0627\u0645\u0644 \u0639\u062f\u0629 \u0645\u0646\u0647\u0627 \u0627\u0644\u0639\u0645\u0631 (\u0623\u064a \u0627\u0646 \u062a\u0648\u0642\u0639 \u0627\u0644\u0633\u0646\u0648\u0627\u062a \u0627\u0644\u0627\u0636\u0627\u0641\u064a\u0629 \u0645\u062a\u0639\u0644\u0642 \u0628\u0627\u0644\u0639\u0645\u0631 \u0627\u0644\u062d\u0627\u0644\u064a \u0644\u0644\u0641\u0631\u062f)\u060c \u0648\u0627\u0644\u062c\u0646\u0633 \u062d\u064a\u062b \u0627\u0644\u062a\u0648\u0642\u0639\u0627\u062a \u0644\u062f\u0649 \u0627\u0644\u0627\u0646\u0627\u062b \u0639\u0627\u062f\u0629 \u0645\u0627 \u062a\u0643\u0648\u0646 \u0623\u0639\u0644\u0649 \u0645\u0646\u0647\u0627 \u0644\u062f\u0649 \u0627\u0644\u0630\u0643\u0648\u0631. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u064a\u062a\u0639\u0644\u0642 \u0645\u0639\u062f\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062a \u0627\u0644\u0627\u0636\u0627\u0641\u064a\u0629 \u0627\u0644\u0645\u062a\u0648\u0642\u0639\u0629 \u0628\u0639\u0648\u0627\u0645\u0644 \u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629-\u0627\u0642\u062a\u0635\u0627\u062f\u064a\u0629 \u0644\u0644\u0641\u0631\u062f. \u0643\u0645\u0627 \u062a\u062a\u0631\u0648\u0627\u062d \u0627\u0644\u062a\u0648\u0642\u0639\u0627\u062a \u0628\u062d\u0633\u0628 \u0627\u0644\u0628\u0644\u062f\u0627\u0646 \u0648\u0627\u0644\u062f\u0648\u0644 \u0648\u0647\u064a \u0639\u0627\u062f\u0629 \u0645\u0627 \u062a\u0643\u0648\u0646 \u0639\u0627\u0644\u064a\u0629 \u0641\u064a \u0627\u0644\u0628\u0644\u062f\u0627\u0646 \u0627\u0644\u063a\u0646\u064a\u0629 \u0648\u0645\u0646\u062e\u0641\u0636\u0629 \u0641\u064a \u0627\u0644\u0628\u0644\u062f\u0627\u0646 \u0627\u0644\u0641\u0642\u064a\u0631\u0629\u060c \u0645\u0639 \u0628\u0639\u0636 \u0627\u0644\u0627\u0633\u062a\u062b\u0646\u0627\u0621\u0627\u062a. \u0643\u0645\u0627 \u064a\u0631\u062a\u0628\u0637 \u0645\u0623\u0645\u0648\u0644 \u0627\u0644\u0639\u0645\u0631 \u0628\u0639\u0648\u0627\u0645\u0644 \u062a\u0631\u0641\u0639\u0647 \u0643\u062a\u062d\u0633\u0646 \u0627\u0644\u0637\u0628 \u0648\u0627\u0644\u062a\u063a\u0630\u064a\u0629 \u0648\u0623\u062e\u0631\u0649 \u062a\u062e\u0641\u0636\u0647 \u0643\u0627\u0644\u062d\u0631\u0648\u0628.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Il tasso o speranza di vita \u00e8 un indicatore statistico che esprime il numero medio di anni della vita di un essere vivente a partire da una certa et\u00e0, all'interno della popolazione indicizzata.",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.04qsq"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ud3c9\uade0_\uc218\uba85"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q188419"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Esp\u00e9rance_de_vie_humaine"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/St\u0159edn\u00ed_d\u00e9lka_\u017eivota"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a0\u03c1\u03bf\u03c3\u03b4\u03cc\u03ba\u03b9\u03bc\u03bf_\u03b5\u03c0\u03b9\u03b2\u03af\u03c9\u03c3\u03b7\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u5e73\u5747\u4f59\u547d"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Harapan_hidup"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Bizi_itxaropen"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4167016-4"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Speranza_di_vita"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Levensverwachting"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q188419"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Esperan\u00e7a_de_vida"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Oczekiwana_dalsza_d\u0142ugo\u015b\u0107_trwania_\u017cycia"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Esperanza_de_vida"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Lebenserwartung"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Demography"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Ageing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Gerontology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Demographic_economics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Actuarial_science"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Senescence"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Population"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Life_Expectancy_at_Birth_by_Region_1950-2050.png"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Life_expectancy"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Life_expectancy?oldid=743486234"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://ourworldindata.org/data/population-growth-vital-statistics/life-expectancy/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.sonic.net/~petdoc/lifespan.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cdc.gov/nchs/fastats/lifexpec.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.helpage.org/global-agewatch/population-ageing-data/"
+            },
+            {
+                "type": "uri",
+                "value": "https://web.archive.org/web/20070713083310/http:/www.plimoth.org/discover/myth/dead-at-40.php"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.utexas.edu/depts/classics/documents/Life.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.google.com/publicdata/explore?ds=wb-wdi&met=sp_dyn_le00_in&idim=country:CAN&dl=en&hl=en&q=average+life+expectancy+canada#met=sp_dyn_le00_in&idim=country:USA:CHN"
+            },
+            {
+                "type": "uri",
+                "value": "https://web.archive.org/web/20060427184844/http:/www.tesarta.com/www/resources/library/lifespans.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.infoplease.com/ipa/A0005140.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://lcfit.demog.berkeley.edu/"
+            },
+            {
+                "type": "uri",
+                "value": "http://upload.wikimedia.org/wikipedia/commons/b/b2/Comparison_gender_life_expectancy_CIA_factbook.svg"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.cia.gov/library/publications/the-world-factbook/rankorder/2102rank.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.richardcarrier.info/lifetbl.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://robjhyndman.com/software/demography/"
+            },
+            {
+                "type": "uri",
+                "value": "http://purl.fdlp.gov/GPO/gpo41789"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u041e\u0436\u0438\u0434\u0430\u0301\u0435\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0301\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0436\u0438\u0301\u0437\u043d\u0438 (\u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c \u0441\u0440\u0435\u0434\u043d\u0435\u0439 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0436\u0438\u0437\u043d\u0438) \u2014 \u0432\u0430\u0436\u043d\u0435\u0439\u0448\u0438\u0439 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0434\u0435\u043c\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c, \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u044e\u0449\u0438\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0441\u043c\u0435\u0440\u0442\u043d\u043e\u0441\u0442\u0438 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f. \u0423\u043f\u0440\u043e\u0449\u0435\u043d\u043d\u043e \u0433\u043e\u0432\u043e\u0440\u044f, \u043e\u043d \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442 \u0441\u0440\u0435\u0434\u043d\u0435\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043b\u0435\u0442 \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0436\u0438\u0437\u043d\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u0434\u043e\u0441\u0442\u0438\u0433\u0448\u0435\u0433\u043e \u0434\u0430\u043d\u043d\u043e\u0433\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430, \u0438 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0438\u0442\u043e\u0433\u043e\u0432\u044b\u043c \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0435\u043c \u0442\u0430\u0431\u043b\u0438\u0446\u044b \u0441\u043c\u0435\u0440\u0442\u043d\u043e\u0441\u0442\u0438. \u041a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u043f\u043e\u0434 \u00ab\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u043e\u0439 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c\u044e \u0436\u0438\u0437\u043d\u0438\u00bb \u043f\u043e\u043d\u0438\u043c\u0430\u044e\u0442 \u043e\u0436\u0438\u0434\u0430\u0435\u043c\u0443\u044e \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0436\u0438\u0437\u043d\u0438 \u043f\u0440\u0438 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0438, \u0442\u043e \u0435\u0441\u0442\u044c \u0432 \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0435 0 \u043b\u0435\u0442.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Life expectancy is a statistical measure of the average time an organism is expected to live, based on the year of their birth, their current age and other demographic factors including sex. The most commonly used measure of life expectancy is at birth (LEB), which can be defined in two ways: while cohort LEB is the mean length of life of an actual birth cohort (all individuals born a given year) and can be computed only for cohorts born many decades ago, so that all their members died, period LEB is the mean length of life of a hypothetical cohort assumed to be exposed since birth until death of all their members to the mortality rates observed at a given year. National LEB figures reported by statistical national agencies and international organizations are indeed estimates of period LEB. In the Bronze Age and the Iron Age, LEB was 26 years; the 2010 world LEB was 67.2 years. For recent years, in Swaziland LEB is about 49, and in Japan, it is about 83. The combination of high infant mortality and deaths in young adulthood from accidents, epidemics, plagues, wars, and childbirth, particularly before modern medicine was widely available, significantly lowers LEB. But for those who survive early hazards, a life expectancy of 60 or 70 would not be uncommon. For example, a society with a LEB of 40 may have few people dying at precisely 40: most will die before 30 or very few after 55. In populations with high infant mortality rates, LEB is highly sensitive to the rate of death in the first few years of life. Because of this sensitivity to infant mortality, LEB can be subjected to gross misinterpretation, leading one to believe that a population with a low LEB will necessarily have a small proportion of older people. For example, in a hypothetical stationary population in which half the population dies before the age of five but everybody else dies at exactly 70 years old, LEB will be about 36, but about 25% of the population will be between the ages of 50 and 70. Another measure, such as life expectancy at age 5 (e5), can be used to exclude the effect of infant mortality to provide a simple measure of overall mortality rates other than in early childhood; in the hypothetical population above, life expectancy at 5 would be another 65. Aggregate population measures, such as the proportion of the population in various age groups, should also be used along individual-based measures like formal life expectancy when analyzing population structure and dynamics. Mathematically, life expectancy is the mean number of years of life remaining at a given age, assuming age-specific mortality rates remain at their most recently measured levels. It is denoted by , which means the mean number of subsequent years of life for someone now aged , according to a particular mortality experience. Longevity, maximum lifespan, and life expectancy are not synonyms. Life expectancy is defined statistically as the mean number of years remaining for an individual or a group of people at a given age. Longevity refers to the characteristics of the relatively long life span of some members of a population. Maximum lifespan is the age at death for the longest-lived individual of a species. Moreover, because life expectancy is an average, a particular person may die many years before or many years after the \"expected\" survival. The term \"maximum life span\" has a quite different meaning and is more related to longevity. Life expectancy is also used in plant or animal ecology; life tables (also known as actuarial tables). The term life expectancy may also be used in the context of manufactured objects, but the related term shelf life is used for consumer products, and the terms \"mean time to breakdown\" (MTTB) and \"mean time between failures\" (MTBF) are used in engineering.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "A expectativa de vida ou esperan\u00e7a de vida \u00e0 nascen\u00e7a \u00e9 o n\u00famero aproximado de anos que um grupo de indiv\u00edduos nascidos no mesmo ano ir\u00e1 viver, se mantidas, desde o seu nascimento.Para saber a expectativa de vida de um determinado local deve-se fazer uma media aritm\u00e9tica das idades que as pessoas morreram nesse determinado local. A expectativa de vida no nascimento \u00e9 tamb\u00e9m um indicador de qualidade de vida de um pa\u00eds, regi\u00e3o ou localidade. Pode tamb\u00e9m ser utilizada para aferir o retorno de investimentos feitos na melhoria das condi\u00e7\u00f5es de vida e para compor v\u00e1rios \u00edndices, tais como o \u00cdndice de Desenvolvimento Humano (IDH). \u00c9 calculada considerando-se, al\u00e9m das taxa de mortalidade geral e infantil segundo a classe de renda, o acesso a servi\u00e7os de sa\u00fade, saneamento, educa\u00e7\u00e3o, cultura e lazer, bem como os \u00edndices de viol\u00eancia, criminalidade e polui\u00e7\u00e3o do local onde vive a popula\u00e7\u00e3o.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "In de demografie is de levensverwachting een statistisch begrip dat het gemiddelde, of wiskundige verwachting, van de resterende levensduur van een individu in de bepaalde groep aangeeft. Voor niet-menselijke organismen wordt de term levensduur vaak gebruikt om op de gemiddelde lengte van het leven van een bepaalde soort aan te geven. De levensverwachting is sterk afhankelijk van de criteria die worden gebruikt om de groep te selecteren. In landen met een hoog zuigelingssterftecijfer is de levensverwachting bij geboorte erg gevoelig voor het sterftepercentage in eerste levensjaar of levensjaren. In deze gevallen kan een andere maatstaf zoals de levensverwachting op de leeftijd van 10 jaar worden gebruikt om de gevolgen van zuigelingssterfte uit te sluiten en om de gevolgen van andere doodsoorzaken te openbaren. Niettemin wordt gewoonlijk de levensverwachting bij geboorte gespecificeerd. Om die te berekenen veronderstelt men dat de huidige sterftecijfers door het leven van de hypothetische pasgeborenen constant blijven. De leeftijd waarop de meeste mensen sterven is doorgaans veel hoger dan de rekenkundige levensverwachting. Rond 1860 lag de levensverwachting in Nederland op 37 jaar. Desondanks was de leeftijd waarop de meeste mensen stierven toch nog 73 jaar. De huidige levensverwachting ligt rond de 78 jaar, terwijl de meeste mensen overlijden op een leeftijd van 85 jaar. Het verschil hangt sterk samen met de kindersterfte, die rond 1860 beduidend hoger was dan heden ten dage.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Oczekiwana dalsza d\u0142ugo\u015b\u0107 trwania \u017cycia \u2013 wielko\u015b\u0107 statystyczna stosowana w demografii i matematyce ubezpiecze\u0144 \u017cyciowych. Jest r\u00f3wna \u015bredniej liczbie lat \u017cycia, jaka pozosta\u0142a osobnikowi w danym wieku i z danej grupy. W szczeg\u00f3lnym przypadku przy wieku r\u00f3wnym 0 (czyli dla noworodka) oczekiwana dalsza d\u0142ugo\u015b\u0107 trwania \u017cycia jest r\u00f3wna \u015bredniej d\u0142ugo\u015bci \u017cycia w danej populacji.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "L'esp\u00e9rance de vie \u00e0 la naissance est un des indicateurs statistiques les plus utilis\u00e9s dans les domaines de la prospective et des projections d\u00e9mographiques, et pour \u00e9valuer le niveau de d\u00e9veloppement et l'indice de d\u00e9veloppement humain d'un \u00c9tat ou d'une r\u00e9gion du monde. Elle permet de quantifier les conditions de mortalit\u00e9 une ann\u00e9e donn\u00e9e  : l'esp\u00e9rance de vie \u00e0 la naissance est \u00e9gale \u00e0 la dur\u00e9e de vie moyenne d'une population fictive qui vivrait toute son existence dans les conditions de mortalit\u00e9 de l'ann\u00e9e consid\u00e9r\u00e9e. Contrairement \u00e0 ce que le terme \u00ab esp\u00e9rance de vie \u00bb peut laisser penser, cette statistique n'est pas une pr\u00e9vision des probabilit\u00e9s de d\u00e9c\u00e8s pour les ann\u00e9es ult\u00e9rieures. Dire par exemple que l'esp\u00e9rance de vie des hommes en 2000 est de soixante-quinze ans signifie que les hommes n\u00e9s en 2000 vivront en moyenne soixante-quinze ans, mais seulement si les conditions de mortalit\u00e9 qu'ils rencontreront au long de leur vie correspondent \u00e0 celles de l'ann\u00e9e 2000. Si les progr\u00e8s continuent, les hommes n\u00e9s en 2000 pourront vivre en moyenne plus de 75 ans. Inversement, il se peut que les conditions se d\u00e9gradent, et que la dur\u00e9e de la vie diminue. Cette statistique est calcul\u00e9e sous l'\u00e9gide de l'ONU, et publi\u00e9e par de nombreux organismes, incluant l'OMS. L'esp\u00e9rance de vie \u00e0 la naissance se calcule \u00e0 partir des quotients de mortalit\u00e9 par \u00e2ge, c'est-\u00e0-dire des probabilit\u00e9s de d\u00e9c\u00e9der dans l'ann\u00e9e pour des personnes qui atteignent un \u00e2ge donn\u00e9. \u00c0 chaque \u00e2ge, le risque de d\u00e9c\u00e8s est donc mesur\u00e9 par le quotient par \u00e2ge observ\u00e9 cette ann\u00e9e-l\u00e0. Elle synth\u00e9tise donc les conditions de mortalit\u00e9 de l'ann\u00e9e, sous forme d'une g\u00e9n\u00e9ration fictive. Elle diff\u00e8re de la moyenne des \u00e2ges au moment du d\u00e9c\u00e8s de toutes les personnes mortes au cours d'une ann\u00e9e qui, elle, est sensible \u00e0 la structure par \u00e2ge de la population. Dans la quasi-totalit\u00e9 des pays, l'esp\u00e9rance de vie des femmes est plus importante que celle des hommes. Les guerres, les d\u00e9sastres naturels et les \u00e9pid\u00e9mies la font diminuer, alors que les progr\u00e8s de la m\u00e9decine et du niveau de vie (hygi\u00e8ne, vaccins, alimentation ...) tendent \u00e0 l'allonger.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u062a\u0648\u0633\u0637 \u0627\u0644\u0639\u0645\u0631 \u0627\u0644\u0645\u062a\u0648\u0642\u0639 \u0623\u0648 \u0645\u0623\u0645\u0648\u0644 \u0627\u0644\u0639\u0645\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: life expectancy) (\u0623\u0648 \u0645\u064e\u0623\u0652\u0645\u0648\u0644\u064f \u0627\u0644\u062d\u064e\u064a\u0627\u0629 \u0623\u0648 \u0645\u062a\u0648\u0633\u0637 \u0627\u0644\u0639\u0645\u0631 \u0627\u0644\u0645\u0623\u0645\u0648\u0644 \u0623\u0648 \u062a\u0648\u0642\u0639 \u0627\u0644\u0628\u0642\u0627\u0621 \u0639\u0644\u0649 \u0642\u064a\u062f \u0627\u0644\u062d\u064a\u0627\u0629) \u0647\u0648 \u0642\u064a\u0627\u0633 \u0625\u062d\u0635\u0627\u0626\u064a \u0644\u0645\u0639\u062f\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062a \u0627\u0644\u0627\u0636\u0627\u0641\u064a\u0629 \u0627\u0644\u062a\u064a \u0642\u062f \u064a\u0639\u064a\u0634\u0647\u0627 \u0627\u0644\u0641\u0631\u062f \u0625\u0630\u0627 \u0627\u0633\u062a\u0645\u0631\u062a \u0627\u062a\u062c\u0627\u0647\u0627\u062a \u0627\u0644\u0648\u0641\u0627\u0629 \u0627\u0644\u062d\u0627\u0644\u064a\u0629 \u0639\u0644\u0649 \u062d\u0627\u0644\u0647\u0627. \u0648\u064a\u062e\u062a\u0644\u0641 \u0647\u0630\u0627 \u0627\u0644\u062a\u0648\u0642\u0639 \u0628\u0646\u0627\u0621\u064b \u0639\u0644\u0649 \u0639\u0648\u0627\u0645\u0644 \u0639\u062f\u0629 \u0645\u0646\u0647\u0627 \u0627\u0644\u0639\u0645\u0631 (\u0623\u064a \u0627\u0646 \u062a\u0648\u0642\u0639 \u0627\u0644\u0633\u0646\u0648\u0627\u062a \u0627\u0644\u0627\u0636\u0627\u0641\u064a\u0629 \u0645\u062a\u0639\u0644\u0642 \u0628\u0627\u0644\u0639\u0645\u0631 \u0627\u0644\u062d\u0627\u0644\u064a \u0644\u0644\u0641\u0631\u062f)\u060c \u0648\u0627\u0644\u062c\u0646\u0633 \u062d\u064a\u062b \u0627\u0644\u062a\u0648\u0642\u0639\u0627\u062a \u0644\u062f\u0649 \u0627\u0644\u0627\u0646\u0627\u062b \u0639\u0627\u062f\u0629 \u0645\u0627 \u062a\u0643\u0648\u0646 \u0623\u0639\u0644\u0649 \u0645\u0646\u0647\u0627 \u0644\u062f\u0649 \u0627\u0644\u0630\u0643\u0648\u0631. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u064a\u062a\u0639\u0644\u0642 \u0645\u0639\u062f\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062a \u0627\u0644\u0627\u0636\u0627\u0641\u064a\u0629 \u0627\u0644\u0645\u062a\u0648\u0642\u0639\u0629 \u0628\u0639\u0648\u0627\u0645\u0644 \u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629-\u0627\u0642\u062a\u0635\u0627\u062f\u064a\u0629 \u0644\u0644\u0641\u0631\u062f. \u0643\u0645\u0627 \u062a\u062a\u0631\u0648\u0627\u062d \u0627\u0644\u062a\u0648\u0642\u0639\u0627\u062a \u0628\u062d\u0633\u0628 \u0627\u0644\u0628\u0644\u062f\u0627\u0646 \u0648\u0627\u0644\u062f\u0648\u0644 \u0648\u0647\u064a \u0639\u0627\u062f\u0629 \u0645\u0627 \u062a\u0643\u0648\u0646 \u0639\u0627\u0644\u064a\u0629 \u0641\u064a \u0627\u0644\u0628\u0644\u062f\u0627\u0646 \u0627\u0644\u063a\u0646\u064a\u0629 \u0648\u0645\u0646\u062e\u0641\u0636\u0629 \u0641\u064a \u0627\u0644\u0628\u0644\u062f\u0627\u0646 \u0627\u0644\u0641\u0642\u064a\u0631\u0629\u060c \u0645\u0639 \u0628\u0639\u0636 \u0627\u0644\u0627\u0633\u062a\u062b\u0646\u0627\u0621\u0627\u062a. \u0643\u0645\u0627 \u064a\u0631\u062a\u0628\u0637 \u0645\u0623\u0645\u0648\u0644 \u0627\u0644\u0639\u0645\u0631 \u0628\u0639\u0648\u0627\u0645\u0644 \u062a\u0631\u0641\u0639\u0647 \u0643\u062a\u062d\u0633\u0646 \u0627\u0644\u0637\u0628 \u0648\u0627\u0644\u062a\u063a\u0630\u064a\u0629 \u0648\u0623\u062e\u0631\u0649 \u062a\u062e\u0641\u0636\u0647 \u0643\u0627\u0644\u062d\u0631\u0648\u0628. \u0645\u0627 \u0628\u064a\u0646 \u0633\u0646\u062a\u064a 1978 \u06481998 \u0627\u0631\u062a\u0641\u0639 \u0647\u0630\u0627 \u0627\u0644\u0645\u0639\u062f\u0644 \u0628\u0623\u0643\u062b\u0631 \u0645\u0646 \u0639\u0634\u0631 \u0633\u0646\u064a\u0646 \u0641\u064a \u062f\u0648\u0644 \u0643\u0627\u0644\u0645\u0627\u0644\u062f\u064a\u0641 \u0648\u0627\u0644\u0645\u063a\u0631\u0628 \u0648\u0623\u0646\u062f\u0648\u0646\u064a\u0633\u064a\u0627 \u0648\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0648\u0641\u0627\u0646\u0648\u0627\u062a\u0648 \u0628\u064a\u062f \u0623\u0646\u0647 \u0627\u0646\u062e\u0641\u0636 \u0641\u064a \u0644\u064a\u0628\u064a\u0631\u064a\u0627 \u0648\u0631\u0648\u0633\u064a\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u5e73\u5747\u4f59\u547d\uff08\u3078\u3044\u304d\u3093\u3088\u3081\u3044/\u3078\u3044\u304d\u3093\u3088\u307f\u3087\u3046\uff09\u3068\u306f\u3001\u3042\u308b\u5e74\u9f62\u306e\u4eba\u3005\u304c\u3001\u305d\u306e\u5f8c\u4f55\u5e74\u751f\u304d\u3089\u308c\u308b\u304b\u3068\u3044\u3046\u671f\u5f85\u5024\u306e\u3053\u3068\u3067\u3042\u308b\u3002\u751f\u547d\u8868\u3067\u8a08\u7b97\u3055\u308c\u3066\u3044\u308b\u3002 \u751f\u547d\u8868\u306b\u306f\u300110\u4e07\u4eba\u304c\u751f\u307e\u308c\u305f\u3068\u304d\u3001\u3042\u308b\u5e74\u9f62\u306b\u9054\u3059\u308b\u307e\u3067\u4f55\u4eba\u751f\u5b58\u3057\u3001\u305d\u306e\u5e74\u9f62\u306e\u5185\u306b\u4f55\u4eba\u304c\u6b7b\u4ea1\u3059\u308b\u304b\u304c\u8a08\u7b97\u3055\u308c\u3001\u63b2\u8f09\u3055\u308c\u3066\u3044\u308b\u3002\u307e\u305f\u3001\u6bce\u5e7410\u4e07\u4eba\u304c\u5b9a\u5e38\u7684\u306b\u751f\u307e\u308c\u308b\u96c6\u56e3\u306b\u304a\u3044\u3066\u3001\u3042\u308b\u5e74\u9f62\u306b\u5c5e\u3059\u308b\u4eba\u53e3\u304c\u4f55\u4eba\u306b\u306a\u308b\u304b\u3082\u8a08\u7b97\u3055\u308c\u3066\u3044\u308b\uff08\u3053\u308c\u3092\u305d\u306e\u5e74\u9f62\u306e\u5b9a\u5e38\u4eba\u53e3\u3068\u3044\u3046\u3002\u305d\u306e\u5e74\u9f62\u306b\u5230\u9054\u3059\u308b\u4eba\u6570\u3067\u3042\u308b\u751f\u5b58\u6570\u3068\u306f\u7570\u306a\u308b\uff09\u3002 x\u6b73\u3067\u306e\u751f\u5b58\u6570\u3092lx\u3001x\u6b73\u4ee5\u4e0a\u306e\u5b9a\u5e38\u4eba\u53e3\u7dcf\u6570\u3092Tx\u3068\u3059\u308b\u3068\u3001x\u6b73\u3067\u306e\u5e73\u5747\u4f59\u547dex\u306f \u3067\u8868\u3055\u308c\u308b\u3002 \u305f\u3060\u3057\u3001\u3053\u306e\u6570\u5024\u306f\u3001\u73fe\u5728\u306e\u6b7b\u4ea1\u72b6\u6cc1\u304c\u5c06\u6765\u306b\u308f\u305f\u3063\u3066\u7d9a\u304f\u3068\u4eee\u5b9a\u3057\u305f\u5834\u5408\u306e\u3082\u306e\u3067\u3042\u308b\u3002\u533b\u7642\u306e\u9032\u6b69\u3084\u751f\u6d3b\u74b0\u5883\u306e\u5909\u5316\u306b\u3088\u3063\u3066\u3001\u5b9f\u969b\u306e\u5e73\u5747\u751f\u5b58\u671f\u9593\u306f\u5e73\u5747\u4f59\u547d\u3068\u7570\u306a\u3063\u3066\u304f\u308b\u53ef\u80fd\u6027\u306f\u5927\u304d\u3044\u3002 \u307e\u305f\u3001\u3042\u308b\u6709\u5bb3\u8981\u56e0\uff08\u55ab\u7159\u3001\u653e\u5c04\u7dda\u88ab\u66dd\u306a\u3069\uff09\u306b\u3088\u3063\u3066\u5e73\u5747\u4f59\u547d\u304c\u3069\u306e\u7a0b\u5ea6\u77ed\u7e2e\u3055\u308c\u308b\u304b\u8a08\u7b97\u3057\u305f\u3082\u306e\u3092\u5e73\u5747\u4f59\u547d\u640d\u5931\u3068\u3044\u3044\u3001\u6709\u5bb3\u5ea6\u306e\u5c3a\u5ea6\u3068\u3057\u3066\u7528\u3044\u3089\u308c\u308b\u3053\u3068\u304c\u3042\u308b\u3002 0\u6b73\u3067\u306e\u5e73\u5747\u4f59\u547d\u306e\u3053\u3068\u306f\u7279\u306b\u5e73\u5747\u5bff\u547d\u3068\u3044\u3044\u3001\u56fd\u3084\u5730\u57df\u306e\u533b\u7642\u30fb\u885b\u751f\u6c34\u6e96\u3092\u793a\u3059\u6307\u6a19\u3068\u3057\u3066\u7528\u3044\u3089\u308c\u3066\u3044\u308b\u3002\u4e73\u5150\u6b7b\u4ea1\u7387\u306f\u4ed6\u306e\u5e74\u4ee3\u306e\u6b7b\u4ea1\u7387\u3068\u6bd4\u8f03\u3057\u3066\u9ad8\u7387\u306e\u305f\u3081\u3001\u5e73\u5747\u5bff\u547d\u304c\u5e73\u5747\u4f59\u547d\u306e\u4e2d\u3067\u6700\u9577\u3068\u306f\u9650\u3089\u306a\u3044\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Il tasso o speranza di vita \u00e8 un indicatore statistico che esprime il numero medio di anni della vita di un essere vivente a partire da una certa et\u00e0, all'interno della popolazione indicizzata.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Die Lebenserwartung ist die im Durchschnitt zu erwartende Zeitspanne, die einem Lebewesen ab einem gegebenen Zeitpunkt bis zu seinem Tod verbleibt. Diese Spanne wird in der Regel mit Hilfe einer Sterbetafel ermittelt, die auf beobachteten Sterbeh\u00e4ufigkeiten der Vergangenheit und auf Modellannahmen f\u00fcr deren zuk\u00fcnftige Entwicklung basiert. Grunds\u00e4tzlich kann der Zeitpunkt, ab dem die restliche Lebenserwartung ermittelt werden soll, beliebig gew\u00e4hlt werden. Im allgemeinen Fall ist es der Zeitraum vom biologischen Beginn der Entwicklung des Lebewesens aus gerechnet.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u5e73\u5747\u5bff\u547d\u3001\u751f\u547d\u671f\u671b\u6216\u9810\u671f\u58fd\u547d\uff08\u82f1\u8bed\uff1alife expectancy\uff09\uff0c\u6307\u751f\u7269\u7fa4\u4f53\u4e2d\u8861\u91cf\u5355\u4e00\u751f\u547d\u5b58\u6d3b\u5e73\u5747\u957f\u5ea6\u7684\u7edf\u8ba1\u91cf\u3002\u9810\u671f\u58fd\u547d\u6700\u5e38\u7528\u7684\u6e2c\u91cf\u65b9\u6cd5\u662f\u81ea\u51fa\u751f\u8d77\u7b97\uff08\u82f1\u8bed\uff1aLife expectancy at birth\uff0cLEB\uff09\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "La esperanza de vida o expectativa de vida es la media de la cantidad de a\u00f1os que vive una determinada poblaci\u00f3n absoluta o total en un cierto per\u00edodo. Se suele dividir en masculina y femenina, y se ve influida por factores como la calidad de la medicina, la higiene, las guerras, etc, si bien actualmente se suele referir \u00fanicamente a las personas que tienen una muerte no violenta.",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Life_Expectancy_at_Birth_by_Region_1950-2050.png?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743486234,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 18669,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Life_Expectancy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Average_life_expectancy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Expectation_of_life": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Human_lifetime": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/20th_century/Life_expectancy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Female_life_expectancy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Life-expectancy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Male_life_expectancy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Expected_life_span": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Average_lifespan": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mean_life_span": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mean_lifespan": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Average_life_span": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Life_expectancy_at_birth": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Expectation_Of_Life": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Expected_lifespan": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Human_life_expectancy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Life_Expectancies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Life_expectancies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Life_expectancy_in_the_20th_century": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Age-adjusted_life_expectancy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Life-span": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Human_lifespan": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Life_expactancy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Life_expectency": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Human_life_span": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Life_length": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Average_Human_Lifespan": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Demographics_of_El_Salvador": {
+        "http://dbpedia.org/property/label": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Demographics_of_Puerto_Rico": {
+        "http://dbpedia.org/property/label": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Life_expectancy": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Southeast_Region,_Brazil": {
+        "http://dbpedia.org/property/demographics2Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Northeast_Region,_Brazil": {
+        "http://dbpedia.org/property/demographics2Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/North_Region,_Brazil": {
+        "http://dbpedia.org/property/demographics2Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Life_expectancy"
+            }
+        ]
+    }
+}

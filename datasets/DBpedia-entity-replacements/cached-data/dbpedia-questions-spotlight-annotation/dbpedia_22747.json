@@ -1,0 +1,28 @@
+{
+    "@text": "In which team was the person drafted who has studied at the Worcester college, Oxford?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Worcester",
+            "@support": "5214",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Worcester",
+            "@offset": "60",
+            "@similarityScore": "0.996809331815607",
+            "@percentageOfSecondRank": "0.0021864970575917256"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Oxford",
+            "@support": "25961",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Oxford",
+            "@offset": "79",
+            "@similarityScore": "0.6863767515938136",
+            "@percentageOfSecondRank": "0.4557175129979082"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Was Yao_Ming participant of 2008 Summer Olympics and 1994 Asian Games?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/2008_Summer_Olympics",
+            "@support": "15041",
+            "@types": "Wikidata:Q1656682,DUL:Event,Schema:SportsEvent,Schema:Event,DBpedia:SportsEvent,DBpedia:SocietalEvent,DBpedia:Olympics,DBpedia:Event",
+            "@surfaceForm": "2008 Summer Olympics",
+            "@offset": "28",
+            "@similarityScore": "0.9969265033444711",
+            "@percentageOfSecondRank": "0.001932543590788805"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/1994_Asian_Games",
+            "@support": "189",
+            "@types": "Wikidata:Q1656682,DUL:Event,Schema:SportsEvent,Schema:Event,DBpedia:SportsEvent,DBpedia:SocietalEvent,DBpedia:Event",
+            "@surfaceForm": "1994 Asian Games",
+            "@offset": "53",
+            "@similarityScore": "0.9999999847458697",
+            "@percentageOfSecondRank": "8.76653530594408E-9"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "@text": "Is the earthquake magnitude on the moment magnitude scale of the 2011 Van earthquake equal to 5.68?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Earthquake",
+            "@support": "14119",
+            "@types": "",
+            "@surfaceForm": "earthquake",
+            "@offset": "7",
+            "@similarityScore": "0.9997788526943798",
+            "@percentageOfSecondRank": "1.2484589790206284E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Moment_magnitude_scale",
+            "@support": "1658",
+            "@types": "",
+            "@surfaceForm": "magnitude",
+            "@offset": "18",
+            "@similarityScore": "0.8557645252679662",
+            "@percentageOfSecondRank": "0.07407411724440073"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Moment_magnitude_scale",
+            "@support": "1658",
+            "@types": "",
+            "@surfaceForm": "moment magnitude scale",
+            "@offset": "35",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/2011_Van_earthquakes",
+            "@support": "34",
+            "@types": "",
+            "@surfaceForm": "2011 Van earthquake",
+            "@offset": "65",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

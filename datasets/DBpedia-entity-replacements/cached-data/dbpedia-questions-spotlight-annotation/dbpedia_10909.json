@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the gas giant that is a child astronomical body of Prometheus and contains the word saturn in it's name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Gas_giant",
+            "@support": "737",
+            "@types": "",
+            "@surfaceForm": "gas giant",
+            "@offset": "13",
+            "@similarityScore": "0.9999999999999432",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Astronomical_object",
+            "@support": "872",
+            "@types": "",
+            "@surfaceForm": "astronomical body",
+            "@offset": "39",
+            "@similarityScore": "0.9999999999985789",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Prometheus",
+            "@support": "1469",
+            "@types": "",
+            "@surfaceForm": "Prometheus",
+            "@offset": "60",
+            "@similarityScore": "0.9999378035717927",
+            "@percentageOfSecondRank": "6.063436836444317E-5"
+        }
+    ]
+}

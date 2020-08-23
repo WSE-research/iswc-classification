@@ -1,0 +1,46 @@
+{
+    "@text": "Which county seat of Bridgetown has a member of an African, Caribbean or Pacific Group of States?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/County_seat",
+            "@support": "16036",
+            "@types": "",
+            "@surfaceForm": "county seat",
+            "@offset": "6",
+            "@similarityScore": "0.9999946901898226",
+            "@percentageOfSecondRank": "4.060401814481712E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bridgetown",
+            "@support": "961",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Bridgetown",
+            "@offset": "21",
+            "@similarityScore": "0.998206834511605",
+            "@percentageOfSecondRank": "0.0017963488933866504"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Caribbean",
+            "@support": "21003",
+            "@types": "",
+            "@surfaceForm": "Caribbean",
+            "@offset": "60",
+            "@similarityScore": "0.9983380408192969",
+            "@percentageOfSecondRank": "0.0016533610228160447"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Pacific_Ocean",
+            "@support": "26206",
+            "@types": "",
+            "@surfaceForm": "Pacific",
+            "@offset": "73",
+            "@similarityScore": "0.9951301058916889",
+            "@percentageOfSecondRank": "0.0018152921114758856"
+        }
+    ]
+}

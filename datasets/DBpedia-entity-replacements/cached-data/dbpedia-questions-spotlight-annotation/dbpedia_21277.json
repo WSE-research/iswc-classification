@@ -1,0 +1,28 @@
+{
+    "@text": "Name the show whose jury consist of Jennifer Lopez and Randy Jackson?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Jennifer_Lopez",
+            "@support": "3053",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Jennifer Lopez",
+            "@offset": "36",
+            "@similarityScore": "0.9999994034631431",
+            "@percentageOfSecondRank": "5.965368451433677E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Randy_Jackson",
+            "@support": "552",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Randy Jackson",
+            "@offset": "55",
+            "@similarityScore": "0.9999999957878316",
+            "@percentageOfSecondRank": "3.2089201586177593E-9"
+        }
+    ]
+}

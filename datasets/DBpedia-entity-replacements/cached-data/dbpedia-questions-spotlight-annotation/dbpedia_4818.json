@@ -1,0 +1,37 @@
+{
+    "@text": "What thermal power station in Russia/the Soviet Union has the smallest capacity?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Power_station",
+            "@support": "4356",
+            "@types": "",
+            "@surfaceForm": "power station",
+            "@offset": "13",
+            "@similarityScore": "0.9652431665196233",
+            "@percentageOfSecondRank": "0.024951754752782586"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Russia",
+            "@support": "124390",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Russia",
+            "@offset": "30",
+            "@similarityScore": "0.9958003286156303",
+            "@percentageOfSecondRank": "0.0026911283484308247"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Soviet_Union",
+            "@support": "129071",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Soviet Union",
+            "@offset": "41",
+            "@similarityScore": "0.9998900518263981",
+            "@percentageOfSecondRank": "6.150837634501077E-5"
+        }
+    ]
+}

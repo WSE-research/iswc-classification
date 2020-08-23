@@ -1,0 +1,37 @@
+{
+    "@text": "Is Luigi Brugnaro the mayor of Venice?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Luigi_Brugnaro",
+            "@support": "20",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q30185,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Politician,DBpedia:Person,DBpedia:Mayor,DBpedia:Agent",
+            "@surfaceForm": "Luigi Brugnaro",
+            "@offset": "3",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mayor",
+            "@support": "19123",
+            "@types": "",
+            "@surfaceForm": "mayor",
+            "@offset": "22",
+            "@similarityScore": "0.9987614284844002",
+            "@percentageOfSecondRank": "3.650879817645001E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Venice",
+            "@support": "23203",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Venice",
+            "@offset": "31",
+            "@similarityScore": "0.9647372365227191",
+            "@percentageOfSecondRank": "0.03652956181879139"
+        }
+    ]
+}

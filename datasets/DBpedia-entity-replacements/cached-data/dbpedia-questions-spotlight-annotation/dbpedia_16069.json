@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me alcohol whose name has the word ynol in it.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Alcohol",
+            "@support": "8020",
+            "@types": "",
+            "@surfaceForm": "alcohol",
+            "@offset": "8",
+            "@similarityScore": "0.7919030228098236",
+            "@percentageOfSecondRank": "0.163520117877694"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ynol",
+            "@support": "7",
+            "@types": "",
+            "@surfaceForm": "ynol",
+            "@offset": "40",
+            "@similarityScore": "0.9999999342220768",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

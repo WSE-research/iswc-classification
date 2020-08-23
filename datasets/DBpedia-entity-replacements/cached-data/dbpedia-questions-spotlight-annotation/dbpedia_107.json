@@ -1,0 +1,28 @@
+{
+    "@text": "Does the Becherovka alcohol by volume less than 30.4",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Becherovka",
+            "@support": "36",
+            "@types": "Wikidata:Q2095,DUL:FunctionalSubstance,DBpedia:Food,DBpedia:Beverage",
+            "@surfaceForm": "Becherovka",
+            "@offset": "9",
+            "@similarityScore": "0.9999999661988289",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Alcohol",
+            "@support": "8020",
+            "@types": "",
+            "@surfaceForm": "alcohol",
+            "@offset": "20",
+            "@similarityScore": "0.9958585123359498",
+            "@percentageOfSecondRank": "0.0033955273386442365"
+        }
+    ]
+}

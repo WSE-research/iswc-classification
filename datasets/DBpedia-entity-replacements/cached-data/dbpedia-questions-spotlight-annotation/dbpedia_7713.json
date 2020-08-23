@@ -1,0 +1,37 @@
+{
+    "@text": "what is the replaced by  Kevin Rudd has position held as Prime Minister of Australia ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Kevin_Rudd",
+            "@support": "1570",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Rudd",
+            "@offset": "31",
+            "@similarityScore": "0.9998737793912368",
+            "@percentageOfSecondRank": "1.252961796839575E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Prime_Minister_of_Australia",
+            "@support": "4978",
+            "@types": "",
+            "@surfaceForm": "Prime Minister",
+            "@offset": "57",
+            "@similarityScore": "0.9833848537341282",
+            "@percentageOfSecondRank": "0.012595261286285834"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Australia",
+            "@support": "189357",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Australia",
+            "@offset": "75",
+            "@similarityScore": "0.9978380615528507",
+            "@percentageOfSecondRank": "0.0013908674300337437"
+        }
+    ]
+}

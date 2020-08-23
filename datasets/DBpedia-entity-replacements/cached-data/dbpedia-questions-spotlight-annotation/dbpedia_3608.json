@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the consumer price index inflation rate of the county seat of Yamoussoukro?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Inflation",
+            "@support": "5577",
+            "@types": "",
+            "@surfaceForm": "inflation rate",
+            "@offset": "34",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/County_seat",
+            "@support": "16036",
+            "@types": "",
+            "@surfaceForm": "county seat",
+            "@offset": "56",
+            "@similarityScore": "0.9999980015225066",
+            "@percentageOfSecondRank": "7.946881465958918E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Yamoussoukro",
+            "@support": "254",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Yamoussoukro",
+            "@offset": "71",
+            "@similarityScore": "0.9325327931727712",
+            "@percentageOfSecondRank": "0.0723483197972712"
+        }
+    ]
+}

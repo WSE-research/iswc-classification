@@ -1,0 +1,28 @@
+{
+    "@text": "Which planet was first discovered by Johann Gottfried Galle?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Planet",
+            "@support": "8601",
+            "@types": "",
+            "@surfaceForm": "planet",
+            "@offset": "6",
+            "@similarityScore": "0.9995535395937868",
+            "@percentageOfSecondRank": "3.978031521093828E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Johann_Gottfried_Galle",
+            "@support": "73",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q901,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Scientist,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Johann Gottfried Galle",
+            "@offset": "37",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

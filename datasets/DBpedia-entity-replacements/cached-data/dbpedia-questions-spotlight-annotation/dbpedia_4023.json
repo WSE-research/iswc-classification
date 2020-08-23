@@ -1,0 +1,37 @@
+{
+    "@text": "What is  the higher taxon of resident animal species of Hellabrunn Zoo ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "20",
+            "@similarityScore": "0.9998632566826618",
+            "@percentageOfSecondRank": "1.3670189001139778E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Species",
+            "@support": "158628",
+            "@types": "",
+            "@surfaceForm": "species",
+            "@offset": "45",
+            "@similarityScore": "0.9999961895400541",
+            "@percentageOfSecondRank": "3.493732273052988E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Hellabrunn_Zoo",
+            "@support": "36",
+            "@types": "",
+            "@surfaceForm": "Hellabrunn Zoo",
+            "@offset": "56",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "How many reactors are there for the {Charles University in Prague} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Charles_I_of_England",
+            "@support": "7203",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Charles",
+            "@offset": "37",
+            "@similarityScore": "0.6138245337440569",
+            "@percentageOfSecondRank": "0.3882018888368349"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Prague",
+            "@support": "29872",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Prague",
+            "@offset": "59",
+            "@similarityScore": "0.9947328474341186",
+            "@percentageOfSecondRank": "0.005254194984134383"
+        }
+    ]
+}

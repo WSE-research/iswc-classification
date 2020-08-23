@@ -1,0 +1,28 @@
+{
+    "@text": "Are {Al_Gore's} {child} {Bill Oakley} and {Karenna Gore Schiff} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Bill_Oakley",
+            "@support": "227",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Bill Oakley",
+            "@offset": "25",
+            "@similarityScore": "0.9999998493667419",
+            "@percentageOfSecondRank": "1.5058847368266074E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Karenna_Gore",
+            "@support": "34",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Karenna Gore Schiff",
+            "@offset": "43",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

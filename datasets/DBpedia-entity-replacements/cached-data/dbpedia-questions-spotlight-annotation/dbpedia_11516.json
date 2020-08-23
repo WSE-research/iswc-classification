@@ -1,0 +1,28 @@
+{
+    "@text": "What country signed the North Atlantic Treaty that has a spoken language of Portuguese?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Atlantic_Ocean",
+            "@support": "24867",
+            "@types": "Schema:Place,Schema:BodyOfWater,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "North Atlantic",
+            "@offset": "24",
+            "@similarityScore": "0.9996880897988122",
+            "@percentageOfSecondRank": "1.475904034564943E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Portuguese_language",
+            "@support": "20162",
+            "@types": "Wikidata:Q34770,Wikidata:Q315,Schema:Language,DBpedia:Language",
+            "@surfaceForm": "Portuguese",
+            "@offset": "76",
+            "@similarityScore": "0.8334554165386584",
+            "@percentageOfSecondRank": "0.1720981014008717"
+        }
+    ]
+}

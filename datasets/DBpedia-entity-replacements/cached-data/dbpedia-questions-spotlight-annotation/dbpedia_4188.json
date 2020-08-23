@@ -1,0 +1,37 @@
+{
+    "@text": "Which is Gmelin number for sulfate ion?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Johann_Friedrich_Gmelin",
+            "@support": "382",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q901,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Scientist,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Gmelin",
+            "@offset": "9",
+            "@similarityScore": "0.9858323276473918",
+            "@percentageOfSecondRank": "0.009018238107169774"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sulfate",
+            "@support": "2129",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "sulfate",
+            "@offset": "27",
+            "@similarityScore": "0.9712490338751846",
+            "@percentageOfSecondRank": "0.02908473224801825"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ion",
+            "@support": "9321",
+            "@types": "",
+            "@surfaceForm": "ion",
+            "@offset": "35",
+            "@similarityScore": "0.9999284879256811",
+            "@percentageOfSecondRank": "6.988054743356524E-5"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Which chemical compound has the highest standard enthalpy of formation?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Chemical_compound",
+            "@support": "3471",
+            "@types": "",
+            "@surfaceForm": "chemical compound",
+            "@offset": "6",
+            "@similarityScore": "0.9999225410660293",
+            "@percentageOfSecondRank": "7.746493413467272E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Standard_enthalpy_of_reaction",
+            "@support": "48",
+            "@types": "",
+            "@surfaceForm": "standard enthalpy",
+            "@offset": "40",
+            "@similarityScore": "0.6685211100327803",
+            "@percentageOfSecondRank": "0.49583907672106015"
+        }
+    ]
+}

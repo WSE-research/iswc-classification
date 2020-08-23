@@ -1,0 +1,28 @@
+{
+    "@text": "How many basketball players studied in the Midland College?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Basketball",
+            "@support": "84173",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "basketball",
+            "@offset": "9",
+            "@similarityScore": "0.9962587340575737",
+            "@percentageOfSecondRank": "0.003750844261448701"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Midland_College",
+            "@support": "83",
+            "@types": "Wikidata:Q43229,Wikidata:Q3918,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:EducationalOrganization,Schema:CollegeOrUniversity,DBpedia:University,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "Midland College",
+            "@offset": "43",
+            "@similarityScore": "0.9925017437278049",
+            "@percentageOfSecondRank": "0.007554904882821444"
+        }
+    ]
+}

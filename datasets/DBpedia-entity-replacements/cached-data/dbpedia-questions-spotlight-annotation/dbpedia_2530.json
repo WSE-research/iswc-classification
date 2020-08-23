@@ -1,0 +1,37 @@
+{
+    "@text": "Is air pollution caused by methane and volcanic eruption?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Air_pollution",
+            "@support": "3204",
+            "@types": "",
+            "@surfaceForm": "air pollution",
+            "@offset": "3",
+            "@similarityScore": "0.9994353149121853",
+            "@percentageOfSecondRank": "5.37226554207583E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Methane",
+            "@support": "5333",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "methane",
+            "@offset": "27",
+            "@similarityScore": "0.9999476382689089",
+            "@percentageOfSecondRank": "3.116078552720717E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Types_of_volcanic_eruptions",
+            "@support": "1439",
+            "@types": "",
+            "@surfaceForm": "volcanic eruption",
+            "@offset": "39",
+            "@similarityScore": "0.6894158276067814",
+            "@percentageOfSecondRank": "0.4482947690200863"
+        }
+    ]
+}

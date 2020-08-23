@@ -1,0 +1,37 @@
+{
+    "@text": "Does Chicken pox cause migraine and anorexia symptoms?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Chickenpox",
+            "@support": "575",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "Chicken pox",
+            "@offset": "5",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Migraine",
+            "@support": "1461",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "migraine",
+            "@offset": "23",
+            "@similarityScore": "0.999999999498641",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Anorexia_nervosa",
+            "@support": "1241",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "anorexia",
+            "@offset": "36",
+            "@similarityScore": "0.9999990513441995",
+            "@percentageOfSecondRank": "9.421843263466825E-7"
+        }
+    ]
+}

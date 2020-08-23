@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the rock band, member of which was Tom Petty?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Rock_music",
+            "@support": "45453",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "rock",
+            "@offset": "13",
+            "@similarityScore": "0.9937594776208709",
+            "@percentageOfSecondRank": "0.005754440434231251"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tom_Petty",
+            "@support": "1406",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Tom Petty",
+            "@offset": "44",
+            "@similarityScore": "0.9978864408585083",
+            "@percentageOfSecondRank": "0.0021180357350523375"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "In what field was Romy Schneider nominated for the C\u00e9sar Award for Best Actress?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Romy_Schneider",
+            "@support": "342",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Romy Schneider",
+            "@offset": "18",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/C\u00e9sar_Award",
+            "@support": "1169",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "C\u00e9sar Award",
+            "@offset": "51",
+            "@similarityScore": "0.7938557423324466",
+            "@percentageOfSecondRank": "0.2544665954376409"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress",
+            "@support": "2581",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Best Actress",
+            "@offset": "67",
+            "@similarityScore": "0.719200277222877",
+            "@percentageOfSecondRank": "0.38620175294175113"
+        }
+    ]
+}

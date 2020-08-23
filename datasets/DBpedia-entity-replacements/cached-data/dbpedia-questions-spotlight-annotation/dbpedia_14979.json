@@ -1,0 +1,37 @@
+{
+    "@text": "\"What {psychologist} is a {medical speciality}  of {mental disorder}, that has {has proponent}  ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Psychologist",
+            "@support": "3441",
+            "@types": "",
+            "@surfaceForm": "psychologist",
+            "@offset": "7",
+            "@similarityScore": "0.9726325362035907",
+            "@percentageOfSecondRank": "0.026851962199085214"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Specialty_(medicine)",
+            "@support": "540",
+            "@types": "",
+            "@surfaceForm": "medical speciality",
+            "@offset": "27",
+            "@similarityScore": "0.9999995419911355",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mental_disorder",
+            "@support": "4719",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "mental disorder",
+            "@offset": "52",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

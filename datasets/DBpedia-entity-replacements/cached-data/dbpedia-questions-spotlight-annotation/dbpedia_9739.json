@@ -1,0 +1,28 @@
+{
+    "@text": "What is the name of the infectious disease that has minimal prevalence and is a subclass of viral hepatitis?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Infection",
+            "@support": "7754",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "infectious disease",
+            "@offset": "24",
+            "@similarityScore": "0.9999999999915445",
+            "@percentageOfSecondRank": "8.462553148913661E-12"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Viral_hepatitis",
+            "@support": "153",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "viral hepatitis",
+            "@offset": "92",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

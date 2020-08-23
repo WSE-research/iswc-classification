@@ -1,0 +1,28 @@
+{
+    "@text": "Which employer of Michael M. Sears is also the producer of Delta III ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Sears",
+            "@support": "4945",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Sears",
+            "@offset": "29",
+            "@similarityScore": "0.9950947604104586",
+            "@percentageOfSecondRank": "0.003260383059285151"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Delta_III",
+            "@support": "53",
+            "@types": "Wikidata:Q41291,DUL:DesignedArtifact,DBpedia:Rocket,DBpedia:MeanOfTransportation",
+            "@surfaceForm": "Delta III",
+            "@offset": "59",
+            "@similarityScore": "0.991795870117837",
+            "@percentageOfSecondRank": "0.008271994331193864"
+        }
+    ]
+}

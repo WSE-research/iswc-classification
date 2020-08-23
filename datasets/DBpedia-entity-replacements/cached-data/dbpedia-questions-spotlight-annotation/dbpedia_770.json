@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the Florentine musea catalogue ID for Primavera?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Florence",
+            "@support": "21230",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Florentine",
+            "@offset": "13",
+            "@similarityScore": "0.9991738266977898",
+            "@percentageOfSecondRank": "7.571997050108475E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Musea",
+            "@support": "144",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q18127,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:RecordLabel,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "musea",
+            "@offset": "24",
+            "@similarityScore": "0.9999999422356768",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Campionato_Nazionale_Primavera",
+            "@support": "473",
+            "@types": "Wikidata:Q623109,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:SportsLeague,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "Primavera",
+            "@offset": "47",
+            "@similarityScore": "0.8990483891695806",
+            "@percentageOfSecondRank": "0.04565045583355679"
+        }
+    ]
+}

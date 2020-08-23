@@ -1,0 +1,28 @@
+{
+    "@text": "Where in Europe did Thomas Nashe die?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Europe",
+            "@support": "79651",
+            "@types": "Schema:Place,Schema:Continent,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Continent",
+            "@surfaceForm": "Europe",
+            "@offset": "9",
+            "@similarityScore": "0.9997786316665344",
+            "@percentageOfSecondRank": "1.3095118173023492E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Thomas_Nashe",
+            "@support": "262",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Thomas Nashe",
+            "@offset": "20",
+            "@similarityScore": "0.9999999999260893",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Are the drugs used for the treatment of Attention Deficit Hyperactivity Disorder amitriptyline and dexmethylphenidate?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Attention_deficit_hyperactivity_disorder",
+            "@support": "3398",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "Attention Deficit Hyperactivity Disorder",
+            "@offset": "40",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Amitriptyline",
+            "@support": "257",
+            "@types": "Wikidata:Q8386,DUL:ChemicalObject,DBpedia:Drug,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "amitriptyline",
+            "@offset": "81",
+            "@similarityScore": "0.9999999999993179",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Dexmethylphenidate",
+            "@support": "44",
+            "@types": "Wikidata:Q8386,DUL:ChemicalObject,DBpedia:Drug,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "dexmethylphenidate",
+            "@offset": "99",
+            "@similarityScore": "0.9999999999914166",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

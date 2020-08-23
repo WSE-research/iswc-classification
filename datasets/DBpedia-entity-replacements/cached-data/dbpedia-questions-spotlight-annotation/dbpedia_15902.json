@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the Carnegie Hall agent ID for David Ben-Gurion?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Carnegie_Hall",
+            "@support": "5632",
+            "@types": "Schema:Place,DBpedia:Venue,DBpedia:Place,DBpedia:Location,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Carnegie Hall",
+            "@offset": "13",
+            "@similarityScore": "0.9998992876152144",
+            "@percentageOfSecondRank": "5.435408758404847E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/David_Ben-Gurion",
+            "@support": "1350",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "David Ben-Gurion",
+            "@offset": "40",
+            "@similarityScore": "0.999950708343521",
+            "@percentageOfSecondRank": "4.929407984787056E-5"
+        }
+    ]
+}

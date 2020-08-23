@@ -1,0 +1,449 @@
+{
+    "http://dbpedia.org/resource/LCCN": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Library_of_Congress_Control_Number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Library_of_Congress_Card_Number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Library_of_Congress_Control_Number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Library_of_Congress_Catalogue_Card_Number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Library_of_Congress_Control_Number"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Library_of_Congress_Control_Number": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Library_of_Congress_Control_Number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Library_of_Congress_catalog_record": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Library_of_Congress_Control_Number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Library_of_Congress_Control_Number": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Arrangement105726596"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Structure105726345"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatClassificationSystems"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/ClassificationSystem105727220"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Symbol106806469"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Signal106791372"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatIdentifiers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Cognition100023271"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Identifier107270601"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Communication100033020"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "N\u00famero de controle da Biblioteca do Congresso",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Num\u00e9ro de contr\u00f4le de la Biblioth\u00e8que du Congr\u00e8s",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0631\u0642\u0645 \u0627\u0644\u0636\u0628\u0637 \u0641\u064a \u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0631\u0633",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Library of Congress Control Number",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Library of Congress Control Number",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Library of Congress Control Number",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Library of Congress Control Number",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u7f8e\u56fd\u56fd\u4f1a\u56fe\u4e66\u9986\u63a7\u5236\u53f7",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a2\u30e1\u30ea\u30ab\u8b70\u4f1a\u56f3\u66f8\u9928\u7ba1\u7406\u756a\u53f7",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Library of Congress Control Number",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Il Library of Congress Control Number o LCCN \u00e8 un sistema seriale di numerazione delle schede del catalogo della Library of Congress (Biblioteca del Congresso) degli Stati Uniti. Non ha niente a che fare con il contenuto dei libri, e non deve essere confuso con il Library of Congress Classification (sistema di classificazione della Biblioteca del Congresso).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0430\u043d\u0433\u043b. Library of Congress Control Number, LCCN (\u043f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e \u2014 Library of Congress Catalog Card Number; \u0434\u043e\u043f\u0443\u0441\u043a\u0430\u0435\u0442\u0441\u044f \u2014 Library of Congress) \u2014 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441\u0430 \u0421\u0428\u0410, \u0441\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0447\u0438\u0441\u043b\u043e\u0432\u043e\u0439 (\u0434\u043b\u044f \u0438\u0437\u0434\u0430\u043d\u0438\u0439) \u0438\u043b\u0438 \u0431\u0443\u043a\u0432\u0435\u043d\u043d\u043e-\u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 (\u0434\u043b\u044f \u043f\u0435\u0440\u0441\u043e\u043d \u0438 \u0442\u0435\u043c) \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0430\u043f\u0438\u0441\u0435\u0439 \u0432 \u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0435 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441\u0430 \u0421\u0428\u0410, \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445 \u0438 \u0438\u043d\u0434\u0438\u043a\u0430\u0442\u043e\u0440 \u0437\u0430\u043f\u0438\u0441\u0438 \u0432 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0439 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0431\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "The Library of Congress Control Number (LCCN) is a serially based system of numbering cataloging records in the Library of Congress in the United States. It has nothing to do with the contents of any book, and should not be confused with Library of Congress Classification.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0631\u0642\u0645 \u0627\u0644\u0636\u0628\u0637 \u0641\u064a \u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0631\u0633 \u0627\u0644\u0645\u0639\u0631\u0648\u0641\u0629 \u0628\u0627\u0644\u0631\u0645\u0648\u0632 LCCN \u0647\u0648 \u0646\u0638\u0627\u0645 \u064a\u0639\u062a\u0645\u062f \u0627\u0644\u0623\u0631\u0642\u0627\u0645 \u0627\u0644\u0645\u062a\u0633\u0644\u0633\u0644\u0629 \u0644\u0641\u0647\u0631\u0633\u0629 \u0627\u0644\u0643\u062a\u0628 \u0641\u064a \u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0631\u0633. \u0648\u0647\u0648 \u063a\u064a\u0631 \u0645\u0631\u062a\u0628\u0637 \u0628\u0646\u0638\u0627\u0645 \u062a\u0635\u0646\u064a\u0641 \u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0631\u0633.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Library of Congress Control Number (LCCN) is een identifier die wordt uitgegeven door het Library of Congress. Dit kan als tegenhanger van ISBN gebruikt worden en moet ook niet verward worden met Library of Congress-Classificatie (LCC).Gebaseerd op de structuur van de LCCN is de Library of Congress Name Authority File (LCNAF), een tegenhanger van Gemeinsame Normdatei (GND).Het Library of Congress Control Number kan ook in permalinks gebruikt worden.Bij het WikiData project kan LCCN als verklaring bij de lemma's worden gebruikt.,een voorbeeld LCCN van Vincent van Gogh:Q5582 is n79022935.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a2\u30e1\u30ea\u30ab\u8b70\u4f1a\u56f3\u66f8\u9928\u7ba1\u7406\u756a\u53f7\uff08\u30a2\u30e1\u30ea\u30ab\u304e\u304b\u3044\u3068\u3057\u3087\u304b\u3093\u304b\u3093\u308a\u3070\u3093\u3054\u3046\u3001\u82f1\u8a9e: Library of Congress Control Number\u3001LCCN\uff09\u3068\u306f\u30a2\u30e1\u30ea\u30ab\u8b70\u4f1a\u56f3\u66f8\u9928\u306b\u304a\u3051\u308b\u756a\u53f7\u4ed8\u3051\u76ee\u9332\u30ec\u30b3\u30fc\u30c9\u306e\u30b7\u30ea\u30a2\u30eb\u65b9\u5f0f\u30d9\u30fc\u30b9\u30b7\u30b9\u30c6\u30e0\u3067\u3042\u308b\u3002\u672c\u306e\u5185\u5bb9\u3068\u306f\u95a2\u4fc2\u304c\u306a\u304f\u3001\u30a2\u30e1\u30ea\u30ab\u8b70\u4f1a\u56f3\u66f8\u9928\u5206\u985e\u8868\u3068\u306e\u6df7\u540c\u306b\u6ce8\u610f\u3059\u308b\u5fc5\u8981\u304c\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La num\u00e9ro de contr\u00f4le de la Biblioth\u00e8que du Congr\u00e8s (en anglais Library of Congress Control Number ou LCCN) est un syst\u00e8me de num\u00e9rotation des enregistrements du catalogue de la Biblioth\u00e8que du Congr\u00e8s aux \u00c9tats-Unis. Elle ne concerne pas le contenu propre des ouvrages, et ne doit pas \u00eatre confondue avec la classification de la Biblioth\u00e8que du Congr\u00e8s.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u7f8e\u56fd\u56fd\u4f1a\u56fe\u4e66\u9986\u63a7\u5236\u53f7\uff08\u82f1\u8bed\uff1aLibrary of Congress Control Number\uff0c\u7b80\u79f0LCCN\uff09\u662f\u7f8e\u56fd\u56fd\u4f1a\u56fe\u4e66\u9986\u7528\u4e8e\u56fe\u4e66\u8bb0\u5f55\u3001\u7f16\u7801\u548c\u67e5\u8be2\u7684\u5e8f\u5217\u53f7\uff1b\u6bcf\u4e00\u672c\u4e66\u7c4d\u90fd\u6709\u76f8\u5bf9\u5e94\u7684\u63a7\u5236\u53f7\u3002\u8be5\u53f7\u7801\u4e0e\u4e66\u7c4d\u5185\u5bb9\u6ca1\u6709\u4e1d\u6beb\u5173\u7cfb\uff0c\u56e0\u6b64\u8bf7\u6ce8\u610f\u4e0d\u8981\u628a\u5b83\u4e0e\u7f8e\u56fd\u56fd\u4f1a\u56fe\u4e66\u9986\u56fe\u4e66\u5206\u7c7b\u6cd5\uff08\u7b80\u79f0LCC\uff09\u6df7\u6dc6\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Die Library of Congress Control Number (LCCN) ist ein Identifikator, der von der Library of Congress vergeben wird. Die LCCN, urspr\u00fcnglich \u201eLibrary of Congress Catalog Card Number\u201c, ist das Datenbank-Kennzeichen (Satznummer) eines Eintrages in der amerikanischen Nationalbibliographie einschlie\u00dflich der Normdaten; es wird in Feld 010 (und 001) der MARC-Dateien gef\u00fchrt. Ab 1901 bis zur Einf\u00fchrung des MARC-Dienstes konnten die amerikanischen Bibliotheken unter dieser Nummer Katalogkarten bei der Kongressbibliothek bestellen, darum finden sich diese Nummern h\u00e4ufig im Impressum amerikanischer B\u00fccher (vgl. heute Cataloging in Publication).",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "O N\u00famero de controle da Biblioteca do Congresso (em ingl\u00eas: Library of Congress Control Number), abreviado LCCN, \u00e9 um sistema baseado em n\u00fameros de s\u00e9rie para numerar os registos de cat\u00e1logo da Biblioteca do Congresso de Estados Unidos. Este sistema de numera\u00e7\u00e3o tem estado em uso desde 1898. N\u00e3o tem rela\u00e7\u00e3o alguma com os conte\u00fados dos livros, e n\u00e3o deve confundir-se com a Classifica\u00e7\u00e3o da Biblioteca do Congresso (LCC).",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "El Library of Congress Control Number (en ingl\u00e9s \u2018n\u00famero de control de la Biblioteca del Congreso\u2019), abreviado LCCN, es un sistema basado en n\u00fameros de serie para numerar los registros de cat\u00e1logo de la Biblioteca del Congreso de Estados Unidos. Este sistema de numeraci\u00f3n ha estado en uso desde 1898. No tiene relaci\u00f3n alguna con los contenidos de los libros, y no debe confundirse con la Clasificaci\u00f3n de la Biblioteca del Congreso (LCC).",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Library_of_Congress_Control_Number"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Library_of_Congress_Control_Number"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Library_of_Congress_Control_Number"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q620946"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Library_of_Congress_Control_Number"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30a2\u30e1\u30ea\u30ab\u8b70\u4f1a\u56f3\u66f8\u9928\u7ba1\u7406\u756a\u53f7"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/N\u00famero_de_controle_da_Biblioteca_do_Congresso"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Library_of_Congress_Control_Number"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Library_of_Congress_Control_Number"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ubbf8\uad6d_\uc758\ud68c\ub3c4\uc11c\uad00_\uc81c\uc5b4_\ubc88\ud638"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Library_of_Congress_Control_Number"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Library_of_Congress_Control_Number"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q620946"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Num\u00e9ro_de_contr\u00f4le_de_la_Biblioth\u00e8que_du_Congr\u00e8s"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0391\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2_\u0395\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5_\u03c4\u03b7\u03c2_\u0392\u03b9\u03b2\u03bb\u03b9\u03bf\u03b8\u03ae\u03ba\u03b7\u03c2_\u03c4\u03bf\u03c5_\u039a\u03bf\u03b3\u03ba\u03c1\u03ad\u03c3\u03bf\u03c5"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.055jxf"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Library_cataloging_and_classification"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Library_of_Congress"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Identifiers"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Library_of_Congress_Control_Number"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Library_of_Congress_Control_Number?oldid=734080618"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://lccn.loc.gov/lccnperm-faq.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.loc.gov/authorities/names.html"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.libraries.psu.edu/psul/cataloging/training/bpcr/010.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.loc.gov/marc/lccn-namespace.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.loc.gov/marc/lccn_structure.html"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u30a2\u30e1\u30ea\u30ab\u8b70\u4f1a\u56f3\u66f8\u9928\u7ba1\u7406\u756a\u53f7\uff08\u30a2\u30e1\u30ea\u30ab\u304e\u304b\u3044\u3068\u3057\u3087\u304b\u3093\u304b\u3093\u308a\u3070\u3093\u3054\u3046\u3001\u82f1\u8a9e: Library of Congress Control Number\u3001LCCN\uff09\u3068\u306f\u30a2\u30e1\u30ea\u30ab\u8b70\u4f1a\u56f3\u66f8\u9928\u306b\u304a\u3051\u308b\u756a\u53f7\u4ed8\u3051\u76ee\u9332\u30ec\u30b3\u30fc\u30c9\u306e\u30b7\u30ea\u30a2\u30eb\u65b9\u5f0f\u30d9\u30fc\u30b9\u30b7\u30b9\u30c6\u30e0\u3067\u3042\u308b\u3002\u672c\u306e\u5185\u5bb9\u3068\u306f\u95a2\u4fc2\u304c\u306a\u304f\u3001\u30a2\u30e1\u30ea\u30ab\u8b70\u4f1a\u56f3\u66f8\u9928\u5206\u985e\u8868\u3068\u306e\u6df7\u540c\u306b\u6ce8\u610f\u3059\u308b\u5fc5\u8981\u304c\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Die Library of Congress Control Number (LCCN) ist ein Identifikator, der von der Library of Congress vergeben wird. Die LCCN, urspr\u00fcnglich \u201eLibrary of Congress Catalog Card Number\u201c, ist das Datenbank-Kennzeichen (Satznummer) eines Eintrages in der amerikanischen Nationalbibliographie einschlie\u00dflich der Normdaten; es wird in Feld 010 (und 001) der MARC-Dateien gef\u00fchrt. Ab 1901 bis zur Einf\u00fchrung des MARC-Dienstes konnten die amerikanischen Bibliotheken unter dieser Nummer Katalogkarten bei der Kongressbibliothek bestellen, darum finden sich diese Nummern h\u00e4ufig im Impressum amerikanischer B\u00fccher (vgl. heute Cataloging in Publication). Das System ist seit 1898 in Gebrauch. Es ist unabh\u00e4ngig vom Inhalt eines Buches und sollte auch nicht mit der Library of Congress Classification (LCC) verwechselt werden. Auch die Library of Congress Authorities (LCAuth), ein Pendant zur Gemeinsamen Normdatei (GND), greifen auf die Struktur der LCCN zur\u00fcck.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "The Library of Congress Control Number (LCCN) is a serially based system of numbering cataloging records in the Library of Congress in the United States. It has nothing to do with the contents of any book, and should not be confused with Library of Congress Classification.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Il Library of Congress Control Number o LCCN \u00e8 un sistema seriale di numerazione delle schede del catalogo della Library of Congress (Biblioteca del Congresso) degli Stati Uniti. Non ha niente a che fare con il contenuto dei libri, e non deve essere confuso con il Library of Congress Classification (sistema di classificazione della Biblioteca del Congresso).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "La num\u00e9ro de contr\u00f4le de la Biblioth\u00e8que du Congr\u00e8s (en anglais Library of Congress Control Number ou LCCN) est un syst\u00e8me de num\u00e9rotation des enregistrements du catalogue de la Biblioth\u00e8que du Congr\u00e8s aux \u00c9tats-Unis. Elle ne concerne pas le contenu propre des ouvrages, et ne doit pas \u00eatre confondue avec la classification de la Biblioth\u00e8que du Congr\u00e8s.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0430\u043d\u0433\u043b. Library of Congress Control Number, LCCN (\u043f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e \u2014 Library of Congress Catalog Card Number; \u0434\u043e\u043f\u0443\u0441\u043a\u0430\u0435\u0442\u0441\u044f \u2014 Library of Congress) \u2014 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441\u0430 \u0421\u0428\u0410, \u0441\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0447\u0438\u0441\u043b\u043e\u0432\u043e\u0439 (\u0434\u043b\u044f \u0438\u0437\u0434\u0430\u043d\u0438\u0439) \u0438\u043b\u0438 \u0431\u0443\u043a\u0432\u0435\u043d\u043d\u043e-\u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 (\u0434\u043b\u044f \u043f\u0435\u0440\u0441\u043e\u043d \u0438 \u0442\u0435\u043c) \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0430\u043f\u0438\u0441\u0435\u0439 \u0432 \u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0435 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441\u0430 \u0421\u0428\u0410, \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445 \u0438 \u0438\u043d\u0434\u0438\u043a\u0430\u0442\u043e\u0440 \u0437\u0430\u043f\u0438\u0441\u0438 \u0432 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0439 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0431\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0438.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Library of Congress Control Number (LCCN) is een identifier die wordt uitgegeven door het Library of Congress. Dit kan als tegenhanger van ISBN gebruikt worden en moet ook niet verward worden met Library of Congress-Classificatie (LCC).Gebaseerd op de structuur van de LCCN is de Library of Congress Name Authority File (LCNAF), een tegenhanger van Gemeinsame Normdatei (GND).Het Library of Congress Control Number kan ook in permalinks gebruikt worden.Bij het WikiData project kan LCCN als verklaring bij de lemma's worden gebruikt.,een voorbeeld LCCN van Vincent van Gogh:Q5582 is n79022935.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u7f8e\u56fd\u56fd\u4f1a\u56fe\u4e66\u9986\u63a7\u5236\u53f7\uff08\u82f1\u8bed\uff1aLibrary of Congress Control Number\uff0c\u7b80\u79f0LCCN\uff09\u662f\u7f8e\u56fd\u56fd\u4f1a\u56fe\u4e66\u9986\u7528\u4e8e\u56fe\u4e66\u8bb0\u5f55\u3001\u7f16\u7801\u548c\u67e5\u8be2\u7684\u5e8f\u5217\u53f7\uff1b\u6bcf\u4e00\u672c\u4e66\u7c4d\u90fd\u6709\u76f8\u5bf9\u5e94\u7684\u63a7\u5236\u53f7\u3002\u8be5\u53f7\u7801\u4e0e\u4e66\u7c4d\u5185\u5bb9\u6ca1\u6709\u4e1d\u6beb\u5173\u7cfb\uff0c\u56e0\u6b64\u8bf7\u6ce8\u610f\u4e0d\u8981\u628a\u5b83\u4e0e\u7f8e\u56fd\u56fd\u4f1a\u56fe\u4e66\u9986\u56fe\u4e66\u5206\u7c7b\u6cd5\uff08\u7b80\u79f0LCC\uff09\u6df7\u6dc6\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "El Library of Congress Control Number (en ingl\u00e9s \u2018n\u00famero de control de la Biblioteca del Congreso\u2019), abreviado LCCN, es un sistema basado en n\u00fameros de serie para numerar los registros de cat\u00e1logo de la Biblioteca del Congreso de Estados Unidos. Este sistema de numeraci\u00f3n ha estado en uso desde 1898. No tiene relaci\u00f3n alguna con los contenidos de los libros, y no debe confundirse con la Clasificaci\u00f3n de la Biblioteca del Congreso (LCC). El acr\u00f3nimo LCCN alud\u00eda originalmente a Library of Congress Card Number (\u2018n\u00famero de tarjeta de la Biblioteca del Congreso\u2019), ya que la Biblioteca del Congreso preparaba tarjetas de informaci\u00f3n bibliogr\u00e1fica para su cat\u00e1logo y vend\u00eda conjuntos duplicados de las tarjetas a otras bibliotecas para usarlos en sus cat\u00e1logos. Esta costumbre se conoc\u00eda como catalogaci\u00f3n centralizada. A cada conjunto de tarjetas se daba un n\u00famero de serie para facilitar su identificaci\u00f3n. Como la mayor\u00eda de la informaci\u00f3n bibliogr\u00e1fica se crea, almacena y comparte actualmente de forma digital, sigue existiendo la necesidad de identificar un\u00edvocamente cada registro, realizando a\u00fan el LCCN esta funci\u00f3n. En su forma m\u00e1s elemental el n\u00famero incluye un a\u00f1o y un n\u00famero de serie. Al a\u00f1o tiene dos d\u00edgitos desde 1898 a 2000, y cuatro d\u00edgitos a partir de 2001. Los tres a\u00f1os ambiguos se distinguen por la longitud del n\u00famero de serie. Hay tambi\u00e9n algunas peculiaridades con los n\u00fameros que empiezan por un \u00ab7\u00bb debido a un experimento fallido llevado a cabo entre 1969 y 1972. Los n\u00fameros de serie tienen seis d\u00edgitos y deben incluir ceros a la izquierda. El guion que a menudo separa el a\u00f1o y el n\u00famero de serie es opcional. M\u00e1s recientemente, la Biblioteca del Congreso ha indicado a los editores que no lo incluyan. Los bibliotecarios de todo el mundo usan este identificador un\u00edvoco en el proceso de catalogar la mayor\u00eda de los libros que han sido publicados en los Estados Unidos. Esto les ayuda a corregir los datos de catalogaci\u00f3n (conocidos como registro de cat\u00e1logo), que la Biblioteca del Congreso y terceros ponen a disposici\u00f3n en la web y por otros medios.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0631\u0642\u0645 \u0627\u0644\u0636\u0628\u0637 \u0641\u064a \u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0631\u0633 \u0627\u0644\u0645\u0639\u0631\u0648\u0641\u0629 \u0628\u0627\u0644\u0631\u0645\u0648\u0632 LCCN \u0647\u0648 \u0646\u0638\u0627\u0645 \u064a\u0639\u062a\u0645\u062f \u0627\u0644\u0623\u0631\u0642\u0627\u0645 \u0627\u0644\u0645\u062a\u0633\u0644\u0633\u0644\u0629 \u0644\u0641\u0647\u0631\u0633\u0629 \u0627\u0644\u0643\u062a\u0628 \u0641\u064a \u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0631\u0633. \u0648\u0647\u0648 \u063a\u064a\u0631 \u0645\u0631\u062a\u0628\u0637 \u0628\u0646\u0638\u0627\u0645 \u062a\u0635\u0646\u064a\u0641 \u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0631\u0633.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "O N\u00famero de controle da Biblioteca do Congresso (em ingl\u00eas: Library of Congress Control Number), abreviado LCCN, \u00e9 um sistema baseado em n\u00fameros de s\u00e9rie para numerar os registos de cat\u00e1logo da Biblioteca do Congresso de Estados Unidos. Este sistema de numera\u00e7\u00e3o tem estado em uso desde 1898. N\u00e3o tem rela\u00e7\u00e3o alguma com os conte\u00fados dos livros, e n\u00e3o deve confundir-se com a Classifica\u00e7\u00e3o da Biblioteca do Congresso (LCC).",
+                "lang": "pt"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 734080618,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 1491462,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LCCN_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Library_of_Congress_Control_Number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LCN": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Library_of_Congress_Control_Number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/LCCCN": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Library_of_Congress_Control_Number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Library_of_Congress_Catalog_Number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Library_of_Congress_Control_Number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Library_of_Congress_Catalog_Record": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Library_of_Congress_Control_Number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Library_of_Congress_Catalog_Card": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Library_of_Congress_Control_Number"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Library_of_Congress_Card_Catalog_Number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Library_of_Congress_Control_Number"
+            }
+        ]
+    }
+}

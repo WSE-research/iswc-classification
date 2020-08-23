@@ -1,0 +1,37 @@
+{
+    "@text": "What is the county seat of Jerusalem, whose name originates from the Tribe of Judah.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/County_seat",
+            "@support": "16036",
+            "@types": "",
+            "@surfaceForm": "county seat",
+            "@offset": "12",
+            "@similarityScore": "0.9999982716780821",
+            "@percentageOfSecondRank": "7.598465390900386E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Jerusalem",
+            "@support": "46669",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Jerusalem",
+            "@offset": "27",
+            "@similarityScore": "0.9999237315585178",
+            "@percentageOfSecondRank": "3.2317370175787236E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Kingdom_of_Judah",
+            "@support": "1881",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Judah",
+            "@offset": "78",
+            "@similarityScore": "0.6395237146072368",
+            "@percentageOfSecondRank": "0.5619617226930033"
+        }
+    ]
+}

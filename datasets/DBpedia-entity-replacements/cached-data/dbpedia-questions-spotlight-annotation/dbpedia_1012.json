@@ -1,0 +1,37 @@
+{
+    "@text": "When did Romario receive the World Cup Golden Ball?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Rom\u00e1rio",
+            "@support": "353",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Romario",
+            "@offset": "9",
+            "@similarityScore": "0.997188255887785",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/FIFA_World_Cup",
+            "@support": "18251",
+            "@types": "",
+            "@surfaceForm": "World Cup",
+            "@offset": "29",
+            "@similarityScore": "0.9362956698038629",
+            "@percentageOfSecondRank": "0.022671387610684667"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/FIFA_World_Cup_awards",
+            "@support": "756",
+            "@types": "",
+            "@surfaceForm": "Golden Ball",
+            "@offset": "39",
+            "@similarityScore": "0.8479699984915193",
+            "@percentageOfSecondRank": "0.1550490604408517"
+        }
+    ]
+}

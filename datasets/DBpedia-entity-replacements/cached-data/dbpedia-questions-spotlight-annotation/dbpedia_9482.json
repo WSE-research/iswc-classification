@@ -1,0 +1,37 @@
+{
+    "@text": "Who replaced Benjamin Harrison as President of the United States?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Benjamin_Harrison",
+            "@support": "1457",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Benjamin Harrison",
+            "@offset": "13",
+            "@similarityScore": "0.9985290491006806",
+            "@percentageOfSecondRank": "0.001473117699135622"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+            "@support": "51563",
+            "@types": "",
+            "@surfaceForm": "President",
+            "@offset": "34",
+            "@similarityScore": "0.9713681751107474",
+            "@percentageOfSecondRank": "0.015597471338140226"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "51",
+            "@similarityScore": "0.9999034670637381",
+            "@percentageOfSecondRank": "5.561313955572137E-5"
+        }
+    ]
+}

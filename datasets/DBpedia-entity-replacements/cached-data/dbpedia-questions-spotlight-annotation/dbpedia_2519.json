@@ -1,0 +1,37 @@
+{
+    "@text": "Where is the head office location of Miss World, whose twin city is Los Angeles?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Miss_World",
+            "@support": "3926",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "Miss World",
+            "@offset": "37",
+            "@similarityScore": "0.9993835519636967",
+            "@percentageOfSecondRank": "2.850723541685351E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "twin city",
+            "@offset": "55",
+            "@similarityScore": "0.9288000204921469",
+            "@percentageOfSecondRank": "0.07665802964414918"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Los_Angeles",
+            "@support": "110438",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Los Angeles",
+            "@offset": "68",
+            "@similarityScore": "0.9996759576359138",
+            "@percentageOfSecondRank": "1.7920032358427116E-4"
+        }
+    ]
+}

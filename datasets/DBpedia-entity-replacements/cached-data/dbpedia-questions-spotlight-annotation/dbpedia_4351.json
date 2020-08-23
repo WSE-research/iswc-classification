@@ -1,0 +1,28 @@
+{
+    "@text": "What is {population} of {Los Lagos Region} where {determination method} is {census} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Los_Lagos_Region",
+            "@support": "346",
+            "@types": "",
+            "@surfaceForm": "Los Lagos Region",
+            "@offset": "25",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Census",
+            "@support": "100640",
+            "@types": "",
+            "@surfaceForm": "census",
+            "@offset": "76",
+            "@similarityScore": "0.9994185068128447",
+            "@percentageOfSecondRank": "1.7606302211534792E-4"
+        }
+    ]
+}

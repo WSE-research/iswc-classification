@@ -1,0 +1,37 @@
+{
+    "@text": "Name a former municipality of the Netherlands that shares a border with Rotterdam",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Municipality",
+            "@support": "25072",
+            "@types": "",
+            "@surfaceForm": "municipality",
+            "@offset": "14",
+            "@similarityScore": "0.7993115929261431",
+            "@percentageOfSecondRank": "0.1353745897205243"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Netherlands",
+            "@support": "101149",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Netherlands",
+            "@offset": "34",
+            "@similarityScore": "0.99921967237282",
+            "@percentageOfSecondRank": "6.290706204638083E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rotterdam",
+            "@support": "9890",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Rotterdam",
+            "@offset": "72",
+            "@similarityScore": "0.9995480457570353",
+            "@percentageOfSecondRank": "2.450397897992056E-4"
+        }
+    ]
+}

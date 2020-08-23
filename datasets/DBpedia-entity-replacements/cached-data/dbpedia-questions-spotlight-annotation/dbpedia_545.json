@@ -1,0 +1,37 @@
+{
+    "@text": "What is the death location, whose partner city is Jakarta, of Samuel Butler?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "42",
+            "@similarityScore": "0.8680524408128498",
+            "@percentageOfSecondRank": "0.10286175678865465"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Jakarta",
+            "@support": "13669",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Jakarta",
+            "@offset": "50",
+            "@similarityScore": "0.9999885534211336",
+            "@percentageOfSecondRank": "7.056085817493297E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Samuel_Butler_(novelist)",
+            "@support": "258",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Samuel Butler",
+            "@offset": "62",
+            "@similarityScore": "0.6578319493735639",
+            "@percentageOfSecondRank": "0.27774628899237935"
+        }
+    ]
+}

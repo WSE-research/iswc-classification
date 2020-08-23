@@ -1,0 +1,37 @@
+{
+    "@text": "Which Class IB flammable liquid has maximum partition coefficient water/octanol?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/International_Baccalaureate",
+            "@support": "3201",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "IB",
+            "@offset": "12",
+            "@similarityScore": "0.9286061851726917",
+            "@percentageOfSecondRank": "0.0592060461079351"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Partition_coefficient",
+            "@support": "166",
+            "@types": "",
+            "@surfaceForm": "partition coefficient",
+            "@offset": "44",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Octanol",
+            "@support": "41",
+            "@types": "",
+            "@surfaceForm": "octanol",
+            "@offset": "72",
+            "@similarityScore": "0.9997858022265076",
+            "@percentageOfSecondRank": "2.142436640008439E-4"
+        }
+    ]
+}

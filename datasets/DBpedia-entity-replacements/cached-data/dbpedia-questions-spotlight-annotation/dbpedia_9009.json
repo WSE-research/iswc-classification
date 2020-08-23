@@ -1,0 +1,37 @@
+{
+    "@text": "What is the geography of the planet, Mars?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Geography",
+            "@support": "6220",
+            "@types": "",
+            "@surfaceForm": "geography",
+            "@offset": "12",
+            "@similarityScore": "0.9997286556803361",
+            "@percentageOfSecondRank": "2.1536263286061195E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Planet",
+            "@support": "8601",
+            "@types": "",
+            "@surfaceForm": "planet",
+            "@offset": "29",
+            "@similarityScore": "0.9925775797265948",
+            "@percentageOfSecondRank": "0.0032174695588123936"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mars",
+            "@support": "27356",
+            "@types": "Wikidata:Q634,Schema:Place,DBpedia:Planet,DBpedia:Place,DBpedia:Location,DBpedia:CelestialBody",
+            "@surfaceForm": "Mars",
+            "@offset": "37",
+            "@similarityScore": "0.9996635523326216",
+            "@percentageOfSecondRank": "3.046238629955954E-4"
+        }
+    ]
+}

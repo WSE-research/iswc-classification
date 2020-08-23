@@ -1,0 +1,37 @@
+{
+    "@text": "which apple cultivar with highest shelf life?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Apple",
+            "@support": "4648",
+            "@types": "Wikidata:Q756,Wikidata:Q19088,DBpedia:Species,DBpedia:Plant,DBpedia:Eukaryote",
+            "@surfaceForm": "apple",
+            "@offset": "6",
+            "@similarityScore": "0.9995614768399234",
+            "@percentageOfSecondRank": "2.4243838929829064E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cultivar",
+            "@support": "5977",
+            "@types": "",
+            "@surfaceForm": "cultivar",
+            "@offset": "12",
+            "@similarityScore": "0.9999998986084984",
+            "@percentageOfSecondRank": "9.644410357227371E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Shelf_life",
+            "@support": "462",
+            "@types": "",
+            "@surfaceForm": "shelf life",
+            "@offset": "34",
+            "@similarityScore": "0.9999999999999716",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

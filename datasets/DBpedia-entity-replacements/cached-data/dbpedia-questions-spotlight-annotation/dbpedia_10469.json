@@ -1,0 +1,37 @@
+{
+    "@text": "Who is wedded to Cindy Crawford, whose award is the Golden Globe Award for Best Actor - Motion Picture Musical or Comedy?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Cindy_Crawford",
+            "@support": "301",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q4610556,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Model,DBpedia:Agent",
+            "@surfaceForm": "Cindy Crawford",
+            "@offset": "17",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Golden_Globe_Award",
+            "@support": "8110",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Golden Globe Award",
+            "@offset": "52",
+            "@similarityScore": "0.999999999999261",
+            "@percentageOfSecondRank": "2.299782339583491E-13"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Award_for_Best_Actor",
+            "@support": "2328",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Best Actor",
+            "@offset": "75",
+            "@similarityScore": "0.9827404165902963",
+            "@percentageOfSecondRank": "0.010539857276186235"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Name some basketball players whose team is coached by Fred Hoiberg?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Basketball",
+            "@support": "84173",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "basketball",
+            "@offset": "10",
+            "@similarityScore": "0.9890934153686705",
+            "@percentageOfSecondRank": "0.010970918279078735"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Fred_Hoiberg",
+            "@support": "75",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q3665646,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:BasketballPlayer,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Fred Hoiberg",
+            "@offset": "54",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

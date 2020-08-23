@@ -1,0 +1,37 @@
+{
+    "@text": "At what {point in time} was {Billy Ray Cyrus} {nominated for} the {Grammy Award for Best Male Country Vocal Performance}?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Billy_Ray_Cyrus",
+            "@support": "627",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Billy Ray Cyrus",
+            "@offset": "29",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Grammy_Award",
+            "@support": "22241",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Grammy Award",
+            "@offset": "67",
+            "@similarityScore": "0.9996232472657139",
+            "@percentageOfSecondRank": "1.805244336784777E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Grammy_Award_for_Best_Male_Country_Vocal_Performance",
+            "@support": "108",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Best Male Country Vocal Performance",
+            "@offset": "84",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

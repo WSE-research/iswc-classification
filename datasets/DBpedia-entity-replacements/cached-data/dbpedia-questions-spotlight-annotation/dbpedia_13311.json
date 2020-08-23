@@ -1,0 +1,46 @@
+{
+    "@text": "Is it true that Billie Jean King was a member of both United States Fed Cup team and United States Wightman Cup team?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Billie_Jean",
+            "@support": "486",
+            "@types": "Wikidata:Q386724,Wikidata:Q2188189,Wikidata:Q134556,Schema:CreativeWork,DBpedia:Work,DBpedia:Single,DBpedia:MusicalWork",
+            "@surfaceForm": "Billie Jean",
+            "@offset": "16",
+            "@similarityScore": "0.9993950636549149",
+            "@percentageOfSecondRank": "6.053025007064003E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States_Fed_Cup_team",
+            "@support": "248",
+            "@types": "",
+            "@surfaceForm": "United States Fed Cup team",
+            "@offset": "54",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "85",
+            "@similarityScore": "0.9958414311583592",
+            "@percentageOfSecondRank": "0.0036317083938709107"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Wightman_Cup",
+            "@support": "148",
+            "@types": "",
+            "@surfaceForm": "Wightman Cup",
+            "@offset": "99",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

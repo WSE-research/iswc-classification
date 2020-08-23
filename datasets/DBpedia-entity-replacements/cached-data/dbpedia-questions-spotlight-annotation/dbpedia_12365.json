@@ -1,0 +1,37 @@
+{
+    "@text": "What is the tributary of the reservoir on this river of Sulak River?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Tributary",
+            "@support": "17917",
+            "@types": "",
+            "@surfaceForm": "tributary",
+            "@offset": "12",
+            "@similarityScore": "0.999999627333919",
+            "@percentageOfSecondRank": "1.8405852407501865E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Reservoir",
+            "@support": "10806",
+            "@types": "",
+            "@surfaceForm": "reservoir",
+            "@offset": "29",
+            "@similarityScore": "0.9998497739599461",
+            "@percentageOfSecondRank": "1.0373459963298077E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sulak_River",
+            "@support": "32",
+            "@types": "Wikidata:Q47521,Wikidata:Q4022,Schema:RiverBodyOfWater,Schema:Place,Schema:BodyOfWater,DBpedia:Stream,DBpedia:River,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "Sulak River",
+            "@offset": "56",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

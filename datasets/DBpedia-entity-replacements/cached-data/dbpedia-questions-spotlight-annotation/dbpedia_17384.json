@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the director of photography and the director of The Empire Strikes Back?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Photography",
+            "@support": "10696",
+            "@types": "",
+            "@surfaceForm": "photography",
+            "@offset": "23",
+            "@similarityScore": "0.9989982337564481",
+            "@percentageOfSecondRank": "8.801774053307517E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Roman_Empire",
+            "@support": "30520",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Empire",
+            "@offset": "59",
+            "@similarityScore": "0.5627314384732679",
+            "@percentageOfSecondRank": "0.3686759098727409"
+        }
+    ]
+}

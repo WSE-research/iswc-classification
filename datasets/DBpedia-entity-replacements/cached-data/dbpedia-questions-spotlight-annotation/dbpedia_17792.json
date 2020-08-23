@@ -1,0 +1,37 @@
+{
+    "@text": "which is the {character role} for {David Hasselhoff} that has {participant of} as {Baywatch} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Character_actor",
+            "@support": "1641",
+            "@types": "",
+            "@surfaceForm": "character role",
+            "@offset": "14",
+            "@similarityScore": "0.999999998250729",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/David_Hasselhoff",
+            "@support": "669",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "David Hasselhoff",
+            "@offset": "35",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Baywatch",
+            "@support": "1026",
+            "@types": "Wikidata:Q386724,Wikidata:Q15416,Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow",
+            "@surfaceForm": "Baywatch",
+            "@offset": "83",
+            "@similarityScore": "0.9999999995171294",
+            "@percentageOfSecondRank": "4.817893924312744E-10"
+        }
+    ]
+}

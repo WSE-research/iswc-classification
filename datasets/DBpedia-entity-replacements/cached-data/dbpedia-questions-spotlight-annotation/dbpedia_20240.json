@@ -1,0 +1,28 @@
+{
+    "@text": "Is David Cameron the prime minister of Nick Clegg?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/David_Cameron",
+            "@support": "4096",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "David Cameron",
+            "@offset": "3",
+            "@similarityScore": "0.9992992116497532",
+            "@percentageOfSecondRank": "7.012797989176153E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Nick_Clegg",
+            "@support": "823",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Nick Clegg",
+            "@offset": "39",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

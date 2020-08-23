@@ -1,0 +1,28 @@
+{
+    "@text": "In which city is the headquarter of Air China?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "9",
+            "@similarityScore": "0.8199568632372546",
+            "@percentageOfSecondRank": "0.14546779332582047"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Air_China",
+            "@support": "402",
+            "@types": "Wikidata:Q46970,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline,DBpedia:Agent",
+            "@surfaceForm": "Air China",
+            "@offset": "36",
+            "@similarityScore": "0.9999999991188417",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

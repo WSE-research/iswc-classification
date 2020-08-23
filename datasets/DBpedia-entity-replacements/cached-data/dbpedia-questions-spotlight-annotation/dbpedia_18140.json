@@ -1,0 +1,37 @@
+{
+    "@text": "Name the television show whose theme music is composed by Julian Gingell and broadcasted on FOX ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Theme_music",
+            "@support": "2510",
+            "@types": "",
+            "@surfaceForm": "theme music",
+            "@offset": "31",
+            "@similarityScore": "0.9991399271091246",
+            "@percentageOfSecondRank": "5.009120017373193E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Julian_Gingell",
+            "@support": "17",
+            "@types": "",
+            "@surfaceForm": "Julian Gingell",
+            "@offset": "58",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Fox_Broadcasting_Company",
+            "@support": "25425",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q15265344,Wikidata:Q141683,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,DBpedia:BroadcastNetwork,DBpedia:Agent",
+            "@surfaceForm": "FOX",
+            "@offset": "92",
+            "@similarityScore": "0.9934642147767873",
+            "@percentageOfSecondRank": "0.00575696691574795"
+        }
+    ]
+}

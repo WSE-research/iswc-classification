@@ -1,0 +1,28 @@
+{
+    "@text": "Which currency is primarily used by the company which is the distributing label of VDE-Gallo Records?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Currency",
+            "@support": "6095",
+            "@types": "",
+            "@surfaceForm": "currency",
+            "@offset": "6",
+            "@similarityScore": "0.9992475436554684",
+            "@percentageOfSecondRank": "2.2620602295084197E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/VDE-Gallo_Records",
+            "@support": "2",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q18127,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:RecordLabel,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "VDE-Gallo Records",
+            "@offset": "83",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

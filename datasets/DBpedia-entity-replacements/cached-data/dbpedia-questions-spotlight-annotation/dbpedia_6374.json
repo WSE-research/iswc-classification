@@ -1,0 +1,28 @@
+{
+    "@text": "What city is governed by the Bank of Upper Canada Building?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "5",
+            "@similarityScore": "0.9046384653874281",
+            "@percentageOfSecondRank": "0.054324840480147546"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Upper_Canada",
+            "@support": "4878",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Upper Canada",
+            "@offset": "37",
+            "@similarityScore": "0.9997655175496801",
+            "@percentageOfSecondRank": "2.3453744522553355E-4"
+        }
+    ]
+}

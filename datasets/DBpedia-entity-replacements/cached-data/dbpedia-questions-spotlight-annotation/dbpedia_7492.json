@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the eBird taxon ID for bald eagle?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/EBird",
+            "@support": "44",
+            "@types": "Wikidata:Q386724,Schema:WebPage,Schema:CreativeWork,DBpedia:Work,DBpedia:Website",
+            "@surfaceForm": "eBird",
+            "@offset": "13",
+            "@similarityScore": "0.9999999655683075",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "19",
+            "@similarityScore": "0.9997555662811942",
+            "@percentageOfSecondRank": "2.424928552874244E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bald_eagle",
+            "@support": "1962",
+            "@types": "",
+            "@surfaceForm": "bald eagle",
+            "@offset": "32",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

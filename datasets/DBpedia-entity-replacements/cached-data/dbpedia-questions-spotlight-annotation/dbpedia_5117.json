@@ -1,0 +1,37 @@
+{
+    "@text": "Did William Henry Harrison hold the offices of Governor of Indiana and United States senator?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/William_Henry_Harrison",
+            "@support": "1418",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "William Henry Harrison",
+            "@offset": "4",
+            "@similarityScore": "0.9999999999905071",
+            "@percentageOfSecondRank": "7.862367778822633E-12"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Indiana",
+            "@support": "49179",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Indiana",
+            "@offset": "59",
+            "@similarityScore": "0.9997369077955482",
+            "@percentageOfSecondRank": "2.457399458491665E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States_Senate",
+            "@support": "46009",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q11204,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature,DBpedia:Agent",
+            "@surfaceForm": "United States senator",
+            "@offset": "71",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

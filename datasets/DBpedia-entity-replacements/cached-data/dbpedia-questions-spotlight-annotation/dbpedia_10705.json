@@ -1,0 +1,37 @@
+{
+    "@text": "What is the event location of the Battle of the Atlantic, which has a tributary of River Pol?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Atlantic_Ocean",
+            "@support": "24867",
+            "@types": "Schema:Place,Schema:BodyOfWater,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "Atlantic",
+            "@offset": "48",
+            "@similarityScore": "0.9896687427126123",
+            "@percentageOfSecondRank": "0.008246786086577758"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tributary",
+            "@support": "17917",
+            "@types": "",
+            "@surfaceForm": "tributary",
+            "@offset": "70",
+            "@similarityScore": "0.9999975766455211",
+            "@percentageOfSecondRank": "1.2703731218898938E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/River_Pol",
+            "@support": "6",
+            "@types": "Wikidata:Q47521,Wikidata:Q4022,Schema:RiverBodyOfWater,Schema:Place,Schema:BodyOfWater,DBpedia:Stream,DBpedia:River,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "River Pol",
+            "@offset": "83",
+            "@similarityScore": "0.999999996184485",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

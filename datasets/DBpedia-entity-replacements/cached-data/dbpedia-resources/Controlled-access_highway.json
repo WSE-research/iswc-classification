@@ -1,0 +1,828 @@
+{
+    "http://dbpedia.org/resource/Autobahn": {
+        "http://dbpedia.org/property/label": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pacific_Motorway_(Sydney\u2013Newcastle)": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Controlled-access_highway": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Artifact100021939"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoGeoEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Highway103519981"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Road104096066"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Road"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Way104564698"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatControlled-accessHighways"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Autostrada",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Autoroute",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u9ad8\u901f\u9053\u8def",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Autoestrada",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Autopista",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Controlled-access highway",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Autobahn",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Autosnelweg",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0637\u0631\u064a\u0642 \u0633\u064a\u0627\u0631",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0410\u0432\u0442\u043e\u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Autostrada",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u9ad8\u901f\u516c\u8def",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u9ad8\u901f\u516c\u8def\u4e00\u822c\u662f\u6307\u53cc\u54112\u689d\u8f66\u9053\u4ee5\u4e0a\u3001\u96d9\u5411\u5206\u9694\u884c\u9a76\u3001\u5b8c\u5168\u63a7\u5236\u51fa\u5165\u53e3\u3001\u5168\u90e8\u91c7\u7528\u4e24\u65c1\u5c01\u95ed\u548c\u7acb\u4f53\u4ea4\u53c9\u6865\u6881\u3001\u5730\u4e0b\u96a7\u9053\u4e0e\u531d\u9053\uff0c\u65f6\u901f\u9650\u5236\u6bd4\u666e\u901a\u516c\u8def\u8f03\u9ad8\u7684\u884c\u99db\u9053\u8def\u3002\u7279\u70b9\u662f\u8f66\u901f\u5feb\u3001\u4ea4\u901a\u91cf\u5927\u548c\u6709\u8f83\u9ad8\u7684\u8fd0\u8f93\u7ecf\u6d4e\u6548\u76ca\u53ca\u793e\u4f1a\u6548\u76ca\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0410\u0432\u0442\u043e\u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0301\u043b\u044c \u2014 \u0434\u043e\u0440\u043e\u0433\u0430 \u0434\u043b\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u043d\u043e\u0433\u043e \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439, \u043d\u0435 \u0438\u043c\u0435\u044e\u0449\u0430\u044f \u043e\u0434\u043d\u043e\u0443\u0440\u043e\u0432\u043d\u0435\u0432\u044b\u0445 \u043f\u0435\u0440\u0435\u0441\u0435\u0447\u0435\u043d\u0438\u0439 \u0441 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u0434\u043e\u0440\u043e\u0433\u0430\u043c\u0438, \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u043c\u0438 \u0438\u043b\u0438 \u0442\u0440\u0430\u043c\u0432\u0430\u0439\u043d\u044b\u043c\u0438 \u043f\u0443\u0442\u044f\u043c\u0438, \u043f\u0435\u0448\u0435\u0445\u043e\u0434\u043d\u044b\u043c\u0438 \u0438\u043b\u0438 \u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u043d\u044b\u043c\u0438 \u0434\u043e\u0440\u043e\u0436\u043a\u0430\u043c\u0438. \u041f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0430 \u0434\u043b\u044f \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u0441 \u0432\u044b\u0441\u043e\u043a\u043e\u0439 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c\u044e, \u043f\u0440\u043e\u0435\u0437\u0436\u0438\u0435 \u0447\u0430\u0441\u0442\u0438 \u0434\u043b\u044f \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0440\u0430\u0437\u0434\u0435\u043b\u0435\u043d\u044b \u0431\u0430\u0440\u044c\u0435\u0440\u043e\u043c \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u0438\u043c \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u043e-\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c \u0438 \u0438\u043c\u0435\u044e\u0442 \u043d\u0435 \u043c\u0435\u043d\u0435\u0435 \u0434\u0432\u0443\u0445 \u043f\u043e\u043b\u043e\u0441 \u0434\u043b\u044f \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0432 \u043a\u0430\u0436\u0434\u043e\u043c \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0447\u0430\u0441\u0442\u043e \u0448\u0438\u0440\u043e\u043a\u0443\u044e \u043e\u0431\u043e\u0447\u0438\u043d\u0443 \u0434\u043b\u044f \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439 \u0432 \u043d\u0435\u043f\u0440\u0435\u0434\u0432\u0438\u0434\u0435\u043d\u043d\u044b\u0445 \u0441\u043b\u0443\u0447\u0430\u044f\u0445.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Eine Autobahn ist eine Fernverkehrsstra\u00dfe, die ausschlie\u00dflich dem Schnellverkehr und dem G\u00fcterfernverkehr mit Kraftfahrzeugen dient. Sie besteht im Normalfall aus zwei Richtungsfahrbahnen mit jeweils mehreren Fahrstreifen. F\u00fcr die Benutzung von Autobahnen wird in vielen L\u00e4ndern eine Maut (Stra\u00dfennutzungsgeb\u00fchr) erhoben. Deutsche Autobahnen sind seit L\u00e4ngerem mit mindestens zwei Fahrstreifen pro Richtungsfahrbahn versehen. In der Regel ist auch ein zus\u00e4tzlicher Seitenstreifen (auch Standstreifen oder Pannenstreifen genannt) vorhanden. Bei modernen Autobahnen sind die Fahrbahnen durch einen Mittelstreifen, in dem passive Schutzeinrichtungen wie Stahlschutzplanken oder Betonschutzw\u00e4nde errichtet sind, voneinander getrennt. Die Fahrbahnbefestigung erfolgt heutzutage durch Beton- oder Asphaltbe",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Uma autoestrada (pr\u00e9-AO 1990: auto-estrada), tamb\u00e9m conhecida como rodovia duplicada/de acesso controlado ou via expressa, \u00e9 uma rodovia destinada apenas ao tr\u00e1fego motorizado de alta velocidade, planejada com pelo menos duas vias em cada dire\u00e7\u00e3o de fluxo, separadas por elementos f\u00edsicos, com cruzamentos desnivelados e acesso restrito atrav\u00e9s de trevos rodovi\u00e1rios, sendo o fluxo e a entrada/sa\u00edda de autom\u00f3veis totalmente controlados.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "L'autostrada \u00e8 un tipo di strada progettata per agevolare la circolazione di grandi volumi di traffico veicolare ad alta velocit\u00e0, in alternativa ad una strada della viabilit\u00e0 ordinaria che non garantisce la stessa capacit\u00e0 di transiti e non gestisce gli stessi problemi di sicurezza.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Een autosnelweg, snelweg, autostrade of autobaan is een conflictvrije weg bestemd voor snel gemotoriseerd verkeer (zoals auto's, motoren, bussen en vrachtwagens). Conflictvrij wil zeggen dat kruisingen ongelijkvloers zijn en dat er een middenberm is tussen de twee rijrichtingen. De naam autostrade, afgeleid van het Italiaanse woord autostrada, wordt vooral gebruikt in Vlaanderen terwijl het germanisme autobaan vooral in het oosten en noorden van Nederland gebruikt wordt.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Una autopista es una pista de circulaci\u00f3n para autom\u00f3viles y veh\u00edculos terrestres de carga (categ\u00f3ricamente los veh\u00edculos de motor) y de pasajeros. Debe ser r\u00e1pida, segura, y admitir un volumen de tr\u00e1fico considerable, y se diferencia de una carretera convencional, en que la autopista dispone de m\u00e1s de un carril para cada sentido con calzadas separadas (no confundir con la autov\u00eda espa\u00f1ola dise\u00f1ada en ese pa\u00eds en 1988). Las primeras autopistas construidas con esta configuraci\u00f3n se hicieron en Italia durante los a\u00f1os 1920. Entre los tipos de carreteras, representan las v\u00edas que m\u00e1s tr\u00e1fico rodado pueden soportar y en las que \u00e9ste alcanza mayores velocidades, por lo que suelen representar los ejes principales de la red viaria de un pa\u00eds desarrollado (exceptuando a Espa\u00f1a, que implant\u00f3, por n",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Autostrada \u2013 droga specjalnie zaprojektowana i zbudowana dla ruchu samochodowego. Dla ruchu odbywaj\u0105cego si\u0119 w przeciwnych kierunkach autostrady maj\u0105 odseparowane od siebie jezdnie rozdzielone np. metalow\u0105 b\u0105d\u017a betonow\u0105 barier\u0105 i pasem zieleni. Drogi tej klasy pozbawione s\u0105 kolizyjnych skrzy\u017cowa\u0144, sygnalizacji \u015bwietlnej, przejazd\u00f3w kolejowych, chodnik\u00f3w czy przej\u015b\u0107 dla pieszych. Na autostradzie obowi\u0105zuje zakaz ruchu poprzecznego, zawracania, zatrzymywania si\u0119 na pasie awaryjnym, poruszania si\u0119 pieszo, pojazdami rolniczymi i zaprz\u0119gowymi oraz na rowerach. Autostrady posiadaj\u0105 przynajmniej 2 pasy w ka\u017cdym kierunku i osobne pasy do w\u0142\u0105czania si\u0119 do ruchu. Autostrady w wielu krajach s\u0105 p\u0142atne dla pojazd\u00f3w osobowych i ci\u0119\u017carowych, dlatego te\u017c mog\u0105 si\u0119 na nich znajdowa\u0107 punkty poboru op\u0142at w ci",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u9ad8\u901f\u9053\u8def\uff08\u3053\u3046\u305d\u304f\u3069\u3046\u308d\u3001\u65e5\u672c\u306e\u82f1\u8a9e\u8868\u8a18\u306fExpressway\uff09\u3068\u306f\u81ea\u52d5\u8eca\u306e\u307f\u306e\u901a\u884c\u306b\u9650\u5b9a\u3055\u308c\u3001\u4e00\u822c\u9053\u8def\u304b\u3089\u306e\u51fa\u5165\u308a\u53e3\u304c\u30a4\u30f3\u30bf\u30fc\u30c1\u30a7\u30f3\u30b8\u306a\u3069\u306b\u5236\u9650\u3055\u308c\u305f\u9053\u8def\u306e\u3053\u3068\u3067\u3042\u308b\u3002\u56fd\u3084\u5730\u57df\u306e\u9053\u8def\u7db2\u306e\u4e2d\u3067\u57fa\u5e79\u7684\u306a\u5f79\u5272\u3092\u62c5\u3046\u3053\u3068\u304c\u591a\u3044\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "A controlled-access highway is a type of highway which has been designed for high-speed vehicular traffic, with all traffic flow and ingress/egress regulated. Common English terms are freeway (in Australia and parts of the United States and Canada), motorway (in the United Kingdom and Ireland) and expressway (some parts of Canada, parts of the United States, and many Asian countries). Terms in other languages sometimes seen in English include Spanish: autopista or autov\u00eda, French: autoroute, German: Autobahn, Turkish: otoyol, Portuguese: autoestrada, Italian: autostrada, Polish: autostrada, Croatian: autocesta, Hungarian: aut\u00f3p\u00e1lya or Serbian: auto-put.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0633\u064a\u0627\u0631  (\u0641\u064a \u062a\u0648\u0646\u0633 \u0648\u0627\u0644\u0645\u063a\u0631\u0628 \u0648\u0627\u0644\u062c\u0632\u0627\u0626\u0631) \u0623\u0648 \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u062d\u0631 (\u0641\u064a \u0645\u0635\u0631) \u0623\u0648 \u0637\u0631\u064a\u0642 \u0627\u0644\u0645\u0631\u0648\u0631 \u0627\u0644\u0633\u0631\u064a\u0639 (\u0641\u064a \u0627\u0644\u0639\u0631\u0627\u0642) - \u0648\u064a\u0642\u0627\u0644 \u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u062f\u0627\u0631\u062c\u0629 \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0633\u0631\u064a\u0639 \u0623\u0648 \u0627\u0644\u0623\u0648\u062a\u0648\u0633\u062a\u0631\u0627\u062f - \u0647\u0648 \u0637\u0631\u064a\u0642 \u0645\u062e\u0635\u0635 \u0644\u062d\u0631\u0643\u0629 \u0645\u0631\u0648\u0631 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0630\u0627\u062a \u0627\u0644\u0645\u062d\u0631\u0643\u0627\u062a \u0627\u0644\u0633\u0631\u064a\u0639\u0629 (\u0633\u064a\u0627\u0631\u0627\u062a\u060c \u062f\u0631\u062c\u0627\u062a \u0646\u0627\u0631\u064a\u0629\u060c \u0634\u0627\u062d\u0646\u0627\u062a) \u0648\u0641\u064a \u062e\u0637 \u064a\u0633\u0645\u062d \u0628\u0627\u0644\u0633\u064a\u0631 \u0641\u064a \u0623\u0642\u0635\u0649 \u062f\u0631\u062c\u0627\u062a \u0627\u0644\u0623\u0645\u0627\u0646\u060c \u0645\u0641\u0647\u0648\u0645 \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0633\u064a\u0627\u0631 \u0641\u064a \u0628\u0639\u0636 \u0627\u0644\u062f\u0648\u0644 \u0647\u0648 \u0634\u0628\u0643\u0627\u062a \u0637\u0631\u0642\u0627\u062a \u062a\u0642\u0644\u064a\u062f\u064a\u0629 \u0627\u0644\u062a\u064a \u0623\u062e\u0636\u0639\u062a \u0625\u0644\u0649 \u0645\u0639\u0627\u064a\u064a\u0631 \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0633\u064a\u0627\u0631 (\u062a\u0648\u0633\u064a\u0639 \u0627\u0644\u0637\u0631\u0642\u0627\u062a\u060c \u0648\u0641\u0635\u0644\u0647\u0627 \u0639\u0646 \u0628\u0639\u0636\u0647\u0627 \u0627\u0644\u0628\u0639\u0636 \u0648\u0627\u0644\u0645\u062d\u0648\u0644\u0627\u062a \u0644\u0644\u0645\u062c\u0645\u0639\u0627\u062a \u0627\u0644\u0633\u0643\u0646\u064a\u0629).",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Une autoroute est une voie de communication routi\u00e8re \u00e0 chauss\u00e9es s\u00e9par\u00e9es, r\u00e9serv\u00e9e \u00e0 la circulation rapide des v\u00e9hicules motoris\u00e9s (automobiles, motos, poids lourds). Elle ne comporte aucun croisement \u00e0 niveau et est accessible gr\u00e2ce \u00e0 des points am\u00e9nag\u00e9s \u00e0 cet effet. Une d\u00e9finition internationale du concept d'autoroute a \u00e9t\u00e9 d\u00e9finie lors de la convention de Vienne notamment suivie par de nombreux pays europ\u00e9ens, mais certains pays non signataires peuvent avoir une conception diff\u00e9rente, bas\u00e9e sur des d\u00e9finitions plus locales, notamment en Am\u00e9rique du Nord, en Oc\u00e9anie et en Asie.",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Highway_system_of_S\u00e3o_Paulo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Roads"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/List_of_Expressways"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Israel"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/List_of_motorways"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/List_of_highways"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Interstate_Highway_System"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/The_Netherlands"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/The_United_Kingdom"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/The_Philippines"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0391\u03c5\u03c4\u03bf\u03ba\u03b9\u03bd\u03b7\u03c4\u03cc\u03b4\u03c1\u03bf\u03bc\u03bf\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Autobide"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u9ad8\u901f\u9053\u8def"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q46622"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/D\u00e1lnice"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uace0\uc18d\ub3c4\ub85c"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Autopista"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q46622"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Autobahn"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Controlled-access_highway"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Autostrada"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Autostrada"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Jalan_bebas_hambatan_terkendali"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Autoestrada"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0335j"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Autosnelweg"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Autoroute"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Types_of_roads"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Controlled-access_highways"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/US_131,_M-6,_68th_St_interchange.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Controlled-access_highway"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Controlled-access_highway?oldid=743184715"
+            }
+        ],
+        "http://dbpedia.org/property/height": [
+            {
+                "type": "literal",
+                "value": 100,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "literal",
+                "value": "Motorway",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "European Turkey Highways",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u0410\u0432\u0442\u043e\u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0301\u043b\u044c \u2014 \u0434\u043e\u0440\u043e\u0433\u0430 \u0434\u043b\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u043d\u043e\u0433\u043e \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439, \u043d\u0435 \u0438\u043c\u0435\u044e\u0449\u0430\u044f \u043e\u0434\u043d\u043e\u0443\u0440\u043e\u0432\u043d\u0435\u0432\u044b\u0445 \u043f\u0435\u0440\u0435\u0441\u0435\u0447\u0435\u043d\u0438\u0439 \u0441 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u0434\u043e\u0440\u043e\u0433\u0430\u043c\u0438, \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u043c\u0438 \u0438\u043b\u0438 \u0442\u0440\u0430\u043c\u0432\u0430\u0439\u043d\u044b\u043c\u0438 \u043f\u0443\u0442\u044f\u043c\u0438, \u043f\u0435\u0448\u0435\u0445\u043e\u0434\u043d\u044b\u043c\u0438 \u0438\u043b\u0438 \u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u043d\u044b\u043c\u0438 \u0434\u043e\u0440\u043e\u0436\u043a\u0430\u043c\u0438. \u041f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0430 \u0434\u043b\u044f \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u0441 \u0432\u044b\u0441\u043e\u043a\u043e\u0439 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c\u044e, \u043f\u0440\u043e\u0435\u0437\u0436\u0438\u0435 \u0447\u0430\u0441\u0442\u0438 \u0434\u043b\u044f \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0440\u0430\u0437\u0434\u0435\u043b\u0435\u043d\u044b \u0431\u0430\u0440\u044c\u0435\u0440\u043e\u043c \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u0438\u043c \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u043e-\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c \u0438 \u0438\u043c\u0435\u044e\u0442 \u043d\u0435 \u043c\u0435\u043d\u0435\u0435 \u0434\u0432\u0443\u0445 \u043f\u043e\u043b\u043e\u0441 \u0434\u043b\u044f \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0432 \u043a\u0430\u0436\u0434\u043e\u043c \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0447\u0430\u0441\u0442\u043e \u0448\u0438\u0440\u043e\u043a\u0443\u044e \u043e\u0431\u043e\u0447\u0438\u043d\u0443 \u0434\u043b\u044f \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439 \u0432 \u043d\u0435\u043f\u0440\u0435\u0434\u0432\u0438\u0434\u0435\u043d\u043d\u044b\u0445 \u0441\u043b\u0443\u0447\u0430\u044f\u0445. \u0421\u044a\u0435\u0437\u0434\u044b \u0438 \u0432\u044b\u0435\u0437\u0434\u044b \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u0438 \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u044b \u043f\u043e\u043b\u043e\u0441\u0430\u043c\u0438 \u0442\u043e\u0440\u043c\u043e\u0436\u0435\u043d\u0438\u044f \u0438 \u0440\u0430\u0437\u0433\u043e\u043d\u0430. \u0417\u0430\u043f\u0440\u0435\u0449\u0451\u043d \u0432\u044a\u0435\u0437\u0434 \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u0438 \u0434\u043b\u044f \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432, \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0430\u0437\u0440\u0435\u0448\u0451\u043d\u043d\u0430\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043d\u0438\u0436\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u0439 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u044b (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043c\u043e\u043f\u0435\u0434\u044b \u0438\u043b\u0438 \u0442\u0440\u0430\u043a\u0442\u043e\u0440\u044b; \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u0430\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0437\u0430\u0432\u0438\u0441\u0438\u0442 \u043e\u0442 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430), \u0430 \u0442\u0430\u043a\u0436\u0435 \u0434\u043b\u044f \u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u043d\u043e\u0433\u043e \u0438 \u0433\u0443\u0436\u0435\u0432\u043e\u0433\u043e \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u0430. \u0422\u0430\u043a\u0436\u0435, \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044f\u0445 \u0437\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043e \u043f\u0435\u0448\u0435\u0445\u043e\u0434\u043d\u043e\u0435 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435. \u041a \u043e\u0442\u043b\u0438\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u044f\u043c \u0430\u0432\u0442\u043e\u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u0435\u0439 \u043e\u0442\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u0437\u0430\u043f\u0440\u0435\u0442\u044b \u043d\u0430 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0437\u0430\u0434\u043d\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0438 \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0443 \u0432\u043d\u0435 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u043e\u0442\u0432\u0435\u0434\u0451\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u044d\u0442\u043e\u0433\u043e \u043c\u0435\u0441\u0442.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Une autoroute est une voie de communication routi\u00e8re \u00e0 chauss\u00e9es s\u00e9par\u00e9es, r\u00e9serv\u00e9e \u00e0 la circulation rapide des v\u00e9hicules motoris\u00e9s (automobiles, motos, poids lourds). Elle ne comporte aucun croisement \u00e0 niveau et est accessible gr\u00e2ce \u00e0 des points am\u00e9nag\u00e9s \u00e0 cet effet. Une d\u00e9finition internationale du concept d'autoroute a \u00e9t\u00e9 d\u00e9finie lors de la convention de Vienne notamment suivie par de nombreux pays europ\u00e9ens, mais certains pays non signataires peuvent avoir une conception diff\u00e9rente, bas\u00e9e sur des d\u00e9finitions plus locales, notamment en Am\u00e9rique du Nord, en Oc\u00e9anie et en Asie. Dans certains pays, les appellations voie rapide et voie express (ou semi-autoroute en Suisse) semblent plut\u00f4t r\u00e9serv\u00e9es au r\u00e9seau routier traditionnel, partiellement mis aux normes autorouti\u00e8res (\u00e9largissement de voies, chauss\u00e9es s\u00e9par\u00e9es et d\u00e9viations d\u2019agglom\u00e9rations) et partiellement non mis aux normes. L'existence de voie rapide ou de voie express peut parfois \u00eatre une \u00e9tape interm\u00e9diaire et longue pour passer d'un r\u00e9seau traditionnel \u00e0 un r\u00e9seau autoroutier. Le concept d'autoroute na\u00eet en Allemagne avec l'AVUS en 1909. La premi\u00e8re autoroute au monde (en italien, autostrada), l\u2019autoroute des Lacs a \u00e9t\u00e9 construite en Italie en 1924 pour relier Milan \u00e0 la r\u00e9gion des lacs (77 km). Par analogie, on parle d\u2019autoroutes de l\u2019information pour qualifier les r\u00e9seaux de communication \u00e0 haut d\u00e9bit qui permettent l\u2019\u00e9change de donn\u00e9es entre syst\u00e8mes informatiques.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u9ad8\u901f\u9053\u8def\uff08\u3053\u3046\u305d\u304f\u3069\u3046\u308d\u3001\u65e5\u672c\u306e\u82f1\u8a9e\u8868\u8a18\u306fExpressway\uff09\u3068\u306f\u81ea\u52d5\u8eca\u306e\u307f\u306e\u901a\u884c\u306b\u9650\u5b9a\u3055\u308c\u3001\u4e00\u822c\u9053\u8def\u304b\u3089\u306e\u51fa\u5165\u308a\u53e3\u304c\u30a4\u30f3\u30bf\u30fc\u30c1\u30a7\u30f3\u30b8\u306a\u3069\u306b\u5236\u9650\u3055\u308c\u305f\u9053\u8def\u306e\u3053\u3068\u3067\u3042\u308b\u3002\u56fd\u3084\u5730\u57df\u306e\u9053\u8def\u7db2\u306e\u4e2d\u3067\u57fa\u5e79\u7684\u306a\u5f79\u5272\u3092\u62c5\u3046\u3053\u3068\u304c\u591a\u3044\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0633\u064a\u0627\u0631  (\u0641\u064a \u062a\u0648\u0646\u0633 \u0648\u0627\u0644\u0645\u063a\u0631\u0628 \u0648\u0627\u0644\u062c\u0632\u0627\u0626\u0631) \u0623\u0648 \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u062d\u0631 (\u0641\u064a \u0645\u0635\u0631) \u0623\u0648 \u0637\u0631\u064a\u0642 \u0627\u0644\u0645\u0631\u0648\u0631 \u0627\u0644\u0633\u0631\u064a\u0639 (\u0641\u064a \u0627\u0644\u0639\u0631\u0627\u0642) - \u0648\u064a\u0642\u0627\u0644 \u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u062f\u0627\u0631\u062c\u0629 \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0633\u0631\u064a\u0639 \u0623\u0648 \u0627\u0644\u0623\u0648\u062a\u0648\u0633\u062a\u0631\u0627\u062f - \u0647\u0648 \u0637\u0631\u064a\u0642 \u0645\u062e\u0635\u0635 \u0644\u062d\u0631\u0643\u0629 \u0645\u0631\u0648\u0631 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0630\u0627\u062a \u0627\u0644\u0645\u062d\u0631\u0643\u0627\u062a \u0627\u0644\u0633\u0631\u064a\u0639\u0629 (\u0633\u064a\u0627\u0631\u0627\u062a\u060c \u062f\u0631\u062c\u0627\u062a \u0646\u0627\u0631\u064a\u0629\u060c \u0634\u0627\u062d\u0646\u0627\u062a) \u0648\u0641\u064a \u062e\u0637 \u064a\u0633\u0645\u062d \u0628\u0627\u0644\u0633\u064a\u0631 \u0641\u064a \u0623\u0642\u0635\u0649 \u062f\u0631\u062c\u0627\u062a \u0627\u0644\u0623\u0645\u0627\u0646\u060c \u0645\u0641\u0647\u0648\u0645 \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0633\u064a\u0627\u0631 \u0641\u064a \u0628\u0639\u0636 \u0627\u0644\u062f\u0648\u0644 \u0647\u0648 \u0634\u0628\u0643\u0627\u062a \u0637\u0631\u0642\u0627\u062a \u062a\u0642\u0644\u064a\u062f\u064a\u0629 \u0627\u0644\u062a\u064a \u0623\u062e\u0636\u0639\u062a \u0625\u0644\u0649 \u0645\u0639\u0627\u064a\u064a\u0631 \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0633\u064a\u0627\u0631 (\u062a\u0648\u0633\u064a\u0639 \u0627\u0644\u0637\u0631\u0642\u0627\u062a\u060c \u0648\u0641\u0635\u0644\u0647\u0627 \u0639\u0646 \u0628\u0639\u0636\u0647\u0627 \u0627\u0644\u0628\u0639\u0636 \u0648\u0627\u0644\u0645\u062d\u0648\u0644\u0627\u062a \u0644\u0644\u0645\u062c\u0645\u0639\u0627\u062a \u0627\u0644\u0633\u0643\u0646\u064a\u0629).",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Eine Autobahn ist eine Fernverkehrsstra\u00dfe, die ausschlie\u00dflich dem Schnellverkehr und dem G\u00fcterfernverkehr mit Kraftfahrzeugen dient. Sie besteht im Normalfall aus zwei Richtungsfahrbahnen mit jeweils mehreren Fahrstreifen. F\u00fcr die Benutzung von Autobahnen wird in vielen L\u00e4ndern eine Maut (Stra\u00dfennutzungsgeb\u00fchr) erhoben. Deutsche Autobahnen sind seit L\u00e4ngerem mit mindestens zwei Fahrstreifen pro Richtungsfahrbahn versehen. In der Regel ist auch ein zus\u00e4tzlicher Seitenstreifen (auch Standstreifen oder Pannenstreifen genannt) vorhanden. Bei modernen Autobahnen sind die Fahrbahnen durch einen Mittelstreifen, in dem passive Schutzeinrichtungen wie Stahlschutzplanken oder Betonschutzw\u00e4nde errichtet sind, voneinander getrennt. Die Fahrbahnbefestigung erfolgt heutzutage durch Beton- oder Asphaltbelag. Im Gegensatz zu anderen Stra\u00dfenkategorien besitzen Autobahnen stets h\u00f6henfreie Knotenpunkte. So erfolgt der \u00dcbergang von einer Autobahn auf eine andere durch Br\u00fccken und Unterf\u00fchrungen (Autobahnkreuz beziehungsweise in \u00d6sterreich \u201eKnoten\u201c) oder Abzweigungen (Autobahndreieck, in der Schweiz \u201eVerzweigung\u201c), \u00dcberg\u00e4nge ins untergeordnete Stra\u00dfennetz werden (Autobahn-) Anschlussstellen genannt. Je nach Verlauf der Trasse spricht man in manchen F\u00e4llen von Ringautobahnen oder Stadtautobahnen. Tunnel und Br\u00fccken im Verlauf der Autobahnen sowie die meisten Stra\u00dfenbr\u00fccken \u00fcber die Autobahnen sind Teile der Autobahnen. An den meisten Autobahnen befinden sich Autobahnrastst\u00e4tten und Autobahnparkpl\u00e4tze, um den Ver- und Entsorgungsbed\u00fcrfnissen der Autobahnnutzer nachzukommen und diesen eine M\u00f6glichkeit zu geben, sich zu erholen. Oft befinden sich dort auch Attraktionen und Spielger\u00e4te f\u00fcr Kinder. Diese Anlagen sind Teile der Autobahnen. Auf Fahrstreifen der Autobahnen ist das Halten und Parken sowie das Wenden nicht erlaubt. Des Weiteren ist auf dem Seitenstreifen beziehungsweise Pannenstreifen und in den Nothaltebuchten das Halten nur in besonderen F\u00e4llen (etwa eines technischen Defektes oder auf Anweisung eines ausf\u00fchrenden Staatsorgans) erlaubt, um den nachfolgenden Verkehr nicht zu behindern und sich nicht in Lebensgefahr zu begeben. Die Nutzung der Autobahn ist f\u00fcr Fu\u00dfg\u00e4nger und Fahrradfahrer in vielen L\u00e4ndern verboten.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Uma autoestrada (pr\u00e9-AO 1990: auto-estrada), tamb\u00e9m conhecida como rodovia duplicada/de acesso controlado ou via expressa, \u00e9 uma rodovia destinada apenas ao tr\u00e1fego motorizado de alta velocidade, planejada com pelo menos duas vias em cada dire\u00e7\u00e3o de fluxo, separadas por elementos f\u00edsicos, com cruzamentos desnivelados e acesso restrito atrav\u00e9s de trevos rodovi\u00e1rios, sendo o fluxo e a entrada/sa\u00edda de autom\u00f3veis totalmente controlados. As autoestradas proporcionam um fluxo livre de tr\u00e1fego, sem sinais de tr\u00e2nsito, cruzamentos ou acessos \u00e0 propriedades. Elas est\u00e3o livres de quaisquer cruzamentos com outras estradas, ferrovias ou caminhos de pedestres, os quais s\u00e3o transportados por viadutos e passagens subterr\u00e2neas que transpassam a rodovia. A entrada e a sa\u00edda para a autoestrada s\u00e3o possibilitadas apenas por trevos e rampas, o que permite mudan\u00e7as de velocidade entre as vias rodovi\u00e1rias arteriais e coletoras. Nesse tipo de rodovia, os sentidos de movimento opostos s\u00e3o geralmente (mas n\u00e3o necessariamente) separados por um terrapleno central, tais como uma faixa de relva ou pedras ou por uma barreira de tr\u00e1fego. As autoestradas, como elas existem hoje, evolu\u00edram durante a primeira metade do s\u00e9culo XX. A Long Island Motor Parkway, em Long Island, Estados Unidos, foi aberta em 1908 como uma empresa privada e \u00e9 considerada a primeira autoestrada do mundo. A It\u00e1lia abriu a sua primeira autoestrada em 1925, enquanto a Alemanha come\u00e7ou a construir a sua primeira autobahn de 30 km, sem limites de velocidade, em 1932, entre Col\u00f4nia e Bona (agora denominada A 555). Em seguida, o pa\u00eds rapidamente montou um sistema nacional de estradas baseadas nesse modelo de constru\u00e7\u00e3o, em antecipa\u00e7\u00e3o ao seu uso durante a Segunda Guerra Mundial. As primeiras autoestradas da Am\u00e9rica do Norte (conhecidas como parkways, expressways ou freeways) foram inauguradas na cidade de Nova York na d\u00e9cada de 1920. O Reino Unido, fortemente influenciado pelas ferrovias, apenas construiu a sua primeira autoestrada em meados da d\u00e9cada de 1950. Atualmente, a maioria das na\u00e7\u00f5es tecnologicamente mais avan\u00e7adas possuem uma extensa rede de autoestradas, sendo muitas das quais parte de um sistema nacional para esse tipo de rodovia.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u9ad8\u901f\u516c\u8def\u4e00\u822c\u662f\u6307\u53cc\u54112\u689d\u8f66\u9053\u4ee5\u4e0a\u3001\u96d9\u5411\u5206\u9694\u884c\u9a76\u3001\u5b8c\u5168\u63a7\u5236\u51fa\u5165\u53e3\u3001\u5168\u90e8\u91c7\u7528\u4e24\u65c1\u5c01\u95ed\u548c\u7acb\u4f53\u4ea4\u53c9\u6865\u6881\u3001\u5730\u4e0b\u96a7\u9053\u4e0e\u531d\u9053\uff0c\u65f6\u901f\u9650\u5236\u6bd4\u666e\u901a\u516c\u8def\u8f03\u9ad8\u7684\u884c\u99db\u9053\u8def\u3002\u7279\u70b9\u662f\u8f66\u901f\u5feb\u3001\u4ea4\u901a\u91cf\u5927\u548c\u6709\u8f83\u9ad8\u7684\u8fd0\u8f93\u7ecf\u6d4e\u6548\u76ca\u53ca\u793e\u4f1a\u6548\u76ca\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "A controlled-access highway is a type of highway which has been designed for high-speed vehicular traffic, with all traffic flow and ingress/egress regulated. Common English terms are freeway (in Australia and parts of the United States and Canada), motorway (in the United Kingdom and Ireland) and expressway (some parts of Canada, parts of the United States, and many Asian countries). Terms in other languages sometimes seen in English include Spanish: autopista or autov\u00eda, French: autoroute, German: Autobahn, Turkish: otoyol, Portuguese: autoestrada, Italian: autostrada, Polish: autostrada, Croatian: autocesta, Hungarian: aut\u00f3p\u00e1lya or Serbian: auto-put. Other similar terms include Interstate and parkway. Some of which may be limited access highways, although this term can also refer to a class of highway with somewhat less isolation from other traffic. In countries following Vienna convention, the motorway qualification implies they are forbidden for walking or parking, and reserved for the only use of motorized vehicles. A controlled-access highway provides an unhindered flow of traffic, with no traffic signals, intersections or property access. They are free of any at-grade crossings with other roads, railways, or pedestrian paths, which are instead carried by overpasses and underpasses across the highway. Entrances and exits to the highway are provided at interchanges by slip roads (ramps), which allow for speed changes between the highway and arterial roads and collector roads. On the controlled-access highway, opposing directions of travel are generally separated by a median strip or central reservation containing a traffic barrier or grass. Elimination of the sources of potential conflicts with other directions of travelers dramatically improves safety, and capacity. Controlled-access highways evolved during the first half of the 20th century. Italy opened its first autostrada in 1924 connecting Milan to Varese (A8). Germany began to build its first 30-kilometre (19 mi) autobahn controlled-access highway without speed limits (then referred to as a dual highway) in 1932 between Cologne and Bonn (now A555). It then rapidly constructed a nationwide system of such roads in anticipation of their use in the Second World War. The first North American freeways (known as parkways) opened in the New York City area in the 1920s. Britain, heavily influenced by the railways, did not build its first motorway, the Preston By-pass (M6), until 1958. Most technologically advanced nations feature an extensive network of freeways or motorways to provide high-capacity urban travel, or high-speed rural travel, or both. Many have a national-level or even international-level (e.g. European E route) system of route numbering.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "L'autostrada \u00e8 un tipo di strada progettata per agevolare la circolazione di grandi volumi di traffico veicolare ad alta velocit\u00e0, in alternativa ad una strada della viabilit\u00e0 ordinaria che non garantisce la stessa capacit\u00e0 di transiti e non gestisce gli stessi problemi di sicurezza.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Una autopista es una pista de circulaci\u00f3n para autom\u00f3viles y veh\u00edculos terrestres de carga (categ\u00f3ricamente los veh\u00edculos de motor) y de pasajeros. Debe ser r\u00e1pida, segura, y admitir un volumen de tr\u00e1fico considerable, y se diferencia de una carretera convencional, en que la autopista dispone de m\u00e1s de un carril para cada sentido con calzadas separadas (no confundir con la autov\u00eda espa\u00f1ola dise\u00f1ada en ese pa\u00eds en 1988). Las primeras autopistas construidas con esta configuraci\u00f3n se hicieron en Italia durante los a\u00f1os 1920. Entre los tipos de carreteras, representan las v\u00edas que m\u00e1s tr\u00e1fico rodado pueden soportar y en las que \u00e9ste alcanza mayores velocidades, por lo que suelen representar los ejes principales de la red viaria de un pa\u00eds desarrollado (exceptuando a Espa\u00f1a, que implant\u00f3, por norma general, la autov\u00eda en esos casos).",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Autostrada \u2013 droga specjalnie zaprojektowana i zbudowana dla ruchu samochodowego. Dla ruchu odbywaj\u0105cego si\u0119 w przeciwnych kierunkach autostrady maj\u0105 odseparowane od siebie jezdnie rozdzielone np. metalow\u0105 b\u0105d\u017a betonow\u0105 barier\u0105 i pasem zieleni. Drogi tej klasy pozbawione s\u0105 kolizyjnych skrzy\u017cowa\u0144, sygnalizacji \u015bwietlnej, przejazd\u00f3w kolejowych, chodnik\u00f3w czy przej\u015b\u0107 dla pieszych. Na autostradzie obowi\u0105zuje zakaz ruchu poprzecznego, zawracania, zatrzymywania si\u0119 na pasie awaryjnym, poruszania si\u0119 pieszo, pojazdami rolniczymi i zaprz\u0119gowymi oraz na rowerach. Autostrady posiadaj\u0105 przynajmniej 2 pasy w ka\u017cdym kierunku i osobne pasy do w\u0142\u0105czania si\u0119 do ruchu. Autostrady w wielu krajach s\u0105 p\u0142atne dla pojazd\u00f3w osobowych i ci\u0119\u017carowych, dlatego te\u017c mog\u0105 si\u0119 na nich znajdowa\u0107 punkty poboru op\u0142at w ci\u0105gu drogi b\u0105d\u017a stacje poboru op\u0142at u wylot\u00f3w w\u0119z\u0142\u00f3w autostradowych. Cz\u0119sto s\u0105 ogrodzone przed dzik\u0105 zwierzyn\u0105 i lud\u017ami. Autostrady musz\u0105 posiada\u0107 Miejsca Obs\u0142ugi Podr\u00f3\u017cnych (MOP-y) zawieraj\u0105ce stacje benzynowe i parkingi oraz oznaczone telefony alarmowe w odpowiednich odleg\u0142o\u015bciach. Ponadto autostrady omijaj\u0105 miasta, maj\u0105c z nimi po\u0142\u0105czenie drogami dojazdowymi. Ludno\u015b\u0107 zamieszkuj\u0105ca w s\u0105siedztwie autostrad jest chroniona przed wysokim nat\u0119\u017ceniem ha\u0142asu zas\u0142onami izolacyjnymi z zieleni (t\u0142umi\u0105ce ha\u0142as i zmniejszaj\u0105ce zanieczyszczenie powietrza wok\u00f3\u0142 arterii) b\u0105d\u017a ekranami akustycznymi. Wytrzyma\u0142o\u015b\u0107 nawierzchni asfaltowej jest oceniana na 10 lat, natomiast betonowej na 40 lat.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Een autosnelweg, snelweg, autostrade of autobaan is een conflictvrije weg bestemd voor snel gemotoriseerd verkeer (zoals auto's, motoren, bussen en vrachtwagens). Conflictvrij wil zeggen dat kruisingen ongelijkvloers zijn en dat er een middenberm is tussen de twee rijrichtingen. De naam autostrade, afgeleid van het Italiaanse woord autostrada, wordt vooral gebruikt in Vlaanderen terwijl het germanisme autobaan vooral in het oosten en noorden van Nederland gebruikt wordt. Het verschil tussen autoweg en autosnelweg werd in Nederland ingevoerd met het RVV van 1966. De autosnelweg heette toen nog autoweg met gescheiden rijbanen en ongelijkvloerse kruisingen. Een autosnelweg is in Nederland alleen toegankelijk voor motorvoertuigen waarmee met een snelheid van ten minste 60 kilometer per uur kan en mag worden gereden. In 1921 opende bij Berlijn in Duitsland de eerste autosnelweg ter wereld, onder de naam Automobil-Verkehrs- und \u00dcbungs-Stra\u00dfe (AVUS) en aanvankelijk werd deze gebruikt als racecircuit. In Nederland is de eerste autosnelweg, rijksweg nr. 12 tussen Voorburg en Zoetermeer, in 1937 in gebruik genomen. Rond 1940 was het traject Den Haag - Utrecht van rijksweg 12 gereed. In Belgi\u00eb werd het eerste stuk snelweg in 1937 aangelegd ter hoogte van Brugge, tussen Beernem en Loppem. Dit was het begin van de autosnelweg Brussel - Kust, thans A10/E40, voltooid in 1956. Autosnelwegen worden in de meeste landen (met als belangrijke uitzondering de Verenigde Staten) aangeduid met een verkeersbord dat een pictogram van een autosnelweg met viaduct afbeeldt. De achtergrond is dan blauw of groen. Belgi\u00eb heeft met 57,8 km per 1000 km\u00b2 het grootste aantal kilometers snelweg per 1000 km\u00b2 van de Europese Unie. Nederland komt op de tweede plaats met 56,8 km per 1000 km\u00b2. In totaal heeft Nederland 2360 km snelweg op 41.543 km\u00b2 en Belgi\u00eb 1763 km op 30.528 km\u00b2 (cijfer 2011). Afgezet tegen de grootte van de bevolking komen Belgi\u00eb (ruim 11 miljoen inwoners) en Nederland (17 miljoen inwoners) allebei op ongeveer 15 centimeter snelweg per inwoner.",
+                "lang": "nl"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/US_131,_M-6,_68th_St_interchange.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743184715,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 2411002,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/image": [
+            {
+                "type": "literal",
+                "value": "OtoyolMap.svg",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "E-roads-Turkey.png",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/alt": [
+            {
+                "type": "literal",
+                "value": "European Turkey Highways",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Motorway",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Highway"
+            }
+        ],
+        "http://dbpedia.org/property/footer": [
+            {
+                "type": "literal",
+                "value": "Turkey. Highways",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Freeway": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Louis-Hippolyte_Lafontaine_Bridge\u2013Tunnel": {
+        "http://dbpedia.org/property/character": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Controlled-access_highway": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/List_of_motorways": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kwinana_Freeway": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mitchell_Freeway": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kallang\u2013Paya_Lebar_Expressway": {
+        "http://dbpedia.org/ontology/map": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Freeways": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Marina_Coastal_Expressway": {
+        "http://dbpedia.org/ontology/map": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Korea_Expressway_Corporation": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Motorway": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Controlled_access": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Motorvei": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Motorways": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Motorways_in_Europe": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Full_freeway": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Controlled-access": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Freeway-standard_road": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unsigned_Freeway": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Motorway_(United_Kingdom)and_(Ireland)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Highways_with_no_cross_traffic_and_access_only_at_interchanges": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Controlled_access_highway": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Control_of_access": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Controlled_access_road": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Highway_with_full_control_of_access_and_no_cross_traffic": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Highways_with_full_control_of_access_and_no_cross_traffic": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Depressed_roadway": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Elevated_freeway": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Elevated_roadway": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Half-motorway": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Semi-highway": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Semi-motorway": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Freeway_speed": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Non_stop_road": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Signal_free_corridor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Traffic_light_less_road": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Full_access_controlled_highway": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Through_street": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Signal_free_corridor_road": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fwy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\ud83d\udee3": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Controlled-access_highways": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pan_Island_Expressway": {
+        "http://dbpedia.org/ontology/map": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/North\u2013South_Expressway_(Singapore)": {
+        "http://dbpedia.org/ontology/map": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Controlled-access_highway"
+            }
+        ]
+    }
+}

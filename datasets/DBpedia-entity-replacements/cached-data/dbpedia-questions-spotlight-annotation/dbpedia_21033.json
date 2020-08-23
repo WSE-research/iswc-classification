@@ -1,0 +1,46 @@
+{
+    "@text": "Name the television show whose voice is given by  April Stewart and theme music composer is Primus (band)?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/April_Stewart",
+            "@support": "79",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "April Stewart",
+            "@offset": "50",
+            "@similarityScore": "0.9999999998353815",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Theme_music",
+            "@support": "2510",
+            "@types": "",
+            "@surfaceForm": "theme music",
+            "@offset": "68",
+            "@similarityScore": "0.9988535472621055",
+            "@percentageOfSecondRank": "8.855762108222739E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Composer",
+            "@support": "22915",
+            "@types": "",
+            "@surfaceForm": "composer",
+            "@offset": "80",
+            "@similarityScore": "0.9980629179783167",
+            "@percentageOfSecondRank": "0.0010357462101701382"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Primus_(band)",
+            "@support": "951",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q215380,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:MusicGroup,DBpedia:Organisation,DBpedia:Group,DBpedia:Band,DBpedia:Agent",
+            "@surfaceForm": "Primus (band)",
+            "@offset": "92",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

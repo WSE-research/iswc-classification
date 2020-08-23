@@ -1,0 +1,37 @@
+{
+    "@text": "What is the inflation rate of consumer price index of the basin countries of Java Sea ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Inflation",
+            "@support": "5577",
+            "@types": "",
+            "@surfaceForm": "inflation rate",
+            "@offset": "12",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Drainage_basin",
+            "@support": "12767",
+            "@types": "",
+            "@surfaceForm": "basin",
+            "@offset": "58",
+            "@similarityScore": "0.834424845701008",
+            "@percentageOfSecondRank": "0.0862212667525101"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Java_Sea",
+            "@support": "420",
+            "@types": "Schema:SeaBodyOfWater,Schema:Place,Schema:BodyOfWater,DBpedia:Sea,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "Java Sea",
+            "@offset": "77",
+            "@similarityScore": "0.9934673304813835",
+            "@percentageOfSecondRank": "0.006575625895027953"
+        }
+    ]
+}

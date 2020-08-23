@@ -1,0 +1,37 @@
+{
+    "@text": "What is located in the state of Idaho that has diplomatic relations with Dominica?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Idaho",
+            "@support": "20071",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Idaho",
+            "@offset": "32",
+            "@similarityScore": "0.9985021930258352",
+            "@percentageOfSecondRank": "6.384630459119945E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Diplomacy",
+            "@support": "3879",
+            "@types": "",
+            "@surfaceForm": "diplomatic relations",
+            "@offset": "47",
+            "@similarityScore": "0.999901031476988",
+            "@percentageOfSecondRank": "5.435516465774416E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Dominica",
+            "@support": "4472",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Dominica",
+            "@offset": "73",
+            "@similarityScore": "0.9987190213111609",
+            "@percentageOfSecondRank": "0.001096794256963816"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the EuroTour golf player ID of Arnold Palmer?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Golf",
+            "@support": "19443",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "golf",
+            "@offset": "22",
+            "@similarityScore": "0.999992389418735",
+            "@percentageOfSecondRank": "6.461685223141735E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Arnold_Palmer",
+            "@support": "870",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q13156709,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:GolfPlayer,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Arnold Palmer",
+            "@offset": "40",
+            "@similarityScore": "0.999999999801588",
+            "@percentageOfSecondRank": "1.9840588353952736E-10"
+        }
+    ]
+}

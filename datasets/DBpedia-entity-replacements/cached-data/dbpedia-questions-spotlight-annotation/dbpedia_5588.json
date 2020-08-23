@@ -1,0 +1,28 @@
+{
+    "@text": "Which is {award received} of {Kailash Satyarthi} where {statement is subject of} is {2014 Nobel Peace Prize} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Kailash_Satyarthi",
+            "@support": "71",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Kailash Satyarthi",
+            "@offset": "30",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/2014_Nobel_Peace_Prize",
+            "@support": "20",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "2014 Nobel Peace Prize",
+            "@offset": "85",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

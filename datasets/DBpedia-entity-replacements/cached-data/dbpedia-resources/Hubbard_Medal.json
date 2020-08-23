@@ -1,0 +1,317 @@
+{
+    "http://dbpedia.org/resource/Louis_Leakey": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jane_Goodall": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hubbard_Medal": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatGeographyAwardsAndCompetitions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Communication100033020"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Award106696483"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Symbol106806469"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Signal106791372"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Hubbard Medal",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u041c\u0435\u0434\u0430\u043b\u044c \u0425\u0430\u0431\u0431\u0430\u0440\u0434\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u30cf\u30d0\u30fc\u30c9\u30fb\u30e1\u30c0\u30eb",
+                "lang": "ja"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u30cf\u30d0\u30fc\u30c9\u30fb\u30e1\u30c0\u30eb\uff08Hubbard Medal\uff09\u306f \u30ca\u30b7\u30e7\u30ca\u30eb\u30b8\u30aa\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u5354\u4f1a\u304c\u9855\u8457\u306a\u63a2\u691c\u3084\u767a\u898b\u3001\u7814\u7a76\u3092\u884c\u3063\u305f\u4eba\u7269\u306b\u8d08\u308b\u8cde\u3067\u3042\u308b\u3002\u8cde\u306e\u540d\u524d\u306f\u30ca\u30b7\u30e7\u30ca\u30eb\u30b8\u30aa\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u5354\u4f1a\u306e\u521d\u4ee3\u4f1a\u9577\u306eG\u30fbG\u30fb\u30cf\u30d0\u30fc\u30c9 (Gardiner Green Hubbard) \u306b\u7531\u6765\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "The Hubbard Medal is awarded by the National Geographic Society for distinction in exploration, discovery, and research. The medal is named for Gardiner Greene Hubbard, first National Geographic Society president.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u041c\u0435\u0434\u0430\u043b\u044c \u0425\u0430\u0431\u0431\u0430\u0440\u0434\u0430 \u043f\u0440\u0438\u0441\u0443\u0436\u0434\u0430\u0435\u0442\u0441\u044f \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c \u0413\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e\u043c \u0421\u0428\u0410 \u0437\u0430 \u0432\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u0433\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f. \u041c\u0435\u0434\u0430\u043b\u044c \u043d\u0430\u0437\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u041f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0413\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u0413\u0430\u0440\u0434\u0438\u043d\u0435\u0440\u0430 \u0413\u0440\u0438\u043d\u0430 \u0425\u0430\u0431\u0431\u0430\u0440\u0434\u0430.",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30cf\u30d0\u30fc\u30c9\u30fb\u30e1\u30c0\u30eb"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Hubbard_Medal"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q4287207"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q4287207"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.07kcn5"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:National_Geographic_Society"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Geography_awards_and_competitions"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubbard_Gold_Medal,_Anne_Morrow_Lindbergh.JPG"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Hubbard_Medal"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Hubbard_Medal?oldid=700215754"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://press.nationalgeographic.com/2015/06/10/virunga-national-park-rangers-to-accept-national-geographic-explorers-of-the-year-honor/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.nationalgeographic.com/council/eir/bio_goodall.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.nationalgeographic.com/explorers-program/eir/rballard.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.johnwyoung.org/bio/otherawards.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.presidency.ucsb.edu/ws/index.php?pid=9337"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.jsc.nasa.gov/Bios/htmlbios/borman-f.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://matthewhenson.com/BBCnews.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.npr.org/programs/re/archivesdate/2003/apr/everest/medal.html"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u041c\u0435\u0434\u0430\u043b\u044c \u0425\u0430\u0431\u0431\u0430\u0440\u0434\u0430 \u043f\u0440\u0438\u0441\u0443\u0436\u0434\u0430\u0435\u0442\u0441\u044f \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c \u0413\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e\u043c \u0421\u0428\u0410 \u0437\u0430 \u0432\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u0433\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f. \u041c\u0435\u0434\u0430\u043b\u044c \u043d\u0430\u0437\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u041f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0413\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u0413\u0430\u0440\u0434\u0438\u043d\u0435\u0440\u0430 \u0413\u0440\u0438\u043d\u0430 \u0425\u0430\u0431\u0431\u0430\u0440\u0434\u0430.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "The Hubbard Medal is awarded by the National Geographic Society for distinction in exploration, discovery, and research. The medal is named for Gardiner Greene Hubbard, first National Geographic Society president.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u30cf\u30d0\u30fc\u30c9\u30fb\u30e1\u30c0\u30eb\uff08Hubbard Medal\uff09\u306f \u30ca\u30b7\u30e7\u30ca\u30eb\u30b8\u30aa\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u5354\u4f1a\u304c\u9855\u8457\u306a\u63a2\u691c\u3084\u767a\u898b\u3001\u7814\u7a76\u3092\u884c\u3063\u305f\u4eba\u7269\u306b\u8d08\u308b\u8cde\u3067\u3042\u308b\u3002\u8cde\u306e\u540d\u524d\u306f\u30ca\u30b7\u30e7\u30ca\u30eb\u30b8\u30aa\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u5354\u4f1a\u306e\u521d\u4ee3\u4f1a\u9577\u306eG\u30fbG\u30fb\u30cf\u30d0\u30fc\u30c9 (Gardiner Green Hubbard) \u306b\u7531\u6765\u3059\u308b\u3002",
+                "lang": "ja"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubbard_Gold_Medal,_Anne_Morrow_Lindbergh.JPG?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 700215754,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 2517572,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Hubbard_Medal": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Willi_Unsoeld": {
+        "http://dbpedia.org/property/prizes": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Robert_Peary": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Robert_Bartlett_(explorer)": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mary_Leakey": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Roald_Amundsen": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Roy_Chapman_Andrews": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Anne_Morrow_Lindbergh": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jacques_Piccard": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Richard_Leakey": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Robert_Ballard": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hubbard": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Don_Walsh": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hubbard_medal": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Hubbard_Medal"
+            }
+        ]
+    }
+}

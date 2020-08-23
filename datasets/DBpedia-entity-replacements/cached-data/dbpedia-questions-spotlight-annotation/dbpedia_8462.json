@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the Avion that has home venue the XL Center and contains the word boston in it's name?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/XL_Center",
+            "@support": "321",
+            "@types": "Schema:Place,DBpedia:Venue,DBpedia:Place,DBpedia:Location,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "XL Center",
+            "@offset": "43",
+            "@similarityScore": "0.9999999999992184",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Boston",
+            "@support": "77759",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "boston",
+            "@offset": "75",
+            "@similarityScore": "0.9990196383632659",
+            "@percentageOfSecondRank": "5.884092633557012E-4"
+        }
+    ]
+}

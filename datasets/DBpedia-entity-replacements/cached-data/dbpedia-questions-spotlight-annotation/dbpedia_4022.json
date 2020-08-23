@@ -1,0 +1,37 @@
+{
+    "@text": "\"How is {formation} of {James Longstreet}, which has {parent company of} is {United States Department of the Army} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/James_Longstreet",
+            "@support": "670",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:MilitaryPerson,DBpedia:Agent",
+            "@surfaceForm": "James Longstreet",
+            "@offset": "24",
+            "@similarityScore": "0.9999999999983231",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "77",
+            "@similarityScore": "0.999957226257506",
+            "@percentageOfSecondRank": "1.996131358638049E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States_Army",
+            "@support": "47311",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q176799,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:MilitaryUnit,DBpedia:Agent",
+            "@surfaceForm": "Army",
+            "@offset": "109",
+            "@similarityScore": "0.9434367630226314",
+            "@percentageOfSecondRank": "0.04509349435073685"
+        }
+    ]
+}

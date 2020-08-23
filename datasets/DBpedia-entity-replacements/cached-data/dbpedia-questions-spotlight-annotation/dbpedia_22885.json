@@ -1,0 +1,28 @@
+{
+    "@text": "Which shareholder of Naval Air facility Adak is also the operator of New Sanno Hotel ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Naval_Air_Facility_Adak",
+            "@support": "101",
+            "@types": "Wikidata:Q1248784,Schema:Place,Schema:Airport,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure,DBpedia:Airport",
+            "@surfaceForm": "Naval Air facility Adak",
+            "@offset": "21",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/New_Sanno_Hotel",
+            "@support": "7",
+            "@types": "Wikidata:Q41176,Wikidata:Q27686,Schema:Place,Schema:Hotel,DBpedia:Place,DBpedia:Location,DBpedia:Hotel,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "New Sanno Hotel",
+            "@offset": "69",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

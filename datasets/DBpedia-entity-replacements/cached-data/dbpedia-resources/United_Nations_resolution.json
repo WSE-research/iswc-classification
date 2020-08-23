@@ -1,0 +1,347 @@
+{
+    "http://dbpedia.org/resource/United_Nations_resolution": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PoliticalUnit108359949"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/State108168978"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatUnitedNations"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Unit108189659"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SocialGroup107950920"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActor"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Organization108008335"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Book"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "United Nations resolution",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u8054\u5408\u56fd\u51b3\u8bae",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "UN-Resolution",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u56fd\u969b\u9023\u5408\u6c7a\u8b70",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Resoluci\u00f3n de Naciones Unidas",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Risoluzione delle Nazioni Unite",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Resolutie van de Verenigde Naties",
+                "lang": "nl"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "UN-Resolutionen sind Beschl\u00fcsse der Vereinten Nationen, die das Ergebnis einer Aussprache bestimmter Hauptorgane schriftlich festlegen. Sie enthalten Bewertungen und Forderungen, die sich auf Interpretationen beziehungsweise den Wortlaut der UN-Charta beziehen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Een resolutie van de Verenigde Naties is een resolutie die is aangenomen door een orgaan van de Verenigde Naties. In de praktijk worden de meeste VN-resoluties aangenomen door de Algemene Vergadering en de Veiligheidsraad.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "A United Nations resolution (UN resolution) is a formal text adopted by a United Nations (UN) body. Although any UN body can issue resolutions, in practice most resolutions are issued by the Security Council or the General Assembly.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u8054\u5408\u56fd\u51b3\u8bae\u662f\u7531\u8054\u5408\u56fd\u6240\u505a\u51fa\u7684\u6b63\u5f0f\u51b3\u5b9a\u3002\u6240\u6709\u7684\u8054\u5408\u56fd\u673a\u6784\u90fd\u53ef\u4ee5\u505a\u51fa\u51b3\u8bae\uff0c\u4f46\u662f\u5b9e\u9645\u4e0a\u53ea\u6709\u8054\u5408\u56fd\u5927\u4f1a\u548c\u8054\u5408\u56fd\u5b89\u7406\u4f1a\u53d1\u5e03\u51b3\u8bae\u3002\u6709\u5173\u8054\u5408\u56fd\u51b3\u8bae\u7684\u6cd5\u5f8b\u6548\u529b\u4e00\u76f4\u662f\u6cd5\u5b66\u754c\u4e89\u8bba\u7684\u7126\u70b9\u3002 \u5927\u591a\u6570\u6cd5\u5b66\u5bb6\u8ba4\u4e3a\uff0c\u8054\u5408\u56fd\u5927\u4f1a\u7684\u5927\u90e8\u5206\u51b3\u8bae\u90fd\u4e0d\u662f\u5f3a\u5236\u6027\u7684\uff1a\u6839\u636e\u300a\u8054\u5408\u56fd\u5baa\u7ae0\u300b\u7b2c\u5341\u4e8c\u6761\u4ee5\u53ca\u7b2c\u5341\u56db\u6761\u7684\u8bf4\u6cd5\uff0c\u5927\u4f1a\u6240\u901a\u8fc7\u7684\u51b3\u8bae\u53ea\u662f\u201c\u5efa\u8bae\u201d\u3002\u4f46\u662f\u5bf9\u4e8e\u8054\u5408\u56fd\u5b89\u7406\u4f1a\u7684\u51b3\u8bae\u662f\u5426\u5177\u6709\u5f3a\u5236\u6027\uff0c\u4e89\u8bae\u5c31\u6bd4\u8f83\u591a\u3002\u300a\u5baa\u7ae0\u300b\u7b2c\u4e8c\u5341\u4e94\u6761\u89c4\u5b9a\u201c\u8054\u5408\u56fd\u4f1a\u5458\u56fd\u540c\u610f\u4f9d\u5baa\u7ae0\u4e4b\u89c4\u5b9a\u63a5\u53d7\u5e76\u5c65\u884c\u5b89\u5168\u7406\u4e8b\u4f1a\u4e4b\u51b3\u8bae\u3002\u201d\u4f46\u662f\u4e00\u4e9b\u4e13\u5bb6\u8ba4\u4e3a\u5e76\u4e0d\u662f\u6240\u6709\u7684\u201c\u51b3\u5b9a\u201d\u90fd\u662f\u5f3a\u5236\u6027\u7684\uff0c\u800c\u53ea\u662f\u90a3\u4e9b\u6d89\u53ca\u300a\u5baa\u7ae0\u300b\u7b2c\u4e03\u7ae0\u6240\u79f0\u7684\u201c\u548c\u5e73\u4e4b\u5a01\u80c1\u3001\u548c\u5e73\u4e4b\u7834\u574f\u53ca\u4fb5\u7565\u884c\u4e3a\u201d\u7684\u51b3\u8bae\u624d\u662f\u5f3a\u5236\u6027\u7684\u3002\u800c\u5373\u4f7f\u52a8\u7528\u4e86\u7b2c\u4e03\u7ae0\uff0c\u4ecd\u7136\u6709\u4e9b\u5927\u56fd\u6709\u80fd\u529b\u65e0\u89c6\u51b3\u8bae\u505a\u51fa\u8fdd\u53cd\u7684\u4e3e\u52a8\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Una resoluci\u00f3n de Naciones Unidas es una declaraci\u00f3n formal adoptada por un organismo de la ONU. Cualquier organismo deliberativo puede emitir resoluciones. Sin embargo, en la pr\u00e1ctica la mayor\u00eda de resoluciones las emite el Consejo de Seguridad o la Asamblea General. El car\u00e1cter de estas disposiciones puede ser o no vinculante para los Estados miembros, en funci\u00f3n de qu\u00e9 organismo la emita y bajo qu\u00e9 cap\u00edtulo o art\u00edculo de la Carta se invoque.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u56fd\u969b\u9023\u5408\u6c7a\u8b70\uff08\u3053\u304f\u3055\u3044\u308c\u3093\u3054\u3046\u3051\u3064\u304e\u3001United Nations resolution\uff09\u3068\u306f\u3001\u56fd\u969b\u9023\u5408\u306e\u6a5f\u95a2\u306b\u3088\u3063\u3066\u63a1\u629e\u3055\u308c\u305f\u6b63\u5f0f\u6587\u66f8\u306e\u3053\u3068\u3002 \u56fd\u969b\u9023\u5408\u306e\u3059\u3079\u3066\u306e\u6a5f\u95a2\u304c\u767a\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u304c\u3001\u5b9f\u969b\u306b\u306f\u305d\u306e\u307b\u3068\u3093\u3069\u304c\u3001\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u304b\u7dcf\u4f1a\u306b\u3088\u3063\u3066\u63a1\u629e\u3055\u308c\u305f\u3082\u306e\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La risoluzione \u00e8 l'atto giuridico pi\u00f9 importante che l'Organizzazione delle Nazioni Unite possa adottare. Sebbene qualsiasi organismo dell'ONU possa emettere risoluzioni, di fatto queste vengono proclamate solo dal Consiglio di Sicurezza oppure dall'Assemblea Generale, e vengono distinte secondo la loro origine in \"Risoluzioni del Consiglio di Sicurezza\" e \"Risoluzioni dell'Assemblea Generale delle Nazioni Unite\".",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/UN-Resolution"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Resolutie_van_de_Verenigde_Naties"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u56fd\u969b\u9023\u5408\u6c7a\u8b70"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Risoluzione_delle_Nazioni_Unite"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1190392"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Resoluci\u00f3n_de_Naciones_Unidas"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1190392"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Resolusi_Perserikatan_Bangsa-Bangsa"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United_Nations_resolution"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc720\uc5d4_\uacb0\uc758"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/United_Nations_resolution"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.051glw"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:United_Nations_resolutions"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/United_Nations_resolution"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/United_Nations_resolution?oldid=695766399"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.icla.up.ac.za/staff/9-about-us/36-erika-de-wet-co-director"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "A United Nations resolution (UN resolution) is a formal text adopted by a United Nations (UN) body. Although any UN body can issue resolutions, in practice most resolutions are issued by the Security Council or the General Assembly.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Una resoluci\u00f3n de Naciones Unidas es una declaraci\u00f3n formal adoptada por un organismo de la ONU. Cualquier organismo deliberativo puede emitir resoluciones. Sin embargo, en la pr\u00e1ctica la mayor\u00eda de resoluciones las emite el Consejo de Seguridad o la Asamblea General. El car\u00e1cter de estas disposiciones puede ser o no vinculante para los Estados miembros, en funci\u00f3n de qu\u00e9 organismo la emita y bajo qu\u00e9 cap\u00edtulo o art\u00edculo de la Carta se invoque.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u8054\u5408\u56fd\u51b3\u8bae\u662f\u7531\u8054\u5408\u56fd\u6240\u505a\u51fa\u7684\u6b63\u5f0f\u51b3\u5b9a\u3002\u6240\u6709\u7684\u8054\u5408\u56fd\u673a\u6784\u90fd\u53ef\u4ee5\u505a\u51fa\u51b3\u8bae\uff0c\u4f46\u662f\u5b9e\u9645\u4e0a\u53ea\u6709\u8054\u5408\u56fd\u5927\u4f1a\u548c\u8054\u5408\u56fd\u5b89\u7406\u4f1a\u53d1\u5e03\u51b3\u8bae\u3002\u6709\u5173\u8054\u5408\u56fd\u51b3\u8bae\u7684\u6cd5\u5f8b\u6548\u529b\u4e00\u76f4\u662f\u6cd5\u5b66\u754c\u4e89\u8bba\u7684\u7126\u70b9\u3002 \u5927\u591a\u6570\u6cd5\u5b66\u5bb6\u8ba4\u4e3a\uff0c\u8054\u5408\u56fd\u5927\u4f1a\u7684\u5927\u90e8\u5206\u51b3\u8bae\u90fd\u4e0d\u662f\u5f3a\u5236\u6027\u7684\uff1a\u6839\u636e\u300a\u8054\u5408\u56fd\u5baa\u7ae0\u300b\u7b2c\u5341\u4e8c\u6761\u4ee5\u53ca\u7b2c\u5341\u56db\u6761\u7684\u8bf4\u6cd5\uff0c\u5927\u4f1a\u6240\u901a\u8fc7\u7684\u51b3\u8bae\u53ea\u662f\u201c\u5efa\u8bae\u201d\u3002\u4f46\u662f\u5bf9\u4e8e\u8054\u5408\u56fd\u5b89\u7406\u4f1a\u7684\u51b3\u8bae\u662f\u5426\u5177\u6709\u5f3a\u5236\u6027\uff0c\u4e89\u8bae\u5c31\u6bd4\u8f83\u591a\u3002\u300a\u5baa\u7ae0\u300b\u7b2c\u4e8c\u5341\u4e94\u6761\u89c4\u5b9a\u201c\u8054\u5408\u56fd\u4f1a\u5458\u56fd\u540c\u610f\u4f9d\u5baa\u7ae0\u4e4b\u89c4\u5b9a\u63a5\u53d7\u5e76\u5c65\u884c\u5b89\u5168\u7406\u4e8b\u4f1a\u4e4b\u51b3\u8bae\u3002\u201d\u4f46\u662f\u4e00\u4e9b\u4e13\u5bb6\u8ba4\u4e3a\u5e76\u4e0d\u662f\u6240\u6709\u7684\u201c\u51b3\u5b9a\u201d\u90fd\u662f\u5f3a\u5236\u6027\u7684\uff0c\u800c\u53ea\u662f\u90a3\u4e9b\u6d89\u53ca\u300a\u5baa\u7ae0\u300b\u7b2c\u4e03\u7ae0\u6240\u79f0\u7684\u201c\u548c\u5e73\u4e4b\u5a01\u80c1\u3001\u548c\u5e73\u4e4b\u7834\u574f\u53ca\u4fb5\u7565\u884c\u4e3a\u201d\u7684\u51b3\u8bae\u624d\u662f\u5f3a\u5236\u6027\u7684\u3002\u800c\u5373\u4f7f\u52a8\u7528\u4e86\u7b2c\u4e03\u7ae0\uff0c\u4ecd\u7136\u6709\u4e9b\u5927\u56fd\u6709\u80fd\u529b\u65e0\u89c6\u51b3\u8bae\u505a\u51fa\u8fdd\u53cd\u7684\u4e3e\u52a8\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Een resolutie van de Verenigde Naties is een resolutie die is aangenomen door een orgaan van de Verenigde Naties. In de praktijk worden de meeste VN-resoluties aangenomen door de Algemene Vergadering en de Veiligheidsraad.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u56fd\u969b\u9023\u5408\u6c7a\u8b70\uff08\u3053\u304f\u3055\u3044\u308c\u3093\u3054\u3046\u3051\u3064\u304e\u3001United Nations resolution\uff09\u3068\u306f\u3001\u56fd\u969b\u9023\u5408\u306e\u6a5f\u95a2\u306b\u3088\u3063\u3066\u63a1\u629e\u3055\u308c\u305f\u6b63\u5f0f\u6587\u66f8\u306e\u3053\u3068\u3002 \u56fd\u969b\u9023\u5408\u306e\u3059\u3079\u3066\u306e\u6a5f\u95a2\u304c\u767a\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u304c\u3001\u5b9f\u969b\u306b\u306f\u305d\u306e\u307b\u3068\u3093\u3069\u304c\u3001\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u304b\u7dcf\u4f1a\u306b\u3088\u3063\u3066\u63a1\u629e\u3055\u308c\u305f\u3082\u306e\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La risoluzione \u00e8 l'atto giuridico pi\u00f9 importante che l'Organizzazione delle Nazioni Unite possa adottare. Sebbene qualsiasi organismo dell'ONU possa emettere risoluzioni, di fatto queste vengono proclamate solo dal Consiglio di Sicurezza oppure dall'Assemblea Generale, e vengono distinte secondo la loro origine in \"Risoluzioni del Consiglio di Sicurezza\" e \"Risoluzioni dell'Assemblea Generale delle Nazioni Unite\".",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "UN-Resolutionen sind Beschl\u00fcsse der Vereinten Nationen, die das Ergebnis einer Aussprache bestimmter Hauptorgane schriftlich festlegen. Sie enthalten Bewertungen und Forderungen, die sich auf Interpretationen beziehungsweise den Wortlaut der UN-Charta beziehen.",
+                "lang": "de"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 695766399,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 1437212,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Text"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/United_Nations_resolution": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United_Nations_resolution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/United_Nations_resolutions": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United_Nations_resolution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unanimous_resolution": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United_Nations_resolution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Un_resolutions": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United_Nations_resolution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/United_Nations_Resolutions": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United_Nations_resolution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/United_Nations_Resolution": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United_Nations_resolution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UN_Resolution": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United_Nations_resolution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UN_Resolutions": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United_Nations_resolution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UN_resolution": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United_Nations_resolution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/U.N._resolution": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United_Nations_resolution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Untied_Nations_resolution": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/United_Nations_resolution"
+            }
+        ]
+    }
+}

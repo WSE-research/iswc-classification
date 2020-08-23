@@ -1,0 +1,840 @@
+{
+    "http://dbpedia.org/resource/Schramsberg_Vineyards": {
+        "http://dbpedia.org/property/signatureWine": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sparkling_wine": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Company"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u6c14\u6ce1\u9152",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Vino spumante",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Sparkling wine",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Vino espumoso",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Vin effervescent",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0418\u0433\u0440\u0438\u0441\u0442\u043e\u0435 \u0432\u0438\u043d\u043e",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u30b9\u30d1\u30fc\u30af\u30ea\u30f3\u30b0\u30ef\u30a4\u30f3",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Vinho espumante",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Schaumwein",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Wino musuj\u0105ce",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Mousserende wijn",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0646\u0628\u064a\u0630 \u0641\u0648\u0627\u0631",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u0418\u0433\u0440\u0438\u0301\u0441\u0442\u043e\u0435 \u0432\u0438\u043d\u043e\u0301 \u2014 \u044d\u0442\u043e \u0432\u0438\u043d\u043e, \u043d\u0430\u0441\u044b\u0449\u0435\u043d\u043d\u043e\u0435 \u0443\u0433\u043b\u0435\u043a\u0438\u0441\u043b\u044b\u043c \u0433\u0430\u0437\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0434\u0435\u043b\u0430\u0435\u0442 \u0435\u0433\u043e \u0448\u0438\u043f\u0443\u0447\u0438\u043c, \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u0443\u0433\u043b\u0435\u043a\u0438\u0441\u043b\u044b\u0439 \u0433\u0430\u0437 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u0431\u0440\u043e\u0436\u0435\u043d\u0438\u044f. \u041d\u0435 \u043f\u0443\u0442\u0430\u0442\u044c \u0441 \u0438\u0441\u043a\u0440\u0438\u0441\u0442\u044b\u043c \u0432\u0438\u043d\u043e\u043c (\u0433\u0430\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0432\u0438\u043d\u043e), \u043a\u0443\u0434\u0430 \u0434\u0438\u043e\u043a\u0441\u0438\u0434 \u0443\u0433\u043b\u0435\u0440\u043e\u0434\u0430 \u0432\u0432\u043e\u0434\u0438\u0442\u0441\u044f \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043f\u0440\u0438 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u043c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u0434\u043b\u044f \u043f\u0440\u0438\u0434\u0430\u043d\u0438\u044f \u0432\u0438\u043d\u0443 \u0438\u0433\u0440\u0438\u0441\u0442\u044b\u0445 \u0441\u0432\u043e\u0439\u0441\u0442\u0432. \u0418\u0433\u0440\u0438\u0441\u0442\u043e\u0435 \u0432\u0438\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u0438\u0437\u0431\u044b\u0442\u043e\u043a \u0443\u0433\u043b\u0435\u043a\u0438\u0441\u043b\u043e\u0442\u044b, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432\u044b\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442\u0441\u044f \u043f\u0440\u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u0438 \u0431\u0443\u0442\u044b\u043b\u043a\u0438 \u0442\u043e\u0440\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u00ab\u0432\u044b\u0441\u0442\u0440\u0435\u043b\u043e\u043c\u00bb \u043f\u0440\u043e\u0431\u043a\u0438 \u0438 \u043f\u0440\u0438\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0438\u0433\u0440\u043e\u0439 \u043f\u0443\u0437\u044b\u0440\u044c\u043a\u043e\u0432 \u043d\u0430 \u0441\u0442\u0435\u043d\u043a\u0430\u0445 \u0444\u0443\u0436\u0435\u0440\u0430 \u0441 \u043d\u0430\u043f\u0438\u0442\u043a\u043e\u043c.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Un vin effervescent est g\u00e9n\u00e9ralement un vin contenant une concentration en gaz dioxyde de carbone (CO2) suffisante pour lui conf\u00e9rer, sinon bulles et mousse \u00e0 l'ouverture de la bouteille, au moins une sensation de picotement une fois en bouche. Il s'oppose ainsi aux vins tranquilles.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "I vini spumanti sono quei vini caratterizzati, all'apertura della bottiglia, dalla produzione di spuma, dovuta alla presenza all'interno della stessa di anidride carbonica non aggiunta dall'esterno ma prodotta per fermentazione (ovvero gli spumanti naturali).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016)  \u0647\u0630\u0647 \u0627\u0644\u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0641\u0648\u0651\u0627\u0631. \u0644\u062a\u0635\u0641\u062d \u0639\u0646\u0627\u0648\u064a\u0646 \u0645\u0634\u0627\u0628\u0647\u0629\u060c \u0627\u0646\u0638\u0631 \u0641\u0648\u0627\u0631 (\u062a\u0648\u0636\u064a\u062d). \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u063a\u0627\u0632\u064a (\u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0641\u0648\u0627\u0631 ) \u0643\u0627\u0644\u0634\u0627\u0645\u0628\u0627\u0646\u064a\u0627 \u064a\u0635\u0646\u0639 \u0645\u0646 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0623\u0628\u064a\u0636\u060c \u0623\u0648 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0648\u0631\u062f\u064a\u060c \u0648\u0628\u0639\u0636 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u063a\u0627\u0632\u064a \u0630\u0648 \u062c\u0648\u062f\u0629 \u0639\u0627\u0644\u064a\u0629 \u064a\u0635\u0646\u0639 \u0645\u0624\u062e\u0631\u0627 \u0645\u0646 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0623\u062d\u0645\u0631 \u0627\u0644\u0623\u0633\u062a\u0631\u0627\u0644\u064a \"\u0634\u064a\u0631\u0627\u0632\". \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u063a\u0627\u0632\u064a \u0647\u0648 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0630\u064a \u064a\u0637\u0644\u0642 \u062b\u0627\u0646\u064a \u0623\u0643\u0633\u064a\u062f \u0627\u0644\u0643\u0631\u0628\u0648\u0646 \u0641\u064a \u0641\u0642\u0627\u0639\u0627\u062a. \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0645\u0637\u0627\u0639\u0645 \u0648\u0637\u0639\u0627\u0645\u0645\u0634\u0627\u0631\u064a\u0639 \u0634\u0642\u064a\u0642\u0629 \u0641\u064a \u0643\u0648\u0645\u0646\u0632 \u0635\u0648\u0631 \u0648\u0645\u0644\u0641\u0627\u062a \u0639\u0646: \u0646\u0628\u064a\u0630 \u0641\u0648\u0627\u0631 25\u0628\u0643 \u0647\u0630\u0647 \u0628\u0630\u0631\u0629 \u0645\u0642\u0627\u0644\u0629 \u0628\u062d\u0627\u062c\u0629 \u0644\u0644\u062a\u0648\u0633\u064a\u0639. \u0634\u0627\u0631\u0643 \u0641\u064a \u062a\u062d\u0631\u064a\u0631\u0647\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u30b9\u30d1\u30fc\u30af\u30ea\u30f3\u30b0\u30fb\u30ef\u30a4\u30f3\uff08\u82f1\u8a9e: Sparkling wine\uff09\u307e\u305f\u306f\u767a\u6ce1\u6027\u30ef\u30a4\u30f3\uff08\u306f\u3063\u307d\u3046\u305b\u3044\u30ef\u30a4\u30f3\uff09\u3068\u306f\u3001\u30ef\u30a4\u30f3\u306e\u4e00\u7a2e\u3002\u4e8c\u9178\u5316\u70ad\u7d20\u3092\u591a\u304f\u542b\u307f\u3001\u958b\u6813\u3059\u308b\u3068\u5727\u529b\u304c\u4e0b\u304c\u3063\u3066\u4e8c\u9178\u5316\u70ad\u7d20\u304c\u6c17\u6ce1\u3068\u3057\u3066\u7acb\u3061\u4e0a\u3063\u3066\u304f\u308b\u3082\u306e\u3002\u901a\u5e38\u306e\u30ef\u30a4\u30f3\u306b\u3082\u70ad\u9178\u30ac\u30b9\u306f\u542b\u307e\u308c\u308b\u304c\u3001\u6eb6\u3051\u8fbc\u3093\u3067\u3044\u308b\u91cf\u304c\u5c11\u306a\u3044\u305f\u3081\u958b\u6813\u3057\u3066\u3082\u767a\u6ce1\u3057\u306a\u3044\u3002\u30b9\u30d1\u30fc\u30af\u30ea\u30f3\u30b0\u30ef\u30a4\u30f3\u306b\u306f\u3001\u74f6\u5185\u767a\u9175\u306e\u305f\u3081\u306b\u4e8c\u9178\u5316\u70ad\u7d20\u304c\u6eb6\u3051\u8fbc\u3093\u3067\u3044\u308b\u3082\u306e\u3068\u3001\u4eba\u5de5\u7684\u306b\u4e8c\u9178\u5316\u70ad\u7d20\u3092\u5439\u304d\u8fbc\u3093\u3060\u3001\u3044\u308f\u3086\u308b\u70ad\u9178\u30ef\u30a4\u30f3\u3068\u304c\u5b58\u5728\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Sparkling wine is a wine with significant levels of carbon dioxide in it, making it fizzy. The classic example of a sparkling wine is champagne, which is exclusively produced in the Champagne region of France. Most sparkling wine is white or ros\u00e9 but there are examples of red sparkling wines such as the Italian Brachetto, Australian sparkling Shiraz, and Azerbaijani \"Pearl of Azerbaijan\" made from Madrasa grapes. The sweetness of sparkling wine can range from very dry \"brut\" styles to sweeter \"doux\" varieties (from the French words for 'raw' and 'sweet', respectively).",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Los vinos espumosos, espumantes o de aguja son vinos con gas disuelto. El gas se consigue haciendo que haya una segunda fermentaci\u00f3n dentro de la botella cerrada (o en algunos casos en dep\u00f3sitos cerrados de algunos hectolitros), el CO2 que se produce no puede escapar y se disuelve en el l\u00edquido. La segunda fermentaci\u00f3n en botella se puede conseguir a\u00f1adiendo az\u00facar, embotellando el vino antes de que haya terminado de fermentar o cerrando la cuba de fermentaci\u00f3n antes de que termine esta.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Mousserende wijn of in de volksmond ook wel bubbeltjeswijn of schuimwijn is wijn, waarin zich koolzuurgas bevindt.Hoewel de meeste mousserende wijnen witte wijnen zijn, bestaan er ook mousserende varianten van ros\u00e9wijn en rode wijn. Er is veel verschil in kwaliteit. Ook de zoetheid kan vari\u00ebren van droog tot zoet. In de meeste landen waar wijn wordt gemaakt, wordt ook een mousserende wijn gemaakt, vaak met verschillende kleuren, typen en smaken. Een fles mousserende wijn moet rustig open worden gemaakt, zie het ontkurken van champagne, anders verdwijnt het koolzuur snel uit de wijn.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Wino musuj\u0105ce \u2013 rodzaj wina o znacznym nasyceniu dwutlenkiem w\u0119gla. Dwutlenek wytwarza si\u0119 w procesie fermentacji, w butelce b\u0105d\u017a zbiorniku, lub jest sztucznie dodawany. Najbardziej znanym rodzajem wina musuj\u0105cego jest szampan. Prawdopodobnie ich produkcj\u0119 zapocz\u0105tkowa\u0142 Christopher Merret.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Schaumwein ist der Oberbegriff f\u00fcr weinhaltige Getr\u00e4nke in Flaschen, die aufgrund ihres Gehalts an Kohlenstoffdioxid unter Druck stehen. Der \u00dcberdruck durch das gel\u00f6ste Kohlenstoffdioxid muss bei 20 \u00b0C mindestens 3 bar betragen. Im Unterschied dazu haben Perlweine nur einen \u00dcberdruck von 1\u20132,5 bar. Die Alkoholherkunft ist im \u201eGesetz zur Besteuerung von Schaumwein und Zwischenerzeugnissen\u201c geregelt.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Espumante \u00e9 um vinho que tem n\u00edvel significativo de di\u00f3xido de carbono, fazendo-o borbulhar quando servido. O Di\u00f3xido de carbono resulta de fermenta\u00e7\u00e3o natural, seja ela feita dentro da garrafa (M\u00e9todo champenoise) ou fora dela (M\u00e9todo Charmat). As borbulhas de CO2 que se formam durante o servi\u00e7o s\u00e3o denominadas perlage. Em alguns lugares do mundo a palavra champagne \u00e9 usada como sin\u00f4nimo de espumante, o que \u00e9 vedado inclusive por algumas legisla\u00e7\u00f5es.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c14\u6ce1\u9152\uff08\u82f1\u8bed\uff1aSparkling wine\uff09\uff0c\u53c8\u540d\u8d77\u6ce1\u9152\u6216\u6c7d\u9152\uff0c\u4e00\u7a2e\u8461\u8404\u9152\uff0c\u5176\u7279\u5fb5\u70ba\u542b\u6709\u4e00\u5b9a\u6570\u91cf\u7684\u4e8c\u6c27\u5316\u78b3\u6c14\u6ce1\u3002\u4e8c\u6c27\u5316\u78b3\u901a\u8fc7\u9152\u7684\u53d1\u9175\u5728\u74f6\u5185\uff08\u5982\uff1a\u9999\u69df\u5236\u6cd5\uff09\u6216\u5927\u578b\u50a8\u9152\u7f38\u4e2d\uff08\u5982\uff1a\u6c99\u5c14\u9a6c\u5236\u6cd5\uff09\u81ea\u7136\u5f62\u6210\uff0c\u6216\u88ab\u6ce8\u5165\u9152\u4e2d\u3002\u6c14\u6ce1\u9152\u901a\u5e38\u662f\u767d\u8272\u6216\u7c89\u7ea2\u8272\u7684\uff0c\u4f46\u5982\u610f\u5927\u5229\u548c\u6fb3\u5927\u5229\u4e9a\u7b49\u56fd\u4e5f\u5206\u522b\u7528\u5e03\u62c9\u51ef\u6258\uff08Brachetto\uff09\u7ea2\u8461\u8404\u548c\u897f\u62c9\uff08Syrah\uff09\u7ea2\u8461\u8404\u917f\u9020\u7ea2\u8272\u7684\u6c14\u6ce1\u9152\u3002\u6c14\u6ce1\u9152\u53ef\u6839\u636e\u542b\u7cd6\u91cf\u5206\u4e3a\u5e72\u578b\u3001\u751c\u578b\u7b49\u4e0d\u540c\u7b49\u7ea7\u3002 \u9999\u69df\u9152\u5c31\u662f\u4e00\u79cd\u7ecf\u5178\u7684\u6c14\u6ce1\u9152\u3002\u522b\u7684\u5730\u533a\u4e5f\u51fa\u4ea7\u6c14\u6ce1\u9152\uff0c\u5982\u897f\u73ed\u7259\u7684\u5361\u74e6\u3001\u610f\u5927\u5229\u7684\u963f\u65af\u8482\uff08\u65af\u666e\u66fc\u6cf0\u4e3a\u610f\u5927\u5229\u4ea7\u6c14\u6ce1\u9152\u7684\u7edf\u79f0\uff09\u3001\u5357\u975e\u7684Cap Classique\u3002\u7f8e\u56fd\u52a0\u5dde\u4e5f\u662f\u91cd\u8981\u7684\u6c14\u6ce1\u9152\u4ea7\u533a\u3002\u6c14\u6ce1\u9152\u7684\u53d1\u6e90\u5730\u82f1\u56fd\u4e5f\u917f\u9020\u6709\u9999\u69df\u98ce\u683c\u7684\u6c14\u6ce1\u9152\u3002\u5c3d\u7ba1\u6cd5\u5f8b\u6709\u6240\u7ea6\u675f\uff0c\u9999\u69df\u5730\u533a\u4e5f\u6781\u529b\u63a8\u5e7f\u9999\u69df\u4e00\u8bcd\u7684\u6b63\u786e\u4f7f\u7528\uff08\u5373\u53ea\u6709\u9999\u69df\u5730\u533a\u751f\u4ea7\u7684\u6c14\u6ce1\u9152\u624d\u53ef\u4ee5\u79f0\u4f5c\u9999\u69df)\uff0c\u4f46\u662f\u4e00\u4e9b\u5730\u533a\u8fd8\u662f\u7528\u9999\u69df\u4e00\u8bcd\u4ee3\u66ff\u6c14\u6ce1\u9152\u3002\u5728\u6cd5\u8bed\u4e2d\uff0cMousseux\u6216Cr\u00e9mant\u88ab\u7528\u6765\u79f0\u547c\u4e0d\u5728\u9999\u69df\u5730\u533a\u917f\u9020\u7684\u6c14\u6ce1\u9152\u3002\u5fb7\u56fd\u548c\u5965\u5730\u5229\u7684\u6c14\u6ce1\u9152\u53ebSekt\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Carbonation"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/History_of_Champagne"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Schaumwein"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Vino_espumoso"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q321263"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30b9\u30d1\u30fc\u30af\u30ea\u30f3\u30b0\u30ef\u30a4\u30f3"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4134550-2"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q321263"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Vino_spumante"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ubc1c\ud3ec\uc131_\ud3ec\ub3c4\uc8fc"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Vinho_espumante"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Wino_musuj\u0105ce"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01224x"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Sekt"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Vin_effervescent"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Mousserende_wijn"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Sparkling_wines"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Wine_terminology"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Glass_of_champagne.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Sparkling_wine"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Sparkling_wine?oldid=745141710"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books/about/De_salubri_potu_dissertatio.html?id=EoZAAAAAcAAJ&redir_esc=y"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.chandon.com/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u30b9\u30d1\u30fc\u30af\u30ea\u30f3\u30b0\u30fb\u30ef\u30a4\u30f3\uff08\u82f1\u8a9e: Sparkling wine\uff09\u307e\u305f\u306f\u767a\u6ce1\u6027\u30ef\u30a4\u30f3\uff08\u306f\u3063\u307d\u3046\u305b\u3044\u30ef\u30a4\u30f3\uff09\u3068\u306f\u3001\u30ef\u30a4\u30f3\u306e\u4e00\u7a2e\u3002\u4e8c\u9178\u5316\u70ad\u7d20\u3092\u591a\u304f\u542b\u307f\u3001\u958b\u6813\u3059\u308b\u3068\u5727\u529b\u304c\u4e0b\u304c\u3063\u3066\u4e8c\u9178\u5316\u70ad\u7d20\u304c\u6c17\u6ce1\u3068\u3057\u3066\u7acb\u3061\u4e0a\u3063\u3066\u304f\u308b\u3082\u306e\u3002\u901a\u5e38\u306e\u30ef\u30a4\u30f3\u306b\u3082\u70ad\u9178\u30ac\u30b9\u306f\u542b\u307e\u308c\u308b\u304c\u3001\u6eb6\u3051\u8fbc\u3093\u3067\u3044\u308b\u91cf\u304c\u5c11\u306a\u3044\u305f\u3081\u958b\u6813\u3057\u3066\u3082\u767a\u6ce1\u3057\u306a\u3044\u3002\u30b9\u30d1\u30fc\u30af\u30ea\u30f3\u30b0\u30ef\u30a4\u30f3\u306b\u306f\u3001\u74f6\u5185\u767a\u9175\u306e\u305f\u3081\u306b\u4e8c\u9178\u5316\u70ad\u7d20\u304c\u6eb6\u3051\u8fbc\u3093\u3067\u3044\u308b\u3082\u306e\u3068\u3001\u4eba\u5de5\u7684\u306b\u4e8c\u9178\u5316\u70ad\u7d20\u3092\u5439\u304d\u8fbc\u3093\u3060\u3001\u3044\u308f\u3086\u308b\u70ad\u9178\u30ef\u30a4\u30f3\u3068\u304c\u5b58\u5728\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Mousserende wijn of in de volksmond ook wel bubbeltjeswijn of schuimwijn is wijn, waarin zich koolzuurgas bevindt.Hoewel de meeste mousserende wijnen witte wijnen zijn, bestaan er ook mousserende varianten van ros\u00e9wijn en rode wijn. Er is veel verschil in kwaliteit. Ook de zoetheid kan vari\u00ebren van droog tot zoet. In de meeste landen waar wijn wordt gemaakt, wordt ook een mousserende wijn gemaakt, vaak met verschillende kleuren, typen en smaken. Een fles mousserende wijn moet rustig open worden gemaakt, zie het ontkurken van champagne, anders verdwijnt het koolzuur snel uit de wijn.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Schaumwein ist der Oberbegriff f\u00fcr weinhaltige Getr\u00e4nke in Flaschen, die aufgrund ihres Gehalts an Kohlenstoffdioxid unter Druck stehen. Der \u00dcberdruck durch das gel\u00f6ste Kohlenstoffdioxid muss bei 20 \u00b0C mindestens 3 bar betragen. Im Unterschied dazu haben Perlweine nur einen \u00dcberdruck von 1\u20132,5 bar. Die Alkoholherkunft ist im \u201eGesetz zur Besteuerung von Schaumwein und Zwischenerzeugnissen\u201c geregelt.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Un vin effervescent est g\u00e9n\u00e9ralement un vin contenant une concentration en gaz dioxyde de carbone (CO2) suffisante pour lui conf\u00e9rer, sinon bulles et mousse \u00e0 l'ouverture de la bouteille, au moins une sensation de picotement une fois en bouche. Il s'oppose ainsi aux vins tranquilles. \n*  Un vin perlant (ou perl\u00e9) est un vin l\u00e9g\u00e8rement effervescent, g\u00e9n\u00e9ralement obtenu par embouteillage avant d\u00e9gazage apr\u00e8s fermentation ou apr\u00e8s une vinification sur lies b\u00e2tonn\u00e9es, comme certains muscadets, gaillacs ou vins de Savoie. \n*  Un vin p\u00e9tillant est un vin effervescent \u00e0 plus haute teneur en dioxyde de carbone qu'un vin perlant. Il conserve plus longtemps en bouche la sensation de picotement apport\u00e9e par la pr\u00e9sence du gaz dissous. \n*  Un vin mousseux est, des vins effervescents, celui qui contient la plus haute teneur en dioxyde de carbone, de nombreuses bulles se forment d\u00e8s l'ouverture de la bouteille et de la mousse apparente se forme \u00e0 foison lorsqu'on le sert dans un verre. Au Qu\u00e9bec, tous les vins effervescents sont d\u00e9sign\u00e9s comme \u00e9tant des \u00ab mousseux \u00bb par faute de production historique. Les vins effervescents fran\u00e7ais les plus connus sont les vins de Champagne, la blanquette de Limoux, les cr\u00e9mants de Loire, de Bourgogne, d'Alsace et de Bordeaux, ou encore la clairette de Die. D'autres vins effervescents sont \u00e9galement produits dans le Bugey sous l'appellation Cerdon et dans le Gaillacois. L'Espagne produit \u00e9galement des cavas. De nombreux vins mousseux (spumante) et p\u00e9tillants (frizzante) sont \u00e9galement \u00e9labor\u00e9s en Italie et sur la c\u00f4te ouest des \u00c9tats-Unis. En France, on trouve aussi des \u00ab vins mousseux de qualit\u00e9 produits dans des r\u00e9gions d\u00e9limit\u00e9es \u00bb (VMQPRD), ce sont des mousseux ne provenant pas des r\u00e9gions autoris\u00e9es ou ne suivant pas compl\u00e8tement les d\u00e9crets des appellations. Cependant ils peuvent \u00e9galement donner des produits de qualit\u00e9, dans des gammes de prix comparables, voire plus abordable du fait de leur moindre notori\u00e9t\u00e9.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "I vini spumanti sono quei vini caratterizzati, all'apertura della bottiglia, dalla produzione di spuma, dovuta alla presenza all'interno della stessa di anidride carbonica non aggiunta dall'esterno ma prodotta per fermentazione (ovvero gli spumanti naturali).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Los vinos espumosos, espumantes o de aguja son vinos con gas disuelto. El gas se consigue haciendo que haya una segunda fermentaci\u00f3n dentro de la botella cerrada (o en algunos casos en dep\u00f3sitos cerrados de algunos hectolitros), el CO2 que se produce no puede escapar y se disuelve en el l\u00edquido. La segunda fermentaci\u00f3n en botella se puede conseguir a\u00f1adiendo az\u00facar, embotellando el vino antes de que haya terminado de fermentar o cerrando la cuba de fermentaci\u00f3n antes de que termine esta. Un caso aparte son los vinos gasificados a los cuales se les a\u00f1ade artificialmente el gas a la manera de los refrescos gaseosos. S\u00f3lo si siguen el m\u00e9todo tradicional (tambi\u00e9n llamado m\u00e9todo champenoise), se podr\u00eda considerar champ\u00e1n o equivalente, y aun as\u00ed s\u00f3lo se permite el nombre de champ\u00e1n a los que tienen la denominaci\u00f3n de origen en la regi\u00f3n correspondiente de Francia. Los elaborados en Espa\u00f1a se llaman cavas, utilizando tambi\u00e9n el m\u00e9todo tradicional para su elaboraci\u00f3n. La primac\u00eda en vinos espumosos espa\u00f1oles corresponde a la localidad de Sant Sadurn\u00ed d'Anoia, perteneciente a la comarca del Alto Pened\u00e9s, en ella se iniciaron las elaboraciones y se las llev\u00f3 a la m\u00e1s alta perfecci\u00f3n de los m\u00e9todos seguidos en la regi\u00f3n francesa de Champa\u00f1a-Ardenas, y en ella se obtiene la mayor parte de la producci\u00f3n nacional. En proporciones menores (menos del 1%, en realidad) se preparan espumosos en Arag\u00f3n, Castilla y Le\u00f3n, Castilla-La Mancha, Extremadura, La Rioja, Pa\u00eds Vasco, Regi\u00f3n de Murcia, Navarra y recientemente en Andaluc\u00eda.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Sparkling wine is a wine with significant levels of carbon dioxide in it, making it fizzy. The classic example of a sparkling wine is champagne, which is exclusively produced in the Champagne region of France. Most sparkling wine is white or ros\u00e9 but there are examples of red sparkling wines such as the Italian Brachetto, Australian sparkling Shiraz, and Azerbaijani \"Pearl of Azerbaijan\" made from Madrasa grapes. The sweetness of sparkling wine can range from very dry \"brut\" styles to sweeter \"doux\" varieties (from the French words for 'raw' and 'sweet', respectively). The sparkling quality, of sparkling wine, comes from its carbon dioxide content and may be the result of natural fermentation, either in a bottle, as with the traditional method, in a large tank designed to withstand the pressures involved (as in the Charmat process), or as a result of simple carbon dioxide injection in some cheaper sparkling wines. In most countries the word \"champagne\" is reserved only for the specific type of sparkling wine from the Champagne region of France. The French terms \"Mousseux\" or \"Cr\u00e9mant\" are used to refer to sparkling wine not made in the Champagne region, such as Blanquette de Limoux produced in Southern France. Sparkling wines are also produced in other regions of France as well as other countries around the world. These sparkling wines are often referred to by their local name or region, such as Espumante from Portugal, Cava from Spain, Franciacorta, Trento DOC, Oltrep\u00f2 Pavese Metodo Classico and Asti from Italy (the generic Italian term for sparkling wine being spumante) and Cap Classique from South Africa. Sparkling wine have also been produced in Central and Eastern Europe since the early 19th-century. \"Champagne\" was further popularised in the region, late in the century, when J\u00f3zsef T\u00f6rley started production in Hungary using French methods, learned as an apprentice in Reims. T\u00f6rley has since become one of the largest European producers of sparkling wine. The United States, is also a significant producer of sparkling wine today, with producers in numerous states. Recently production of sparkling wine have started in the United Kingdom again, after a long hiatus since some of the earliest examples of sparkling wine was produced there.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c14\u6ce1\u9152\uff08\u82f1\u8bed\uff1aSparkling wine\uff09\uff0c\u53c8\u540d\u8d77\u6ce1\u9152\u6216\u6c7d\u9152\uff0c\u4e00\u7a2e\u8461\u8404\u9152\uff0c\u5176\u7279\u5fb5\u70ba\u542b\u6709\u4e00\u5b9a\u6570\u91cf\u7684\u4e8c\u6c27\u5316\u78b3\u6c14\u6ce1\u3002\u4e8c\u6c27\u5316\u78b3\u901a\u8fc7\u9152\u7684\u53d1\u9175\u5728\u74f6\u5185\uff08\u5982\uff1a\u9999\u69df\u5236\u6cd5\uff09\u6216\u5927\u578b\u50a8\u9152\u7f38\u4e2d\uff08\u5982\uff1a\u6c99\u5c14\u9a6c\u5236\u6cd5\uff09\u81ea\u7136\u5f62\u6210\uff0c\u6216\u88ab\u6ce8\u5165\u9152\u4e2d\u3002\u6c14\u6ce1\u9152\u901a\u5e38\u662f\u767d\u8272\u6216\u7c89\u7ea2\u8272\u7684\uff0c\u4f46\u5982\u610f\u5927\u5229\u548c\u6fb3\u5927\u5229\u4e9a\u7b49\u56fd\u4e5f\u5206\u522b\u7528\u5e03\u62c9\u51ef\u6258\uff08Brachetto\uff09\u7ea2\u8461\u8404\u548c\u897f\u62c9\uff08Syrah\uff09\u7ea2\u8461\u8404\u917f\u9020\u7ea2\u8272\u7684\u6c14\u6ce1\u9152\u3002\u6c14\u6ce1\u9152\u53ef\u6839\u636e\u542b\u7cd6\u91cf\u5206\u4e3a\u5e72\u578b\u3001\u751c\u578b\u7b49\u4e0d\u540c\u7b49\u7ea7\u3002 \u9999\u69df\u9152\u5c31\u662f\u4e00\u79cd\u7ecf\u5178\u7684\u6c14\u6ce1\u9152\u3002\u522b\u7684\u5730\u533a\u4e5f\u51fa\u4ea7\u6c14\u6ce1\u9152\uff0c\u5982\u897f\u73ed\u7259\u7684\u5361\u74e6\u3001\u610f\u5927\u5229\u7684\u963f\u65af\u8482\uff08\u65af\u666e\u66fc\u6cf0\u4e3a\u610f\u5927\u5229\u4ea7\u6c14\u6ce1\u9152\u7684\u7edf\u79f0\uff09\u3001\u5357\u975e\u7684Cap Classique\u3002\u7f8e\u56fd\u52a0\u5dde\u4e5f\u662f\u91cd\u8981\u7684\u6c14\u6ce1\u9152\u4ea7\u533a\u3002\u6c14\u6ce1\u9152\u7684\u53d1\u6e90\u5730\u82f1\u56fd\u4e5f\u917f\u9020\u6709\u9999\u69df\u98ce\u683c\u7684\u6c14\u6ce1\u9152\u3002\u5c3d\u7ba1\u6cd5\u5f8b\u6709\u6240\u7ea6\u675f\uff0c\u9999\u69df\u5730\u533a\u4e5f\u6781\u529b\u63a8\u5e7f\u9999\u69df\u4e00\u8bcd\u7684\u6b63\u786e\u4f7f\u7528\uff08\u5373\u53ea\u6709\u9999\u69df\u5730\u533a\u751f\u4ea7\u7684\u6c14\u6ce1\u9152\u624d\u53ef\u4ee5\u79f0\u4f5c\u9999\u69df)\uff0c\u4f46\u662f\u4e00\u4e9b\u5730\u533a\u8fd8\u662f\u7528\u9999\u69df\u4e00\u8bcd\u4ee3\u66ff\u6c14\u6ce1\u9152\u3002\u5728\u6cd5\u8bed\u4e2d\uff0cMousseux\u6216Cr\u00e9mant\u88ab\u7528\u6765\u79f0\u547c\u4e0d\u5728\u9999\u69df\u5730\u533a\u917f\u9020\u7684\u6c14\u6ce1\u9152\u3002\u5fb7\u56fd\u548c\u5965\u5730\u5229\u7684\u6c14\u6ce1\u9152\u53ebSekt\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0418\u0433\u0440\u0438\u0301\u0441\u0442\u043e\u0435 \u0432\u0438\u043d\u043e\u0301 \u2014 \u044d\u0442\u043e \u0432\u0438\u043d\u043e, \u043d\u0430\u0441\u044b\u0449\u0435\u043d\u043d\u043e\u0435 \u0443\u0433\u043b\u0435\u043a\u0438\u0441\u043b\u044b\u043c \u0433\u0430\u0437\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0434\u0435\u043b\u0430\u0435\u0442 \u0435\u0433\u043e \u0448\u0438\u043f\u0443\u0447\u0438\u043c, \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u0443\u0433\u043b\u0435\u043a\u0438\u0441\u043b\u044b\u0439 \u0433\u0430\u0437 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u0431\u0440\u043e\u0436\u0435\u043d\u0438\u044f. \u041d\u0435 \u043f\u0443\u0442\u0430\u0442\u044c \u0441 \u0438\u0441\u043a\u0440\u0438\u0441\u0442\u044b\u043c \u0432\u0438\u043d\u043e\u043c (\u0433\u0430\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0432\u0438\u043d\u043e), \u043a\u0443\u0434\u0430 \u0434\u0438\u043e\u043a\u0441\u0438\u0434 \u0443\u0433\u043b\u0435\u0440\u043e\u0434\u0430 \u0432\u0432\u043e\u0434\u0438\u0442\u0441\u044f \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043f\u0440\u0438 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u043c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u0434\u043b\u044f \u043f\u0440\u0438\u0434\u0430\u043d\u0438\u044f \u0432\u0438\u043d\u0443 \u0438\u0433\u0440\u0438\u0441\u0442\u044b\u0445 \u0441\u0432\u043e\u0439\u0441\u0442\u0432. \u0418\u0433\u0440\u0438\u0441\u0442\u043e\u0435 \u0432\u0438\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u0438\u0437\u0431\u044b\u0442\u043e\u043a \u0443\u0433\u043b\u0435\u043a\u0438\u0441\u043b\u043e\u0442\u044b, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432\u044b\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442\u0441\u044f \u043f\u0440\u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u0438 \u0431\u0443\u0442\u044b\u043b\u043a\u0438 \u0442\u043e\u0440\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u00ab\u0432\u044b\u0441\u0442\u0440\u0435\u043b\u043e\u043c\u00bb \u043f\u0440\u043e\u0431\u043a\u0438 \u0438 \u043f\u0440\u0438\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0438\u0433\u0440\u043e\u0439 \u043f\u0443\u0437\u044b\u0440\u044c\u043a\u043e\u0432 \u043d\u0430 \u0441\u0442\u0435\u043d\u043a\u0430\u0445 \u0444\u0443\u0436\u0435\u0440\u0430 \u0441 \u043d\u0430\u043f\u0438\u0442\u043a\u043e\u043c.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Espumante \u00e9 um vinho que tem n\u00edvel significativo de di\u00f3xido de carbono, fazendo-o borbulhar quando servido. O Di\u00f3xido de carbono resulta de fermenta\u00e7\u00e3o natural, seja ela feita dentro da garrafa (M\u00e9todo champenoise) ou fora dela (M\u00e9todo Charmat). As borbulhas de CO2 que se formam durante o servi\u00e7o s\u00e3o denominadas perlage. Em alguns lugares do mundo a palavra champagne \u00e9 usada como sin\u00f4nimo de espumante, o que \u00e9 vedado inclusive por algumas legisla\u00e7\u00f5es.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Wino musuj\u0105ce \u2013 rodzaj wina o znacznym nasyceniu dwutlenkiem w\u0119gla. Dwutlenek wytwarza si\u0119 w procesie fermentacji, w butelce b\u0105d\u017a zbiorniku, lub jest sztucznie dodawany. Najbardziej znanym rodzajem wina musuj\u0105cego jest szampan. Prawdopodobnie ich produkcj\u0119 zapocz\u0105tkowa\u0142 Christopher Merret.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016)  \u0647\u0630\u0647 \u0627\u0644\u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0641\u0648\u0651\u0627\u0631. \u0644\u062a\u0635\u0641\u062d \u0639\u0646\u0627\u0648\u064a\u0646 \u0645\u0634\u0627\u0628\u0647\u0629\u060c \u0627\u0646\u0638\u0631 \u0641\u0648\u0627\u0631 (\u062a\u0648\u0636\u064a\u062d). \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u063a\u0627\u0632\u064a (\u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0641\u0648\u0627\u0631 ) \u0643\u0627\u0644\u0634\u0627\u0645\u0628\u0627\u0646\u064a\u0627 \u064a\u0635\u0646\u0639 \u0645\u0646 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0623\u0628\u064a\u0636\u060c \u0623\u0648 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0648\u0631\u062f\u064a\u060c \u0648\u0628\u0639\u0636 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u063a\u0627\u0632\u064a \u0630\u0648 \u062c\u0648\u062f\u0629 \u0639\u0627\u0644\u064a\u0629 \u064a\u0635\u0646\u0639 \u0645\u0624\u062e\u0631\u0627 \u0645\u0646 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0623\u062d\u0645\u0631 \u0627\u0644\u0623\u0633\u062a\u0631\u0627\u0644\u064a \"\u0634\u064a\u0631\u0627\u0632\". \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u063a\u0627\u0632\u064a \u0647\u0648 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0630\u064a \u064a\u0637\u0644\u0642 \u062b\u0627\u0646\u064a \u0623\u0643\u0633\u064a\u062f \u0627\u0644\u0643\u0631\u0628\u0648\u0646 \u0641\u064a \u0641\u0642\u0627\u0639\u0627\u062a. \u0648\u064a\u0642\u062a\u0636\u064a \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u062d\u0627\u0644\u064a \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0625\u0646 \u0645\u0627\u064a\u0639\u0631\u0641 \u0634\u0628\u0647 \u0639\u0627\u0645\u0629 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0641\u0648\u0627\u0631 \u0628\u0627\u0633\u0645 \"\u0634\u0627\u0645\u0628\u0627\u0646\u064a\u0627\" \u0643\u064a \u064a\u0633\u062a\u062e\u062f\u0645 \u0639\u0644\u0649 \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0641\u0648\u0627\u0631 \u0623\u0646 \u062a\u0638\u0647\u0631 \u0639\u0644\u0627\u0645\u0629 \u0628\u062c\u0648\u0627\u0631 \u0627\u0644\u0627\u0633\u0645 \"\u0645\u0643\u0627\u0646 \u0627\u0644\u0645\u0646\u0634\u0623 \u0627\u0644\u0641\u0639\u0644\u064a\" \u0645\u0646 \u0623\u062c\u0644 \u0645\u0646\u0639 \u0623\u064a \u0645\u0645\u0643\u0646 \u0627\u0631\u062a\u0628\u0627\u0643 \u0627\u0644\u0645\u0633\u062a\u0647\u0644\u0643\u064a\u0646. \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0645\u0646\u062a\u062c\u064a \u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0641\u0648\u0627\u0631 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0644\u0645 \u064a\u0639\u062f \u064a\u062c\u062f \u0645\u0635\u0637\u0644\u062d \"\u0634\u0627\u0645\u0628\u0627\u0646\u064a\u0627\" \u0645\u0641\u064a\u062f \u0641\u064a \u0627\u0644\u062a\u0633\u0648\u064a\u0642 \u0648\u064a\u0641\u0636\u0644 \u062f\u0639\u0648\u0629 \u0645\u0646\u062a\u062c\u0627\u062a\u0647\u0645 \"\u0627\u0644\u0646\u0628\u064a\u0630 \u0627\u0644\u0641\u0648\u0627\u0631\". \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0645\u0637\u0627\u0639\u0645 \u0648\u0637\u0639\u0627\u0645\u0645\u0634\u0627\u0631\u064a\u0639 \u0634\u0642\u064a\u0642\u0629 \u0641\u064a \u0643\u0648\u0645\u0646\u0632 \u0635\u0648\u0631 \u0648\u0645\u0644\u0641\u0627\u062a \u0639\u0646: \u0646\u0628\u064a\u0630 \u0641\u0648\u0627\u0631 25\u0628\u0643 \u0647\u0630\u0647 \u0628\u0630\u0631\u0629 \u0645\u0642\u0627\u0644\u0629 \u0628\u062d\u0627\u062c\u0629 \u0644\u0644\u062a\u0648\u0633\u064a\u0639. \u0634\u0627\u0631\u0643 \u0641\u064a \u062a\u062d\u0631\u064a\u0631\u0647\u0627.",
+                "lang": "ar"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Glass_of_champagne.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 745141710,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 143177,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Puget_Sound_AVA": {
+        "http://dbpedia.org/ontology/wineProduced": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tasmanian_wine": {
+        "http://dbpedia.org/ontology/wineProduced": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bodegas_Pomar,_C.A.": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Perlant": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Brut_zero": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Loire_Valley_(wine)": {
+        "http://dbpedia.org/ontology/wineProduced": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Spumante": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Brut_(wine)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Semi-sparkling_wine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Semi-Sparkling_wines": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sparkling_red_wine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cr\u00e9mant_de_Bordeaux": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cr\u00e9mant_de_Loire": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pezsg\u0151": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sparkling_wines": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/P\u00e9tillant": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Espumoso_(wine)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Sparkling_wine": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sparkling_white_wine_champagne": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Frizzante": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Semi-sparkling_wines": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mousseux": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Martini_&_Rossi": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Contratto": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cr\u00e9mant_de_Bourgogne": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Brut_(sparkling_wine)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Frizzantino": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Extra_sec": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Extra_dry": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sparkling_Wine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Semi-Sparkling_wine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cr\u00e9mant": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Semi_Sparkling_wine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Methode_Cap_Classique": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pearl_(wine)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Roederer_Estate": {
+        "http://dbpedia.org/property/signatureWine": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Henkell_&_Co._Sektkellerei": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sparkling_(wine)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cremants": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Steven_the_Great_Cellars": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Semi_Sparkling_Wine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vino_de_Aguja": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Slightly_sparkling_(wine)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cap_Classique": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Spritz_(wine)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/History_of_Spumante": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Yakima_Valley_AVA": {
+        "http://dbpedia.org/ontology/wineProduced": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Walla_Walla_Valley_AVA": {
+        "http://dbpedia.org/ontology/wineProduced": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Columbia_Valley_AVA": {
+        "http://dbpedia.org/ontology/wineProduced": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Horse_Heaven_Hills_AVA": {
+        "http://dbpedia.org/ontology/wineProduced": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wahluke_Slope_AVA": {
+        "http://dbpedia.org/ontology/wineProduced": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Spumanti": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cremant_de_Bourgogne": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Semi-sparkling": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Zero_brut": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sekt": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cremant_de_Loire": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Perlwein": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sparkling": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cremant": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Petillant": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vino_spumante": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sparkling_wine"
+            }
+        ]
+    }
+}

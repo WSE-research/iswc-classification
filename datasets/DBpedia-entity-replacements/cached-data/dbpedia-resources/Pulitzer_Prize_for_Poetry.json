@@ -1,0 +1,527 @@
+{
+    "http://dbpedia.org/resource/Mark_Van_Doren": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rita_Dove": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gregory_Pardlo": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatAwardsEstablishedIn1922"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Signal106791372"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatAmericanPoetryAwards"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Award106696483"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Book"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Symbol106806469"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Communication100033020"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Premio Pulitzer per la poesia",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u062c\u0627\u0626\u0632\u0629 \u0628\u0648\u0644\u064a\u062a\u0632\u0631 \u0639\u0646 \u0641\u0626\u0629 \u0627\u0644\u0634\u0639\u0631",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u30d4\u30e5\u30fc\u30ea\u30c3\u30c4\u30a1\u30fc\u8cde \u8a69\u90e8\u9580",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Pulitzer Prize for Poetry",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Pulitzer-Preis/Dichtung",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Pulitzerprijs voor po\u00ebzie",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Prix Pulitzer de la po\u00e9sie",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u666e\u5229\u7b56\u8bd7\u6b4c\u5956",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Pr\u00e9mio Pulitzer de Poesia",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u062c\u0627\u0626\u0632\u0629 \u0628\u0648\u0644\u064a\u062a\u0632\u0631 \u0639\u0646 \u0641\u0626\u0629 \u0627\u0644\u0634\u0639\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Pulitzer Prize for Poetry) \u0647\u064a \u0648\u0627\u062d\u062f\u0629 \u0645\u0646 \u0633\u0628\u0639\u0629 \u062c\u0648\u0627\u0626\u0632 \u0628\u0648\u0644\u064a\u062a\u0632\u0631 \u062a\u0642\u062f\u0645\u0647\u0627 \u0633\u0646\u0648\u064a\u064b\u0627 \u062c\u0627\u0645\u0639\u0629 \u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627 \u0628\u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0641\u064a \u0645\u062c\u0627\u0644\u0627\u062a \u0627\u0644\u0622\u062f\u0627\u0628 \u0648\u0627\u0644\u062f\u0631\u0627\u0645\u0627 \u0648\u0627\u0644\u0645\u0648\u0633\u064a\u0642\u0649. \u0628\u062f\u0623 \u0627\u0644\u0639\u0645\u0644 \u0628\u0647\u0627 \u0631\u0633\u0645\u064a\u064b\u0627 \u0645\u0646\u0630 \u0639\u0627\u0645 1918\u060c \u0648\u062a\u064f\u0645\u0646\u062d \u0644\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0634\u0639\u0631\u064a\u0629 \u0627\u0644\u0645\u0645\u064a\u0632\u0629 \u0627\u0644\u062a\u064a \u0646\u0634\u0631\u062a \u062e\u0644\u0627\u0644 \u0627\u0644\u0639\u0627\u0645 \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0643\u062a\u0627\u0628 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u064a\u0646. \u0648\u0628\u062f\u0621\u064b\u0627 \u0645\u0646 \u0639\u0627\u0645 1980\u060c \u0628\u062f\u0623 \u0627\u0644\u0625\u0639\u0644\u0627\u0646 \u0639\u0646 \u0639\u0645\u0644\u064a\u0646 \u0622\u062e\u0631\u064a\u0646 \u062f\u062e\u0644\u0627 \u0627\u0644\u062a\u0635\u0641\u064a\u0627\u062a \u0627\u0644\u0623\u062e\u064a\u0631\u0629 \u0644\u0644\u062c\u0627\u0626\u0632\u0629\u060c \u0644\u064a\u062a\u0645 \u0628\u0630\u0644\u0643 \u0627\u0644\u0625\u0639\u0644\u0627\u0646 \u0639\u0646 \u0627\u0644\u0641\u0627\u0626\u0632 \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u0623\u0635\u062d\u0627\u0628 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0646 \u0627\u0644\u0622\u062e\u0631\u064a\u0646.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Le prix Pulitzer de Po\u00e9sie est un des six prix Pulitzer am\u00e9ricains remis chaque ann\u00e9e en litt\u00e9rature. Il est d\u00e9cern\u00e9 depuis 1922 pour un ouvrage en \u00e9dition originale par un auteur am\u00e9ricain, publi\u00e9 au cours de l'ann\u00e9e civile pr\u00e9c\u00e9dente. Depuis 1980, des finalistes sont annonc\u00e9s, habituellement deux,  \u00e0 c\u00f4t\u00e9 du laur\u00e9at.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "The Pulitzer Prize for Poetry is one of the seven American Pulitzer Prizes that are annually awarded for Letters, Drama, and Music. It has been presented since 1922 for a distinguished volume of original verse by an American author, published during the preceding calendar year. Finalists have been announced from 1980, ordinarily two others beside the winner.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u30d4\u30e5\u30fc\u30ea\u30c3\u30c4\u30a1\u30fc\u8cde \u8a69\u90e8\u9580\uff08\u30d4\u30e5\u30fc\u30ea\u30c3\u30c4\u30a1\u30fc\u3057\u3087\u3046 \u3057\u3076\u3082\u3093\u3001Pulitzer Prize for Poetry\uff09\u306f\u30d4\u30e5\u30fc\u30ea\u30c3\u30c4\u30a1\u30fc\u8cde\u306e\u90e8\u9580\u306e\u4e00\u3064\u3067\u30011922\u5e74\u3088\u308a\u30a2\u30e1\u30ea\u30ab\u4eba\u306e\u8a69\u4eba\u306b\u5bfe\u3057\u3066\u6388\u4e0e\u3055\u308c\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "O Pr\u00e9mio Pulitzer de Poesia \u00e9 um dos seis Pr\u00e9mios Pulitzer americanos que s\u00e3o entregues anualmente nas modalidades de Letras, Teatro e M\u00fasica. Tem sido atribu\u00eddo desde 1922 a um volume not\u00e1vel de versos originais de um autor americano, publicado durante o ano precendente. Os finalistas s\u00e3o anunciados desde 1980, geralmente dois para al\u00e9m do vencedor.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "De Pulitzerprijs voor po\u00ebzie (Pulitzer Prize for Poetry) is een Amerikaanse literatuurprijs die sinds 1922 jaarlijks wordt uitgereikt. Het is een onderscheiding voor een dichtbundel die in het voorgaande kalenderjaar is gepubliceerd door een Amerikaans auteur.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u666e\u5229\u7b56\u8bd7\u4f5c\u5956\uff08Pulitzer Prize for Poetry\uff09\u8bbe\u7acb\u4e8e1922\u5e74\uff0c\u610f\u5728\u8868\u5f70\u521b\u4f5c\u6770\u51fa\u8bd7\u7bc7\u7684\u7f8e\u56fd\u4f5c\u5bb6\u30021918\u5e74\u30011919\u5e74\u95f4\uff0c\u66fe\u4f5c\u4e3a\u666e\u5229\u7b56\u7279\u522b\u8912\u626c\u5956\uff08Pulitzer Prize Special Citations and Awards\uff09\u51fa\u73b0\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Der Pulitzer-Preis f\u00fcr Dichtung wird seit 1922 verliehen, au\u00dfer 1946. 1918 und 1919 gab es jeweils beim Sonderpreis die Unterkategorie \u201eDichtung\u201c. 1918 gingen hier die Preise an Sara Teasdale mit Love Songs. 1919 gab es den Sonderpreis f\u00fcr Old Road to Paradise von Margaret Widdemer und Corn Huskers von Carl Sandburg.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Il premio Pulitzer per la poesia esiste fin dal 1922 e viene assegnato ogni anno dall'apposita giuria ad un autore statunitense per un'opera originale in versi. Citazioni speciali per la poesia comunque furono emesse negli anni 1918 e 1919.",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Prix_Pulitzer_de_la_po\u00e9sie"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Anexo:Premio_Pulitzer_de_Poes\u00eda"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Pulitzer_Prize_for_Poetry"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q2117891"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q2117891"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Pulitzer-Preis/Dichtung"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30d4\u30e5\u30fc\u30ea\u30c3\u30c4\u30a1\u30fc\u8cde_\u8a69\u90e8\u9580"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Pulitzerprijs_voor_po\u00ebzie"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0c_n9"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Premio_Pulitzer_per_la_poesia"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ud4f0\ub9ac\ucc98\uc0c1_\uc2dc_\ubd80\ubb38"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Pr\u00e9mio_Pulitzer_de_Poesia"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Pulitzer_Prizes_by_category"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Pulitzer_Prize_for_Poetry_winners"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:American_poetry_awards"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Pulitzer_Prize_for_Poetry-winning_works"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Awards_established_in_1922"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Pulitzer_Prize_for_Poetry"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Pulitzer_Prize_for_Poetry?oldid=744995840"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "De Pulitzerprijs voor po\u00ebzie (Pulitzer Prize for Poetry) is een Amerikaanse literatuurprijs die sinds 1922 jaarlijks wordt uitgereikt. Het is een onderscheiding voor een dichtbundel die in het voorgaande kalenderjaar is gepubliceerd door een Amerikaans auteur.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u30d4\u30e5\u30fc\u30ea\u30c3\u30c4\u30a1\u30fc\u8cde \u8a69\u90e8\u9580\uff08\u30d4\u30e5\u30fc\u30ea\u30c3\u30c4\u30a1\u30fc\u3057\u3087\u3046 \u3057\u3076\u3082\u3093\u3001Pulitzer Prize for Poetry\uff09\u306f\u30d4\u30e5\u30fc\u30ea\u30c3\u30c4\u30a1\u30fc\u8cde\u306e\u90e8\u9580\u306e\u4e00\u3064\u3067\u30011922\u5e74\u3088\u308a\u30a2\u30e1\u30ea\u30ab\u4eba\u306e\u8a69\u4eba\u306b\u5bfe\u3057\u3066\u6388\u4e0e\u3055\u308c\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u062c\u0627\u0626\u0632\u0629 \u0628\u0648\u0644\u064a\u062a\u0632\u0631 \u0639\u0646 \u0641\u0626\u0629 \u0627\u0644\u0634\u0639\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Pulitzer Prize for Poetry) \u0647\u064a \u0648\u0627\u062d\u062f\u0629 \u0645\u0646 \u0633\u0628\u0639\u0629 \u062c\u0648\u0627\u0626\u0632 \u0628\u0648\u0644\u064a\u062a\u0632\u0631 \u062a\u0642\u062f\u0645\u0647\u0627 \u0633\u0646\u0648\u064a\u064b\u0627 \u062c\u0627\u0645\u0639\u0629 \u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627 \u0628\u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0641\u064a \u0645\u062c\u0627\u0644\u0627\u062a \u0627\u0644\u0622\u062f\u0627\u0628 \u0648\u0627\u0644\u062f\u0631\u0627\u0645\u0627 \u0648\u0627\u0644\u0645\u0648\u0633\u064a\u0642\u0649. \u0628\u062f\u0623 \u0627\u0644\u0639\u0645\u0644 \u0628\u0647\u0627 \u0631\u0633\u0645\u064a\u064b\u0627 \u0645\u0646\u0630 \u0639\u0627\u0645 1918\u060c \u0648\u062a\u064f\u0645\u0646\u062d \u0644\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0634\u0639\u0631\u064a\u0629 \u0627\u0644\u0645\u0645\u064a\u0632\u0629 \u0627\u0644\u062a\u064a \u0646\u0634\u0631\u062a \u062e\u0644\u0627\u0644 \u0627\u0644\u0639\u0627\u0645 \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0643\u062a\u0627\u0628 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u064a\u0646. \u0648\u0628\u062f\u0621\u064b\u0627 \u0645\u0646 \u0639\u0627\u0645 1980\u060c \u0628\u062f\u0623 \u0627\u0644\u0625\u0639\u0644\u0627\u0646 \u0639\u0646 \u0639\u0645\u0644\u064a\u0646 \u0622\u062e\u0631\u064a\u0646 \u062f\u062e\u0644\u0627 \u0627\u0644\u062a\u0635\u0641\u064a\u0627\u062a \u0627\u0644\u0623\u062e\u064a\u0631\u0629 \u0644\u0644\u062c\u0627\u0626\u0632\u0629\u060c \u0644\u064a\u062a\u0645 \u0628\u0630\u0644\u0643 \u0627\u0644\u0625\u0639\u0644\u0627\u0646 \u0639\u0646 \u0627\u0644\u0641\u0627\u0626\u0632 \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u0623\u0635\u062d\u0627\u0628 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0646 \u0627\u0644\u0622\u062e\u0631\u064a\u0646. \u062a\u062d\u0638\u0649 \u0647\u0630\u0647 \u0627\u0644\u062c\u0648\u0627\u0626\u0632\u060c \u0627\u0644\u062a\u064a \u0645\u0648\u0644\u062a \u0641\u064a \u0627\u0644\u0623\u0633\u0627\u0633 \u0628\u0645\u0646\u062d\u0629 \u0645\u0646 \u0631\u0627\u0626\u062f \u0627\u0644\u0635\u062d\u0627\u0641\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a \u062c\u0648\u0632\u064a\u0641 \u0628\u0648\u0644\u064a\u062a\u0632\u0631 \u0628\u062a\u0642\u062f\u064a\u0631 \u0643\u0628\u064a\u0631. \u0648\u062a\u0645\u0646\u062d \u062c\u0627\u0645\u0639\u0629 \u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627 \u0627\u0644\u062c\u0648\u0627\u0626\u0632 \u0628\u062a\u0648\u0635\u064a\u0629 \u0645\u0646 \u0647\u064a\u0626\u0629 \u062c\u0648\u0627\u0626\u0632 \u0628\u0648\u0644\u064a\u062a\u0632\u0631\u060c \u0627\u0644\u0645\u0643\u0648\u0646\u0629 \u0645\u0646 \u0645\u062d\u0643\u0645\u064a\u0646 \u062a\u0639\u064a\u0646\u0647\u0645 \u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0646\u0641\u0633\u0647\u0627 \u0648\u064a\u0635\u0644 \u0639\u062f\u062f \u0627\u0644\u062c\u0648\u0627\u0626\u0632 \u0627\u0644\u0645\u0645\u0646\u0648\u062d\u0629 \u0633\u0646\u0648\u064a\u064b\u0627 \u0625\u0644\u0649 \u0648\u0627\u062d\u062f \u0648\u0639\u0634\u0631\u064a\u0646 \u062c\u0627\u0626\u0632\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "The Pulitzer Prize for Poetry is one of the seven American Pulitzer Prizes that are annually awarded for Letters, Drama, and Music. It has been presented since 1922 for a distinguished volume of original verse by an American author, published during the preceding calendar year. Finalists have been announced from 1980, ordinarily two others beside the winner.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Il premio Pulitzer per la poesia esiste fin dal 1922 e viene assegnato ogni anno dall'apposita giuria ad un autore statunitense per un'opera originale in versi. Citazioni speciali per la poesia comunque furono emesse negli anni 1918 e 1919.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "O Pr\u00e9mio Pulitzer de Poesia \u00e9 um dos seis Pr\u00e9mios Pulitzer americanos que s\u00e3o entregues anualmente nas modalidades de Letras, Teatro e M\u00fasica. Tem sido atribu\u00eddo desde 1922 a um volume not\u00e1vel de versos originais de um autor americano, publicado durante o ano precendente. Os finalistas s\u00e3o anunciados desde 1980, geralmente dois para al\u00e9m do vencedor.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Der Pulitzer-Preis f\u00fcr Dichtung wird seit 1922 verliehen, au\u00dfer 1946. 1918 und 1919 gab es jeweils beim Sonderpreis die Unterkategorie \u201eDichtung\u201c. 1918 gingen hier die Preise an Sara Teasdale mit Love Songs. 1919 gab es den Sonderpreis f\u00fcr Old Road to Paradise von Margaret Widdemer und Corn Huskers von Carl Sandburg.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Le prix Pulitzer de Po\u00e9sie est un des six prix Pulitzer am\u00e9ricains remis chaque ann\u00e9e en litt\u00e9rature. Il est d\u00e9cern\u00e9 depuis 1922 pour un ouvrage en \u00e9dition originale par un auteur am\u00e9ricain, publi\u00e9 au cours de l'ann\u00e9e civile pr\u00e9c\u00e9dente. Depuis 1980, des finalistes sont annonc\u00e9s, habituellement deux,  \u00e0 c\u00f4t\u00e9 du laur\u00e9at.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u666e\u5229\u7b56\u8bd7\u4f5c\u5956\uff08Pulitzer Prize for Poetry\uff09\u8bbe\u7acb\u4e8e1922\u5e74\uff0c\u610f\u5728\u8868\u5f70\u521b\u4f5c\u6770\u51fa\u8bd7\u7bc7\u7684\u7f8e\u56fd\u4f5c\u5bb6\u30021918\u5e74\u30011919\u5e74\u95f4\uff0c\u66fe\u4f5c\u4e3a\u666e\u5229\u7b56\u7279\u522b\u8912\u626c\u5956\uff08Pulitzer Prize Special Citations and Awards\uff09\u51fa\u73b0\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744995840,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 48618,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gary_Snyder": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Robert_Hass": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Pulitzer_Prize_for_Poetry": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pulitzer_Prize_for_poetry": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gwendolyn_Brooks": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Marianne_Moore": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Louise_Gl\u00fcck": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/John_Ashbery": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tracy_K._Smith": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Leonard_Bacon_(poet)": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Yusef_Komunyakaa": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Claudia_Emerson": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pulitzer_Prize_in_Poetry": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/John_Berryman": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Robert_Frost": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/William_Rose_Ben\u00e9t": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Stephen_Vincent_Ben\u00e9t": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Karl_Shapiro": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Richard_Wilbur": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Stephen_Dunn": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Charles_Simic": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/George_Dillon_(poet)": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/C._K._Williams": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Louis_Simpson": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kay_Ryan": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Amy_Lowell": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Marya_Zaturenska": {
+        "http://dbpedia.org/ontology/award": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Pulitzer_Prize_for_Poetry"
+            }
+        ]
+    }
+}

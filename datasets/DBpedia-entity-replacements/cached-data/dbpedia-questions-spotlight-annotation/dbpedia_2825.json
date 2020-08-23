@@ -1,0 +1,28 @@
+{
+    "@text": "What is {workplace} of {Cnut the Great}, that has {diplomatic relation} is {Romania}",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Cnut_the_Great",
+            "@support": "1209",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Cnut",
+            "@offset": "24",
+            "@similarityScore": "0.9997695682142942",
+            "@percentageOfSecondRank": "1.7401922825110048E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Romania",
+            "@support": "58481",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Romania",
+            "@offset": "76",
+            "@similarityScore": "0.9973655379573209",
+            "@percentageOfSecondRank": "0.0017203651008941545"
+        }
+    ]
+}

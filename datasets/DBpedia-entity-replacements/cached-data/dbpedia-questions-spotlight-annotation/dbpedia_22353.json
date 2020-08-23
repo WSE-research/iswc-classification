@@ -1,0 +1,28 @@
+{
+    "@text": "Name the river which flows through the closest city of Mount Raimer ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "47",
+            "@similarityScore": "0.553243568771304",
+            "@percentageOfSecondRank": "0.7255830497135916"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mount_Raimer",
+            "@support": "4",
+            "@types": "Wikidata:Q8502,Schema:Place,Schema:Mountain,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Mountain,DBpedia:Location",
+            "@surfaceForm": "Mount Raimer",
+            "@offset": "55",
+            "@similarityScore": "0.9999999999998153",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

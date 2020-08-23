@@ -1,0 +1,28 @@
+{
+    "@text": "Is the cash back of the Amazon Rewards Visa Card less than 1.6?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Amazon.com",
+            "@support": "9227",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Amazon",
+            "@offset": "24",
+            "@similarityScore": "0.8999553904064066",
+            "@percentageOfSecondRank": "0.051920241738551"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Visa_Inc.",
+            "@support": "1500",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:BankOrCreditUnion,DBpedia:Organisation,DBpedia:Company,DBpedia:Bank,DBpedia:Agent",
+            "@surfaceForm": "Visa Card",
+            "@offset": "39",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

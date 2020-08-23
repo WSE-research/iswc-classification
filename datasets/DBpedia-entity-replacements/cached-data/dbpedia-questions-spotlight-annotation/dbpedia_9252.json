@@ -1,0 +1,46 @@
+{
+    "@text": "What city, birthplace of Jonah Peretti, has divided into the Commonwealth of the Philippines?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "5",
+            "@similarityScore": "0.7257517260559919",
+            "@percentageOfSecondRank": "0.2178189457977322"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Jonah_Peretti",
+            "@support": "27",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Jonah Peretti",
+            "@offset": "25",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Commonwealth_of_Nations",
+            "@support": "10694",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Commonwealth",
+            "@offset": "61",
+            "@similarityScore": "0.7500953283231107",
+            "@percentageOfSecondRank": "0.11982984514551846"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Philippines",
+            "@support": "89120",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Philippines",
+            "@offset": "81",
+            "@similarityScore": "0.9995310158032356",
+            "@percentageOfSecondRank": "4.533583087984363E-4"
+        }
+    ]
+}

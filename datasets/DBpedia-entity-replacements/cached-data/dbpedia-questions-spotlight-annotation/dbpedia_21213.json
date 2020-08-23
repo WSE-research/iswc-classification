@@ -1,0 +1,37 @@
+{
+    "@text": "Which gaming console's central processing unit is microprocessor and built by Sony?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Central_processing_unit",
+            "@support": "7936",
+            "@types": "",
+            "@surfaceForm": "central processing unit",
+            "@offset": "23",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Microprocessor",
+            "@support": "3036",
+            "@types": "",
+            "@surfaceForm": "microprocessor",
+            "@offset": "50",
+            "@similarityScore": "0.997989064685845",
+            "@percentageOfSecondRank": "0.002014915721119955"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sony",
+            "@support": "12995",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Sony",
+            "@offset": "78",
+            "@similarityScore": "0.9906464940334179",
+            "@percentageOfSecondRank": "0.009077678941254948"
+        }
+    ]
+}

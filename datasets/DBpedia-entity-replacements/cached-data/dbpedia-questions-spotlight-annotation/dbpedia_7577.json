@@ -1,0 +1,28 @@
+{
+    "@text": "Which multinational corporation employs Steve Bannon?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Multinational_corporation",
+            "@support": "2142",
+            "@types": "",
+            "@surfaceForm": "multinational corporation",
+            "@offset": "6",
+            "@similarityScore": "0.9999999999998863",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Stephen_Bannon",
+            "@support": "275",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Steve Bannon",
+            "@offset": "40",
+            "@similarityScore": "0.9999999999990052",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

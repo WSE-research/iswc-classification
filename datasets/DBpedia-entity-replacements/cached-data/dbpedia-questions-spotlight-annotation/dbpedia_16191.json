@@ -1,0 +1,37 @@
+{
+    "@text": "Does the International Space Station operate both the European Space Agency and Roscosmos State Corporation?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/International_Space_Station",
+            "@support": "6908",
+            "@types": "Wikidata:Q25956,DUL:DesignedArtifact,DBpedia:SpaceStation,DBpedia:MeanOfTransportation",
+            "@surfaceForm": "International Space Station",
+            "@offset": "9",
+            "@similarityScore": "0.9999999942028666",
+            "@percentageOfSecondRank": "5.797139041479034E-9"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/European_Space_Agency",
+            "@support": "3683",
+            "@types": "",
+            "@surfaceForm": "European Space Agency",
+            "@offset": "54",
+            "@similarityScore": "0.9999999969326581",
+            "@percentageOfSecondRank": "2.997109742390591E-9"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Roscosmos_State_Corporation",
+            "@support": "724",
+            "@types": "",
+            "@surfaceForm": "Roscosmos State Corporation",
+            "@offset": "80",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

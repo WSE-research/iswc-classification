@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the {city} for {twinned administrative body} of {Hamburg}",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "12",
+            "@similarityScore": "0.7400324263067921",
+            "@percentageOfSecondRank": "0.24885672527810343"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Hamburg",
+            "@support": "27504",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Hamburg",
+            "@offset": "56",
+            "@similarityScore": "0.999023347498586",
+            "@percentageOfSecondRank": "7.198682119923925E-4"
+        }
+    ]
+}

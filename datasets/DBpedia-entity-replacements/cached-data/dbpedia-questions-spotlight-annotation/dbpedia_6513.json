@@ -1,0 +1,28 @@
+{
+    "@text": "\"What is the {personal name} of {Jan Swammerdam}, whose {audio language} is {Swedish} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Jan_Swammerdam",
+            "@support": "74",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q901,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Scientist,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Jan Swammerdam",
+            "@offset": "33",
+            "@similarityScore": "0.9999999999999147",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sweden",
+            "@support": "97730",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Swedish",
+            "@offset": "77",
+            "@similarityScore": "0.6568101224803236",
+            "@percentageOfSecondRank": "0.4979798981684978"
+        }
+    ]
+}

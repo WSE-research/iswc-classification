@@ -1,0 +1,28 @@
+{
+    "@text": "Was John Muir the first one to ascend one of the peaks in the cathedral peak?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/John_Muir",
+            "@support": "923",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "John Muir",
+            "@offset": "4",
+            "@similarityScore": "0.9670070367330295",
+            "@percentageOfSecondRank": "0.033377833097277716"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cathedral_Peak_(California)",
+            "@support": "38",
+            "@types": "Wikidata:Q8502,Schema:Place,Schema:Mountain,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Mountain,DBpedia:Location",
+            "@surfaceForm": "cathedral peak",
+            "@offset": "62",
+            "@similarityScore": "0.9064621633778404",
+            "@percentageOfSecondRank": "0.05332409972299153"
+        }
+    ]
+}

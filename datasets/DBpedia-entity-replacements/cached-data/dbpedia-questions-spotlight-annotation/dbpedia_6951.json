@@ -1,0 +1,37 @@
+{
+    "@text": "What is the {capital} of {Kangwon Province}, which is a {member of} the {International Federation of Red Cross and Red Crescent Societies}?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Kangwon_Province_(North_Korea)",
+            "@support": "207",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Kangwon Province",
+            "@offset": "26",
+            "@similarityScore": "0.9999999993358983",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement",
+            "@support": "5838",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "Red Cross",
+            "@offset": "101",
+            "@similarityScore": "0.9986361843228477",
+            "@percentageOfSecondRank": "0.0010326527436905976"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement",
+            "@support": "5838",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "Red Crescent",
+            "@offset": "115",
+            "@similarityScore": "0.999346961011954",
+            "@percentageOfSecondRank": "4.952881454810176E-4"
+        }
+    ]
+}

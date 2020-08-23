@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the hotel designed by architect Frank Gehry?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Hotel",
+            "@support": "12430",
+            "@types": "",
+            "@surfaceForm": "hotel",
+            "@offset": "13",
+            "@similarityScore": "0.9985552995887939",
+            "@percentageOfSecondRank": "0.0014422596883554234"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Frank_Gehry",
+            "@support": "895",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Architect,DBpedia:Agent",
+            "@surfaceForm": "Frank Gehry",
+            "@offset": "41",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

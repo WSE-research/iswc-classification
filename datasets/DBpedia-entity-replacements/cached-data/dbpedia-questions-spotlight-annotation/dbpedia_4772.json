@@ -1,0 +1,28 @@
+{
+    "@text": "When was the city of Frankfurt founded ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "13",
+            "@similarityScore": "0.7830938183625809",
+            "@percentageOfSecondRank": "0.18967855378049694"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Frankfurt",
+            "@support": "15873",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Frankfurt",
+            "@offset": "21",
+            "@similarityScore": "0.997986265264801",
+            "@percentageOfSecondRank": "6.671268904262866E-4"
+        }
+    ]
+}

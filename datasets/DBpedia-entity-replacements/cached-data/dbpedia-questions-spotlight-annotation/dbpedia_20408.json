@@ -1,0 +1,28 @@
+{
+    "@text": "What is the nationality of the golf player who won the  2002 Players Championship ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Golf",
+            "@support": "19443",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "golf",
+            "@offset": "31",
+            "@similarityScore": "0.999987955373205",
+            "@percentageOfSecondRank": "2.9028993363712053E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/2002_Players_Championship",
+            "@support": "3",
+            "@types": "Wikidata:Q500834,Wikidata:Q1656682,Wikidata:Q15061650,DUL:Event,Schema:SportsEvent,Schema:Event,DBpedia:Tournament,DBpedia:SportsEvent,DBpedia:SocietalEvent,DBpedia:GolfTournament,DBpedia:Event",
+            "@surfaceForm": "2002 Players Championship",
+            "@offset": "56",
+            "@similarityScore": "0.9999999999938893",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

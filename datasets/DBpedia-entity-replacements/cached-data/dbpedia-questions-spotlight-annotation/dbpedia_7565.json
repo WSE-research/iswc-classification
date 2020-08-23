@@ -1,0 +1,28 @@
+{
+    "@text": "What city is a twin administrative to Lahore ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "5",
+            "@similarityScore": "0.9224161203969599",
+            "@percentageOfSecondRank": "0.06197876027177591"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Lahore",
+            "@support": "14331",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Lahore",
+            "@offset": "38",
+            "@similarityScore": "0.9998118277024329",
+            "@percentageOfSecondRank": "9.912114414858829E-5"
+        }
+    ]
+}

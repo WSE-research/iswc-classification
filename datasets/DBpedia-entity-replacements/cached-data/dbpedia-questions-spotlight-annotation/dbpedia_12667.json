@@ -1,0 +1,28 @@
+{
+    "@text": "Is the speed of SS Stettin equal to 14.2?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Schutzstaffel",
+            "@support": "12045",
+            "@types": "Wikidata:Q43229,Wikidata:Q327333,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:GovernmentAgency,DBpedia:Agent",
+            "@surfaceForm": "SS",
+            "@offset": "16",
+            "@similarityScore": "0.9914538537639688",
+            "@percentageOfSecondRank": "0.0028902226631364325"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Szczecin",
+            "@support": "6704",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Stettin",
+            "@offset": "19",
+            "@similarityScore": "0.9999834164893607",
+            "@percentageOfSecondRank": "1.340452085657563E-5"
+        }
+    ]
+}

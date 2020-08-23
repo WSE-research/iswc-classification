@@ -1,0 +1,46 @@
+{
+    "@text": "Who is the {anion} for {conjugate base} of {sulfate ion}",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Ion",
+            "@support": "9321",
+            "@types": "",
+            "@surfaceForm": "anion",
+            "@offset": "12",
+            "@similarityScore": "0.9999999999924682",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Conjugate_acid",
+            "@support": "346",
+            "@types": "",
+            "@surfaceForm": "conjugate base",
+            "@offset": "24",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Sulfate",
+            "@support": "2129",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "sulfate",
+            "@offset": "44",
+            "@similarityScore": "0.9981576753448763",
+            "@percentageOfSecondRank": "0.0018240990753142635"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ion",
+            "@support": "9321",
+            "@types": "",
+            "@surfaceForm": "ion",
+            "@offset": "52",
+            "@similarityScore": "0.9990762119687865",
+            "@percentageOfSecondRank": "9.24623102033664E-4"
+        }
+    ]
+}

@@ -1,0 +1,775 @@
+{
+    "http://dbpedia.org/resource/Iliad": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Book106410904"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Show106619065"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Poem"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Wikicat6th-centuryBCBooks"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Artifact100021939"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Event100029378"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SocialEvent107288639"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Product104007894"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Creation103129123"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Movie106613686"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatBooksAdaptedIntoFilms"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Work104599396"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Publication106589574"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatNovelsAdaptedIntoFilms"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Ilias",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Iliada",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Iliade",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u30a4\u30fc\u30ea\u30a2\u30b9",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u4f0a\u5229\u4e9a\u7279",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Il\u00edada",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0418\u043b\u0438\u0430\u0434\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Il\u00edada",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0625\u0644\u064a\u0627\u0630\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Iliad",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Ilias",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Iliade",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u00ab\u0418\u043b\u0438\u0430\u0301\u0434\u0430\u00bb (\u0434\u0440.-\u0433\u0440\u0435\u0447. \u1f38\u03bb\u03b9\u03ac\u03c2) \u2014 \u0434\u0440\u0435\u0432\u043d\u0435\u0439\u0448\u0438\u0439 \u0438\u0437 \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0432\u0448\u0438\u0445\u0441\u044f \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a\u043e\u0432 \u0434\u0440\u0435\u0432\u043d\u0435\u0433\u0440\u0435\u0447\u0435\u0441\u043a\u043e\u0439 \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u044b, \u044d\u043f\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043e\u044d\u043c\u0430, \u043f\u0440\u0438\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u043c\u0430\u044f \u0413\u043e\u043c\u0435\u0440\u0443. \u041e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u0422\u0440\u043e\u044f\u043d\u0441\u043a\u043e\u0439 \u0432\u043e\u0439\u043d\u044b.\u0412 \u0435\u0451 \u043e\u0441\u043d\u043e\u0432\u0443, \u043f\u043e-\u0432\u0438\u0434\u0438\u043c\u043e\u043c\u0443, \u043b\u0435\u0433\u043b\u0438 \u0444\u043e\u043b\u044c\u043a\u043b\u043e\u0440\u043d\u044b\u0435 \u0441\u043a\u0430\u0437\u0430\u043d\u0438\u044f \u043e \u043f\u043e\u0434\u0432\u0438\u0433\u0430\u0445 \u0434\u0440\u0435\u0432\u043d\u0438\u0445 \u0433\u0435\u0440\u043e\u0435\u0432.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "L\u2019Iliade (en grec ancien \u1f38\u03bb\u03b9\u03ac\u03c2 / Ili\u00e1s, en grec moderne \u0399\u03bb\u03b9\u03ac\u03b4\u03b1 / Ili\u00e1da) est une \u00e9pop\u00e9e de la Gr\u00e8ce antique attribu\u00e9e \u00e0 l'a\u00e8de Hom\u00e8re. Ce nom provient de la p\u00e9riphrase \u00ab le po\u00e8me d'Ilion \u00bb (\u1f21 \u1f38\u03bb\u03b9\u1f70\u03c2 \u03c0\u03bf\u03af\u03b7\u03c3\u03b9\u03c2 / h\u00ea Ili\u00e0s po\u00ed\u00easis), Ilion (\u1f3c\u03bb\u03b9\u03bf\u03bd / \u00cdlion) \u00e9tant l'autre nom de la ville de Troie. L\u2019Iliade est compos\u00e9e de quinze mille trois cent trente-sept hexam\u00e8tres dactyliques et, depuis l'\u00e9poque hell\u00e9nistique, divis\u00e9e en vingt-quatre chants.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "The Iliad (/\u02c8\u026ali\u0259d/; Ancient Greek: \u1f38\u03bb\u03b9\u03ac\u03c2 Ilias, pronounced [i\u02d0.li.\u00e1s] in Classical Attic; sometimes referred to as the Song of Ilion or Song of Ilium) is an ancient Greek epic poem in dactylic hexameter, traditionally attributed to Homer. Set during the Trojan War, the ten-year siege of the city of Troy (Ilium) by a coalition of Greek states, it tells of the battles and events during the weeks of a quarrel between King Agamemnon and the warrior Achilles.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "A Il\u00edada (em grego antigo: \u1f38\u03bb\u03b9\u03ac\u03c2, IPA: [i\u02d0li\u00e1s]) um dos dois principais poemas \u00e9picos da Gr\u00e9cia Antiga, de autoria atribu\u00edda ao poeta Homero, que narra os acontecimentos ocorridos no per\u00edodo de 50 dias durante o d\u00e9cimo e \u00faltimo ano da Guerra de Troia, guerra empreendida para a conquista de \u00cdlion ou Tr\u00f3ia, cuja g\u00eanese radica na ira (\u03bc\u1fc6\u03bd\u03b9\u03c2, m\u00eanis) de Aquiles.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u300e\u30a4\u30fc\u30ea\u30a2\u30b9\u300f\uff08\u5e0c: I\u03bb\u03b9\u03ac\u03c2, \u7f85: Ilias, \u82f1: Iliad\uff09\u306f\u3001\u30db\u30e1\u30fc\u30ed\u30b9\u306b\u3088\u3063\u3066\u4f5c\u3089\u308c\u305f\u3068\u4f1d\u3048\u3089\u308c\u308b\u9577\u7de8\u53d9\u4e8b\u8a69\u3067\u3001\u6700\u53e4\u671f\u306e\u53e4\u4ee3\u30ae\u30ea\u30b7\u30a2\u8a69\u4f5c\u54c1\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La Il\u00edada (en griego antiguo \u1f38\u03bb\u03b9\u03ac\u03c2: Ili\u00e1s; en griego moderno \u0399\u03bb\u03b9\u03ac\u03b4\u03b1: Ili\u00e1da) es una epopeya griega, atribuida tradicionalmente a Homero. Compuesta en hex\u00e1metros dact\u00edlicos, consta de 15 693 versos (divididos por los editores, ya en la antig\u00fcedad, en 24 cantos o rapsodias) y su trama radica en la c\u00f3lera de Aquiles (\u03bc\u1fc6\u03bd\u03b9\u03c2, m\u00eanis). Narra los acontecimientos ocurridos durante 51 d\u00edas en el d\u00e9cimo y \u00faltimo a\u00f1o de la guerra de Troya. El t\u00edtulo de la obra deriva del nombre griego de Troya, \u0399li\u00f3n.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Die Ilias (griechisch \u1f38\u03bb\u03b9\u03ac\u03c2 Ili\u00e1s), eines der \u00e4ltesten schriftlich fixierten Werke Europas, schildert einen Abschnitt des Trojanischen Krieges. Eine zeitliche Einordnung ist schwierig, heutzutage datiert man die Entstehung ins 8. oder 7. Jahrhundert v. Chr. Das Epos umfasst 24 B\u00fccher bzw. Ges\u00e4nge, wie diese Abschnitte seit der \u00dcbersetzung durch Johann Heinrich Vo\u00df bezeichnet werden. Die Ilias beruht auf fr\u00fchgeschichtlichen Mythen und Erz\u00e4hlungen und wird Homer zugeschrieben (zur Verfasserschaft, auch hinsichtlich der Odyssee, siehe homerische Frage). Die Ilias-Darstellung der Olympischen G\u00f6tter d\u00fcrfte erheblich zur Entwicklung einer nationalen griechischen Religion beigetragen haben und pr\u00e4gt bis in die Gegenwart die europ\u00e4ische Kunst- und Geisteswissenschaft.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u300a\u4f0a\u5229\u4e9a\u7279\u300b\uff08\u5e0c\u814a\u8bed\uff1a\u0399\u03bb\u03b9\u03ac\u03c2\uff0c\u8f6c\u5199\uff1aIli\u00e1s\uff09\u53c8\u8bd1\u300a\u4f0a\u5229\u6602\u7eaa\u300b\uff08\u53d6\u81ea\u4e66\u540d\u201c\u4f0a\u5229\u6602\u57ce\u4e0b\u7684\u6545\u4e8b\u201d\u4e4b\u610f\uff09\uff0c\u662f\u53e4\u5e0c\u814a\u8bd7\u4eba\u8377\u9a6c\u7684\u5f37\u5f31\u5f31\u683c\u516d\u97f3\u6b65\u53f2\u8bd7\u3002\u6545\u4e8b\u7684\u80cc\u666f\u8bbe\u5728\u7279\u6d1b\u4f0a\u6218\u4e89\uff0c\u662f\u5e0c\u814a\u57ce\u90a6\u4e4b\u95f4\u7684\u51b2\u7a81\uff0c\u519b\u961f\u5bf9\u7279\u6d1b\u4f0a\u57ce(\u4f0a\u5229\u6602)\u570d\u56f0\u4e86\u5341\u5e74\u4e4b\u4e45\uff0c\u6545\u4e8b\u8bb2\u8ff0\u4e86\u56fd\u738b\u963f\u4f3d\u95e8\u519c\u4e0e\u82f1\u96c4\u963f\u5580\u7409\u65af\u4e4b\u95f4\u7684\u4e89\u6267\u3002 \u867d\u7136\u6545\u4e8b\u53ea\u662f\u8bb2\u8ff0\u4e86\u6218\u4e89\u6700\u540e\u4e00\u5e74\u51e0\u5468\u5185\u53d1\u751f\u7684\u4e8b\u60c5\uff0c\u4f46\u300a\u4f0a\u5229\u4e9a\u7279\u300b\u63d0\u53ca\u6216\u6697\u55bb\u4e86\u8bb8\u591a\u5173\u4e8e\u56f4\u57ce\u7684\u5e0c\u814a\u4f20\u5947\uff1b\u5728\u65e9\u5148\u7684\u4e8b\u4ef6\u4e2d\uff0c\u4f8b\u5982\u52c7\u58eb\u4eec\u4e3a\u56f4\u653b\u96c6\u5408\uff0c\u6218\u4e89\u7684\u7531\u6765\uff0c\u4ee5\u53ca\u76f8\u5173\u7684\u987e\u8651\u7b49\u7b49\u90fd\u5728\u6545\u4e8b\u5f00\u59cb\u4e4b\u65f6\u51fa\u73b0\u3002\u53f2\u8bd7\u7684\u53d9\u8ff0\u968f\u540e\u7ed9\u51fa\u4e86\u9884\u8a00\uff0c\u4f8b\u5982\u963f\u57fa\u91cc\u65af\u5c06\u4f1a\u9047\u5230\u7684\u4e0d\u5e78\u4ee5\u53ca\u7279\u6d1b\u4f0a\u7684\u6ca6\u9677\uff0c\u8fd9\u4e9b\u9884\u8a00\u5728\u4e8b\u4ef6\u53d1\u751f\u524d\u7ed9\u51fa\uff0c\u6697\u793a\u751f\u52a8\u9c9c\u6d3b\uff0c\u56e0\u6b64\u5f53\u6545\u4e8b\u5230\u7ed3\u5c3e\u5904\uff0c\u53f2\u8bd7\u57fa\u672c\u4e0a\u8be0\u91ca\u4e86\u6574\u4e2a\u7279\u6d1b\u4f0a\u6218\u4e89\u3002 \u300a\u4f0a\u5229\u4e9a\u7279\u300b\u548c\u300a\u5965\u5fb7\u8d5b\u300b\u5728\u67d0\u79cd\u7a0b\u5ea6\u4e0a\u662f\u4e0a\u4e0b\u96c6\u7684\u5173\u7cfb\uff0c\u5e38\u88ab\u8ba4\u4e3a\u662f\u8377\u9a6c\u7684\u4f5c\u54c1\uff0c\u5b83\u4eec\u662f\u91cd\u8981\u7684\u53e4\u5e0c\u814a\u6587\u5b66\u4f5c\u54c1\uff0c\u4e0e\u300a\u5965\u5fb7\u8d5b\u300b\u540c\u4e3a\u897f\u65b9\u7684\u7ecf\u5178\u4e4b\u4e00\u3002\u6839\u636e\u6709\u8377\u9a6c\u53f2\u8bd7\u4eba\u7269\u56fe\u50cf\u7684\u82b1\u74f6\u751f\u4ea7\u65f6\u671f\u3001\u5176\u4ed6\u5f15\u7528\u6b64\u8bd7\u7684\u5e0c\u814a\u8bd7\u6b4c\u64b0\u5199\u65e5\u5b50\u63a8\u65ad\uff0c\u672c\u53f2\u8bd7\u5e94\u5927\u7ea6\u5b8c\u6210\u4e8e\u516c\u5143\u524d750\u6216725\u5e74\u3002\u6700\u8fd1\uff0c\u6839\u636e\u8bed\u8a00\u6f14\u5316\u7684\u7edf\u8ba1\u6a21\u578b\u5c06\u5176\u5b9a\u4f4d\u4e3a\u516c\u5143\u524d760\u5230710\u5e74\u95f4\u3002\u5728\u73b0\u4ee3\u901a\u7528\u7248\u4e2d\uff0c\u300a\u4f0a\u5229\u4e9a\u7279\u300b\u5305\u542b15,693\u884c\uff1b\u6587\u5b57\u662f\u4ee5\u8377\u9a6c\u5e0c\u814a\u6587\u5199\u6210\uff0c\u6df7\u5408\u4e86\u7231\u5965\u5c3c\u4e9a\u5e0c\u814a\u6587\u548c\u5176\u5b83\u53e4\u5e0c\u814a\u6587\u98ce\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Iliada (gr. \u1f38\u03bb\u03b9\u03ac\u03c2 Ili\u00e1s) \u2013 obok Odysei drugi z epos\u00f3w, kt\u00f3rych autorstwo tradycja przypisuje Homerowi. Oba utwory datuje si\u0119 na VIII lub VII wiek p.n.e. \u2013 stanowi\u0105 wi\u0119c one najstarsze zabytki literatury greckiej i europejskiej w og\u00f3le. Oba poematy s\u0105 eposami heroicznymi. Powsta\u0142y prawdopodobnie w Jonii na wybrze\u017cu Azji Mniejszej \u2013 \u015bwiadczy o tym przede wszystkim ich j\u0119zyk, kt\u00f3ry mo\u017cna scharakteryzowa\u0107 jako archaiczny dialekt jo\u0144ski z elementami dialektu eolskiego. Metrum stanowi heksametr daktyliczny. Tematem utworu jest gniew Achillesa i zwi\u0105zane z nim epizody wojny troja\u0144skiej. Tytu\u0142 utworu pochodzi od wyra\u017cenia he Ilias poiesis \u2013 pie\u015b\u0144 o Ilionie (Troi).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "De Ilias (Oudgrieks: \u1f38\u03bb\u03b9\u03ac\u03c2) is een vroeg-Grieks epos dat toegeschreven wordt aan de dichter Homerus, hoewel geleerden het erover eens zijn dat deze vorm van po\u00ebzie waarschijnlijk eerst mondeling overgedragen werd en pas later op schrift gesteld. De titel is ontleend aan Ilios of Ilion (\u1f3c\u03bb\u03b9\u03bf\u03bd), de oude, Griekse naam voor Troje, een stad die was gesitueerd in Klein-Azi\u00eb aan de noordwestkust van Anatoli\u00eb.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "L'Iliade \u00e8 un poema epico tradizionalmente attribuito ad Omero, composto da ventiquattro libri o canti, ognuno dei quali \u00e8 indicato con una lettera dell'alfabeto greco maiuscolo per un totale di 15.688 versi in esametri dattilici. Il titolo deriva da \u012al\u012d\u014fn, l'altro nome dell'antica Troia, cittadina dell'Ellesponto (e da non confondere con Ilion nell'Epiro). Opera ciclopica e complessa, \u00e8 un caposaldo della letteratura greca e occidentale. Narra le vicende di un breve periodo della storia della guerra di Troia, accadute nei cinquantuno giorni dell'ultimo anno di guerra, di cui l'ira di Achille \u00e8 l'argomento portante del poema.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0625\u0644\u064a\u0627\u0630\u0629 (\u0628\u0627\u0644\u064a\u0648\u0646\u0627\u0646\u064a\u0629: \u03bc\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba) \u0645\u0644\u062d\u0645\u0629 \u0634\u0639\u0631\u064a\u0629 \u062a\u062d\u0643\u064a \u0642\u0635\u0629 \u062d\u0631\u0628 \u0637\u0631\u0648\u0627\u062f\u0629 \u0648\u062a\u0639\u062a\u0628\u0631 \u0645\u0639 \u0627\u0644\u0623\u0648\u062f\u064a\u0633\u0627 \u0623\u0647\u0645 \u0645\u0644\u062d\u0645\u0629 \u0634\u0639\u0631\u064a\u0629 \u0625\u063a\u0631\u064a\u0642\u064a\u0629 \u0644\u0644\u0634\u0627\u0639\u0631 \u0627\u0644\u0623\u0639\u0645\u0649 \u0647\u0648\u0645\u064a\u0631\u0648\u0633 \u0627\u0644\u0645\u0634\u0643\u0648\u0643 \u0641\u064a \u0648\u062c\u0648\u062f\u0647 \u0623\u0648 \u0623\u0646\u0647 \u0634\u062e\u0635 \u0648\u0627\u062d\u062f \u0627\u0644\u0630\u064a \u0643\u062a\u0628 \u0627\u0644\u0645\u0644\u062d\u0645\u0629 \u0648\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0645\u0644\u062d\u0645\u0629 \u064a\u0639\u0648\u062f \u0625\u0644\u0649 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062a\u0627\u0633\u0639 \u0623\u0648 \u0627\u0644\u062b\u0627\u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0645\u064a\u0644\u0627\u062f. \u0648\u0647\u064a \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0646\u0635 \u0634\u0639\u0631\u064a. \u0648\u064a\u0642\u0627\u0644 \u0623\u0646\u0647 \u0643\u062a\u0628\u0647\u0627 \u0645\u0639 \u0645\u0644\u062d\u0645\u062a\u0647 \u0627\u0644\u0623\u0648\u062f\u064a\u0633\u0623. \u0648\u0642\u062f \u062c\u0645\u0639\u062a \u0623\u0634\u0639\u0627\u0631\u0647\u0627 \u0639\u0627\u0645 700 \u0642.\u0645. \u0628\u0639\u062f \u0645\u0627\u0626\u0629 \u0639\u0627\u0645 \u0645\u0646 \u0648\u0641\u0627\u062a\u0647. \u0648\u062a\u0631\u0648\u064a \u0642\u0635\u0629 \u062d\u0635\u0627\u0631 \u0645\u062f\u064a\u0646\u0629 \u0637\u0631\u0648\u0627\u062f\u0629 .",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/The_Iliad"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Iliade"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03tt2"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Iliad"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0399\u03bb\u03b9\u03ac\u03b4\u03b1"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc77c\ub9ac\uc544\uc2a4"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Il\u00edada"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Ilias"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4135525-8"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q8275"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30a4\u30fc\u30ea\u30a2\u30b9"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Iliada"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Iliad"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Iliada"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Ilias"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Il\u00edada"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Ilias"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q8275"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Iliade"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Iliad"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Epic_Cycle"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Public_domain_books"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Ancient_Greek_religion"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Beginning_Iliad.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Iliad"
+            }
+        ],
+        "http://dbpedia.org/property/title": [
+            {
+                "type": "literal",
+                "value": "The Iliad",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Iliad?oldid=744671188"
+            }
+        ],
+        "http://dbpedia.org/property/author": [
+            {
+                "type": "literal",
+                "value": "HOMER",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/direction": [
+            {
+                "type": "literal",
+                "value": "vertical",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/footerAlign": [
+            {
+                "type": "literal",
+                "value": "left",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/headerAlign": [
+            {
+                "type": "literal",
+                "value": "left/right/center",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.amazon.com/dp/B009FLJMZ4?keywords=parsed+iliad"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=-sKGGd1JuqoC&printsec=frontcover"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=JojMmQEACAAJ&source=gbs_book_other_versions"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.mccunecollection.org/Iliad%20of%20Homer.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.gutenberg.org/ebooks/16452"
+            },
+            {
+                "type": "uri",
+                "value": "https://archive.org/details/iliadbooks1324wi1324homeuoft"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.uark.edu/campus-resources/achilles/iliad/iliad.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.press.jhu.edu/books/nagy/BofATL/toc.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.youtube.com/watch?v=OB91m1kqbzk&feature=results_main&playnext=1&list=PL0A9139699B2DD602"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.shmoop.com/iliad/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.communitywalk.com/iliad_map/map/1436374"
+            },
+            {
+                "type": "uri",
+                "value": "http://records.viu.ca/~johnstoi/homer/homertranslations.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.library.northwestern.edu/homer/html/application.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.perseus.tufts.edu/cgi-bin/ptext?lookup=Hom.+Il.+1.1"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=fIp0RYIjazQC&printsec=frontcover"
+            },
+            {
+                "type": "uri",
+                "value": "https://archive.org/details/grammarofhomeric00monruoft"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=TguHR9k8DQ8C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=4ZdxbCe84z0C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=URaInQEACAAJ&source=gbs_book_other_versions"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.iliadtranslation.com/The-Iliad-About.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cummingsstudyguides.net/TheIliad.html#Iliad"
+            },
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?id=ABWYSMNWjlIC&printsec=frontcover"
+            },
+            {
+                "type": "uri",
+                "value": "http://daten.digitale-sammlungen.de/0005/bsb00050607/images/index.html?fip=193.174.98.30&id=00050607&seite=1"
+            },
+            {
+                "type": "uri",
+                "value": "http://moebio.com/iliad/"
+            },
+            {
+                "type": "uri",
+                "value": "https://archive.org/details/homeriliadbooks00monrgoog"
+            }
+        ],
+        "http://dbpedia.org/property/caption": [
+            {
+                "type": "literal",
+                "value": "Achilles being adored by princesses of Skyros, a scene from the Iliad where Odysseus  discovers him dressed as a woman and hiding among the princesses at the royal court of Skyros. A late Roman mosaic from La Olmeda, Spain, 4th-5th centuries AD",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Detail of Achilles",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Detail of Odysseus",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u300e\u30a4\u30fc\u30ea\u30a2\u30b9\u300f\uff08\u5e0c: I\u03bb\u03b9\u03ac\u03c2, \u7f85: Ilias, \u82f1: Iliad\uff09\u306f\u3001\u30db\u30e1\u30fc\u30ed\u30b9\u306b\u3088\u3063\u3066\u4f5c\u3089\u308c\u305f\u3068\u4f1d\u3048\u3089\u308c\u308b\u9577\u7de8\u53d9\u4e8b\u8a69\u3067\u3001\u6700\u53e4\u671f\u306e\u53e4\u4ee3\u30ae\u30ea\u30b7\u30a2\u8a69\u4f5c\u54c1\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "L'Iliade \u00e8 un poema epico tradizionalmente attribuito ad Omero, composto da ventiquattro libri o canti, ognuno dei quali \u00e8 indicato con una lettera dell'alfabeto greco maiuscolo per un totale di 15.688 versi in esametri dattilici. Il titolo deriva da \u012al\u012d\u014fn, l'altro nome dell'antica Troia, cittadina dell'Ellesponto (e da non confondere con Ilion nell'Epiro). Opera ciclopica e complessa, \u00e8 un caposaldo della letteratura greca e occidentale. Narra le vicende di un breve periodo della storia della guerra di Troia, accadute nei cinquantuno giorni dell'ultimo anno di guerra, di cui l'ira di Achille \u00e8 l'argomento portante del poema.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "The Iliad (/\u02c8\u026ali\u0259d/; Ancient Greek: \u1f38\u03bb\u03b9\u03ac\u03c2 Ilias, pronounced [i\u02d0.li.\u00e1s] in Classical Attic; sometimes referred to as the Song of Ilion or Song of Ilium) is an ancient Greek epic poem in dactylic hexameter, traditionally attributed to Homer. Set during the Trojan War, the ten-year siege of the city of Troy (Ilium) by a coalition of Greek states, it tells of the battles and events during the weeks of a quarrel between King Agamemnon and the warrior Achilles. Although the story covers only a few weeks in the final year of the war, the Iliad mentions or alludes to many of the Greek legends about the siege; the earlier events, such as the gathering of warriors for the siege, the cause of the war, and related concerns tend to appear near the beginning. Then the epic narrative takes up events prophesied for the future, such as Achilles' looming death and the sack of Troy, although the narrative ends before these events take place. However, as these events are prefigured and alluded to more and more vividly, when it reaches an end the poem has told a more or less complete tale of the Trojan War. The Iliad is paired with something of a sequel, the Odyssey, also attributed to Homer. Along with the Odyssey, the Iliad is among the oldest extant works of Western literature, and its written version is usually dated to around the 8th century BC. Recent statistical modelling based on language evolution gives a date of 760\u2013710 BC. In the modern vulgate (the standard accepted version), the Iliad contains 15,693 lines; it is written in Homeric Greek, a literary amalgam of Ionic Greek and other dialects.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u00ab\u0418\u043b\u0438\u0430\u0301\u0434\u0430\u00bb (\u0434\u0440.-\u0433\u0440\u0435\u0447. \u1f38\u03bb\u03b9\u03ac\u03c2) \u2014 \u0434\u0440\u0435\u0432\u043d\u0435\u0439\u0448\u0438\u0439 \u0438\u0437 \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0432\u0448\u0438\u0445\u0441\u044f \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a\u043e\u0432 \u0434\u0440\u0435\u0432\u043d\u0435\u0433\u0440\u0435\u0447\u0435\u0441\u043a\u043e\u0439 \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u044b, \u044d\u043f\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043e\u044d\u043c\u0430, \u043f\u0440\u0438\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u043c\u0430\u044f \u0413\u043e\u043c\u0435\u0440\u0443. \u041e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u0422\u0440\u043e\u044f\u043d\u0441\u043a\u043e\u0439 \u0432\u043e\u0439\u043d\u044b.\u0412 \u0435\u0451 \u043e\u0441\u043d\u043e\u0432\u0443, \u043f\u043e-\u0432\u0438\u0434\u0438\u043c\u043e\u043c\u0443, \u043b\u0435\u0433\u043b\u0438 \u0444\u043e\u043b\u044c\u043a\u043b\u043e\u0440\u043d\u044b\u0435 \u0441\u043a\u0430\u0437\u0430\u043d\u0438\u044f \u043e \u043f\u043e\u0434\u0432\u0438\u0433\u0430\u0445 \u0434\u0440\u0435\u0432\u043d\u0438\u0445 \u0433\u0435\u0440\u043e\u0435\u0432.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "La Il\u00edada (en griego antiguo \u1f38\u03bb\u03b9\u03ac\u03c2: Ili\u00e1s; en griego moderno \u0399\u03bb\u03b9\u03ac\u03b4\u03b1: Ili\u00e1da) es una epopeya griega, atribuida tradicionalmente a Homero. Compuesta en hex\u00e1metros dact\u00edlicos, consta de 15 693 versos (divididos por los editores, ya en la antig\u00fcedad, en 24 cantos o rapsodias) y su trama radica en la c\u00f3lera de Aquiles (\u03bc\u1fc6\u03bd\u03b9\u03c2, m\u00eanis). Narra los acontecimientos ocurridos durante 51 d\u00edas en el d\u00e9cimo y \u00faltimo a\u00f1o de la guerra de Troya. El t\u00edtulo de la obra deriva del nombre griego de Troya, \u0399li\u00f3n. Tanto la Il\u00edada como la Odisea fueron consideradas por los griegos de la \u00e9poca cl\u00e1sica y por las generaciones posteriores como las composiciones m\u00e1s importantes en la literatura de la Antigua Grecia y fueron utilizadas como fundamentos de la pedagog\u00eda griega. Ambas forman parte de una serie m\u00e1s amplia de poemas \u00e9picos de diferentes autores y extensiones denominado ciclo troyano; sin embargo, de los otros poemas, \u00fanicamente han sobrevivido fragmentos. Fue muy famosa en su \u00e9poca y es obligatorio estudiarla en Grecia.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "De Ilias (Oudgrieks: \u1f38\u03bb\u03b9\u03ac\u03c2) is een vroeg-Grieks epos dat toegeschreven wordt aan de dichter Homerus, hoewel geleerden het erover eens zijn dat deze vorm van po\u00ebzie waarschijnlijk eerst mondeling overgedragen werd en pas later op schrift gesteld. De titel is ontleend aan Ilios of Ilion (\u1f3c\u03bb\u03b9\u03bf\u03bd), de oude, Griekse naam voor Troje, een stad die was gesitueerd in Klein-Azi\u00eb aan de noordwestkust van Anatoli\u00eb.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Iliada (gr. \u1f38\u03bb\u03b9\u03ac\u03c2 Ili\u00e1s) \u2013 obok Odysei drugi z epos\u00f3w, kt\u00f3rych autorstwo tradycja przypisuje Homerowi. Oba utwory datuje si\u0119 na VIII lub VII wiek p.n.e. \u2013 stanowi\u0105 wi\u0119c one najstarsze zabytki literatury greckiej i europejskiej w og\u00f3le. Oba poematy s\u0105 eposami heroicznymi. Powsta\u0142y prawdopodobnie w Jonii na wybrze\u017cu Azji Mniejszej \u2013 \u015bwiadczy o tym przede wszystkim ich j\u0119zyk, kt\u00f3ry mo\u017cna scharakteryzowa\u0107 jako archaiczny dialekt jo\u0144ski z elementami dialektu eolskiego. Metrum stanowi heksametr daktyliczny. Tematem utworu jest gniew Achillesa i zwi\u0105zane z nim epizody wojny troja\u0144skiej. Tytu\u0142 utworu pochodzi od wyra\u017cenia he Ilias poiesis \u2013 pie\u015b\u0144 o Ilionie (Troi).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Die Ilias (griechisch \u1f38\u03bb\u03b9\u03ac\u03c2 Ili\u00e1s), eines der \u00e4ltesten schriftlich fixierten Werke Europas, schildert einen Abschnitt des Trojanischen Krieges. Eine zeitliche Einordnung ist schwierig, heutzutage datiert man die Entstehung ins 8. oder 7. Jahrhundert v. Chr. Das Epos umfasst 24 B\u00fccher bzw. Ges\u00e4nge, wie diese Abschnitte seit der \u00dcbersetzung durch Johann Heinrich Vo\u00df bezeichnet werden. Die Ilias beruht auf fr\u00fchgeschichtlichen Mythen und Erz\u00e4hlungen und wird Homer zugeschrieben (zur Verfasserschaft, auch hinsichtlich der Odyssee, siehe homerische Frage). Die Ilias-Darstellung der Olympischen G\u00f6tter d\u00fcrfte erheblich zur Entwicklung einer nationalen griechischen Religion beigetragen haben und pr\u00e4gt bis in die Gegenwart die europ\u00e4ische Kunst- und Geisteswissenschaft. Gegenstand ist der bereits zehn Jahre w\u00e4hrende Trojanische Krieg zwischen Troja und der griechischen Allianz der Achaier. Zentrales Thema der Ilias ist der Zorn, der innerhalb ihres nur 51-t\u00e4gigen Handlungsverlaufs immer weitere Kreise zieht und dabei Heroen wie auch G\u00f6tter als unentrinnbares Schicksal ereilt. Den Anfang setzen die Entehrung des Gottes Apollon durch den Raub der Chryse\u00efs und seine Rache an den Achaiern. Als schlie\u00dflich dem Apollon-Priester Chryses die Tochter zur\u00fcckgegeben wird, fordert Agamemnon, Oberbefehlshaber der Achaier, Ersatz f\u00fcr seine Beute und ger\u00e4t so in Konflikt mit Achilleus, der sich in der Folge ebenfalls entehrt sieht und sich aus den K\u00e4mpfen zur\u00fcckzieht. Der \u201eZorn des Achilleus\u201c wird zur Klammer des Epos, findet zum Ende hin aber eine neue Ursache. So wendet Achilleus im 19. Gesang die endg\u00fcltige Niederlage der Achaier durch die \u00f6ffentliche Vers\u00f6hnung mit Agamemnon und seinen Wiedereintritt ins Kampfgeschehen ab, um daf\u00fcr nun dem Zorn auf Hektor nachzugeben, der zuvor seinen besten Freund und Kampfgef\u00e4hrten Patroklos get\u00f6tet hat. Eine M\u00e4\u00dfigung findet Achilleus\u2019 Zorn erst im letzten bzw. 24. Gesang, als er Hektors Leichnam nach 12-t\u00e4giger Sch\u00e4ndung dessen Vater Priamos zur Bestattung \u00fcberl\u00e4sst. Mythischer Ausgangspunkt f\u00fcr den Trojanischen Krieg ist das Urteil des Paris und dessen Entf\u00fchrung von Agamemnons Schw\u00e4gerin Helena. Beides wird in der Kypria beschrieben. Die Kenntnis darum wird in der Ilias vorausgesetzt und daher nur einmal kurz angedeutet. Von der List des Odysseus (Trojanisches Pferd) und dem Ende des Trojanischen Krieges wird dann nicht in der Ilias, sondern unter anderem in der Iliu persis des sogenannten Epischen Zyklus erz\u00e4hlt. Die Ilias z\u00e4hlt zu den bedeutendsten Werken der Weltliteratur.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "L\u2019Iliade (en grec ancien \u1f38\u03bb\u03b9\u03ac\u03c2 / Ili\u00e1s, en grec moderne \u0399\u03bb\u03b9\u03ac\u03b4\u03b1 / Ili\u00e1da) est une \u00e9pop\u00e9e de la Gr\u00e8ce antique attribu\u00e9e \u00e0 l'a\u00e8de Hom\u00e8re. Ce nom provient de la p\u00e9riphrase \u00ab le po\u00e8me d'Ilion \u00bb (\u1f21 \u1f38\u03bb\u03b9\u1f70\u03c2 \u03c0\u03bf\u03af\u03b7\u03c3\u03b9\u03c2 / h\u00ea Ili\u00e0s po\u00ed\u00easis), Ilion (\u1f3c\u03bb\u03b9\u03bf\u03bd / \u00cdlion) \u00e9tant l'autre nom de la ville de Troie. L\u2019Iliade est compos\u00e9e de quinze mille trois cent trente-sept hexam\u00e8tres dactyliques et, depuis l'\u00e9poque hell\u00e9nistique, divis\u00e9e en vingt-quatre chants. Le texte a probablement \u00e9t\u00e9 compos\u00e9 entre -850 et -750, soit quatre si\u00e8cles apr\u00e8s la p\u00e9riode \u00e0 laquelle les historiens font correspondre la guerre mythique qu\u2019il relate. Il n'a \u00e9t\u00e9 fix\u00e9 par \u00e9crit que sous Pisistrate, au VIe si\u00e8cle av. J.-C. Le th\u00e8me de l'\u00e9pop\u00e9e est la guerre de Troie dans laquelle s'affrontent les Ach\u00e9ens venus de toute la Gr\u00e8ce et les Troyens et leurs alli\u00e9s, chaque camp \u00e9tant soutenu par diverses divinit\u00e9s comme Ath\u00e9na, Pos\u00e9idon ou Apollon. Apr\u00e8s un si\u00e8ge de dix ans, le sort des armes h\u00e9site encore dans de multiples combats collectifs ou individuels o\u00f9 s'illustrent des figures comme Ajax, Hector ou Patrocle. Finalement, les Ach\u00e9ens l'emportent gr\u00e2ce \u00e0 la victoire d'Achille qui tue le chef troyen en combat singulier.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u300a\u4f0a\u5229\u4e9a\u7279\u300b\uff08\u5e0c\u814a\u8bed\uff1a\u0399\u03bb\u03b9\u03ac\u03c2\uff0c\u8f6c\u5199\uff1aIli\u00e1s\uff09\u53c8\u8bd1\u300a\u4f0a\u5229\u6602\u7eaa\u300b\uff08\u53d6\u81ea\u4e66\u540d\u201c\u4f0a\u5229\u6602\u57ce\u4e0b\u7684\u6545\u4e8b\u201d\u4e4b\u610f\uff09\uff0c\u662f\u53e4\u5e0c\u814a\u8bd7\u4eba\u8377\u9a6c\u7684\u5f37\u5f31\u5f31\u683c\u516d\u97f3\u6b65\u53f2\u8bd7\u3002\u6545\u4e8b\u7684\u80cc\u666f\u8bbe\u5728\u7279\u6d1b\u4f0a\u6218\u4e89\uff0c\u662f\u5e0c\u814a\u57ce\u90a6\u4e4b\u95f4\u7684\u51b2\u7a81\uff0c\u519b\u961f\u5bf9\u7279\u6d1b\u4f0a\u57ce(\u4f0a\u5229\u6602)\u570d\u56f0\u4e86\u5341\u5e74\u4e4b\u4e45\uff0c\u6545\u4e8b\u8bb2\u8ff0\u4e86\u56fd\u738b\u963f\u4f3d\u95e8\u519c\u4e0e\u82f1\u96c4\u963f\u5580\u7409\u65af\u4e4b\u95f4\u7684\u4e89\u6267\u3002 \u867d\u7136\u6545\u4e8b\u53ea\u662f\u8bb2\u8ff0\u4e86\u6218\u4e89\u6700\u540e\u4e00\u5e74\u51e0\u5468\u5185\u53d1\u751f\u7684\u4e8b\u60c5\uff0c\u4f46\u300a\u4f0a\u5229\u4e9a\u7279\u300b\u63d0\u53ca\u6216\u6697\u55bb\u4e86\u8bb8\u591a\u5173\u4e8e\u56f4\u57ce\u7684\u5e0c\u814a\u4f20\u5947\uff1b\u5728\u65e9\u5148\u7684\u4e8b\u4ef6\u4e2d\uff0c\u4f8b\u5982\u52c7\u58eb\u4eec\u4e3a\u56f4\u653b\u96c6\u5408\uff0c\u6218\u4e89\u7684\u7531\u6765\uff0c\u4ee5\u53ca\u76f8\u5173\u7684\u987e\u8651\u7b49\u7b49\u90fd\u5728\u6545\u4e8b\u5f00\u59cb\u4e4b\u65f6\u51fa\u73b0\u3002\u53f2\u8bd7\u7684\u53d9\u8ff0\u968f\u540e\u7ed9\u51fa\u4e86\u9884\u8a00\uff0c\u4f8b\u5982\u963f\u57fa\u91cc\u65af\u5c06\u4f1a\u9047\u5230\u7684\u4e0d\u5e78\u4ee5\u53ca\u7279\u6d1b\u4f0a\u7684\u6ca6\u9677\uff0c\u8fd9\u4e9b\u9884\u8a00\u5728\u4e8b\u4ef6\u53d1\u751f\u524d\u7ed9\u51fa\uff0c\u6697\u793a\u751f\u52a8\u9c9c\u6d3b\uff0c\u56e0\u6b64\u5f53\u6545\u4e8b\u5230\u7ed3\u5c3e\u5904\uff0c\u53f2\u8bd7\u57fa\u672c\u4e0a\u8be0\u91ca\u4e86\u6574\u4e2a\u7279\u6d1b\u4f0a\u6218\u4e89\u3002 \u300a\u4f0a\u5229\u4e9a\u7279\u300b\u548c\u300a\u5965\u5fb7\u8d5b\u300b\u5728\u67d0\u79cd\u7a0b\u5ea6\u4e0a\u662f\u4e0a\u4e0b\u96c6\u7684\u5173\u7cfb\uff0c\u5e38\u88ab\u8ba4\u4e3a\u662f\u8377\u9a6c\u7684\u4f5c\u54c1\uff0c\u5b83\u4eec\u662f\u91cd\u8981\u7684\u53e4\u5e0c\u814a\u6587\u5b66\u4f5c\u54c1\uff0c\u4e0e\u300a\u5965\u5fb7\u8d5b\u300b\u540c\u4e3a\u897f\u65b9\u7684\u7ecf\u5178\u4e4b\u4e00\u3002\u6839\u636e\u6709\u8377\u9a6c\u53f2\u8bd7\u4eba\u7269\u56fe\u50cf\u7684\u82b1\u74f6\u751f\u4ea7\u65f6\u671f\u3001\u5176\u4ed6\u5f15\u7528\u6b64\u8bd7\u7684\u5e0c\u814a\u8bd7\u6b4c\u64b0\u5199\u65e5\u5b50\u63a8\u65ad\uff0c\u672c\u53f2\u8bd7\u5e94\u5927\u7ea6\u5b8c\u6210\u4e8e\u516c\u5143\u524d750\u6216725\u5e74\u3002\u6700\u8fd1\uff0c\u6839\u636e\u8bed\u8a00\u6f14\u5316\u7684\u7edf\u8ba1\u6a21\u578b\u5c06\u5176\u5b9a\u4f4d\u4e3a\u516c\u5143\u524d760\u5230710\u5e74\u95f4\u3002\u5728\u73b0\u4ee3\u901a\u7528\u7248\u4e2d\uff0c\u300a\u4f0a\u5229\u4e9a\u7279\u300b\u5305\u542b15,693\u884c\uff1b\u6587\u5b57\u662f\u4ee5\u8377\u9a6c\u5e0c\u814a\u6587\u5199\u6210\uff0c\u6df7\u5408\u4e86\u7231\u5965\u5c3c\u4e9a\u5e0c\u814a\u6587\u548c\u5176\u5b83\u53e4\u5e0c\u814a\u6587\u98ce\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0625\u0644\u064a\u0627\u0630\u0629 (\u0628\u0627\u0644\u064a\u0648\u0646\u0627\u0646\u064a\u0629: \u03bc\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba) \u0645\u0644\u062d\u0645\u0629 \u0634\u0639\u0631\u064a\u0629 \u062a\u062d\u0643\u064a \u0642\u0635\u0629 \u062d\u0631\u0628 \u0637\u0631\u0648\u0627\u062f\u0629 \u0648\u062a\u0639\u062a\u0628\u0631 \u0645\u0639 \u0627\u0644\u0623\u0648\u062f\u064a\u0633\u0627 \u0623\u0647\u0645 \u0645\u0644\u062d\u0645\u0629 \u0634\u0639\u0631\u064a\u0629 \u0625\u063a\u0631\u064a\u0642\u064a\u0629 \u0644\u0644\u0634\u0627\u0639\u0631 \u0627\u0644\u0623\u0639\u0645\u0649 \u0647\u0648\u0645\u064a\u0631\u0648\u0633 \u0627\u0644\u0645\u0634\u0643\u0648\u0643 \u0641\u064a \u0648\u062c\u0648\u062f\u0647 \u0623\u0648 \u0623\u0646\u0647 \u0634\u062e\u0635 \u0648\u0627\u062d\u062f \u0627\u0644\u0630\u064a \u0643\u062a\u0628 \u0627\u0644\u0645\u0644\u062d\u0645\u0629 \u0648\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0645\u0644\u062d\u0645\u0629 \u064a\u0639\u0648\u062f \u0625\u0644\u0649 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062a\u0627\u0633\u0639 \u0623\u0648 \u0627\u0644\u062b\u0627\u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0645\u064a\u0644\u0627\u062f. \u0648\u0647\u064a \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0646\u0635 \u0634\u0639\u0631\u064a. \u0648\u064a\u0642\u0627\u0644 \u0623\u0646\u0647 \u0643\u062a\u0628\u0647\u0627 \u0645\u0639 \u0645\u0644\u062d\u0645\u062a\u0647 \u0627\u0644\u0623\u0648\u062f\u064a\u0633\u0623. \u0648\u0642\u062f \u062c\u0645\u0639\u062a \u0623\u0634\u0639\u0627\u0631\u0647\u0627 \u0639\u0627\u0645 700 \u0642.\u0645. \u0628\u0639\u062f \u0645\u0627\u0626\u0629 \u0639\u0627\u0645 \u0645\u0646 \u0648\u0641\u0627\u062a\u0647. \u0648\u062a\u0631\u0648\u064a \u0642\u0635\u0629 \u062d\u0635\u0627\u0631 \u0645\u062f\u064a\u0646\u0629 \u0637\u0631\u0648\u0627\u062f\u0629 .",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "A Il\u00edada (em grego antigo: \u1f38\u03bb\u03b9\u03ac\u03c2, IPA: [i\u02d0li\u00e1s]) um dos dois principais poemas \u00e9picos da Gr\u00e9cia Antiga, de autoria atribu\u00edda ao poeta Homero, que narra os acontecimentos ocorridos no per\u00edodo de 50 dias durante o d\u00e9cimo e \u00faltimo ano da Guerra de Troia, guerra empreendida para a conquista de \u00cdlion ou Tr\u00f3ia, cuja g\u00eanese radica na ira (\u03bc\u1fc6\u03bd\u03b9\u03c2, m\u00eanis) de Aquiles. A Il\u00edada \u00e9 atribu\u00edda a Homero, que se julga ter vivido por volta do s\u00e9culo VIII a.C., na J\u00f4nia (atualmente regi\u00e3o da Turquia), e constitui o mais antigo e extenso documento liter\u00e1rio grego (e ocidental) existente. Ainda hoje, contudo se discute a verdadeira autoria e a exist\u00eancia real de Homero (nascido ou em Kh\u00edos, Gr\u00e9cia ou em Esmirna, Turquia).",
+                "lang": "pt"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Beginning_Iliad.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744671188,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 19381951,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/image": [
+            {
+                "type": "literal",
+                "value": "Villa Romana de La Olmeda Mosaicos romanos 001 Ulises.jpg",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": "Achilles at Skyros, Mosaic, Villa La Olmeda, 4th century AD.jpg",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            },
+            {
+                "type": "literal",
+                "value": 5,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Poem"
+            }
+        ],
+        "http://dbpedia.org/property/width": [
+            {
+                "type": "literal",
+                "value": 200,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/align": [
+            {
+                "type": "literal",
+                "value": "right",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Iliad": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mount_Ida": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Illyad": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ilyad": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u0399\u03bb\u03b9\u03ac\u03c2": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Illiad": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ilias": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/TheIliad": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Illiad_and_Odyssey": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u0399\u03bb\u03b9\u03ac\u03b4\u03b1": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/\u1f38\u03bb\u03b9\u03ac\u03c2": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Homer's_Iliad": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ili\u00e1s": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tim\u00ea": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Song_of_Ilion": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Song_of_Ilium": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Iliad_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Golden_Apple_(musical)": {
+        "http://dbpedia.org/ontology/basedOn": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Iliad": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wang_Huansheng": {
+        "http://dbpedia.org/ontology/notableWork": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/J._D._Frazer": {
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Iliad"
+            }
+        ]
+    }
+}

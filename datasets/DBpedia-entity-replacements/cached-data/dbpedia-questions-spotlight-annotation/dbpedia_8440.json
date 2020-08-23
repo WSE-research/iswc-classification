@@ -1,0 +1,28 @@
+{
+    "@text": "Which highly urbanized city has the highest mains voltage?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Cities_of_the_Philippines",
+            "@support": "2084",
+            "@types": "",
+            "@surfaceForm": "highly urbanized city",
+            "@offset": "6",
+            "@similarityScore": "0.9999999999998153",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Voltage",
+            "@support": "9077",
+            "@types": "",
+            "@surfaceForm": "voltage",
+            "@offset": "50",
+            "@similarityScore": "0.9997184295102818",
+            "@percentageOfSecondRank": "1.2681648757659233E-4"
+        }
+    ]
+}

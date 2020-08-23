@@ -1,0 +1,28 @@
+{
+    "@text": "Is the nominal GDP per capita of Poland less than 15065.46?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Gross_domestic_product",
+            "@support": "8354",
+            "@types": "",
+            "@surfaceForm": "nominal GDP",
+            "@offset": "7",
+            "@similarityScore": "0.9999999999538858",
+            "@percentageOfSecondRank": "4.6115781183781404E-11"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Poland",
+            "@support": "106553",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Poland",
+            "@offset": "33",
+            "@similarityScore": "0.887145884415701",
+            "@percentageOfSecondRank": "0.07754047411968312"
+        }
+    ]
+}

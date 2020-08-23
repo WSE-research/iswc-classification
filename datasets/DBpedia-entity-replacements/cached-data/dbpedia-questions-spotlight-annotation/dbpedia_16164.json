@@ -1,0 +1,28 @@
+{
+    "@text": "which is the {country} for {Hrant Dink} that has {place of death} as {Istanbul} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Hrant_Dink",
+            "@support": "263",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Hrant Dink",
+            "@offset": "28",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Istanbul",
+            "@support": "25935",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Istanbul",
+            "@offset": "70",
+            "@similarityScore": "0.9999999104986483",
+            "@percentageOfSecondRank": "6.535976877318101E-8"
+        }
+    ]
+}

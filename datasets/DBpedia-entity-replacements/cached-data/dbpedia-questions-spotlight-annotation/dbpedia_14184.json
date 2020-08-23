@@ -1,0 +1,37 @@
+{
+    "@text": "Does Miami administrate over Amman and Asti?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Miami",
+            "@support": "28742",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Miami",
+            "@offset": "5",
+            "@similarityScore": "0.9927220799859976",
+            "@percentageOfSecondRank": "0.002180227918045089"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Amman",
+            "@support": "4253",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Amman",
+            "@offset": "29",
+            "@similarityScore": "0.9994189100624538",
+            "@percentageOfSecondRank": "3.4701441277063737E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Asti",
+            "@support": "1010",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Asti",
+            "@offset": "39",
+            "@similarityScore": "0.9714645862231975",
+            "@percentageOfSecondRank": "0.01669188574482184"
+        }
+    ]
+}

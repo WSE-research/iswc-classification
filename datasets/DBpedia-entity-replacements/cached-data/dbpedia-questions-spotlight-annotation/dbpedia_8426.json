@@ -1,0 +1,37 @@
+{
+    "@text": "What drug, that is partially comprised of oxygen, has the lowest combustion flash point?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Oxygen",
+            "@support": "18348",
+            "@types": "",
+            "@surfaceForm": "oxygen",
+            "@offset": "42",
+            "@similarityScore": "0.9999724554097473",
+            "@percentageOfSecondRank": "1.3111421806830433E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Combustion",
+            "@support": "3266",
+            "@types": "",
+            "@surfaceForm": "combustion",
+            "@offset": "65",
+            "@similarityScore": "0.9999695289999225",
+            "@percentageOfSecondRank": "1.729843352334738E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Flash_point",
+            "@support": "221",
+            "@types": "",
+            "@surfaceForm": "flash point",
+            "@offset": "76",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

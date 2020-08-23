@@ -1,0 +1,37 @@
+{
+    "@text": "Is Cologny a neighbouring city of Geneva?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Cologny",
+            "@support": "61",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Cologny",
+            "@offset": "3",
+            "@similarityScore": "0.9999999995958291",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "26",
+            "@similarityScore": "0.860340844075545",
+            "@percentageOfSecondRank": "0.10895364275457689"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Geneva",
+            "@support": "15258",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Geneva",
+            "@offset": "34",
+            "@similarityScore": "0.9712643615965479",
+            "@percentageOfSecondRank": "0.02876294866530961"
+        }
+    ]
+}

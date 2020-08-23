@@ -1,0 +1,28 @@
+{
+    "@text": "Is the length of office of the Governor of Maryland equal to 4?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Governor",
+            "@support": "8009",
+            "@types": "",
+            "@surfaceForm": "Governor",
+            "@offset": "31",
+            "@similarityScore": "0.7625985232657553",
+            "@percentageOfSecondRank": "0.07377043428870615"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Maryland",
+            "@support": "48618",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Maryland",
+            "@offset": "43",
+            "@similarityScore": "0.9990897020040336",
+            "@percentageOfSecondRank": "6.222824298097918E-4"
+        }
+    ]
+}

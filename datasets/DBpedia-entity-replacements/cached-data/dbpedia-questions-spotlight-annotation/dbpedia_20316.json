@@ -1,0 +1,28 @@
+{
+    "@text": "which astronaut's mission was Apollo 11?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Astronaut",
+            "@support": "6028",
+            "@types": "",
+            "@surfaceForm": "astronaut",
+            "@offset": "6",
+            "@similarityScore": "0.9999951609314323",
+            "@percentageOfSecondRank": "4.5364851769657464E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Apollo_11",
+            "@support": "2098",
+            "@types": "Schema:Place,DBpedia:Satellite,DBpedia:Place,DBpedia:Location,DBpedia:CelestialBody,DBpedia:ArtificialSatellite",
+            "@surfaceForm": "Apollo 11",
+            "@offset": "30",
+            "@similarityScore": "0.9999980704465656",
+            "@percentageOfSecondRank": "1.9293738549152656E-6"
+        }
+    ]
+}

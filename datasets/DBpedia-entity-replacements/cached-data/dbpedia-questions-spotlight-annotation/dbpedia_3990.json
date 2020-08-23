@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the {shareholder} of {CRRC} which is a {New York Stock Exchange}?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/CRRC_Corporation",
+            "@support": "221",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "CRRC",
+            "@offset": "29",
+            "@similarityScore": "0.9999999999431282",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/New_York_Stock_Exchange",
+            "@support": "3623",
+            "@types": "Wikidata:Q41176,Schema:Place,DBpedia:Place,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "New York Stock Exchange",
+            "@offset": "47",
+            "@similarityScore": "0.9999218001385278",
+            "@percentageOfSecondRank": "7.820597716831718E-5"
+        }
+    ]
+}

@@ -1,0 +1,430 @@
+{
+    "http://en.wikipedia.org/wiki/Chess_Olympiad": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chess_Olympiad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Glossary_of_chess": {
+        "http://dbpedia.org/property/content": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chess_Olympiad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chess_Olympiad": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Tournament"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatChessCompetitions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SocialEvent107288639"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Contest107456188"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Event100029378"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u30c1\u30a7\u30b9\u30fb\u30aa\u30ea\u30f3\u30d4\u30a2\u30fc\u30c9",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Olimpiadas de ajedrez",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Olimpiada szachowa",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Chess Olympiad",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Olimp\u00edada de Xadrez",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0623\u0648\u0644\u0645\u0628\u064a\u0627\u062f \u0627\u0644\u0634\u0637\u0631\u0646\u062c",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Schaakolympiade",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Olympiade d'\u00e9checs",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Schacholympiade",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u570b\u969b\u8c61\u68cb\u5967\u6797\u5339\u514b",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0428\u0430\u0445\u043c\u0430\u0442\u043d\u0430\u044f \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Olimpiadi degli scacchi",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Olimpiada szachowa \u2013 mi\u0119dzynarodowy dru\u017cynowy turniej szachowy organizowany przez Mi\u0119dzynarodow\u0105 Federacj\u0119 Szachow\u0105 (FIDE) w cyklu dwuletnim od 1927 roku. W turnieju uczestnicz\u0105 reprezentacje narodowe, nominowane przez narodowe zwi\u0105zki szachowe zrzeszone w FIDE.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Le Olimpiadi degli scacchi sono un torneo di scacchi per squadre nazionali che si disputa ogni due anni. La prima edizione ufficiale, cio\u00e8 organizzata dalla FIDE, \u00e8 stata disputata nel 1927. Nel 2014 si \u00e8 tenuta la 41\u00aa edizione, svoltasi a Troms\u00f8 1\u00ba al 14 agosto. Nel 2016 l'evento si \u00e8 svolto a Baku in Azerbaigian dall'1 al 14 settembre.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "The Chess Olympiad is a biennial chess tournament in which teams from all over the world compete. FIDE organises the tournament and selects the host nation. The use of the name \"Chess Olympiad\" for FIDE's team championship is of historical origin and implies no connection with the Olympic Games.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Die Schacholympiade ist der bedeutendste Mannschaftswettbewerb im Schach.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u30c1\u30a7\u30b9\u30aa\u30ea\u30f3\u30d4\u30a2\u30fc\u30c9\u306f\u30011927\u5e74\u4ee5\u6765\u56fd\u969b\u30c1\u30a7\u30b9\u9023\u76df (FIDE) \u306b\u3088\u308a\u958b\u50ac\u3055\u308c\u3066\u3044\u308b\u30c1\u30a7\u30b9\u306e\u5927\u4f1a\u3002\u8fd1\u5e74\u306f\u5076\u6570\u5e74\u306b\u30012\u5e74\u6bce\u306b\u958b\u50ac\u3055\u308c\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "In de schaakolympiade wordt om de twee jaar door landenteams bestaande uit vier, vijf of zes schakers gespeeld. In 1924 vond in Parijs het eerste wereldkampioenschap voor landenteams plaats. Vanaf 1927 verzorgt de FIDE deze wedstrijden, met een onderbreking van 1939 tot 1950 wegens de Tweede Wereldoorlog. Sinds 1957 zijn er ook schaakolympiades voor dames, de eerste zes apart van het open toernooi, vanaf 1976 samen met dat laatste.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0623\u0648\u0644\u0645\u0628\u064a\u0627\u062f \u0627\u0644\u0634\u0637\u0631\u0646\u062c \u0647\u0648 \u0633\u0644\u0633\u0644\u0629 \u0645\u0628\u0627\u0631\u064a\u0627\u062a \u062a\u0642\u0627\u0645 \u0643\u0644 \u0633\u0646\u062a\u064a\u0646. \u0648\u064a\u0646\u0638\u0651\u0645 \u0647\u0630\u0627 \u0627\u0644\u062d\u062f\u062b \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u062f\u0648\u0644\u064a \u0644\u0644\u0634\u0637\u0631\u0646\u062c \u0648\u064a\u062e\u062a\u0627\u0631 \u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0645\u0636\u064a\u0641\u0629.\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0633\u0645 \"\u0623\u0648\u0644\u0645\u0628\u064a\u0627\u062f \u0627\u0644\u0634\u0637\u0631\u0646\u062c\" \u0645\u0646 \u0642\u0628\u0644 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u062f\u0648\u0644\u064a \u0644\u0644\u0634\u0637\u0631\u0646\u062c \u0644\u0647\u0630\u0647 \u0627\u0644\u0645\u0628\u0627\u0631\u064a\u0627\u062a \u0627\u0644\u062c\u0645\u0627\u0639\u064a\u0629 \u0623\u0645\u0631 \u0630\u0648 \u0623\u0635\u0648\u0644 \u062a\u0627\u0631\u064a\u062e\u064a\u0629 \u0648\u0644\u0627 \u0639\u0644\u0627\u0642\u0629 \u0644\u0647\u0627 \u0628\u0627\u0644\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0623\u0648\u0644\u0645\u0628\u064a\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u0430\u0436\u043d\u0443\u044e \u0440\u043e\u043b\u044c \u0432 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0438 \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u043e\u0439 \u0437\u043d\u0430\u0447\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434 \u0441\u044b\u0433\u0440\u0430\u043b\u043e \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0432 \u0424\u0418\u0414\u0415 \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0439 \u0448\u0430\u0445\u043c\u0430\u0442\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 (1947). \u0420\u043e\u0441\u0442\u0443 \u0430\u0432\u0442\u043e\u0440\u0438\u0442\u0435\u0442\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u043e \u0442\u0430\u043a\u0436\u0435 \u0438 \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0435 \u0438\u0445 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0439: \u0441\u043e\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0441\u0440\u043e\u043a\u043e\u0432 \u0438\u0445 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f, \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u0439 \u0434\u043b\u044f \u0438\u0433\u0440\u044b \u0438 \u043e\u0442\u0434\u044b\u0445\u0430 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 \u0441\u043e\u0440\u0435\u0432\u043d\u043e\u0432\u0430\u043d\u0438\u0439. \u0412 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0440\u043e\u0441\u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0430 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0440\u0430\u0441\u0445\u043e\u0434\u043e\u0432 \u043f\u043e \u0438\u0445 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044e \u0424\u0418\u0414\u0415 \u0441\u0442\u0430\u043b\u043e \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442\u044c \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434\u044b \u0441 1976 \u0433\u043e\u0434\u0430 \u043d\u0435 \u043f\u043e \u043a\u0440\u0443\u0433\u043e\u0432\u043e\u0439, \u0430 \u043f\u043e \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043a\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435, \u0441\u0442\u0438\u043c\u0443\u043b\u0438\u0440\u0443\u044f, \u0442\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c, \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434\u0430\u0445 \u0448\u0430\u0445\u043c\u0430\u0442\u0438\u0441\u0442\u043e\u0432 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044e\u0449\u0438\u0445\u0441\u044f \u0441\u0442\u0440\u0430\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u043c \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u0432\u0441\u0442\u0440\u0435\u0447 \u0441 \u0441\u0438\u043b\u044c\u043d\u0435\u0439\u0448\u0438\u043c\u0438 \u0448\u0430\u0445\u043c\u0430\u0442\u0438\u0441\u0442\u0430\u043c\u0438 \u043c\u0438\u0440\u0430. \u0412 \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434\u0430\u0445 \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u0438 \u0432\u0441\u0435 \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u044b \u043c\u0438\u0440\u0430 \u043d\u0430\u0447\u0438\u043d\u0430\u044f \u0441 \u041a\u0430\u043f\u0430\u0431\u043b\u0430\u043d\u043a\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u0433\u0440\u043e\u0441\u0441\u043c\u0435\u0439\u0441\u0442\u0435\u0440\u043e\u0432.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Las Olimpiadas de ajedrez son uno de los m\u00e1s importantes torneos ajedrec\u00edsticos que se celebran en el mundo. Se organizan oficialmente por la FIDE desde 1927 y tienen lugar cada dos a\u00f1os. La olimpiada de ajedrez es una competici\u00f3n por equipos, cada uno representando a un pa\u00eds (aunque el pa\u00eds organizador puede jugar con dos equipos o tres en el caso de que el n\u00famero total de equipos sea impar). Adem\u00e1s se otorgan medallas individuales a las mejores actuaciones por tablero. Antiguamente se celebraba una competici\u00f3n diferente para hombres y mujeres, pero con la inclusi\u00f3n de mujeres que han participado en las olimpiadas masculinas (por ejemplo Judit Polg\u00e1r, con la selecci\u00f3n de Hungr\u00eda), ahora se compite en el torneo abierto y el torneo femenino.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u570b\u969b\u8c61\u68cb\u5967\u6797\u5339\u514b\u662f\u5169\u5e74\u4e00\u5ea6\u7684\u4e16\u754c\u6700\u9ad8\u6c34\u5e73\u7684\u570b\u969b\u8c61\u68cb\u56e2\u4f53\u8cfd\u3002\u4e16\u754c\u570b\u969b\u8c61\u68cb\u806f\u5408\u6703\u7d71\u7c4c\u6bd4\u8cfd\uff0c\u4e26\u6311\u9078\u4e3b\u8fa6\u570b\u5bb6\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "L'Olympiade d'\u00e9checs est une comp\u00e9tition internationale d'\u00e9checs qui revient chaque ann\u00e9e paire depuis 1950 et oppose des \u00e9quipes de quatre joueurs. La premi\u00e8re \u00e9dition organis\u00e9e par la F\u00e9d\u00e9ration internationale des \u00e9checs (FIDE) a eu lieu en 1927 \u00e0 Londres. Interrompues pendant la Seconde Guerre mondiale, les olympiades ont repris en 1950. La 41e \u00e9dition a \u00e9t\u00e9 organis\u00e9e en 2014 et la 42e olympiade se d\u00e9roulera \u00e0 Bakou en septembre 2016.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "A Olimp\u00edada de Xadrez \u00e9 um evento de xadrez bienal organizado pela FIDE desde 1927 que, desde a 1950 ocorre em anos pares. A primeira olimp\u00edada oficial ocorreu em 1939, sendo que o Torneio de xadrez de Paris de 1924, Torneio de xadrez de Budapeste de 1926 e a Olimp\u00edada de xadrez de 1936 s\u00e3o consideradas Olimp\u00edadas n\u00e3o-oficiais. O trof\u00e9u para a equipe feminina vencedora \u00e9 conhecido como Copa Vera Menchik.",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30c1\u30a7\u30b9\u30fb\u30aa\u30ea\u30f3\u30d4\u30a2\u30fc\u30c9"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Olimpiadas_de_ajedrez"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/\u0160achov\u00e1_olympi\u00e1da"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chess_Olympiad"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Chess_Olympiad"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u03a3\u03ba\u03b1\u03ba\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae_\u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03ac\u03b4\u03b1"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uccb4\uc2a4_\uc62c\ub9bc\ud53c\uc544\ub4dc"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Olimpiada_szachowa"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Olympiade_d'\u00e9checs"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Schaakolympiade"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q428303"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Olimp\u00edada_de_Xadrez"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Olimpiadi_degli_scacchi"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q428303"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Schacholympiade"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.011y01"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Olimpiade_Catur"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1924"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Biennial_sporting_events"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Chess_Olympiads"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Chess_competitions"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Sahovska_olimpiada_Bled_2002_1.JPG"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Chess_Olympiad"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Chess_Olympiad?oldid=745061012"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.fide.com/component/handbook/?id=23&view=category"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.olimpbase.org"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Olimpiada szachowa \u2013 mi\u0119dzynarodowy dru\u017cynowy turniej szachowy organizowany przez Mi\u0119dzynarodow\u0105 Federacj\u0119 Szachow\u0105 (FIDE) w cyklu dwuletnim od 1927 roku. W turnieju uczestnicz\u0105 reprezentacje narodowe, nominowane przez narodowe zwi\u0105zki szachowe zrzeszone w FIDE.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u570b\u969b\u8c61\u68cb\u5967\u6797\u5339\u514b\u662f\u5169\u5e74\u4e00\u5ea6\u7684\u4e16\u754c\u6700\u9ad8\u6c34\u5e73\u7684\u570b\u969b\u8c61\u68cb\u56e2\u4f53\u8cfd\u3002\u4e16\u754c\u570b\u969b\u8c61\u68cb\u806f\u5408\u6703\u7d71\u7c4c\u6bd4\u8cfd\uff0c\u4e26\u6311\u9078\u4e3b\u8fa6\u570b\u5bb6\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "A Olimp\u00edada de Xadrez \u00e9 um evento de xadrez bienal organizado pela FIDE desde 1927 que, desde a 1950 ocorre em anos pares. A primeira olimp\u00edada oficial ocorreu em 1939, sendo que o Torneio de xadrez de Paris de 1924, Torneio de xadrez de Budapeste de 1926 e a Olimp\u00edada de xadrez de 1936 s\u00e3o consideradas Olimp\u00edadas n\u00e3o-oficiais. O trof\u00e9u para a equipe feminina vencedora \u00e9 conhecido como Copa Vera Menchik. A Uni\u00e3o Sovi\u00e9tica, e posteriormente a R\u00fassia, ap\u00f3s a dissolu\u00e7\u00e3o do bloco sovi\u00e9tico, possuem hegemonia absoluta no evento. No entanto, at\u00e9 a 9.\u00aa Olimp\u00edada, a Uni\u00e3o Sovi\u00e9tica nunca havia participado dos jogos. O debute veio na 10.\u00aa Olimp\u00edada, realizada em Helsinki, na Finl\u00e2ndia, que iniciou uma s\u00e9rie de doze medalhas de ouro para a equipe sovi\u00e9tica, sequ\u00eancia interrompida na Olimp\u00edada de 1976, em Haifa, Israel, quando muitos pa\u00edses, inclusive a URSS, boicotaram o evento por raz\u00f5es pol\u00edticas. A primeira vez que participou e n\u00e3o alcan\u00e7ou o primeiro posto foi na Olimp\u00edada de 1978, em Buenos Aires, quando os sovi\u00e9ticos sucumbiram perante a Hungria, liderada por Lajos Portisch. Na Olimp\u00edada seguinte iniciou mais uma incr\u00edvel sequ\u00eancia, agora de doze medalhas de ouro (seis como Uni\u00e3o Sovi\u00e9tica, seis como R\u00fassia), interrompida em 2004, na Olimp\u00edada de Cavi\u00e0, na Espanha, com a vit\u00f3ria da equipe ucraniana. Desde ent\u00e3o a equipe russa n\u00e3o conseguiu mais ocupar o topo do p\u00f3dio. Apenas em duas ocasi\u00f5es os integrantes da equipe campe\u00e3 sa\u00edram do torneio sem nenhuma derrota individual: nas Olimp\u00edadas de Lugano, em 1968, os integrantes da equipe sovi\u00e9tica, formada Tigran Petrosian, Boris Spassky, Viktor Korchnoi, Efim Geller, Lev Polugaevsky e Vassily Smyslov, sa\u00edram do evento com 49 vit\u00f3rias, 27 empates e nenhuma derrota. Nas Olimp\u00edadas de Nice, em 1974, os sovi\u00e9ticos repetiram o feito com Anatoly Karpov, Viktor Korchnoi, Boris Spassky, Tigran Petrosian, Mikhail Tal e Gennady Kuzmin, concluindo a competi\u00e7\u00e3o com 54 vit\u00f3rias, 34 empates e nenhuma derrota. Na \u00faltima edi\u00e7\u00e3o da competi\u00e7\u00e3o, na Olimp\u00edada de Baku, no Azerbaij\u00e3o, a Arm\u00eania, vencedora de tr\u00eas das \u00faltimas cinco Olimp\u00edadas na categoria aberta, boicotou o evento, em raz\u00e3o do conflito geopol\u00edtico que enfrenta com o pa\u00eds sede. O atual campe\u00e3o brasileiro e integrante da equipe brasileira, Krikor Mekhitarian, de origem arm\u00eania, abriu m\u00e3o de participar pela mesma raz\u00e3o.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Die Schacholympiade ist der bedeutendste Mannschaftswettbewerb im Schach.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "The Chess Olympiad is a biennial chess tournament in which teams from all over the world compete. FIDE organises the tournament and selects the host nation. The use of the name \"Chess Olympiad\" for FIDE's team championship is of historical origin and implies no connection with the Olympic Games.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Le Olimpiadi degli scacchi sono un torneo di scacchi per squadre nazionali che si disputa ogni due anni. La prima edizione ufficiale, cio\u00e8 organizzata dalla FIDE, \u00e8 stata disputata nel 1927. Nel 2014 si \u00e8 tenuta la 41\u00aa edizione, svoltasi a Troms\u00f8 1\u00ba al 14 agosto. Nel 2016 l'evento si \u00e8 svolto a Baku in Azerbaigian dall'1 al 14 settembre.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u30c1\u30a7\u30b9\u30aa\u30ea\u30f3\u30d4\u30a2\u30fc\u30c9\u306f\u30011927\u5e74\u4ee5\u6765\u56fd\u969b\u30c1\u30a7\u30b9\u9023\u76df (FIDE) \u306b\u3088\u308a\u958b\u50ac\u3055\u308c\u3066\u3044\u308b\u30c1\u30a7\u30b9\u306e\u5927\u4f1a\u3002\u8fd1\u5e74\u306f\u5076\u6570\u5e74\u306b\u30012\u5e74\u6bce\u306b\u958b\u50ac\u3055\u308c\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "In de schaakolympiade wordt om de twee jaar door landenteams bestaande uit vier, vijf of zes schakers gespeeld. In 1924 vond in Parijs het eerste wereldkampioenschap voor landenteams plaats. Vanaf 1927 verzorgt de FIDE deze wedstrijden, met een onderbreking van 1939 tot 1950 wegens de Tweede Wereldoorlog. Sinds 1957 zijn er ook schaakolympiades voor dames, de eerste zes apart van het open toernooi, vanaf 1976 samen met dat laatste.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0623\u0648\u0644\u0645\u0628\u064a\u0627\u062f \u0627\u0644\u0634\u0637\u0631\u0646\u062c \u0647\u0648 \u0633\u0644\u0633\u0644\u0629 \u0645\u0628\u0627\u0631\u064a\u0627\u062a \u062a\u0642\u0627\u0645 \u0643\u0644 \u0633\u0646\u062a\u064a\u0646. \u0648\u064a\u0646\u0638\u0651\u0645 \u0647\u0630\u0627 \u0627\u0644\u062d\u062f\u062b \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u062f\u0648\u0644\u064a \u0644\u0644\u0634\u0637\u0631\u0646\u062c \u0648\u064a\u062e\u062a\u0627\u0631 \u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0645\u0636\u064a\u0641\u0629.\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0633\u0645 \"\u0623\u0648\u0644\u0645\u0628\u064a\u0627\u062f \u0627\u0644\u0634\u0637\u0631\u0646\u062c\" \u0645\u0646 \u0642\u0628\u0644 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u062f\u0648\u0644\u064a \u0644\u0644\u0634\u0637\u0631\u0646\u062c \u0644\u0647\u0630\u0647 \u0627\u0644\u0645\u0628\u0627\u0631\u064a\u0627\u062a \u0627\u0644\u062c\u0645\u0627\u0639\u064a\u0629 \u0623\u0645\u0631 \u0630\u0648 \u0623\u0635\u0648\u0644 \u062a\u0627\u0631\u064a\u062e\u064a\u0629 \u0648\u0644\u0627 \u0639\u0644\u0627\u0642\u0629 \u0644\u0647\u0627 \u0628\u0627\u0644\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0623\u0648\u0644\u0645\u0628\u064a\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u0412\u0430\u0436\u043d\u0443\u044e \u0440\u043e\u043b\u044c \u0432 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0438 \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u043e\u0439 \u0437\u043d\u0430\u0447\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434 \u0441\u044b\u0433\u0440\u0430\u043b\u043e \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0432 \u0424\u0418\u0414\u0415 \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0439 \u0448\u0430\u0445\u043c\u0430\u0442\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 (1947). \u0420\u043e\u0441\u0442\u0443 \u0430\u0432\u0442\u043e\u0440\u0438\u0442\u0435\u0442\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u043e \u0442\u0430\u043a\u0436\u0435 \u0438 \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0435 \u0438\u0445 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0439: \u0441\u043e\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0441\u0440\u043e\u043a\u043e\u0432 \u0438\u0445 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f, \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u0439 \u0434\u043b\u044f \u0438\u0433\u0440\u044b \u0438 \u043e\u0442\u0434\u044b\u0445\u0430 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 \u0441\u043e\u0440\u0435\u0432\u043d\u043e\u0432\u0430\u043d\u0438\u0439. \u0412 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0440\u043e\u0441\u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0430 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0440\u0430\u0441\u0445\u043e\u0434\u043e\u0432 \u043f\u043e \u0438\u0445 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044e \u0424\u0418\u0414\u0415 \u0441\u0442\u0430\u043b\u043e \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442\u044c \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434\u044b \u0441 1976 \u0433\u043e\u0434\u0430 \u043d\u0435 \u043f\u043e \u043a\u0440\u0443\u0433\u043e\u0432\u043e\u0439, \u0430 \u043f\u043e \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043a\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435, \u0441\u0442\u0438\u043c\u0443\u043b\u0438\u0440\u0443\u044f, \u0442\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c, \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434\u0430\u0445 \u0448\u0430\u0445\u043c\u0430\u0442\u0438\u0441\u0442\u043e\u0432 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044e\u0449\u0438\u0445\u0441\u044f \u0441\u0442\u0440\u0430\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u043c \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u0432\u0441\u0442\u0440\u0435\u0447 \u0441 \u0441\u0438\u043b\u044c\u043d\u0435\u0439\u0448\u0438\u043c\u0438 \u0448\u0430\u0445\u043c\u0430\u0442\u0438\u0441\u0442\u0430\u043c\u0438 \u043c\u0438\u0440\u0430. \u0412 \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434\u0430\u0445 \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u0438 \u0432\u0441\u0435 \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u044b \u043c\u0438\u0440\u0430 \u043d\u0430\u0447\u0438\u043d\u0430\u044f \u0441 \u041a\u0430\u043f\u0430\u0431\u043b\u0430\u043d\u043a\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u0433\u0440\u043e\u0441\u0441\u043c\u0435\u0439\u0441\u0442\u0435\u0440\u043e\u0432.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "L'Olympiade d'\u00e9checs est une comp\u00e9tition internationale d'\u00e9checs qui revient chaque ann\u00e9e paire depuis 1950 et oppose des \u00e9quipes de quatre joueurs. La premi\u00e8re \u00e9dition organis\u00e9e par la F\u00e9d\u00e9ration internationale des \u00e9checs (FIDE) a eu lieu en 1927 \u00e0 Londres. Interrompues pendant la Seconde Guerre mondiale, les olympiades ont repris en 1950. La 41e \u00e9dition a \u00e9t\u00e9 organis\u00e9e en 2014 et la 42e olympiade se d\u00e9roulera \u00e0 Bakou en septembre 2016. Il s'agit d'une comp\u00e9tition tr\u00e8s h\u00e9t\u00e9rog\u00e8ne o\u00f9 des s\u00e9lections compos\u00e9es des meilleurs joueurs mondiaux (tous les champions du monde du XXe si\u00e8cle depuis Capablanca s'y sont illustr\u00e9s) c\u00f4toient des s\u00e9lections compos\u00e9es de joueurs amateurs.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Las Olimpiadas de ajedrez son uno de los m\u00e1s importantes torneos ajedrec\u00edsticos que se celebran en el mundo. Se organizan oficialmente por la FIDE desde 1927 y tienen lugar cada dos a\u00f1os. La olimpiada de ajedrez es una competici\u00f3n por equipos, cada uno representando a un pa\u00eds (aunque el pa\u00eds organizador puede jugar con dos equipos o tres en el caso de que el n\u00famero total de equipos sea impar). Adem\u00e1s se otorgan medallas individuales a las mejores actuaciones por tablero. Antiguamente se celebraba una competici\u00f3n diferente para hombres y mujeres, pero con la inclusi\u00f3n de mujeres que han participado en las olimpiadas masculinas (por ejemplo Judit Polg\u00e1r, con la selecci\u00f3n de Hungr\u00eda), ahora se compite en el torneo abierto y el torneo femenino. Las olimpiadas de ajedrez tienen una larga y rica historia, y a lo largo de sus ediciones han participado en ellas los mejores jugadores de cada \u00e9poca. Aunque el ajedrez es reconocido como deporte por el COI y la FIDE forma parte de este organismo, el ajedrez no forma parte del programa de los Juegos Ol\u00edmpicos. Si bien se han organizado torneos de exhibici\u00f3n dentro de los Juegos, desde 2004 se ha buscado que el ajedrez forme parte de \u00e9stos como deporte ol\u00edmpico.",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Sahovska_olimpiada_Bled_2002_1.JPG?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 745061012,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 142333,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Tournament"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chess_in_Azerbaijan": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chess_Olympiad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chess_in_Armenia": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chess_Olympiad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chess_in_South_Africa": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chess_Olympiad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chess_Olympics": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chess_Olympiad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chess_olympiad": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chess_Olympiad"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chess_Olympiads": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Chess_Olympiad"
+            }
+        ]
+    }
+}

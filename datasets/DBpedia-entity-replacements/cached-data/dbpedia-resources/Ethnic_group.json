@@ -1,0 +1,831 @@
+{
+    "http://en.wikipedia.org/wiki/Ethnic_group": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/White_Privilege_Conference": {
+        "http://dbpedia.org/ontology/genre": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_group": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/TelevisionStation"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Ethnie",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c11\u65cf",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Etnia",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Etniciteit",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Grupa etniczna",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Grupo \u00e9tnico",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0639\u0631\u0642\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Etnia",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u65cf\u7fa4",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Ethnie",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u042d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Ethnic group",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Um grupo \u00e9tnico \u00e9 um grupo de pessoas que se identificam umas com as outras, ou s\u00e3o identificadas como tal por terceiros, com base em semelhan\u00e7as culturais ou biol\u00f3gicas, ou ambas, reais ou presumidas. Tal como os conceitos de ra\u00e7a e na\u00e7\u00e3o, o de etnicidade desenvolveu-se no contexto da expans\u00e3o colonial europeia, quando o mercantilismo e o capitalismo promoviam movimenta\u00e7\u00f5es globais de popula\u00e7\u00f5es ao mesmo tempo que as fronteiras dos estados eram definidas mais clara e rigidamente.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0639\u0631\u0642\u064a\u0629 (\u0623\u0648 \u0627\u0644\u0625\u062b\u0646\u064a\u0629) \u0647\u064a \u0645\u062c\u0645\u0648\u0639\u0629 \u0628\u0634\u0631\u064a\u0629 \u0644\u0647\u0627 \u062e\u0627\u0635\u064a\u0627\u062a \u0645\u0645\u064a\u0632\u0629 \u062a\u062d\u062f\u062f\u0647\u0627 \u0627\u0644\u062b\u0642\u0627\u0641\u0629 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629 \u0648\u0627\u0644\u0647\u0648\u064a\u0629\u060c \u0648\u0647\u064a \u062a\u0631\u0628\u0637 \u0627\u0639\u0636\u0627\u0626\u0647\u0627 \u0645\u0639 \u0628\u0639\u0636\u0647\u0645 \u0628\u0639\u0636\u0627\u060c \u0639\u0627\u062f\u0629 \u0639\u0644\u0649 \u0623\u0633\u0633 \u0645\u0634\u062a\u0631\u0643\u0629. \u0648\u0644\u0647\u0627 \u0627\u0639\u062a\u0631\u0627\u0641 \u0627\u0644\u0622\u062e\u0631\u064a\u0646 \u0643\u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u062a\u0645\u064a\u0632\u0647 \u0644\u0647\u0627 \u0623\u0633\u0633 \u0645\u0634\u062a\u0631\u0643\u0629 \u062b\u0642\u0627\u0641\u064a\u0647 \u0648\u0644\u063a\u0648\u064a\u0647 \u0648\u062f\u064a\u0646\u064a\u0629\u060c \u0623\u0648 \u0633\u0645\u0627\u062a \u0633\u0644\u0648\u0643\u064a\u0629 \u0623\u0648 \u0628\u064a\u0648\u0644\u0648\u062c\u064a\u0629. \u0627\u0644\u0639\u0631\u0642\u064a\u0629 \u0623\u0648 \u0627\u0644\u0623\u0635\u0648\u0644 \u0627\u0644\u062a\u064a \u062a\u0645\u064a\u0632 \u0627\u0644\u0623\u0641\u0631\u0627\u062f \u0641\u064a \u0628\u0642\u0639\u0629 \u062c\u063a\u0631\u0627\u0641\u064a\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Eine Ethnie oder ethnische Gruppe (altgriechisch \u00e9thnos \u201e[fremdes] Volk, Volkszugeh\u00f6rige\u201c) ist in den Sozialwissenschaften \u2013 insbesondere in der Ethnologie (V\u00f6lkerkunde) \u2013 eine abgrenzbare Menschengruppe, der aufgrund ihres intuitiven Selbstverst\u00e4ndnisses und Gemeinschaftsgef\u00fchls eine eigenst\u00e4ndige Identit\u00e4t als Volksgruppe zuerkannt wird. Grundlage dieser Ethnizit\u00e4t k\u00f6nnen gemeinsame Eigenbezeichnung, Sprache, Abstammung, Wirtschaftsweise, Geschichte, Kultur, Religion oder Verbindung zu einem bestimmten Gebiet sein. Eine Ethnie muss keine gemeinsame Abstammungsgruppe sein (familien\u00fcbergreifend), die Zugeh\u00f6rigkeit vererbt sich weiter (familienumfassend) und es muss keine eindeutigen Grenzziehungen geben (Zugeh\u00f6rigkeit zu mehreren Ethnien m\u00f6glich). Der geschichtliche, soziale und kulturelle",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c11\u65cf\uff08\u307f\u3093\u305e\u304f\uff09\u3068\u306f\u4e00\u5b9a\u306e\u6587\u5316\u7684\u7279\u5fb4\u3092\u57fa\u6e96\u3068\u3057\u3066\u4ed6\u3068\u533a\u5225\u3055\u308c\u308b\u5171\u540c\u4f53\u3092\u3044\u3046\u3002\u571f\u5730\u3001\u8840\u7e01\u95a2\u4fc2\u3001\u8a00\u8a9e\u306e\u5171\u6709\uff08\u6bcd\u8a9e\uff09\u3084\u3001\u5b97\u6559\u3001\u4f1d\u627f\u3001\u793e\u4f1a\u7d44\u7e54\u306a\u3069\u304c\u305d\u306e\u57fa\u6e96\u3068\u306a\u308b\u304c\u3001\u666e\u904d\u7684\u306a\u5ba2\u89b3\u7684\u57fa\u6e96\u3092\u8a2d\u3051\u3066\u3082\u6982\u5ff5\u5185\u5bb9\u3068\u4e00\u81f4\u3057\u306a\u3044\u5834\u5408\u304c\u591a\u3044\u3053\u3068\u304b\u3089\u3001\u3080\u3057\u308d\u3042\u308b\u6c11\u65cf\u6982\u5ff5\u3078\u306e\u5e30\u5c5e\u610f\u8b58\u3068\u3044\u3046\u4e3b\u89b3\u7684\u57fa\u6e96\u304c\u5ba2\u89b3\u7684\u57fa\u6e96\u3067\u3042\u308b\u3068\u3055\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u3002\u307e\u305f\u3001\u65e5\u672c\u8a9e\u306e\u6c11\u65cf\u306e\u8a9e\u306b\u306f\u3001\u8fd1\u4ee3\u56fd\u6c11\u56fd\u5bb6\u306e\u6210\u7acb\u3068\u5bc6\u63a5\u306a\u95a2\u4fc2\u3092\u6709\u3059\u308b\u653f\u6cbb\u7684\u5171\u540c\u4f53\u306e\u8272\u306e\u6fc3\u3044nation\u306e\u6982\u5ff5\u3068\u3001\u653f\u6cbb\u7684\u5171\u540c\u4f53\u306e\u5f62\u6210\u3084\u3001\u96c6\u5408\u7684\u306a\u4e3b\u4f53\u3092\u306a\u3057\u3066\u3044\u308b\u3068\u3044\u3046\u610f\u8b58\u306e\u6709\u7121\u3068\u306f\u304b\u304b\u308f\u308a\u306a\u304f\u3001\u540c\u4e00\u306e\u6587\u5316\u7fd2\u4fd7\u3092\u6709\u3059\u308b\u96c6\u56e3\u3068\u3057\u3066\u8a8d\u8b58\u3055\u308c\u308bethnic group\uff08\u30b8\u30e5\u30ea\u30a2\u30f3\u30fb\u30cf\u30af\u30b9\u30ea\u30fc\u304c\u8003\u6848\uff09\u306e\u6982\u5ff5\u306e\u53cc\u65b9\u304c\u5341\u5206\u533a\u5225\u3055\u308c\u305a\u306b\u5171\u5b58\u3057\u3066\u3044\u308b\u305f\u3081\u3001\u305d\u306e\u4f7f\u7528\u306b\u304a\u3044\u3066\u306f\u4e00\u5b9a\u306e\u6ce8\u610f\u3092\u8981\u3059\u308b\u3002\u3000",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u042d\u0442\u043d\u0438\u0301\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0440\u0443\u0301\u043f\u043f\u0430 \u2014 \u043c\u043d\u043e\u0433\u043e\u0437\u043d\u0430\u0447\u043d\u044b\u0439 \u0442\u0435\u0440\u043c\u0438\u043d, \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u044e\u0449\u0438\u0439 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u0442\u0438\u043f\u044b \u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043e\u0431\u0449\u043d\u043e\u0441\u0442\u0435\u0439, \u0431\u043e\u043b\u0435\u0435 \u043d\u0438\u0437\u043a\u043e\u0433\u043e \u0442\u0430\u043a\u0441\u043e\u043d\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f, \u0447\u0435\u043c \u044d\u0442\u043d\u043e\u0441. \u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0451\u043d\u043d\u044b\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u0442\u0435\u0440\u043c\u0438\u043d\u0430 \u2014 \u044d\u0442\u043e \u0441\u0443\u0431\u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 (\u0441\u0443\u0431\u044d\u0442\u043d\u043e\u0441, \u0442\u043e \u0435\u0441\u0442\u044c \u0433\u0440\u0443\u043f\u043f\u0430, \u0433\u0440\u0443\u043f\u043f\u0430 \u043a\u0430\u043a\u043e\u0433\u043e-\u043b\u0438\u0431\u043e \u044d\u0442\u043d\u043e\u0441\u0430, \u0438\u043c\u0435\u044e\u0449\u0430\u044f \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0441\u0443\u0431\u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u0430\u043c\u043e\u0441\u043e\u0437\u043d\u0430\u043d\u0438\u0435 \u0438 \u0441\u0430\u043c\u043e\u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435, \u043d\u0430\u0440\u044f\u0434\u0443 \u0441 \u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c) \u0438\u043b\u0438 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u043e-\u043e\u0431\u043e\u0441\u043e\u0431\u043b\u0435\u043d\u043d\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 \u043a\u0430\u043a\u043e\u0433\u043e-\u043b\u0438\u0431\u043e \u044d\u0442\u043d\u043e\u0441\u0430, \u043e\u0442\u0434\u0435\u043b\u0438\u0432\u0448\u0430\u044f\u0441\u044f \u043e\u0442 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0433\u043e \u043c\u0430\u0441\u0441\u0438\u0432\u0430 \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u043c\u0438\u0433\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0432 \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u043e\u0431\u044b\u0442\u0438\u0439, \u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u044e\u0449\u0430\u044f \u0441\u0432\u043e\u0451 \u043f\u0435\u0440\u0432\u0438\u0447\u043d\u043e\u0435 \u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u0430\u043c\u043e\u0441\u043e\u0437\u043d\u0430\u043d\u0438\u0435. \u0412 \u0440\u0435\u0434\u043a\u0438\u0445 \u0441\u043b\u0443\u0447\u0430\u044f\u0445 \u0442\u0435\u0440\u043c\u0438\u043d \u00ab\u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430\u00bb \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u043b\u0441\u044f \u0432 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0438 \u00ab\u0433\u0440\u0443\u043f\u043f\u0430 \u044d\u0442\u043d\u043e\u0441\u043e\u0432\u00bb, \u0440\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u043f\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044e \u0438\u043b\u0438 \u043a\u0430\u043a\u0438\u043c-\u043b\u0438\u0431\u043e \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u0430\u043c \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b, \u043d\u043e \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u0432 \u044d\u0442\u043e\u043c \u0441\u043c\u044b\u0441\u043b\u0435 \u0431\u043e\u043b\u0435\u0435 \u0448\u0438\u0440\u043e\u043a\u043e \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u00ab\u043c\u0435\u0442\u0430\u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043e\u0431\u0449\u043d\u043e\u0441\u0442",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "An ethnic group or ethnicity is a category of people who identify with each other based on similarities, such as common language, ancestral, social, cultural, or national experiences. Unlike other social groups (wealth, age, hobbies), ethnicity is often an inherited status based on the society in which a person lives. In some cases, it can be adopted if a person moves into another society. Membership of an ethnic group tends to be defined by a shared cultural heritage, ancestry, origin myth, history, homeland, language or dialect, symbolic systems such as religion, mythology and ritual, cuisine, dressing style, art, and physical appearance.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Une ethnie ou groupe ethnique  est un groupe social de personnes qui s'identifient entre elles sur la base d'une ascendance commune (r\u00e9elle ou imagin\u00e9e), d'une histoire commune, d'une culture commune ou d'un v\u00e9cu commun. L'appartenance \u00e0 une ethnie ou ethnicit\u00e9  est li\u00e9e \u00e0 un patrimoine commun, que ce soit la culture, l'ascendance, l'histoire, l'origine g\u00e9ographique, la langue ou le dialecte, l'id\u00e9ologie, la religion, la mythologie, la cuisine, l'habillement, la musique...",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Grupa etniczna \u2013 grupa ludzi, identyfikuj\u0105cych si\u0119 ze sob\u0105 w oparciu o wsp\u00f3lne do\u015bwiadczenia spo\u0142eczne, kulturowe, narodowe oraz historyczne. Przynale\u017cno\u015b\u0107 do grupy etnicznej najcz\u0119\u015bciej wi\u0105\u017ce si\u0119 ze wsp\u00f3lnym dziedzictwem kulturowym, j\u0119zykiem, struktur\u0105 spo\u0142eczn\u0105, wierzeniami, rytua\u0142ami, kuchni\u0105, ubiorem czy wygl\u0105dem zewn\u0119trznym. Grup\u0119 etniczn\u0105 niekiedy mylnie identyfikuje si\u0119 z mniejszo\u015bci\u0105 narodow\u0105 albo grup\u0105 regionaln\u0105 (grup\u0105 etnograficzn\u0105).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Con etnia (dal greco \u1f14\u03b8\u03bd\u03bf\u03c2, \u00e8thnos 'popolo', 'nazione') \u00absi identifica una comunit\u00e0 caratterizzata da omogeneit\u00e0 di lingua, cultura, tradizioni e memorie storiche, stanziata tradizionalmente su un determinato territorio\u00bb. Questa definizione e lo stesso uso del concetto di etnia sono stati sottoposti, in ambito accademico, negli ultimi anni, a revisione e critica.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Una etnia (del griego cl\u00e1sico: \u03ad\u03b8\u03bd\u03bf\u03c2, ethnos, \u2018pueblo\u2019 o \u2018naci\u00f3n\u2019) es un conjunto de personas que tienen en com\u00fan rasgos culturales, como tambi\u00e9n idioma, religi\u00f3n, celebraci\u00f3n de ciertas festividades, expresiones art\u00edsticas (como m\u00fasica), vestimenta, nexos hist\u00f3ricos, tipo de alimentaci\u00f3n, y, muchas veces, un territorio o todas las opciones juntas, individuales o m\u00e1s de dos en com\u00fan. Dichas comunidades, excepcionalmente, reclaman para s\u00ed una estructura pol\u00edtica y el dominio de un territorio.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u65cf\u7fa4\uff08\u82f1\u8bed\uff1aEthnic Group\uff09\uff0c\u662f\u6307\u4e00\u7fa4\u4eba\uff0c\u4ed6\u5011\u8a8d\u70ba\u5f7c\u6b64\u5171\u4eab\u4e86\u76f8\u540c\u7684\u7956\u5148\u3001\u8840\u7de3\u3001\u5916\u8c8c\u3001\u6b77\u53f2\u3001\u6587\u5316\u3001\u7fd2\u4fd7\u3001\u8bed\u8a00\u3001\u5730\u57df\u3001\u5b97\u6559\u3001\u751f\u6d3b\u7fd2\u6163\u8207\u570b\u5bb6\u9ad4\u9a57\u7b49\uff0c\u56e0\u6b64\u5f62\u6210\u4e00\u500b\u5171\u540c\u7684\u7fa4\u9ad4\u3002\u70ba\u5340\u5206\u6211\u65cf\u53ca\u300c\u4ed6\u8005\u300d\u7684\u5206\u985e\u65b9\u5f0f\u4e4b\u4e00\u3002\u65cf\u7fa4\u542b\u4e49\u572820\u4e16\u7d00\u5f8c\u6709\u8f49\u8b8a\uff0c\u5f9e\u539f\u4f86\u4ee5\u5c11\u6578\u6c11\u65cf\u6216\u5c11\u6578\u65cf\u88d4\u7684\u610f\u601d\uff0c\u5230\u5f8c\u4f86\u4ee5\u6587\u5316\u7279\u5fb5\u5340\u5206\uff0c\u800c\u6700\u65b0\u7684\u770b\u6cd5\u5247\u8ba4\u4e3a\u65cf\u7fa4\u662f\u793e\u6703\u904e\u7a0b\u5f8c\u7684\u7522\u751f\u7684\u7d50\u679c\u3002\u56e0\u6b64\uff0c\u65cf\u65cf\u53ef\u80fd\u56e0\u6b77\u53f2\u53ca\u6642\u7a7a\u74b0\u5883\uff0c\u57fa\u4e8e\u6b77\u53f2\u3001\u6587\u5316\u3001\u8bed\u8a00\u3001\u5730\u57df\u3001\u5b97\u6559\u3001\u8840\u7de3\u7956\u5148\u8a8d\u540c\u3001\u884c\u4e3a\u3001\u751f\u7269/\u5916\u8c8c\u7279\u5f81\u800c\u5f62\u6210\u300c\u4e00\u7fa4\u300d\u4e0e\u5176\u5b83\u6709\u6240\u533a\u522b\u7684\u7fa4\u4f53\u3002\u9019\u4e9b\u5340\u5225\u6211\u8005\u548c\u4ed6\u8005\u7684\u65cf\u7fa4\u6027\uff08\u82f1\u8bed\uff1aethnicity\uff09\u7279\u8cea\u53ef\u80fd\u5305\u62ec\u300c\u5ba2\u89c0\u300d\u53ca\u300c\u4e3b\u89c0\u300d\uff08\u5982\u8a8d\u77e5\u548c\u611f\u60c5\u7684\u6210\u5206\uff09\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Een etniciteit is een sociaal-culturele identiteit, die een bepaalde groep mensen of een aantal bevolkingsgroepen verbindt. Het concept etniciteit wortelt in het gegeven dat de leden van bepaalde bevolkingsgroepen zich identificeren met gezamenlijke kenmerken, zoals nationaliteit, stamverwantschap, religie, taal, cultuur of geschiedenis en de daaraan ontleende normen en waarden. Het gemeenschappelijke \"erfgoed\" en de solidariteitsbeleving op grond daarvan vormen de etniciteit. Het woord komt van Grieks ethnikos, \"behorende tot een ethnos, dat is volk. Dit woord duidde aanvankelijk op groepen mensen die in politiek, gebruiken en godsdienst met elkaar verbonden waren.",
+                "lang": "nl"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnicities_(journal)"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Grupa_etniczna"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Etnia"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q41710"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4153095-0"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q41710"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Kelompok_etnik"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0395\u03b8\u03bd\u03bf\u03c4\u03b9\u03ba\u03ae_\u03bf\u03bc\u03ac\u03b4\u03b1"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Ethnie"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u6c11\u65cf"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0q9wb"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Etnia"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Etniciteit"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Etnikum"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Etnia"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ubbfc\uc871"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Ethnie"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Grupo_\u00e9tnico"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Majority\u2013minority_relations"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Ethnicity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Ethnic_groups"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Multiracial_affairs"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/KorowaiHombre01.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Ethnic_group"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Ethnic_group?oldid=745153162"
+            }
+        ],
+        "http://dbpedia.org/property/label": [
+            {
+                "type": "literal",
+                "value": "Ethnicity",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://escholarship.org/uc/item/32r9x0jr"
+            },
+            {
+                "type": "uri",
+                "value": "https://wayback.archive.org/web/20110427172440/http:/www.biomedcentral.com/content/pdf/1741-7007-8-15.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://en.rian.ru/video/20071226/94198588.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.apa.org/pi/oema/index.aspx"
+            },
+            {
+                "type": "uri",
+                "value": "https://web.archive.org/web/20060207222529/http:/quickfacts.census.gov/qfd/meta/long_68178.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://coa.sagepub.com/cgi/content/abstract/27/1/5"
+            },
+            {
+                "type": "uri",
+                "value": "http://abizadeh.wix.com/arash#!Article-Ethnicity-Race-and-a-Possible-Humanity/c22zv/558c93ea0cf2711ebbccf295"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.aef.com/about/race-ethnicity"
+            },
+            {
+                "type": "uri",
+                "value": "http://escholarship.org/uc/nelc_uee"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Una etnia (del griego cl\u00e1sico: \u03ad\u03b8\u03bd\u03bf\u03c2, ethnos, \u2018pueblo\u2019 o \u2018naci\u00f3n\u2019) es un conjunto de personas que tienen en com\u00fan rasgos culturales, como tambi\u00e9n idioma, religi\u00f3n, celebraci\u00f3n de ciertas festividades, expresiones art\u00edsticas (como m\u00fasica), vestimenta, nexos hist\u00f3ricos, tipo de alimentaci\u00f3n, y, muchas veces, un territorio o todas las opciones juntas, individuales o m\u00e1s de dos en com\u00fan. Dichas comunidades, excepcionalmente, reclaman para s\u00ed una estructura pol\u00edtica y el dominio de un territorio.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Um grupo \u00e9tnico \u00e9 um grupo de pessoas que se identificam umas com as outras, ou s\u00e3o identificadas como tal por terceiros, com base em semelhan\u00e7as culturais ou biol\u00f3gicas, ou ambas, reais ou presumidas. Tal como os conceitos de ra\u00e7a e na\u00e7\u00e3o, o de etnicidade desenvolveu-se no contexto da expans\u00e3o colonial europeia, quando o mercantilismo e o capitalismo promoviam movimenta\u00e7\u00f5es globais de popula\u00e7\u00f5es ao mesmo tempo que as fronteiras dos estados eram definidas mais clara e rigidamente. No s\u00e9culo XIX, os estados modernos, em geral, procuravam legitimidade reclamando a representa\u00e7\u00e3o de na\u00e7\u00f5es. No entanto, os estados-na\u00e7\u00e3o incluem, \u00e0s vezes, popula\u00e7\u00f5es ind\u00edgenas que foram exclu\u00eddas do projecto de constru\u00e7\u00e3o da na\u00e7\u00e3o, ou ent\u00e3o estados at\u00e9 ent\u00e3o com popula\u00e7\u00f5es mais homog\u00eaneas recrutam trabalhadores do exterior das suas fronteiras. Estas pessoas constituem tipicamente grupos \u00e9tnicos. Consequentemente, os membros de grupos \u00e9tnicos costumam conceber a sua identidade como algo que est\u00e1 fora da hist\u00f3ria do estado-na\u00e7\u00e3o \u2013 quer como alternativa hist\u00f3rica, quer em termos n\u00e3o-hist\u00f3ricos, quer em termos de uma liga\u00e7\u00e3o a outro estado-na\u00e7\u00e3o. Esta identidade expressa-se muitas vezes atrav\u00e9s de \"tradi\u00e7\u00f5es\" variadas que, embora sejam frequentemente inven\u00e7\u00f5es recentes, apelam a uma certa no\u00e7\u00e3o de passado. Os grupos \u00e9tnicos \u00e0s vezes s\u00e3o sujeitos \u00e0s atitudes e \u00e0s a\u00e7\u00f5es preconceituosas do Estado ou dos seus membros. No s\u00e9culo XX, os povos come\u00e7aram a discutir que conflitos entre grupos \u00e9tnicos ou entre membros de um grupo \u00e9tnico e o estado podem e devem ser resolvidos de duas maneiras. Alguns, como J\u00fcrgen Habermas e Bruce Barry, discutiram que a legitimidade de estados modernos deve ser baseada em uma no\u00e7\u00e3o de direitos pol\u00edticos para sujeitos individuais aut\u00f4nomos. De acordo com este ponto de vista, o estado n\u00e3o pode reconhecer a identidade \u00e9tnica, nacional ou racial e deve preferivelmente refor\u00e7ar a igualdade pol\u00edtica e legal de todos os indiv\u00edduos. Outros, como Charles Taylor e William Kymlicka argumentam que a no\u00e7\u00e3o do indiv\u00edduo aut\u00f4nomo \u00e9 ela pr\u00f3pria um construto cultural, e que n\u00e3o \u00e9 nem poss\u00edvel nem correto tratar povos como indiv\u00edduos aut\u00f4nomos. De acordo com esta opini\u00e3o, os estados devem reconhecer a identidade \u00e9tnica e desenvolver processos nos quais as necessidades particulares de grupos \u00e9tnicos possam ser levadas em conta no contexto de um estado-na\u00e7\u00e3o.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0639\u0631\u0642\u064a\u0629 (\u0623\u0648 \u0627\u0644\u0625\u062b\u0646\u064a\u0629) \u0647\u064a \u0645\u062c\u0645\u0648\u0639\u0629 \u0628\u0634\u0631\u064a\u0629 \u0644\u0647\u0627 \u062e\u0627\u0635\u064a\u0627\u062a \u0645\u0645\u064a\u0632\u0629 \u062a\u062d\u062f\u062f\u0647\u0627 \u0627\u0644\u062b\u0642\u0627\u0641\u0629 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629 \u0648\u0627\u0644\u0647\u0648\u064a\u0629\u060c \u0648\u0647\u064a \u062a\u0631\u0628\u0637 \u0627\u0639\u0636\u0627\u0626\u0647\u0627 \u0645\u0639 \u0628\u0639\u0636\u0647\u0645 \u0628\u0639\u0636\u0627\u060c \u0639\u0627\u062f\u0629 \u0639\u0644\u0649 \u0623\u0633\u0633 \u0645\u0634\u062a\u0631\u0643\u0629. \u0648\u0644\u0647\u0627 \u0627\u0639\u062a\u0631\u0627\u0641 \u0627\u0644\u0622\u062e\u0631\u064a\u0646 \u0643\u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u062a\u0645\u064a\u0632\u0647 \u0644\u0647\u0627 \u0623\u0633\u0633 \u0645\u0634\u062a\u0631\u0643\u0629 \u062b\u0642\u0627\u0641\u064a\u0647 \u0648\u0644\u063a\u0648\u064a\u0647 \u0648\u062f\u064a\u0646\u064a\u0629\u060c \u0623\u0648 \u0633\u0645\u0627\u062a \u0633\u0644\u0648\u0643\u064a\u0629 \u0623\u0648 \u0628\u064a\u0648\u0644\u0648\u062c\u064a\u0629. \u0648\u0648\u0641\u0642\u0627 \u0644\u0644\u0628\u0639\u0636[\u0645\u0646 \u0635\u0627\u062d\u0628 \u0647\u0630\u0627 \u0627\u0644\u0631\u0623\u064a\u061f]\"\u0627\u0644\u0639\u0631\u0642 \u0647\u0648 \u0639\u0627\u0645\u0644 \u0627\u0633\u0627\u0633\u064a \u0641\u064a \u062d\u064a\u0627\u0629 \u0627\u0644\u0628\u0634\u0631 : \u0627\u0646\u0647\u0627 \u0638\u0627\u0647\u0631\u0629 \u0645\u062a\u0627\u0635\u0644\u0647 \u0641\u064a \u0627\u0644\u062a\u062c\u0631\u0628\u0629 \u0627\u0644\u0625\u0646\u0633\u0627\u0646\u064a\u0629.\" \u0648\u0648\u0641\u0642\u0627 \u0644\u0631\u0623\u064a \u0622\u062e\u0631\u064a\u0646 \u0627\u0644\u0647\u0648\u064a\u0627\u062a \u0627\u0644\u0627\u062b\u0646\u064a\u0647 \u062a\u0646\u0634\u0623 \u0641\u064a \u0638\u0644 \u0634\u0631\u0648\u0637 \u0645\u0639\u064a\u0646\u0629. \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0624\u062f\u064a \u0625\u0644\u0649 \u0638\u0647\u0648\u0631 \u0623\u0639\u0636\u0627\u0621 \u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u062b\u0646\u064a\u0647\u060c \u0648\u0639\u0644\u0649 \u0627\u0644\u0639\u0645\u0648\u0645\u060c \u0648\u0631\u063a\u0645 \u0623\u0646 \u0627\u0644\u0645\u0624\u0631\u062e\u064a\u0646 \u0648\u0639\u0644\u0645\u0627\u0621 \u0627\u0644\u0627\u0646\u062b\u0631\u0648\u0628\u0648\u0644\u0648\u062c\u064a\u0627 \u0627\u0644\u062b\u0642\u0627\u0641\u064a\u0629 \u0648\u062b\u0642\u062a \u0643\u062b\u064a\u0631\u0627 \u0645\u0646 \u0627\u0644\u0642\u064a\u0645 \u0648\u0627\u0644\u0645\u0645\u0627\u0631\u0633\u0627\u062a\u060c \u0648\u0627\u0644\u0642\u0648\u0627\u0639\u062f \u0627\u0644\u062a\u064a \u062a\u0646\u0637\u0648\u064a \u0639\u0644\u0649 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631\u064a\u0647 \u0645\u0639 \u0627\u0644\u0645\u0627\u0636\u064a \u0648\u0627\u0644\u0645\u0637\u0627\u0644\u0628\u0629 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631\u064a\u0647 \u0627\u0644\u062b\u0642\u0627\u0641\u064a\u0629 \u0639\u0644\u0649 \u0645\u0631 \u0627\u0644\u0632\u0645\u0646\u060c \u0641\u0625\u0646 \u0627\u0644\u0623\u062b\u0646\u064a\u0647 \u0647\u064a \u0627\u062e\u062a\u0631\u0627\u0639 \u062d\u062f\u064a\u062b \u0627\u0644\u0639\u0647\u062f \u0646\u0633\u0628\u064a\u0627. \u0627\u0644\u0639\u0631\u0642\u064a\u0629 \u0623\u0648 \u0627\u0644\u0623\u0635\u0648\u0644 \u0627\u0644\u062a\u064a \u062a\u0645\u064a\u0632 \u0627\u0644\u0623\u0641\u0631\u0627\u062f \u0641\u064a \u0628\u0642\u0639\u0629 \u062c\u063a\u0631\u0627\u0641\u064a\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Een etniciteit is een sociaal-culturele identiteit, die een bepaalde groep mensen of een aantal bevolkingsgroepen verbindt. Het concept etniciteit wortelt in het gegeven dat de leden van bepaalde bevolkingsgroepen zich identificeren met gezamenlijke kenmerken, zoals nationaliteit, stamverwantschap, religie, taal, cultuur of geschiedenis en de daaraan ontleende normen en waarden. Het gemeenschappelijke \"erfgoed\" en de solidariteitsbeleving op grond daarvan vormen de etniciteit. Het woord komt van Grieks ethnikos, \"behorende tot een ethnos, dat is volk. Dit woord duidde aanvankelijk op groepen mensen die in politiek, gebruiken en godsdienst met elkaar verbonden waren.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "An ethnic group or ethnicity is a category of people who identify with each other based on similarities, such as common language, ancestral, social, cultural, or national experiences. Unlike other social groups (wealth, age, hobbies), ethnicity is often an inherited status based on the society in which a person lives. In some cases, it can be adopted if a person moves into another society. Membership of an ethnic group tends to be defined by a shared cultural heritage, ancestry, origin myth, history, homeland, language or dialect, symbolic systems such as religion, mythology and ritual, cuisine, dressing style, art, and physical appearance. Ethnic groups, derived from the same historical founder population, often continue to speak related languages and share a similar gene pool; they may be grouped as ethno-linguistic groups (e.g. Iranian peoples, Slavic peoples, Bantu peoples, Turkic peoples, Austronesian peoples, Nilotic peoples, etc.) By way of language shift, acculturation, adoption and religious conversion, some individuals or groups may leave one ethnic group and become part of another (except for ethnic groups emphasizing racial purity as a key membership criterion). Ethnicity is often used synonymously with ambiguous terms such as nation or people. In English, it can also have the connotation of something exotic (cf. \"White ethnic\", \"ethnic restaurant\", etc.), generally related to cultures of more recent immigrants, who arrived after the founding population of an area was established. Depending on which source of group identity is emphasized to define membership, the following types of (often mutually overlapping) groups can be identified: \n*  Ethno-linguistic, emphasizing shared language, dialect or script \u2014 example: Gaels \n*  Ethno-national, emphasizing a shared polity or sense of national identity \u2014 example: Iraqis \n*  Ethno-racial, emphasizing shared physical appearance based on genetic origins \u2014 example: African Americans \n*  Ethno-regional, emphasizing a distinct local sense of belonging stemming from relative geographic isolation \u2014 example: South Islanders \n*  Ethno-religious, emphasizing shared affiliation with a particular religion, denomination or sect \u2014 example: Sikhs In many cases \u2013 for instance, the sense of Jewish peoplehood \u2013 more than one aspect determines membership. The largest ethnic groups in modern times comprise hundreds of millions of individuals (Han Chinese being the largest), while the smallest are limited to a few dozen individuals (numerous indigenous peoples worldwide). Larger ethnic groups may be subdivided into smaller sub-groups known variously as tribes or clans, which over time may become separate ethnic groups themselves due to endogamy or physical isolation from the parent group. Conversely, formerly separate ethnicities can merge to form a pan-ethnicity, and may eventually merge into one single ethnicity. Whether through division or amalgamation, the formation of a separate ethnic identity is referred to as ethnogenesis.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u65cf\u7fa4\uff08\u82f1\u8bed\uff1aEthnic Group\uff09\uff0c\u662f\u6307\u4e00\u7fa4\u4eba\uff0c\u4ed6\u5011\u8a8d\u70ba\u5f7c\u6b64\u5171\u4eab\u4e86\u76f8\u540c\u7684\u7956\u5148\u3001\u8840\u7de3\u3001\u5916\u8c8c\u3001\u6b77\u53f2\u3001\u6587\u5316\u3001\u7fd2\u4fd7\u3001\u8bed\u8a00\u3001\u5730\u57df\u3001\u5b97\u6559\u3001\u751f\u6d3b\u7fd2\u6163\u8207\u570b\u5bb6\u9ad4\u9a57\u7b49\uff0c\u56e0\u6b64\u5f62\u6210\u4e00\u500b\u5171\u540c\u7684\u7fa4\u9ad4\u3002\u70ba\u5340\u5206\u6211\u65cf\u53ca\u300c\u4ed6\u8005\u300d\u7684\u5206\u985e\u65b9\u5f0f\u4e4b\u4e00\u3002\u65cf\u7fa4\u542b\u4e49\u572820\u4e16\u7d00\u5f8c\u6709\u8f49\u8b8a\uff0c\u5f9e\u539f\u4f86\u4ee5\u5c11\u6578\u6c11\u65cf\u6216\u5c11\u6578\u65cf\u88d4\u7684\u610f\u601d\uff0c\u5230\u5f8c\u4f86\u4ee5\u6587\u5316\u7279\u5fb5\u5340\u5206\uff0c\u800c\u6700\u65b0\u7684\u770b\u6cd5\u5247\u8ba4\u4e3a\u65cf\u7fa4\u662f\u793e\u6703\u904e\u7a0b\u5f8c\u7684\u7522\u751f\u7684\u7d50\u679c\u3002\u56e0\u6b64\uff0c\u65cf\u65cf\u53ef\u80fd\u56e0\u6b77\u53f2\u53ca\u6642\u7a7a\u74b0\u5883\uff0c\u57fa\u4e8e\u6b77\u53f2\u3001\u6587\u5316\u3001\u8bed\u8a00\u3001\u5730\u57df\u3001\u5b97\u6559\u3001\u8840\u7de3\u7956\u5148\u8a8d\u540c\u3001\u884c\u4e3a\u3001\u751f\u7269/\u5916\u8c8c\u7279\u5f81\u800c\u5f62\u6210\u300c\u4e00\u7fa4\u300d\u4e0e\u5176\u5b83\u6709\u6240\u533a\u522b\u7684\u7fa4\u4f53\u3002\u9019\u4e9b\u5340\u5225\u6211\u8005\u548c\u4ed6\u8005\u7684\u65cf\u7fa4\u6027\uff08\u82f1\u8bed\uff1aethnicity\uff09\u7279\u8cea\u53ef\u80fd\u5305\u62ec\u300c\u5ba2\u89c0\u300d\u53ca\u300c\u4e3b\u89c0\u300d\uff08\u5982\u8a8d\u77e5\u548c\u611f\u60c5\u7684\u6210\u5206\uff09\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Eine Ethnie oder ethnische Gruppe (altgriechisch \u00e9thnos \u201e[fremdes] Volk, Volkszugeh\u00f6rige\u201c) ist in den Sozialwissenschaften \u2013 insbesondere in der Ethnologie (V\u00f6lkerkunde) \u2013 eine abgrenzbare Menschengruppe, der aufgrund ihres intuitiven Selbstverst\u00e4ndnisses und Gemeinschaftsgef\u00fchls eine eigenst\u00e4ndige Identit\u00e4t als Volksgruppe zuerkannt wird. Grundlage dieser Ethnizit\u00e4t k\u00f6nnen gemeinsame Eigenbezeichnung, Sprache, Abstammung, Wirtschaftsweise, Geschichte, Kultur, Religion oder Verbindung zu einem bestimmten Gebiet sein. Eine Ethnie muss keine gemeinsame Abstammungsgruppe sein (familien\u00fcbergreifend), die Zugeh\u00f6rigkeit vererbt sich weiter (familienumfassend) und es muss keine eindeutigen Grenzziehungen geben (Zugeh\u00f6rigkeit zu mehreren Ethnien m\u00f6glich). Der geschichtliche, soziale und kulturelle Vorgang der Entstehung einer Ethnie wird als Ethnogenese bezeichnet. Zu den rund 1.300 weltweit erfassten Ethnien geh\u00f6rt eine gro\u00dfe Anzahl indigener V\u00f6lker (lateinisch \u201eeingeboren, urspr\u00fcnglich\u201c). Siehe hierzu die Liste indigener V\u00f6lker. Im deutschen Sprachraum wird der Begriff Ethnie gemeinsprachig mit gleicher Bedeutung wie Volk verwendet; w\u00e4hrend Wissenschaftler den Terminus Volk eher vermeiden oder als Oberbegriff f\u00fcr Gesamtgesellschaften aus mehreren verbundenen Ethnien verwenden.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Con etnia (dal greco \u1f14\u03b8\u03bd\u03bf\u03c2, \u00e8thnos 'popolo', 'nazione') \u00absi identifica una comunit\u00e0 caratterizzata da omogeneit\u00e0 di lingua, cultura, tradizioni e memorie storiche, stanziata tradizionalmente su un determinato territorio\u00bb. Questa definizione e lo stesso uso del concetto di etnia sono stati sottoposti, in ambito accademico, negli ultimi anni, a revisione e critica.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Une ethnie ou groupe ethnique  est un groupe social de personnes qui s'identifient entre elles sur la base d'une ascendance commune (r\u00e9elle ou imagin\u00e9e), d'une histoire commune, d'une culture commune ou d'un v\u00e9cu commun. L'appartenance \u00e0 une ethnie ou ethnicit\u00e9  est li\u00e9e \u00e0 un patrimoine commun, que ce soit la culture, l'ascendance, l'histoire, l'origine g\u00e9ographique, la langue ou le dialecte, l'id\u00e9ologie, la religion, la mythologie, la cuisine, l'habillement, la musique... Les plus grands groupes ethniques actuels peuvent comprendre plusieurs centaines de millions d'individus (Hans, Arabes, Russes ou Bengalis) alors que les plus petits peuvent \u00eatre limit\u00e9s \u00e0 quelques centaines d'individus (ethnies indig\u00e8nes isol\u00e9es). Les plus grandes ethnies ont tendance \u00e0 former des sous-groupes (connu historiquement sous nom de tribus), qui avec le temps peuvent elles-m\u00eames se s\u00e9parer en groupe ethnique distinct \u00e0 travers le processus d'ethnogen\u00e8se. Ces ethnies, issus d'un m\u00eame groupe originel, continuent \u00e0 parler des langues reli\u00e9es et sont group\u00e9es en tant que groupe ethno-linguistique ou phyla (Slaves, peuples iraniens, Bantous, peuples turcs, Austron\u00e9siens, etc.).",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c11\u65cf\uff08\u307f\u3093\u305e\u304f\uff09\u3068\u306f\u4e00\u5b9a\u306e\u6587\u5316\u7684\u7279\u5fb4\u3092\u57fa\u6e96\u3068\u3057\u3066\u4ed6\u3068\u533a\u5225\u3055\u308c\u308b\u5171\u540c\u4f53\u3092\u3044\u3046\u3002\u571f\u5730\u3001\u8840\u7e01\u95a2\u4fc2\u3001\u8a00\u8a9e\u306e\u5171\u6709\uff08\u6bcd\u8a9e\uff09\u3084\u3001\u5b97\u6559\u3001\u4f1d\u627f\u3001\u793e\u4f1a\u7d44\u7e54\u306a\u3069\u304c\u305d\u306e\u57fa\u6e96\u3068\u306a\u308b\u304c\u3001\u666e\u904d\u7684\u306a\u5ba2\u89b3\u7684\u57fa\u6e96\u3092\u8a2d\u3051\u3066\u3082\u6982\u5ff5\u5185\u5bb9\u3068\u4e00\u81f4\u3057\u306a\u3044\u5834\u5408\u304c\u591a\u3044\u3053\u3068\u304b\u3089\u3001\u3080\u3057\u308d\u3042\u308b\u6c11\u65cf\u6982\u5ff5\u3078\u306e\u5e30\u5c5e\u610f\u8b58\u3068\u3044\u3046\u4e3b\u89b3\u7684\u57fa\u6e96\u304c\u5ba2\u89b3\u7684\u57fa\u6e96\u3067\u3042\u308b\u3068\u3055\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u3002\u307e\u305f\u3001\u65e5\u672c\u8a9e\u306e\u6c11\u65cf\u306e\u8a9e\u306b\u306f\u3001\u8fd1\u4ee3\u56fd\u6c11\u56fd\u5bb6\u306e\u6210\u7acb\u3068\u5bc6\u63a5\u306a\u95a2\u4fc2\u3092\u6709\u3059\u308b\u653f\u6cbb\u7684\u5171\u540c\u4f53\u306e\u8272\u306e\u6fc3\u3044nation\u306e\u6982\u5ff5\u3068\u3001\u653f\u6cbb\u7684\u5171\u540c\u4f53\u306e\u5f62\u6210\u3084\u3001\u96c6\u5408\u7684\u306a\u4e3b\u4f53\u3092\u306a\u3057\u3066\u3044\u308b\u3068\u3044\u3046\u610f\u8b58\u306e\u6709\u7121\u3068\u306f\u304b\u304b\u308f\u308a\u306a\u304f\u3001\u540c\u4e00\u306e\u6587\u5316\u7fd2\u4fd7\u3092\u6709\u3059\u308b\u96c6\u56e3\u3068\u3057\u3066\u8a8d\u8b58\u3055\u308c\u308bethnic group\uff08\u30b8\u30e5\u30ea\u30a2\u30f3\u30fb\u30cf\u30af\u30b9\u30ea\u30fc\u304c\u8003\u6848\uff09\u306e\u6982\u5ff5\u306e\u53cc\u65b9\u304c\u5341\u5206\u533a\u5225\u3055\u308c\u305a\u306b\u5171\u5b58\u3057\u3066\u3044\u308b\u305f\u3081\u3001\u305d\u306e\u4f7f\u7528\u306b\u304a\u3044\u3066\u306f\u4e00\u5b9a\u306e\u6ce8\u610f\u3092\u8981\u3059\u308b\u3002\u3000",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u042d\u0442\u043d\u0438\u0301\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0440\u0443\u0301\u043f\u043f\u0430 \u2014 \u043c\u043d\u043e\u0433\u043e\u0437\u043d\u0430\u0447\u043d\u044b\u0439 \u0442\u0435\u0440\u043c\u0438\u043d, \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u044e\u0449\u0438\u0439 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u0442\u0438\u043f\u044b \u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043e\u0431\u0449\u043d\u043e\u0441\u0442\u0435\u0439, \u0431\u043e\u043b\u0435\u0435 \u043d\u0438\u0437\u043a\u043e\u0433\u043e \u0442\u0430\u043a\u0441\u043e\u043d\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f, \u0447\u0435\u043c \u044d\u0442\u043d\u043e\u0441. \u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0451\u043d\u043d\u044b\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u0442\u0435\u0440\u043c\u0438\u043d\u0430 \u2014 \u044d\u0442\u043e \u0441\u0443\u0431\u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 (\u0441\u0443\u0431\u044d\u0442\u043d\u043e\u0441, \u0442\u043e \u0435\u0441\u0442\u044c \u0433\u0440\u0443\u043f\u043f\u0430, \u0433\u0440\u0443\u043f\u043f\u0430 \u043a\u0430\u043a\u043e\u0433\u043e-\u043b\u0438\u0431\u043e \u044d\u0442\u043d\u043e\u0441\u0430, \u0438\u043c\u0435\u044e\u0449\u0430\u044f \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0441\u0443\u0431\u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u0430\u043c\u043e\u0441\u043e\u0437\u043d\u0430\u043d\u0438\u0435 \u0438 \u0441\u0430\u043c\u043e\u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435, \u043d\u0430\u0440\u044f\u0434\u0443 \u0441 \u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c) \u0438\u043b\u0438 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u043e-\u043e\u0431\u043e\u0441\u043e\u0431\u043b\u0435\u043d\u043d\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 \u043a\u0430\u043a\u043e\u0433\u043e-\u043b\u0438\u0431\u043e \u044d\u0442\u043d\u043e\u0441\u0430, \u043e\u0442\u0434\u0435\u043b\u0438\u0432\u0448\u0430\u044f\u0441\u044f \u043e\u0442 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0433\u043e \u043c\u0430\u0441\u0441\u0438\u0432\u0430 \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u043c\u0438\u0433\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0432 \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u043e\u0431\u044b\u0442\u0438\u0439, \u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u044e\u0449\u0430\u044f \u0441\u0432\u043e\u0451 \u043f\u0435\u0440\u0432\u0438\u0447\u043d\u043e\u0435 \u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u0430\u043c\u043e\u0441\u043e\u0437\u043d\u0430\u043d\u0438\u0435. \u0412 \u0440\u0435\u0434\u043a\u0438\u0445 \u0441\u043b\u0443\u0447\u0430\u044f\u0445 \u0442\u0435\u0440\u043c\u0438\u043d \u00ab\u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430\u00bb \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u043b\u0441\u044f \u0432 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0438 \u00ab\u0433\u0440\u0443\u043f\u043f\u0430 \u044d\u0442\u043d\u043e\u0441\u043e\u0432\u00bb, \u0440\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u043f\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044e \u0438\u043b\u0438 \u043a\u0430\u043a\u0438\u043c-\u043b\u0438\u0431\u043e \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u0430\u043c \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b, \u043d\u043e \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u0432 \u044d\u0442\u043e\u043c \u0441\u043c\u044b\u0441\u043b\u0435 \u0431\u043e\u043b\u0435\u0435 \u0448\u0438\u0440\u043e\u043a\u043e \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u00ab\u043c\u0435\u0442\u0430\u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043e\u0431\u0449\u043d\u043e\u0441\u0442\u044c\u00bb. \u0422\u0430\u043a\u0436\u0435 \u0440\u0435\u0434\u043a\u043e \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044f \u043f\u043e\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u0442\u0435\u0440\u043c\u0438\u043d\u0430 \u0432 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0438 \u044d\u0442\u043d\u043e\u0441.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Grupa etniczna \u2013 grupa ludzi, identyfikuj\u0105cych si\u0119 ze sob\u0105 w oparciu o wsp\u00f3lne do\u015bwiadczenia spo\u0142eczne, kulturowe, narodowe oraz historyczne. Przynale\u017cno\u015b\u0107 do grupy etnicznej najcz\u0119\u015bciej wi\u0105\u017ce si\u0119 ze wsp\u00f3lnym dziedzictwem kulturowym, j\u0119zykiem, struktur\u0105 spo\u0142eczn\u0105, wierzeniami, rytua\u0142ami, kuchni\u0105, ubiorem czy wygl\u0105dem zewn\u0119trznym. Wsp\u00f3\u0142cze\u015bnie grupy etniczne licz\u0105 nawet setki milion\u00f3w os\u00f3b (np. najwi\u0119ksza z nich to chi\u0144ska grupa Han), podczas gdy najmniejsze ograniczaj\u0105 si\u0119 do kilkudziesi\u0119ciu. Wi\u0119ksze grupy etniczne mog\u0105 dzieli\u0107 si\u0119 na mniejsze podgrupy (np. plemiona lub klany), kt\u00f3re wskutek endogamii lub fizycznej izolacji od grupy dominuj\u0105cej mog\u0105 z czasem sta\u0107 si\u0119 oddzieln\u0105 grup\u0105 etniczn\u0105. Odwrotnie te\u017c odr\u0119bne grupy mog\u0105 po\u0142\u0105czy\u0107 si\u0119 i stopi\u0107 ze sob\u0105. Niezale\u017cnie od tego czy w gr\u0119 wchodzi podzia\u0142 czy fuzja proces powstania \u015bwiadomo\u015bci etnicznej okre\u015blany jest etnogenez\u0105. Grupa etniczna to termin odnosz\u0105cy si\u0119 do spo\u0142eczno\u015bci, odznaczaj\u0105cej si\u0119 wsp\u00f3lnot\u0105 cech kulturowych, kt\u00f3ra najcz\u0119\u015bciej (cho\u0107 nie zawsze) zwi\u0105zana jest z okre\u015blonym terytorium etnicznym. Mo\u017ce tworzy\u0107 potencjalne warunki do powstania narodu gdy jej cechy czy te\u017c silne zespolenie historyczne prowadz\u0105 do powstania wsp\u00f3lnej to\u017csamo\u015bci kulturowej i potrzeby jej organizacyjnego wyrazu. Tym samym rozpatrywa\u0107 j\u0105 mo\u017cna jako jedno ze stadi\u00f3w procesu narodowotw\u00f3rczego. Mo\u017ce ona by\u0107 wynikiem podzia\u0142\u00f3w spo\u0142ecze\u0144stwa na okre\u015blonym terytorium etnicznym, a tak\u017ce sk\u0142adow\u0105 proces\u00f3w kszta\u0142towania si\u0119 nowych grup etnicznych. Grup\u0119 etniczn\u0105, kt\u00f3ra nie jest narodem ale posiada pewne jego cechy nazywa si\u0119 narodowo\u015bci\u0105. \u015awiadomo\u015b\u0107 grupy etnicznej r\u00f3\u017cni si\u0119 od \u015bwiadomo\u015bci narodowej tym, \u017ce nie posiada ona tak precyzyjnego, bogatego w szczeg\u00f3\u0142y wizerunku samej siebie. Cechy grupy nie s\u0105 kultywowane w pe\u0142ni \u015bwiadomie, ale drog\u0105 nieintencjonalnej regulacji wewn\u0119trznej odbywaj\u0105cej si\u0119 poprzez oddzia\u0142ywanie otoczenia na jednostk\u0119. Rzecz\u0105, kt\u00f3ra wyodr\u0119bnia grup\u0119 etniczn\u0105 nie jest zbi\u00f3r jej w\u0142asnych cech, lecz wsp\u00f3lny dla jej cz\u0142onk\u00f3w wizerunek grupy obcej, to co odr\u00f3\u017cnia \"innych\" od \"nas\". Dla poczucia wi\u0119zi etnicznej nieistotne s\u0105 wi\u0119c w\u0142a\u015bciwo\u015bci i cechy grupy jako takie, lecz rozpatrywanie ich w odniesieniu do grupy s\u0105siedniej, w kontek\u015bcie pozwalaj\u0105cych m\u00f3wi\u0107 o odr\u0119bno\u015bci r\u00f3\u017cnic kulturowych. Poczucie etniczno\u015bci rodzi si\u0119 wi\u0119c najcz\u0119\u015bciej w sytuacji kontaktu mi\u0119dzygrupowego, stanowi\u0105c jego rezultat. Jedn\u0105 z bardzo istotnych r\u00f3l w tworzeniu si\u0119 \u015bwiadomo\u015bci etnicznej odgrywa religia, kt\u00f3ra dla wielu grup jest podstawowym czynnikiem wspieraj\u0105cym odp\u00f3r asymilacyjny, kszta\u0142tuj\u0105cym tradycje i to\u017csamo\u015b\u0107 narodow\u0105. Szczeg\u00f3lnym przyk\u0142adem religii etnicznej jest judaizm, kt\u00f3ry okre\u015bla to\u017csamo\u015b\u0107 \u017byd\u00f3w. Dzi\u0119ki niej grupa przetrwa\u0142a ponad dwa tysi\u0105ce lat w diasporowym rozproszeniu i zachowa\u0142a w\u0142asn\u0105 odr\u0119bn\u0105 kultur\u0119. Grupa etniczna nie mo\u017ce by\u0107 uznana za grup\u0119 spo\u0142eczn\u0105 ze wzgl\u0119du na to, \u017ce jej cz\u0142onkowie nie zawsze si\u0119 z ni\u0105 uto\u017csamiaj\u0105, a poczucie przynale\u017cno\u015bci nie musi te\u017c stanowi\u0107 o bliskiej wi\u0119zi mi\u0119dzy jej cz\u0142onkami. Podobnie nie mo\u017cna jej uzna\u0107 za kategori\u0119 spo\u0142eczn\u0105, gdy\u017c nie musi by\u0107 ona zwi\u0105zana rzeczywist\u0105 wsp\u00f3lnot\u0105 pochodzeniow\u0105 i kultur\u0105. Grup\u0119 etniczn\u0105 niekiedy mylnie identyfikuje si\u0119 z mniejszo\u015bci\u0105 narodow\u0105 albo grup\u0105 regionaln\u0105 (grup\u0105 etnograficzn\u0105).",
+                "lang": "pl"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/KorowaiHombre01.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 745153162,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 105004,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/about": [
+            {
+                "type": "literal",
+                "value": "yes",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/by": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/onlinebooks": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/others": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_classification": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_origins": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Inter-ethnic": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethno-linguistic_group": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnick": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_identity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/People_group": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cultural_group": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_background": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Multi-ethinic_groups": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnolinguistic_group": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Peoples": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnicities": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_Group": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnically": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tribal_group": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tribal_groups": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_heritage": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/People_groups": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_categories": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_category": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_communities": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_community": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_network": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_networks": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnies": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_Groups": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnie": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_composition": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnical_group": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_subgroups": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sub-ethnic_group": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Race_and_ethnicity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sub-ethnic_groups": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Group": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/WCGO": {
+        "http://dbpedia.org/ontology/programmeFormat": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Casey_Radio": {
+        "http://dbpedia.org/ontology/programmeFormat": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Adanwomase": {
+        "http://dbpedia.org/property/populationBlank1Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bekwai": {
+        "http://dbpedia.org/property/populationBlank1Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Obuasi": {
+        "http://dbpedia.org/property/populationBlank1Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ejisu": {
+        "http://dbpedia.org/property/populationBlank1Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ntonso": {
+        "http://dbpedia.org/property/populationBlank1Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sakora_Wonoo": {
+        "http://dbpedia.org/property/populationBlank1Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nyinahin": {
+        "http://dbpedia.org/property/populationBlank1Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mamponteng": {
+        "http://dbpedia.org/property/populationBlank1Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnic_groups": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/European_Free_Alliance": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ethnicity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mampong": {
+        "http://dbpedia.org/property/populationBlank1Title": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ethnic_group"
+            }
+        ]
+    }
+}

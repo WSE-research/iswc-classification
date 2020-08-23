@@ -1,0 +1,28 @@
+{
+    "@text": "Name a space probe launched from Cape Canaveral that contains the word \"voyager\" in its name",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Space_probe",
+            "@support": "671",
+            "@types": "",
+            "@surfaceForm": "space probe",
+            "@offset": "7",
+            "@similarityScore": "0.9997086540040995",
+            "@percentageOfSecondRank": "2.914309031232595E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station",
+            "@support": "1003",
+            "@types": "Wikidata:Q41176,Schema:Place,DBpedia:Place,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Cape Canaveral",
+            "@offset": "33",
+            "@similarityScore": "0.6744697698503409",
+            "@percentageOfSecondRank": "0.45881025383659346"
+        }
+    ]
+}

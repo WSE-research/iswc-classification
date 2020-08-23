@@ -1,0 +1,28 @@
+{
+    "@text": "According to the census, what is the population of Arizona?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Census",
+            "@support": "100640",
+            "@types": "",
+            "@surfaceForm": "census",
+            "@offset": "17",
+            "@similarityScore": "0.999508388851375",
+            "@percentageOfSecondRank": "2.3795365683630714E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Arizona",
+            "@support": "39184",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Arizona",
+            "@offset": "51",
+            "@similarityScore": "0.9986377485024176",
+            "@percentageOfSecondRank": "7.476809736970728E-4"
+        }
+    ]
+}

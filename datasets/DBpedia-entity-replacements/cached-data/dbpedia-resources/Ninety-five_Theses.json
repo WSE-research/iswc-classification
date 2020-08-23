@@ -1,0 +1,563 @@
+{
+    "http://dbpedia.org/resource/The_Ninety-Five_Theses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/95_Theses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Martin_Luther": {
+        "http://dbpedia.org/property/notableWorks": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ninety-Five_Theses_on_the_Power_of_Indulgences": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ninety-five_Theses": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Las 95 tesis",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "95\u30f6\u6761\u306e\u8ad6\u984c",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "95 stellingen",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "95 tesi di Lutero",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Ninety-five Theses",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "95 th\u00e8ses",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "95 tez",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "95 Thesen",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "95 \u0442\u0435\u0437\u0438\u0441\u043e\u0432",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e5d\u5341\u4e94\u6761\u8bba\u7eb2",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0642\u0636\u0627\u064a\u0627 \u0627\u0644\u062e\u0645\u0633 \u0648\u0627\u0644\u062a\u0633\u0639\u0648\u0646",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "95 Teses",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0642\u0636\u0627\u064a\u0627 \u0627\u0644\u062e\u0645\u0633 \u0648\u0627\u0644\u062a\u0633\u0639\u0648\u0646 \u0648\u062a\u0639\u0631\u0641 \u0623\u064a\u0636\u064b\u0627 \u0628\u0627\u0633\u0645 \u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0627\u0644\u062e\u0645\u0633 \u0648\u0627\u0644\u062a\u0633\u0639\u0648\u0646\u060c \u0647\u064a \u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0646\u0642\u0627\u0637 \u0627\u0644\u062a\u064a \u0627\u0639\u062a\u0631\u0636 \u0639\u0644\u064a\u0647\u0627 \u0645\u0627\u0631\u062a\u0646 \u0644\u0648\u062b\u0631\u060c \u0648\u0634\u0643\u0644\u062a \u0627\u0646\u0637\u0644\u0627\u0642 \u0627\u0644\u0628\u0631\u0648\u062a\u0633\u062a\u0627\u0646\u062a\u064a\u0629\u060c \u0628\u0639\u062f \u0623\u0646 \u0639\u0644\u0642\u0647\u0627 \u0639\u0644\u0649 \u0628\u0627\u0628 \u0627\u0644\u0643\u0627\u062a\u062f\u0631\u0627\u0626\u064a\u0651\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 \u0641\u064a \u0641\u064a\u062a\u0646\u0628\u0631\u063a\u060c \u0648\u062a\u062a\u0644\u062e\u0635 \u0627\u0644\u0627\u0639\u062a\u0631\u0627\u0636\u0627\u062a \u062d\u0648\u0644 \u0642\u0636\u0627\u064a\u0627 \u0627\u0644\u062a\u0643\u0641\u064a\u0631 \u0639\u0646 \u0627\u0644\u062e\u0637\u0627\u064a\u0627 \u0648\u0623\u0647\u0645\u064a\u0629 \u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0628\u0631 \u0627\u0644\u062a\u0643\u0641\u064a\u0631\u064a\u0629 \u0648\u0633\u0644\u0637\u0629 \u0627\u0644\u0628\u0627\u0628\u0627 \u0641\u064a \u0627\u0644\u0643\u0646\u064a\u0633\u0629 \u0627\u0644\u0643\u0627\u062b\u0648\u0644\u064a\u0643\u064a\u0629. \u0623\u062b\u0627\u0631\u062a \u0627\u0644\u0642\u0636\u0627\u064a\u0627 \u062c\u062f\u0644\u0627\u064b \u0648\u0627\u0633\u0639\u064b\u0627 \u0641\u064a \u0627\u0644\u063a\u0631\u0628 \u0627\u0644\u0645\u0633\u064a\u062d\u064a \u0648\u0641\u062a\u062d\u062a \u0628\u0627\u0628 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0646\u0627\u0638\u0631\u0627\u062a \u0627\u0644\u062f\u064a\u0646\u064a\u0629\u060c \u0648\u0627\u0644\u062a\u0634\u0627\u062d\u0646.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "El Cuestionamiento al poder y eficacia de las indulgencias, de Mart\u00edn Lutero (publicado en lat\u00edn: Disputatio pro declaratione virtutis indulgentiarum), m\u00e1s conocido como Las 95 tesis, fue una carta de Mart\u00edn Lutero dirigida a la Iglesia de Roma, en la que desacredita la doctrina papal sobre las indulgencias. Esta publicaci\u00f3n \u2014clavada por Lutero, de acuerdo a la tradici\u00f3n, en las puertas de la Iglesia del Palacio de Wittenberg el 31 de octubre de 1517\u2014 comenzar\u00eda un debate teol\u00f3gico que desembocar\u00eda en la Reforma y el nacimiento de varias tradiciones dentro del cristianismo, tales como el luteranismo, el presbiterianismo y el anabaptismo.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "A Disputa\u00e7\u00e3o do Doutor Martinho Lutero sobre o Poder e Efic\u00e1cia das Indulg\u00eancias, em 31 de outubro de 1517 Lutero fixou a carta na porta da igreja do castelo de Wittenberg ,conhecida como as 95 Teses , desafiou os ensinamentos da Igreja Cat\u00f3lica quanto \u00e0 natureza da penit\u00eancia, a autoridade do Papa e da utilidade das indulg\u00eancias. As 95 teses impulsionaram o debate teol\u00f3gico que acabou por resultar no nascimento das tradi\u00e7\u00f5es luteranas, reformadas e anabaptistas dentro do cristianismo. Este documento \u00e9 considerado por muitos como um marco da Reforma Protestante.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "95 tez Marcina Lutra \u2013 dokument og\u0142oszony przez Lutra w dniu 31 pa\u017adziernika 1517 roku w Wittenberdze. Tezy, b\u0119d\u0105ce wezwaniem do publicznej dysputy religijnej na temat istoty i skuteczno\u015bci odpust\u00f3w, mia\u0142y zosta\u0107 przybite do drzwi katedry zamkowej. Celem Lutra by\u0142o doprowadzenie do reformy Ko\u015bcio\u0142a rzymskokatolickiego, jednak cel ten nie zosta\u0142 osi\u0105gni\u0119ty i dosz\u0142o do jego podzia\u0142u.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "95\u30f6\u6761\u306e\u8ad6\u984c\uff0895\u304b\u3058\u3087\u3046\u306e\u308d\u3093\u3060\u3044\u3001\u72ec: 95 Thesen\uff09\u306f\u3001\u6b63\u5f0f\u540d\u79f0\u300e\u8d16\u5ba5\u72b6\u306e\u610f\u7fa9\u3068\u52b9\u679c\u306b\u95a2\u3059\u308b\u898b\u89e3\u300f\uff08\u30e9\u30c6\u30f3\u8a9e: Disputatio pro declaratione virtutis indulgentiarum, \u82f1: The Ninety-Five Theses on the Power and Efficacy of Indulgences\uff09\u3068\u8a00\u3044\u30011517\u5e74\u306b\u30de\u30eb\u30c6\u30a3\u30f3\u30fb\u30eb\u30bf\u30fc\u304c\u5f53\u6642\u306e\u30ab\u30c8\u30ea\u30c3\u30af\u6559\u4f1a\u306e\u514d\u511f\u7406\u89e3\u306b\u7591\u7fa9\u3092\u5448\u3057\u3066\u767a\u8868\u3057\u305f\u6587\u7ae0\u3001\u63d0\u984c\uff08\u30c6\u30fc\u30bc\uff09\u3067\u3042\u308b\u3002 \u30eb\u30bf\u30fc\u81ea\u8eab\u304c\u3042\u304f\u307e\u3067\u3082\u795e\u5b66\u4e0a\u306e\u8ad6\u4e89\u3068\u8003\u3048\u3066\u3044\u305f\u3053\u3068\u304b\u3089\u3001\u5f53\u6642\u306e\u6c11\u8846\u306b\u306f\u307b\u3068\u3093\u3069\u8aad\u3081\u306a\u304b\u3063\u305f\u30e9\u30c6\u30f3\u8a9e\u3067\u66f8\u304b\u308c\u3066\u3044\u308b\u3002 \u30c9\u30a4\u30c4\u306b\u304a\u3051\u308b\u8d16\u5ba5\u72b6\u306e\u5927\u91cf\u8ca9\u58f2\u306b\u306f\u30c9\u30a4\u30c4\u8af8\u4faf\u306e\u601d\u60d1\u3082\u304b\u3089\u3093\u3067\u3044\u305f\u305f\u3081\u3001\u30eb\u30bf\u30fc\u306e\u30c6\u30fc\u30bc\u304c\u3082\u305f\u3089\u3057\u305f\u8b70\u8ad6\u306f\u5358\u306a\u308b\u795e\u5b66\u8ad6\u4e89\u304b\u3089\u4e00\u5927\u653f\u6cbb\u8ad6\u4e89\u3078\u3068\u767a\u5c55\u3001\u300c\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8\u300d\u3068\u547c\u3070\u308c\u308b\u65b0\u3057\u3044\u30ad\u30ea\u30b9\u30c8\u6559\u30b0\u30eb\u30fc\u30d7\u3092\u751f\u307f\u51fa\u3059\u3053\u3068\u306b\u306a\u3063\u305f\u3002\u5b97\u6559\u6539\u9769\u306e\u5e55\u958b\u3051\u306e\u4e8b\u4ef6\u3068\u307f\u306a\u3055\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u300a\u4e5d\u5341\u4e94\u689d\u8ad6\u7db1\u300b\uff0c\u6b63\u5f0f\u540d\u7a31\u300a\u95dc\u65bc\u8d16\u7f6a\u5238\u7684\u610f\u7fa9\u53ca\u6548\u679c\u7684\u898b\u89e3\u300b\uff08\u62c9\u4e01\u8bed\uff1aDisputatio pro declaratione virtutis indulgentiarum\uff09\uff0c\u662f\u57fa\u7763\u6559\u795e\u5b78\u5bb6\u548c\u4fee\u58eb\u99ac\u4e01\u00b7\u8def\u5fb7\u65bc1517\u5e74\u5f35\u8cbc\u5728\u5fb7\u570b\u7ef4\u6ed5\u8d1d\u683c\u57ce\u6559\u5802\u5927\u9580\u4e0a\u7684\u53cd\u5c0d\u8d16\u7f6a\u5238\u7684\u8faf\u8ad6\u63d0\u7db1\uff0c\u5f15\u8d77\u5f88\u5927\u8f5f\u52d5\u548c\u722d\u8faf\uff0c\u5f15\u767c\u4e86\u5b97\u6559\u6539\u9769\u904b\u52d5\u3002\u5f8c\u4f86\u65b0\u6559\u5728\u904b\u52d5\u4e2d\u8a95\u751f\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "95 \u0442\u0435\u0301\u0437\u0438\u0441\u043e\u0432 (\u0414\u0438\u0441\u043f\u0443\u0442 \u0434\u043e\u043a\u0442\u043e\u0440\u0430 \u041c\u0430\u0440\u0442\u0438\u043d\u0430 \u041b\u044e\u0442\u0435\u0440\u0430, \u043a\u0430\u0441\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u043f\u043e\u043a\u0430\u044f\u043d\u0438\u044f \u0438 \u0438\u043d\u0434\u0443\u043b\u044c\u0433\u0435\u043d\u0446\u0438\u0439) \u2014 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442 \u043d\u0430 \u043b\u0430\u0442\u0438\u043d\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435, \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u043d\u044b\u0439 \u041c\u0430\u0440\u0442\u0438\u043d\u043e\u043c \u041b\u044e\u0442\u0435\u0440\u043e\u043c \u041e\u0442 \u044d\u0442\u043e\u0433\u043e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430\u0447\u0430\u043b\u043e \u0420\u0435\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0438 \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u043f\u0440\u043e\u0442\u0435\u0441\u0442\u0430\u043d\u0442\u0438\u0437\u043c\u0430. \u041e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u043c\u043e\u0442\u0438\u0432 \u0438 \u0438\u0434\u0435\u044f \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u044f 95 (XCV) \u0442\u0435\u0437\u0438\u0441\u043e\u0432 \u2014 \u043a\u0440\u0438\u0442\u0438\u043a\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0438 \u0438\u043d\u0434\u0443\u043b\u044c\u0433\u0435\u043d\u0446\u0438\u0439 \u0438 \u044d\u043a\u0441\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u044b\u0445 \u043f\u0440\u0430\u0432 \u0440\u0438\u043c\u0441\u043a\u043e\u0433\u043e \u043f\u0430\u043f\u044b \u043f\u0440\u043e\u0449\u0430\u0442\u044c \u0433\u0440\u0435\u0445\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435 \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u041f\u0438\u0441\u0430\u043d\u0438\u044f \u043a\u0430\u043a \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0430\u0432\u0442\u043e\u0440\u0438\u0442\u0435\u0442\u0430.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "La Discussione sulla dichiarazione del potere delle indulgenze (in latino: Disputatio pro declaratione virtutis indulgentiarum), nota anche come Le 95 tesi, fu un elenco di tesi, che il frate agostiniano Martin Lutero propose alla pubblica discussione il 31 ottobre 1517. L'affissione di questo elenco di tesi alla porta della chiesa del castello (Schlosskirche) di Wittenberg, in vista di una pubblica assemblea in cui Lutero avrebbe difeso e provato le proprie affermazioni, era allora costume corrente nei centri universitari.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "La diffusion de la Dispute de Martin Luther sur la puissance des indulgences (titre latin Disputatio pro declaratione virtutis indulgentiarum), plus connue comme les 95 th\u00e8ses, a d\u00e9clench\u00e9 la R\u00e9forme protestante en Allemagne. Le document aurait \u00e9t\u00e9 placard\u00e9 \u00e0 la porte de l'\u00e9glise de Wittemberg (aujourd'hui en Saxe-Anhalt) le 31 octobre 1517. Si l'authenticit\u00e9 du document n'est pas contest\u00e9e, la r\u00e9alit\u00e9 de l'\u00e9v\u00e9nement lui-m\u00eame fait aujourd'hui l'objet de d\u00e9bat parmi les historiens. La date n'a pas \u00e9t\u00e9 choisie au hasard, le 31 octobre \u00e9tait la veille de la Toussaint ; le vaste public devant venir le lendemain pour v\u00e9n\u00e9rer les reliques et diminuer son temps pass\u00e9 au purgatoire \u00e9tait pour Luther la garantie d'une diffusion maximale de ses id\u00e9es.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "De 95 stellingen was een document waarmee Maarten Luther de wantoestanden in de katholieke Kerk aanklaagde (31 oktober 1517). Het leidde tot de Reformatie en wordt daarom gezien als de oorsprong van het protestantisme. De \"95 stellingen\" stelden de handel in aflaten aan de kaak, een concept van de dominicaanse priester Johann Tetzel waardoor rijken de vergiffenis van hun zonden konden afkopen van de paus. Luther vond het onrechtvaardig dat rijken zo geen boetedoening moesten doen wanneer ze te biecht kwamen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "The Ninety-five Theses or Disputation on the Power of Indulgences (Latin: Disputatio pro declaratione virtutis indulgentiarum) are a list of propositions for an academic disputation written by Martin Luther in 1517. They advance Luther's positions against what he saw as abusive practices by preachers selling plenary indulgences, which were certificates which would reduce the temporal punishment for sins committed by the purchaser or their loved ones in purgatory. Luther sent the Theses to Albert of Brandenburg, the Archbishop of Mainz, on 31 October 1517, a date now considered the start of the Protestant Reformation. Luther may have also posted the Theses on the door of All Saints' Church, Wittenberg, probably in mid-November.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Martin Luthers 95 Thesen \u2013 im lateinischen Original Disputatio pro declaratione virtutis indulgentiarum, in fr\u00fchen deutschen Drucken Propositiones wider das Ablas \u2013, in denen er gegen Missbr\u00e4uche beim Ablass und besonders gegen den gesch\u00e4ftsm\u00e4\u00dfigen Handel mit Ablassbriefen auftrat, wurden am 31. Oktober 1517 als Beif\u00fcgung an einen Brief an den Erzbischof von Mainz und Magdeburg, Albrecht von Brandenburg, erstmals in Umlauf gebracht. Da eine Stellungnahme Albrechts von Brandenburg ausblieb, gab Luther die Thesen an einige Bekannte weiter, die sie kurze Zeit sp\u00e4ter ohne sein Wissen ver\u00f6ffentlichten und damit zum Gegenstand einer \u00f6ffentlichen Diskussion im gesamten Reich machten.",
+                "lang": "de"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/95_th\u00e8ses"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Las_95_tesis"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/95\u30f6\u6761\u306e\u8ad6\u984c"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/95_\u0398\u03ad\u03c3\u03b5\u03b9\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/95_tesi_di_Lutero"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/95_tez\u00ed"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/95_Teses"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q157506"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/95_Thesen"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/95_tez"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/95_stellingen"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q157506"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/95\uac1c_\ub17c\uc81c"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/95_dalil_Luther"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:1517_works"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Wittenberg"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Christian_terminology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Works_by_Martin_Luther"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Luther_95_Thesen.png"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Ninety-five_Theses"
+            }
+        ],
+        "http://dbpedia.org/property/author": [
+            {
+                "type": "literal",
+                "value": "Martin Luther",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/n": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/commonscat": [
+            {
+                "type": "literal",
+                "value": 95,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Ninety-five_Theses?oldid=737320764"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "https://muse.jhu.edu/book/40846"
+            },
+            {
+                "type": "uri",
+                "value": "https://muse.jhu.edu/book/43237"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.questia.com/read/123488797/luther-s-theology-of-the-cross-martin-luther-s-theological"
+            },
+            {
+                "type": "uri",
+                "value": "http://cdn.theologicalstudies.net/28/28.3/28.3.2.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.questia.com/read/107288031/the-cambridge-companion-to-martin-luther"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.lutheranquarterly.com/uploads/7/4/0/1/7401289/lq-95theses-leppin_wengert.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198187356.001.0001/acprof-9780198187356"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199732753.001.0001/acprof-9780199732753"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.questia.com/read/119881926/martin-luther-his-road-to-reformation-1483-1521"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.questia.com/read/120338828/martin-luther-an-introduction-to-his-life-and-work"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.questia.com/read/117981089/martin-luther-a-brief-introduction-to-his-life-and"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.questia.com/read/119871550/martin-luther-s-theology-its-historical-and-systematic"
+            }
+        ],
+        "http://dbpedia.org/property/q": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/s": [
+            {
+                "type": "literal",
+                "value": "Disputation of Doctor Martin Luther on the Power and Efficacy of Indulgences",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "The Ninety-five Theses or Disputation on the Power of Indulgences (Latin: Disputatio pro declaratione virtutis indulgentiarum) are a list of propositions for an academic disputation written by Martin Luther in 1517. They advance Luther's positions against what he saw as abusive practices by preachers selling plenary indulgences, which were certificates which would reduce the temporal punishment for sins committed by the purchaser or their loved ones in purgatory. Luther sent the Theses to Albert of Brandenburg, the Archbishop of Mainz, on 31 October 1517, a date now considered the start of the Protestant Reformation. Luther may have also posted the Theses on the door of All Saints' Church, Wittenberg, probably in mid-November.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0642\u0636\u0627\u064a\u0627 \u0627\u0644\u062e\u0645\u0633 \u0648\u0627\u0644\u062a\u0633\u0639\u0648\u0646 \u0648\u062a\u0639\u0631\u0641 \u0623\u064a\u0636\u064b\u0627 \u0628\u0627\u0633\u0645 \u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0627\u0644\u062e\u0645\u0633 \u0648\u0627\u0644\u062a\u0633\u0639\u0648\u0646\u060c \u0647\u064a \u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0646\u0642\u0627\u0637 \u0627\u0644\u062a\u064a \u0627\u0639\u062a\u0631\u0636 \u0639\u0644\u064a\u0647\u0627 \u0645\u0627\u0631\u062a\u0646 \u0644\u0648\u062b\u0631\u060c \u0648\u0634\u0643\u0644\u062a \u0627\u0646\u0637\u0644\u0627\u0642 \u0627\u0644\u0628\u0631\u0648\u062a\u0633\u062a\u0627\u0646\u062a\u064a\u0629\u060c \u0628\u0639\u062f \u0623\u0646 \u0639\u0644\u0642\u0647\u0627 \u0639\u0644\u0649 \u0628\u0627\u0628 \u0627\u0644\u0643\u0627\u062a\u062f\u0631\u0627\u0626\u064a\u0651\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 \u0641\u064a \u0641\u064a\u062a\u0646\u0628\u0631\u063a\u060c \u0648\u062a\u062a\u0644\u062e\u0635 \u0627\u0644\u0627\u0639\u062a\u0631\u0627\u0636\u0627\u062a \u062d\u0648\u0644 \u0642\u0636\u0627\u064a\u0627 \u0627\u0644\u062a\u0643\u0641\u064a\u0631 \u0639\u0646 \u0627\u0644\u062e\u0637\u0627\u064a\u0627 \u0648\u0623\u0647\u0645\u064a\u0629 \u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0628\u0631 \u0627\u0644\u062a\u0643\u0641\u064a\u0631\u064a\u0629 \u0648\u0633\u0644\u0637\u0629 \u0627\u0644\u0628\u0627\u0628\u0627 \u0641\u064a \u0627\u0644\u0643\u0646\u064a\u0633\u0629 \u0627\u0644\u0643\u0627\u062b\u0648\u0644\u064a\u0643\u064a\u0629. \u0623\u062b\u0627\u0631\u062a \u0627\u0644\u0642\u0636\u0627\u064a\u0627 \u062c\u062f\u0644\u0627\u064b \u0648\u0627\u0633\u0639\u064b\u0627 \u0641\u064a \u0627\u0644\u063a\u0631\u0628 \u0627\u0644\u0645\u0633\u064a\u062d\u064a \u0648\u0641\u062a\u062d\u062a \u0628\u0627\u0628 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0646\u0627\u0638\u0631\u0627\u062a \u0627\u0644\u062f\u064a\u0646\u064a\u0629\u060c \u0648\u0627\u0644\u062a\u0634\u0627\u062d\u0646.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "95 tez Marcina Lutra \u2013 dokument og\u0142oszony przez Lutra w dniu 31 pa\u017adziernika 1517 roku w Wittenberdze. Tezy, b\u0119d\u0105ce wezwaniem do publicznej dysputy religijnej na temat istoty i skuteczno\u015bci odpust\u00f3w, mia\u0142y zosta\u0107 przybite do drzwi katedry zamkowej. Celem Lutra by\u0142o doprowadzenie do reformy Ko\u015bcio\u0142a rzymskokatolickiego, jednak cel ten nie zosta\u0142 osi\u0105gni\u0119ty i dosz\u0142o do jego podzia\u0142u.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "La Discussione sulla dichiarazione del potere delle indulgenze (in latino: Disputatio pro declaratione virtutis indulgentiarum), nota anche come Le 95 tesi, fu un elenco di tesi, che il frate agostiniano Martin Lutero propose alla pubblica discussione il 31 ottobre 1517. L'affissione di questo elenco di tesi alla porta della chiesa del castello (Schlosskirche) di Wittenberg, in vista di una pubblica assemblea in cui Lutero avrebbe difeso e provato le proprie affermazioni, era allora costume corrente nei centri universitari. Questo gesto, che per Lutero non rappresentava ancora una rottura definitiva con la Chiesa romana, per convenzione storica \u00e8 considerato l'inizio della Riforma protestante. Tuttavia non risultano testimonianze coeve dell'affissione. Autorevoli storici hanno sostenuto che le 95 tesi furono in realt\u00e0 inviate il 31 ottobre 1517 ai vescovi interessati e che furono diffuse solo dopo la mancata risposta dei vescovi.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "La diffusion de la Dispute de Martin Luther sur la puissance des indulgences (titre latin Disputatio pro declaratione virtutis indulgentiarum), plus connue comme les 95 th\u00e8ses, a d\u00e9clench\u00e9 la R\u00e9forme protestante en Allemagne. Le document aurait \u00e9t\u00e9 placard\u00e9 \u00e0 la porte de l'\u00e9glise de Wittemberg (aujourd'hui en Saxe-Anhalt) le 31 octobre 1517. Si l'authenticit\u00e9 du document n'est pas contest\u00e9e, la r\u00e9alit\u00e9 de l'\u00e9v\u00e9nement lui-m\u00eame fait aujourd'hui l'objet de d\u00e9bat parmi les historiens. La date n'a pas \u00e9t\u00e9 choisie au hasard, le 31 octobre \u00e9tait la veille de la Toussaint ; le vaste public devant venir le lendemain pour v\u00e9n\u00e9rer les reliques et diminuer son temps pass\u00e9 au purgatoire \u00e9tait pour Luther la garantie d'une diffusion maximale de ses id\u00e9es.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u300a\u4e5d\u5341\u4e94\u689d\u8ad6\u7db1\u300b\uff0c\u6b63\u5f0f\u540d\u7a31\u300a\u95dc\u65bc\u8d16\u7f6a\u5238\u7684\u610f\u7fa9\u53ca\u6548\u679c\u7684\u898b\u89e3\u300b\uff08\u62c9\u4e01\u8bed\uff1aDisputatio pro declaratione virtutis indulgentiarum\uff09\uff0c\u662f\u57fa\u7763\u6559\u795e\u5b78\u5bb6\u548c\u4fee\u58eb\u99ac\u4e01\u00b7\u8def\u5fb7\u65bc1517\u5e74\u5f35\u8cbc\u5728\u5fb7\u570b\u7ef4\u6ed5\u8d1d\u683c\u57ce\u6559\u5802\u5927\u9580\u4e0a\u7684\u53cd\u5c0d\u8d16\u7f6a\u5238\u7684\u8faf\u8ad6\u63d0\u7db1\uff0c\u5f15\u8d77\u5f88\u5927\u8f5f\u52d5\u548c\u722d\u8faf\uff0c\u5f15\u767c\u4e86\u5b97\u6559\u6539\u9769\u904b\u52d5\u3002\u5f8c\u4f86\u65b0\u6559\u5728\u904b\u52d5\u4e2d\u8a95\u751f\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "El Cuestionamiento al poder y eficacia de las indulgencias, de Mart\u00edn Lutero (publicado en lat\u00edn: Disputatio pro declaratione virtutis indulgentiarum), m\u00e1s conocido como Las 95 tesis, fue una carta de Mart\u00edn Lutero dirigida a la Iglesia de Roma, en la que desacredita la doctrina papal sobre las indulgencias. Esta publicaci\u00f3n \u2014clavada por Lutero, de acuerdo a la tradici\u00f3n, en las puertas de la Iglesia del Palacio de Wittenberg el 31 de octubre de 1517\u2014 comenzar\u00eda un debate teol\u00f3gico que desembocar\u00eda en la Reforma y el nacimiento de varias tradiciones dentro del cristianismo, tales como el luteranismo, el presbiterianismo y el anabaptismo.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "De 95 stellingen was een document waarmee Maarten Luther de wantoestanden in de katholieke Kerk aanklaagde (31 oktober 1517). Het leidde tot de Reformatie en wordt daarom gezien als de oorsprong van het protestantisme. De \"95 stellingen\" stelden de handel in aflaten aan de kaak, een concept van de dominicaanse priester Johann Tetzel waardoor rijken de vergiffenis van hun zonden konden afkopen van de paus. Luther vond het onrechtvaardig dat rijken zo geen boetedoening moesten doen wanneer ze te biecht kwamen.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Martin Luthers 95 Thesen \u2013 im lateinischen Original Disputatio pro declaratione virtutis indulgentiarum, in fr\u00fchen deutschen Drucken Propositiones wider das Ablas \u2013, in denen er gegen Missbr\u00e4uche beim Ablass und besonders gegen den gesch\u00e4ftsm\u00e4\u00dfigen Handel mit Ablassbriefen auftrat, wurden am 31. Oktober 1517 als Beif\u00fcgung an einen Brief an den Erzbischof von Mainz und Magdeburg, Albrecht von Brandenburg, erstmals in Umlauf gebracht. Da eine Stellungnahme Albrechts von Brandenburg ausblieb, gab Luther die Thesen an einige Bekannte weiter, die sie kurze Zeit sp\u00e4ter ohne sein Wissen ver\u00f6ffentlichten und damit zum Gegenstand einer \u00f6ffentlichen Diskussion im gesamten Reich machten. Die Historizit\u00e4t des Thesenanschlags, bei dem Luther seine 95 Thesen am 31. Oktober 1517 eigenh\u00e4ndig an die T\u00fcr der Schlosskirche in Wittenberg genagelt haben soll, ist umstritten.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "95 \u0442\u0435\u0301\u0437\u0438\u0441\u043e\u0432 (\u0414\u0438\u0441\u043f\u0443\u0442 \u0434\u043e\u043a\u0442\u043e\u0440\u0430 \u041c\u0430\u0440\u0442\u0438\u043d\u0430 \u041b\u044e\u0442\u0435\u0440\u0430, \u043a\u0430\u0441\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u043f\u043e\u043a\u0430\u044f\u043d\u0438\u044f \u0438 \u0438\u043d\u0434\u0443\u043b\u044c\u0433\u0435\u043d\u0446\u0438\u0439) \u2014 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442 \u043d\u0430 \u043b\u0430\u0442\u0438\u043d\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435, \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u043d\u044b\u0439 \u041c\u0430\u0440\u0442\u0438\u043d\u043e\u043c \u041b\u044e\u0442\u0435\u0440\u043e\u043c \u041e\u0442 \u044d\u0442\u043e\u0433\u043e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u0442\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430\u0447\u0430\u043b\u043e \u0420\u0435\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0438 \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u043f\u0440\u043e\u0442\u0435\u0441\u0442\u0430\u043d\u0442\u0438\u0437\u043c\u0430. \u041e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u043c\u043e\u0442\u0438\u0432 \u0438 \u0438\u0434\u0435\u044f \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u044f 95 (XCV) \u0442\u0435\u0437\u0438\u0441\u043e\u0432 \u2014 \u043a\u0440\u0438\u0442\u0438\u043a\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0438 \u0438\u043d\u0434\u0443\u043b\u044c\u0433\u0435\u043d\u0446\u0438\u0439 \u0438 \u044d\u043a\u0441\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u044b\u0445 \u043f\u0440\u0430\u0432 \u0440\u0438\u043c\u0441\u043a\u043e\u0433\u043e \u043f\u0430\u043f\u044b \u043f\u0440\u043e\u0449\u0430\u0442\u044c \u0433\u0440\u0435\u0445\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435 \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u041f\u0438\u0441\u0430\u043d\u0438\u044f \u043a\u0430\u043a \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0430\u0432\u0442\u043e\u0440\u0438\u0442\u0435\u0442\u0430. \u0414\u043e XX \u0432\u0435\u043a\u0430 \u0441\u0447\u0438\u0442\u0430\u043b\u043e\u0441\u044c \u0444\u0430\u043a\u0442\u043e\u043c, \u0447\u0442\u043e \u0442\u0435\u0437\u0438\u0441\u044b \u0431\u044b\u043b\u0438 \u0432\u044b\u0432\u0435\u0448\u0435\u043d\u044b \u041b\u044e\u0442\u0435\u0440\u043e\u043c 31 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1517 \u0433\u043e\u0434\u0430 \u043d\u0430 \u0434\u0432\u0435\u0440\u0438 \u0417\u0430\u043c\u043a\u043e\u0432\u043e\u0439 \u0446\u0435\u0440\u043a\u0432\u0438 \u0432 \u0412\u0438\u0442\u0442\u0435\u043d\u0431\u0435\u0440\u0433\u0435 (\u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u043a\u043d\u044f\u0436\u0435\u0441\u0442\u0432\u0430 \u0421\u0430\u043a\u0441\u043e\u043d\u0438\u044f), \u043e\u0434\u043d\u0430\u043a\u043e \u044d\u0442\u043e \u0431\u044b\u043b\u043e \u043e\u0441\u043f\u043e\u0440\u0435\u043d\u043e \u042d\u0440\u0432\u0438\u043d\u043e\u043c \u0418\u0437\u0435\u0440\u043b\u043e.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "95\u30f6\u6761\u306e\u8ad6\u984c\uff0895\u304b\u3058\u3087\u3046\u306e\u308d\u3093\u3060\u3044\u3001\u72ec: 95 Thesen\uff09\u306f\u3001\u6b63\u5f0f\u540d\u79f0\u300e\u8d16\u5ba5\u72b6\u306e\u610f\u7fa9\u3068\u52b9\u679c\u306b\u95a2\u3059\u308b\u898b\u89e3\u300f\uff08\u30e9\u30c6\u30f3\u8a9e: Disputatio pro declaratione virtutis indulgentiarum, \u82f1: The Ninety-Five Theses on the Power and Efficacy of Indulgences\uff09\u3068\u8a00\u3044\u30011517\u5e74\u306b\u30de\u30eb\u30c6\u30a3\u30f3\u30fb\u30eb\u30bf\u30fc\u304c\u5f53\u6642\u306e\u30ab\u30c8\u30ea\u30c3\u30af\u6559\u4f1a\u306e\u514d\u511f\u7406\u89e3\u306b\u7591\u7fa9\u3092\u5448\u3057\u3066\u767a\u8868\u3057\u305f\u6587\u7ae0\u3001\u63d0\u984c\uff08\u30c6\u30fc\u30bc\uff09\u3067\u3042\u308b\u3002 \u30eb\u30bf\u30fc\u81ea\u8eab\u304c\u3042\u304f\u307e\u3067\u3082\u795e\u5b66\u4e0a\u306e\u8ad6\u4e89\u3068\u8003\u3048\u3066\u3044\u305f\u3053\u3068\u304b\u3089\u3001\u5f53\u6642\u306e\u6c11\u8846\u306b\u306f\u307b\u3068\u3093\u3069\u8aad\u3081\u306a\u304b\u3063\u305f\u30e9\u30c6\u30f3\u8a9e\u3067\u66f8\u304b\u308c\u3066\u3044\u308b\u3002 \u30c9\u30a4\u30c4\u306b\u304a\u3051\u308b\u8d16\u5ba5\u72b6\u306e\u5927\u91cf\u8ca9\u58f2\u306b\u306f\u30c9\u30a4\u30c4\u8af8\u4faf\u306e\u601d\u60d1\u3082\u304b\u3089\u3093\u3067\u3044\u305f\u305f\u3081\u3001\u30eb\u30bf\u30fc\u306e\u30c6\u30fc\u30bc\u304c\u3082\u305f\u3089\u3057\u305f\u8b70\u8ad6\u306f\u5358\u306a\u308b\u795e\u5b66\u8ad6\u4e89\u304b\u3089\u4e00\u5927\u653f\u6cbb\u8ad6\u4e89\u3078\u3068\u767a\u5c55\u3001\u300c\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8\u300d\u3068\u547c\u3070\u308c\u308b\u65b0\u3057\u3044\u30ad\u30ea\u30b9\u30c8\u6559\u30b0\u30eb\u30fc\u30d7\u3092\u751f\u307f\u51fa\u3059\u3053\u3068\u306b\u306a\u3063\u305f\u3002\u5b97\u6559\u6539\u9769\u306e\u5e55\u958b\u3051\u306e\u4e8b\u4ef6\u3068\u307f\u306a\u3055\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "A Disputa\u00e7\u00e3o do Doutor Martinho Lutero sobre o Poder e Efic\u00e1cia das Indulg\u00eancias, em 31 de outubro de 1517 Lutero fixou a carta na porta da igreja do castelo de Wittenberg ,conhecida como as 95 Teses , desafiou os ensinamentos da Igreja Cat\u00f3lica quanto \u00e0 natureza da penit\u00eancia, a autoridade do Papa e da utilidade das indulg\u00eancias. As 95 teses impulsionaram o debate teol\u00f3gico que acabou por resultar no nascimento das tradi\u00e7\u00f5es luteranas, reformadas e anabaptistas dentro do cristianismo. Este documento \u00e9 considerado por muitos como um marco da Reforma Protestante. A a\u00e7\u00e3o de Lutero foi em grande parte uma resposta \u00e0 venda de indulg\u00eancias(perd\u00e3o) por Jo\u00e3o Tetzel, um frade dominicano, delegado do Arcebispo de Mog\u00fancia e do papa. O objetivo desta campanha de angaria\u00e7\u00e3o de fundos foi o financiamento da Bas\u00edlica de S. Pedro em Roma\". Mesmo apesar de o pr\u00edncipe-eleitor(soberano) de Lutero, Frederico, o S\u00e1bio, e o pr\u00edncipe do territ\u00f3rio vizinho, o duque Jorge da Sax\u00f4nia, terem proibido a venda de indulg\u00eancias em seu territ\u00f3rio, muitas pessoas viajaram para as poder adquirir. Quando estas pessoas vieram confessar-se, apresentaram a indulg\u00eancia, afirmando que n\u00e3o mais necessitavam de penitenciar pelos seus pecados, uma vez que o documento as perdoava de todos os pecados.",
+                "lang": "pt"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Luther_95_Thesen.png?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 737320764,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 188050,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/wikt": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/b": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/title": [
+            {
+                "type": "literal",
+                "value": "The Ninety-Five Theses",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/v": [
+            {
+                "type": "literal",
+                "value": "no",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Disputation_of_Martin_Luther_on_the_Power_and_Efficacy_of_Indulgences": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Ninety-five_Theses": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/95_thesis": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ninety-Five_Theses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Homo_melior": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ninety-Five_Theses_on_the_Power_and_Efficacy_of_Indulgences": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ninety-five_theses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Luther's_95_Theses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/95_theses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Ninety-Five_Theses_on_the_Power_and_Efficacy_of_Indulgences": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_95_Theses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ninety_Five_Theses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Luther's_Ninety-Five_Theses": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Ninety-five_Theses"
+            }
+        ]
+    }
+}

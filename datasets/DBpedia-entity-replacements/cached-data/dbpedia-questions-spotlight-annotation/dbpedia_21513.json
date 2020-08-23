@@ -1,0 +1,28 @@
+{
+    "@text": "Which football team is in a city where A J Clark was a builder?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Association_football",
+            "@support": "280277",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "football",
+            "@offset": "6",
+            "@similarityScore": "0.9398630130954587",
+            "@percentageOfSecondRank": "0.057897581115147034"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "28",
+            "@similarityScore": "0.8559486665581651",
+            "@percentageOfSecondRank": "0.08785729004322247"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Is it true that Sidney is twinned with Milan and Portsmouth?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Milan",
+            "@support": "30122",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Milan",
+            "@offset": "39",
+            "@similarityScore": "0.892043035676109",
+            "@percentageOfSecondRank": "0.12067890427947628"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Portsmouth",
+            "@support": "9434",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Portsmouth",
+            "@offset": "49",
+            "@similarityScore": "0.7528514727752027",
+            "@percentageOfSecondRank": "0.32263373782109317"
+        }
+    ]
+}

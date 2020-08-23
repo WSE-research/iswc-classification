@@ -1,0 +1,37 @@
+{
+    "@text": "Was Scooby-Doo genre horror film and science fiction film?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Scooby-Doo",
+            "@support": "2008",
+            "@types": "",
+            "@surfaceForm": "Scooby-Doo",
+            "@offset": "4",
+            "@similarityScore": "0.9999921785812717",
+            "@percentageOfSecondRank": "6.596929076277058E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Horror_film",
+            "@support": "9214",
+            "@types": "",
+            "@surfaceForm": "horror film",
+            "@offset": "21",
+            "@similarityScore": "0.9988990792558556",
+            "@percentageOfSecondRank": "0.0010949275387703043"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Science_fiction_film",
+            "@support": "2775",
+            "@types": "",
+            "@surfaceForm": "science fiction film",
+            "@offset": "37",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

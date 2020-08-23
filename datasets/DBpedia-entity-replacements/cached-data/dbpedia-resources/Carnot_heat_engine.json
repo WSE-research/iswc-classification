@@ -1,0 +1,321 @@
+{
+    "http://dbpedia.org/resource/Nicolas_L\u00e9onard_Sadi_Carnot": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Carnot_heat_engine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carnot_Engine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Carnot_heat_engine"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Carnot_heat_engine": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Carnot_heat_engine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carnot": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Carnot_heat_engine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carnot_engine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Carnot_heat_engine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carnot_heat_engine": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Artifact100021939"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatHotAirEngines"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Machine103699975"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Motor103789946"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Engine103287733"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatEngines"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Instrumentality103575240"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Software"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Device103183080"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "M\u00e1quina de Carnot",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Macchina di Carnot",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Carnot heat engine",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "M\u00e1quina de Carnot",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u5361\u8afe\u71b1\u6a5f",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "La m\u00e1quina de Carnot es una m\u00e1quina ideal que utiliza calor para realizar un trabajo. En ella hay un gas sobre el que se ejerce un proceso c\u00edclico de expansi\u00f3n y compresi\u00f3n entre dos temperaturas. El ciclo termodin\u00e1mico utilizado se denomina ciclo de Carnot y fue estudiado por Sadi Carnot alrededor de 1820. Carnot parte del primer principio de la termodin\u00e1mica que, en su forma diferencial, para una transformaci\u00f3n abierta de un sistema cerrado, se puede escribir as\u00ed:",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "A Carnot heat engine is an engine that operates on the reversible Carnot cycle. The basic model for this engine was developed by Nicolas L\u00e9onard Sadi Carnot in 1824. The Carnot engine model was graphically expanded upon by Beno\u00eet Paul \u00c9mile Clapeyron in 1834 and mathematically elaborated upon by Rudolf Clausius in 1857 from which the concept of entropy emerged.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u5361\u8afe\u71b1\u6a5f\u662f\u4e00\u500b\u4f9d\u5361\u8afe\u5faa\u74b0\u904b\u4f5c\u7684\u865b\u64ec\u5f15\u64ce\uff0c\u5176\u57fa\u672c\u67b6\u69cb\u662f\u7531\u5c3c\u53e4\u62c9\u00b7\u5361\u8bfa\u57281824\u5e74\u5efa\u7acb\uff0c\u57281834\u5e74\u6642\u57c3\u7c73\u5c14\u00b7\u514b\u62c9\u4f69\u9f99\u64f4\u5145\u4e86\u5361\u8afe\u71b1\u6a5f\u7684\u6982\u5ff5\uff0c\u57281857\u53ca1866\u5e74\u63d0\u51fa\u71b5\u7684\u6982\u5ff5\u6642\uff0c\u9b6f\u9053\u592b\u00b7\u514b\u52de\u4fee\u65af\u4e5f\u5c0d\u5361\u8afe\u71b1\u6a5f\u9032\u884c\u6578\u5b78\u7684\u95e1\u8ff0\u3002 \u6bcf\u4e00\u500b\u71b1\u529b\u5b78\u7cfb\u7d71\u90fd\u6709\u5176\u7279\u5b9a\u7684\u72c0\u614b\uff0c\u7576\u4e00\u7cfb\u7d71\u5728\u5e7e\u500b\u4e0d\u540c\u7684\u72c0\u614b\u4e4b\u9593\u8b8a\u5316\uff0c\u6700\u5f8c\u56de\u5230\u539f\u4f86\u7684\u521d\u59cb\u72c0\u614b\u6642\uff0c\u5c31\u7522\u751f\u4e86\u71b1\u529b\u5b78\u5faa\u74b0\u3002\u71b1\u6a5f\u7684\u7279\u6027\u662f\u5728\u71b1\u529b\u5b78\u5faa\u74b0\u7684\u904e\u7a0b\u4e2d\uff0c\u7cfb\u7d71\u6703\u5c0d\u5916\u754c\u4f5c\u529f\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "A m\u00e1quina de Carnot \u00e9 uma m\u00e1quina ideal que utiliza calor para realizar um trabalho. Nela h\u00e1 um g\u00e1s sobre o qual se exerce um processo c\u00edclico de expans\u00e3o e contra\u00e7\u00e3o entre duas temperaturas. O ciclo termodin\u00e2mico utilizado se denomina ciclo de Carnot e foi estudado por Sadi Carnot em torno de 1820. Uma m\u00e1quina de Carnot \u00e9 o procedimento mais eficaz para produzir trabalho a partir de dois reservat\u00f3rios t\u00e9rmicos.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Una macchina di Carnot \u00e8 una macchina termica teorica, che opera con il ciclo di Carnot reversibile. Il concetto base fu sviluppato da Sadi Carnot nel 1824, quindi fu praticamente concepita da Benoit Paul \u00c9mile Clapeyron nel 1834 ed elaborata matematicamente da Rudolf Clausius, in quegli anni, tra il 1850 e il 1860, in cui emerse il concetto di entropia. La macchina di Carnot, come tutte le macchine termiche, serve per convertire calore (che \u00e8 trasferito da una sorgente calda a una fredda) in lavoro.",
+                "lang": "it"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Carnot_heat_engine"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/M\u00e1quina_de_Carnot"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039c\u03b7\u03c7\u03b1\u03bd\u03ae_\u039a\u03b1\u03c1\u03bd\u03cc"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1335241"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uce74\ub974\ub178_\uae30\uad00"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Macchina_di_Carnot"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Carnot_heat_engine"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01tyn"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1335241"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/M\u00e1quina_de_Carnot"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Mesin_Carnot"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Thermodynamic_cycles"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Engines"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Carnot-engine-1824.png"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Carnot_heat_engine"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Carnot_heat_engine?oldid=735321710"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://books.google.com/books?id=tgdJAAAAIAAJ"
+            },
+            {
+                "type": "uri",
+                "value": "https://web.archive.org/web/20120204034518/http:/www.history.rochester.edu/steam/carnot/1943/Section2.htm"
+            },
+            {
+                "type": "uri",
+                "value": "https://archive.org/stream/reflectionsonmot00carnrich"
+            },
+            {
+                "type": "uri",
+                "value": "http://books.google.com/books?id=YcY9AAAAMAAJ"
+            },
+            {
+                "type": "uri",
+                "value": "http://books.google.com/books?id=QX9iIWF3yOMC"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "A m\u00e1quina de Carnot \u00e9 uma m\u00e1quina ideal que utiliza calor para realizar um trabalho. Nela h\u00e1 um g\u00e1s sobre o qual se exerce um processo c\u00edclico de expans\u00e3o e contra\u00e7\u00e3o entre duas temperaturas. O ciclo termodin\u00e2mico utilizado se denomina ciclo de Carnot e foi estudado por Sadi Carnot em torno de 1820. Uma m\u00e1quina de Carnot \u00e9 o procedimento mais eficaz para produzir trabalho a partir de dois reservat\u00f3rios t\u00e9rmicos. Pode construir-se a partir de um cilindro sobre o qual corra um pist\u00e3o unido a uma biela que converte o movimento linear do pist\u00e3o em movimento circular. O cilindro cont\u00e9m uma certa quantidade de um g\u00e1s ideal e a m\u00e1quina funciona intercambiando calor entre duas fontes de temperaturas constantes T1 <T2. As transfer\u00eancias de calor entre as fontes e o g\u00e1s se faz isotermicamente, ou seja, mantendo a temperatura constante. Esta parte do processo \u00e9, portanto, revers\u00edvel. O ciclo se completa com uma expans\u00e3o e uma compress\u00e3o adiab\u00e1ticas, ou seja, sem interc\u00e2mbio de calor, pelo que esta parte do ciclo \u00e9 tamb\u00e9m revers\u00edvel.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "A Carnot heat engine is an engine that operates on the reversible Carnot cycle. The basic model for this engine was developed by Nicolas L\u00e9onard Sadi Carnot in 1824. The Carnot engine model was graphically expanded upon by Beno\u00eet Paul \u00c9mile Clapeyron in 1834 and mathematically elaborated upon by Rudolf Clausius in 1857 from which the concept of entropy emerged. Every thermodynamic system exists in a particular state. A thermodynamic cycle occurs when a system is taken through a series of different states, and finally returned to its initial state. In the process of going through this cycle, the system may perform work on its surroundings, thereby acting as a heat engine. A heat engine acts by transferring energy from a warm region to a cool region of space and, in the process, converting some of that energy to mechanical work. The cycle may also be reversed. The system may be worked upon by an external force, and in the process, it can transfer thermal energy from a cooler system to a warmer one, thereby acting as a refrigerator or heat pump rather than a heat engine.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Una macchina di Carnot \u00e8 una macchina termica teorica, che opera con il ciclo di Carnot reversibile. Il concetto base fu sviluppato da Sadi Carnot nel 1824, quindi fu praticamente concepita da Benoit Paul \u00c9mile Clapeyron nel 1834 ed elaborata matematicamente da Rudolf Clausius, in quegli anni, tra il 1850 e il 1860, in cui emerse il concetto di entropia. La macchina di Carnot, come tutte le macchine termiche, serve per convertire calore (che \u00e8 trasferito da una sorgente calda a una fredda) in lavoro. Nel diagramma in figura, tratto da R\u00e9flexions sur la puissance motrice du feu et sur les machines propres \u00e0 d\u00e9velopper cette puissance (Riflessioni sulla potenza motrice del fuoco e sulle macchine adatte a sviluppare tale potenza) di Carnot, i corpi A e B sono mantenuti ad una temperatura costante, in modo che A sia pi\u00f9 caldo di B. Carnot aveva postulato che il fluido contenuto nel cilindro avrebbe potuto essere qualsiasi sostanza capace di espandersi, come il vapore acqueo, vapori di alcol, o di mercurio, un gas, o aria. Nonostante questo, negli anni la sorgente calda \u00e8 stata realizzata come un bollitore, in cui l'acqua evapora, mentre la sorgente fredda un condensatore a contatto con l'ambiente esterno. Il lavoro \u00e8 dato dal movimento del pistone che era utilizzato, per esempio, per svuotare le miniere dall'acqua. Carnot definiva il lavoro in termini della quantit\u00e0 peso che la macchina era in grado di sollevare a una certa altezza.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u5361\u8afe\u71b1\u6a5f\u662f\u4e00\u500b\u4f9d\u5361\u8afe\u5faa\u74b0\u904b\u4f5c\u7684\u865b\u64ec\u5f15\u64ce\uff0c\u5176\u57fa\u672c\u67b6\u69cb\u662f\u7531\u5c3c\u53e4\u62c9\u00b7\u5361\u8bfa\u57281824\u5e74\u5efa\u7acb\uff0c\u57281834\u5e74\u6642\u57c3\u7c73\u5c14\u00b7\u514b\u62c9\u4f69\u9f99\u64f4\u5145\u4e86\u5361\u8afe\u71b1\u6a5f\u7684\u6982\u5ff5\uff0c\u57281857\u53ca1866\u5e74\u63d0\u51fa\u71b5\u7684\u6982\u5ff5\u6642\uff0c\u9b6f\u9053\u592b\u00b7\u514b\u52de\u4fee\u65af\u4e5f\u5c0d\u5361\u8afe\u71b1\u6a5f\u9032\u884c\u6578\u5b78\u7684\u95e1\u8ff0\u3002 \u6bcf\u4e00\u500b\u71b1\u529b\u5b78\u7cfb\u7d71\u90fd\u6709\u5176\u7279\u5b9a\u7684\u72c0\u614b\uff0c\u7576\u4e00\u7cfb\u7d71\u5728\u5e7e\u500b\u4e0d\u540c\u7684\u72c0\u614b\u4e4b\u9593\u8b8a\u5316\uff0c\u6700\u5f8c\u56de\u5230\u539f\u4f86\u7684\u521d\u59cb\u72c0\u614b\u6642\uff0c\u5c31\u7522\u751f\u4e86\u71b1\u529b\u5b78\u5faa\u74b0\u3002\u71b1\u6a5f\u7684\u7279\u6027\u662f\u5728\u71b1\u529b\u5b78\u5faa\u74b0\u7684\u904e\u7a0b\u4e2d\uff0c\u7cfb\u7d71\u6703\u5c0d\u5916\u754c\u4f5c\u529f\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "La m\u00e1quina de Carnot es una m\u00e1quina ideal que utiliza calor para realizar un trabajo. En ella hay un gas sobre el que se ejerce un proceso c\u00edclico de expansi\u00f3n y compresi\u00f3n entre dos temperaturas. El ciclo termodin\u00e1mico utilizado se denomina ciclo de Carnot y fue estudiado por Sadi Carnot alrededor de 1820. Carnot se propone encontrar el m\u00e1ximo rendimiento que puede tener una m\u00e1quina t\u00e9rmica y en su empe\u00f1o, enuncia el segundo principio de la termodin\u00e1mica en estos t\u00e9rminos: Para poder obtener trabajo mec\u00e1nico del calor, es necesario contar con dos fuentes de calor a distintas temperaturas. Poco se pod\u00eda imaginar la evoluci\u00f3n y la transcendencia de este principio a lo largo de los a\u00f1os en t\u00e9rminos como la entrop\u00eda o la termodin\u00e1mica estad\u00edstica. Carnot parte del primer principio de la termodin\u00e1mica que, en su forma diferencial, para una transformaci\u00f3n abierta de un sistema cerrado, se puede escribir as\u00ed: Teniendo en cuenta el convenio termodin\u00e1mico de signos podr\u00eda expresarse en palabras as\u00ed: El calor aplicado sobre un sistema cerrado, se transforma en un aumento de la energ\u00eda interna del sistema, por aumento de su temperatura, y un trabajo que el sistema realiza contra el medio exterior. La m\u00e1quina puede imaginarse como un cilindro sobre el que discurre un pist\u00f3n, cuyo eje, en su movimiento, empuja un carrito, efectuando un trabajo de desplazamiento, con una fuerza igual a la presi\u00f3n del gas por la superficie del cilindro sobre un espacio igual al recorrido del pist\u00f3n dentro del cilindro. El cilindro contiene una cierta cantidad de un gas ideal y la m\u00e1quina funciona intercambiando calor entre dos fuentes de temperaturas constantes T1 > T2.",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Carnot-engine-1824.png?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 735321710,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 6118,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Engine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Adiabatic_engine": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Carnot_heat_engine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Engine_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Carnot_heat_engine"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carnot_Engines": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Carnot_heat_engine"
+            }
+        ]
+    }
+}

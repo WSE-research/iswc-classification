@@ -1,0 +1,28 @@
+{
+    "@text": "What currencies are prevalent in the countries governed by the President of France?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+            "@support": "51563",
+            "@types": "",
+            "@surfaceForm": "President",
+            "@offset": "63",
+            "@similarityScore": "0.6172173491268719",
+            "@percentageOfSecondRank": "0.2008742784863839"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/France",
+            "@support": "256130",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "France",
+            "@offset": "76",
+            "@similarityScore": "0.9987960944464986",
+            "@percentageOfSecondRank": "3.3907503032169165E-4"
+        }
+    ]
+}

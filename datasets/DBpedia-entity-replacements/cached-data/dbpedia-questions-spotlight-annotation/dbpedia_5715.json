@@ -1,0 +1,37 @@
+{
+    "@text": "\"What is {is in the Indian reserve of} of {Fujian}, which has {borders} of {Afghanistan} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Indian_reserve",
+            "@support": "1999",
+            "@types": "",
+            "@surfaceForm": "Indian reserve",
+            "@offset": "20",
+            "@similarityScore": "0.9452173746038739",
+            "@percentageOfSecondRank": "0.057712455252814085"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Fujian",
+            "@support": "5254",
+            "@types": "",
+            "@surfaceForm": "Fujian",
+            "@offset": "43",
+            "@similarityScore": "0.9999539218975351",
+            "@percentageOfSecondRank": "3.9986218277328713E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Afghanistan",
+            "@support": "48460",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Afghanistan",
+            "@offset": "76",
+            "@similarityScore": "0.9998018830997041",
+            "@percentageOfSecondRank": "6.025697442524799E-5"
+        }
+    ]
+}

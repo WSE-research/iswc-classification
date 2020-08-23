@@ -1,0 +1,28 @@
+{
+    "@text": "Tell the name of military museum with the highest number of visitors per year whose location is les invalides?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Museum",
+            "@support": "19971",
+            "@types": "",
+            "@surfaceForm": "museum",
+            "@offset": "26",
+            "@similarityScore": "0.9997111686150391",
+            "@percentageOfSecondRank": "2.673732044905854E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Les_Invalides",
+            "@support": "605",
+            "@types": "Wikidata:Q41176,Schema:Place,DBpedia:Place,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "les invalides",
+            "@offset": "96",
+            "@similarityScore": "0.9999999999999574",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

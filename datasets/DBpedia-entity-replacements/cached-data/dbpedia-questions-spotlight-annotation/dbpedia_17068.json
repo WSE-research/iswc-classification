@@ -1,0 +1,37 @@
+{
+    "@text": "Is Marcus Aurelius a child of Commodus and Annia Aurelia Galeria Faustina?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Marcus_Aurelius",
+            "@support": "2284",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q116,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Monarch,DBpedia:Agent",
+            "@surfaceForm": "Marcus Aurelius",
+            "@offset": "3",
+            "@similarityScore": "0.9999999999999858",
+            "@percentageOfSecondRank": "9.290713391132366E-15"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Commodus",
+            "@support": "974",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Commodus",
+            "@offset": "30",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "2.3453220210418596E-22"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Annia_Aurelia_Galeria_Faustina",
+            "@support": "14",
+            "@types": "",
+            "@surfaceForm": "Annia Aurelia Galeria Faustina",
+            "@offset": "43",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

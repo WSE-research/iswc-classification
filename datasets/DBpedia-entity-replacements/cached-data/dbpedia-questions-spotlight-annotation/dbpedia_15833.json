@@ -1,0 +1,28 @@
+{
+    "@text": "Are acetaminophen and methoxyflurane drugs used for the treatment of migraines?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Paracetamol",
+            "@support": "1563",
+            "@types": "Wikidata:Q8386,DUL:ChemicalObject,DBpedia:Drug,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "acetaminophen",
+            "@offset": "4",
+            "@similarityScore": "0.9999999999876934",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Methoxyflurane",
+            "@support": "53",
+            "@types": "Wikidata:Q8386,DUL:ChemicalObject,DBpedia:Drug,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "methoxyflurane",
+            "@offset": "22",
+            "@similarityScore": "0.9999999826588067",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

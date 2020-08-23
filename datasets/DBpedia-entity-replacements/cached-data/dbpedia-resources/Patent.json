@@ -1,0 +1,934 @@
+{
+    "http://dbpedia.org/resource/Mexican_Institute_of_Industrial_Property": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pirate_Party_of_Hungary": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Criticism_of_patents_policy": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Public_patent": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chemical_patent": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Charles_L._Coffin": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rights_conferred_by_a_patent": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patent_specification": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Allied_Security_Trust": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pirate_Party_of_Chile": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Lodsys": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fish_&_Richardson": {
+        "http://dbpedia.org/ontology/service": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patent_rights": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Criticism_of_patent_protection": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patent": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Patente",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Patent",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Octrooi",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0628\u0631\u0627\u0621\u0629 \u0627\u062e\u062a\u0631\u0627\u0639",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Patent",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Brevetto",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Patente",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Brevet",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Patent",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0430\u0442\u0435\u043d\u0442",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u7279\u8a31",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e13\u5229",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Ein Patent ist ein hoheitlich erteiltes gewerbliches Schutzrecht f\u00fcr eine Erfindung. Der Inhaber des Patents ist berechtigt, anderen die Nutzung der Erfindung zu untersagen. Das Schutzrecht wird auf Zeit gew\u00e4hrt; in Deutschland gem\u00e4\u00df \u00a7 16 Patentgesetz (PatG) f\u00fcr maximal 20 Jahre.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Un brevet est un titre de propri\u00e9t\u00e9 industrielle qui conf\u00e8re \u00e0 son titulaire un droit d'interdire \u00e0 un tiers l'exploitation de l'invention de l'objet du brevet \u00e0 partir d'une certaine date et pour une dur\u00e9e limit\u00e9e (20 ans en g\u00e9n\u00e9ral, 25 ans maximum). Il convient ainsi de noter qu'un droit de brevet n'est pas un droit d'exploitation, c'est-\u00e0-dire autorisant l'exploitation de l'invention brevet\u00e9e. En effet, le droit d\u2019exploitation peut \u00eatre soumis \u00e0 un autre formalisme tel que par exemple l'obtention d'une autorisation de mise sur le march\u00e9, une certification,...",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Patent \u2013 potocznie: dokument wydawany przez urz\u0119dy patentowe; w\u0142a\u015bciwie: ograniczone w czasie prawa w\u0142a\u015bciciela rozwi\u0105zania technicznego do wy\u0142\u0105cznego korzystania z wynalazku b\u0105d\u017a wynalazk\u00f3w b\u0119d\u0105cych przedmiotem patentu w celach zawodowych lub zarobkowych na terenie pa\u0144stwa, kt\u00f3re decyzj\u0105 administracyjn\u0105 patentu udzieli\u0142o, pod warunkiem wniesienia op\u0142at za co najmniej pierwszy okres ochrony od daty zg\u0142oszenia.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e13\u5229\uff0c\u5373\u5c08\u5229\u6b0a\u7684\u7c21\u7a31\uff0c\u4e3b\u8981\u5206\u70ba\u767c\u660e\u3001\u5b9e\u7528\u65b0\u578b\u53ca\u5de5\u696d\u8a2d\u8a08\u4e09\u7a2e\u985e\u578b\u3002\u5404\u570b\u653f\u5e9c\u8a2d\u7acb\u5c08\u5229\u5236\u5ea6\uff0c\u5176\u76ee\u7684\u5728\u65bc\u9f13\u52f5\u6c11\u773e\u5f9e\u4e8b\u767c\u660e\uff0c\u4fdd\u8b77\u767c\u660e\u4eba\uff08\u6216\u5176\u53d7\u8b93\u4eba\u6216\u7e7c\u627f\u4eba\uff09\u7684\u6b0a\u5229\uff0c\u4e26\u6307\u5c0e\u5c08\u5229\u6b0a\u4eba\u8207\u6c11\u773e\u4ee5\u5408\u6cd5\u3001\u9069\u7576\u7684\u65b9\u5f0f\u5229\u7528\u767c\u660e\uff0c\u4ee5\u4fc3\u9032\u7522\u696d\u767c\u5c55\u3002\u5c08\u5229\u5236\u5ea6\u662f\u8b93\u5c08\u5229\u6b0a\u4eba\u5728\u6cd5\u5b9a\u671f\u9593\uff08\u4f8b\u5982\uff1a20\u5e74\uff09\u5167\u4eab\u6709\u5c08\u5229\u6280\u8853\u7684\u6392\u4ed6\u6b0a\uff08\u6ce8\u610f\uff0c\u4e26\u975e\u7368\u5360\u6b0a\uff09\uff0c\u4f7f\u5176\u4eab\u6709\u5546\u696d\u4e0a\u7684\u7279\u6b0a\u5229\u76ca\uff0c\u4ee5\u9f13\u52f5\u5176\u5c07\u77e5\u8b58\u516c\u958b\u5206\u4eab\u3002\u7576\u5c08\u5229\u6b0a\u6cd5\u5b9a\u671f\u9593\u5c46\u6eff\uff0c\u5c08\u5229\u6b0a\u5373\u544a\u6d88\u6ec5\uff0c\u6c11\u773e\u5373\u53ef\u6839\u64da\u5c08\u5229\u8aaa\u660e\u66f8\u6240\u63ed\u9732\u7684\u5167\u5bb9\uff0c\u81ea\u7531\u904b\u7528\u5176\u5c08\u5229\u6280\u8853\u3002 \u7533\u8acb\u5c08\u5229\uff0c\u5fc5\u9808\u5411\u653f\u5e9c\u6a5f\u95dc\u63d0\u51fa\u300c\u5c08\u5229\u8aaa\u660e\u66f8\u300d\uff0c\u660e\u78ba\u4e14\u5145\u5206\u63ed\u9732\u5176\u767c\u660e\u6280\u8853\u7684\u5167\u5bb9\u5230\u53ef\u5177\u9ad4\u5be6\u65bd\u7684\u5730\u6b65\uff08\u4e0d\u53ef\u50c5\u662f\u6f2b\u5929\u7a7a\u60f3\uff09\uff0c\u4e26\u754c\u5b9a\u8acb\u6c42\u7684\u6b0a\u5229\u7bc4\u570d\u3002\u8acb\u6c42\u7684\u6b0a\u5229\u7bc4\u570d\u5982\u4e0d\u7b26\u5408\u5c08\u5229\u8981\u4ef6\uff08\u4f8b\u5982\uff1a\u767c\u660e\u662f\u65e2\u6709\u7684\u7fd2\u77e5\u6280\u8853\uff09\uff0c\u5c31\u6703\u88ab\u99c1\u56de\uff0c\u7121\u6cd5\u53d6\u5f97\u5c08\u5229\u6b0a\u3002\u7531\u65bc\u5c08\u5229\u8981\u4ef6\u7684\u5224\u65b7\u6d89\u53ca\u4e0d\u78ba\u5b9a\u6cd5\u5f8b\u6982\u5ff5\uff0c\u5c08\u5229\u5c08\u8cac\u6a5f\u95dc\u5c0d\u5c08\u5229\u7bc4\u570d\u5728\u5176\u5224\u65b7\u9918\u5730\u4e2d\u6240\u70ba\u7684\u5c08\u696d\u5224\u65b7\u7d93\u5e38\u5f15\u767c\u722d\u8b70\uff0c\u56e0\u800c\u5c0e\u81f4\u5c08\u5229\u722d\u8a1f\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0628\u0631\u0627\u0621\u0629 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639 \u0647\u064a \u062d\u0642 \u0627\u0645\u062a\u064a\u0627\u0632 \u062e\u0627\u0635 \u064a\u0645\u0646\u062d \u0628\u0634\u0643\u0644 \u0631\u0633\u0645\u064a \u0644\u0645\u062e\u062a\u0631\u0639 \u0641\u064a \u0641\u062a\u0631\u0629 \u0632\u0645\u0646\u064a\u0629 \u0645\u062d\u062f\u062f\u0629 \u0645\u0642\u0627\u0628\u0644 \u0633\u0645\u0627\u062d\u0647 \u0644\u0644\u0639\u0627\u0645\u0629 \u0628\u0627\u0644\u0627\u0637\u0644\u0627\u0639 \u0639\u0644\u0649 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639. \u0648\u0628\u0634\u0643\u0644 \u0639\u0627\u0645 \u0641\u0625\u0646 \u0627\u0644\u062d\u0642 \u0627\u0644\u0630\u064a \u064a\u064f\u0645\u0646\u062d \u0644\u0635\u0627\u062d\u0628 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639 \u0647\u0648 \u0645\u0646\u0639 \u0627\u0644\u0622\u062e\u0631\u064a\u0646 \u0645\u0646 \u0635\u0646\u0627\u0639\u0629 \u0623\u0648 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0623\u0648 \u0628\u064a\u0639 \u0623\u0648 \u0639\u0631\u0636 \u0630\u0644\u0643 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639 \u062f\u0648\u0646 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0645\u0648\u0627\u0641\u0642\u0629 \u0645\u0646 \u0635\u0627\u062d\u0628 \u0628\u0631\u0627\u0621\u0629 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Een octrooi of patent is een exclusief (uitsluitend) recht tot het industrieel maken of verkopen van een product of anderszins het exploiteren van een uitvinding. Een octrooi kan door de rechthebbende worden gebruikt als een monopolie op een bepaald stuk techniek.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Il brevetto (o pi\u00f9 propriamente brevetto per invenzione) \u00e8 un titolo giuridico in forza del quale al titolare viene conferito un diritto esclusivo di sfruttamento dell'invenzione, in un territorio e per un periodo ben determinati, e che consente di impedire ad altri di produrre, vendere o utilizzare l'invenzione senza autorizzazione. Per invenzione si intende una soluzione nuova ed originale ad un certo problema tecnico. Essa pu\u00f2 riguardare un prodotto o un processo (metodo, procedimento).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Uma patente, na sua formula\u00e7\u00e3o cl\u00e1ssica, \u00e9 uma concess\u00e3o p\u00fablica, conferida pelo Estado, que garante ao seu titular a exclusividade ao explorar comercialmente a sua cria\u00e7\u00e3o. Em contrapartida, \u00e9 disponibilizado acesso ao p\u00fablico sobre o conhecimento dos pontos essenciais e as reivindica\u00e7\u00f5es que caracterizam a novidade no invento. Os registros de patentes, por estarem dispon\u00edveis em bancos de dados de livre acesso, constituem grandes bases de conhecimento tecnol\u00f3gico, que podem ser usadas em pesquisas de diversas \u00e1reas.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Una patente es un conjunto de derechos exclusivos concedidos por un Estado al inventor de un nuevo producto o tecnolog\u00eda, susceptibles de ser explotados comercialmente por un per\u00edodo limitado de tiempo, a cambio de la divulgaci\u00f3n de la invenci\u00f3n. El registro de la patente constituye la creaci\u00f3n de un monopolio de manera artificial, y se enmarca dentro de la propiedad industrial, que a su vez forma parte del r\u00e9gimen de propiedad intelectual.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u7279\u8a31\uff08\u3068\u3063\u304d\u3087\u3001\u82f1: Patent\u3001\u30d1\u30c6\u30f3\u30c8\uff09\u3068\u306f\u3001\u6cd5\u4ee4\u306e\u5b9a\u3081\u308b\u624b\u7d9a\u306b\u3088\u308a\u3001\u56fd\u304c\u767a\u660e\u8005\u307e\u305f\u306f\u305d\u306e\u627f\u7d99\u4eba\u306b\u5bfe\u3057\u3001\u7279\u8a31\u6a29\u3092\u4ed8\u4e0e\u3059\u308b\u884c\u653f\u884c\u70ba\u3002\u56fd\u5225\u306e\u7279\u8a31\u5236\u5ea6\u306b\u3064\u3044\u3066\u306f\u53f3\u306b\u63b2\u3052\u305f\u5404\u9805\u76ee\u3092\u53c2\u7167\u3055\u308c\u305f\u3044\u3002 \n*  \u65e5\u672c\u306e\u7279\u8a31\u5236\u5ea6 \n*  \u7c73\u56fd\u306e\u7279\u8a31\u5236\u5ea6 \n*  \u30e8\u30fc\u30ed\u30c3\u30d1\u306e\u7279\u8a31\u5236\u5ea6 \n*  \u4e2d\u56fd\u306e\u7279\u8a31\u5236\u5ea6 \n*  \u97d3\u56fd\u306e\u7279\u8a31\u5236\u5ea6",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "A patent (/\u02c8p\u00e6t\u0259nt/ or /\u02c8pe\u026at\u0259nt/) is a set of exclusive rights granted by a sovereign state to an inventor or assignee for a limited period of time in exchange for detailed public disclosure of an invention. An invention is a solution to a specific technological problem and is a product or a process. Patents are a form of intellectual property.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0430\u0442\u0435\u0301\u043d\u0442 (\u043e\u0442 \u043b\u0430\u0442. patens \u2014 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439, \u044f\u0441\u043d\u044b\u0439, \u043e\u0447\u0435\u0432\u0438\u0434\u043d\u044b\u0439 \u043e\u0442 \u043f\u043e\u043b\u043d\u043e\u0433\u043e \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u044f \u2014 litterae patentes \u2014 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u043f\u0438\u0441\u044c\u043c\u043e) \u2014 \u043e\u0445\u0440\u0430\u043d\u043d\u044b\u0439 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u0443\u0434\u043e\u0441\u0442\u043e\u0432\u0435\u0440\u044f\u044e\u0449\u0438\u0439 \u0438\u0441\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0430\u0432\u043e, \u0430\u0432\u0442\u043e\u0440\u0441\u0442\u0432\u043e \u0438 \u043f\u0440\u0438\u043e\u0440\u0438\u0442\u0435\u0442 \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u044f, \u043f\u043e\u043b\u0435\u0437\u043d\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u0438 \u043b\u0438\u0431\u043e \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u0446\u0430. \u0421\u0440\u043e\u043a \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043f\u0430\u0442\u0435\u043d\u0442\u0430 \u0437\u0430\u0432\u0438\u0441\u0438\u0442 \u043e\u0442 \u0441\u0442\u0440\u0430\u043d\u044b \u043f\u0430\u0442\u0435\u043d\u0442\u043e\u0432\u0430\u043d\u0438\u044f, \u043e\u0431\u044a\u0435\u043a\u0442\u0430 \u043f\u0430\u0442\u0435\u043d\u0442\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043e\u0442 5 \u0434\u043e 25 \u043b\u0435\u0442.[\u0433\u0434\u0435?]",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Societal_views_on_patents"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent_law_by_countries"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Regions"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4044874-5"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Patent"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Brevetto"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q253623"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u7279\u8a31"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Patent"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.05sq5"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Brevet"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ud2b9\ud5c8"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Octrooi"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Patente"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Paten"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Patente"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Patente"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q253623"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Patent"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0395\u03c5\u03c1\u03b5\u03c3\u03b9\u03c4\u03b5\u03c7\u03bd\u03af\u03b1"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Public_records"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Monopoly_(economics)"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Patent_law"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/US_Patent_cover.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Patent"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Patent?oldid=745146060"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.epo.org/topics/ip-webguide.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://stats.oecd.org/Index.aspx?DataSetCode=PATS_IPC"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.econlib.org/library/Enc1/Patents.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wipo.int/directory/en/urls.jsp"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "A patent (/\u02c8p\u00e6t\u0259nt/ or /\u02c8pe\u026at\u0259nt/) is a set of exclusive rights granted by a sovereign state to an inventor or assignee for a limited period of time in exchange for detailed public disclosure of an invention. An invention is a solution to a specific technological problem and is a product or a process. Patents are a form of intellectual property. The procedure for granting patents, requirements placed on the patentee, and the extent of the exclusive rights vary widely between countries according to national laws and international agreements. Typically, however, a granted patent application must include one or more claims that define the invention. A patent may include many claims, each of which defines a specific property right. These claims must meet relevant patentability requirements, such as novelty, usefulness, and non-obviousness. The exclusive right granted to a patentee in most countries is the right to prevent others, or at least to try to prevent others, from commercially making, using, selling, importing, or distributing a patented invention without permission. Under the World Trade Organization's (WTO) Agreement on Trade-Related Aspects of Intellectual Property Rights, patents should be available in WTO member states for any invention, in all fields of technology, and the term of protection available should be a minimum of twenty years. Nevertheless, there are variations on what is patentable subject matter from country to country.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Uma patente, na sua formula\u00e7\u00e3o cl\u00e1ssica, \u00e9 uma concess\u00e3o p\u00fablica, conferida pelo Estado, que garante ao seu titular a exclusividade ao explorar comercialmente a sua cria\u00e7\u00e3o. Em contrapartida, \u00e9 disponibilizado acesso ao p\u00fablico sobre o conhecimento dos pontos essenciais e as reivindica\u00e7\u00f5es que caracterizam a novidade no invento. Os registros de patentes, por estarem dispon\u00edveis em bancos de dados de livre acesso, constituem grandes bases de conhecimento tecnol\u00f3gico, que podem ser usadas em pesquisas de diversas \u00e1reas. Os direitos exclusivos garantidos pela patente referem-se ao direito de preven\u00e7\u00e3o de outros de fabricarem, usarem, venderem, oferecerem, venderem ou importarem a dita inven\u00e7\u00e3o. Diz-se tamb\u00e9m patente (mas, no Brasil, com maior precis\u00e3o, carta-patente) o documento legal que representa o conjunto de direitos exclusivos concedidos pelo Estado a um inventor. A patente insere-se nos denominados direitos de Propriedade Industrial cujos normativos legais s\u00e3o em Portugal o C\u00f3digo da Propriedade Industrial e no Brasil a Lei da Propriedade Industrial Outras modalidades de direito referentes \u00e0 Propriedade Industrial, s\u00e3o a t\u00edtulo de exemplo: \n*  Modelo de utilidade \n*  Desenho industrial (Brasil) / Desenho ou Modelo (Portugal) \n*  Topografia de Produtos Semicondutores (Portugal) \n*  Marcas (sendo estas divididas em marcas comerciais ou marcas comerciais n\u00e3o-registadas e em marcas registradas ou marcas comerciais registradas) \n*  Log\u00f3tipo",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Un brevet est un titre de propri\u00e9t\u00e9 industrielle qui conf\u00e8re \u00e0 son titulaire un droit d'interdire \u00e0 un tiers l'exploitation de l'invention de l'objet du brevet \u00e0 partir d'une certaine date et pour une dur\u00e9e limit\u00e9e (20 ans en g\u00e9n\u00e9ral, 25 ans maximum). Il convient ainsi de noter qu'un droit de brevet n'est pas un droit d'exploitation, c'est-\u00e0-dire autorisant l'exploitation de l'invention brevet\u00e9e. En effet, le droit d\u2019exploitation peut \u00eatre soumis \u00e0 un autre formalisme tel que par exemple l'obtention d'une autorisation de mise sur le march\u00e9, une certification,... Certains \u00c9tats peuvent au moment de l'inscription d\u00e9livrer un \u00ab brevet provisoire \u00bb, et peuvent accorder un \u00ab d\u00e9lai de gr\u00e2ce \u00bb qui \u00e9vite la nullit\u00e9 du brevet pour un inventeur ayant expos\u00e9 son invention avant le d\u00e9p\u00f4t de brevet, dans un cadre non confidentiel, avec comme avantage de permettre la diffusion rapide des connaissances techniques tout en r\u00e9servant l'exploitation industrielle de l'invention, mais avec quelques inconv\u00e9nients. Selon les pays c'est le premier \u00ab inventeur \u00bb ou le premier \u00ab d\u00e9posant \u00bb (en Europe) qui a priorit\u00e9 pour le brevet. Le brevet n'est valable que sur un territoire d\u00e9termin\u00e9, pour un \u00c9tat d\u00e9termin\u00e9. Il est possible de d\u00e9poser une demande de brevet aupr\u00e8s d'un \u00c9tat (aupr\u00e8s de l'INPI pour la France, de l'USPTO pour les \u00c9tats-Unis, du JPO pour le Japon\u2026), ou aupr\u00e8s d'un groupe de pays (aupr\u00e8s de l'OEB pour 38 pays europ\u00e9ens, d\u00e9p\u00f4t d'une demande internationale de brevet pour les 142 pays signataires du Trait\u00e9 de coop\u00e9ration en mati\u00e8re de brevets, dite demande PCT). Ainsi, une demande de brevet peut couvrir plusieurs \u00c9tats, mais \u00e0 la d\u00e9livrance, il y a toujours autant de brevets nationaux que d'\u00c9tats o\u00f9 une protection est recherch\u00e9e. En contrepartie du droit d'interdire, pour le titulaire du brevet, \u00e0 autrui de reproduire l'invention sans son autorisation, l'invention doit \u00eatre divulgu\u00e9e dans le texte du brevet de mani\u00e8re pleine et enti\u00e8re de mani\u00e8re \u00e0 ce que quiconque puisse la reproduire. En pratique, les demandes de brevet sont automatiquement publi\u00e9es \u00e0 l'issue d'une p\u00e9riode de 18 mois apr\u00e8s la date de priorit\u00e9, c'est-\u00e0-dire le premier d\u00e9p\u00f4t. En Europe, des brevets sur des dispositifs m\u00e9dicaux, des produits pharmaceutiques ou phytosanitaires peuvent \u00eatre prolong\u00e9s de 5 ans au plus sous r\u00e9serve de l'obtention d'un certificat compl\u00e9mentaire de protection (r\u00e8glement CE 1768/92).",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u4e13\u5229\uff0c\u5373\u5c08\u5229\u6b0a\u7684\u7c21\u7a31\uff0c\u4e3b\u8981\u5206\u70ba\u767c\u660e\u3001\u5b9e\u7528\u65b0\u578b\u53ca\u5de5\u696d\u8a2d\u8a08\u4e09\u7a2e\u985e\u578b\u3002\u5404\u570b\u653f\u5e9c\u8a2d\u7acb\u5c08\u5229\u5236\u5ea6\uff0c\u5176\u76ee\u7684\u5728\u65bc\u9f13\u52f5\u6c11\u773e\u5f9e\u4e8b\u767c\u660e\uff0c\u4fdd\u8b77\u767c\u660e\u4eba\uff08\u6216\u5176\u53d7\u8b93\u4eba\u6216\u7e7c\u627f\u4eba\uff09\u7684\u6b0a\u5229\uff0c\u4e26\u6307\u5c0e\u5c08\u5229\u6b0a\u4eba\u8207\u6c11\u773e\u4ee5\u5408\u6cd5\u3001\u9069\u7576\u7684\u65b9\u5f0f\u5229\u7528\u767c\u660e\uff0c\u4ee5\u4fc3\u9032\u7522\u696d\u767c\u5c55\u3002\u5c08\u5229\u5236\u5ea6\u662f\u8b93\u5c08\u5229\u6b0a\u4eba\u5728\u6cd5\u5b9a\u671f\u9593\uff08\u4f8b\u5982\uff1a20\u5e74\uff09\u5167\u4eab\u6709\u5c08\u5229\u6280\u8853\u7684\u6392\u4ed6\u6b0a\uff08\u6ce8\u610f\uff0c\u4e26\u975e\u7368\u5360\u6b0a\uff09\uff0c\u4f7f\u5176\u4eab\u6709\u5546\u696d\u4e0a\u7684\u7279\u6b0a\u5229\u76ca\uff0c\u4ee5\u9f13\u52f5\u5176\u5c07\u77e5\u8b58\u516c\u958b\u5206\u4eab\u3002\u7576\u5c08\u5229\u6b0a\u6cd5\u5b9a\u671f\u9593\u5c46\u6eff\uff0c\u5c08\u5229\u6b0a\u5373\u544a\u6d88\u6ec5\uff0c\u6c11\u773e\u5373\u53ef\u6839\u64da\u5c08\u5229\u8aaa\u660e\u66f8\u6240\u63ed\u9732\u7684\u5167\u5bb9\uff0c\u81ea\u7531\u904b\u7528\u5176\u5c08\u5229\u6280\u8853\u3002 \u7533\u8acb\u5c08\u5229\uff0c\u5fc5\u9808\u5411\u653f\u5e9c\u6a5f\u95dc\u63d0\u51fa\u300c\u5c08\u5229\u8aaa\u660e\u66f8\u300d\uff0c\u660e\u78ba\u4e14\u5145\u5206\u63ed\u9732\u5176\u767c\u660e\u6280\u8853\u7684\u5167\u5bb9\u5230\u53ef\u5177\u9ad4\u5be6\u65bd\u7684\u5730\u6b65\uff08\u4e0d\u53ef\u50c5\u662f\u6f2b\u5929\u7a7a\u60f3\uff09\uff0c\u4e26\u754c\u5b9a\u8acb\u6c42\u7684\u6b0a\u5229\u7bc4\u570d\u3002\u8acb\u6c42\u7684\u6b0a\u5229\u7bc4\u570d\u5982\u4e0d\u7b26\u5408\u5c08\u5229\u8981\u4ef6\uff08\u4f8b\u5982\uff1a\u767c\u660e\u662f\u65e2\u6709\u7684\u7fd2\u77e5\u6280\u8853\uff09\uff0c\u5c31\u6703\u88ab\u99c1\u56de\uff0c\u7121\u6cd5\u53d6\u5f97\u5c08\u5229\u6b0a\u3002\u7531\u65bc\u5c08\u5229\u8981\u4ef6\u7684\u5224\u65b7\u6d89\u53ca\u4e0d\u78ba\u5b9a\u6cd5\u5f8b\u6982\u5ff5\uff0c\u5c08\u5229\u5c08\u8cac\u6a5f\u95dc\u5c0d\u5c08\u5229\u7bc4\u570d\u5728\u5176\u5224\u65b7\u9918\u5730\u4e2d\u6240\u70ba\u7684\u5c08\u696d\u5224\u65b7\u7d93\u5e38\u5f15\u767c\u722d\u8b70\uff0c\u56e0\u800c\u5c0e\u81f4\u5c08\u5229\u722d\u8a1f\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Il brevetto (o pi\u00f9 propriamente brevetto per invenzione) \u00e8 un titolo giuridico in forza del quale al titolare viene conferito un diritto esclusivo di sfruttamento dell'invenzione, in un territorio e per un periodo ben determinati, e che consente di impedire ad altri di produrre, vendere o utilizzare l'invenzione senza autorizzazione. Anche se nella maggior parte dei casi il titolare di un brevetto ottiene anche il monopolio del relativo mercato, questo non avviene sempre: il titolare di un brevetto potrebbe infatti trovarsi comunque nell'impossibilit\u00e0 di vendere il prodotto che incorpora l'invenzione brevettata, per esempio a causa di brevetti precedenti di propriet\u00e0 di terzi. Per invenzione si intende una soluzione nuova ed originale ad un certo problema tecnico. Essa pu\u00f2 riguardare un prodotto o un processo (metodo, procedimento). Il diritto relativo al brevetto per invenzione appartiene al campo della cosiddetta propriet\u00e0 intellettuale, unitamente al diritto d'autore e ai marchi. In Italia, come anche in altri paesi, esiste un'altra forma di brevetto, cio\u00e8 il brevetto per modello di utilit\u00e0, che protegge i nuovi modelli, consistenti ad esempio in particolari conformazioni o combinazioni di parti pi\u00f9 comode o efficaci rispetto a quanto gi\u00e0 noto e ha validit\u00e0 pari a 10 anni. In passato erano sottoposti a brevettazione anche i disegni e modelli ornamentali, ma oggi sono oggetto di registrazione. \u00c8 a volte difficile distinguere un modello di utilit\u00e0 da un'invenzione. Molti considerano il modello di utilit\u00e0 come \u201cuna piccola invenzione\u201d. Si dice anche che si ha invenzione quando si realizza un prodotto nuovo, mentre si ha modello di utilit\u00e0 quando si migliora un prodotto gi\u00e0 esistente.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0628\u0631\u0627\u0621\u0629 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639 \u0647\u064a \u062d\u0642 \u0627\u0645\u062a\u064a\u0627\u0632 \u062e\u0627\u0635 \u064a\u0645\u0646\u062d \u0628\u0634\u0643\u0644 \u0631\u0633\u0645\u064a \u0644\u0645\u062e\u062a\u0631\u0639 \u0641\u064a \u0641\u062a\u0631\u0629 \u0632\u0645\u0646\u064a\u0629 \u0645\u062d\u062f\u062f\u0629 \u0645\u0642\u0627\u0628\u0644 \u0633\u0645\u0627\u062d\u0647 \u0644\u0644\u0639\u0627\u0645\u0629 \u0628\u0627\u0644\u0627\u0637\u0644\u0627\u0639 \u0639\u0644\u0649 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639. \u0648\u0628\u0634\u0643\u0644 \u0639\u0627\u0645 \u0641\u0625\u0646 \u0627\u0644\u062d\u0642 \u0627\u0644\u0630\u064a \u064a\u064f\u0645\u0646\u062d \u0644\u0635\u0627\u062d\u0628 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639 \u0647\u0648 \u0645\u0646\u0639 \u0627\u0644\u0622\u062e\u0631\u064a\u0646 \u0645\u0646 \u0635\u0646\u0627\u0639\u0629 \u0623\u0648 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0623\u0648 \u0628\u064a\u0639 \u0623\u0648 \u0639\u0631\u0636 \u0630\u0644\u0643 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639 \u062f\u0648\u0646 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0645\u0648\u0627\u0641\u0642\u0629 \u0645\u0646 \u0635\u0627\u062d\u0628 \u0628\u0631\u0627\u0621\u0629 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639. \u0625\u062c\u0631\u0627\u0621\u0627\u062a \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0628\u0631\u0627\u0621\u0629 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639 \u0648\u0627\u0644\u0645\u062a\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0645\u0641\u0631\u0648\u0636\u0629 \u0639\u0644\u0649 \u0627\u0644\u0645\u062e\u062a\u0631\u0639 \u0648\u0645\u062f\u0649 \u0627\u0644\u062d\u0642\u0648\u0642 \u0627\u0644\u062e\u0627\u0635\u0629 \u0644\u0644\u0645\u062e\u062a\u0631\u0639 \u0645\u062e\u062a\u0644\u0641\u0629 \u0628\u064a\u0646 \u0627\u0644\u062f\u0648\u0644 \u0628\u062d\u0633\u0628 \u0642\u0648\u0627\u0646\u064a\u0646 \u0627\u0644\u062f\u0648\u0644\u0629 \u0646\u0641\u0633\u0647\u0627 \u0648\u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0627\u062a \u0627\u0644\u062f\u0648\u0644\u064a\u0629. \u0637\u0644\u0628 \u0628\u0631\u0627\u0621\u0629 \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639 \u064a\u062c\u0628 \u0623\u0646 \u064a\u062a\u0636\u0645\u0646 \u0639\u0644\u0649 \u0627\u0644\u0623\u0642\u0644 \u0634\u064a\u0626\u0627\u064b \u062c\u062f\u064a\u062f\u0627\u064b \u0648\u0645\u0628\u062a\u0643\u0631\u0627\u064b \u0648\u0645\u0641\u064a\u062f\u0627\u064b \u0623\u0648 \u062a\u0637\u0628\u064a\u0642\u0627\u064b \u0635\u0646\u0627\u0639\u064a\u0627\u064b. \u0648\u0641\u064a \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u062f\u0648\u0644 \u0647\u0646\u0627\u0643 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u0623\u0634\u064a\u0627\u0621 \u0627\u0644\u062a\u064a \u0644\u0627 \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u062a\u0645 \u062d\u0645\u0627\u064a\u062a\u0647\u0627 \u0628\u0628\u0631\u0627\u0621\u0627\u062a \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0639\u060c \u0645\u062b\u0644 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u0639\u0642\u0644\u064a\u0629 \u0623\u0648 \u0637\u0631\u0642 \u062a\u0646\u0641\u064a\u0630 \u0627\u0644\u0623\u0639\u0645\u0627\u0644.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u7279\u8a31\uff08\u3068\u3063\u304d\u3087\u3001\u82f1: Patent\u3001\u30d1\u30c6\u30f3\u30c8\uff09\u3068\u306f\u3001\u6cd5\u4ee4\u306e\u5b9a\u3081\u308b\u624b\u7d9a\u306b\u3088\u308a\u3001\u56fd\u304c\u767a\u660e\u8005\u307e\u305f\u306f\u305d\u306e\u627f\u7d99\u4eba\u306b\u5bfe\u3057\u3001\u7279\u8a31\u6a29\u3092\u4ed8\u4e0e\u3059\u308b\u884c\u653f\u884c\u70ba\u3002\u56fd\u5225\u306e\u7279\u8a31\u5236\u5ea6\u306b\u3064\u3044\u3066\u306f\u53f3\u306b\u63b2\u3052\u305f\u5404\u9805\u76ee\u3092\u53c2\u7167\u3055\u308c\u305f\u3044\u3002 \n*  \u65e5\u672c\u306e\u7279\u8a31\u5236\u5ea6 \n*  \u7c73\u56fd\u306e\u7279\u8a31\u5236\u5ea6 \n*  \u30e8\u30fc\u30ed\u30c3\u30d1\u306e\u7279\u8a31\u5236\u5ea6 \n*  \u4e2d\u56fd\u306e\u7279\u8a31\u5236\u5ea6 \n*  \u97d3\u56fd\u306e\u7279\u8a31\u5236\u5ea6",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Een octrooi of patent is een exclusief (uitsluitend) recht tot het industrieel maken of verkopen van een product of anderszins het exploiteren van een uitvinding. Een octrooi kan door de rechthebbende worden gebruikt als een monopolie op een bepaald stuk techniek. Een octrooi geeft de octrooihouder het recht om anderen te verbieden de uitvinding bedrijfsmatig toe te passen (bijvoorbeeld te vervaardigen, in te voeren, te gebruiken, in voorraad te hebben enzovoorts). Het is echter geen actieve bescherming: de octrooihouder dient zelf stappen te nemen als hij vermoedt dat zijn rechten worden aangetast. Een octrooihouder heeft niet automatisch op basis van het verleende octrooi het recht om de uitvinding toe te passen. In veel gevallen zijn daarvoor nadere vergunningen nodig, bijvoorbeeld op grond van de warenwet of op grond van de milieuwetgeving. Het is ook mogelijk dat octrooirechten van anderen toepassing van de uitvinding in de weg staan.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Ein Patent ist ein hoheitlich erteiltes gewerbliches Schutzrecht f\u00fcr eine Erfindung. Der Inhaber des Patents ist berechtigt, anderen die Nutzung der Erfindung zu untersagen. Das Schutzrecht wird auf Zeit gew\u00e4hrt; in Deutschland gem\u00e4\u00df \u00a7 16 Patentgesetz (PatG) f\u00fcr maximal 20 Jahre. Das deutsche Wort wurde im 17. Jahrhundert aus dem franz\u00f6sischen patente (\u201eBestallungsbrief, Gewerbeschein\u201c) entlehnt. Dieses ist gek\u00fcrzt aus lettre patente (\u201eoffener Brief\u201c) und geht auf das lateinische (littera) patens (\u201eoffener (Beglaubigungs-)Brief des Landesherrn\u201c) zur\u00fcck. Urspr\u00fcnglich war \u201eeine Urkunde \u00fcber bestimmte Rechte\u201c gemeint, die heute \u00fcberwiegende Bedeutung entwickelte sich mit dem modernen Patentwesen seit dem 19. Jahrhundert.J\u00e4hrlich werden \u00fcber 2 Millionen Patente beantragt.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Patent \u2013 potocznie: dokument wydawany przez urz\u0119dy patentowe; w\u0142a\u015bciwie: ograniczone w czasie prawa w\u0142a\u015bciciela rozwi\u0105zania technicznego do wy\u0142\u0105cznego korzystania z wynalazku b\u0105d\u017a wynalazk\u00f3w b\u0119d\u0105cych przedmiotem patentu w celach zawodowych lub zarobkowych na terenie pa\u0144stwa, kt\u00f3re decyzj\u0105 administracyjn\u0105 patentu udzieli\u0142o, pod warunkiem wniesienia op\u0142at za co najmniej pierwszy okres ochrony od daty zg\u0142oszenia. Przyznanie patentu nie oznacza automatycznie przyznania prawa do korzystania z opatentowanego wynalazku. Mo\u017ce to wynika\u0107 z obowi\u0105zuj\u0105cych w danym kraju innych regulacji prawnych, b\u0105d\u017a te\u017c dlatego, \u017ce urzeczywistnienie wynalazku poci\u0105ga za sob\u0105 naruszenie innych patent\u00f3w. Na przyk\u0142ad: posiadacz patentu na konstrukcj\u0119 broni niekoniecznie b\u0119dzie mia\u0142 prawo tak\u0105 bro\u0144 wytworzy\u0107, a posiadacz patentu na now\u0105 konstrukcj\u0119 opon mo\u017ce mie\u0107 problem z patentami na zastosowanie konkretnego sk\u0142adu gumy do opon, opatentowanego przez inn\u0105 osob\u0119. W ostatnich latach toczy si\u0119 te\u017c publiczny sp\u00f3r na temat patent\u00f3w na oprogramowanie, kt\u00f3ry ogniskuje si\u0119 wok\u00f3\u0142 przyj\u0119cia lub odrzucenia przez Uni\u0119 Europejsk\u0105 regulacji opartych na ameryka\u0144skim prawie patentowym.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u041f\u0430\u0442\u0435\u0301\u043d\u0442 (\u043e\u0442 \u043b\u0430\u0442. patens \u2014 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439, \u044f\u0441\u043d\u044b\u0439, \u043e\u0447\u0435\u0432\u0438\u0434\u043d\u044b\u0439 \u043e\u0442 \u043f\u043e\u043b\u043d\u043e\u0433\u043e \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u044f \u2014 litterae patentes \u2014 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u043f\u0438\u0441\u044c\u043c\u043e) \u2014 \u043e\u0445\u0440\u0430\u043d\u043d\u044b\u0439 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u0443\u0434\u043e\u0441\u0442\u043e\u0432\u0435\u0440\u044f\u044e\u0449\u0438\u0439 \u0438\u0441\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0430\u0432\u043e, \u0430\u0432\u0442\u043e\u0440\u0441\u0442\u0432\u043e \u0438 \u043f\u0440\u0438\u043e\u0440\u0438\u0442\u0435\u0442 \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u044f, \u043f\u043e\u043b\u0435\u0437\u043d\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u0438 \u043b\u0438\u0431\u043e \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u0446\u0430. \u0421\u0440\u043e\u043a \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043f\u0430\u0442\u0435\u043d\u0442\u0430 \u0437\u0430\u0432\u0438\u0441\u0438\u0442 \u043e\u0442 \u0441\u0442\u0440\u0430\u043d\u044b \u043f\u0430\u0442\u0435\u043d\u0442\u043e\u0432\u0430\u043d\u0438\u044f, \u043e\u0431\u044a\u0435\u043a\u0442\u0430 \u043f\u0430\u0442\u0435\u043d\u0442\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043e\u0442 5 \u0434\u043e 25 \u043b\u0435\u0442.[\u0433\u0434\u0435?] \u041f\u0430\u0442\u0435\u043d\u0442 \u0432\u044b\u0434\u0430\u0435\u0442\u0441\u044f \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u043e\u0440\u0433\u0430\u043d\u043e\u043c \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0432\u043b\u0430\u0441\u0442\u0438 \u043f\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438; \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0432 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0442\u0430\u043a\u0438\u043c \u043e\u0440\u0433\u0430\u043d\u043e\u043c \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0420\u043e\u0441\u043f\u0430\u0442\u0435\u043d\u0442, \u0432 \u0421\u0428\u0410 \u2014 \u0411\u044e\u0440\u043e \u043f\u043e \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u043f\u0430\u0442\u0435\u043d\u0442\u043e\u0432 \u0438 \u0442\u043e\u0440\u0433\u043e\u0432\u044b\u0445 \u043c\u0430\u0440\u043e\u043a \u0421\u0428\u0410. \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0435 \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u044f\u044e\u0442 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u0430\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438 (\u0432\u044b\u043f\u043e\u043b\u043d\u044f\u044e\u0449\u0430\u044f, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435, \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u043f\u0440\u0438 \u041e\u041e\u041d), \u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0435 \u0431\u044e\u0440\u043e \u043f\u043e \u043e\u0445\u0440\u0430\u043d\u0435 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u0438 \u0434\u0440\u0443\u0433\u0438\u0435. \u0412\u043e \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u044d\u0442\u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u0443\u044e\u0442\u0441\u044f, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435, \u00ab\u0421\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u0435\u043c \u043f\u043e \u0442\u043e\u0440\u0433\u043e\u0432\u044b\u043c \u0430\u0441\u043f\u0435\u043a\u0442\u0430\u043c \u043f\u0440\u0430\u0432 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438\u00bb. \u041f\u043e\u0434 \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u0435\u043c \u043f\u043e\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u0432 \u043b\u044e\u0431\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438, \u043e\u0442\u043d\u043e\u0441\u044f\u0449\u0435\u0435\u0441\u044f \u043a \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0443 (\u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0443, \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0443), \u0441\u043f\u043e\u0441\u043e\u0431\u0443 (\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0443 \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u0435\u043d\u0438\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u043d\u0430\u0434 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u044b\u043c \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u043c \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432) \u0438\u043b\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044e (\u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0443\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430 \u0438\u043b\u0438 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430 \u043f\u043e \u043d\u043e\u0432\u043e\u043c\u0443 \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044e). \u041f\u0440\u0430\u0432\u043e\u0432\u0430\u044f \u043e\u0445\u0440\u0430\u043d\u0430, \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043f\u0430\u0442\u0435\u043d\u0442, \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u0440\u0435\u0448\u0435\u043d\u0438\u0435, \u0430 \u043d\u0435 \u0437\u0430\u0434\u0430\u0447\u0443. \u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0414\u0436\u0435\u0439\u043c\u0441 \u0423\u0430\u0442\u0442, \u0447\u0442\u043e\u0431\u044b \u0440\u0435\u0448\u0438\u0442\u044c \u0437\u0430\u0434\u0430\u0447\u0443 \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0432\u043e\u0437\u0432\u0440\u0430\u0442\u043d\u043e-\u043f\u043e\u0441\u0442\u0443\u043f\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0432\u043e \u0432\u0440\u0430\u0449\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0438 \u043e\u0431\u043e\u0439\u0442\u0438 \u043f\u0430\u0442\u0435\u043d\u0442 \u043d\u0430 \u043a\u0440\u0438\u0432\u043e\u0448\u0438\u043f\u043d\u043e-\u0448\u0430\u0442\u0443\u043d\u043d\u044b\u0439 \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c, \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u043b \u0432 \u0441\u0432\u043e\u0435\u0439 \u043f\u0435\u0440\u0432\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u0438 \u043f\u0430\u0440\u043e\u0432\u043e\u0439 \u043c\u0430\u0448\u0438\u043d\u044b, \u0432\u043c\u0435\u0441\u0442\u043e \u043a\u0440\u0438\u0432\u043e\u0448\u0438\u043f\u0430, \u043f\u043b\u0430\u043d\u0435\u0442\u0430\u0440\u043d\u0443\u044e \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0443.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Una patente es un conjunto de derechos exclusivos concedidos por un Estado al inventor de un nuevo producto o tecnolog\u00eda, susceptibles de ser explotados comercialmente por un per\u00edodo limitado de tiempo, a cambio de la divulgaci\u00f3n de la invenci\u00f3n. El registro de la patente constituye la creaci\u00f3n de un monopolio de manera artificial, y se enmarca dentro de la propiedad industrial, que a su vez forma parte del r\u00e9gimen de propiedad intelectual.",
+                "lang": "es"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/US_Patent_cover.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 745146060,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 23273,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Set"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Royal_privilege": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patent_information": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patented": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patent_harmonization": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patent_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unitary_patent_(Switzerland_and_Liechtenstein)": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Submarine_patent": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Essential_patent": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Utility_patent": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patent_holders": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Patent": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Penmachno_Document": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patenting": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Criticism_of_patent_laws": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Criticism_of_patent_systems": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pirate_Party_of_the_Slovak_Republic": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pirate_Party_of_Turkey": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/ROBIC": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Criticism_of_patent_system": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patent_law": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patents": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patent_holder": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Norwegian_Industrial_Property_Office": {
+        "http://dbpedia.org/ontology/product": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Canadian_Intellectual_Property_Office": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/EliteHeads": {
+        "http://dbpedia.org/ontology/industry": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Solvay_Process_Company": {
+        "http://dbpedia.org/ontology/foundedBy": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Miriam_Benjamin": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Joseph_Fuisz": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Public_Patent": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sir_John_Scott_Lillie": {
+        "http://dbpedia.org/ontology/occupation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Little_Nine_Partners_Patent": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gordon_Gould": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Biological_patent": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/VOC_BioTreat": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tax_patent": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pirate_Party_of_Ukraine": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pirate_Party_of_Bulgaria": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pirate_Party_of_Romania": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rambus_Inc._v._Nvidia": {
+        "http://dbpedia.org/property/keywords": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Inventions_Patents": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pirate_Party_UK": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pirate_Party_of_Galicia": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pirate_Party_of_Catalonia": {
+        "http://dbpedia.org/ontology/ideology": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Expert_Opinion_on_Therapeutic_Patents": {
+        "http://dbpedia.org/ontology/academicDiscipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Criticism_of_patents": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/John_J._Loud": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patent_protection": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patent_Law": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Anti-patent": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Criticism_of_Patent_Protection": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Malcolm_Royal": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Taiwan_Intellectual_Property_Office": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patent_right": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Criticism_of_Patent_Law": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Criticism_of_patent_law": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Patents_are_bad": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Blanket_patent": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Patent"
+            }
+        ]
+    }
+}

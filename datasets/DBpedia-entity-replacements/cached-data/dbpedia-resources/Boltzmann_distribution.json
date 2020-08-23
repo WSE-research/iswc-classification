@@ -1,0 +1,420 @@
+{
+    "http://dbpedia.org/resource/Boltzmann_distribution": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatProbabilityDistributions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/NaturalProcess113518963"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/ChemicalProcess113446390"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Arrangement105726596"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Structure105726345"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Cognition100023271"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/ChemicalReaction113447361"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Process100029677"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatChemicalReactions"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Distribution105729036"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Distribuci\u00f3n Boltzmann",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Boltzmann distribution",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Rozk\u0142ad Boltzmanna",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u062a\u0648\u0632\u064a\u0639 \u0628\u0648\u0644\u062a\u0632\u0645\u0627\u0646",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u30dc\u30eb\u30c4\u30de\u30f3\u5206\u5e03",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Distribui\u00e7\u00e3o de Boltzmann",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Distribuzione di Boltzmann",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Boltzmann-verdeling",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Boltzmann-Statistik",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Distribution de Boltzmann",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u30dc\u30eb\u30c4\u30de\u30f3\u5206\u5e03\uff08\u30dc\u30eb\u30c4\u30de\u30f3\u3076\u3093\u3077\u3001\u82f1\u8a9e: Boltzmann distribution\uff09\u306f\u3001\u4e00\u3064\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u6e96\u4f4d\u306b\u3042\u308b\u7c92\u5b50\u306e\u6570\uff08\u5360\u6709\u6570\uff09\u306e\u5206\u5e03\u3092\u4e0e\u3048\u308b\u7406\u8ad6\u5f0f\u306e\u4e00\u3064\u3067\u3042\u308b\u3002\u6c17\u4f53\u5206\u5b50\u306e\u901f\u5ea6\u306e\u5206\u5e03\u3092\u4e0e\u3048\u308b\u30de\u30af\u30b9\u30a6\u30a7\u30eb\u5206\u5e03\u3092\u3088\u308a\u4e00\u822c\u5316\u3057\u305f\u3082\u306e\u306b\u76f8\u5f53\u3059\u308b\u3002 \u91cf\u5b50\u7d71\u8a08\u529b\u5b66\u306b\u304a\u3044\u3066\u306f\u3001\u5360\u6709\u6570\u306e\u5206\u5e03\u304c\u30d5\u30a7\u30eb\u30df\u5206\u5e03\u306b\u5f93\u3046\u30d5\u30a7\u30eb\u30df\u7c92\u5b50\u3068\u3001\u30dc\u30fc\u30b9\u5206\u5e03\u306b\u5f93\u3046\u30dc\u30fc\u30b9\u7c92\u5b50\u306e\u4e8c\u7a2e\u985e\u306e\u7c92\u5b50\u306b\u5927\u5225\u3067\u304d\u308b\u3002\u30dc\u30eb\u30c4\u30de\u30f3\u5206\u5e03\u306f\u3053\u306e\u4e8c\u7a2e\u985e\u306e\u7c92\u5b50\u306e\u9055\u3044\u304c\u73fe\u308c\u306a\u3044\u3088\u3046\u306a\u6761\u4ef6\u306b\u304a\u3051\u308b\u30d5\u30a7\u30eb\u30df\u5206\u5e03\u3068\u30dc\u30fc\u30ba\u5206\u5e03\u306e\u8fd1\u4f3c\u5f62\uff08\u53e4\u5178\u8fd1\u4f3c\uff09\u3067\u3042\u308b\u3002\u30dc\u30eb\u30c4\u30de\u30f3\u5206\u5e03\u306b\u5f93\u3046\u7c92\u5b50\u306f\u53e4\u5178\u7684\u7c92\u5b50\u3068\u3082\u547c\u3070\u308c\u308b\u3002 \u6838\u78c1\u6c17\u5171\u9cf4\u304a\u3088\u3073\u96fb\u5b50\u30b9\u30d4\u30f3\u5171\u9cf4\u306a\u3069\u306b\u304a\u3044\u3066\u3082\u3001\u78c1\u5834\u306e\u4e2d\u3067\u5206\u88c2\u3057\u305f2\u3064\u306e\u6e96\u4f4d\u306e\u5360\u6709\u7387\u306f\u30dc\u30eb\u30c4\u30de\u30f3\u5206\u5e03\u306b\u5f93\u3046\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "En la mec\u00e1nica estad\u00edstica, la distribuci\u00f3n de Boltzman es una distribuci\u00f3n de probabilidad que da la probabilidad de que un sistema estar\u00e1 en un estado seguro como una funci\u00f3n de la energ\u00eda de ese estado y la temperatura del sistema. Se da como: La proporci\u00f3n de una distribuci\u00f3n de Boltzmann calculada para dos estados se conoce como el factor de Boltzmann  y caracter\u00edsticamente s\u00f3lo depende de la diferencia de energ\u00eda de los estados.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Die Boltzmann-Statistik der Thermodynamik (auch Boltzmann-Verteilung oder Gibbs-Boltzmann-Verteilung, nach Josiah Willard Gibbs und Ludwig Boltzmann) gibt die Wahrscheinlichkeit eines Zustandes eines Systems an, welches im thermodynamischen Gleichgewicht an ein W\u00e4rmebad der absoluten Temperatur gekoppelt ist, also ein kanonisches Ensemble repr\u00e4sentiert (dort auch die Herleitung). In der Quantenstatistik gehen die Fermi-Dirac-Statistik und die Bose-Einstein-Statistik bei gro\u00dfen Energien bzw. hohen Temperaturen jeweils in die Boltzmann-Statistik \u00fcber.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "In fisica e matematica, la distribuzione di Boltzmann \u00e8 una funzione di distribuzione per gli stati di un sistema. Si tratta di una misura di probabilit\u00e0 che sta alla base del concetto di insieme canonico, del quale descrive la distribuzione degli stati. Un caso particolare \u00e8 la distribuzione di Maxwell-Boltzmann, usata per descrivere la velocit\u00e0 delle particelle nei gas.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "En physique, la distribution de Boltzmann pr\u00e9dit la fonction de distribution pour le nombre fractionnaire de particules Ni / N occupant un ensemble d'\u00e9tats i qui ont chacun pour \u00e9nergie Ei : o\u00f9 est la constante de Boltzmann, T est la temp\u00e9rature (postul\u00e9e comme \u00e9tant d\u00e9finie tr\u00e8s pr\u00e9cis\u00e9ment), est la d\u00e9g\u00e9n\u00e9rescence, ou le nombre d'\u00e9tats d'\u00e9nergie , N est le nombre total de particules : et Z(T) est appel\u00e9e fonction de partition, qui peut \u00eatre consid\u00e9r\u00e9e comme \u00e9gale \u00e0 : . ,",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Rozk\u0142ad Boltzmanna \u2013 stosowane w fizyce i chemii r\u00f3wnanie okre\u015blaj\u0105ce spos\u00f3b obsadzania stan\u00f3w energetycznych przez atomy, cz\u0105steczki lub inne indywidua cz\u0105steczkowe (cz\u0105stki) w stanie r\u00f3wnowagi termicznej. R\u00f3wnanie Boltzmanna pozwala okre\u015bli\u0107 tzw. funkcj\u0119 rozk\u0142adu energii dla uk\u0142ad\u00f3w zawieraj\u0105cych tak du\u017ce liczby obiekt\u00f3w, \u017ce stosuj\u0105 si\u0119 do tzw. prawa wielkich liczb i mo\u017cna stosowa\u0107 do nich metody termodynamiki statystycznej, np. do gazu doskona\u0142ego lub gazu rzeczywistego. Przy stosowaniu rozk\u0142adu Boltzmanna nie jest wymagana szczeg\u00f3\u0142owa wiedza na temat charakteru poziom\u00f3w energetycznych. \n* , ,",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0641\u064a \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u0648\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a, \u062a\u0648\u0632\u064a\u0639 \u0628\u0648\u0644\u062a\u0632\u0645\u0627\u0646 \u0647\u0648 \u062f\u0627\u0644\u0629 \u0644\u0627\u062d\u062a\u0645\u0627\u0644\u064a\u0629 \u062a\u0648\u0632\u064a\u0639 \u0646\u0638\u0627\u0645 \u0645\u0646 \u0627\u0644\u062c\u0633\u064a\u0645\u0627\u062a \u0639\u0644\u0649 \u0645\u0633\u062a\u0648\u064a\u0627\u062a \u0644\u0644\u0637\u0627\u0642\u0629\u060c \u0647\u064a \u062a\u062f\u0639\u0645 \u0645\u0628\u062f\u0623 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0645\u0646\u062a\u0638\u0645\u0629 (canonical ensemble) \u0639\u0644\u0649 \u0634\u0631\u0637 \u0623\u0646 \u062a\u0642\u0639 \u0636\u0645\u0646 \u0627\u0644\u062a\u0648\u0632\u064a\u0639\u060c \u0647\u0646\u0627\u0643 \u062d\u0627\u0644\u0629 \u062e\u0627\u0635\u0629 \u0645\u0646 \u062a\u0648\u0632\u064a\u0639 \u0628\u0648\u0644\u062a\u0632\u0645\u0627\u0646 \u0648\u0647\u064a \u062a\u0640\u064f\u0633\u062a\u062e\u062f\u0645 \u0644\u0648\u0635\u0641 \u062a\u0648\u0632\u064a\u0639 \u0633\u0631\u0639\u0627\u062a \u0627\u0644\u062c\u0633\u064a\u0645\u0627\u062a \u0641\u064a \u0627\u0644\u063a\u0627\u0632 \u0648\u062a\u0633\u0645\u0649 \u062a\u0648\u0632\u064a\u0639 \u0645\u0627\u0643\u0633\u0648\u064a\u0644-\u0628\u0648\u0644\u062a\u0632\u0645\u0627\u0646. \u0641\u064a \u0635\u064a\u0627\u063a\u0627\u062a \u0631\u064a\u0627\u0636\u064a\u0629 \u0623\u0643\u062b\u0631 \u0639\u0645\u0648\u0645\u0627 \u064a\u0633\u0645\u0649 \u062a\u0648\u0632\u064a\u0639 \u0628\u0648\u0644\u062a\u0632\u0645\u0627\u0646 \u0623\u064a\u0636\u0627 \u0645\u0642\u064a\u0627\u0633 \u062c\u064a\u0628\u0633.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "De Boltzmann-verdeling of Boltzmann-statistiek (ook wel Gibbs-Boltzmann-verdeling genoemd) is een in de scheikunde, natuurkunde en wiskunde aangewende statistische verdeling of probabiliteitsfunctie die de relatieve bezettingsgraad van verschillende toestanden in een systeem weergeeft. Een bijzonder geval van deze verdeling is de snelheidsverdeling van gasdeeltjes in een ideaal gas, die wordt weergegeven door de Maxwell-Boltzmann-verdeling.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Em f\u00edsica a Distribui\u00e7\u00e3o de Boltzmann permite calcular a fun\u00e7\u00e3o distribui\u00e7\u00e3o para um n\u00famero fracion\u00e1rio de part\u00edculas Ni / N ocupando um conjunto de estados i cada um dos quais tem energia Ei: onde \u00e9 a constante de Boltzmann, T \u00e9 a temperatura (admitida como sendo uma quantidade precisamente bem definida), \u00e9 a degenera\u00e7\u00e3o, ou n\u00famero de estados tendo energia , N \u00e9 o total do n\u00famero de part\u00edculas: e Z(T) \u00e9 chamada fun\u00e7\u00e3o parti\u00e7\u00e3o, a qual pode ser tratada como sendo igual a A distribui\u00e7\u00e3o de Boltzmann \u00e9 frequentemente expressa em termos de \u03b2 = 1/kT aonde \u03b2 refere-se ao beta termodin\u00e2mico. O termo ou e",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "In statistical mechanics and mathematics, a Boltzmann distribution (also called Gibbs distribution) is a probability distribution, probability measure, or frequency distribution of particles in a system over various possible states. The distribution is expressed in the form where is state energy (which varies from state to state), and (a constant of the distribution) is the product of Boltzmann's constant and thermodynamic temperature.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Boltzmann_distribution"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Boltzmann_factor"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Boltzmann-verdeling"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01bbz"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Distribuci\u00f3n_Boltzmann"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q834200"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Distribution_de_Boltzmann"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q834200"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Boltzmann-Statistik"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Distribusi_Boltzmann"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.08qf3l"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Distribuzione_di_Boltzmann"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Rozk\u0142ad_Boltzmanna"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Distribui\u00e7\u00e3o_de_Boltzmann"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30dc\u30eb\u30c4\u30de\u30f3\u5206\u5e03"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Statistical_mechanics"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Boltzmann_distribution_graph.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Boltzmann_distribution"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Boltzmann_distribution?oldid=733728413"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "En physique, la distribution de Boltzmann pr\u00e9dit la fonction de distribution pour le nombre fractionnaire de particules Ni / N occupant un ensemble d'\u00e9tats i qui ont chacun pour \u00e9nergie Ei : o\u00f9 est la constante de Boltzmann, T est la temp\u00e9rature (postul\u00e9e comme \u00e9tant d\u00e9finie tr\u00e8s pr\u00e9cis\u00e9ment), est la d\u00e9g\u00e9n\u00e9rescence, ou le nombre d'\u00e9tats d'\u00e9nergie , N est le nombre total de particules : et Z(T) est appel\u00e9e fonction de partition, qui peut \u00eatre consid\u00e9r\u00e9e comme \u00e9gale \u00e0 : . D'autre part, pour un syst\u00e8me simple \u00e0 temp\u00e9rature d\u00e9finie de mani\u00e8re exacte, elle donne la probabilit\u00e9 pour que le syst\u00e8me soit dans l'\u00e9tat sp\u00e9cifi\u00e9. La distribution de Boltzmann s'applique seulement pour des particules \u00e0 assez haute temp\u00e9rature et assez faible densit\u00e9 pour que les effets quantiques soient ignor\u00e9s, et que ces particules ob\u00e9issent \u00e0 la statistique de Maxwell-Boltzmann (se r\u00e9f\u00e9rer \u00e0 cet article pour la d\u00e9monstration de la distribution de Boltzmann).La distribution de Boltzmann est parfois \u00e9crite en termes de \u03b2 = 1/kT o\u00f9 \u03b2 est le beta thermodynamique. Le terme exp(\u2212\u03b2Ei) ou exp(\u2212Ei/kT), qui donne la probabilit\u00e9 relative (non normalis\u00e9e) d'un \u00e9tat, est appel\u00e9 facteur de Boltzmann et appara\u00eet parfois dans les \u00e9tudes en physique et chimie.Lorsque l'\u00e9nergie est identifi\u00e9e \u00e0 l'\u00e9nergie cin\u00e9tique de la particule : , la distribution suit une statistique de Maxwell-Boltzmann des vitesses de mol\u00e9cules gazeuses, auparavant pr\u00e9dite par Maxwell en 1859. La distribution de Boltzmann est, cependant, plus g\u00e9n\u00e9rale. Par exemple, elle pr\u00e9dit aussi les variations de la densit\u00e9 de particules dans un champ gravitationnel en fonction de la hauteur, si . En fait, cette distribution s'applique dans tous les cas o\u00f9 les consid\u00e9rations quantiques peuvent \u00eatre ignor\u00e9es.Dans certains cas, une approximation continue existe. S'il existe g(E) dE d'\u00e9tats d'\u00e9nergie comprise entre E et E + dE, la distribution de Boltzmann pr\u00e9dit la distribution de probabilit\u00e9 pour l'\u00e9nergie : g(E) est appel\u00e9 densit\u00e9 d'\u00e9tats si le spectre \u00e9nerg\u00e9tique est continu.Les particules classiques avec cette distribution d'\u00e9nergie ob\u00e9issent \u00e0 la statistique de Maxwell-Boltzmann.Dans la limite classique, i.e. pour des valeurs \u00e9lev\u00e9es de E/kT ou une faible densit\u00e9 d'\u00e9tats\u2014 lorsque les fonctions d'ondes des particules ne se superposent pas en pratique, les distributions de Bose-Einstein et de Fermi-Dirac s'identifient \u00e0 une distribution de Boltzmann.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "In statistical mechanics and mathematics, a Boltzmann distribution (also called Gibbs distribution) is a probability distribution, probability measure, or frequency distribution of particles in a system over various possible states. The distribution is expressed in the form where is state energy (which varies from state to state), and (a constant of the distribution) is the product of Boltzmann's constant and thermodynamic temperature. In statistical mechanics, the Boltzmann distribution is a probability distribution that gives the probability that a system will be in a certain state as a function of that state\u2019s energy and the temperature of the system. It is given as where pi is the probability of state i, \u03b5i the energy of state i, k the Boltzmann constant, T the temperature of the system and M is the number of states accessible to the system. The sum is over all states accessible to the system of interest. The term system here has a very wide meaning; it can range from a single atom to a macroscopic system such as a natural gas storage tank. Because of this Boltzmann distribution can be used to solve a very wide variety of problems. The distribution shows that states with lower energy will always have a higher probability of being occupied than the states with higher energy. The ratio of a Boltzmann distribution computed for two states is known as the Boltzmann factor and characteristically only depends on the states' energy difference. The Boltzmann distribution is named after Ludwig Boltzmann who first formulated it in 1868 during his studies of the statistical mechanics of gases in thermal equilibrium.The distribution was later investigated extensively, in its modern generic form, by Josiah Willard Gibbs in 1902. The Boltzmann distribution should not be confused with the Maxwell-Boltzmann distribution. The former gives the probability that a system will be in a certain state as a function of that state's energy. When applied to particles such as atoms or molecules, it gives the distribution of particles over energy states. The Maxwell-Boltzmann distribution is used to describe particle speeds in idealized gases.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0641\u064a \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u0648\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a, \u062a\u0648\u0632\u064a\u0639 \u0628\u0648\u0644\u062a\u0632\u0645\u0627\u0646 \u0647\u0648 \u062f\u0627\u0644\u0629 \u0644\u0627\u062d\u062a\u0645\u0627\u0644\u064a\u0629 \u062a\u0648\u0632\u064a\u0639 \u0646\u0638\u0627\u0645 \u0645\u0646 \u0627\u0644\u062c\u0633\u064a\u0645\u0627\u062a \u0639\u0644\u0649 \u0645\u0633\u062a\u0648\u064a\u0627\u062a \u0644\u0644\u0637\u0627\u0642\u0629\u060c \u0647\u064a \u062a\u062f\u0639\u0645 \u0645\u0628\u062f\u0623 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0645\u0646\u062a\u0638\u0645\u0629 (canonical ensemble) \u0639\u0644\u0649 \u0634\u0631\u0637 \u0623\u0646 \u062a\u0642\u0639 \u0636\u0645\u0646 \u0627\u0644\u062a\u0648\u0632\u064a\u0639\u060c \u0647\u0646\u0627\u0643 \u062d\u0627\u0644\u0629 \u062e\u0627\u0635\u0629 \u0645\u0646 \u062a\u0648\u0632\u064a\u0639 \u0628\u0648\u0644\u062a\u0632\u0645\u0627\u0646 \u0648\u0647\u064a \u062a\u0640\u064f\u0633\u062a\u062e\u062f\u0645 \u0644\u0648\u0635\u0641 \u062a\u0648\u0632\u064a\u0639 \u0633\u0631\u0639\u0627\u062a \u0627\u0644\u062c\u0633\u064a\u0645\u0627\u062a \u0641\u064a \u0627\u0644\u063a\u0627\u0632 \u0648\u062a\u0633\u0645\u0649 \u062a\u0648\u0632\u064a\u0639 \u0645\u0627\u0643\u0633\u0648\u064a\u0644-\u0628\u0648\u0644\u062a\u0632\u0645\u0627\u0646. \u0641\u064a \u0635\u064a\u0627\u063a\u0627\u062a \u0631\u064a\u0627\u0636\u064a\u0629 \u0623\u0643\u062b\u0631 \u0639\u0645\u0648\u0645\u0627 \u064a\u0633\u0645\u0649 \u062a\u0648\u0632\u064a\u0639 \u0628\u0648\u0644\u062a\u0632\u0645\u0627\u0646 \u0623\u064a\u0636\u0627 \u0645\u0642\u064a\u0627\u0633 \u062c\u064a\u0628\u0633.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "In fisica e matematica, la distribuzione di Boltzmann \u00e8 una funzione di distribuzione per gli stati di un sistema. Si tratta di una misura di probabilit\u00e0 che sta alla base del concetto di insieme canonico, del quale descrive la distribuzione degli stati. Un caso particolare \u00e8 la distribuzione di Maxwell-Boltzmann, usata per descrivere la velocit\u00e0 delle particelle nei gas.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "En la mec\u00e1nica estad\u00edstica, la distribuci\u00f3n de Boltzman es una distribuci\u00f3n de probabilidad que da la probabilidad de que un sistema estar\u00e1 en un estado seguro como una funci\u00f3n de la energ\u00eda de ese estado y la temperatura del sistema. Se da como: donde pi es la probabilidad del estado i, \u03b5i la energ\u00eda del estado i, k la constante de Boltzmann, T la temperatura del sistema y M es el n\u00famero de estados accesibles al sistema. La suma es sobre todos los estados accesibles a el sistema de inter\u00e9s. El t\u00e9rmino sistema de aqu\u00ed tiene un significado muy amplio; que puede variar desde un simple \u00e1tomo hasta un sistema macrosc\u00f3pico como un tanque de almacenamiento de gas natural. Debido a esto la distribuci\u00f3n de Boltzmann se puede utilizar para resolver una amplia variedad de problemas. La distribuci\u00f3n muestra que los estados con la energ\u00eda m\u00e1s baja siempre tendr\u00e1 una probabilidad m\u00e1s alta de estar ocupado que los estados con energ\u00eda m\u00e1s alta. La proporci\u00f3n de una distribuci\u00f3n de Boltzmann calculada para dos estados se conoce como el factor de Boltzmann  y caracter\u00edsticamente s\u00f3lo depende de la diferencia de energ\u00eda de los estados. Se le da el nombre de distribuci\u00f3n de Boltzmann por Ludwig Boltzmann, quien formul\u00f3 por primera vez en 1868 durante sus estudios de la mec\u00e1nica estad\u00edstica de gases en equilibrio t\u00e9rmico. La distribuci\u00f3n fu posteriormente investigada amplia mente, en su forma moderna, por Josiah Willard Gibbs en 1902. La distribuci\u00f3n de Boltzman no debe confundirse con la estad\u00edstica de Maxwell-Boltzmann. El primero da la probabilidad de que un sistema estar\u00e1 en un estado determinado como una funci\u00f3n de la energ\u00eda de ese estado. Cu\u00e1ndo  se aplica a part\u00edculas como \u00e1tomos o mol\u00e9culas, que muestra la distribuci\u00f3n de part\u00edculas sobre los estados de energ\u00eda. La estad\u00edstica de Maxwell-Boltzmann  se utiliza para describir las velocidades de las part\u00edculas en los gases idealizados.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Rozk\u0142ad Boltzmanna \u2013 stosowane w fizyce i chemii r\u00f3wnanie okre\u015blaj\u0105ce spos\u00f3b obsadzania stan\u00f3w energetycznych przez atomy, cz\u0105steczki lub inne indywidua cz\u0105steczkowe (cz\u0105stki) w stanie r\u00f3wnowagi termicznej. R\u00f3wnanie Boltzmanna pozwala okre\u015bli\u0107 tzw. funkcj\u0119 rozk\u0142adu energii dla uk\u0142ad\u00f3w zawieraj\u0105cych tak du\u017ce liczby obiekt\u00f3w, \u017ce stosuj\u0105 si\u0119 do tzw. prawa wielkich liczb i mo\u017cna stosowa\u0107 do nich metody termodynamiki statystycznej, np. do gazu doskona\u0142ego lub gazu rzeczywistego. Przy stosowaniu rozk\u0142adu Boltzmanna nie jest wymagana szczeg\u00f3\u0142owa wiedza na temat charakteru poziom\u00f3w energetycznych. Rozk\u0142ad przedstawia stosunek obsadze\u0144 Ni/Nj przez obiekty mikroskopowe dla dwu stan\u00f3w \"i\", \"j\" r\u00f3\u017cni\u0105cych si\u0119 energi\u0105: gdzie: \n* , \u2013 liczba obiekt\u00f3w w stanach \"i\", \"j\" \n* \u2013 r\u00f3\u017cnica energii dla stan\u00f3w \"i\", \"j\" \n* \u2013 sta\u0142a Boltzmanna, k = R/NA (R \u2013 (uniwersalna) sta\u0142a gazowa, NA \u2013 sta\u0142a Avogadra) \n* \u2013 temperatura Opr\u00f3cz r\u00f3\u017cnicy energii zasadnicz\u0105 rol\u0119 w obsadzeniu poziom\u00f3w energetycznych odgrywa temperatura. Zgodnie z rozk\u0142adem Boltzmanna dla temperatury d\u0105\u017c\u0105cej do zera b\u0119d\u0105 obsadzone jedynie najni\u017csze, podstawowe poziomy energetyczne. Je\u017celi dane poziomy s\u0105 zdegenerowane (dla danej energii istnieje gi poziom\u00f3w o tej samej energii obsadzenia) w\u00f3wczas prawdopodobie\u0144stwa obsadzenia rosn\u0105 proporcjonalnie do degeneracji: gdzie: , - degeneracja poziom\u00f3w \"i\", \"j\" (liczba stan\u00f3w zdegenerowanych odpowiadaj\u0105cych tej samej energii) Uwzgl\u0119dniaj\u0105c mo\u017cliwo\u015b\u0107 obsadzenia wszystkich stan\u00f3w: gdzie: \n* \u2013 liczba wszystkich obiekt\u00f3w (cz\u0105steczek)  \n* \u2013 tzw. suma stan\u00f3w (funkcja rozdzia\u0142u) W przypadku istnienia stan\u00f3w zdegenerowanych: gdzie: \u2013 suma stan\u00f3w uwzgl\u0119dniaj\u0105ca degeneracj\u0119 Rozk\u0142ad Boltzmanna jest zasadniczo rozk\u0142adem, w kt\u00f3rym prawdopodobie\u0144stwo obsadzenia stanu maleje wyk\u0142adniczo wraz z energi\u0105 poziomu, jednak w przypadku silnej degeneracji niekt\u00f3rych poziom\u00f3w, mog\u0105 by\u0107 one silniej obsadzone ni\u017c ni\u017csze poziomy. W przypadku bardzo wysokiej temperatury (T \u2192 \u221e) wszystkie czynniki typu exp(-E/kT) staj\u0105 si\u0119 r\u00f3wne jedno\u015bci (oczywi\u015bcie gdy E << kT) i w\u00f3wczas wszystkie stany s\u0105 jednakowo prawdopodobne, a rozk\u0142ad Boltzmanna przechodzi w\u00f3wczas w rozk\u0142ad jednostajny.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Die Boltzmann-Statistik der Thermodynamik (auch Boltzmann-Verteilung oder Gibbs-Boltzmann-Verteilung, nach Josiah Willard Gibbs und Ludwig Boltzmann) gibt die Wahrscheinlichkeit eines Zustandes eines Systems an, welches im thermodynamischen Gleichgewicht an ein W\u00e4rmebad der absoluten Temperatur gekoppelt ist, also ein kanonisches Ensemble repr\u00e4sentiert (dort auch die Herleitung). In der Quantenstatistik gehen die Fermi-Dirac-Statistik und die Bose-Einstein-Statistik bei gro\u00dfen Energien bzw. hohen Temperaturen jeweils in die Boltzmann-Statistik \u00fcber. Mathematisch ist die Boltzmann-Verteilung eine univariate diskrete Verteilung einer unendlichen Menge.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "De Boltzmann-verdeling of Boltzmann-statistiek (ook wel Gibbs-Boltzmann-verdeling genoemd) is een in de scheikunde, natuurkunde en wiskunde aangewende statistische verdeling of probabiliteitsfunctie die de relatieve bezettingsgraad van verschillende toestanden in een systeem weergeeft. Een bijzonder geval van deze verdeling is de snelheidsverdeling van gasdeeltjes in een ideaal gas, die wordt weergegeven door de Maxwell-Boltzmann-verdeling.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u30dc\u30eb\u30c4\u30de\u30f3\u5206\u5e03\uff08\u30dc\u30eb\u30c4\u30de\u30f3\u3076\u3093\u3077\u3001\u82f1\u8a9e: Boltzmann distribution\uff09\u306f\u3001\u4e00\u3064\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u6e96\u4f4d\u306b\u3042\u308b\u7c92\u5b50\u306e\u6570\uff08\u5360\u6709\u6570\uff09\u306e\u5206\u5e03\u3092\u4e0e\u3048\u308b\u7406\u8ad6\u5f0f\u306e\u4e00\u3064\u3067\u3042\u308b\u3002\u6c17\u4f53\u5206\u5b50\u306e\u901f\u5ea6\u306e\u5206\u5e03\u3092\u4e0e\u3048\u308b\u30de\u30af\u30b9\u30a6\u30a7\u30eb\u5206\u5e03\u3092\u3088\u308a\u4e00\u822c\u5316\u3057\u305f\u3082\u306e\u306b\u76f8\u5f53\u3059\u308b\u3002 \u91cf\u5b50\u7d71\u8a08\u529b\u5b66\u306b\u304a\u3044\u3066\u306f\u3001\u5360\u6709\u6570\u306e\u5206\u5e03\u304c\u30d5\u30a7\u30eb\u30df\u5206\u5e03\u306b\u5f93\u3046\u30d5\u30a7\u30eb\u30df\u7c92\u5b50\u3068\u3001\u30dc\u30fc\u30b9\u5206\u5e03\u306b\u5f93\u3046\u30dc\u30fc\u30b9\u7c92\u5b50\u306e\u4e8c\u7a2e\u985e\u306e\u7c92\u5b50\u306b\u5927\u5225\u3067\u304d\u308b\u3002\u30dc\u30eb\u30c4\u30de\u30f3\u5206\u5e03\u306f\u3053\u306e\u4e8c\u7a2e\u985e\u306e\u7c92\u5b50\u306e\u9055\u3044\u304c\u73fe\u308c\u306a\u3044\u3088\u3046\u306a\u6761\u4ef6\u306b\u304a\u3051\u308b\u30d5\u30a7\u30eb\u30df\u5206\u5e03\u3068\u30dc\u30fc\u30ba\u5206\u5e03\u306e\u8fd1\u4f3c\u5f62\uff08\u53e4\u5178\u8fd1\u4f3c\uff09\u3067\u3042\u308b\u3002\u30dc\u30eb\u30c4\u30de\u30f3\u5206\u5e03\u306b\u5f93\u3046\u7c92\u5b50\u306f\u53e4\u5178\u7684\u7c92\u5b50\u3068\u3082\u547c\u3070\u308c\u308b\u3002 \u6838\u78c1\u6c17\u5171\u9cf4\u304a\u3088\u3073\u96fb\u5b50\u30b9\u30d4\u30f3\u5171\u9cf4\u306a\u3069\u306b\u304a\u3044\u3066\u3082\u3001\u78c1\u5834\u306e\u4e2d\u3067\u5206\u88c2\u3057\u305f2\u3064\u306e\u6e96\u4f4d\u306e\u5360\u6709\u7387\u306f\u30dc\u30eb\u30c4\u30de\u30f3\u5206\u5e03\u306b\u5f93\u3046\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Em f\u00edsica a Distribui\u00e7\u00e3o de Boltzmann permite calcular a fun\u00e7\u00e3o distribui\u00e7\u00e3o para um n\u00famero fracion\u00e1rio de part\u00edculas Ni / N ocupando um conjunto de estados i cada um dos quais tem energia Ei: onde \u00e9 a constante de Boltzmann, T \u00e9 a temperatura (admitida como sendo uma quantidade precisamente bem definida), \u00e9 a degenera\u00e7\u00e3o, ou n\u00famero de estados tendo energia , N \u00e9 o total do n\u00famero de part\u00edculas: e Z(T) \u00e9 chamada fun\u00e7\u00e3o parti\u00e7\u00e3o, a qual pode ser tratada como sendo igual a Alternativamente, para um sistema \u00fanico em uma temperatura bem definida, ela d\u00e1 a probabilidade deste sistema em seu estado espec\u00edfico. A distribui\u00e7\u00e3o de Boltzmann aplica-se somente \u00e0 part\u00edculas em uma suficiente alta temperatura e baixa densidade nas quais efeitos qu\u00e2nticos possam ser ignorados, e cujas part\u00edculas obede\u00e7am a estat\u00edstica de Maxwell\u2013Boltzmann. (Veja este artigo para uma deriva\u00e7\u00e3o da distribui\u00e7\u00e3o de Boltzmann.) A distribui\u00e7\u00e3o de Boltzmann \u00e9 frequentemente expressa em termos de \u03b2 = 1/kT aonde \u03b2 refere-se ao beta termodin\u00e2mico. O termo ou e , o qual d\u00e1 a relativa probabilidade (n\u00e3o normalizada) de um estado, \u00e9 chamada factor de Boltzmann e aparece frequentemente no estudo da f\u00edsica e qu\u00edmica. Quando a energia \u00e9 simplesmente a energia cin\u00e9tica da part\u00edcula ent\u00e3o a distribui\u00e7\u00e3o corretamente d\u00e1 a distribui\u00e7\u00e3o de Maxwell-Boltzmann das velocidades das mol\u00e9culas do g\u00e1s, previamente previstas por Maxwell em 1859. A distribui\u00e7\u00e3o de Boltzmann \u00e9, entretanto, muito mais geral. Por exemplo, ela prediz a varia\u00e7\u00e3o da densidade de part\u00edculas num campo gravitacional em rela\u00e7\u00e3o \u00e0 altitude, se . De fato a distribui\u00e7\u00e3o aplica-se sempre que as considera\u00e7\u00f5es qu\u00e2nticas possam ser ignoradas. Em alguns casos, uma aproxima\u00e7\u00e3o cont\u00ednua pode ser usada. Se h\u00e1 g(E) dE estados com energia E a E + dE, quando a distribui\u00e7\u00e3o de Boltzmann prediz uma probabilidade de distribui\u00e7\u00e3o para a energia: Quando g(E) \u00e9 chamado densidade de estado se o espectro de energia \u00e9 cont\u00ednuo. Part\u00edculas cl\u00e1ssicas com esta distribui\u00e7\u00e3o de energia s\u00e3o ditas obedientes \u00e0 estat\u00edstica de Maxwell\u2013Boltzmann. No limite cl\u00e1ssico, i.e. em grandes volumes de E/kT ou \u00e0s menores densidades de estados \u2014 quando fun\u00e7\u00f5es de onda de part\u00edculas praticamente n\u00e3o se sobrep\u00f5e, tanto a distribui\u00e7\u00e3o Bose\u2013Einstein ou a Fermi\u2013Dirac tornam-se a distribui\u00e7\u00e3o de Boltzmann.",
+                "lang": "pt"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Boltzmann_distribution_graph.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 733728413,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 4107,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Boltzmann_Distribution": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Boltzmann_distribution": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bolzmann_distribution": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Boltzman_distribution": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Boltzmann_weight": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Boltzman_factor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Boltzmann's_distribution_law": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Boltzmann's_distribution": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Boltzmann_Factor": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Boltzmann_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ludwig_Boltzmann": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gibbs_distribution": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+            }
+        ]
+    }
+}

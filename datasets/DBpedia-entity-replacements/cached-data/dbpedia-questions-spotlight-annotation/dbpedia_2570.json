@@ -1,0 +1,28 @@
+{
+    "@text": "Name an infectious disease that afflicts liver and that contains the word \"hepatitis\" in its name",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Infection",
+            "@support": "7754",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "infectious disease",
+            "@offset": "8",
+            "@similarityScore": "0.9999999998970566",
+            "@percentageOfSecondRank": "1.0294306628715594E-10"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Liver",
+            "@support": "8228",
+            "@types": "Wikidata:Q4936952,DBpedia:AnatomicalStructure",
+            "@surfaceForm": "liver",
+            "@offset": "41",
+            "@similarityScore": "0.9990958879973696",
+            "@percentageOfSecondRank": "3.381980282308072E-4"
+        }
+    ]
+}

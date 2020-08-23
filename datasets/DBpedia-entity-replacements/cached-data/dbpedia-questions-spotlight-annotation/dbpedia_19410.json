@@ -1,0 +1,28 @@
+{
+    "@text": "What product is made by Sony and Foxconn togather?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Sony",
+            "@support": "12995",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Sony",
+            "@offset": "24",
+            "@similarityScore": "0.985678264003729",
+            "@percentageOfSecondRank": "0.013018642680945153"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Foxconn",
+            "@support": "337",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Foxconn",
+            "@offset": "33",
+            "@similarityScore": "0.9999999934627652",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

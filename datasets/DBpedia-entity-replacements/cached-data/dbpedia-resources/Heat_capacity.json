@@ -1,0 +1,626 @@
+{
+    "http://dbpedia.org/resource/Heat_capacity": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Property104916342"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Measure100033615"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Relation100031921"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Collection107951464"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Possession100032613"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatChemicalProperties"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatPhysicalQuantities"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatGasLaws"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatThermodynamicProperties"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Attribute100024264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Concept105835747"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Content105809192"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Cognition100023271"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Idea105833840"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatConceptsInPhysics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Property113244109"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Law108441203"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatRubberProperties"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/ChemicalProperty105009758"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u0633\u0639\u0629 \u062d\u0631\u0627\u0631\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Capacit\u00e0 termica",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "W\u00e4rmekapazit\u00e4t",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Capacit\u00e9 thermique",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0435\u043f\u043b\u043e\u0451\u043c\u043a\u043e\u0441\u0442\u044c",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u71b1\u5bb9\u91cf",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Capacidad calor\u00edfica",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Pojemno\u015b\u0107 cieplna",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u71b1\u5bb9\u91cf",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Warmtecapaciteit",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Capacidade t\u00e9rmica",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Heat capacity",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u71b1\u5bb9\u91cf\uff08\u306d\u3064\u3088\u3046\u308a\u3087\u3046\u3001\u82f1\u8a9e: heat capacity\uff09\u3068\u306f\u3001\u7cfb\u306b\u5bfe\u3057\u3066\u71b1\u306e\u51fa\u5165\u308a\u304c\u3042\u3063\u305f\u3068\u304d\u3001\u7cfb\u306e\u6e29\u5ea6\u304c\u3069\u306e\u7a0b\u5ea6\u5909\u5316\u3059\u308b\u304b\u3092\u8868\u3059\u72b6\u614b\u91cf\u3067\u3042\u308b\u3002\u5358\u4f4d\u306f\u30b8\u30e5\u30fc\u30eb\u6bce\u30b1\u30eb\u30d3\u30f3\uff08J/K\uff09\u304c\u7528\u3044\u3089\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0435\u043f\u043b\u043e\u0451\u043c\u043a\u043e\u0441\u0442\u044c \u0442\u0435\u043b\u0430 (\u043e\u0431\u044b\u0447\u043d\u043e \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442\u0441\u044f \u043b\u0430\u0442\u0438\u043d\u0441\u043a\u043e\u0439 \u0431\u0443\u043a\u0432\u043e\u0439 C) \u2014 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430, \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u043c\u0430\u044f \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435\u043c \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u043e \u043c\u0430\u043b\u043e\u0433\u043e \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0442\u0435\u043f\u043b\u043e\u0442\u044b \u03b4Q, \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u0442\u0435\u043b\u043e\u043c, \u043a \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0435\u043c\u0443 \u043f\u0440\u0438\u0440\u0430\u0449\u0435\u043d\u0438\u044e \u0435\u0433\u043e \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u03b4T: \u0415\u0434\u0438\u043d\u0438\u0446\u0430 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0442\u0435\u043f\u043b\u043e\u0451\u043c\u043a\u043e\u0441\u0442\u0438 \u0432 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0435\u0434\u0438\u043d\u0438\u0446 (\u0421\u0418) \u2014 \u0414\u0436/\u041a.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0627\u0644\u0633\u0639\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u0623\u0648 \u0627\u0644\u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u062d\u0631\u0627\u0631\u064a \u0645\u0635\u0637\u0644\u062d \u0645\u0646 \u0639\u0644\u0645 \u0627\u0644\u062f\u064a\u0646\u0627\u0645\u064a\u0643\u0627 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u064a\u0631\u0645\u0632 \u0644\u0647 \u0639\u0627\u062f\u0629 \u0628 C. \n*  \u0627\u0644\u0633\u0639\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u0639\u0646\u062f \u062d\u062c\u0645 \u062b\u0627\u0628\u062a: \n*  \u0627\u0644\u0633\u0639\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u0639\u0646\u062f \u0636\u063a\u0637 \u062b\u0627\u0628\u062a:",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Die W\u00e4rmekapazit\u00e4t eines K\u00f6rpers ist das Verh\u00e4ltnis der ihm zugef\u00fchrten W\u00e4rme zu der damit bewirkten Temperaturerh\u00f6hung: Die Einheit der W\u00e4rmekapazit\u00e4t ist J/K. Bei homogenen K\u00f6rpern l\u00e4sst sich die W\u00e4rmekapazit\u00e4t als Produkt der Masse des K\u00f6rpers und der spezifischen W\u00e4rmekapazit\u00e4t berechnen, oder auch als Produkt seiner Stoffmenge und seiner molaren W\u00e4rmekapazit\u00e4t. Sowohl die spezifische als auch die molare W\u00e4rmekapazit\u00e4t sind Materialkonstanten und in einschl\u00e4gigen Nachschlagewerken tabelliert.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "De warmtecapaciteit van een voorwerp is in de thermodynamica het vermogen van dat voorwerp om energie in de vorm van warmte op te slaan. Voert men warmte aan een voorwerp toe, dan zal daarvan meestal de interne energie en daarmee de temperatuur stijgen (bij isotherme processen is dit niet het geval). Als bij dezelfde hoeveelheid toegevoerde warmte de temperatuur van het ene voorwerp minder stijgt dan van een ander, heeft het ene voorwerp een grotere warmtecapaciteit dan het andere. De eenheid waarin de warmtecapaciteit in het SI wordt uitgedrukt is:",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Si definisce capacit\u00e0 termica di un corpo (o pi\u00f9 in generale di un qualunque sistema) il rapporto fra il calore scambiato tra il corpo e l'ambiente e la variazione di temperatura che ne consegue. In formule: Nel Sistema Internazionale l'unit\u00e0 di misura della capacit\u00e0 termica \u00e8 J/K, ed esprime la quantit\u00e0 di calore in joule che un sistema pu\u00f2 immagazzinare aumentando la sua temperatura di un kelvin.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "La capacit\u00e9 thermique (ou capacit\u00e9 calorifique) d'un corps est une grandeur permettant de quantifier la possibilit\u00e9 qu'a un corps d'absorber ou restituer de l'\u00e9nergie par \u00e9change thermique au cours d'une transformation pendant laquelle sa temp\u00e9rature varie. La capacit\u00e9 thermique est l'\u00e9nergie qu'il faut apporter \u00e0 un corps pour augmenter sa temp\u00e9rature d'un kelvin. Elle s'exprime en joule par kelvin (J/K). C'est une grandeur extensive : plus la quantit\u00e9 de mati\u00e8re est importante plus la capacit\u00e9 thermique est grande. Toutes choses \u00e9tant \u00e9gales par ailleurs, plus la capacit\u00e9 thermique d'un corps est grande, plus grande sera la quantit\u00e9 d'\u00e9nergie \u00e9chang\u00e9e au cours d'une transformation s'accompagnant d'une variation de la temp\u00e9rature de ce corps.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Capacidade t\u00e9rmica ou capacidade calor\u00edfica (usualmente denotada pela letra ) \u00e9 a grandeza f\u00edsica que determina a rela\u00e7\u00e3o entre a quantidade de calor fornecida a um corpo e a varia\u00e7\u00e3o de temperatura observada neste. A capacidade t\u00e9rmica caracteriza o corpo, e n\u00e3o a subst\u00e2ncia que o constitui. A capacidade t\u00e9rmica \u00e9 uma propriedade extensiva, ou seja, proporcional \u00e0 quantidade de material presente no corpo. Com isso, dois corpos compostos pela mesma subst\u00e2ncia por\u00e9m com massas diferentes possuem diferentes capacidades calor\u00edficas.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u70ed\u5bb9\u91cf\uff08\u82f1\u8bed\uff1aheat capacity\uff09\u662f\u7528\u4ee5\u8861\u91cf\u7269\u8d28\u6240\u5305\u542b\u7684\u70ed\u91cf\u7684\u7269\u7406\u91cf\uff0c\u7528\u7b26\u53f7C \u8868\u793a\uff0c\u5355\u4f4d\u662fJ\u00b7K-1\u6216J\u00b7\u2103-1\u3002 \u70ed\u5bb9\u91cf\u7684\u5b9a\u4e49\u662f\u4e00\u5b9a\u91cf\u7684\u7269\u8d28\u5728\u4e00\u5b9a\u6761\u4ef6\u4e0b\u6e29\u5ea6\u5347\u9ad81\u5ea6\u6240\u9700\u8981\u7684\u70ed\uff0c\u5176\u516c\u5f0f\u4e3a\uff1a",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "La capacidad calor\u00edfica o capacidad t\u00e9rmica de un cuerpo es el cociente entre la cantidad de energ\u00eda calor\u00edfica transferida a un cuerpo o sistema en un proceso cualquiera y el cambio de temperatura que experimenta. En una forma m\u00e1s rigurosa, es la energ\u00eda necesaria para aumentar la temperatura de una determinada sustancia en una unidad de temperatura. Indica la mayor o menor dificultad que presenta dicho cuerpo para experimentar cambios de temperatura bajo el suministro de calor. Puede interpretarse como una medida de inercia t\u00e9rmica. Es una propiedad extensiva, ya que su magnitud depende, no solo de la sustancia, sino tambi\u00e9n de la cantidad de materia del cuerpo o sistema; por ello, es caracter\u00edstica de un cuerpo o sistema particular. Por ejemplo, la capacidad calor\u00edfica del agua de una p",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Pojemno\u015b\u0107 cieplna (oznaczana jako C, cz\u0119sto z indeksami) \u2013 wielko\u015b\u0107 fizyczna, kt\u00f3ra charakteryzuje ilo\u015b\u0107 ciep\u0142a, jaka jest niezb\u0119dna do zmiany temperatury cia\u0142a o jednostk\u0119 temperatury. gdzie: \n* - zmiana ciep\u0142a \n* - zmiana temperatury W Mi\u0119dzynarodowym Uk\u0142adzie Jednostek Miar jednostk\u0105 pojemno\u015bci cieplnej jest d\u017cul na kelwin .",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Heat capacity or thermal capacity is a measurable physical quantity equal to the ratio of the heat added to (or removed from) an object to the resulting temperature change. The SI unit of heat capacity is joule per kelvin and the dimensional form is L2MT\u22122\u0398\u22121. Specific heat is the amount of heat needed to raise the temperature of one kilogram of mass by 1 kelvin.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_mass"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/List_of_thermal_conductivities"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q179388"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Heat_capacity"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Pojemno\u015b\u0107_cieplna"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Warmtecapaciteit"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q179388"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0398\u03b5\u03c1\u03bc\u03bf\u03c7\u03c9\u03c1\u03b7\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Capacit\u00e0_termica"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u71b1\u5bb9\u91cf"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Capacidad_calor\u00edfica"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Tepeln\u00e1_kapacita"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc5f4\uc6a9\ub7c9"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Kapasitas_kalor"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Capacit\u00e9_thermique"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Capacidade_t\u00e9rmica"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01bl4n"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/W\u00e4rmekapazit\u00e4t"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Physical_quantities"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Thermodynamic_properties"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Heat_capacity"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Heat_capacity?oldid=744965478"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "https://books.google.com/books?isbn=0854041761"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.britannica.com/EBchecked/topic/258649/heat-capacity"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0627\u0644\u0633\u0639\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u0623\u0648 \u0627\u0644\u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u062d\u0631\u0627\u0631\u064a \u0645\u0635\u0637\u0644\u062d \u0645\u0646 \u0639\u0644\u0645 \u0627\u0644\u062f\u064a\u0646\u0627\u0645\u064a\u0643\u0627 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u064a\u0631\u0645\u0632 \u0644\u0647 \u0639\u0627\u062f\u0629 \u0628 C. \u0648\u0647\u064a \u0642\u064a\u0645\u0629 \u062a\u0628\u064a\u0646 \u0645\u062f\u0649 \u0642\u0627\u0628\u0644\u064a\u0629 \u062c\u0633\u0645 \u0645\u0627 \u0644\u062a\u062e\u0632\u064a\u0646 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629. \u062d\u064a\u062b \u062a\u0631\u0645\u0632 C \u0644\u0642\u064a\u0645\u0629 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 Q \u0627\u0644\u062a\u064a \u064a\u062c\u0628 \u0625\u0645\u062f\u0627\u062f \u062c\u0633\u0645 \u0623\u0648 \u0646\u0638\u0627\u0645 \u0645\u0627 \u0628\u0647\u0627 \u0644\u0631\u0641\u0639 \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u062a\u0647 \u062f\u0631\u062c\u0629 \u0645\u0626\u0648\u064a\u0629 \u0648\u0627\u062d\u062f\u0629. \u0648\u0639\u0644\u0649 \u0647\u0630\u0627 \u0627\u0644\u0623\u0633\u0627\u0633 \u0641\u0625\u0646 \u0648\u062d\u062f\u0629 \u0627\u0644\u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u062d\u0631\u0627\u0631\u064a \u0647\u064a \u0627\u0644\u062c\u0648\u0644 \u0644\u0643\u0644 \u0643\u0644\u0641\u0646. \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0635\u0644\u0628\u0629 \u0648\u0627\u0644\u0633\u0648\u0627\u0626\u0644 \u0644\u0627\u062a\u062e\u062a\u0644\u0641 \u0627\u0644\u0633\u0639\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u0639\u0646\u062f \u0636\u063a\u0637 \u062b\u0627\u0628\u062a \u0639\u0646 \u062a\u0644\u0643 \u0627\u0644\u0645\u0642\u0627\u0633\u0629 \u0639\u0646\u062f \u062d\u062c\u0645 \u062b\u0627\u0628\u062a. \u0623\u0645\u0627 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0644\u063a\u0627\u0632\u0627\u062a \u0641\u0646\u0645\u064a\u0632 \u0628\u064a\u0646 \u0627\u0644\u0633\u0639\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u0639\u0646\u062f \u0636\u063a\u0637 \u062b\u0627\u0628\u062a \u060c \u0648\u0627\u0644\u0633\u0639\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u0639\u0646\u062f \u062d\u062c\u0645 \u062b\u0627\u0628\u062a \u060c \u062d\u064a\u062b \u062a\u062a\u0645\u062f\u062f \u0627\u0644\u063a\u0627\u0632\u0627\u062a \u0643\u062b\u064a\u0631\u0627 \u0628\u0627\u0644\u062d\u0631\u0627\u0631\u0629 : \n*  \u0627\u0644\u0633\u0639\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u0639\u0646\u062f \u062d\u062c\u0645 \u062b\u0627\u0628\u062a: \n*  \u0627\u0644\u0633\u0639\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u0639\u0646\u062f \u0636\u063a\u0637 \u062b\u0627\u0628\u062a: \u0647\u0630\u0627 \u0647\u0648 \u0627\u0644\u062a\u0639\u0631\u064a\u0641 \u0627\u0644\u062a\u0631\u0645\u0648\u062f\u064a\u0646\u0627\u0645\u064a\u0643\u064a \u0644\u0644\u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u0646\u0648\u0639\u064a\u0629 \u0644\u063a\u0627\u0632 \u062d\u064a\u062b \u062a\u0639\u0646\u064a U \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0644\u0644\u0645\u0627\u062f\u0629 \u060c \u0623\u0645\u0627 \u0641\u064a \u062d\u0627\u0644\u0629 \u062b\u0628\u0627\u062a \u0627\u0644\u0636\u063a\u0637 \u0641\u062a\u0639\u0646\u064a H \u0625\u0646\u062b\u0627\u0644\u0628\u064a \u0627\u0644\u0645\u0627\u062f\u0629 (\u0648\u0647\u064a \u0637\u0627\u0642\u0629 \u0623\u0639\u0645 \u0645\u0646 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629). \u0648\u0637\u0628\u0642\u0627 \u0644\u0647\u0630\u0627 \u0627\u0644\u062a\u0639\u0631\u064a\u0641 \u062a\u0643\u0648\u0646 \u0627\u0644\u0633\u0639\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u0647\u064a \u0645\u0639\u062f\u0644 \u062a\u063a\u064a\u0631 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0644\u0644\u0645\u0627\u062f\u0629 \u0628\u062a\u063a\u064a\u0631 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u060c \u0623\u0648 \u0645\u0639\u062f\u0644 \u062a\u063a\u064a\u0631 \u0625\u0646\u062b\u0627\u0644\u0628\u064a \u0627\u0644\u0645\u0627\u062f\u0629 \u0628\u062a\u063a\u064a\u0631 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 (\u0627\u0646\u0638\u0631 \u0645\u0639\u0627\u062f\u0644\u0629 \u0627\u0644\u062d\u0627\u0644\u0629).",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "La capacit\u00e9 thermique (ou capacit\u00e9 calorifique) d'un corps est une grandeur permettant de quantifier la possibilit\u00e9 qu'a un corps d'absorber ou restituer de l'\u00e9nergie par \u00e9change thermique au cours d'une transformation pendant laquelle sa temp\u00e9rature varie. La capacit\u00e9 thermique est l'\u00e9nergie qu'il faut apporter \u00e0 un corps pour augmenter sa temp\u00e9rature d'un kelvin. Elle s'exprime en joule par kelvin (J/K). C'est une grandeur extensive : plus la quantit\u00e9 de mati\u00e8re est importante plus la capacit\u00e9 thermique est grande. Toutes choses \u00e9tant \u00e9gales par ailleurs, plus la capacit\u00e9 thermique d'un corps est grande, plus grande sera la quantit\u00e9 d'\u00e9nergie \u00e9chang\u00e9e au cours d'une transformation s'accompagnant d'une variation de la temp\u00e9rature de ce corps.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "De warmtecapaciteit van een voorwerp is in de thermodynamica het vermogen van dat voorwerp om energie in de vorm van warmte op te slaan. Voert men warmte aan een voorwerp toe, dan zal daarvan meestal de interne energie en daarmee de temperatuur stijgen (bij isotherme processen is dit niet het geval). Als bij dezelfde hoeveelheid toegevoerde warmte de temperatuur van het ene voorwerp minder stijgt dan van een ander, heeft het ene voorwerp een grotere warmtecapaciteit dan het andere. De warmtecapaciteit C van een voorwerp wordt uitgedrukt als de verandering met de temperatuur van de hoeveelheid opgeslagen warmte. Populair drukt men dat uit als de benodigde hoeveelheid warmte voor een temperatuurstijging van 1 K of 1 \u00b0C, of iets nauwkeuriger als de toegevoegde warmte per eenheid van temperatuur bij constante druk en constant volume. De eenheid waarin de warmtecapaciteit in het SI wordt uitgedrukt is: \n* De warmtecapaciteit (J K-1 (dat wil zeggen J/K, joule per kelvin) of J/\u00b0C (joule per graad Celsius) \n* De soortelijke warmte: J kg-1 K-1 \n* De atomaire warmtecapaciteit of molaire warmtecapaciteit: J (k)mol-1K-1 De warmtecapaciteit van een voorwerp kan gemeten worden met een calorimeter.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "La capacidad calor\u00edfica o capacidad t\u00e9rmica de un cuerpo es el cociente entre la cantidad de energ\u00eda calor\u00edfica transferida a un cuerpo o sistema en un proceso cualquiera y el cambio de temperatura que experimenta. En una forma m\u00e1s rigurosa, es la energ\u00eda necesaria para aumentar la temperatura de una determinada sustancia en una unidad de temperatura. Indica la mayor o menor dificultad que presenta dicho cuerpo para experimentar cambios de temperatura bajo el suministro de calor. Puede interpretarse como una medida de inercia t\u00e9rmica. Es una propiedad extensiva, ya que su magnitud depende, no solo de la sustancia, sino tambi\u00e9n de la cantidad de materia del cuerpo o sistema; por ello, es caracter\u00edstica de un cuerpo o sistema particular. Por ejemplo, la capacidad calor\u00edfica del agua de una piscina ol\u00edmpica ser\u00e1 mayor que la de un vaso de agua. En general, la capacidad calor\u00edfica depende adem\u00e1s de la temperatura y de la presi\u00f3n. La capacidad calor\u00edfica (capacidad t\u00e9rmica) no debe ser confundida con la capacidad calor\u00edfica espec\u00edfica (capacidad t\u00e9rmica espec\u00edfica) o calor espec\u00edfico, el cual es la propiedad intensiva que se refiere a la capacidad de un cuerpo \u00abpara almacenar calor\u00bb, y es el cociente entre la capacidad calor\u00edfica y la masa del objeto. El calor espec\u00edfico es una propiedad caracter\u00edstica de las sustancias y depende de las mismas variables que la capacidad calor\u00edfica.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Si definisce capacit\u00e0 termica di un corpo (o pi\u00f9 in generale di un qualunque sistema) il rapporto fra il calore scambiato tra il corpo e l'ambiente e la variazione di temperatura che ne consegue. In formule: Nel Sistema Internazionale l'unit\u00e0 di misura della capacit\u00e0 termica \u00e8 J/K, ed esprime la quantit\u00e0 di calore in joule che un sistema pu\u00f2 immagazzinare aumentando la sua temperatura di un kelvin.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Die W\u00e4rmekapazit\u00e4t eines K\u00f6rpers ist das Verh\u00e4ltnis der ihm zugef\u00fchrten W\u00e4rme zu der damit bewirkten Temperaturerh\u00f6hung: Die Einheit der W\u00e4rmekapazit\u00e4t ist J/K. Bei homogenen K\u00f6rpern l\u00e4sst sich die W\u00e4rmekapazit\u00e4t als Produkt der Masse des K\u00f6rpers und der spezifischen W\u00e4rmekapazit\u00e4t berechnen, oder auch als Produkt seiner Stoffmenge und seiner molaren W\u00e4rmekapazit\u00e4t. Sowohl die spezifische als auch die molare W\u00e4rmekapazit\u00e4t sind Materialkonstanten und in einschl\u00e4gigen Nachschlagewerken tabelliert. Die W\u00e4rmekapazit\u00e4t ist eine extensive Zustandsgr\u00f6\u00dfe, kann also f\u00fcr einen K\u00f6rper, der aus Teilen zusammengesetzt ist, als Summe der W\u00e4rmekapazit\u00e4ten seiner Teile berechnet werden. F\u00fcr Schichtsysteme wie z. B. Wandkonstruktionen wird die W\u00e4rmekapazit\u00e4t pro Fl\u00e4cheneinheit angegeben, in J/m2K, f\u00fcr Meterware wie z. B. extrudierte K\u00fchlk\u00f6rper pro L\u00e4ngeneinheit, in J/mK.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Heat capacity or thermal capacity is a measurable physical quantity equal to the ratio of the heat added to (or removed from) an object to the resulting temperature change. The SI unit of heat capacity is joule per kelvin and the dimensional form is L2MT\u22122\u0398\u22121. Specific heat is the amount of heat needed to raise the temperature of one kilogram of mass by 1 kelvin. Heat capacity is an extensive property of matter, meaning it is proportional to the size of the system. When expressing the same phenomenon as an intensive property, the heat capacity is divided by the amount of substance, mass, or volume, thus the quantity is independent of the size or extent of the sample. The molar heat capacity is the heat capacity per unit amount (SI unit: mole) of a pure substance and the specific heat capacity, often simply called specific heat, is the heat capacity per unit mass of a material. Nonetheless some authors state the term specific heat to refer to the ratio of the specific heat capacity of a substance at any given temperature, to the specific heat capacity of another substance at a reference temperature, much in the fashion of a specific gravity. Occasionally, in engineering contexts, the volumetric heat capacity is used. Temperature reflects the average randomized kinetic energy of constituent particles of matter (e.g. atoms or molecules) relative to the centre of mass of the system, while heat is the transfer of energy across a system boundary into the body other than by work or matter transfer. Translation, rotation, and vibration of atoms represent the degrees of freedom of motion which classically contribute to the heat capacity of gases, while only vibrations are needed to describe the heat capacities of most solids, as shown by the Dulong\u2013Petit law. Other contributions can come from magnetic and electronicdegrees of freedom in solids, but these rarely make substantial contributions. For quantum mechanical reasons, at any given temperature, some of these degrees of freedom may be unavailable, or only partially available, to store thermal energy. In such cases, the specific heat capacity is a fraction of the maximum. As the temperature approaches absolute zero, the specific capacity of a system approaches zero, due to loss of available degrees of freedom. Quantum theory can be used to quantitatively predict the specific heat capacity of simple systems.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u71b1\u5bb9\u91cf\uff08\u306d\u3064\u3088\u3046\u308a\u3087\u3046\u3001\u82f1\u8a9e: heat capacity\uff09\u3068\u306f\u3001\u7cfb\u306b\u5bfe\u3057\u3066\u71b1\u306e\u51fa\u5165\u308a\u304c\u3042\u3063\u305f\u3068\u304d\u3001\u7cfb\u306e\u6e29\u5ea6\u304c\u3069\u306e\u7a0b\u5ea6\u5909\u5316\u3059\u308b\u304b\u3092\u8868\u3059\u72b6\u614b\u91cf\u3067\u3042\u308b\u3002\u5358\u4f4d\u306f\u30b8\u30e5\u30fc\u30eb\u6bce\u30b1\u30eb\u30d3\u30f3\uff08J/K\uff09\u304c\u7528\u3044\u3089\u308c\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Pojemno\u015b\u0107 cieplna (oznaczana jako C, cz\u0119sto z indeksami) \u2013 wielko\u015b\u0107 fizyczna, kt\u00f3ra charakteryzuje ilo\u015b\u0107 ciep\u0142a, jaka jest niezb\u0119dna do zmiany temperatury cia\u0142a o jednostk\u0119 temperatury. gdzie: \n* - zmiana ciep\u0142a \n* - zmiana temperatury W Mi\u0119dzynarodowym Uk\u0142adzie Jednostek Miar jednostk\u0105 pojemno\u015bci cieplnej jest d\u017cul na kelwin . Wielko\u015bci pochodne obejmuj\u0105 molow\u0105 pojemno\u015b\u0107 ciepln\u0105, kt\u00f3ra jest pojemno\u015bci\u0105 ciepln\u0105 na mol czystej substancji oraz w\u0142a\u015bciw\u0105 pojemno\u015b\u0107 ciepln\u0105 (nazywan\u0105 poprawniej masow\u0105 w\u0142a\u015bciw\u0105 pojemno\u015bci\u0105 ciepln\u0105, a mniej dok\u0142adnie ciep\u0142em w\u0142a\u015bciwym), kt\u00f3ra jest pojemno\u015bci\u0105 ciepln\u0105 na jednostk\u0119 masy cia\u0142a. Wielko\u015bci te s\u0105 wielko\u015bciami intensywnymi, co oznacza, \u017ce nie s\u0105 uzale\u017cnione od ilo\u015bci, ale od rodzaju materia\u0142u, jak i r\u00f3wnie\u017c warunk\u00f3w fizycznych ogrzewania. Temperatura jest miernikiem \u015bredniej energii kinetycznej chaotycznego ruchu post\u0119powego cz\u0105steczek w materii. Ciep\u0142o jest przenoszeniem energii cieplnej; przep\u0142ywa z obszar\u00f3w o wy\u017cszej temperaturze do obszar\u00f3w o ni\u017cszej temperaturze. Energia termiczna jest przechowywana w postaci energii kinetycznej w przypadkowych ruchach post\u0119powych w gazach jednoatomowych, a w cz\u0105steczkach gaz\u00f3w wieloatomowych jako energia ich obrotu i wewn\u0119trznych drga\u0144. Dodatkowo cz\u0119\u015b\u0107 energii cieplnej mo\u017ce by\u0107 przechowywana jako energia potencjalna oddzia\u0142ywania cz\u0105steczek, jak i oddzia\u0142ywa\u0144 wewn\u0105trz cz\u0105steczek. Ruch, obr\u00f3t i dwa rodzaje energii w drga\u0144 (kinetyczna i potencjalna) reprezentuj\u0105 stopnie swobody ruchu, kt\u00f3ry w klasycznym opisie materii wnosi wk\u0142ad do pojemno\u015bci cieplnej uk\u0142adu termodynamicznego. Mechanika klasyczna nie wyja\u015bnia, dlaczego w niskich temperaturach warto\u015bci do\u015bwiadczalne odpowiadaj\u0105 mniejszej liczbie stopni swobody, ni\u017c wynika to z teorii. W mechanice kwantowej pewne z tych stopni swobody w danej temperaturze s\u0105 niedost\u0119pne lub tylko cz\u0119\u015bciowo dost\u0119pne dla przechowywania w nich energii cieplnej. Gdy temperatura zbli\u017ca si\u0119 do zera bezwzgl\u0119dnego, pojemno\u015b\u0107 cieplna uk\u0142adu r\u00f3wnie\u017c zbli\u017ca si\u0119 do zera. Mechanika kwantowa mo\u017ce by\u0107 u\u017cywana do ilo\u015bciowego przewidywania pojemno\u015bciowego ciep\u0142a w\u0142a\u015bciwego w prostych uk\u0142adach termodynamicznych.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0435\u043f\u043b\u043e\u0451\u043c\u043a\u043e\u0441\u0442\u044c \u0442\u0435\u043b\u0430 (\u043e\u0431\u044b\u0447\u043d\u043e \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442\u0441\u044f \u043b\u0430\u0442\u0438\u043d\u0441\u043a\u043e\u0439 \u0431\u0443\u043a\u0432\u043e\u0439 C) \u2014 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430, \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u043c\u0430\u044f \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435\u043c \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u043e \u043c\u0430\u043b\u043e\u0433\u043e \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0442\u0435\u043f\u043b\u043e\u0442\u044b \u03b4Q, \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u0442\u0435\u043b\u043e\u043c, \u043a \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0435\u043c\u0443 \u043f\u0440\u0438\u0440\u0430\u0449\u0435\u043d\u0438\u044e \u0435\u0433\u043e \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u03b4T: \u0415\u0434\u0438\u043d\u0438\u0446\u0430 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0442\u0435\u043f\u043b\u043e\u0451\u043c\u043a\u043e\u0441\u0442\u0438 \u0432 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0435\u0434\u0438\u043d\u0438\u0446 (\u0421\u0418) \u2014 \u0414\u0436/\u041a.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u70ed\u5bb9\u91cf\uff08\u82f1\u8bed\uff1aheat capacity\uff09\u662f\u7528\u4ee5\u8861\u91cf\u7269\u8d28\u6240\u5305\u542b\u7684\u70ed\u91cf\u7684\u7269\u7406\u91cf\uff0c\u7528\u7b26\u53f7C \u8868\u793a\uff0c\u5355\u4f4d\u662fJ\u00b7K-1\u6216J\u00b7\u2103-1\u3002 \u70ed\u5bb9\u91cf\u7684\u5b9a\u4e49\u662f\u4e00\u5b9a\u91cf\u7684\u7269\u8d28\u5728\u4e00\u5b9a\u6761\u4ef6\u4e0b\u6e29\u5ea6\u5347\u9ad81\u5ea6\u6240\u9700\u8981\u7684\u70ed\uff0c\u5176\u516c\u5f0f\u4e3a\uff1a",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Capacidade t\u00e9rmica ou capacidade calor\u00edfica (usualmente denotada pela letra ) \u00e9 a grandeza f\u00edsica que determina a rela\u00e7\u00e3o entre a quantidade de calor fornecida a um corpo e a varia\u00e7\u00e3o de temperatura observada neste. A capacidade t\u00e9rmica caracteriza o corpo, e n\u00e3o a subst\u00e2ncia que o constitui. A capacidade t\u00e9rmica \u00e9 uma propriedade extensiva, ou seja, proporcional \u00e0 quantidade de material presente no corpo. Com isso, dois corpos compostos pela mesma subst\u00e2ncia por\u00e9m com massas diferentes possuem diferentes capacidades calor\u00edficas. Grandezas derivadas que especificam a capacidade t\u00e9rmica como uma propriedade intensiva existem, sendo ent\u00e3o uma caracter\u00edstica da subst\u00e2ncia. Essas s\u00e3o: o calor espec\u00edfico, que \u00e9 a capacidade t\u00e9rmica por unidade de massa da subst\u00e2ncia, e o calor espec\u00edfico molar, resultante da rela\u00e7\u00e3o entre a capacidade t\u00e9rmica e o n\u00famero de mols presentes. Ocasionalmente, pode ser usado o calor espec\u00edfico volum\u00e9trico (por unidade de volume). A temperatura reflete a energia cin\u00e9tica m\u00e9dia das part\u00edculas na mat\u00e9ria, enquanto calor \u00e9 a energia t\u00e9rmica em tr\u00e2nsito das regi\u00f5es de maior para aquelas com menor temperatura. A energia t\u00e9rmica transmitida como calor \u00e9 armazenada como energia cin\u00e9tica translacional em \u00e1tomos e rotacional em mol\u00e9culas. Adicionalmente, parte da energia t\u00e9rmica pode ser convertida em energia potencial associada aos modos de vibra\u00e7\u00e3o, de maior energia, nas liga\u00e7\u00f5es interat\u00f4micas. Transla\u00e7\u00e3o, rota\u00e7\u00e3o e as energias cin\u00e9tica e potencial associadas \u00e0 vibra\u00e7\u00e3o representam os graus de liberdade do movimento que contribuem classicamente \u00e0 capacidade t\u00e9rmica. Em temperaturas suficientemente altas, cada grau de liberdade contribui igualmente com o calor espec\u00edfico (de acordo com o teorema da equiparti\u00e7\u00e3o, a contribui\u00e7\u00e3o de cada um no calor espec\u00edfico molar \u00e9 1/2 R), de tal forma que o calor espec\u00edfico dos metais e muitos s\u00f3lidos a temperatura ambiente aproxima-se a 25 joules por kelvin para cada mol de \u00e1tomos, dado pela lei de Dulong-Petit. Devido a fen\u00f4menos da mec\u00e2nica qu\u00e2ntica, alguns graus de liberdade podem n\u00e3o ser atingidos ou estar dispon\u00edveis parcialmente, de forma que o calor espec\u00edfico \u00e9 uma fra\u00e7\u00e3o do m\u00e1ximo.",
+                "lang": "pt"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744965478,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 194227,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Specific_heat_of_solids": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thermal_capacity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Molar_heat_capacity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Molal_specific_heat": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Specific_heat_capacity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/C_sub_p": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Specific_heat_at_STP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Freeze-out_temperature": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Heat_capacity": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Temperature": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Heat_Capacity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Specific_Heat_Capacity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Molar_specific_heat": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thermal_capacities": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Specific_heat": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thermal_mass": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Joule_per_kilogram-kelvin": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Specific_heats": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Molar_heat": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Atomic_heat": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Massic_heat": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Capacity": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Specific_Heat": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Molecular_specific_heat": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Heat_capacities": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Molal_heat_capacity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Molecular_heat_capacity": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Heat_capacity"
+            }
+        ]
+    }
+}

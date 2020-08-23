@@ -1,0 +1,28 @@
+{
+    "@text": "What's the place where James I of Scotland is detained?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/James_VI_and_I",
+            "@support": "6214",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Royalty,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "James I",
+            "@offset": "23",
+            "@similarityScore": "0.9661507979915082",
+            "@percentageOfSecondRank": "0.033851740374756134"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Scotland",
+            "@support": "103368",
+            "@types": "",
+            "@surfaceForm": "Scotland",
+            "@offset": "34",
+            "@similarityScore": "0.9879556756702745",
+            "@percentageOfSecondRank": "0.007916234058460168"
+        }
+    ]
+}

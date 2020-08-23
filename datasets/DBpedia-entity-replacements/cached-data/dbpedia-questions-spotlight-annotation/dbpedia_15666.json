@@ -1,0 +1,37 @@
+{
+    "@text": "Is green day genre hard rock and alternative rock?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Green_Day",
+            "@support": "3398",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q215380,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:MusicGroup,DBpedia:Organisation,DBpedia:Group,DBpedia:Band,DBpedia:Agent",
+            "@surfaceForm": "green day",
+            "@offset": "3",
+            "@similarityScore": "0.9999999999909477",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Hard_rock",
+            "@support": "6448",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "hard rock",
+            "@offset": "19",
+            "@similarityScore": "0.9988531716895065",
+            "@percentageOfSecondRank": "0.0010106607420917854"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Alternative_rock",
+            "@support": "10853",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "alternative rock",
+            "@offset": "33",
+            "@similarityScore": "0.9996454047800197",
+            "@percentageOfSecondRank": "2.0145822224132567E-4"
+        }
+    ]
+}

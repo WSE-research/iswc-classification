@@ -1,0 +1,28 @@
+{
+    "@text": "Which municipality of Spain starts with the letter z",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Municipality",
+            "@support": "25072",
+            "@types": "",
+            "@surfaceForm": "municipality",
+            "@offset": "6",
+            "@similarityScore": "0.7221863577844605",
+            "@percentageOfSecondRank": "0.30784649019934346"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Spain",
+            "@support": "116912",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Spain",
+            "@offset": "22",
+            "@similarityScore": "0.9980138605180858",
+            "@percentageOfSecondRank": "0.0017407033291035267"
+        }
+    ]
+}

@@ -1,0 +1,416 @@
+{
+    "http://dbpedia.org/resource/Virtual_International_Authority_File": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Device103183080"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Instrumentality103575240"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Artifact100021939"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Machine103699975"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Software"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WebSite106359193"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Computer103082979"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u30d0\u30fc\u30c1\u30e3\u30eb\u56fd\u969b\u5178\u62e0\u30d5\u30a1\u30a4\u30eb",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0644\u0641 \u0627\u0633\u062a\u0646\u0627\u062f\u064a \u062f\u0648\u0644\u064a \u0627\u0641\u062a\u0631\u0627\u0636\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u865a\u62df\u56fd\u9645\u89c4\u8303\u6587\u6863",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Fichier d'autorit\u00e9 international virtuel",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Fichero de Autoridades Virtual Internacional",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Virtual International Authority File",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Base Virtual Internacional de Autoridade",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Virtual International Authority File",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Virtual International Authority File",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Virtual International Authority File",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "VIAF",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "VIAF (\u0430\u043d\u0433\u043b. Virtual International Authority File \u2014 \u0412\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u0432\u0442\u043e\u0440\u0438\u0442\u0435\u0442\u043d\u044b\u0439 \u0444\u0430\u0439\u043b) \u2014 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u043d\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f (\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043e \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u044f\u0445 \u0438 \u0438\u0445 \u0430\u0432\u0442\u043e\u0440\u0430\u0445). \u0412 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u043e \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0445 \u043c\u0438\u0440\u043e\u0432\u044b\u0445 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u041d\u0435\u043c\u0435\u0446\u043a\u0430\u044f \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430, \u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441\u0430 \u0421\u0428\u0410.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Das Virtual International Authority File (VIAF) ist eine virtuelle internationale Normdatei f\u00fcr Personendaten. Es ist ein Gemeinschaftsprojekt mehrerer Nationalbibliotheken und Bibliotheksverb\u00fcnde, das durch das Online Computer Library Center (OCLC) betrieben wird. Das Projekt wurde 2003 gemeinsam von der Deutschen Nationalbibliothek und der Library of Congress initiiert und nahm 2012 seinen regul\u00e4ren Betrieb auf.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u30d0\u30fc\u30c1\u30e3\u30eb\u56fd\u969b\u5178\u62e0\u30d5\u30a1\u30a4\u30eb\uff08\u30d0\u30fc\u30c1\u30e3\u30eb\u3053\u304f\u3055\u3044\u3066\u3093\u304d\u3087\u30d5\u30a1\u30a4\u30eb\u3001\u82f1: Virtual International Authority File\u3001VIAF\uff09\u3068\u306f\u3001\u56fd\u969b\u7684\u306a\u5178\u62e0\u30d5\u30a1\u30a4\u30eb\u3067\u3042\u308b\u3002\u3044\u304f\u3064\u304b\u306e\u56fd\u7acb\u56f3\u66f8\u9928\u306b\u3088\u308b\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3067\u3001Online Computer Library Center (OCLC) \u306b\u3088\u3063\u3066\u904b\u55b6\u7ba1\u7406\u3055\u308c\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Il Virtual International Authority File (acronimo: VIAF) \u00e8 un progetto internazionale che ha dato vita ad un'unica base dati di voci di autorit\u00e0 controllate, (ca. 20 milioni di autori provenienti da 24 cataloghi collettivi nazionali) a disposizione quale servizio gratuito del web semantico; in essa l'utente pu\u00f2 cercare un autore utilizzando la forma del nome utilizzata nella propria lingua, scrittura e alfabeto preferiti e accedere immediatamente ai cataloghi nazionali o internazionali corrispondenti per visualizzare la lista delle loro opere.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "El Fichero de Autoridades Virtual Internacional (FAVI), en ingl\u00e9s: Virtual International Authority File (VIAF) es un proyecto de bibliotecas nacionales y operado por el Online Computer Library Center (OCLC) para unir los ficheros de autoridad virtual de aquellas bibliotecas. El proyecto fue iniciado por la Biblioteca Nacional de Alemania y por la Biblioteca del Congreso de los EE. UU. a la que se unieron la Biblioteca Nacional de Espa\u00f1a entre otras.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0645\u0644\u0641 \u0627\u0644\u0627\u0633\u062a\u0646\u0627\u062f\u064a \u0627\u0644\u062f\u0648\u0644\u064a \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0627\u0644\u0631\u0645\u0648\u0632 VIAF \u0647\u0648 \u0645\u0634\u0631\u0648\u0639 \u0645\u0634\u062a\u0631\u0643 \u0628\u064a\u0646 \u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0631\u0633 \u0648\u0627\u0644\u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629 \u0648\u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629. \u064a\u0647\u062f\u0641 \u0625\u0644\u0649 \u062f\u0645\u062c \u0627\u0644\u0645\u0644\u0641\u0627\u062a \u0627\u0644\u0627\u0633\u062a\u0646\u0627\u062f\u064a\u0629 \u0641\u064a \u0627\u0644\u0645\u0643\u062a\u0628\u0627\u062a \u0627\u0644\u062b\u0644\u0627\u062b.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "The Virtual International Authority File (VIAF) is an international authority file. It is a joint project of several national libraries and operated by the Online Computer Library Center (OCLC). The project was initiated by the German National Library and the US Library of Congress. The file numbers are also being added to Wikipedia biographical articles and are incorporated into Wikidata.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "A Base Virtual Internacional de Autoridade (em ingl\u00eas: Virtual International Authority File, VIAF) \u00e9 um ficheiro de autoridade virtual e internacional para pessoas. O projeto, iniciado em 2003, envolve diversas bibliotecas nacionuais e \u00e9 operado pelo Online Computer Library Center (OCLC) para unir os ficheiros de autoridade daquelas bibliotecas. O projeto foi iniciado pela Biblioteca Nacional da Alemanha e pela Biblioteca do Congresso.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Le fichier d\u2019autorit\u00e9 international virtuel (Virtual International Authority File : VIAF) est un fichier d'autorit\u00e9 international pour identifier les personnes ou collectivit\u00e9s contenues dans d'autres fichiers d'autorit\u00e9. La consultation de ce fichier est offerte gratuitement aux biblioth\u00e8ques et aux particuliers par le web, et permet de mettre en relation les notices d'autorit\u00e9 des diff\u00e9rentes biblioth\u00e8ques concernant une m\u00eame personne, par un identifiant VIAF.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Virtual International Authority File (VIAF) is een internationale, online dienst waarmee persoonsnamen van auteurs gekoppeld worden. Dit koppelen gebeurt op basis van thesaurusbestanden die voorkomen in catalogi van diverse bibliotheken in de wereld. VIAF zorgt voor een eenduidige verwijzing naar personen onafhankelijk van variaties in schrijfwijze. De techniek om deze data te verzamelen berust op het Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH).",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u865a\u62df\u56fd\u9645\u89c4\u8303\u6587\u6863\uff08\u82f1\u8bed\uff1aVirtual International Authority File\uff0cVIAF\uff09\u662f\u4e00\u4e2a\u56fd\u9645\u6027\u7684\u89c4\u8303\u6587\u6863\u3002\u8be5\u9879\u76ee\u8054\u5408\u4e86\u8bb8\u591a\u56fd\u5bb6\u56fe\u4e66\u9986\uff0c\u7531\u7ebf\u4e0a\u7535\u8111\u56fe\u4e66\u9986\u4e2d\u5fc3\uff08OCLC\uff09\u8d1f\u8d23\u8fd0\u8425\u3002\u9879\u76ee\u6700\u521d\u662f\u4e3a\u8fde\u63a5\u5fb7\u610f\u5fd7\u56fd\u5bb6\u56fe\u4e66\u9986\u4e0e\u7f8e\u56fd\u56fd\u4f1a\u56fe\u4e66\u9986\u7684\u89c4\u8303\u6587\u6863\u800c\u5efa\u7684\uff0c\u5176\u76ee\u6807\u662f\u8fde\u63a5\u4e16\u754c\u5404\u56fd\u7684\u89c4\u8303\u6587\u6863\uff0c\u4f7f\u4e4b\u6210\u4e3a\u4e00\u4e2a\u7edf\u4e00\u7684\u865a\u62df\u89c4\u8303\u6587\u6863\u3002\u8be5\u9879\u76ee\u7684\u89c4\u8303\u8bb0\u5f55\u53ef\u5728\u7f51\u4e0a\u514d\u8d39\u68c0\u7d22\u3002",
+                "lang": "zh"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Virtual_International_Authority_File"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Virtual_International_Authority_File"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uac00\uc0c1_\uad6d\uc81c_\uc804\uac70_\ud30c\uc77c"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.09gd1_1"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Virtual_International_Authority_File"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/Virtual_International_Authority_File"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q54919"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virtual_International_Authority_File"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q54919"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Fichero_de_Autoridades_Virtual_Internacional"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Virtual_International_Authority_File"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Base_Virtual_Internacional_de_Autoridade"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Fichier_d'autorit\u00e9_international_virtuel"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Virtual_International_Authority_File"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u30d0\u30fc\u30c1\u30e3\u30eb\u56fd\u969b\u5178\u62e0\u30d5\u30a1\u30a4\u30eb"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Virtual_International_Authority_File"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:OCLC"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Library_cataloging_and_classification"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Library_of_Congress"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Identifiers"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/VIAF_Screenshot_2012.png"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Virtual_International_Authority_File"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Virtual_International_Authority_File?oldid=743915647"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "https://viaf.org/viaf/70042340"
+            }
+        ],
+        "http://dbpedia.org/property/example": [
+            {
+                "type": "uri",
+                "value": "https://viaf.org/viaf/70042340"
+            }
+        ],
+        "http://dbpedia.org/property/name": [
+            {
+                "type": "literal",
+                "value": "Virtual International Authority File",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://dbpedia.org/property/organisation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Online_Computer_Library_Center"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "A Base Virtual Internacional de Autoridade (em ingl\u00eas: Virtual International Authority File, VIAF) \u00e9 um ficheiro de autoridade virtual e internacional para pessoas. O projeto, iniciado em 2003, envolve diversas bibliotecas nacionuais e \u00e9 operado pelo Online Computer Library Center (OCLC) para unir os ficheiros de autoridade daquelas bibliotecas. O projeto foi iniciado pela Biblioteca Nacional da Alemanha e pela Biblioteca do Congresso.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Das Virtual International Authority File (VIAF) ist eine virtuelle internationale Normdatei f\u00fcr Personendaten. Es ist ein Gemeinschaftsprojekt mehrerer Nationalbibliotheken und Bibliotheksverb\u00fcnde, das durch das Online Computer Library Center (OCLC) betrieben wird. Das Projekt wurde 2003 gemeinsam von der Deutschen Nationalbibliothek und der Library of Congress initiiert und nahm 2012 seinen regul\u00e4ren Betrieb auf.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "The Virtual International Authority File (VIAF) is an international authority file. It is a joint project of several national libraries and operated by the Online Computer Library Center (OCLC). The project was initiated by the German National Library and the US Library of Congress. The aim is to link the national authority files (such as the German Name Authority File) to a single virtual authority file. In this file, identical records from the different data sets are linked together. A VIAF record receives a standard data number, contains the primary \"see\" and \"see also\" records from the original records, and refers to the original authority records. The data are made available online and are available for research and data exchange and sharing. Reciprocal updating uses the Open Archives Initiative protocol. The file numbers are also being added to Wikipedia biographical articles and are incorporated into Wikidata.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u30d0\u30fc\u30c1\u30e3\u30eb\u56fd\u969b\u5178\u62e0\u30d5\u30a1\u30a4\u30eb\uff08\u30d0\u30fc\u30c1\u30e3\u30eb\u3053\u304f\u3055\u3044\u3066\u3093\u304d\u3087\u30d5\u30a1\u30a4\u30eb\u3001\u82f1: Virtual International Authority File\u3001VIAF\uff09\u3068\u306f\u3001\u56fd\u969b\u7684\u306a\u5178\u62e0\u30d5\u30a1\u30a4\u30eb\u3067\u3042\u308b\u3002\u3044\u304f\u3064\u304b\u306e\u56fd\u7acb\u56f3\u66f8\u9928\u306b\u3088\u308b\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3067\u3001Online Computer Library Center (OCLC) \u306b\u3088\u3063\u3066\u904b\u55b6\u7ba1\u7406\u3055\u308c\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "El Fichero de Autoridades Virtual Internacional (FAVI), en ingl\u00e9s: Virtual International Authority File (VIAF) es un proyecto de bibliotecas nacionales y operado por el Online Computer Library Center (OCLC) para unir los ficheros de autoridad virtual de aquellas bibliotecas. El proyecto fue iniciado por la Biblioteca Nacional de Alemania y por la Biblioteca del Congreso de los EE. UU. a la que se unieron la Biblioteca Nacional de Espa\u00f1a entre otras.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Il Virtual International Authority File (acronimo: VIAF) \u00e8 un progetto internazionale che ha dato vita ad un'unica base dati di voci di autorit\u00e0 controllate, (ca. 20 milioni di autori provenienti da 24 cataloghi collettivi nazionali) a disposizione quale servizio gratuito del web semantico; in essa l'utente pu\u00f2 cercare un autore utilizzando la forma del nome utilizzata nella propria lingua, scrittura e alfabeto preferiti e accedere immediatamente ai cataloghi nazionali o internazionali corrispondenti per visualizzare la lista delle loro opere. Es. La ricerca con la forma del nome usata nei cataloghi spagnoli: Augustus Iulianus, 331 363 e quella fatta con la forma usata nei cataloghi tedeschi Julian R\u00f6misches Reich, Kaiser 331-363 consentono entrambe di arrivare ad effettuare direttamente la ricerca nei diversi cataloghi nazionali. Promosso dalla Biblioteca del Congresso statunitense, la Deutsche Nationalbibliothek tedesca (DNB), \u00e8 ora sostenuto dall'Online Computer Library Center (OCLC); hanno aderito successivamente numerose altre biblioteche nazionali fra cui l'Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (ICCU).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "VIAF (\u0430\u043d\u0433\u043b. Virtual International Authority File \u2014 \u0412\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u0432\u0442\u043e\u0440\u0438\u0442\u0435\u0442\u043d\u044b\u0439 \u0444\u0430\u0439\u043b) \u2014 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u043d\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f (\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043e \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u044f\u0445 \u0438 \u0438\u0445 \u0430\u0432\u0442\u043e\u0440\u0430\u0445). \u0412 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u043e \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0445 \u043c\u0438\u0440\u043e\u0432\u044b\u0445 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u041d\u0435\u043c\u0435\u0446\u043a\u0430\u044f \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430, \u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441\u0430 \u0421\u0428\u0410. VIAF \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u043e\u0439 \u043a\u043b\u0430\u0441\u0441\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438. \u042d\u0442\u043e \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a \u0438 \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u041e\u043d\u043b\u0430\u0439\u043d\u043e\u0432\u044b\u043c \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u043c \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u0447\u043d\u044b\u043c \u0446\u0435\u043d\u0442\u0440\u043e\u043c (OCLC). \u041f\u0440\u043e\u0435\u043a\u0442 \u0431\u044b\u043b \u0438\u043d\u0438\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d \u041d\u0435\u043c\u0435\u0446\u043a\u043e\u0439 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u043e\u0439 \u0438 \u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u043e\u0439 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441\u0430 \u0421\u0428\u0410. \u041f\u0440\u043e\u0435\u043a\u0442 \u043e\u0441\u043d\u043e\u0432\u0430\u043d \u0432 2000 \u0433\u043e\u0434\u0443.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Virtual International Authority File (VIAF) is een internationale, online dienst waarmee persoonsnamen van auteurs gekoppeld worden. Dit koppelen gebeurt op basis van thesaurusbestanden die voorkomen in catalogi van diverse bibliotheken in de wereld. VIAF zorgt voor een eenduidige verwijzing naar personen onafhankelijk van variaties in schrijfwijze. VIAF is begonnen als gezamenlijk project van de Library of Congress, de Nationale Bibliotheek van Duitsland (DNB), de Biblioth\u00e8que nationale de France (BNF) en het Online Computer Library Center (OCLC). Inmiddels hebben 22 organisaties uit 19 landen hier aan bijgedragen. De Koninklijke Bibliotheek (Nederland) testte haar aansluiting in 2013. VIAF koppelt alle thesaurusgegevens voor een bepaalde entiteit aan elkaar tot een \"super\" thesaurusrecord. Met VIAF kan gezocht worden in de metadata van een entiteit in wereldwijd aangesloten bibliotheken. Met WorldCat kan men zoeken op deze entiteit zelf in de wereldwijd aangesloten bibliotheken. De techniek om deze data te verzamelen berust op het Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH). Wikidata laat toe om de verschillende Authority Files te registreren per auteursnaam.Dit vergemakkelijkt het opzoeken van de volledige bibliografie van een bepaalde auteur.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u865a\u62df\u56fd\u9645\u89c4\u8303\u6587\u6863\uff08\u82f1\u8bed\uff1aVirtual International Authority File\uff0cVIAF\uff09\u662f\u4e00\u4e2a\u56fd\u9645\u6027\u7684\u89c4\u8303\u6587\u6863\u3002\u8be5\u9879\u76ee\u8054\u5408\u4e86\u8bb8\u591a\u56fd\u5bb6\u56fe\u4e66\u9986\uff0c\u7531\u7ebf\u4e0a\u7535\u8111\u56fe\u4e66\u9986\u4e2d\u5fc3\uff08OCLC\uff09\u8d1f\u8d23\u8fd0\u8425\u3002\u9879\u76ee\u6700\u521d\u662f\u4e3a\u8fde\u63a5\u5fb7\u610f\u5fd7\u56fd\u5bb6\u56fe\u4e66\u9986\u4e0e\u7f8e\u56fd\u56fd\u4f1a\u56fe\u4e66\u9986\u7684\u89c4\u8303\u6587\u6863\u800c\u5efa\u7684\uff0c\u5176\u76ee\u6807\u662f\u8fde\u63a5\u4e16\u754c\u5404\u56fd\u7684\u89c4\u8303\u6587\u6863\uff0c\u4f7f\u4e4b\u6210\u4e3a\u4e00\u4e2a\u7edf\u4e00\u7684\u865a\u62df\u89c4\u8303\u6587\u6863\u3002\u8be5\u9879\u76ee\u7684\u89c4\u8303\u8bb0\u5f55\u53ef\u5728\u7f51\u4e0a\u514d\u8d39\u68c0\u7d22\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Le fichier d\u2019autorit\u00e9 international virtuel (Virtual International Authority File : VIAF) est un fichier d'autorit\u00e9 international pour identifier les personnes ou collectivit\u00e9s contenues dans d'autres fichiers d'autorit\u00e9. La consultation de ce fichier est offerte gratuitement aux biblioth\u00e8ques et aux particuliers par le web, et permet de mettre en relation les notices d'autorit\u00e9 des diff\u00e9rentes biblioth\u00e8ques concernant une m\u00eame personne, par un identifiant VIAF.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0645\u0644\u0641 \u0627\u0644\u0627\u0633\u062a\u0646\u0627\u062f\u064a \u0627\u0644\u062f\u0648\u0644\u064a \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0627\u0644\u0631\u0645\u0648\u0632 VIAF \u0647\u0648 \u0645\u0634\u0631\u0648\u0639 \u0645\u0634\u062a\u0631\u0643 \u0628\u064a\u0646 \u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0631\u0633 \u0648\u0627\u0644\u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629 \u0648\u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629. \u064a\u0647\u062f\u0641 \u0625\u0644\u0649 \u062f\u0645\u062c \u0627\u0644\u0645\u0644\u0641\u0627\u062a \u0627\u0644\u0627\u0633\u062a\u0646\u0627\u062f\u064a\u0629 \u0641\u064a \u0627\u0644\u0645\u0643\u062a\u0628\u0627\u062a \u0627\u0644\u062b\u0644\u0627\u062b.",
+                "lang": "ar"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/VIAF_Screenshot_2012.png?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743915647,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 25175562,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/property/acronym": [
+            {
+                "type": "literal",
+                "value": "VIAF",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/File"
+            }
+        ],
+        "http://dbpedia.org/property/imageCaption": [
+            {
+                "type": "literal",
+                "value": "Screenshot 2012",
+                "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/The_Virtual_International_Authority_File": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virtual_International_Authority_File"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Virtual_International_Authority_File": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virtual_International_Authority_File"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Viaf.org": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virtual_International_Authority_File"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/VIAF": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Virtual_International_Authority_File"
+            }
+        ]
+    }
+}

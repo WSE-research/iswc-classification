@@ -1,0 +1,28 @@
+{
+    "@text": "What city in New York was Martin Balsam born in?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "5",
+            "@similarityScore": "0.910925566237013",
+            "@percentageOfSecondRank": "0.050061191366720575"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/New_York",
+            "@support": "160387",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "New York",
+            "@offset": "13",
+            "@similarityScore": "0.6095964105312266",
+            "@percentageOfSecondRank": "0.6397460680156499"
+        }
+    ]
+}

@@ -1,0 +1,374 @@
+{
+    "http://dbpedia.org/resource/Technical_University_of_Munich": {
+        "http://dbpedia.org/property/academicAffiliation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dresden_University_of_Technology": {
+        "http://dbpedia.org/ontology/affiliation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Graduate_school": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/German_Universities_Excellence_Initiative": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/German_Universities_Excellence_Initiative": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/EducationalInstitution108276342"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Institution108053576"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/University108286569"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActor"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SocialGroup107950920"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Organization108008335"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatStudentOrganizations"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInGermany"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatUniversityOrganizations"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Initiative d'excellence allemande",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u5fb7\u56fd\u5927\u5b66\u5353\u8d8a\u8ba1\u5212",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "German Universities Excellence Initiative",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0628\u0627\u062f\u0631\u0629 \u0627\u0644\u0627\u0645\u062a\u064a\u0627\u0632 \u0644\u0644\u062c\u0627\u0645\u0639\u0627\u062a \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Inicjatywa Doskona\u0142o\u015bci",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Exzellenzinitiative",
+                "lang": "de"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Die Exzellenzinitiative des Bundes und der L\u00e4nder zur F\u00f6rderung von Wissenschaft und Forschung an deutschen Hochschulen ist ein 2005/06 erstmals ausgelobtes F\u00f6rderprogramm in Deutschland, das parallel zur grundlegenden Umstellung des Hochschulwesens durch den Bologna-Prozess anlief.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "The Excellence Initiative of the German Federal Ministry of Education and Research and the German Research Foundation aims to promote cutting-edge research and to create outstanding conditions for young scholars at universities, to deepen cooperation between disciplines and institutions, to strengthen international cooperation of research, and to enhance the international appeal of excellent German universities. It is the result of lengthy negotiations between the federal government and the German states.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u5fb7\u56fd\u5927\u5b66\u5353\u8d8a\u8ba1\u5212\uff08\u5fb7\u8bed\uff1aExzellenzinitiative\uff09\u662f\u5fb7\u570b\u806f\u90a6\u6559\u80b2\u53ca\u7814\u7a76\u90e8\u548c\u5fb7\u56fd\u79d1\u5b66\u57fa\u91d1\u4f1a\u53d1\u8d77\u7684\uff0c\u65e8\u5728\u63d0\u9ad8\u4fc3\u8fdb\u5fb7\u56fd\u5927\u5b66\u79d1\u6280\u7814\u7a76\u548c\u5b66\u672f\u521b\u65b0\u7684\u7684\u8ba1\u5212\u3002\u8ba1\u5212\u5305\u62ec\u8d44\u52a9\u7279\u5b9a\u7684\u6770\u51fa\u5927\u5b66\uff0c\u8d44\u52a9\u5728\u7279\u5b9a\u5927\u5b66\u7684\u6770\u51fa\u5e74\u8f7b\u79d1\u7814\u4eba\u5458\u7684\u7814\u7a76\uff1b\u52a0\u5f3a\u5927\u5b66\u95f4\u9879\u76ee\u95f4\u7684\u5408\u4f5c\uff1b\u52a0\u5f3a\u5fb7\u56fd\u5927\u5b66\u548c\u56fd\u9645\u5b66\u672f\u673a\u6784\u3001\u5927\u5b66\u7684\u5408\u4f5c\u7814\u7a76\u3002\u5353\u8d8a\u8ba1\u5212\u7684\u8d44\u52a9\u6709\u4e09\u4e2a\u5c42\u9762\uff1a\u7cbe\u82f1\u5927\u5b66\uff08Zukunftskonzepte\uff09\u3001\u7cbe\u82f1\u7814\u7a76\u96c6\u7fa4\uff08Exzellenzcluster\uff09\u3001\u7cbe\u82f1\u7814\u7a76\u751f\u9662\uff08Graduiertenschule\uff09\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0628\u0627\u062f\u0631\u0629 \u0627\u0644\u0627\u0645\u062a\u064a\u0627\u0632 \u0644\u0644\u062c\u0627\u0645\u0639\u0627\u062a \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629 \u0647\u064a \u0645\u0628\u0627\u062f\u0631\u0629 \u0623\u0637\u0644\u0642\u062a\u0647\u0627 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645 \u0648\u0627\u0644\u0628\u062d\u062b \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629 \u0648\u0627\u0644\u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629 \u0644\u0644\u0628\u062d\u062b \u0627\u0644\u0639\u0644\u0645\u064a \u0641\u064a \u0623\u0644\u0645\u0627\u0646\u064a\u0627 \u0644\u0631\u0641\u0639 \u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0628\u062d\u062b \u0627\u0644\u0639\u0644\u0645\u064a \u0648\u062a\u062d\u0633\u064a\u0646 \u0646\u0648\u0639\u064a\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645 \u0627\u0644\u0639\u0627\u0644\u064a \u0641\u064a \u0627\u0644\u062c\u0627\u0645\u0639\u0627\u062a \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629 \u0648\u062a\u0639\u0632\u064a\u0632 \u0645\u0643\u0627\u0646\u0629 \u0647\u0630\u0647 \u0627\u0644\u062c\u0627\u0645\u0639\u0627\u062a \u062e\u0627\u0631\u062c \u0623\u0644\u0645\u0627\u0646\u064a\u0627. \u0628\u0645\u0648\u062c\u0628 \u0647\u0630\u0647 \u0627\u0644\u0645\u0628\u0627\u062f\u0631\u0629 \u0633\u064a\u062a\u0645 \u0631\u0635\u062f 1,9 \u0645\u0644\u064a\u0627\u0631 \u064a\u0648\u0631\u0648 \u0623\u063a\u0644\u0628\u0647\u0627 \u0645\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0627\u0644\u0641\u064a\u062f\u0631\u0627\u0644\u064a\u0629 \u0644\u062f\u0639\u0645 \u0627\u0644\u0628\u062d\u062b \u0627\u0644\u0639\u0644\u0645\u064a \u0641\u064a 9 \u062c\u0627\u0645\u0639\u0627\u062a \u064840 \u0643\u0644\u064a\u0629 \u062c\u0627\u0645\u0639\u064a\u0629 \u064837 \u0645\u062c\u0645\u0648\u0639\u0629 \u0628\u062d\u062b\u064a\u0629 \u0639\u0644\u0649 \u0645\u062f\u0649 \u0623\u0631\u0628\u0639 \u0633\u0646\u0648\u0627\u062a \u0627\u0628\u062a\u062f\u0627\u0621 \u0645\u0646 \u0634\u0647\u0631 \u0646\u0648\u0641\u0645\u0628\u0631 2006.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Inicjatywa Doskona\u0142o\u015bci (niem. Exzellenzinitiative) \u2013 niemiecki program finansowania przoduj\u0105cych uczelni. W latach 2006-2011 przewidywano wydanie 1,9 miliarda euro w trzech konkursach (liniach): \n*  szko\u0142y podyplomowe (Graduiertenschule); \n*  klastry doskona\u0142o\u015bci (Exzellenzcluster); \n*  wspieranie przysz\u0142o\u015bciowych projekt\u00f3w (Zukunftskonzepte).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "L'initiative r\u00e9gionale et f\u00e9d\u00e9rale d'encouragement \u00e0 l'excellence pour la recherche et la science dans l'enseignement sup\u00e9rieur allemand (Exzellenzinitiative des Bundes und der L\u00e4nder zur F\u00f6rderung von Wissenschaft und Forschung an deutschen Hochschulen) est un programme de financement de la recherche scientifique lanc\u00e9 en 2005, visant \u00e0 inciter d'une part la recherche de pointe et d'autre part l'am\u00e9lioration significative de la qualit\u00e9 des installations de recherche et d'enseignement sup\u00e9rieur allemandes. Son but est d'am\u00e9liorer la comp\u00e9titivit\u00e9 internationale allemande et de rendre identifiables depuis l'international les universit\u00e9s scientifiques de r\u00e9f\u00e9rence allemandes. Elle est le r\u00e9sultat de longues n\u00e9gociations entre les L\u00e4nder et le gouvernement f\u00e9d\u00e9ral allemand.",
+                "lang": "fr"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/German_Universities_Excellence_Initiative"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Initiative_d'excellence_allemande"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/7713160-5"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Exzellenzinitiative"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q705657"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Inicjatywa_Doskona\u0142o\u015bci"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc6b0\uc218\ub300\ud559\uc721\uc131\uc815\ucc45"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q705657"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03qjmjs"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:College_and_university_associations_and_consortia_in_Europe"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Universities_and_colleges_in_Germany"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Lists_of_universities_and_colleges_in_Europe"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Karte_Elite_Universit\u00e4ten_Deutschland_2012.png"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/German_Universities_Excellence_Initiative"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/German_Universities_Excellence_Initiative?oldid=724917022"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.asia-europe.uni-heidelberg.de/en/home.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.gsn.lmu.de"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u5fb7\u56fd\u5927\u5b66\u5353\u8d8a\u8ba1\u5212\uff08\u5fb7\u8bed\uff1aExzellenzinitiative\uff09\u662f\u5fb7\u570b\u806f\u90a6\u6559\u80b2\u53ca\u7814\u7a76\u90e8\u548c\u5fb7\u56fd\u79d1\u5b66\u57fa\u91d1\u4f1a\u53d1\u8d77\u7684\uff0c\u65e8\u5728\u63d0\u9ad8\u4fc3\u8fdb\u5fb7\u56fd\u5927\u5b66\u79d1\u6280\u7814\u7a76\u548c\u5b66\u672f\u521b\u65b0\u7684\u7684\u8ba1\u5212\u3002\u8ba1\u5212\u5305\u62ec\u8d44\u52a9\u7279\u5b9a\u7684\u6770\u51fa\u5927\u5b66\uff0c\u8d44\u52a9\u5728\u7279\u5b9a\u5927\u5b66\u7684\u6770\u51fa\u5e74\u8f7b\u79d1\u7814\u4eba\u5458\u7684\u7814\u7a76\uff1b\u52a0\u5f3a\u5927\u5b66\u95f4\u9879\u76ee\u95f4\u7684\u5408\u4f5c\uff1b\u52a0\u5f3a\u5fb7\u56fd\u5927\u5b66\u548c\u56fd\u9645\u5b66\u672f\u673a\u6784\u3001\u5927\u5b66\u7684\u5408\u4f5c\u7814\u7a76\u3002\u5353\u8d8a\u8ba1\u5212\u7684\u8d44\u52a9\u6709\u4e09\u4e2a\u5c42\u9762\uff1a\u7cbe\u82f1\u5927\u5b66\uff08Zukunftskonzepte\uff09\u3001\u7cbe\u82f1\u7814\u7a76\u96c6\u7fa4\uff08Exzellenzcluster\uff09\u3001\u7cbe\u82f1\u7814\u7a76\u751f\u9662\uff08Graduiertenschule\uff09\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Die Exzellenzinitiative des Bundes und der L\u00e4nder zur F\u00f6rderung von Wissenschaft und Forschung an deutschen Hochschulen ist ein 2005/06 erstmals ausgelobtes F\u00f6rderprogramm in Deutschland, das parallel zur grundlegenden Umstellung des Hochschulwesens durch den Bologna-Prozess anlief. Ins Leben gerufen wurde die Exzellenzinitiative von der damaligen Bundesministerin f\u00fcr Bildung und Forschung, der Sozialdemokratin Edelgard Bulmahn, die mit der Idee der Organisation eines deutschlandweiten Wettbewerbs unter allen deutschen Universit\u00e4ten im Januar 2004 erstmals an die \u00d6ffentlichkeit ging. Getragen wurde die Bekanntmachung von einem Entschluss des SPD-Parteipr\u00e4sidiums einige Tage zuvor, der zum Inhalt hatte, die Rahmenrichtlinien f\u00fcr die Reform des deutschen Hochschulsystems voranzutreiben. Aufgeteilt ist die Exzellenzinitiative in die drei F\u00f6rderlinien \u201eZukunftskonzepte\u201c (Entwicklung der Gesamtuniversit\u00e4t), \u201eExzellenzcluster\u201c (F\u00f6rderung der Forschung eines Themenkomplexes) und \u201eGraduiertenschule\u201c (F\u00f6rderung von Doktoranden in einem breiten Wissenschaftsgebiet). Insgesamt wurden in bisher zwei F\u00f6rderrunden neun Zukunftskonzepte, 37 Antr\u00e4ge auf Exzellenzcluster (2. F\u00f6rderlinie) und 39 Antr\u00e4ge auf Graduiertenschulen (1. F\u00f6rderlinie) bewilligt. Die Durchf\u00fchrung der Exzellenzinitiative beruht auf Verwaltungsvereinbarungen zwischen Bund und L\u00e4ndern. Au\u00dferuniversit\u00e4re Forschungsorganisationen werden durch die Forschungs-F\u00f6rderinitiative Pakt f\u00fcr Forschung und Innovation unterst\u00fctzt. Die Hochschulen in Deutschland werden au\u00dferdem durch den Hochschulpakt 2020 gef\u00f6rdert, der vor allem eine Reaktion auf die wachsende Zahl von Studenten durch die Abschaffung der Wehrpflicht und durch doppelte Abiturjahrg\u00e4nge ist. Ab dem Jahr 2017/2018 wird das F\u00f6rderprogramm dauerhaft unter dem Namen Exzellenzstrategie fortgesetzt. Die neue Exzellenzstrategie umfasst die F\u00f6rderlinien Exzellenzcluster und Exzellenzuniversit\u00e4ten. Am 28. September 2016 ver\u00f6ffentlichten die Deutsche Forschungsgemeinschaft und der Wissenschaftsrat die Ausschreibung f\u00fcr die Exzellenzcluster.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0628\u0627\u062f\u0631\u0629 \u0627\u0644\u0627\u0645\u062a\u064a\u0627\u0632 \u0644\u0644\u062c\u0627\u0645\u0639\u0627\u062a \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629 \u0647\u064a \u0645\u0628\u0627\u062f\u0631\u0629 \u0623\u0637\u0644\u0642\u062a\u0647\u0627 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645 \u0648\u0627\u0644\u0628\u062d\u062b \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629 \u0648\u0627\u0644\u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629 \u0644\u0644\u0628\u062d\u062b \u0627\u0644\u0639\u0644\u0645\u064a \u0641\u064a \u0623\u0644\u0645\u0627\u0646\u064a\u0627 \u0644\u0631\u0641\u0639 \u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0628\u062d\u062b \u0627\u0644\u0639\u0644\u0645\u064a \u0648\u062a\u062d\u0633\u064a\u0646 \u0646\u0648\u0639\u064a\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645 \u0627\u0644\u0639\u0627\u0644\u064a \u0641\u064a \u0627\u0644\u062c\u0627\u0645\u0639\u0627\u062a \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629 \u0648\u062a\u0639\u0632\u064a\u0632 \u0645\u0643\u0627\u0646\u0629 \u0647\u0630\u0647 \u0627\u0644\u062c\u0627\u0645\u0639\u0627\u062a \u062e\u0627\u0631\u062c \u0623\u0644\u0645\u0627\u0646\u064a\u0627. \u0628\u0645\u0648\u062c\u0628 \u0647\u0630\u0647 \u0627\u0644\u0645\u0628\u0627\u062f\u0631\u0629 \u0633\u064a\u062a\u0645 \u0631\u0635\u062f 1,9 \u0645\u0644\u064a\u0627\u0631 \u064a\u0648\u0631\u0648 \u0623\u063a\u0644\u0628\u0647\u0627 \u0645\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0627\u0644\u0641\u064a\u062f\u0631\u0627\u0644\u064a\u0629 \u0644\u062f\u0639\u0645 \u0627\u0644\u0628\u062d\u062b \u0627\u0644\u0639\u0644\u0645\u064a \u0641\u064a 9 \u062c\u0627\u0645\u0639\u0627\u062a \u064840 \u0643\u0644\u064a\u0629 \u062c\u0627\u0645\u0639\u064a\u0629 \u064837 \u0645\u062c\u0645\u0648\u0639\u0629 \u0628\u062d\u062b\u064a\u0629 \u0639\u0644\u0649 \u0645\u062f\u0649 \u0623\u0631\u0628\u0639 \u0633\u0646\u0648\u0627\u062a \u0627\u0628\u062a\u062f\u0627\u0621 \u0645\u0646 \u0634\u0647\u0631 \u0646\u0648\u0641\u0645\u0628\u0631 2006.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "L'initiative r\u00e9gionale et f\u00e9d\u00e9rale d'encouragement \u00e0 l'excellence pour la recherche et la science dans l'enseignement sup\u00e9rieur allemand (Exzellenzinitiative des Bundes und der L\u00e4nder zur F\u00f6rderung von Wissenschaft und Forschung an deutschen Hochschulen) est un programme de financement de la recherche scientifique lanc\u00e9 en 2005, visant \u00e0 inciter d'une part la recherche de pointe et d'autre part l'am\u00e9lioration significative de la qualit\u00e9 des installations de recherche et d'enseignement sup\u00e9rieur allemandes. Son but est d'am\u00e9liorer la comp\u00e9titivit\u00e9 internationale allemande et de rendre identifiables depuis l'international les universit\u00e9s scientifiques de r\u00e9f\u00e9rence allemandes. Elle est le r\u00e9sultat de longues n\u00e9gociations entre les L\u00e4nder et le gouvernement f\u00e9d\u00e9ral allemand. Elle passe par l'attribution du label \u00ab universit\u00e9 d'excellence \u00bb \u00e0 9 universit\u00e9s allemandes et par la cr\u00e9ation de 40 \u00e9coles d'enseignement sup\u00e9rieur (Graduiertenschulen) et de 37 clusters d'excellence. D'autres \u00e9tablissements de recherche non universitaires sont aid\u00e9s \u00e0 travers le \u00ab pacte pour la recherche et l'innovation \u00bb. Entre 2005 et 2009/2010, ce sont 1,9 milliard d'euros de fonds suppl\u00e9mentaires qui sont distribu\u00e9s aux diff\u00e9rents b\u00e9n\u00e9ficiaires de cette initiative. Entre 2010 et 2017, 2,7 milliards d'euros suppl\u00e9mentaires vont \u00eatre d\u00e9pens\u00e9s. Ces fonds proviennent de la vente aux ench\u00e8res des licences UMTS par l'\u00e9tat allemand, celui-ci cherchant par cette initiative \u00e0 les p\u00e9renniser.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Inicjatywa Doskona\u0142o\u015bci (niem. Exzellenzinitiative) \u2013 niemiecki program finansowania przoduj\u0105cych uczelni. W latach 2006-2011 przewidywano wydanie 1,9 miliarda euro w trzech konkursach (liniach): \n*  szko\u0142y podyplomowe (Graduiertenschule); \n*  klastry doskona\u0142o\u015bci (Exzellenzcluster); \n*  wspieranie przysz\u0142o\u015bciowych projekt\u00f3w (Zukunftskonzepte).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "The Excellence Initiative of the German Federal Ministry of Education and Research and the German Research Foundation aims to promote cutting-edge research and to create outstanding conditions for young scholars at universities, to deepen cooperation between disciplines and institutions, to strengthen international cooperation of research, and to enhance the international appeal of excellent German universities. It is the result of lengthy negotiations between the federal government and the German states. Since almost all German universities are public (most private universities do not have the official German \"Universit\u00e4tsstatus\"), and therefore mainly paid by taxes and generally egalitarian, there is no German Ivy League of institutions of higher education. However, the Excellence Initiative aims to strengthen some selected universities more than others in order to raise their international visibility. The initiative is conducted by the German Research Foundation (DFG) together with the German Council of Science and Humanities (WR). More than 30 universities in total received funding. It includes three lines of funding: 1st line of funding: The establishment of more than 40 research schools for young scientists and PhD candidates, which will receive one million euros each per year. 2nd line of funding: The creation of thirty so-called Clusters of Excellence, that connect universities with leading German research institutes and businesses. Annually, these clusters will receive around 6.5 million euros each to fund their work. 3rd line of funding: The selection of 11 Universities of Excellence, which will be funded highly for their \"future concepts\", i.e., institutional strategies to promote top-level university research. Particularly this third line of funding has drawn appreciable international attention, both in academia and media. Altogether 2.7 billion euros (1.9 billion for 2007-2012) of additional funds will be distributed over the coming five years, most of this coming from the federal government. The German Council of Science and Humanities is responsible for the third line of funding, and the German Research Foundation is responsible for the first and second lines of funding. These funds are to be available in the first instance for the universities and their partner institutions until 2017.",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Karte_Elite_Universit\u00e4ten_Deutschland_2012.png?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 724917022,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 15972703,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/German_Excellence_Universities": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Karlsruhe_Institute_of_Technology": {
+        "http://dbpedia.org/ontology/affiliation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/University_of_Stuttgart": {
+        "http://dbpedia.org/ontology/affiliation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/University_of_Mannheim": {
+        "http://dbpedia.org/ontology/affiliation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Heidelberg_University": {
+        "http://dbpedia.org/ontology/affiliation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Humboldt_University_of_Berlin": {
+        "http://dbpedia.org/ontology/affiliation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Graduate_School_of_Economic_and_Social_Sciences": {
+        "http://dbpedia.org/ontology/affiliation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/University_of_T\u00fcbingen": {
+        "http://dbpedia.org/ontology/affiliation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/German_Excellence_University": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/German_Ivy_League": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/German_Universities_Excellence_Initiative"
+            }
+        ]
+    }
+}

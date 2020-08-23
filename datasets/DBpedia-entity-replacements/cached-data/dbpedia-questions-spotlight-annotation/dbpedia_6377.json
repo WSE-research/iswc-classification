@@ -1,0 +1,37 @@
+{
+    "@text": "Was Concorde the operator of both British Airways and Lufthansa?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Concorde",
+            "@support": "1755",
+            "@types": "Wikidata:Q11436,DUL:DesignedArtifact,Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft",
+            "@surfaceForm": "Concorde",
+            "@offset": "4",
+            "@similarityScore": "0.9999991456156705",
+            "@percentageOfSecondRank": "8.295779942352074E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/British_Airways",
+            "@support": "2829",
+            "@types": "Wikidata:Q46970,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline,DBpedia:Agent",
+            "@surfaceForm": "British Airways",
+            "@offset": "34",
+            "@similarityScore": "0.9999994950342592",
+            "@percentageOfSecondRank": "4.36421224547217E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Lufthansa",
+            "@support": "2163",
+            "@types": "Wikidata:Q46970,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline,DBpedia:Agent",
+            "@surfaceForm": "Lufthansa",
+            "@offset": "54",
+            "@similarityScore": "0.9999699434182096",
+            "@percentageOfSecondRank": "2.993195188351421E-5"
+        }
+    ]
+}

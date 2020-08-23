@@ -1,0 +1,37 @@
+{
+    "@text": "Is Czech and Canadian French listed in country calling codes?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Czech_Republic",
+            "@support": "36410",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Czech",
+            "@offset": "3",
+            "@similarityScore": "0.7356711422571032",
+            "@percentageOfSecondRank": "0.22306216915236746"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Canadian_French",
+            "@support": "527",
+            "@types": "Wikidata:Q34770,Wikidata:Q315,Schema:Language,DBpedia:Language",
+            "@surfaceForm": "Canadian French",
+            "@offset": "13",
+            "@similarityScore": "0.7276540097255474",
+            "@percentageOfSecondRank": "0.3715328828320156"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/List_of_country_calling_codes",
+            "@support": "429",
+            "@types": "",
+            "@surfaceForm": "country calling codes",
+            "@offset": "39",
+            "@similarityScore": "0.9999999999999574",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "What are the cause of death which medical examinations are  computed tomography and which contains the word pneumonia in their name",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/CT_scan",
+            "@support": "2963",
+            "@types": "",
+            "@surfaceForm": "computed tomography",
+            "@offset": "60",
+            "@similarityScore": "0.9999911412115554",
+            "@percentageOfSecondRank": "8.858866897980813E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Pneumonia",
+            "@support": "6721",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "pneumonia",
+            "@offset": "108",
+            "@similarityScore": "0.9999984732319549",
+            "@percentageOfSecondRank": "1.3305481100587276E-6"
+        }
+    ]
+}

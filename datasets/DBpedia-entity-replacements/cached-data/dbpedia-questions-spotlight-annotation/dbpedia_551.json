@@ -1,0 +1,28 @@
+{
+    "@text": "Which taxon has the highest chromosome count?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "6",
+            "@similarityScore": "0.9998944353525238",
+            "@percentageOfSecondRank": "1.0488592482264183E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chromosome",
+            "@support": "6226",
+            "@types": "",
+            "@surfaceForm": "chromosome",
+            "@offset": "28",
+            "@similarityScore": "0.9999999983991614",
+            "@percentageOfSecondRank": "1.5995820008432304E-9"
+        }
+    ]
+}

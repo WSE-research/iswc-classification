@@ -1,0 +1,37 @@
+{
+    "@text": "Has Robbie Williams ever been signed to record labels EMI and Interscope Records?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Robbie_Williams",
+            "@support": "2203",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Robbie Williams",
+            "@offset": "4",
+            "@similarityScore": "0.9999999978005292",
+            "@percentageOfSecondRank": "2.0599404627046343E-9"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/EMI",
+            "@support": "10468",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "EMI",
+            "@offset": "54",
+            "@similarityScore": "0.9849507617227033",
+            "@percentageOfSecondRank": "0.014941818166107604"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Interscope_Records",
+            "@support": "3139",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q18127,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:RecordLabel,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Interscope Records",
+            "@offset": "62",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

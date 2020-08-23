@@ -1,0 +1,37 @@
+{
+    "@text": "Was Orson Welles educated at the School of the Art Institute of Chicago and Cawthra Park Secondary School?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Orson_Welles",
+            "@support": "3515",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Orson Welles",
+            "@offset": "4",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chicago",
+            "@support": "120292",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Chicago",
+            "@offset": "64",
+            "@similarityScore": "0.999393913452816",
+            "@percentageOfSecondRank": "5.761829777527965E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cawthra_Park_Secondary_School",
+            "@support": "16",
+            "@types": "Wikidata:Q43229,Wikidata:Q3914,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:School,Schema:Organization,Schema:EducationalOrganization,DBpedia:School,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "Cawthra Park Secondary School",
+            "@offset": "76",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

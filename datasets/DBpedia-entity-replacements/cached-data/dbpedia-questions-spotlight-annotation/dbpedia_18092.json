@@ -1,0 +1,37 @@
+{
+    "@text": "Which university attended by Franklin W. Olin was also the alma mater of Patty Lin ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Benjamin_Franklin",
+            "@support": "4317",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Franklin",
+            "@offset": "29",
+            "@similarityScore": "0.9990422899966042",
+            "@percentageOfSecondRank": "4.192554145824235E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Alma_mater",
+            "@support": "1854",
+            "@types": "",
+            "@surfaceForm": "alma mater",
+            "@offset": "59",
+            "@similarityScore": "0.999996119185282",
+            "@percentageOfSecondRank": "3.36568801281263E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Patty_Lin",
+            "@support": "10",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q28389,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:ScreenWriter,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Patty Lin",
+            "@offset": "73",
+            "@similarityScore": "0.9999999999944862",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

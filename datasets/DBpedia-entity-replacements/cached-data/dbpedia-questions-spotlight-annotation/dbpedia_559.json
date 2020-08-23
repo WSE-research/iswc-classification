@@ -1,0 +1,37 @@
+{
+    "@text": "Get  the postal code for Baidu that is headquartered at Beijing?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Postal_code",
+            "@support": "1620",
+            "@types": "",
+            "@surfaceForm": "postal code",
+            "@offset": "9",
+            "@similarityScore": "0.9972348329270178",
+            "@percentageOfSecondRank": "0.0018213883313693605"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Baidu",
+            "@support": "766",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Baidu",
+            "@offset": "25",
+            "@similarityScore": "0.99999999314484",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Beijing",
+            "@support": "36934",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Beijing",
+            "@offset": "56",
+            "@similarityScore": "0.9998781286679961",
+            "@percentageOfSecondRank": "7.140527687440513E-5"
+        }
+    ]
+}

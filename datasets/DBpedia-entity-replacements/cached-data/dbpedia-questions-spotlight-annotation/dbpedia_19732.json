@@ -1,0 +1,28 @@
+{
+    "@text": "Which television show's company is Paramount Television and is located in Boston?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Paramount_Television",
+            "@support": "500",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Agent",
+            "@surfaceForm": "Paramount Television",
+            "@offset": "35",
+            "@similarityScore": "0.9886724738028294",
+            "@percentageOfSecondRank": "0.007262896459409842"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Boston",
+            "@support": "77759",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Boston",
+            "@offset": "74",
+            "@similarityScore": "0.999288864824334",
+            "@percentageOfSecondRank": "3.8348888901065825E-4"
+        }
+    ]
+}

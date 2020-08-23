@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the nearest city to Elliott Bay ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "21",
+            "@similarityScore": "0.7807322237684443",
+            "@percentageOfSecondRank": "0.1960191731528117"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Elliott_Bay",
+            "@support": "243",
+            "@types": "Schema:Place,Schema:BodyOfWater,DBpedia:Place,DBpedia:NaturalPlace,DBpedia:Location,DBpedia:BodyOfWater",
+            "@surfaceForm": "Elliott Bay",
+            "@offset": "29",
+            "@similarityScore": "0.9999999999890861",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

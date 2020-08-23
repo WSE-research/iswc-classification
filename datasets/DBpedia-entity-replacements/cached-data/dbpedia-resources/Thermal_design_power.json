@@ -1,0 +1,496 @@
+{
+    "http://dbpedia.org/resource/Thermal_design_power": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Conductor103088707"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Disease"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Artifact100021939"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Chip103020034"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Microprocessor103760310"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/SemiconductorDevice104171831"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatMicroprocessors"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Device103183080"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Instrumentality103575240"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Projeto de For\u00e7a T\u00e9rmica",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u70ed\u8bbe\u8ba1\u529f\u8017",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0422\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043a \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Thermal Design Power",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Thermal design power",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Thermal Design Power",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u0637\u0627\u0642\u0629 \u0627\u0644\u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Thermal Design Power",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Thermal design power",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Enveloppe thermique",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Potencia de dise\u00f1o t\u00e9rmico",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u71b1\u8a2d\u8a08\u96fb\u529b",
+                "lang": "ja"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u0438\u0432\u043d\u044b\u0435 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043f\u043b\u043e\u043e\u0442\u0432\u043e\u0434\u0443, \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043f\u043b\u043e\u043e\u0442\u0432\u043e\u0434\u0443 (\u0430\u043d\u0433\u043b. thermal design power, TDP, \u0438\u043d\u043e\u0433\u0434\u0430 \u0430\u043d\u0433\u043b. thermal design point) \u2014 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430, \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0449\u0430\u044f, \u043d\u0430 \u043e\u0442\u0432\u043e\u0434 \u043a\u0430\u043a\u043e\u0439 \u0442\u0435\u043f\u043b\u043e\u0432\u043e\u0439 \u043c\u043e\u0449\u043d\u043e\u0441\u0442\u0438 \u0434\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u0430\u043d\u0430 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430 \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u043e\u0433\u043e \u043f\u043e\u043b\u0443\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u0438\u043a\u043e\u0432\u043e\u0433\u043e \u043f\u0440\u0438\u0431\u043e\u0440\u0430. \u041a \u043f\u0440\u0438\u043c\u0435\u0440\u0443, \u0435\u0441\u043b\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430 \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u0430\u043d\u0430 \u043d\u0430 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043f\u043b\u043e\u043e\u0442\u0432\u043e\u0434\u0443 30 \u0412\u0442, \u043e\u043d\u0430 \u0434\u043e\u043b\u0436\u043d\u0430 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0442\u044c \u043e\u0442\u0432\u043e\u0434 30 \u0412\u0442 \u0442\u0435\u043f\u043b\u0430 \u043f\u0440\u0438 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0637\u0627\u0642\u0629 \u0627\u0644\u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 (\u064a\u0631\u0645\u0632 \u0644\u0647\u0627 \u0627\u062e\u062a\u0635\u0627\u0631\u0627\u064b TDP \u0645\u0646 Thermal design power) \u062a\u062f\u0639\u0649 \u0623\u062d\u064a\u0627\u0646\u0627 \u0628\u0646\u0642\u0637\u0629 \u0627\u0644\u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629\u060c \u0648 \u062a\u0639\u0628\u0631 \u0639\u0646 \u0643\u0645\u064a\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u0623\u0639\u0638\u0645\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0642\u0648\u0645 \u0648\u062d\u062f\u0629 \u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 (CPU) \u0628\u062a\u0648\u0644\u064a\u062f\u0647\u0627\u060c \u0648 \u0627\u0644\u062a\u064a \u064a\u062c\u0628 \u0639\u0644\u0649 \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0628\u0631\u064a\u062f \u0641\u064a \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0627\u0644\u0642\u064a\u0627\u0645 \u0628\u062a\u0628\u062f\u064a\u062f\u0647\u0627 \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0637\u0628\u064a\u0639\u064a \u0644\u0647\u0630\u0627 \u0627\u0644\u062d\u0627\u0633\u0648\u0628. \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a\u064a\u0629 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0627\u062a25\u0628\u0643 \u0647\u0630\u0647 \u0628\u0630\u0631\u0629 \u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0623\u0648 \u0627\u0644\u0639\u0627\u0645\u0644\u064a\u0646 \u0641\u064a \u0647\u0630\u0627 \u0627\u0644\u0645\u062c\u0627\u0644 \u0628\u062d\u0627\u062c\u0629 \u0644\u0644\u062a\u0648\u0633\u064a\u0639. \u0634\u0627\u0631\u0643 \u0641\u064a \u062a\u062d\u0631\u064a\u0631\u0647\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "TDP (ang. Thermal Design Power) to ilo\u015b\u0107 wydzielanego ciep\u0142a, kt\u00f3r\u0105 trzeba odebra\u0107 z procesora (jednostki centralnej) komputera. Termin stosowany jest tak\u017ce do innych urz\u0105dze\u0144 elektrycznych i elektronicznych wytwarzaj\u0105cych w trakcie pracy ciep\u0142o, np. zasilaczy.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u71b1\u8a2d\u8a08\u96fb\u529b\uff08\u306d\u3064\u305b\u3063\u3051\u3044\u3067\u3093\u308a\u3087\u304f\u3001\u82f1: Thermal Design Power, TDP\uff09\u3068\u306f\u3001\u30de\u30a4\u30af\u30ed\u30d7\u30ed\u30bb\u30c3\u30b5\u3084\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30b9\u30d7\u30ed\u30bb\u30c3\u30b7\u30f3\u30b0\u30e6\u30cb\u30c3\u30c8\u306a\u3069\u306e\u5927\u898f\u6a21\u96c6\u7a4d\u56de\u8def\u3067\u4ed5\u69d8\u306e\u4e00\u90e8\u3068\u3057\u3066\u63d0\u793a\u3055\u308c\u308b\u6700\u5927\u5fc5\u8981\u5438\u71b1\u91cf\u306e\u3053\u3068\u3002\u30d1\u30c3\u30b1\u30fc\u30b8\u306b\u53d6\u308a\u4ed8\u3051\u308b\u51b7\u5374\u88c5\u7f6e\u3092\u8a2d\u8a08\u3059\u308b\u969b\u306b\u3001\u3069\u306e\u7a0b\u5ea6\u306e\u5438\u71b1\u80fd\u529b\u3092\u6301\u305f\u305b\u308c\u3070\u826f\u3044\u304b\u3092\u6c7a\u5b9a\u3059\u308b\u305f\u3081\u306b\u4f7f\u308f\u308c\u308b\u6307\u6a19\u3067\u3042\u308b\u3002\u3057\u305f\u304c\u3063\u3066\u300cpower\u300d\u306e\u8a9e\u304c\u8868\u3059\u3082\u306e\u306f\u3001\u3053\u306e\u5834\u5408\u96fb\u529b\u3068\u3044\u3046\u3088\u308a\u71b1\u51fa\u529b\u3067\u3042\u308b\u304c\u3001\u534a\u5c0e\u4f53\u96c6\u7a4d\u56de\u8def\u3067\u306f\u7d50\u679c\u7684\u306b\u3053\u308c\u3089\u3092\u6982\u306d\u540c\u4e00\u8996\u3067\u304d\u3001\u30a4\u30f3\u30c6\u30eb\u306a\u3069\u306eCPU\u30e1\u30fc\u30ab\u30fc\u3082\u3001\u3053\u306e\u5024\u3092\u6700\u5927\u4f5c\u52d5\u6642\u306e\u6d88\u8cbb\u96fb\u529b\u3068\u307b\u307c\u7b49\u3057\u3044\u5024\u3067\u3042\u308b\u3068\u516c\u8868\u3057\u3066\u3044\u308b\u3053\u3068\u3082\u3042\u3063\u3066\u3001\u65e5\u672c\u3067\u306f\u4fd7\u306b\u300c\u71b1\u8a2d\u8a08\u96fb\u529b\u300d\u3068\u304b\u300c\u71b1\u8a2d\u8a08\u6d88\u8cbb\u96fb\u529b\u300d\u3068\u3044\u3046\u8a33\u304c\u5b9a\u7740\u3057\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "De Thermal Design Power, ook wel Thermal Design Point genoemd en afgekort TDP, is de maximale hoeveelheid warmte die het koelsysteem van een chip geacht wordt nog af te kunnen voeren. Omdat het een hoeveelheid energie per tijdseenheid betreft wordt hiervoor de eenheid Watt gebruikt. Bijvoorbeeld het koelsysteem van de CPU van een laptop kan ontworpen zijn voor een 20 W TDP, wat inhoudt dat het 20 watt aan warmte kan afvoeren (door actieve koeling, passieve koeling of straling) zonder de maximale temperatuur van de chip te overschrijden.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "L\u2019enveloppe thermique, ou TDP (pour (en)Thermal Design Power), d\u2019un semi-conducteur, exprim\u00e9e en watts (W), est le transfert thermique vers l'ext\u00e9rieur dont doit pouvoir b\u00e9n\u00e9ficier ce composant pour fonctionner correctement. Le TDP d'un processeur est utile \u00e0 un fabricant de syst\u00e8me de refroidissement pour ordinateur, ou de mani\u00e8re plus g\u00e9n\u00e9rale \u00e0 un assembleur d'ordinateur ou \u00e0 un utilisateur final d'ordinateur.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "La potencia de dise\u00f1o t\u00e9rmico o TDP (del ingl\u00e9s thermal design power) representa la m\u00e1xima cantidad de potencia permitida por el sistema de refrigeraci\u00f3n de un sistema inform\u00e1tico para disipar el calor. Por ejemplo, una unidad central de procesamiento de un equipo port\u00e1til puede estar dise\u00f1ada para 20 W de TDP, lo cual significa que puede disipar (por diversas v\u00edas: disipador, ventilador...) 20 vatios de calor sin exceder la m\u00e1xima temperatura de uni\u00f3n de los transistores en el circuito integrado, a partir de la cual el transistor deja de funcionar. El TDP en ning\u00fan caso indica la m\u00e1xima potencia que en alg\u00fan momento el circuito integrado podr\u00eda producir, indica m\u00e1s bien la m\u00e1xima potencia que podr\u00eda producir cuando se ejecutan aplicaciones reales.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Mit Thermal Design Power (Abk\u00fcrzung: TDP, gelegentlich auch falsch: Thermal Design Point) wird in der Elektronikindustrie ein maximaler Wert (bei manchen Herstellern auch der durchschnittliche Wert) f\u00fcr die thermische Verlustleistung elektrischer Bauteile oder eines Prozessors bezeichnet, auf deren Grundlage die K\u00fchlung (falls erforderlich) sowie die Stromzufuhr ausgelegt werden. Die TDP ist meist geringer als die reale maximale Verlustleistung.Je nach Typ des Bauteils, K\u00fchlsystems und der Umgebungstemperatur (meist Lufttemperatur im Inneren eines Geh\u00e4uses) muss sichergestellt sein, dass auch in besonderen Bedingungen (hohe Umgebungstemperatur und hohe Prozessorlast) die entstehende Abw\u00e4rme abgef\u00fchrt wird. Hierdurch entsteht ein Zielkonflikt aus Leistung, Kosten, Ger\u00e4uschbelastung und Raum",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "The thermal design power (TDP), sometimes called thermal design point, is the maximum amount of heat generated by a computer chip or component (often the CPU or GPU) that the cooling system in a computer is designed to dissipate in typical operation. Rather than specifying CPU's real power dissipation, TDP serves as the nominal value for designing CPU cooling systems. A similar but more recent controversy has involved the power TDP measurements of some Ivy Bridge Y-series processors, with which Intel has introduced a new metric called scenario design power (SDP).",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u70ed\u8bbe\u8ba1\u529f\u8017\uff08\u82f1\u8a9e\uff1aThermal Design Power\uff0c\u7e2e\u5beb TDP\uff0c\u53c8\u8b6f\u6563\u70ed\u8bbe\u8ba1\u529f\u7387\uff09\u7684\u542b\u4e49\u662f\u5f53\u6676\u7247\u8fbe\u5230\u6700\u5927\u8d1f\u8377\u7684\u65f6\u5019\u3014\u5355\u4f4d\u4e3a\u74e6\uff08W\uff09\u3015\uff0cTDP\u662f\u53cd\u6620\u70ed\u91cf\u91ca\u653e\u7684\u6307\u6807\uff0c\u662f\u7535\u8111\u7684\u51b7\u5374\u7cfb\u7edf\u5fc5\u9808\u6709\u80fd\u529b\u9a45\u6563\u7684\u6700\u5927\u70ed\u91cf\u9650\u5ea6\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Il Thermal Design Power (TDP, chiamato anche Thermal Design Point) rappresenta un'indicazione del calore (energia) dissipato da un processore, che il sistema di raffreddamento dovr\u00e0 smaltire per mantenere la temperatura del processore stesso entro una soglia limite. La sua unit\u00e0 di misura \u00e8 il watt. Il TDP sovente non corrisponde alla massima potenza dissipata dal processore, ma ad un valore inferiore raggiungibile con un utilizzo normale (ad es. nel caso di Intel). Questo permette di adottare una soluzione di raffreddamento pi\u00f9 economica e comunque adatta per l'utilizzo.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "A Energia T\u00e9rmica de Projeto (TDP, do ingl\u00eas Thermal Design Power, \u00e0s vezes chamado de thermal design point) representa a quantidade m\u00e1xima de energia em que um sistema refrigerado de um computador necessita dissipar. Por exemplo, um sistema refrigerado de um processador central de laptops pode ser projetado para trabalhar com 20 W TDP, o que significa que ele pode dissipar (atrav\u00e9s de um m\u00e9todo de refrigera\u00e7\u00e3o com cooler, ou um m\u00e9todo de refrigera\u00e7\u00e3o passivo, atrav\u00e9s de conven\u00e7\u00e3o natural, atrav\u00e9s da dissipa\u00e7\u00e3o do calor ou de todas as tr\u00eas modalidades de transfer\u00eancia t\u00e9rmica), 20 watts de calor sem exceder a temperatura m\u00e1xima da jun\u00e7\u00e3o do microprocessador.",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/CPU_power_dissipation"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Thermal_Design_Power"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc5f4_\uc124\uacc4_\uc804\ub825"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Thermal_design_power"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Thermal_design_power"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Projeto_de_For\u00e7a_T\u00e9rmica"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Potencia_de_dise\u00f1o_t\u00e9rmico"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q1053879"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q1053879"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Thermal_Design_Power"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Thermal_Design_Power"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Enveloppe_thermique"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03z4t9"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Thermal_Design_Power"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u71b1\u8a2d\u8a08\u96fb\u529b"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Computer_engineering"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Thermal_design_power"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Thermal_design_power?oldid=739448763"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.anandtech.com/show/4481/details-on-amd-bulldozer-opterons-to-feature-configurable-tdp/2"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.realworldtech.com/cool-x86/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0637\u0627\u0642\u0629 \u0627\u0644\u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 (\u064a\u0631\u0645\u0632 \u0644\u0647\u0627 \u0627\u062e\u062a\u0635\u0627\u0631\u0627\u064b TDP \u0645\u0646 Thermal design power) \u062a\u062f\u0639\u0649 \u0623\u062d\u064a\u0627\u0646\u0627 \u0628\u0646\u0642\u0637\u0629 \u0627\u0644\u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629\u060c \u0648 \u062a\u0639\u0628\u0631 \u0639\u0646 \u0643\u0645\u064a\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u0623\u0639\u0638\u0645\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0642\u0648\u0645 \u0648\u062d\u062f\u0629 \u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 (CPU) \u0628\u062a\u0648\u0644\u064a\u062f\u0647\u0627\u060c \u0648 \u0627\u0644\u062a\u064a \u064a\u062c\u0628 \u0639\u0644\u0649 \u0646\u0638\u0627\u0645 \u0627\u0644\u062a\u0628\u0631\u064a\u062f \u0641\u064a \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0627\u0644\u0642\u064a\u0627\u0645 \u0628\u062a\u0628\u062f\u064a\u062f\u0647\u0627 \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0637\u0628\u064a\u0639\u064a \u0644\u0647\u0630\u0627 \u0627\u0644\u062d\u0627\u0633\u0648\u0628. \u0639\u0627\u062f\u0629\u064b \u0644\u0627 \u062a\u0643\u0648\u0646 \u0637\u0627\u0642\u0629 \u0627\u0644\u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u0647\u064a \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u0639\u0644\u0649 \u0644\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u064a\u0629 \u0627\u0644\u062a\u064a \u064a\u0645\u0643\u0646 \u0644\u0648\u062d\u062f\u0629 \u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629 \u062a\u0648\u0644\u064a\u062f\u0647\u0627\u060c \u0639\u0646 \u0637\u0631\u064a\u0642 \u062a\u0634\u063a\u064a\u0644 \u0641\u064a\u0631\u0648\u0633 \u0637\u0627\u0642\u0629 \u0639\u0644\u0649 \u0633\u0628\u064a\u0644 \u0627\u0644\u0645\u062b\u0627\u0644\u060c \u0648 \u0644\u0643\u0646\u0647\u0627 \u062a\u0639\u0628\u0631 \u0639\u0646 \u0643\u0645\u064a\u0629 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0623\u0639\u0638\u0645\u064a\u0629 \u0627\u0644\u062a\u064a \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u062a\u0648\u0644\u062f \u0646\u062a\u064a\u062c\u0629 \u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u062d\u0627\u0633\u0648\u0628\u064a\u0629 \u0627\u0644\u0627\u0639\u062a\u064a\u0627\u062f\u064a\u0629. \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a\u064a\u0629 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0627\u062a25\u0628\u0643 \u0647\u0630\u0647 \u0628\u0630\u0631\u0629 \u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0623\u0648 \u0627\u0644\u0639\u0627\u0645\u0644\u064a\u0646 \u0641\u064a \u0647\u0630\u0627 \u0627\u0644\u0645\u062c\u0627\u0644 \u0628\u062d\u0627\u062c\u0629 \u0644\u0644\u062a\u0648\u0633\u064a\u0639. \u0634\u0627\u0631\u0643 \u0641\u064a \u062a\u062d\u0631\u064a\u0631\u0647\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "La potencia de dise\u00f1o t\u00e9rmico o TDP (del ingl\u00e9s thermal design power) representa la m\u00e1xima cantidad de potencia permitida por el sistema de refrigeraci\u00f3n de un sistema inform\u00e1tico para disipar el calor. Por ejemplo, una unidad central de procesamiento de un equipo port\u00e1til puede estar dise\u00f1ada para 20 W de TDP, lo cual significa que puede disipar (por diversas v\u00edas: disipador, ventilador...) 20 vatios de calor sin exceder la m\u00e1xima temperatura de uni\u00f3n de los transistores en el circuito integrado, a partir de la cual el transistor deja de funcionar. El TDP en ning\u00fan caso indica la m\u00e1xima potencia que en alg\u00fan momento el circuito integrado podr\u00eda producir, indica m\u00e1s bien la m\u00e1xima potencia que podr\u00eda producir cuando se ejecutan aplicaciones reales.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "A Energia T\u00e9rmica de Projeto (TDP, do ingl\u00eas Thermal Design Power, \u00e0s vezes chamado de thermal design point) representa a quantidade m\u00e1xima de energia em que um sistema refrigerado de um computador necessita dissipar. Por exemplo, um sistema refrigerado de um processador central de laptops pode ser projetado para trabalhar com 20 W TDP, o que significa que ele pode dissipar (atrav\u00e9s de um m\u00e9todo de refrigera\u00e7\u00e3o com cooler, ou um m\u00e9todo de refrigera\u00e7\u00e3o passivo, atrav\u00e9s de conven\u00e7\u00e3o natural, atrav\u00e9s da dissipa\u00e7\u00e3o do calor ou de todas as tr\u00eas modalidades de transfer\u00eancia t\u00e9rmica), 20 watts de calor sem exceder a temperatura m\u00e1xima da jun\u00e7\u00e3o do microprocessador. O m\u00e9todo de dissipa\u00e7\u00e3o de calor \u00e9 devidamente calculado para se obter um melhor rendimento do processador com uma maior durabilidade da bateria, assegurando que o computador poder\u00e1 manter todas as aplica\u00e7\u00f5es em funcionamento sem exceder seu limite t\u00e9rmico e sem necessitar de um sistema refrigerado superior ao utilizado, que custaria mais e n\u00e3o conseguiria nenhum benef\u00edcio real. TDP pode ser definido de diferentes maneiras por fabricantes diferentes. Em alguns casos o valor TDP foi subestimado e em situa\u00e7\u00f5es (processamento video, jogos) o CPU excedeu o seu valor m\u00e1ximo TDP. Nestes casos o CPU sofre um corte de paragem (interruptor t\u00e9rmico), o CPU tamb\u00e9m pode reduzir ou entrar em estado de poupan\u00e7a.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Mit Thermal Design Power (Abk\u00fcrzung: TDP, gelegentlich auch falsch: Thermal Design Point) wird in der Elektronikindustrie ein maximaler Wert (bei manchen Herstellern auch der durchschnittliche Wert) f\u00fcr die thermische Verlustleistung elektrischer Bauteile oder eines Prozessors bezeichnet, auf deren Grundlage die K\u00fchlung (falls erforderlich) sowie die Stromzufuhr ausgelegt werden. Die TDP ist meist geringer als die reale maximale Verlustleistung.Je nach Typ des Bauteils, K\u00fchlsystems und der Umgebungstemperatur (meist Lufttemperatur im Inneren eines Geh\u00e4uses) muss sichergestellt sein, dass auch in besonderen Bedingungen (hohe Umgebungstemperatur und hohe Prozessorlast) die entstehende Abw\u00e4rme abgef\u00fchrt wird. Hierdurch entsteht ein Zielkonflikt aus Leistung, Kosten, Ger\u00e4uschbelastung und Raumklima. Die TDP wurde eingef\u00fchrt, um vorab die thermische Dimensionierung eines Systems planen zu k\u00f6nnen. Zur Ermittlung der TDP werden Lastf\u00e4lle benutzt, die bei typischer H\u00f6chstbeanspruchung im realen Einsatz auftreten, bei x86-Prozessoren etwa beim Kodieren von Videos oder dem Betrieb bei maximaler Kernspannung mit maximal zul\u00e4ssiger Kerntemperatur.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u0438\u0432\u043d\u044b\u0435 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043f\u043b\u043e\u043e\u0442\u0432\u043e\u0434\u0443, \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043f\u043b\u043e\u043e\u0442\u0432\u043e\u0434\u0443 (\u0430\u043d\u0433\u043b. thermal design power, TDP, \u0438\u043d\u043e\u0433\u0434\u0430 \u0430\u043d\u0433\u043b. thermal design point) \u2014 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430, \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0449\u0430\u044f, \u043d\u0430 \u043e\u0442\u0432\u043e\u0434 \u043a\u0430\u043a\u043e\u0439 \u0442\u0435\u043f\u043b\u043e\u0432\u043e\u0439 \u043c\u043e\u0449\u043d\u043e\u0441\u0442\u0438 \u0434\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u0430\u043d\u0430 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430 \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u043e\u0433\u043e \u043f\u043e\u043b\u0443\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u0438\u043a\u043e\u0432\u043e\u0433\u043e \u043f\u0440\u0438\u0431\u043e\u0440\u0430. \u041a \u043f\u0440\u0438\u043c\u0435\u0440\u0443, \u0435\u0441\u043b\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430 \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u0430\u043d\u0430 \u043d\u0430 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043f\u043b\u043e\u043e\u0442\u0432\u043e\u0434\u0443 30 \u0412\u0442, \u043e\u043d\u0430 \u0434\u043e\u043b\u0436\u043d\u0430 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0442\u044c \u043e\u0442\u0432\u043e\u0434 30 \u0412\u0442 \u0442\u0435\u043f\u043b\u0430 \u043f\u0440\u0438 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445. \u0422\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043f\u043b\u043e\u043e\u0442\u0432\u043e\u0434\u0443 (TDP) \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u043d\u0435 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u0442\u0435\u043e\u0440\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0442\u0435\u043f\u043b\u043e\u0432\u044b\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430, \u0430 \u043b\u0438\u0448\u044c \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u044f. \u0422\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043f\u043b\u043e\u043e\u0442\u0432\u043e\u0434\u0443 \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u0430\u043d\u044b \u043d\u0430 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0435 \u00ab\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0435\u00bb \u0443\u0441\u043b\u043e\u0432\u0438\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u043d\u043e\u0433\u0434\u0430 \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u044b, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u043f\u043e\u043b\u043e\u043c\u043a\u0438 \u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0442\u043e\u0440\u0430 \u0438\u043b\u0438 \u043d\u0435\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u044f \u0441\u0430\u043c\u043e\u0433\u043e \u043a\u043e\u0440\u043f\u0443\u0441\u0430. \u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u044b \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u0438\u043b\u0438 \u0434\u0430\u044e\u0442 \u0441\u0438\u0433\u043d\u0430\u043b \u0432\u044b\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430, \u0438\u043b\u0438 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u044f\u0442 \u0432 \u0442\u0430\u043a \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u043c\u044b\u0439 \u0440\u0435\u0436\u0438\u043c \u0434\u0440\u043e\u0441\u0441\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0442\u0430\u043a\u0442\u043e\u0432 (\u043f\u0440\u043e\u043f\u0443\u0441\u043a\u0430 \u0442\u0430\u043a\u0442\u043e\u0432, \u0430\u043d\u0433\u043b. throttling), \u043a\u043e\u0433\u0434\u0430 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440 \u043f\u0440\u043e\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u0447\u0430\u0441\u0442\u044c \u0446\u0438\u043a\u043b\u043e\u0432. \u0420\u0430\u0437\u043d\u044b\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0438 \u043c\u0438\u043a\u0440\u043e\u0441\u0445\u0435\u043c \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u044e\u0442 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043f\u043b\u043e\u043e\u0442\u0432\u043e\u0434\u0443 \u043f\u043e-\u0440\u0430\u0437\u043d\u043e\u043c\u0443, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u043d\u0430\u043f\u0440\u044f\u043c\u0443\u044e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044f \u044d\u043d\u0435\u0440\u0433\u043e\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u043e\u0432. \u0412\u0441\u0451 \u0434\u0435\u043b\u043e \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u044b \u0438\u043c\u0435\u044e\u0442 \u0440\u0430\u0437\u043d\u0443\u044e \u043f\u0440\u0435\u0434\u0435\u043b\u044c\u043d\u0443\u044e \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0443. \u0415\u0441\u043b\u0438 \u0434\u043b\u044f \u043e\u0434\u043d\u0438\u0445 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u043e\u0432 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u0432 100 \u00b0\u0421, \u0442\u043e \u0434\u043b\u044f \u0434\u0440\u0443\u0433\u0438\u0445 \u043e\u043d\u0430 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0443\u0436\u0435 60 \u00b0\u0421. \u0414\u043b\u044f \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u044f \u0432\u0442\u043e\u0440\u043e\u0433\u043e \u043f\u043e\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u0431\u043e\u043b\u0435\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u044f, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0447\u0435\u043c \u0432\u044b\u0448\u0435 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u0440\u0430\u0434\u0438\u0430\u0442\u043e\u0440\u0430, \u0442\u0435\u043c \u0431\u044b\u0441\u0442\u0440\u0435\u0435 \u043e\u043d \u0440\u0430\u0441\u0441\u0435\u0438\u0432\u0430\u0435\u0442 \u0442\u0435\u043f\u043b\u043e. \u0414\u0440\u0443\u0433\u0438\u043c\u0438 \u0441\u043b\u043e\u0432\u0430\u043c\u0438, \u043f\u0440\u0438 \u043d\u0435\u0438\u0437\u043c\u0435\u043d\u043d\u043e\u0439 \u043c\u043e\u0449\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430, \u043f\u0440\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u0441\u0438\u0441\u0442\u0435\u043c \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u044f \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u043e\u0439 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u043b\u0438\u0447\u0430\u0442\u044c\u0441\u044f \u043b\u0438\u0448\u044c \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u0430\u044f \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u043a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u0430. \u041d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435\u043b\u044c\u0437\u044f \u0441 \u0443\u0432\u0435\u0440\u0435\u043d\u043d\u043e\u0441\u0442\u044c\u044e \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u0442\u044c, \u0447\u0442\u043e \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440 \u0441 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f\u043c\u0438 \u043f\u043e \u0442\u0435\u043f\u043b\u043e\u043e\u0442\u0432\u043e\u0434\u0443 \u0432 100 \u0412\u0442 \u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u0435 \u044d\u043d\u0435\u0440\u0433\u0438\u0438, \u0447\u0435\u043c \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440 \u0434\u0440\u0443\u0433\u043e\u0433\u043e \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f \u0441 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f\u043c\u0438 \u0432 5 \u0412\u0442. \u041d\u0435\u0442 \u043d\u0438\u0447\u0435\u0433\u043e \u0441\u0442\u0440\u0430\u043d\u043d\u043e\u0433\u043e, \u0447\u0442\u043e \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043f\u043b\u043e\u043e\u0442\u0432\u043e\u0434\u0443 \u0447\u0430\u0441\u0442\u043e \u0437\u0430\u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0434\u043b\u044f \u0446\u0435\u043b\u043e\u0433\u043e \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u043c\u0438\u043a\u0440\u043e\u0441\u0445\u0435\u043c, \u0431\u0435\u0437 \u0443\u0447\u0451\u0442\u0430 \u0442\u0430\u043a\u0442\u043e\u0432\u043e\u0439 \u0447\u0430\u0441\u0442\u043e\u0442\u044b \u0438\u0445 \u0440\u0430\u0431\u043e\u0442\u044b, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0434\u043b\u044f \u0446\u0435\u043b\u043e\u0433\u043e \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u043e\u0432, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043c\u043b\u0430\u0434\u0448\u0438\u0435 \u043c\u043e\u0434\u0435\u043b\u0438 \u043e\u0431\u044b\u0447\u043d\u043e \u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u044e\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0438 \u0440\u0430\u0441\u0441\u0435\u0438\u0432\u0430\u044e\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 \u0442\u0435\u043f\u043b\u0430, \u0447\u0435\u043c \u0441\u0442\u0430\u0440\u0448\u0438\u0435. \u0412 \u044d\u0442\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u0437\u0430\u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u0430\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u0439 \u043f\u043e \u0442\u0435\u043f\u043b\u043e\u043e\u0442\u0432\u043e\u0434\u0443, \u0447\u0442\u043e\u0431\u044b \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0433\u043e\u0440\u044f\u0447\u0438\u0435 \u043c\u043e\u0434\u0435\u043b\u0438 \u043c\u0438\u043a\u0440\u043e\u0441\u0445\u0435\u043c \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0438 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0435 \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u0435.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "L\u2019enveloppe thermique, ou TDP (pour (en)Thermal Design Power), d\u2019un semi-conducteur, exprim\u00e9e en watts (W), est le transfert thermique vers l'ext\u00e9rieur dont doit pouvoir b\u00e9n\u00e9ficier ce composant pour fonctionner correctement. Le TDP d'un processeur est utile \u00e0 un fabricant de syst\u00e8me de refroidissement pour ordinateur, ou de mani\u00e8re plus g\u00e9n\u00e9rale \u00e0 un assembleur d'ordinateur ou \u00e0 un utilisateur final d'ordinateur.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "TDP (ang. Thermal Design Power) to ilo\u015b\u0107 wydzielanego ciep\u0142a, kt\u00f3r\u0105 trzeba odebra\u0107 z procesora (jednostki centralnej) komputera. Termin stosowany jest tak\u017ce do innych urz\u0105dze\u0144 elektrycznych i elektronicznych wytwarzaj\u0105cych w trakcie pracy ciep\u0142o, np. zasilaczy. Rozumienie terminu jest r\u00f3\u017cne w przypadku wiod\u0105cych producent\u00f3w procesor\u00f3w. W rozumieniu firmy Intel TDP to moc, kt\u00f3r\u0105 procesor pobiera (i oddaje w postaci ciep\u0142a) przy obci\u0105\u017ceniu realnymi aplikacjami. Teoretycznie, w szczeg\u00f3lnych warunkach, procesor m\u00f3g\u0142by t\u0119 moc przekroczy\u0107 i przegrza\u0107 si\u0119. W praktyce procesory posiadaj\u0105 odpowiednie zabezpieczenia powoduj\u0105ce ograniczenie pobieranej mocy, gdy temperatura procesora zbli\u017ca si\u0119 do granic bezpiecze\u0144stwa. Przy odpowiednim (niestandardowym) ch\u0142odzeniu jest mo\u017cliwe uzyskanie wi\u0119kszej mocy oraz osi\u0105g\u00f3w procesora \u2013 patrz przetaktowywanie. W rozumieniu firmy AMD TDP to teoretyczna (w rzeczywisto\u015bci nieosi\u0105galna) moc jak\u0105 procesor komputera m\u00f3g\u0142by pobiera\u0107 (i oddawa\u0107 w postaci ciep\u0142a). Warto\u015b\u0107 tak\u0105 \u0142atwo wyliczy\u0107, jednak nie ma wiele wsp\u00f3lnego z rzeczywisto\u015bci\u0105 (i w dodatku \u017ale wypada z marketingowego punktu widzenia). W zwi\u0105zku z tym AMD r\u00f3wnie\u017c zacz\u0105\u0142 podawa\u0107 moc procesora uzyskiwan\u0105 w realnych warunkach, nazywaj\u0105c j\u0105 ACP (ang. Average CPU Power, \u015brednia moc procesora). Niestety, warunki pracy, przy kt\u00f3rych jest uzyskiwana warto\u015b\u0107 ACP przez AMD s\u0105 najprawdopodobniej inne ni\u017c warunki pracy przy kt\u00f3rych uzyskiwana jest warto\u015b\u0107 TDP przez Intela, wi\u0119c nadal s\u0105 to warto\u015bci niepor\u00f3wnywalne.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "De Thermal Design Power, ook wel Thermal Design Point genoemd en afgekort TDP, is de maximale hoeveelheid warmte die het koelsysteem van een chip geacht wordt nog af te kunnen voeren. Omdat het een hoeveelheid energie per tijdseenheid betreft wordt hiervoor de eenheid Watt gebruikt. Bijvoorbeeld het koelsysteem van de CPU van een laptop kan ontworpen zijn voor een 20 W TDP, wat inhoudt dat het 20 watt aan warmte kan afvoeren (door actieve koeling, passieve koeling of straling) zonder de maximale temperatuur van de chip te overschrijden. De TDP is doorgaans niet gesteld op de maximaal mogelijke belasting van een chip (zoals bij een 'power-virus' het geval kan zijn), maar op het uitvoeren van echte applicaties. Dit garandeert dat de computer in staat is om alle applicaties uit te voeren zonder de temperatuurslimiet te overschrijden. Er is zo geen koelsysteem vereist voor de maximale theoretische belasting van een chip. De TDP van een CPU is feitelijk de afspraak die nodig is om te voorkomen dat een CPU instabiel wordt: als het systeem zoveel warmte kan afvoeren van de processor, alleen dan kan een CPU-fabrikant garantie geven dat de CPU stabiel blijft werken.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u70ed\u8bbe\u8ba1\u529f\u8017\uff08\u82f1\u8a9e\uff1aThermal Design Power\uff0c\u7e2e\u5beb TDP\uff0c\u53c8\u8b6f\u6563\u70ed\u8bbe\u8ba1\u529f\u7387\uff09\u7684\u542b\u4e49\u662f\u5f53\u6676\u7247\u8fbe\u5230\u6700\u5927\u8d1f\u8377\u7684\u65f6\u5019\u3014\u5355\u4f4d\u4e3a\u74e6\uff08W\uff09\u3015\uff0cTDP\u662f\u53cd\u6620\u70ed\u91cf\u91ca\u653e\u7684\u6307\u6807\uff0c\u662f\u7535\u8111\u7684\u51b7\u5374\u7cfb\u7edf\u5fc5\u9808\u6709\u80fd\u529b\u9a45\u6563\u7684\u6700\u5927\u70ed\u91cf\u9650\u5ea6\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u71b1\u8a2d\u8a08\u96fb\u529b\uff08\u306d\u3064\u305b\u3063\u3051\u3044\u3067\u3093\u308a\u3087\u304f\u3001\u82f1: Thermal Design Power, TDP\uff09\u3068\u306f\u3001\u30de\u30a4\u30af\u30ed\u30d7\u30ed\u30bb\u30c3\u30b5\u3084\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30b9\u30d7\u30ed\u30bb\u30c3\u30b7\u30f3\u30b0\u30e6\u30cb\u30c3\u30c8\u306a\u3069\u306e\u5927\u898f\u6a21\u96c6\u7a4d\u56de\u8def\u3067\u4ed5\u69d8\u306e\u4e00\u90e8\u3068\u3057\u3066\u63d0\u793a\u3055\u308c\u308b\u6700\u5927\u5fc5\u8981\u5438\u71b1\u91cf\u306e\u3053\u3068\u3002\u30d1\u30c3\u30b1\u30fc\u30b8\u306b\u53d6\u308a\u4ed8\u3051\u308b\u51b7\u5374\u88c5\u7f6e\u3092\u8a2d\u8a08\u3059\u308b\u969b\u306b\u3001\u3069\u306e\u7a0b\u5ea6\u306e\u5438\u71b1\u80fd\u529b\u3092\u6301\u305f\u305b\u308c\u3070\u826f\u3044\u304b\u3092\u6c7a\u5b9a\u3059\u308b\u305f\u3081\u306b\u4f7f\u308f\u308c\u308b\u6307\u6a19\u3067\u3042\u308b\u3002\u3057\u305f\u304c\u3063\u3066\u300cpower\u300d\u306e\u8a9e\u304c\u8868\u3059\u3082\u306e\u306f\u3001\u3053\u306e\u5834\u5408\u96fb\u529b\u3068\u3044\u3046\u3088\u308a\u71b1\u51fa\u529b\u3067\u3042\u308b\u304c\u3001\u534a\u5c0e\u4f53\u96c6\u7a4d\u56de\u8def\u3067\u306f\u7d50\u679c\u7684\u306b\u3053\u308c\u3089\u3092\u6982\u306d\u540c\u4e00\u8996\u3067\u304d\u3001\u30a4\u30f3\u30c6\u30eb\u306a\u3069\u306eCPU\u30e1\u30fc\u30ab\u30fc\u3082\u3001\u3053\u306e\u5024\u3092\u6700\u5927\u4f5c\u52d5\u6642\u306e\u6d88\u8cbb\u96fb\u529b\u3068\u307b\u307c\u7b49\u3057\u3044\u5024\u3067\u3042\u308b\u3068\u516c\u8868\u3057\u3066\u3044\u308b\u3053\u3068\u3082\u3042\u3063\u3066\u3001\u65e5\u672c\u3067\u306f\u4fd7\u306b\u300c\u71b1\u8a2d\u8a08\u96fb\u529b\u300d\u3068\u304b\u300c\u71b1\u8a2d\u8a08\u6d88\u8cbb\u96fb\u529b\u300d\u3068\u3044\u3046\u8a33\u304c\u5b9a\u7740\u3057\u3066\u3044\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "The thermal design power (TDP), sometimes called thermal design point, is the maximum amount of heat generated by a computer chip or component (often the CPU or GPU) that the cooling system in a computer is designed to dissipate in typical operation. Rather than specifying CPU's real power dissipation, TDP serves as the nominal value for designing CPU cooling systems. The TDP is typically not the largest amount of heat the CPU could ever generate (peak power), such as by running a power virus, but rather the maximum amount of heat that it would generate when running \"real applications.\" This ensures the computer will be able to handle essentially all applications without exceeding its thermal envelope, or requiring a cooling system for the maximum theoretical power (which would cost more but in favor of extra headroom for processing power). Some sources state that the peak power for a microprocessor is usually 1.5 times the TDP rating. However, the TDP is a conventional figure while its measurement methodology has been the subject of controversy. In particular, until around 2006 AMD used to report the maximum power draw of its processors as TDP, but Intel changed this practice with the introduction of its Conroe family of processors. A similar but more recent controversy has involved the power TDP measurements of some Ivy Bridge Y-series processors, with which Intel has introduced a new metric called scenario design power (SDP).",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Il Thermal Design Power (TDP, chiamato anche Thermal Design Point) rappresenta un'indicazione del calore (energia) dissipato da un processore, che il sistema di raffreddamento dovr\u00e0 smaltire per mantenere la temperatura del processore stesso entro una soglia limite. La sua unit\u00e0 di misura \u00e8 il watt. Per esempio, il sistema di raffreddamento di un processore per computer portatili pu\u00f2 essere progettato per un TDP di 20 W, il che significa che pu\u00f2 dissipare (tramite un sistema di raffreddamento attivo come una ventola, in modo passivo, usando il principio della convezione o tramite radiazione del calore, o in tutti e tre i modi) 20 Joule di calore al secondo, senza eccedere la temperatura di giunzione (massima temperatura interna di funzionamento) del chip. Il TDP sovente non corrisponde alla massima potenza dissipata dal processore, ma ad un valore inferiore raggiungibile con un utilizzo normale (ad es. nel caso di Intel). Questo permette di adottare una soluzione di raffreddamento pi\u00f9 economica e comunque adatta per l'utilizzo. Il TDP pu\u00f2 essere definito in differenti modi dai diversi produttori.",
+                "lang": "it"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 739448763,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 1012800,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Amount"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Thermal_design_power": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Scenario_Design_Power": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thermal_design_point": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thermal_Design_Point": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thermal_Design_Power": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Scenario_design_power": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/CTDP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Configurable_TDP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Configurable_thermal_design_power": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nominal_TDP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Programmable_TDP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Programmable_thermal_design_power": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Variable_TDP": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thermal_throttling": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/TDP_Power_Cap": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/TDP_power_cap": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/TDP": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Thermal_design_power"
+            }
+        ]
+    }
+}

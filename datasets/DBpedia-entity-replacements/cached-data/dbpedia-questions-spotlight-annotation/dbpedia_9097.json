@@ -1,0 +1,37 @@
+{
+    "@text": "Is Myocardial infarction treated with the medication Labetalol and a Kazal-type serine protease inhibitor domain?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Infarction",
+            "@support": "454",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "infarction",
+            "@offset": "14",
+            "@similarityScore": "0.9933619506060432",
+            "@percentageOfSecondRank": "0.00544536394551586"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Labetalol",
+            "@support": "67",
+            "@types": "Wikidata:Q8386,DUL:ChemicalObject,DBpedia:Drug,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "Labetalol",
+            "@offset": "53",
+            "@similarityScore": "0.999999999968253",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Kazal_domain",
+            "@support": "7",
+            "@types": "Wikidata:Q8054,Wikidata:Q206229,DBpedia:Protein,DBpedia:Biomolecule",
+            "@surfaceForm": "Kazal-type serine protease inhibitor domain",
+            "@offset": "69",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

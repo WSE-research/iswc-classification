@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me Beer festival whose name has the word oktoberfest in it.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Beer_festival",
+            "@support": "156",
+            "@types": "",
+            "@surfaceForm": "Beer festival",
+            "@offset": "8",
+            "@similarityScore": "0.9999999999999858",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Oktoberfest",
+            "@support": "710",
+            "@types": "Wikidata:Q1445650,DUL:TimeInterval,DBpedia:Holiday",
+            "@surfaceForm": "oktoberfest",
+            "@offset": "46",
+            "@similarityScore": "0.9999999999719194",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

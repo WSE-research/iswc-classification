@@ -1,0 +1,55 @@
+{
+    "@text": "Has Gene Hackman received the Academy Award for Best Director and the Silver Bear for Best Actor?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Gene_Hackman",
+            "@support": "779",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Gene Hackman",
+            "@offset": "4",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Awards",
+            "@support": "24888",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Academy Award",
+            "@offset": "30",
+            "@similarityScore": "0.9386709465863141",
+            "@percentageOfSecondRank": "0.03504681306024638"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Award_for_Best_Director",
+            "@support": "1742",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Best Director",
+            "@offset": "48",
+            "@similarityScore": "0.788540081197778",
+            "@percentageOfSecondRank": "0.2658821759306828"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Berlin_International_Film_Festival",
+            "@support": "3442",
+            "@types": "Wikidata:Q220505,Wikidata:Q1656682,DUL:Event,Schema:Festival,Schema:Event,DBpedia:SocietalEvent,DBpedia:FilmFestival,DBpedia:Event",
+            "@surfaceForm": "Silver Bear",
+            "@offset": "70",
+            "@similarityScore": "0.5635746242110948",
+            "@percentageOfSecondRank": "0.7311629966553799"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Award_for_Best_Actor",
+            "@support": "2328",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Best Actor",
+            "@offset": "86",
+            "@similarityScore": "0.9458909453084549",
+            "@percentageOfSecondRank": "0.056620925141774844"
+        }
+    ]
+}

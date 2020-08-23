@@ -1,0 +1,28 @@
+{
+    "@text": "Who is {favorite player} of {The Rolling Stones}, that has {found guilty of} is {tax evasion}",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/The_Rolling_Stones",
+            "@support": "9136",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q215380,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:MusicGroup,DBpedia:Organisation,DBpedia:Group,DBpedia:Band,DBpedia:Agent",
+            "@surfaceForm": "The Rolling Stones",
+            "@offset": "29",
+            "@similarityScore": "0.9999998373613285",
+            "@percentageOfSecondRank": "1.3434356805556226E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tax_evasion",
+            "@support": "1516",
+            "@types": "",
+            "@surfaceForm": "tax evasion",
+            "@offset": "81",
+            "@similarityScore": "0.9748215801377551",
+            "@percentageOfSecondRank": "0.02497401858392945"
+        }
+    ]
+}

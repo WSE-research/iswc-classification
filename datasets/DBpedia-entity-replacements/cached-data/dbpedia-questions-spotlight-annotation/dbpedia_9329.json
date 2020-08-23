@@ -1,0 +1,37 @@
+{
+    "@text": "Which twin city of San Francisco has the district Songjiang?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "twin city",
+            "@offset": "6",
+            "@similarityScore": "0.9916012553203165",
+            "@percentageOfSecondRank": "0.008469881045175003"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/San_Francisco",
+            "@support": "68107",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "San Francisco",
+            "@offset": "19",
+            "@similarityScore": "0.9995374922020286",
+            "@percentageOfSecondRank": "1.4513849035745213E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Songjiang_District",
+            "@support": "118",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Songjiang",
+            "@offset": "50",
+            "@similarityScore": "0.9832578705705735",
+            "@percentageOfSecondRank": "0.016902300653336904"
+        }
+    ]
+}

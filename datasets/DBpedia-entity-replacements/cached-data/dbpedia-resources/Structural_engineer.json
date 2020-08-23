@@ -1,0 +1,636 @@
+{
+    "http://dbpedia.org/resource/Benjamin_Baker_(engineer)": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/SE": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Structural_engineer": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatCivilEngineers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatStructuralEngineers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Person100007846"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Object100002684"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActor"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Organism100004475"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/CausalAgent100007347"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Whole100003553"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/LivingThing100004258"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/CivilEngineer109924540"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Engineer109615807"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Tragwerksplaner",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Structural engineer",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u69cb\u9020\u30a8\u30f3\u30b8\u30cb\u30a2",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0635\u0645\u0645 \u0625\u0646\u0634\u0627\u0626\u064a",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Der Tragwerksplaner entwirft das Tragwerk von Geb\u00e4uden, Ingenieurbauwerken und anderen baulichen Anlagen. Er geh\u00f6rt zu den Projektanten eines Bauvorhabens. Meist erstellt er den nach dem Bauordnungsrecht erforderlichen Standsicherheitsnachweis.Grundlage seiner statischen Berechnungen sind Last- und Tragf\u00e4higkeitsannahmen sowie Berechnungsmodelle, die er \u00fcblicherweise den entsprechenden Normen (Allgemein anerkannte Regeln der Technik) entnimmt. Die T\u00e4tigkeit des Tragwerksplaners kann mit weiteren Aufgaben wie z. B. der W\u00e4rmeschutzberechnung oder dem Brandschutznachweis verbunden sein.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u69cb\u9020\u30a8\u30f3\u30b8\u30cb\u30a2\uff08\u3053\u3046\u305e\u3046\u30a8\u30f3\u30b8\u30cb\u30a2\uff09\u3068\u306f\u3001\u5730\u9707\u306a\u3069\u3067\u640d\u58ca\u3057\u306a\u3044\u3088\u3046\u306b\u3001\u5efa\u7bc9\u7269\u306e\u5f37\u5ea6\u306b\u3064\u3044\u3066\u6280\u8853\u7684\u89e3\u6c7a\u3092\u884c\u3046\u6280\u80fd\u8077\u3002\u69cb\u9020\u5bb6\u3068\u3082\u547c\u3070\u308c\u308b\u30a8\u30f3\u30b8\u30cb\u30a2\u3082\u3044\u308b\u3002\u57fa\u672c\u7684\u306b\u5efa\u7bc9\u306e\u610f\u5320\u8a2d\u8a08\u8005\u3084\u307b\u304b\u306e\u5efa\u7bc9\u7cfb\u30a8\u30f3\u30b8\u30cb\u30a2\uff08\u8a2d\u5099\u3001\u65bd\u5de5\u3001\u7a4d\u7b97\u307b\u304b\uff09\u3068\u533a\u5206\u3059\u308b\u305f\u3081\u306e\u3001\u5efa\u7bc9\u754c\u3067\u306e\u547c\u79f0\u3067\u3042\u308a\u3001\u571f\u6728\u305d\u306e\u4ed6\u306e\u69cb\u9020\u7269\u6280\u80fd\u8077\u306b\u306f\u3042\u307e\u308a\u4f7f\u7528\u3057\u306a\u3044\u3002 \u65b0\u6f5f\u770c\u306e\u6731\u9dfa\u30e1\u30c3\u30bb\u306e\u9023\u7d61\u6a4b\u843d\u4e0b\u4e8b\u6545\u306a\u3069\u306b\u4ee3\u8868\u3055\u308c\u308b\u69cb\u9020\u4e0d\u5099\u306b\u3088\u308b\u4e8b\u6545\u3092\u4e8b\u6545\u8abf\u67fb\u30fb\u4e88\u9632\u3059\u308b\u306e\u3082\u3001\u69cb\u9020\u30a8\u30f3\u30b8\u30cb\u30a2\u306e\u5f79\u5272\u3067\u3042\u308b\u3002\u300e\u30b8\u30a7\u30cd\u30e9\u30ea\u30b9\u30c8\u300f\u3068\u540d\u4e57\u308b\u8005\u3084\u576a\u4e95\u5584\u52dd\u306e\u3088\u3046\u306b\u300c\u30a2\u30fc\u30ad\u30c6\u30af\u30c8\u300d\u3068\u3001\u307e\u305f\u306a\u308f\u3051\u3093\u30b8\u30e0(\u3059\u308f\u88fd\u4f5c\u6240)\u6240\u5c5e\u306e\u540d\u548c\u7814\u4e8c\u306e\u3088\u3046\u306b\u69cb\u9020\u3068\u96d1\u7528\u696d\u3001\u3068\u540d\u4e57\u3063\u305f\u308a\u3059\u308b\u3082\u306e\u3082\u304a\u308a\u3001\u5b9a\u7fa9\u306f\u66d6\u6627\u3067\u3042\u308b\u3002 1916\u5e74\u306b\u300c\u5bb6\u5c4b\u8010\u9707\u69cb\u9020\u8ad6\u300d\u3067\u5de5\u5b66\u535a\u58eb\u53f7\u3092\u5f97\u305f\u4f50\u91ce\u5229\u5668\u304b\u3089\u3001\u5f1f\u5b50\u306e\u5185\u7530\u7965\u4e09\u3001\u5185\u85e4\u591a\u4ef2\u3001\u6b66\u85e4\u6e05\u3001\u5185\u85e4\u306e\u5f1f\u5b50\u306e\u677e\u4e95\u6e90\u543e\u3001\u6728\u6751\u4fca\u5f66\u3001\u9752\u6728\u7e41\u3001\u5ddd\u53e3\u885e\u3089\u304c\u5148\u99c6\u7684\u306a\u5f79\u5272\u3092\u679c\u305f\u3057\u3001\u6700\u8fd1\u3067\u306f\u91d1\u7bb1\u6e29\u6625\u3001\u4eca\u5ddd\u61b2\u82f1\u3001\u4f50\u3005\u6728\u7766\u6717\u3001\u65b0\u8c37\u771e\u4eba\u3089\u304c\u6d3b\u8e8d\u3057\u3066\u3044\u308b\u3002\u6728\u6751\u306f\u4f5c\u54c1\u96c6\uff08\u65b0\u5efa\u7bc9\u793e\uff09\u3092\u51fa\u3057\u3066\u3044\u308b\u7a00\u6709\u306a\u69cb\u9020\u30a8\u30f3\u30b8\u30cb\u30a2/\u69cb\u9020\u5bb6\u3067\u3042\u308b\u3002 \u69cb\u9020\u6280\u8853\u8005\u306e\u8cde\u3068\u3057\u3066\u3001\u65e5\u672c\u5efa\u7bc9\u69cb\u9020\u6280\u8853\u8005\u5354\u4f1a\u304c\u4e3b\u50ac\u3059\u308bJSCA\u8cde\u3001\u307e\u305f\u904e\u53bb\u306b\u306f\u677e\u4e95\u6e90\u543e\u8cde\u3001\u305d\u308c\u3092\u7d99\u627f\u3059\u308b\u65e5\u672c\u69cb\u9020\u30c7\u30b6\u30a4\u30f3\u8cde\u304c\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Structural engineers analyze, design, plan, and research structural components and structural systems to achieve design goals and ensure the safety and comfort of users or occupants. Their work takes account mainly of safety, technical, economic and environmental concerns, but they may also consider aesthetic and social factors.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0623\u063a\u0633\u0637\u0633_2010) \u0627\u0644\u0645\u0635\u0645\u0645 \u0627\u0644\u0625\u0646\u0634\u0627\u0626\u064a \u0647\u0648 \u0627\u0644\u0634\u062e\u0635 \u0627\u0644\u0630\u064a \u064a\u0643\u0648\u0646 \u0630\u0648 \u0642\u062f\u0631\u0629 \u0639\u0627\u0644\u064a\u0629 \u0639\u0644\u0649 \u0627\u0644\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0625\u0646\u0634\u0627\u0626\u064a \u0648\u062a\u0648\u0632\u064a\u0639 \u0627\u0644\u0623\u062d\u0645\u0627\u0644 \u0627\u0644\u062d\u064a\u0629 \u0648\u0627\u0644\u0645\u064a\u062a\u0629 \u0648\u0627\u0644\u0645\u0631\u0643\u0628\u0629\u060c \u0648\u064a\u0643\u0648\u0646 \u0630\u0627 \u0625\u0644\u0645\u0627\u0645 \u0643\u0628\u064a\u0631 \u0628\u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0625\u0646\u0634\u0627\u0626\u064a\u0629 \u0628\u0645\u062e\u062a\u0644\u0641 \u0623\u0646\u0648\u0627\u0639\u0647\u0627\u060c \u0627\u0628\u062a\u062f\u0627\u0621 \u0645\u0646 \u0627\u0644\u0631\u0643\u0627\u0645 \u0627\u0644\u062e\u0634\u0646 \u0648\u0627\u0644\u0646\u0627\u0639\u0645 \u0648\u062d\u062f\u064a\u062f \u0627\u0644\u062a\u0633\u0644\u064a\u062d \u0648\u0642\u0627\u0644\u0628 \u0627\u0644\u062e\u0631\u0633\u0627\u0646\u0629 \u0648\u0643\u0644 \u0634\u064a\u0621 \u0645\u062a\u0639\u0644\u0642 \u0628\u0627\u0644\u0645\u0646\u0634\u0623.",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Structural_engineer"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4182946-3"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Tragwerksplaner"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01rrgk"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q2305987"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Statik"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q2305987"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u69cb\u9020\u30a8\u30f3\u30b8\u30cb\u30a2"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Building_engineering"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Engineering_occupations"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Structural_engineers"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Structural_engineer"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Structural_engineer?oldid=743195637"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.iabse.org"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ncsea.com/downloads/files/Resources/A_DAY_IN_THE_LIFE_of_SE.pdf"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u69cb\u9020\u30a8\u30f3\u30b8\u30cb\u30a2\uff08\u3053\u3046\u305e\u3046\u30a8\u30f3\u30b8\u30cb\u30a2\uff09\u3068\u306f\u3001\u5730\u9707\u306a\u3069\u3067\u640d\u58ca\u3057\u306a\u3044\u3088\u3046\u306b\u3001\u5efa\u7bc9\u7269\u306e\u5f37\u5ea6\u306b\u3064\u3044\u3066\u6280\u8853\u7684\u89e3\u6c7a\u3092\u884c\u3046\u6280\u80fd\u8077\u3002\u69cb\u9020\u5bb6\u3068\u3082\u547c\u3070\u308c\u308b\u30a8\u30f3\u30b8\u30cb\u30a2\u3082\u3044\u308b\u3002\u57fa\u672c\u7684\u306b\u5efa\u7bc9\u306e\u610f\u5320\u8a2d\u8a08\u8005\u3084\u307b\u304b\u306e\u5efa\u7bc9\u7cfb\u30a8\u30f3\u30b8\u30cb\u30a2\uff08\u8a2d\u5099\u3001\u65bd\u5de5\u3001\u7a4d\u7b97\u307b\u304b\uff09\u3068\u533a\u5206\u3059\u308b\u305f\u3081\u306e\u3001\u5efa\u7bc9\u754c\u3067\u306e\u547c\u79f0\u3067\u3042\u308a\u3001\u571f\u6728\u305d\u306e\u4ed6\u306e\u69cb\u9020\u7269\u6280\u80fd\u8077\u306b\u306f\u3042\u307e\u308a\u4f7f\u7528\u3057\u306a\u3044\u3002 \u65b0\u6f5f\u770c\u306e\u6731\u9dfa\u30e1\u30c3\u30bb\u306e\u9023\u7d61\u6a4b\u843d\u4e0b\u4e8b\u6545\u306a\u3069\u306b\u4ee3\u8868\u3055\u308c\u308b\u69cb\u9020\u4e0d\u5099\u306b\u3088\u308b\u4e8b\u6545\u3092\u4e8b\u6545\u8abf\u67fb\u30fb\u4e88\u9632\u3059\u308b\u306e\u3082\u3001\u69cb\u9020\u30a8\u30f3\u30b8\u30cb\u30a2\u306e\u5f79\u5272\u3067\u3042\u308b\u3002\u300e\u30b8\u30a7\u30cd\u30e9\u30ea\u30b9\u30c8\u300f\u3068\u540d\u4e57\u308b\u8005\u3084\u576a\u4e95\u5584\u52dd\u306e\u3088\u3046\u306b\u300c\u30a2\u30fc\u30ad\u30c6\u30af\u30c8\u300d\u3068\u3001\u307e\u305f\u306a\u308f\u3051\u3093\u30b8\u30e0(\u3059\u308f\u88fd\u4f5c\u6240)\u6240\u5c5e\u306e\u540d\u548c\u7814\u4e8c\u306e\u3088\u3046\u306b\u69cb\u9020\u3068\u96d1\u7528\u696d\u3001\u3068\u540d\u4e57\u3063\u305f\u308a\u3059\u308b\u3082\u306e\u3082\u304a\u308a\u3001\u5b9a\u7fa9\u306f\u66d6\u6627\u3067\u3042\u308b\u3002 1916\u5e74\u306b\u300c\u5bb6\u5c4b\u8010\u9707\u69cb\u9020\u8ad6\u300d\u3067\u5de5\u5b66\u535a\u58eb\u53f7\u3092\u5f97\u305f\u4f50\u91ce\u5229\u5668\u304b\u3089\u3001\u5f1f\u5b50\u306e\u5185\u7530\u7965\u4e09\u3001\u5185\u85e4\u591a\u4ef2\u3001\u6b66\u85e4\u6e05\u3001\u5185\u85e4\u306e\u5f1f\u5b50\u306e\u677e\u4e95\u6e90\u543e\u3001\u6728\u6751\u4fca\u5f66\u3001\u9752\u6728\u7e41\u3001\u5ddd\u53e3\u885e\u3089\u304c\u5148\u99c6\u7684\u306a\u5f79\u5272\u3092\u679c\u305f\u3057\u3001\u6700\u8fd1\u3067\u306f\u91d1\u7bb1\u6e29\u6625\u3001\u4eca\u5ddd\u61b2\u82f1\u3001\u4f50\u3005\u6728\u7766\u6717\u3001\u65b0\u8c37\u771e\u4eba\u3089\u304c\u6d3b\u8e8d\u3057\u3066\u3044\u308b\u3002\u6728\u6751\u306f\u4f5c\u54c1\u96c6\uff08\u65b0\u5efa\u7bc9\u793e\uff09\u3092\u51fa\u3057\u3066\u3044\u308b\u7a00\u6709\u306a\u69cb\u9020\u30a8\u30f3\u30b8\u30cb\u30a2/\u69cb\u9020\u5bb6\u3067\u3042\u308b\u3002 \u69cb\u9020\u6280\u8853\u8005\u306e\u8cde\u3068\u3057\u3066\u3001\u65e5\u672c\u5efa\u7bc9\u69cb\u9020\u6280\u8853\u8005\u5354\u4f1a\u304c\u4e3b\u50ac\u3059\u308bJSCA\u8cde\u3001\u307e\u305f\u904e\u53bb\u306b\u306f\u677e\u4e95\u6e90\u543e\u8cde\u3001\u305d\u308c\u3092\u7d99\u627f\u3059\u308b\u65e5\u672c\u69cb\u9020\u30c7\u30b6\u30a4\u30f3\u8cde\u304c\u3042\u308b\u3002 \u306a\u304a\u3001\u69cb\u9020\u30a8\u30f3\u30b8\u30cb\u30a2\u304c\u901a\u5e38\u53d6\u5f97\u3057\u3066\u3044\u308b\u56fd\u5185\u3067\u306e\u5b9f\u52d9\u4e0a\u306e\u8cc7\u683c\u306f\u5efa\u7bc9\u58eb\u3067\u3042\u308a\u3001\u4e00\u5b9a\u898f\u6a21\u4ee5\u4e0a\u306f\u69cb\u9020\u8a2d\u8a08\u4e00\u7d1a\u5efa\u7bc9\u58eb\u3067\u3042\u308b\u3002\u307b\u304b\u306b\u95a2\u9023\u8cc7\u683c\u3068\u3057\u3066\u306f\u5c02\u653b\u5efa\u7bc9\u58eb\uff08\u8a2d\u8a08\u30fb\u69cb\u9020\uff09\u3001APECENGINEER\uff08Structural\uff09\u3001\u5efa\u7bc9\u69cb\u9020\u58eb\u306a\u3069\u3084\u3001\u6280\u8853\u58eb (\u5efa\u8a2d\u90e8\u9580)\u306e\u92fc\u69cb\u9020\u53ca\u3073\u30b3\u30f3\u30af\u30ea\u30fc\u30c8\u3001\u306a\u3069\u306e\u8cc7\u683c\u304c\u5b58\u5728\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0623\u063a\u0633\u0637\u0633_2010) \u0627\u0644\u0645\u0635\u0645\u0645 \u0627\u0644\u0625\u0646\u0634\u0627\u0626\u064a \u0647\u0648 \u0627\u0644\u0634\u062e\u0635 \u0627\u0644\u0630\u064a \u064a\u0643\u0648\u0646 \u0630\u0648 \u0642\u062f\u0631\u0629 \u0639\u0627\u0644\u064a\u0629 \u0639\u0644\u0649 \u0627\u0644\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0625\u0646\u0634\u0627\u0626\u064a \u0648\u062a\u0648\u0632\u064a\u0639 \u0627\u0644\u0623\u062d\u0645\u0627\u0644 \u0627\u0644\u062d\u064a\u0629 \u0648\u0627\u0644\u0645\u064a\u062a\u0629 \u0648\u0627\u0644\u0645\u0631\u0643\u0628\u0629\u060c \u0648\u064a\u0643\u0648\u0646 \u0630\u0627 \u0625\u0644\u0645\u0627\u0645 \u0643\u0628\u064a\u0631 \u0628\u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0625\u0646\u0634\u0627\u0626\u064a\u0629 \u0628\u0645\u062e\u062a\u0644\u0641 \u0623\u0646\u0648\u0627\u0639\u0647\u0627\u060c \u0627\u0628\u062a\u062f\u0627\u0621 \u0645\u0646 \u0627\u0644\u0631\u0643\u0627\u0645 \u0627\u0644\u062e\u0634\u0646 \u0648\u0627\u0644\u0646\u0627\u0639\u0645 \u0648\u062d\u062f\u064a\u062f \u0627\u0644\u062a\u0633\u0644\u064a\u062d \u0648\u0642\u0627\u0644\u0628 \u0627\u0644\u062e\u0631\u0633\u0627\u0646\u0629 \u0648\u0643\u0644 \u0634\u064a\u0621 \u0645\u062a\u0639\u0644\u0642 \u0628\u0627\u0644\u0645\u0646\u0634\u0623. \u0627\u0644\u0645\u0635\u0645\u0645 \u0627\u0644\u0625\u0646\u0634\u0627\u0626\u064a \u0647\u0648 \u0627\u0644\u0634\u062e\u0635 \u0627\u0644\u0630\u064a \u064a\u062d\u062f\u062f \u0627\u0631\u062a\u0641\u0627\u0639 \u0627\u0644\u0645\u0646\u0634\u0623 \u0644\u0623\u0646\u0647 \u064a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0639\u0645\u0642 \u0627\u0644\u0623\u0633\u0633 \u0648\u0639\u0631\u0636\u0647\u0627 \u0648\u062a\u0633\u0644\u064a\u062d\u0647\u0627\u060c \u0648\u063a\u064a\u0631\u0647\u0627 \u0645\u0646 \u0627\u0644\u0623\u0645\u0648\u0631 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0635\u0644\u0628 \u0627\u0644\u062a\u0635\u0645\u064a\u0645\u060c \u0648\u0639\u0644\u0649 \u0639\u062f\u062f \u0627\u0644\u0623\u0639\u0645\u062f\u0629 \u0648\u0643\u0630\u0644\u0643 \u0639\u0644\u0649 \u062a\u0648\u0632\u064a\u0639 \u062d\u062f\u064a\u062f \u0627\u0644\u062a\u0633\u0644\u064a\u062d \u0648\u063a\u064a\u0631\u0647\u0627 \u0645\u0646 \u0627\u0644\u0623\u0645\u0648\u0631 \u0627\u0644\u062a\u064a \u062a\u0648\u062f\u064a \u0625\u0644\u0649 \u062a\u0635\u0645\u064a\u0645 \u0625\u0646\u0634\u0627\u0626\u064a \u0645\u062a\u0643\u0627\u0645\u0644.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Structural engineers analyze, design, plan, and research structural components and structural systems to achieve design goals and ensure the safety and comfort of users or occupants. Their work takes account mainly of safety, technical, economic and environmental concerns, but they may also consider aesthetic and social factors. Structural engineering is usually considered a specialty discipline within civil engineering, but it can also be studied in its own right. In the United States, most practicing structural engineers are currently licensed as civil engineers, but the situation varies from state to state. Some states have a separate license for structural engineers which is required to design special or high risk structures such as schools, hospitals, or skyscrapers. In the United Kingdom, most structural engineers in the building industry are members of the Institution of Structural Engineers rather than the Institution of Civil Engineers. Typical structures designed by a structural engineer include buildings, towers, stadia and bridges. Other structures such as oil rigs, space satellites, aircraft and ships may also be designed by a structural engineer. Most structural engineers are employed in the construction industry, however there are also structural engineers in the aerospace, automobile and shipbuilding industries. In the construction industry, they work closely with architects, civil engineers, mechanical engineers, electrical engineers, quantity surveyors, and construction managers. Structural engineers ensure that buildings and bridges are built to be strong enough and stable enough to resist all appropriate structural loads (e.g., gravity, wind, snow, rain, seismic (earthquake), earth pressure, temperature, and traffic) in order to prevent or reduce loss of life or injury. They also design structures to be stiff enough to not deflect or vibrate beyond acceptable limits. Human comfort is an issue that is regularly considered in the limits. Fatigue is also an important consideration or bridges and for aircraft design or for other structures which experience a large number of stress cycles over their lifetimes. Consideration is also given to durability of materials against possible deterioration which may impair performance over the design lifetime.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Der Tragwerksplaner entwirft das Tragwerk von Geb\u00e4uden, Ingenieurbauwerken und anderen baulichen Anlagen. Er geh\u00f6rt zu den Projektanten eines Bauvorhabens. Meist erstellt er den nach dem Bauordnungsrecht erforderlichen Standsicherheitsnachweis.Grundlage seiner statischen Berechnungen sind Last- und Tragf\u00e4higkeitsannahmen sowie Berechnungsmodelle, die er \u00fcblicherweise den entsprechenden Normen (Allgemein anerkannte Regeln der Technik) entnimmt. Die T\u00e4tigkeit des Tragwerksplaners kann mit weiteren Aufgaben wie z. B. der W\u00e4rmeschutzberechnung oder dem Brandschutznachweis verbunden sein. Ziel seiner Tragwerksplanung ist es, die erforderliche Tragf\u00e4higkeit und Gebrauchstauglichkeit einer Baukonstruktion w\u00e4hrend der vorgesehenen Lebensdauer mit den Forderungen nach Wirtschaftlichkeit und \u00c4sthetik in Einklang zu bringen. Zur Umsetzung dieser Aufgabenstellung wird meist die statische Berechnung angewandt, welche auf den Regeln der Baustatik beruht. In Ausnahmef\u00e4llen dienen Versuche als Nachweis der Realisierbarkeit. Ein verantwortlicher Baustatiker oder Tragwerksplaner wird oft umgangssprachlich als Statiker bezeichnet.",
+                "lang": "de"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 743195637,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 299790,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bob_Shaw": {
+        "http://dbpedia.org/ontology/occupation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Edmund_Happold": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/John_Baker,_Baron_Baker": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nathan_M._Newmark": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Olgierd_Zienkiewicz": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/John_Ochsendorf": {
+        "http://dbpedia.org/ontology/occupation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Michael_Dickson_(engineer)": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fritz_Leonhardt": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Jack_R._Janney": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Fabrizio_de_Miranda": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Charles_Fox_(civil_and_railway_engineer)": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sarah_Buck": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Wilem_Frischmann": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mike_Glover": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chris_Wise": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hanif_Kara": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Othmar_Ammann": {
+        "http://dbpedia.org/ontology/occupation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Structural_engineer": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Vladimir_Shukhov": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Hardy_Cross": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Man-Chung_Tang": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Richard_Weingardt": {
+        "http://dbpedia.org/ontology/occupation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ysrael_Seinuk": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nabih_Youssef": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Eug\u00e8ne_Freyssinet": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/William_Hazledine": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Structural_Engineer": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Structural_engineers": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Structural_engineer_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ocean_1_Tower": {
+        "http://dbpedia.org/ontology/architect": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Pier_Luigi_Nervi": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/William_George_Nicholson_Geddes": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Leslie_E._Robertson": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ove_Arup": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tony_Fitzpatrick_(engineer)": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tung-Yen_Lin": {
+        "http://dbpedia.org/ontology/occupation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/F.W.J._Palmer": {
+        "http://dbpedia.org/ontology/occupation": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/H._Kempton_Dyson": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Povl_Ahm": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/J\u00f6rg_Schlaich": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Santiago_Calatrava": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Michel_Virlogeux": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Thomas_Bouch": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Peter_Thomas_Dunican": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Anthony_Hunt": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/William_Lloyd_(engineer)": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Isambard_Kingdom_Brunel": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Frank_Newby": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Peter_Rice": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Bradford_Leslie": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ian_Liddell": {
+        "http://dbpedia.org/ontology/discipline": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Structural_engineer"
+            }
+        ]
+    }
+}

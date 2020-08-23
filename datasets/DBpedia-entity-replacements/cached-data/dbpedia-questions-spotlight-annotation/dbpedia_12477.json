@@ -1,0 +1,28 @@
+{
+    "@text": "Which actor played Dana Scully in The X-Files?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Dana_Scully",
+            "@support": "881",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q95074,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:FictionalCharacter,DBpedia:Agent",
+            "@surfaceForm": "Dana Scully",
+            "@offset": "19",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/The_X-Files",
+            "@support": "4536",
+            "@types": "Wikidata:Q386724,Wikidata:Q15416,Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow",
+            "@surfaceForm": "The X-Files",
+            "@offset": "34",
+            "@similarityScore": "0.9958880869485043",
+            "@percentageOfSecondRank": "0.004128889028756692"
+        }
+    ]
+}

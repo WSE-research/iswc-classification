@@ -1,0 +1,650 @@
+{
+    "http://dbpedia.org/resource/Aircraft_registration": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Group100031264"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Signal106791372"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WrittenCommunication106349220"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Symbol106806469"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Encoding100615887"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Marker107270179"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatCountryCodes"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Aviation108433727"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Identifier107270601"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatAircraftMarkings"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatPublicRecords"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatIdentifiers"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Code106667317"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Collection107951464"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Island"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Act100030358"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Activity100407535"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Record106647206"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Event100029378"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Evidence106643408"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Indication106797169"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Communication100033020"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Writing100614224"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/Cryptography100614489"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/class/yago/WikicatEncodings"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Luftfahrzeugkennzeichen",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Codice di registrazione degli aeromobili",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u822a\u7a7a\u5668\u8a3b\u518a\u7de8\u865f",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Aircraft registration",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Matr\u00edcula (aeronaves)",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u062a\u0633\u062c\u064a\u0644 \u0637\u0627\u0626\u0631\u0629",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Immatriculation des a\u00e9ronefs",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Mi\u0119dzynarodowy kod samolotowy",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Vliegtuigregistratienummer",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u044b\u0445 \u0441\u0443\u0434\u043e\u0432",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u6a5f\u4f53\u8a18\u53f7",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Prefixo aeron\u00e1utico",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u043e\u0433\u043e \u0441\u0443\u0434\u043d\u0430 \u2014 \u044d\u0442\u043e \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440, \u043f\u0440\u0438\u0441\u0432\u0430\u0438\u0432\u0430\u0435\u043c\u044b\u0439 \u0441\u0430\u043c\u043e\u043b\u0451\u0442\u0443 \u043f\u043e \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u0438 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u044b \u0435\u0433\u043e \u0432\u043d\u0435\u0441\u0435\u043d\u0438\u044f \u0432 \u0430\u0432\u0438\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0440\u0435\u0435\u0441\u0442\u0440 \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u043e\u0433\u043e \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430. \u0412 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f\u043c\u0438 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u043a\u043e\u043d\u0432\u0435\u043d\u0446\u0438\u0438 \u043e \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0439 \u0430\u0432\u0438\u0430\u0446\u0438\u0438 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u0430 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0445 \u0441\u0443\u0434\u043e\u0432. \u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u043e\u0433\u043e \u0441\u0443\u0434\u043d\u0430 \u043e\u0431\u044b\u0447\u043d\u043e \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0438\u0437 5 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u2014 \u043b\u0430\u0442\u0438\u043d\u0441\u043a\u0438\u0445 \u0431\u0443\u043a\u0432 \u0438 \u0446\u0438\u0444\u0440, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043d\u0430\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u043d\u0430 \u0445\u0432\u043e\u0441\u0442\u043e\u0432\u043e\u0435 \u043e\u043f\u0435\u0440\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0443\u0447\u0430\u0441\u0442\u043a\u0438 \u0441\u0430\u043c\u043e\u043b\u0451\u0442\u0430. \u041f\u043e \u0441\u0438\u043c\u0432\u043e\u043b\u0430\u043c \u043d\u043e\u043c\u0435\u0440\u0430 \u043c\u043e\u0436\u043d\u043e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0438\u0442\u044c \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u043d\u043e\u0441\u0442\u044c (\u0410\u0432\u0438\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043f\u0440\u0435\u0444\u0438\u043a\u0441) \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u043e\u0433\u043e \u0441\u0443\u0434\u043d\u0430, \u0430 \u0438\u043d\u043e\u0433\u0434\u0430 \u0438 \u0435\u0433\u043e \u0442\u0438\u043f.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Een vliegtuigregistratienummer, of vliegtuigregistratie, is een unieke reeks van letters en cijfers die als identificatiecode voor vliegtuigen gebruikt wordt.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u6a5f\u4f53\u8a18\u53f7\uff08\u304d\u305f\u3044\u304d\u3054\u3046\u3001\u82f1\u8a9e\uff1aaircraft registration\uff09\u3068\u306f\u3001\u822a\u7a7a\u6a5f\u306b\u4ed8\u3051\u3089\u308c\u308b\u500b\u5225\u306e\u8a18\u53f7\u3002\u56fd\u7c4d\u8a18\u53f7\u3068\u767b\u9332\u8a18\u53f7\u306b\u3088\u308a\u69cb\u6210\u3055\u308c\u308b\u3002 \u4fd7\u306b\u82f1\u8a9e\u306e\u30ec\u30b8\u30b9\u30c8\u30ec\u30fc\u30b7\u30e7\u30f3\uff08registration\uff09\u3092\u7565\u3057\u3066\u5358\u306b\u30ec\u30b8\u3042\u308b\u3044\u306f\u30ec\u30b8\u30b9\u30bf\u3068\u547c\u3076\u5834\u5408\u3082\u3042\u308b\u3002\u56fd\u571f\u4ea4\u901a\u7701\u822a\u7a7a\u5c40\u3067\u306f\u8b58\u5225\u8a18\u53f7\u3068\u8868\u8a18\u3057\u3066\u3044\u308b\u3002 \u822a\u7a7a\u6a5f\u8a8d\u8b58\u306e\u8868\u793a\u65b9\u6cd5\u304c\u6570\u5b57\u306e\u307f\u306e\u5834\u5408\u3082\u3042\u308b\u304c\u3001\u3053\u3061\u3089\u306f\u30a2\u30e1\u30ea\u30ab\u7a7a\u8ecd\uff08\u30c6\u30fc\u30eb\u30b3\u30fc\u30c9\uff09\u3001\u30ed\u30a4\u30e4\u30eb\u30a8\u30a2\u30d5\u30a9\u30fc\u30b9\uff08\u30a4\u30ae\u30ea\u30b9\uff09\u3084\u822a\u7a7a\u81ea\u885b\u968a\uff08\u65e5\u672c\uff09\u306a\u3069\u306e\u8ecd\u7528\u6a5f\u306b\u5bfe\u3057\u7528\u3044\u3089\u308c\u308b\u3002\u305d\u306e\u305f\u3081\u6c11\u9593\u6a5f\u306b\u300c\u6a5f\u4f53\u6570\u5b57\u300d\u3068\u3044\u3063\u305f\u547c\u3073\u65b9\u306f\u3057\u306a\u3044\u3002 \u306a\u304a\u8239\u8236\u306b\u3082\u500b\u5225\u8a8d\u8b58\u756a\u53f7\u304c\u3042\u308b\u304c\u3001\u672c\u7a3f\u3067\u306f\u6c11\u9593\u822a\u7a7a\u6a5f\u306b\u5bfe\u3057\u3066\u3064\u3051\u3089\u308c\u308b\u6a5f\u4f53\u8a18\u53f7\u306b\u3064\u3044\u3066\u8ad6\u8ff0\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "In accordance with the Convention on International Civil Aviation (also known as the Chicago Convention), all civil aircraft must be registered with a national aviation authority (NAA) using procedures set by each country. Every country, even those not party to the Chicago Convention, has a NAA whose functions include the registration of civil aircraft. An aircraft can only be registered once, in the one jurisdiction. The NAA allocates a unique alphanumeric string to identify the aircraft, which also indicates the nationality (i.e., country of registration) of the aircraft, and provides a legal document called a Certificate of Registration, one of the documents which must be carried when the aircraft is in operation.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Il codice di registrazione degli aeromobili (o anche marche di nazionalit\u00e0 e immatricolazione) \u00e8 una stringa alfanumerica che identifica un aeromobile. Svolge la stessa funzione della targa per un'automobile. Secondo la convenzione di Chicago del 1944 tutti gli aeromobili devono essere registrati presso un'autorit\u00e0 nazionale (come la FAA o l'ENAC) e dimostrare tale registrazione con un documento ufficiale chiamato \"certificato di registrazione\" ogni volta che sono in esercizio. Molte nazioni richiedono anche che il codice di registrazione sia impresso su una targa ignifuga montata sulla fusoliera del velivolo per poterlo identificare anche in seguito ad un incidente.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "La matr\u00edcula de una aeronave es una serie alfanum\u00e9rica de caracteres similar a una matr\u00edcula de un autom\u00f3vil. En conformidad con el Convenio sobre Aviaci\u00f3n Civil Internacional (OACI), todos los aviones deben estar registrados por la autoridad aeron\u00e1utica nacional correspondiente y se debe llevar este registro en forma de un documento legal llamado un Certificado de Registro en todo momento durante la operaci\u00f3n de la aeronave. La mayor\u00eda de los pa\u00edses requieren tambi\u00e9n que la matr\u00edcula se coloque en una placa a prueba de fuego sobre el fuselaje a efectos de una investigaci\u00f3n posterior a un accidente donde el avi\u00f3n haya ardido.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0647\u0648 \u0625\u0639\u0637\u0627\u0621 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0645\u062c\u0645\u0648\u0639\u0629\u064b \u0645\u0646 \u0627\u0644\u0623\u0631\u0642\u0627\u0645 \u0648\u0627\u0644\u0623\u062d\u0631\u0641 \u0627\u0644\u062a\u064a \u062a\u064f\u0639\u064e\u0631\u0650\u0651\u0641 \u0628\u0647\u0627\u060c \u0648\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0645\u0634\u0627\u0628\u0647 \u0644\u0631\u062e\u0635\u0629 \u0627\u0644\u0633\u064a\u0627\u0631\u0629. \u0648\u0627\u0633\u062a\u0646\u0627\u062f\u064b\u0627 \u0625\u0644\u0649 \u0645\u0639\u0627\u0647\u062f\u0629 \u0627\u0644\u0637\u064a\u0631\u0627\u0646 \u0627\u0644\u0645\u062f\u0646\u064a \u0627\u0644\u062f\u0648\u0644\u064a \u0641\u0625\u0646 \u062c\u0645\u064a\u0639 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u064a\u062c\u0628 \u0623\u0646 \u062a\u0633\u062c\u0644 \u0641\u064a \u0647\u064a\u0626\u0629 \u0623\u0648 \u0648\u0643\u0627\u0644\u0629 \u0648\u0637\u0646\u064a\u0629. \u0648\u0647\u0630\u0647 \u0627\u0644\u062d\u0631\u0648\u0641 \u062a\u0639\u0631\u0641 \u062c\u0646\u0633\u064a\u0629 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0648\u062a\u0628\u0639\u064a\u062a\u0647\u0627 \u0648\u062a\u0633\u062c\u064a\u0644\u0647\u0627 \u0644\u0644\u0628\u0644\u062f \u0627\u0644\u062a\u0627\u0628\u0639\u0629 \u0644\u0647\u060c \u0648\u0627\u0644\u062a\u064a \u0628\u0645\u062c\u0631\u062f \u0631\u0624\u064a\u062a\u0647\u0627 \u0641\u0625\u0646 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u062a\u0639\u0631\u0641 \u0639\u0646 \u062c\u0646\u0633\u064a\u062a\u0647\u0627 \u0648\u062a\u0628\u0639\u064a\u062a\u0647\u0627\u060c \u0648\u0644\u0627 \u064a\u0639\u0646\u064a \u0628\u0627\u0644\u0636\u0631\u0648\u0631\u0629 \u0623\u0646 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0645\u0644\u0643\u0627\u064b \u0644\u0644\u0628\u0644\u062f \u0645\u0627\u0646\u062d \u0627\u0644\u062a\u0633\u062c\u064a\u0644\u060c \u0641\u0642\u062f \u062a\u0643\u0648\u0646 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0645\u0644\u0643\u0627\u064b \u0644\u0628\u0644\u062f\u064d \u0645\u0627\u060c \u0644\u0643\u0646 \u0627\u0644\u0638\u0631\u0648\u0641 \u0642\u062f \u062a\u0636\u0637\u0631 \u0627\u0644\u0645\u0627\u0644\u0643 \u0625\u0644\u0649 \u062a\u0633\u062c\u064a\u0644\u0647\u0627 \u0641\u064a \u062f\u0648\u0644\u0629 \u0623\u062e\u0631\u0649. \u0643\u0645\u0627 \u064a\u062d\u062f\u062b \u0641\u064a \u062d\u0627\u0644 \u062a\u0623\u062c\u064a\u0631 \u0637\u0627\u0626\u0631\u0629 \u0644\u0644\u0639\u0645\u0644\u060c \u0641\u0627\u0644\u0645\u0634\u063a\u0644 \u0628\u0645\u0642\u062a\u0636\u0649 \u0627\u0644\u0639\u0642\u062f \u064a\u0645\u0644\u0643 \u062d\u0642 \u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0637\u0627\u0626\u0631\u0629\u060c \u0628\u064a\u0646\u0645\u0627 \u062d\u0631\u0648\u0641 \u062a\u0633\u062c\u064a\u0644\u0647\u0627 \u0644\u0627 \u062a\u0639\u0637\u064a \u0630\u0627\u062a \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Das Luftfahrzeugkennzeichen (umgangssprachlich oft f\u00e4lschlich als Flugzeugkennung bezeichnet) ist ein individueller alphanumerischer Code, der ein Luftfahrzeug eindeutig identifiziert. Bei zivilen Luftfahrzeugen setzt er sich zusammen aus dem Staatszugeh\u00f6rigkeitszeichen und dem nationalen Eintragungszeichen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Cet article traite de l'immatriculation des a\u00e9ronefs selon les r\u00e8gles de l'Organisation de l'aviation civile internationale (OACI).Les r\u00e8gles internationales, sign\u00e9es lors de la Convention de Chicago en 1944, imposent que tout a\u00e9ronef soit immatricul\u00e9. \u00c0 un instant donn\u00e9, une m\u00eame immatriculation ne peut \u00eatre port\u00e9e que par un seul a\u00e9ronef. Dans certains pays, il est possible qu'une immatriculation soit r\u00e9-utilis\u00e9e par un autre a\u00e9ronef, une fois que son porteur initial a \u00e9t\u00e9 retir\u00e9 du service. Il est \u00e9galement possible qu'un a\u00e9ronef change d'immatriculation au cours du temps.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Mi\u0119dzynarodowy kod samolotowy \u2013 alfanumeryczne oznaczenie przynale\u017cno\u015bci pa\u0144stwowej statk\u00f3w powietrznych. Kod ten cz\u0119sto potocznie nazywany jest \u201erejestracj\u0105\u201d lub \u201enumerem rejestracyjnym\u201d samolot\u00f3w (statk\u00f3w powietrznych).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u822a\u7a7a\u5668\u8a3b\u518a\u7de8\u865f\uff08Aircraft registration\uff09\uff0c\u6216\u7a31\u300c\u6a5f\u8eab\u7de8\u865f\u300d\u3001\u300c\u6a5f\u5c3e\u7de8\u865f\u300d\uff08tail number\uff09\uff0c\u6307\u7684\u662f\u6c11\u7528\u8f09\u4eba\u822a\u7a7a\u5668\u5728\u4f7f\u7528\u524d\u5411\u4e00\u570b\u7684\u6c11\u822a\u7ba1\u7406\u6a5f\u69cb\u8a3b\u518a\u6240\u7372\u767c\u7684\u7de8\u865f\uff0c\u5c31\u5982\u540c\u6c7d\u8eca\u6709\u8eca\u724c\u865f\u78bc\u4e00\u6a23\u30021944\u5e74\u7684\u300a\u829d\u52a0\u54e5\u6c11\u822a\u689d\u7d04\u300b\uff08Chicago Convention\uff09\u898f\u5b9a\u4e86\u5404\u570b\u7684\u822a\u7a7a\u5668\u8981\u6709\u8a3b\u518a\u7de8\u865f\u624d\u53ef\u4f7f\u7528\u3002\u800c\u7531\u65bc\u822a\u7a7a\u5668\u5e38\u6703\u8de8\u570b\u98db\u884c\uff0c\u70ba\u4e86\u4fbf\u65bc\u5206\u8fa8\uff0c\u6bcf\u500b\u570b\u5bb6\u90fd\u6709\u5176\u9996\u78bc\uff08prefix\uff09\u3002 \u8a3b\u518a\u7de8\u865f\u901a\u5e38\u6703\u6f06\u5728\u6a5f\u8eab\u5074\u908a\u7684\u524d\u5f8c\uff0c\u800c\u6709\u4e9b\u570b\u5bb6\u9084\u6703\u898f\u5b9a\u56fa\u5b9a\u7ffc\u98db\u6a5f\u8981\u5c07\u8a3b\u518a\u7de8\u865f\u6f06\u5728\u4e3b\u7ffc\u7684\u4e0a\u65b9\u6216\u4e0b\u65b9\uff0c\u53e6\u5916\u5728\u9f3b\u8f2a\u84cb\u53ca\u5782\u76f4\u5c3e\u7ffc\u4e5f\u6703\u6f06\u4e0a\u8a3b\u518a\u7de8\u865f\u7684\u4e00\u90e8\u4efd\u3002\u5927\u90e8\u4efd\u570b\u5bb6\u7684\u9996\u78bc\u8207\u7de8\u865f\u6703\u4ee5\u9023\u5b57\u865f\u9694\u958b\uff0c\u4f46\u7f8e\u570b\u3001\u65e5\u672c\u3001\u97d3\u570b\u7b49\u570b\u5247\u6703\u76f8\u9023\u5728\u4e00\u8d77\u4e0d\u4ee5\u9023\u5b57\u865f\u9694\u958b\u3002 \u4e00\u822c\u800c\u8a00\u79c1\u4eba\u822a\u7a7a\u5668\u5e38\u4ee5\u8a3b\u518a\u7de8\u865f\u505a\u70ba\u7121\u7dda\u96fb\u547c\u865f\u4f7f\u7528\uff0c\u4f8b\u5982B-12345\u6703\u5538\u505a\u300cBravo One Two Three Four Five\u300d\uff1b\u5546\u7528\u822a\u7a7a\u5668\u5247\u4f7f\u7528\u822a\u7a7a\u516c\u53f8\u547c\u865f\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Em avia\u00e7\u00e3o civil, o prefixo ou marca de nacionalidade \u00e9 um c\u00f3digo alfab\u00e9tico ou alfanum\u00e9rico que identifica, nacional e internacionalmente, a nacionalidade de uma aeronave. A marca de nacionalidade \u00e9 considerada um prefixo porque ela precede a marca de matr\u00edcula, que por sua vez \u00e9 considerada um sufixo. A combina\u00e7\u00e3o do prefixo com o sufixo forma o que a ICAO denomina aircraft marks, ou seja, as marcas da aeronave.",
+                "lang": "pt"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Vliegtuigregistratienummer"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Prefixo_aeron\u00e1utico"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.076y3y"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Immatriculation_des_a\u00e9ronefs"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Luftfahrzeugkennzeichen"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Codice_di_registrazione_degli_aeromobili"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Aircraft_registration"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ud56d\uacf5\uae30_\ub4f1\ub85d\uae30\ud638"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Mi\u0119dzynarodowy_kod_samolotowy"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q838849"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Imatrikulace_(letectv\u00ed)"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Matr\u00edcula_(aeronaves)"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u6a5f\u4f53\u8a18\u53f7"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q838849"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Registrasi_pesawat"
+            },
+            {
+                "type": "uri",
+                "value": "http://yago-knowledge.org/resource/Aircraft_registration"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Public_records"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Aircraft_markings"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Aviation_licenses_and_certifications"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Country_codes"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Vans.rv-7.g-kels.arp.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Aircraft_registration"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Aircraft_registration?oldid=744807621"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://dgca.nic.in/aircraft/reg-ind.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.icao.int/publications/Documents/7300_orig.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.caa.co.uk/application.aspx?categoryid=60&pagetype=65&applicationid=1"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.anac.gov.br/aeronaves/cons_rab.asp"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.transportstyrelsen.se/en/Aviation/Aircraft/Swedish-Civil-Aircraft-Register/Aircraft-search/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.lebcaa.com/a_r.shtml"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.caa.govt.nz/Script/Air_Reg_Query.asp"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.icao.int/icao/en/trivia/aircraft_registration_marks.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://wwwapps2.tc.gc.ca/saf-sec-sur/2/CCARCS/aspscripts/en/menu.asp"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.dac.public.lu/services/espace_aeronefs/registre/index.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://dgacguate.com/dgac2009/index.php?option=com_wrapper&Itemid=69"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.caa.lv/lv/informacija-un-uzzinas/gaisa-kugu-registrs"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.trafi.fi/en/aviation/aircraft_register"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.immat.aviation-civile.gouv.fr"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.caas.gov.sg/caas/en/Aviation_Development/List_of_Aircraft_on_Singapore_Register/?__locale=en"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.casa.gov.au/scripts/nc.dll?WCMS:STANDARD::pc=PC_93247"
+            },
+            {
+                "type": "uri",
+                "value": "http://aircraft.mobilit.fgov.be:8080/Aircraft/wbrainc1"
+            },
+            {
+                "type": "uri",
+                "value": "http://aircraftregistrationmalta.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.airsafetyfirst.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.iaa.ie/index.jsp?p=93&n=99"
+            },
+            {
+                "type": "uri",
+                "value": "http://dcaa.slv.dk/natregister/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bazl.admin.ch/fachleute/luftfahrzeugregister/index.html?lang=en"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.gov.im/ded/Aircraft/aboutus/registeredaircraft.xml"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.airframes.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.hdekker.info"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ccaa.hr/UserDocsImages/dokumenti/98/Hrvatski%20registar%20civilnih%20zrakoplova%20za%2001%2007%202012%20.pdf/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.dfld.de/Downloads/Annex_07.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.newfoundland.nl/luchtvaartregister/user/en/zoeken.htm"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.internationalregistry.aero/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.aircraftregister.net"
+            },
+            {
+                "type": "uri",
+                "value": "http://registry.faa.gov/aircraftinquiry/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.austrocontrol.at/en/content/atm/AIS/Products/OeNfL/LFZREG/lfzreg.shtml"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u6a5f\u4f53\u8a18\u53f7\uff08\u304d\u305f\u3044\u304d\u3054\u3046\u3001\u82f1\u8a9e\uff1aaircraft registration\uff09\u3068\u306f\u3001\u822a\u7a7a\u6a5f\u306b\u4ed8\u3051\u3089\u308c\u308b\u500b\u5225\u306e\u8a18\u53f7\u3002\u56fd\u7c4d\u8a18\u53f7\u3068\u767b\u9332\u8a18\u53f7\u306b\u3088\u308a\u69cb\u6210\u3055\u308c\u308b\u3002 \u4fd7\u306b\u82f1\u8a9e\u306e\u30ec\u30b8\u30b9\u30c8\u30ec\u30fc\u30b7\u30e7\u30f3\uff08registration\uff09\u3092\u7565\u3057\u3066\u5358\u306b\u30ec\u30b8\u3042\u308b\u3044\u306f\u30ec\u30b8\u30b9\u30bf\u3068\u547c\u3076\u5834\u5408\u3082\u3042\u308b\u3002\u56fd\u571f\u4ea4\u901a\u7701\u822a\u7a7a\u5c40\u3067\u306f\u8b58\u5225\u8a18\u53f7\u3068\u8868\u8a18\u3057\u3066\u3044\u308b\u3002 \u822a\u7a7a\u6a5f\u8a8d\u8b58\u306e\u8868\u793a\u65b9\u6cd5\u304c\u6570\u5b57\u306e\u307f\u306e\u5834\u5408\u3082\u3042\u308b\u304c\u3001\u3053\u3061\u3089\u306f\u30a2\u30e1\u30ea\u30ab\u7a7a\u8ecd\uff08\u30c6\u30fc\u30eb\u30b3\u30fc\u30c9\uff09\u3001\u30ed\u30a4\u30e4\u30eb\u30a8\u30a2\u30d5\u30a9\u30fc\u30b9\uff08\u30a4\u30ae\u30ea\u30b9\uff09\u3084\u822a\u7a7a\u81ea\u885b\u968a\uff08\u65e5\u672c\uff09\u306a\u3069\u306e\u8ecd\u7528\u6a5f\u306b\u5bfe\u3057\u7528\u3044\u3089\u308c\u308b\u3002\u305d\u306e\u305f\u3081\u6c11\u9593\u6a5f\u306b\u300c\u6a5f\u4f53\u6570\u5b57\u300d\u3068\u3044\u3063\u305f\u547c\u3073\u65b9\u306f\u3057\u306a\u3044\u3002 \u306a\u304a\u8239\u8236\u306b\u3082\u500b\u5225\u8a8d\u8b58\u756a\u53f7\u304c\u3042\u308b\u304c\u3001\u672c\u7a3f\u3067\u306f\u6c11\u9593\u822a\u7a7a\u6a5f\u306b\u5bfe\u3057\u3066\u3064\u3051\u3089\u308c\u308b\u6a5f\u4f53\u8a18\u53f7\u306b\u3064\u3044\u3066\u8ad6\u8ff0\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Cet article traite de l'immatriculation des a\u00e9ronefs selon les r\u00e8gles de l'Organisation de l'aviation civile internationale (OACI).Les r\u00e8gles internationales, sign\u00e9es lors de la Convention de Chicago en 1944, imposent que tout a\u00e9ronef soit immatricul\u00e9. L'OACI d\u00e9l\u00e8gue aux organismes nationaux la tenue des registres d'immatriculation de chaque pays, et fixe des normes tant pour le format de cette immatriculation que pour son marquage ext\u00e9rieur sur l'a\u00e9ronef (taille et emplacement). En plus du marquage ext\u00e9rieur, la plupart des pays exigent que l'immatriculation soit grav\u00e9e sur une plaque \u00e0 l'\u00e9preuve du feu fix\u00e9e sur ou dans l'a\u00e9ronef. \u00c0 un instant donn\u00e9, une m\u00eame immatriculation ne peut \u00eatre port\u00e9e que par un seul a\u00e9ronef. Dans certains pays, il est possible qu'une immatriculation soit r\u00e9-utilis\u00e9e par un autre a\u00e9ronef, une fois que son porteur initial a \u00e9t\u00e9 retir\u00e9 du service. Il est \u00e9galement possible qu'un a\u00e9ronef change d'immatriculation au cours du temps. L'OACI utilise l'alphabet phon\u00e9tique de l'OTAN afin d\u2019\u00e9peler les identifiants des a\u00e9ronefs. Des r\u00e8gles sp\u00e9cifiques \u00e0 chaque pays sont appliqu\u00e9es aux avions militaires.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Das Luftfahrzeugkennzeichen (umgangssprachlich oft f\u00e4lschlich als Flugzeugkennung bezeichnet) ist ein individueller alphanumerischer Code, der ein Luftfahrzeug eindeutig identifiziert. Bei zivilen Luftfahrzeugen setzt er sich zusammen aus dem Staatszugeh\u00f6rigkeitszeichen und dem nationalen Eintragungszeichen. Beim Verkauf eines Luftfahrzeugs im Inland bleibt das Kennzeichen in der Regel erhalten. Wird ein Luftfahrzeug aus dem Verkehr gezogen oder in einem anderen Staat unter einem neuen Kennzeichen weiter geflogen, kann das freigewordene Kennzeichen in vielen Staaten erneut (an ein anderes Luftfahrzeug) vergeben werden.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Il codice di registrazione degli aeromobili (o anche marche di nazionalit\u00e0 e immatricolazione) \u00e8 una stringa alfanumerica che identifica un aeromobile. Svolge la stessa funzione della targa per un'automobile. Secondo la convenzione di Chicago del 1944 tutti gli aeromobili devono essere registrati presso un'autorit\u00e0 nazionale (come la FAA o l'ENAC) e dimostrare tale registrazione con un documento ufficiale chiamato \"certificato di registrazione\" ogni volta che sono in esercizio. Molte nazioni richiedono anche che il codice di registrazione sia impresso su una targa ignifuga montata sulla fusoliera del velivolo per poterlo identificare anche in seguito ad un incidente. Dato che gli aerei di solito mostrano i loro codici di registrazione sulla fusoliera di poppa proprio davanti alla coda, o pi\u00f9 recentemente sulla coda stessa, il codice \u00e8 spesso chiamato \"numero di coda\". Negli Stati Uniti il codice \u00e8 anche chiamato \"N-number\" (numero N), poich\u00e9 inizia sempre con la lettera N. Sebbene ogni codice di registrazione sia unico, alcune nazioni, ma non tutte, permettono il suo riutilizzo una volta che l'aeromobile sia venduto, distrutto o ritirato. Ad esempio il codice N-3794N \u00e8 assegnato ad un Mooney M20, mentre in precedenza \u00e8 stato assegnato ad un Beechcraft Bonanza (pi\u00f9 specificatamente l'aereo che precipit\u00f2 in quello che successivamente venne detto il giorno in cui la musica mor\u00ec). Inoltre allo stesso velivolo possono essere assegnati diversi codici durante la sua esistenza. Questo pu\u00f2 accadere perch\u00e9 l'aeromobile cambia proprietario, Paese di registrazione o, in alcune nazioni, per motivi di vanit\u00e0.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u822a\u7a7a\u5668\u8a3b\u518a\u7de8\u865f\uff08Aircraft registration\uff09\uff0c\u6216\u7a31\u300c\u6a5f\u8eab\u7de8\u865f\u300d\u3001\u300c\u6a5f\u5c3e\u7de8\u865f\u300d\uff08tail number\uff09\uff0c\u6307\u7684\u662f\u6c11\u7528\u8f09\u4eba\u822a\u7a7a\u5668\u5728\u4f7f\u7528\u524d\u5411\u4e00\u570b\u7684\u6c11\u822a\u7ba1\u7406\u6a5f\u69cb\u8a3b\u518a\u6240\u7372\u767c\u7684\u7de8\u865f\uff0c\u5c31\u5982\u540c\u6c7d\u8eca\u6709\u8eca\u724c\u865f\u78bc\u4e00\u6a23\u30021944\u5e74\u7684\u300a\u829d\u52a0\u54e5\u6c11\u822a\u689d\u7d04\u300b\uff08Chicago Convention\uff09\u898f\u5b9a\u4e86\u5404\u570b\u7684\u822a\u7a7a\u5668\u8981\u6709\u8a3b\u518a\u7de8\u865f\u624d\u53ef\u4f7f\u7528\u3002\u800c\u7531\u65bc\u822a\u7a7a\u5668\u5e38\u6703\u8de8\u570b\u98db\u884c\uff0c\u70ba\u4e86\u4fbf\u65bc\u5206\u8fa8\uff0c\u6bcf\u500b\u570b\u5bb6\u90fd\u6709\u5176\u9996\u78bc\uff08prefix\uff09\u3002 \u8a3b\u518a\u7de8\u865f\u901a\u5e38\u6703\u6f06\u5728\u6a5f\u8eab\u5074\u908a\u7684\u524d\u5f8c\uff0c\u800c\u6709\u4e9b\u570b\u5bb6\u9084\u6703\u898f\u5b9a\u56fa\u5b9a\u7ffc\u98db\u6a5f\u8981\u5c07\u8a3b\u518a\u7de8\u865f\u6f06\u5728\u4e3b\u7ffc\u7684\u4e0a\u65b9\u6216\u4e0b\u65b9\uff0c\u53e6\u5916\u5728\u9f3b\u8f2a\u84cb\u53ca\u5782\u76f4\u5c3e\u7ffc\u4e5f\u6703\u6f06\u4e0a\u8a3b\u518a\u7de8\u865f\u7684\u4e00\u90e8\u4efd\u3002\u5927\u90e8\u4efd\u570b\u5bb6\u7684\u9996\u78bc\u8207\u7de8\u865f\u6703\u4ee5\u9023\u5b57\u865f\u9694\u958b\uff0c\u4f46\u7f8e\u570b\u3001\u65e5\u672c\u3001\u97d3\u570b\u7b49\u570b\u5247\u6703\u76f8\u9023\u5728\u4e00\u8d77\u4e0d\u4ee5\u9023\u5b57\u865f\u9694\u958b\u3002 \u4e00\u822c\u800c\u8a00\u79c1\u4eba\u822a\u7a7a\u5668\u5e38\u4ee5\u8a3b\u518a\u7de8\u865f\u505a\u70ba\u7121\u7dda\u96fb\u547c\u865f\u4f7f\u7528\uff0c\u4f8b\u5982B-12345\u6703\u5538\u505a\u300cBravo One Two Three Four Five\u300d\uff1b\u5546\u7528\u822a\u7a7a\u5668\u5247\u4f7f\u7528\u822a\u7a7a\u516c\u53f8\u547c\u865f\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0647\u0648 \u0625\u0639\u0637\u0627\u0621 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0645\u062c\u0645\u0648\u0639\u0629\u064b \u0645\u0646 \u0627\u0644\u0623\u0631\u0642\u0627\u0645 \u0648\u0627\u0644\u0623\u062d\u0631\u0641 \u0627\u0644\u062a\u064a \u062a\u064f\u0639\u064e\u0631\u0650\u0651\u0641 \u0628\u0647\u0627\u060c \u0648\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0645\u0634\u0627\u0628\u0647 \u0644\u0631\u062e\u0635\u0629 \u0627\u0644\u0633\u064a\u0627\u0631\u0629. \u0648\u0627\u0633\u062a\u0646\u0627\u062f\u064b\u0627 \u0625\u0644\u0649 \u0645\u0639\u0627\u0647\u062f\u0629 \u0627\u0644\u0637\u064a\u0631\u0627\u0646 \u0627\u0644\u0645\u062f\u0646\u064a \u0627\u0644\u062f\u0648\u0644\u064a \u0641\u0625\u0646 \u062c\u0645\u064a\u0639 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u064a\u062c\u0628 \u0623\u0646 \u062a\u0633\u062c\u0644 \u0641\u064a \u0647\u064a\u0626\u0629 \u0623\u0648 \u0648\u0643\u0627\u0644\u0629 \u0648\u0637\u0646\u064a\u0629. \u0648\u0647\u0630\u0647 \u0627\u0644\u062d\u0631\u0648\u0641 \u062a\u0639\u0631\u0641 \u062c\u0646\u0633\u064a\u0629 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0648\u062a\u0628\u0639\u064a\u062a\u0647\u0627 \u0648\u062a\u0633\u062c\u064a\u0644\u0647\u0627 \u0644\u0644\u0628\u0644\u062f \u0627\u0644\u062a\u0627\u0628\u0639\u0629 \u0644\u0647\u060c \u0648\u0627\u0644\u062a\u064a \u0628\u0645\u062c\u0631\u062f \u0631\u0624\u064a\u062a\u0647\u0627 \u0641\u0625\u0646 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u062a\u0639\u0631\u0641 \u0639\u0646 \u062c\u0646\u0633\u064a\u062a\u0647\u0627 \u0648\u062a\u0628\u0639\u064a\u062a\u0647\u0627\u060c \u0648\u0644\u0627 \u064a\u0639\u0646\u064a \u0628\u0627\u0644\u0636\u0631\u0648\u0631\u0629 \u0623\u0646 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0645\u0644\u0643\u0627\u064b \u0644\u0644\u0628\u0644\u062f \u0645\u0627\u0646\u062d \u0627\u0644\u062a\u0633\u062c\u064a\u0644\u060c \u0641\u0642\u062f \u062a\u0643\u0648\u0646 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0645\u0644\u0643\u0627\u064b \u0644\u0628\u0644\u062f\u064d \u0645\u0627\u060c \u0644\u0643\u0646 \u0627\u0644\u0638\u0631\u0648\u0641 \u0642\u062f \u062a\u0636\u0637\u0631 \u0627\u0644\u0645\u0627\u0644\u0643 \u0625\u0644\u0649 \u062a\u0633\u062c\u064a\u0644\u0647\u0627 \u0641\u064a \u062f\u0648\u0644\u0629 \u0623\u062e\u0631\u0649. \u0643\u0645\u0627 \u064a\u062d\u062f\u062b \u0641\u064a \u062d\u0627\u0644 \u062a\u0623\u062c\u064a\u0631 \u0637\u0627\u0626\u0631\u0629 \u0644\u0644\u0639\u0645\u0644\u060c \u0641\u0627\u0644\u0645\u0634\u063a\u0644 \u0628\u0645\u0642\u062a\u0636\u0649 \u0627\u0644\u0639\u0642\u062f \u064a\u0645\u0644\u0643 \u062d\u0642 \u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0637\u0627\u0626\u0631\u0629\u060c \u0628\u064a\u0646\u0645\u0627 \u062d\u0631\u0648\u0641 \u062a\u0633\u062c\u064a\u0644\u0647\u0627 \u0644\u0627 \u062a\u0639\u0637\u064a \u0630\u0627\u062a \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0629. \u0643\u0645\u0627 \u0623\u0646\u0647\u0627 \u062a\u0645\u0643\u0646 \u0627\u0644\u0639\u0627\u0645\u0644\u064a\u0646 \u0648\u0645\u0634\u063a\u0644\u064a \u0623\u0628\u0631\u0627\u062c \u0627\u0644\u0645\u0631\u0627\u0642\u0628\u0629 \u0645\u0646 \u0623\u062f\u0627\u0621 \u0645\u0647\u0645\u0627\u062a\u0647\u0645 \u0641\u064a \u0627\u0644\u0638\u0631\u0648\u0641 \u0627\u0644\u0645\u062b\u0644\u0649\u060c \u0648\u0627\u0644\u062a\u064a \u062a\u0643\u0641\u0644 \u0646\u062c\u0627\u062d \u0639\u0645\u0644\u064a\u0629 \u0627\u0644\u062a\u0648\u0627\u0635\u0644\u060c \u0648\u0642\u062f \u0646\u0631\u0649 \u0647\u0630\u0647 \u0627\u0644\u062d\u0631\u0648\u0641 \u0639\u0644\u0649 \u0623\u0628\u0648\u0627\u0628 \u0639\u062c\u0644\u0627\u062a \u0627\u0644\u0645\u0642\u062f\u0645\u0629 () \u0644\u062a\u0645\u0643\u0646 \u0645\u0647\u0646\u062f\u0633 \u0645\u0631\u0627\u0642\u0628\u0629 \u0628\u062f\u0623 \u0627\u0644\u062a\u0634\u063a\u064a\u0644 \u0645\u0646 \u0627\u0644\u062a\u0648\u0627\u0635\u0644 \u0645\u0639 \u0642\u0627\u0626\u062f \u0627\u0644\u0637\u0627\u0626\u0631\u0629\u060c \u0644\u0623\u0646\u0647 \u0641\u064a \u0627\u0644\u0639\u0645\u0648\u0645 \u0644\u0627 \u064a\u062a\u0645 \u0627\u0644\u062a\u0639\u0631\u064a\u0641 \u0628\u0627\u0633\u0645 \u0627\u0644\u0637\u064a\u0627\u0631 \u0623\u0648 \u0627\u0644\u0645\u0634\u063a\u0644\u060c \u0625\u0646\u0645\u0627 \u0628\u0627\u0633\u0645 \u0627\u0644\u0637\u0627\u0626\u0631\u0629 \u0623\u0648 \u062d\u0631\u0648\u0641 \u062a\u0633\u062c\u064a\u0644\u0647\u0627.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Een vliegtuigregistratienummer, of vliegtuigregistratie, is een unieke reeks van letters en cijfers die als identificatiecode voor vliegtuigen gebruikt wordt.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Em avia\u00e7\u00e3o civil, o prefixo ou marca de nacionalidade \u00e9 um c\u00f3digo alfab\u00e9tico ou alfanum\u00e9rico que identifica, nacional e internacionalmente, a nacionalidade de uma aeronave. A marca de nacionalidade \u00e9 considerada um prefixo porque ela precede a marca de matr\u00edcula, que por sua vez \u00e9 considerada um sufixo. A combina\u00e7\u00e3o do prefixo com o sufixo forma o que a ICAO denomina aircraft marks, ou seja, as marcas da aeronave.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "La matr\u00edcula de una aeronave es una serie alfanum\u00e9rica de caracteres similar a una matr\u00edcula de un autom\u00f3vil. En conformidad con el Convenio sobre Aviaci\u00f3n Civil Internacional (OACI), todos los aviones deben estar registrados por la autoridad aeron\u00e1utica nacional correspondiente y se debe llevar este registro en forma de un documento legal llamado un Certificado de Registro en todo momento durante la operaci\u00f3n de la aeronave. La mayor\u00eda de los pa\u00edses requieren tambi\u00e9n que la matr\u00edcula se coloque en una placa a prueba de fuego sobre el fuselaje a efectos de una investigaci\u00f3n posterior a un accidente donde el avi\u00f3n haya ardido. Aunque cada matr\u00edcula de las aeronaves es \u00fanica, algunos pa\u00edses, pero no todos, permiten que esa matr\u00edcula pueda volver a utilizarse cuando la aeronave se ha vendido, destruido o retirado. Todos los pa\u00edses tienen matriculadas sus aeronaves, militares y civiles (algunos por separado). La primera parte de la matr\u00edcula (prefijo) indica pa\u00eds de pertenencia y servicio (cada pa\u00eds tiene asignada su sigla prefijo por convenio internacional), y la \u00faltima (sufijo), es la identidad de ese avi\u00f3n. Por ejemplo, en Argentina, LV indica particular y comercial; A: ataque (cazas), B: bombarderos, C: carga. T: transporte. TC: transporte y carga, X: experimental, AX: ataque experimental, PA: Prefectura Nacional. AE: Aviaci\u00f3n de Ej\u00e9rcito. GN: Gendarmer\u00eda Nacional, etc.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "In accordance with the Convention on International Civil Aviation (also known as the Chicago Convention), all civil aircraft must be registered with a national aviation authority (NAA) using procedures set by each country. Every country, even those not party to the Chicago Convention, has a NAA whose functions include the registration of civil aircraft. An aircraft can only be registered once, in the one jurisdiction. The NAA allocates a unique alphanumeric string to identify the aircraft, which also indicates the nationality (i.e., country of registration) of the aircraft, and provides a legal document called a Certificate of Registration, one of the documents which must be carried when the aircraft is in operation. The registration identifier must be displayed prominently on the aircraft. Most countries also require the registration identifier to be imprinted on a permanent fireproof plate mounted on the fuselage in case of a post-fire/post-crash aircraft accident investigation. Military aircraft typically use tail codes and serial numbers. Although each aircraft registration identifier is unique, some countries allow it to be re-used when the aircraft has been sold, destroyed or retired. For example, N3794N is assigned to a Mooney M20F. It had been previously assigned to a Beechcraft Bonanza (specifically, the aircraft in which Buddy Holly was killed). Also note that an individual aircraft may be assigned different registrations during its existence. This can be because the aircraft changes ownership, jurisdiction of registration, or in some cases for vanity reasons.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Mi\u0119dzynarodowy kod samolotowy \u2013 alfanumeryczne oznaczenie przynale\u017cno\u015bci pa\u0144stwowej statk\u00f3w powietrznych. Kod ten cz\u0119sto potocznie nazywany jest \u201erejestracj\u0105\u201d lub \u201enumerem rejestracyjnym\u201d samolot\u00f3w (statk\u00f3w powietrznych).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u043e\u0433\u043e \u0441\u0443\u0434\u043d\u0430 \u2014 \u044d\u0442\u043e \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440, \u043f\u0440\u0438\u0441\u0432\u0430\u0438\u0432\u0430\u0435\u043c\u044b\u0439 \u0441\u0430\u043c\u043e\u043b\u0451\u0442\u0443 \u043f\u043e \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u0438 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u044b \u0435\u0433\u043e \u0432\u043d\u0435\u0441\u0435\u043d\u0438\u044f \u0432 \u0430\u0432\u0438\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0440\u0435\u0435\u0441\u0442\u0440 \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u043e\u0433\u043e \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430. \u0412 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f\u043c\u0438 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u043a\u043e\u043d\u0432\u0435\u043d\u0446\u0438\u0438 \u043e \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0439 \u0430\u0432\u0438\u0430\u0446\u0438\u0438 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u0430 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0445 \u0441\u0443\u0434\u043e\u0432. \u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u043e\u0433\u043e \u0441\u0443\u0434\u043d\u0430 \u043e\u0431\u044b\u0447\u043d\u043e \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0438\u0437 5 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u2014 \u043b\u0430\u0442\u0438\u043d\u0441\u043a\u0438\u0445 \u0431\u0443\u043a\u0432 \u0438 \u0446\u0438\u0444\u0440, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043d\u0430\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u043d\u0430 \u0445\u0432\u043e\u0441\u0442\u043e\u0432\u043e\u0435 \u043e\u043f\u0435\u0440\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0443\u0447\u0430\u0441\u0442\u043a\u0438 \u0441\u0430\u043c\u043e\u043b\u0451\u0442\u0430. \u041f\u043e \u0441\u0438\u043c\u0432\u043e\u043b\u0430\u043c \u043d\u043e\u043c\u0435\u0440\u0430 \u043c\u043e\u0436\u043d\u043e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0438\u0442\u044c \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u043d\u043e\u0441\u0442\u044c (\u0410\u0432\u0438\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043f\u0440\u0435\u0444\u0438\u043a\u0441) \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u043e\u0433\u043e \u0441\u0443\u0434\u043d\u0430, \u0430 \u0438\u043d\u043e\u0433\u0434\u0430 \u0438 \u0435\u0433\u043e \u0442\u0438\u043f.",
+                "lang": "ru"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Vans.rv-7.g-kels.arp.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 744807621,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 2367169,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/String"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aircraft_Registration": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Aircraft_registration"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aircraft_registration_code": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Aircraft_registration"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Aircraft_registration": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Aircraft_registration"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Certificate_of_Registration": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Aircraft_registration"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/N-number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Aircraft_registration"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Certificate_of_registration": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Aircraft_registration"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aircraft_registration_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Aircraft_registration"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Registration_aircraft": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Aircraft_registration"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/I_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Aircraft_registration"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aircraft_number": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Aircraft_registration"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aircraft_registration_marks": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Aircraft_registration"
+            }
+        ]
+    }
+}

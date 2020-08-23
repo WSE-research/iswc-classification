@@ -1,0 +1,37 @@
+{
+    "@text": "What is Atheneum museum ID for Vatican Museums ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Atheneum_Books",
+            "@support": "250",
+            "@types": "",
+            "@surfaceForm": "Atheneum",
+            "@offset": "8",
+            "@similarityScore": "0.9459785834443067",
+            "@percentageOfSecondRank": "0.0554145930569255"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Museum",
+            "@support": "19971",
+            "@types": "",
+            "@surfaceForm": "museum",
+            "@offset": "17",
+            "@similarityScore": "0.9923984255524037",
+            "@percentageOfSecondRank": "0.007603174255562862"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Vatican_Museums",
+            "@support": "701",
+            "@types": "Wikidata:Q41176,Wikidata:Q33506,Schema:Place,DBpedia:Place,DBpedia:Museum,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Vatican Museums",
+            "@offset": "31",
+            "@similarityScore": "0.9999999999936051",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

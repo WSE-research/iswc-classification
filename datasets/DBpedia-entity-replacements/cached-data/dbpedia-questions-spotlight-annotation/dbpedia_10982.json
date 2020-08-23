@@ -1,0 +1,37 @@
+{
+    "@text": "What was the ordinal series for William Lyon Mackenzie King during his position held as Prime Minister of Canada?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/William_Lyon_Mackenzie_King",
+            "@support": "1270",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "William Lyon Mackenzie King",
+            "@offset": "32",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Prime_Minister_of_Canada",
+            "@support": "5078",
+            "@types": "",
+            "@surfaceForm": "Prime Minister",
+            "@offset": "88",
+            "@similarityScore": "0.9803231851463773",
+            "@percentageOfSecondRank": "0.008169570184351504"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Canada",
+            "@support": "220739",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Canada",
+            "@offset": "106",
+            "@similarityScore": "0.9997209802267343",
+            "@percentageOfSecondRank": "2.274029753397517E-4"
+        }
+    ]
+}

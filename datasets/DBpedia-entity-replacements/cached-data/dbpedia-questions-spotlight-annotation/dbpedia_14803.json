@@ -1,0 +1,28 @@
+{
+    "@text": "Is Brooklyn that has cities the birth location of Richard E. Bellman?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Brooklyn",
+            "@support": "36226",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Brooklyn",
+            "@offset": "3",
+            "@similarityScore": "0.9994198564779875",
+            "@percentageOfSecondRank": "3.71845499225221E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Richard_E._Bellman",
+            "@support": "104",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q901,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Scientist,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Bellman",
+            "@offset": "61",
+            "@similarityScore": "0.7711222424298403",
+            "@percentageOfSecondRank": "0.2941449462268031"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "When is {publication date} of {Taxi Driver} where is {place of publication} is {Germany} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxi_Driver",
+            "@support": "594",
+            "@types": "Wikidata:Q386724,Schema:Movie,Schema:CreativeWork,DBpedia:Work,DBpedia:Wikidata:Q11424,DBpedia:Film",
+            "@surfaceForm": "Taxi Driver",
+            "@offset": "31",
+            "@similarityScore": "0.9999989356521704",
+            "@percentageOfSecondRank": "9.92129771602545E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Germany",
+            "@support": "216576",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Germany",
+            "@offset": "80",
+            "@similarityScore": "0.9954448056794255",
+            "@percentageOfSecondRank": "0.002605997171197862"
+        }
+    ]
+}

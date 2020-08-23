@@ -1,0 +1,28 @@
+{
+    "@text": "does the hydrazine upper flammable limit equal 98?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Hydrazine",
+            "@support": "807",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "hydrazine",
+            "@offset": "9",
+            "@similarityScore": "0.9999999921546134",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Flammability_limit",
+            "@support": "95",
+            "@types": "",
+            "@surfaceForm": "upper flammable limit",
+            "@offset": "19",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

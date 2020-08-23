@@ -1,0 +1,37 @@
+{
+    "@text": "Name an American football player whose debuted in Chicago Bears and former team is 1998 Baltimore Ravens season?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/American_football",
+            "@support": "70753",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "football",
+            "@offset": "17",
+            "@similarityScore": "0.7777662961752465",
+            "@percentageOfSecondRank": "0.2245086248823717"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Chicago_Bears",
+            "@support": "8417",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:AmericanFootballTeam,DBpedia:Agent",
+            "@surfaceForm": "Chicago Bears",
+            "@offset": "50",
+            "@similarityScore": "0.9998776990995213",
+            "@percentageOfSecondRank": "4.334928676885382E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Baltimore_Ravens",
+            "@support": "4735",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:AmericanFootballTeam,DBpedia:Agent",
+            "@surfaceForm": "Baltimore Ravens",
+            "@offset": "88",
+            "@similarityScore": "0.9997169031178451",
+            "@percentageOfSecondRank": "1.0299602501116298E-4"
+        }
+    ]
+}

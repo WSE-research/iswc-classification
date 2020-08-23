@@ -1,0 +1,418 @@
+{
+    "http://dbpedia.org/resource/Personal_weather_station": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Weather_station"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Meteorological_station": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Weather_station"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Station": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Weather_station"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Weather_Station": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Weather_station"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Weather_station": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Weather_station"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Weather_station": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/ArchitecturalStructure"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Wetterstation",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u041c\u0435\u0442\u0435\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u044f",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Stacja meteorologiczna",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c17\u8c61\u53f0",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c14\u8c61\u7ad9",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Esta\u00e7\u00e3o meteorol\u00f3gica",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u0631\u0635\u062f \u062c\u0648\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Station m\u00e9t\u00e9orologique",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Weather station",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Weerstation",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Stazione meteorologica",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Estaci\u00f3n meteorol\u00f3gica",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u041c\u0435\u0442\u0435\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u044f \u2014 \u0441\u043e\u0432\u043e\u043a\u0443\u043f\u043d\u043e\u0441\u0442\u044c \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043f\u0440\u0438\u0431\u043e\u0440\u043e\u0432 \u0434\u043b\u044f \u043c\u0435\u0442\u0435\u043e\u0440\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u0439 (\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f \u0437\u0430 \u043f\u043e\u0433\u043e\u0434\u043e\u0439). \u0420\u0430\u0437\u043b\u0438\u0447\u0430\u044e\u0442 \u0430\u043d\u0430\u043b\u043e\u0433\u043e\u0432\u044b\u0435 \u0438 \u0446\u0438\u0444\u0440\u043e\u0432\u044b\u0435 \u043c\u0435\u0442\u0435\u043e\u0440\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0442\u0430\u043d\u0446\u0438\u0438. \u041d\u0430 \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u043e\u0439 (\u0430\u043d\u0430\u043b\u043e\u0433\u043e\u0432\u043e\u0439) \u043c\u0435\u0442\u0435\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u0438\u043c\u0435\u0435\u0442\u0441\u044f: \u041f\u0440\u0438 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u043e\u0431\u044a\u0435\u043c\u0430\u0445 \u0440\u0430\u0431\u043e\u0442\u044b \u043c\u0435\u0442\u0435\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u0439 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \n*  \u0438\u0441\u043f\u0430\u0440\u043e\u043c\u0435\u0440 \u0413\u0413\u0418-3000 \u0434\u043b\u044f \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u044b \u0438\u0441\u043f\u0430\u0440\u0435\u043d\u0438\u044f \u0441 \u0437\u0435\u043c\u043d\u043e\u0439 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u0438 \n*  \u0433\u0435\u043b\u0438\u043e\u0433\u0440\u0430\u0444 \u0434\u043b\u044f \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u043e\u0439 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0441\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0433\u043e \u0441\u0438\u044f\u043d\u0438\u044f",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Una estaci\u00f3n meteorol\u00f3gica es una instalaci\u00f3n destinada a medir y registrar regularmente diversas variables meteorol\u00f3gicas. Estos datos se utilizan tanto para la elaboraci\u00f3n de predicciones meteorol\u00f3gicas a partir de modelos num\u00e9ricos como para estudios clim\u00e1ticos.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "La stazione meteorologica \u00e8 un insieme di strumenti di misura che permettono di controllare le condizioni fisiche dell'atmosfera in un dato luogo, per un tempo indefinito, relativamente ai suoi parametri fondamentali, a fini meteorologici e climatici. Pu\u00f2 essere allestita in ogni punto della superficie terrestre che sia in pianura, in collina, in montagna o in mare aperto. I parametri atmosferici in quota lontano dalla superficie terrestre sono invece rilevati tramite palloni sonda, aerei e satelliti meteorologici.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "A weather station is a facility, either on land or sea, with instruments and equipment for measuring atmospheric conditions to provide information for weather forecasts and to study the weather and climate. The measurements taken include temperature, barometric pressure, humidity, wind speed, wind direction, and precipitation amounts. Wind measurements are taken with as few other obstructions as possible, while temperature and humidity measurements are kept free from direct solar radiation, or insolation. Manual observations are taken at least once daily, while automated measurements are taken at least once an hour. Weather conditions out at sea are taken by ships and buoys, which measure slightly different meteorological quantities such as sea surface temperature, wave height, and wave pe",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Eine Wetterstation ist eine Zusammenstellung verschiedener Messger\u00e4te, die zur Messung meteorologischer Gr\u00f6\u00dfen und damit der Wetterbeobachtung an einem bestimmten Ort und der Klimaforschung dienen. Wetterstationen werden f\u00fcr staatliche Wettermessungen und Wettervorhersagen \u2013 wie die des Deutschen Wetterdienstes (DWD) \u2013 andere Wetterdienste und private Zwecke benutzt. Man unterscheidet allgemein zwischen analogen und digitalen Wetterstationen.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Stacja meteorologiczna (ogr\u00f3dek meteorologiczny) \u2013 miejsce wykonywania pomiar\u00f3w i obserwacji meteorologicznych. Stacja meteorologiczna jest wyposa\u017cona w poletko pomiarowe (ogr\u00f3dek meteorologiczny) \u2013 trawiasty obszar o wymiarach 15\u00d715 m, na terenie kt\u00f3rego s\u0105 zainstalowane przyrz\u0105dy meteorologiczne. Podstawowy zestaw przyrz\u0105d\u00f3w to klatka meteorologiczna z kompletem termometr\u00f3w, wiatromierz, deszczomierze, termometry gruntowe, heliograf, ewentualnie przyrz\u0105dy do pomiar\u00f3w promieniowania s\u0142onecznego. t.\u015br.dek = T1 + T2 + ...... +T10 / 10",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c14\u8c61\u7ad9\uff08\u82f1\u8bed\uff1aweather station\uff09\u6307\u4e3a\u4e86\u53d6\u5f97\u6c14\u8c61\u8d44\u6599\u800c\u5efa\u6210\u7684\u89c0\u6e2c\u7ad9\uff0c\u4e0d\u5c11\u6c23\u8c61\u7ad9\u5167\u8a2d\u6709\u6c23\u58d3\u8a08\u3001\u6eab\u5ea6\u8a08\u53ca\u96e8\u91cf\u8a08\u7b49\u88ab\u52d5\u5f0f\u611f\u61c9\u5668\u4f86\u91cf\u5ea6\u5404\u7a2e\u6c23\u8c61\u8981\u7d20\uff0c\u90e8\u4efd\u6c23\u8c61\u7ad9\u9084\u8a2d\u6709\u5730\u8868\u53ca\u4e0d\u540c\u6df1\u5ea6\u4e4b\u571f\u58e4\u6216\u5730\u8868\u6eab\u5ea6\u89c0\u6e2c\u3001\u6d77\u6c34\u6eab\u5ea6\u89c0\u6e2c\u7b49\u5100\u5668\u3002\u98a8\u5411\u548c\u98a8\u901f\u8a08\u4e00\u822c\u8981\u6c42\u5468\u908a\u6c92\u6709\u6216\u53ea\u6709\u5f88\u5c11\u963b\u64cb\uff0c\u800c\u6eab\u5ea6\u548c\u6fd5\u5ea6\u8a08\u5247\u8981\u6c42\u9060\u96e2\u967d\u5149\u548c\u8f3b\u5c04\u6e90\u7684\u7167\u5c04\u3002\u6d77\u4e0a\u7684\u6c23\u8c61\u6d6e\u6a19\u548c\u6c23\u8c61\u89c0\u6e2c\u8239\u53ef\u63d0\u4f9b\u66f4\u591a\u6578\u64da\uff0c\u5982\u6d77\u6c34\u6eab\u5ea6\u3001\u6d6a\u9ad8\u548c\u6f6e\u6c50\u9031\u671f\u7b49\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Une station m\u00e9t\u00e9orologique, parfois d\u00e9sign\u00e9e par synecdoque abri m\u00e9t\u00e9orologique, est un ensemble de capteurs qui enregistrent et fournissent des mesures physiques et des param\u00e8tres m\u00e9t\u00e9orologiques li\u00e9s aux variations du climat, ces capteurs \u00e9tant plac\u00e9s dans un bo\u00eetier, abri m\u00e9t\u00e9orologique qui r\u00e9alise l'\u00e9quilibre thermique du thermom\u00e8tre avec l'air et le prot\u00e8ge du rayonnement solaire. Les variables \u00e0 mesurer sont la temp\u00e9rature, la pression, la vitesse et direction du vent, l'hygrom\u00e9trie, le point de ros\u00e9e, la pluviom\u00e9trie, la hauteur et le type des nuages, le type et l'intensit\u00e9 des pr\u00e9cipitations ainsi que la visibilit\u00e9. Les stations peuvent comporter des capteurs pour toutes ou une partie seulement de ces informations, selon leur type : agro-m\u00e9t\u00e9orologique, d\u2019a\u00e9roport, m\u00e9t\u00e9orouti\u00e8re, c",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Uma esta\u00e7\u00e3o meteorol\u00f3gica \u00e9 um local onde s\u00e3o recolhidos dados para an\u00e1lise do tempo meteorol\u00f3gico. Encontram-se equipadas com instrumentos (ou sensores eletr\u00f3nicos) de medi\u00e7\u00e3o e registro das vari\u00e1veis meteorol\u00f3gicas/clim\u00e1ticas. Os seus dados s\u00e3o utilizados para a previs\u00e3o do tempo e para a caracteriza\u00e7\u00e3o do clima, pelo que tamb\u00e9m podem ser designadas por esta\u00e7\u00f5es climatol\u00f3gicas. Em nossos dias, por meio de programas de computador, integram-se os dados coletados, permitindo a sua apresenta\u00e7\u00e3o. Na maior parte das esta\u00e7\u00f5es de \u00faltima gera\u00e7\u00e3o os dados s\u00e3o enviados para computadores remotos, atrav\u00e9s de linhas telef\u00f3nicas, rede GSM ou outros meios de transmiss\u00e3o.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c17\u8c61\u53f0\uff08\u304d\u3057\u3087\u3046\u3060\u3044\uff09\u3068\u306f\u3001\u6c17\u8c61\u306e\u89b3\u6e2c\u3001\u5929\u6c17\u4e88\u5831\u3084\u6c17\u8c61\u8b66\u5831\u306e\u4f5c\u6210\u3068\u767a\u8868\u306a\u3069\u3092\u696d\u52d9\u3068\u3059\u308b\u65bd\u8a2d\u30fb\u6a5f\u95a2\u3067\u3042\u308b\u3002 \u65e5\u672c\u3067\u306f\u6c17\u8c61\u5e81\u306e\u6a5f\u95a2\u306e\u3072\u3068\u3064\u3067\u3042\u308a\u3001\u56fd\u571f\u4ea4\u901a\u7701\u8a2d\u7f6e\u6cd5\u3067\u898f\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002\u3044\u308f\u3086\u308b\u5929\u6c17\u3060\u3051\u3067\u306f\u306a\u304f\u3001\u5730\u9707\u30fb\u706b\u5c71\u30fb\u6d77\u6d0b\u306a\u3069\u306e\u89b3\u6e2c\u3082\u884c\u306a\u3046\u3002\u307e\u305f\u3001\u904e\u53bb\u89b3\u6e2c\u3057\u305f\u6c17\u8c61\u3092\u516c\u7684\u306b\u8a3c\u660e\u3059\u308b\u6c17\u8c61\u8a3c\u660e\u3092\u767a\u884c\u3059\u308b\u696d\u52d9\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Een weerstation is een verzameling instrumenten die het weer kunnen meten. Zo'n weerstation wordt vaak handmatig, maar tegenwoordig ook wel automatisch uitgelezen. Met een weerstation wordt ook een meteorologisch station zelf bedoeld, dus een locatie waar deze instrumenten worden gebruikt.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u062d\u0637\u0629 \u0627\u0644\u0631\u0635\u062f \u0627\u0644\u062c\u0648\u064a \u0623\u0648 \u0627\u0644\u0645\u0631\u0635\u062f \u0627\u0644\u062c\u0648\u064a \u0647\u064a \u0645\u0646\u0634\u0623\u0629 \u062a\u0633\u062a\u062e\u062f\u0645 \u0644\u0623\u063a\u0631\u0627\u0636 \u0627\u0644\u0631\u0635\u062f \u0648\u0627\u0644\u062a\u0646\u0628\u0624\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629\u060c \u0633\u0648\u0627\u0621 \u0643\u0627\u0646\u062a \u0639\u0644\u0649 \u0627\u0644\u0623\u0631\u0636 \u0623\u0648 \u0627\u0644\u0628\u062d\u0631\u060c \u0645\u0639 \u0623\u062f\u0648\u0627\u062a \u0648\u0645\u0639\u062f\u0627\u062a \u0644\u0645\u0631\u0627\u0642\u0628\u0629 \u0627\u0644\u063a\u0644\u0627\u0641 \u0627\u0644\u062c\u0648\u064a \u0644\u0644\u0623\u0631\u0636 \u0644\u062a\u0648\u0641\u064a\u0631 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0639\u0646 \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0642\u0633 \u0648\u062f\u0631\u0627\u0633\u0629 \u0627\u0644\u0637\u0642\u0633 \u0648\u0627\u0644\u0645\u0646\u0627\u062e. \u062a\u0623\u062e\u0630 \u0642\u064a\u0627\u0633\u0627\u062a \u0643\u0644\u0627 \u0645\u0646 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629\u060c \u0627\u0644\u0636\u063a\u0637 \u0627\u0644\u062c\u0648\u064a\u060c \u0627\u0644\u0631\u0637\u0648\u0628\u0629\u060c \u0633\u0631\u0639\u0629 \u0627\u0644\u0631\u064a\u0627\u062d \u0648\u0627\u062a\u062c\u0627\u0647\u0647\u0627\u060c \u0648\u0643\u0645\u064a\u0627\u062a \u0627\u0644\u0623\u0645\u0637\u0627\u0631. \u062a\u0624\u062e\u0630 \u0642\u064a\u0627\u0633\u0627\u062a \u0627\u0644\u0631\u064a\u0627\u062d \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u0641\u062a\u0648\u062d\u0629 \u062e\u0627\u0644\u064a\u0629 \u0645\u0646 \u0627\u064a \u0639\u0648\u0627\u0626\u0642\u060c \u0641\u064a \u062d\u064a\u0646 \u064a\u062a\u0645 \u062a\u0623\u062e\u0630 \u0642\u064a\u0627\u0633\u0627\u062a \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0648\u0627\u0644\u0631\u0637\u0648\u0628\u0629 \u0628\u062f\u0648\u0646 \u0627\u0644\u062a\u0639\u0631\u0636 \u0644\u0644\u0625\u0634\u0639\u0627\u0639 \u0627\u0644\u0634\u0645\u0633\u064a \u0627\u0644\u0645\u0628\u0627\u0634\u0631. \u064a\u062d\u062a\u0627\u062c \u0627\u0644\u0645\u062a\u0646\u0628\u0626 \u0627\u0644\u062c\u0648\u064a \u0625\u0644\u0649 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0637\u0642\u0633 \u0648\u0627\u0644\u062a\u064a \u062a\u0645\u062b\u0644 \u0645\u0633\u0627\u062d\u0629 \u0634\u0627\u0633\u0639\u0629 \u0645\u0646 \u0627\u0644\u0643\u0631\u0629 \u0627\u0644\u0623\u0631\u0636\u064a\u0629, \u062d\u062a\u0649 \u064a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u062a\u0646\u0628\u0624 \u0639\u0646 \u0627\u0644\u0637\u0642\u0633 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u0645\u0639\u064a\u0646\u0629 \u0644\u0630\u0644\u0643 \u062a\u0642\u0648\u0645 \u0634\u0628\u0643\u0629 \u0645\u0646 \u0645\u062d\u0637\u0627\u062a \u0627\u0644\u0631\u0635\u062f \u0627\u0644\u062c\u0648\u064a \u0627\u0644\u0645\u0646\u062a\u0634\u0631\u0629 \u0639\u0644\u0649 \u0645\u0633\u0627\u062d\u0629 \u0648\u0627\u0633\u0639\u0629 \u0628\u0645\u0631\u0627\u0642\u0628\u0629 \u0648\u0631\u0635\u062f \u0627\u0644\u062d\u0627\u0644\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0648\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0637\u0642\u0633 \u0627\u0644\u0645\u062e\u062a\u0644\u0641\u0629 \u0644\u062a\u0631\u0633\u0644 \u0647\u0630\u0647 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u0634\u0643\u0644 \u062f\u0648\u0631\u064a \u0648\u0645\u0646\u062a\u0638\u0645 \u0639\u0628\u0631 \u0648\u0633\u0627\u0626\u0644 \u0627\u062a\u0635\u0627\u0644\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0648\u0623\u062c\u0647\u0632\u0629 \u0645\u062e\u062a\u0644\u0641\u0629 \u0625\u0644\u0649 \u0645\u0631\u0627\u0643\u0632 \u0628\u062b \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0625\u0644\u0649 \u0645\u062e\u062a\u0644\u0641 \u0628\u0644\u062f\u0627\u0646 \u0627\u0644\u0639\u0627\u0644\u0645. ",
+                "lang": "ar"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039c\u03b5\u03c4\u03b5\u03c9\u03c1\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03cc\u03c2_\u03c3\u03c4\u03b1\u03b8\u03bc\u03cc\u03c2"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Wetterstation"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u6c17\u8c61\u53f0"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Meteorologick\u00e1_stanice"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q190107"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Stazione_meteorologica"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01d6st"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Weerstation"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q190107"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Esta\u00e7\u00e3o_meteorol\u00f3gica"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Estaci\u00f3n_meteorol\u00f3gica"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Stacja_meteorologiczna"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uae30\uc0c1\uad00\uce21\uc18c"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Weather_station"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Station_m\u00e9t\u00e9orologique"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4305719-6"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Meteorological_instrumentation_and_equipment"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Meteorological_stations"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Mildura_Airport_Weatherstation.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Weather_station"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Weather_station?oldid=737379816"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.nws.noaa.gov/om/coop/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.weathergraphics.com/dl/obsman.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.alphaomega-electronics.com/en/40-Weather-Stations"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wxqa.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wmo.ch/pages/prog/www/IMOP/publications/IOM-81/IOM-81-UrbanMetObs.pdf"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.nws.noaa.gov/om/coop/Publications/coophandbook2.pdf"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Uma esta\u00e7\u00e3o meteorol\u00f3gica \u00e9 um local onde s\u00e3o recolhidos dados para an\u00e1lise do tempo meteorol\u00f3gico. Encontram-se equipadas com instrumentos (ou sensores eletr\u00f3nicos) de medi\u00e7\u00e3o e registro das vari\u00e1veis meteorol\u00f3gicas/clim\u00e1ticas. Os seus dados s\u00e3o utilizados para a previs\u00e3o do tempo e para a caracteriza\u00e7\u00e3o do clima, pelo que tamb\u00e9m podem ser designadas por esta\u00e7\u00f5es climatol\u00f3gicas. Em nossos dias, por meio de programas de computador, integram-se os dados coletados, permitindo a sua apresenta\u00e7\u00e3o. Na maior parte das esta\u00e7\u00f5es de \u00faltima gera\u00e7\u00e3o os dados s\u00e3o enviados para computadores remotos, atrav\u00e9s de linhas telef\u00f3nicas, rede GSM ou outros meios de transmiss\u00e3o.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "La stazione meteorologica \u00e8 un insieme di strumenti di misura che permettono di controllare le condizioni fisiche dell'atmosfera in un dato luogo, per un tempo indefinito, relativamente ai suoi parametri fondamentali, a fini meteorologici e climatici. Pu\u00f2 essere allestita in ogni punto della superficie terrestre che sia in pianura, in collina, in montagna o in mare aperto. I parametri atmosferici in quota lontano dalla superficie terrestre sono invece rilevati tramite palloni sonda, aerei e satelliti meteorologici.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c17\u8c61\u53f0\uff08\u304d\u3057\u3087\u3046\u3060\u3044\uff09\u3068\u306f\u3001\u6c17\u8c61\u306e\u89b3\u6e2c\u3001\u5929\u6c17\u4e88\u5831\u3084\u6c17\u8c61\u8b66\u5831\u306e\u4f5c\u6210\u3068\u767a\u8868\u306a\u3069\u3092\u696d\u52d9\u3068\u3059\u308b\u65bd\u8a2d\u30fb\u6a5f\u95a2\u3067\u3042\u308b\u3002 \u65e5\u672c\u3067\u306f\u6c17\u8c61\u5e81\u306e\u6a5f\u95a2\u306e\u3072\u3068\u3064\u3067\u3042\u308a\u3001\u56fd\u571f\u4ea4\u901a\u7701\u8a2d\u7f6e\u6cd5\u3067\u898f\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002\u3044\u308f\u3086\u308b\u5929\u6c17\u3060\u3051\u3067\u306f\u306a\u304f\u3001\u5730\u9707\u30fb\u706b\u5c71\u30fb\u6d77\u6d0b\u306a\u3069\u306e\u89b3\u6e2c\u3082\u884c\u306a\u3046\u3002\u307e\u305f\u3001\u904e\u53bb\u89b3\u6e2c\u3057\u305f\u6c17\u8c61\u3092\u516c\u7684\u306b\u8a3c\u660e\u3059\u308b\u6c17\u8c61\u8a3c\u660e\u3092\u767a\u884c\u3059\u308b\u696d\u52d9\u3082\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Eine Wetterstation ist eine Zusammenstellung verschiedener Messger\u00e4te, die zur Messung meteorologischer Gr\u00f6\u00dfen und damit der Wetterbeobachtung an einem bestimmten Ort und der Klimaforschung dienen. Wetterstationen werden f\u00fcr staatliche Wettermessungen und Wettervorhersagen \u2013 wie die des Deutschen Wetterdienstes (DWD) \u2013 andere Wetterdienste und private Zwecke benutzt. Man unterscheidet allgemein zwischen analogen und digitalen Wetterstationen. Der Deutsche Wetterdienst betreibt 131 hauptamtliche vollautomatische Wetterstationen (ohne Personal). Im Gegensatz dazu sind die 51 Wetterwarten des DWD mit Personal besetzte Messstationen, die umfangreichere Messwerte und Wetterbeobachtungen durchf\u00fchren. Die \u00e4lteste noch bestehende Wetterstation ist jene an der Sternwarte Kremsm\u00fcnster (Benediktinerstift in Ober\u00f6sterreich). Sie wurde 1762 eingerichtet und hat weltweit die l\u00e4ngste kontinuierliche Messreihe.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Una estaci\u00f3n meteorol\u00f3gica es una instalaci\u00f3n destinada a medir y registrar regularmente diversas variables meteorol\u00f3gicas. Estos datos se utilizan tanto para la elaboraci\u00f3n de predicciones meteorol\u00f3gicas a partir de modelos num\u00e9ricos como para estudios clim\u00e1ticos.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u041c\u0435\u0442\u0435\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u044f \u2014 \u0441\u043e\u0432\u043e\u043a\u0443\u043f\u043d\u043e\u0441\u0442\u044c \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043f\u0440\u0438\u0431\u043e\u0440\u043e\u0432 \u0434\u043b\u044f \u043c\u0435\u0442\u0435\u043e\u0440\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u0439 (\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f \u0437\u0430 \u043f\u043e\u0433\u043e\u0434\u043e\u0439). \u0420\u0430\u0437\u043b\u0438\u0447\u0430\u044e\u0442 \u0430\u043d\u0430\u043b\u043e\u0433\u043e\u0432\u044b\u0435 \u0438 \u0446\u0438\u0444\u0440\u043e\u0432\u044b\u0435 \u043c\u0435\u0442\u0435\u043e\u0440\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0442\u0430\u043d\u0446\u0438\u0438. \u041d\u0430 \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u043e\u0439 (\u0430\u043d\u0430\u043b\u043e\u0433\u043e\u0432\u043e\u0439) \u043c\u0435\u0442\u0435\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u0438\u043c\u0435\u0435\u0442\u0441\u044f: \n*  \u0442\u0435\u0440\u043c\u043e\u043c\u0435\u0442\u0440 \u0434\u043b\u044f \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0432\u043e\u0437\u0434\u0443\u0445\u0430 \u0438 \u043f\u043e\u0447\u0432\u044b \n*  \u0431\u0430\u0440\u043e\u043c\u0435\u0442\u0440 \u0434\u043b\u044f \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u044f \n*  \u0433\u0438\u0433\u0440\u043e\u043c\u0435\u0442\u0440 \u0434\u043b\u044f \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0432\u043b\u0430\u0436\u043d\u043e\u0441\u0442\u0438 \u0432\u043e\u0437\u0434\u0443\u0445\u0430 \n*  \u0430\u043d\u0435\u043c\u043e\u0440\u0443\u043c\u0431\u043e\u043c\u0435\u0442\u0440 (\u0438\u043b\u0438 \u0444\u043b\u044e\u0433\u0435\u0440) \u0434\u043b\u044f \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u0438 \u0438 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0435\u0442\u0440\u0430 \n*  \u043e\u0441\u0430\u0434\u043a\u043e\u043c\u0435\u0440 \u0434\u043b\u044f \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u043e\u0441\u0430\u0434\u043a\u043e\u0432 \n*  \u043f\u043b\u044e\u0432\u0438\u043e\u0433\u0440\u0430\u0444 \u0434\u043b\u044f \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u043e\u0439 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u043e\u0441\u0430\u0434\u043a\u043e\u0432 \u043d\u0430 \u043f\u0435\u0440\u0438\u043e\u0434 \u0436\u0438\u0434\u043a\u0438\u0445 \u043e\u0441\u0430\u0434\u043a\u043e\u0432 \n*  \u0442\u0435\u0440\u043c\u043e\u0433\u0440\u0430\u0444 \u0434\u043b\u044f \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u043e\u0439 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0432\u043e\u0437\u0434\u0443\u0445\u0430 \n*  \u0433\u0438\u0433\u0440\u043e\u0433\u0440\u0430\u0444 \u0434\u043b\u044f \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u043e\u0439 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0432\u043b\u0430\u0436\u043d\u043e\u0441\u0442\u0438 \u0432\u043e\u0437\u0434\u0443\u0445\u0430 \n*  \u043f\u0441\u0438\u0445\u0440\u043e\u043c\u0435\u0442\u0440 \u0434\u043b\u044f \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0438 \u0432\u043b\u0430\u0436\u043d\u043e\u0441\u0442\u0438 \u0432\u043e\u0437\u0434\u0443\u0445\u0430 \n*  \u0433\u043e\u043b\u043e\u043b\u0435\u0434\u043d\u044b\u0439 \u0441\u0442\u0430\u043d\u043e\u043a \u0434\u043b\u044f \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0433\u043e\u043b\u043e\u043b\u0435\u0434\u043d\u043e-\u0438\u0437\u043c\u043e\u0440\u043e\u0441\u0435\u0432\u044b\u0445 \u043e\u0442\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \n*  \u043b\u0435\u0434\u043e\u0441\u043a\u043e\u043f \u0434\u043b\u044f \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0438\u0437\u043c\u043e\u0440\u043e\u0441\u0438 \u0438 \u0438\u043d\u0435\u044f \n*  \u0431\u0430\u0440\u043e\u0433\u0440\u0430\u0444 \u0434\u043b\u044f \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0431\u0430\u0440\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0442\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u0438 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u041f\u0440\u0438 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u043e\u0431\u044a\u0435\u043c\u0430\u0445 \u0440\u0430\u0431\u043e\u0442\u044b \u043c\u0435\u0442\u0435\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u0439 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \n*  \u0438\u0441\u043f\u0430\u0440\u043e\u043c\u0435\u0440 \u0413\u0413\u0418-3000 \u0434\u043b\u044f \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u044b \u0438\u0441\u043f\u0430\u0440\u0435\u043d\u0438\u044f \u0441 \u0437\u0435\u043c\u043d\u043e\u0439 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u0438 \n*  \u0433\u0435\u043b\u0438\u043e\u0433\u0440\u0430\u0444 \u0434\u043b\u044f \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u043e\u0439 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0441\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0433\u043e \u0441\u0438\u044f\u043d\u0438\u044f \u0412 \u0443\u0437\u043a\u043e\u043c \u0441\u043c\u044b\u0441\u043b\u0435 \u043c\u0435\u0442\u0435\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u044f \u2014 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0435, \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0449\u0435\u0435 \u043c\u0435\u0442\u0435\u043e\u0440\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f. \u041e\u0441\u043d\u043e\u0432\u043d\u044b\u043c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u043c \u043c\u0435\u0442\u0435\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u044f\u043c \u043c\u0438\u0440\u0430 \u043f\u0440\u0438\u0441\u0432\u043e\u0435\u043d\u044b \u0441\u0438\u043d\u043e\u043f\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0438\u043d\u0434\u0435\u043a\u0441\u044b. \u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u043c\u0435\u0442\u0435\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u0439 \u043d\u0430\u0445\u043e\u0434\u044f\u0442\u0441\u044f \u0432 \u0432\u0435\u0434\u0435\u043d\u0438\u0438 \u0420\u043e\u0441\u0433\u0438\u0434\u0440\u043e\u043c\u0435\u0442\u0430. \u0412 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u044a\u0451\u043c\u0430 \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0439, \u043c\u0435\u0442\u0435\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u0438\u043c\u0435\u044e\u0442 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0439 \u0440\u0430\u0437\u0440\u044f\u0434. \u0414\u0430\u043d\u043d\u044b\u0435 \u043c\u0435\u0442\u0435\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u0439 \u0421\u0421\u0421\u0420 \u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b\u0438\u0441\u044c \u0432 \u00ab\u041c\u0435\u0442\u0435\u043e\u0440\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0435\u0436\u0435\u043c\u0435\u0441\u044f\u0447\u043d\u0438\u043a\u0435\u00bb.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Stacja meteorologiczna (ogr\u00f3dek meteorologiczny) \u2013 miejsce wykonywania pomiar\u00f3w i obserwacji meteorologicznych. Stacja meteorologiczna jest wyposa\u017cona w poletko pomiarowe (ogr\u00f3dek meteorologiczny) \u2013 trawiasty obszar o wymiarach 15\u00d715 m, na terenie kt\u00f3rego s\u0105 zainstalowane przyrz\u0105dy meteorologiczne. Podstawowy zestaw przyrz\u0105d\u00f3w to klatka meteorologiczna z kompletem termometr\u00f3w, wiatromierz, deszczomierze, termometry gruntowe, heliograf, ewentualnie przyrz\u0105dy do pomiar\u00f3w promieniowania s\u0142onecznego. Na terenie stacji meteorologicznej wykonuje si\u0119 pomiary: temperatury powietrza na wysoko\u015bci 2 m nad poziomem gruntu, temperatury powietrza na wys. 5 cm npg., wilgotno\u015bci powietrza na wysoko\u015bci 2 m npg., ci\u015bnienia powietrza, wysoko\u015bci opadu atmosferycznego, czasu us\u0142onecznienia, widzialno\u015bci meteorologicznej etc. Na nieotrawionym, przekopanym poletku meteorologicznym zorientowanym w osi wsch\u00f3d-zach\u00f3d mierzy si\u0119 temperatur\u0119 gruntu na g\u0142\u0119boko\u015bci 5, 10, 20 i 50 cm. Opr\u00f3cz tego oblicza si\u0119 parowanie. Ka\u017cdy z przyrz\u0105d\u00f3w wyst\u0119puje w kilku wersjach, jednak na stacji stosuje si\u0119 zawsze jeden rodzaj w danym czasie. Przyrz\u0105dy meteorologiczne musz\u0105 by\u0107 normowane co kilka lat, czyli por\u00f3wnywane z wzorcowymi, nieeksploatowanymi aby zapobiec przek\u0142amaniom spowodowanym zu\u017cyciem. Pomiary dokonuje si\u0119 o godzinach : 6.00 UTC, 12.00 UTC i 18.00 UTC po czym liczy si\u0119 temperatury \u015brednie wzorem:Temperatura \u015brednia dobowa:t.\u015br.d = T7 + T19 +Tmax + Tmin / 4w celach pomocniczych w oparciu o rejestracje ci\u0105gu termografu temperatur\u0119 \u015bredni\u0105 dobow\u0105 liczymyTemperatura \u015brednia dobowa termografu:t.\u015br.d.ter = 1/2t0 + t1 +........+t23 + 1/2t24 / 24 Temperatur\u0119 \u015bredni\u0105 pentadow\u0105 obliczamy w ten spos\u00f3b, \u017ce sumujemy wszystkie wyliczone temperatury dobowe danej pentady nast\u0119pnie dzielimy przez 5t.\u015br.pent = T1 + T2 + .... +T5 /5 Temperatur\u0119 \u015bredni\u0105 dekadow\u0105 obliczamy w ten spos\u00f3b, \u017ce sumujemy wszystkie uprzednio wyliczone temperatury \u015brednie dobowe danej dekady, a nast\u0119pnie dzielimy je przez 10 t.\u015br.dek = T1 + T2 + ...... +T10 / 10 Temperatur\u0119 \u015bredni\u0105 miesi\u0119czn\u0105 obliczamy: sumujemy wszystkie wyliczone temperatury \u015brednie dobowe danego miesi\u0105ca nast\u0119pnie dzielimy je przez liczb\u0119 dni w danym miesi\u0105cu (np. Stycze\u0144 31dni)t.\u015br.m = T1 + T2 + ..... +T31 / 31 Temperatur\u0119 \u015bredni\u0105 roczn\u0105 obliczamy sumuj\u0105c wszystkie wyliczone temperatury \u015brednie miesi\u0119czne danego roku, a nast\u0119pnie dzielimy je przez 12.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "A weather station is a facility, either on land or sea, with instruments and equipment for measuring atmospheric conditions to provide information for weather forecasts and to study the weather and climate. The measurements taken include temperature, barometric pressure, humidity, wind speed, wind direction, and precipitation amounts. Wind measurements are taken with as few other obstructions as possible, while temperature and humidity measurements are kept free from direct solar radiation, or insolation. Manual observations are taken at least once daily, while automated measurements are taken at least once an hour. Weather conditions out at sea are taken by ships and buoys, which measure slightly different meteorological quantities such as sea surface temperature, wave height, and wave period. Drifting weather buoys outnumber their moored versions by a significant amount.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0645\u062d\u0637\u0629 \u0627\u0644\u0631\u0635\u062f \u0627\u0644\u062c\u0648\u064a \u0623\u0648 \u0627\u0644\u0645\u0631\u0635\u062f \u0627\u0644\u062c\u0648\u064a \u0647\u064a \u0645\u0646\u0634\u0623\u0629 \u062a\u0633\u062a\u062e\u062f\u0645 \u0644\u0623\u063a\u0631\u0627\u0636 \u0627\u0644\u0631\u0635\u062f \u0648\u0627\u0644\u062a\u0646\u0628\u0624\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629\u060c \u0633\u0648\u0627\u0621 \u0643\u0627\u0646\u062a \u0639\u0644\u0649 \u0627\u0644\u0623\u0631\u0636 \u0623\u0648 \u0627\u0644\u0628\u062d\u0631\u060c \u0645\u0639 \u0623\u062f\u0648\u0627\u062a \u0648\u0645\u0639\u062f\u0627\u062a \u0644\u0645\u0631\u0627\u0642\u0628\u0629 \u0627\u0644\u063a\u0644\u0627\u0641 \u0627\u0644\u062c\u0648\u064a \u0644\u0644\u0623\u0631\u0636 \u0644\u062a\u0648\u0641\u064a\u0631 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0639\u0646 \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0642\u0633 \u0648\u062f\u0631\u0627\u0633\u0629 \u0627\u0644\u0637\u0642\u0633 \u0648\u0627\u0644\u0645\u0646\u0627\u062e. \u062a\u0623\u062e\u0630 \u0642\u064a\u0627\u0633\u0627\u062a \u0643\u0644\u0627 \u0645\u0646 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629\u060c \u0627\u0644\u0636\u063a\u0637 \u0627\u0644\u062c\u0648\u064a\u060c \u0627\u0644\u0631\u0637\u0648\u0628\u0629\u060c \u0633\u0631\u0639\u0629 \u0627\u0644\u0631\u064a\u0627\u062d \u0648\u0627\u062a\u062c\u0627\u0647\u0647\u0627\u060c \u0648\u0643\u0645\u064a\u0627\u062a \u0627\u0644\u0623\u0645\u0637\u0627\u0631. \u062a\u0624\u062e\u0630 \u0642\u064a\u0627\u0633\u0627\u062a \u0627\u0644\u0631\u064a\u0627\u062d \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u0641\u062a\u0648\u062d\u0629 \u062e\u0627\u0644\u064a\u0629 \u0645\u0646 \u0627\u064a \u0639\u0648\u0627\u0626\u0642\u060c \u0641\u064a \u062d\u064a\u0646 \u064a\u062a\u0645 \u062a\u0623\u062e\u0630 \u0642\u064a\u0627\u0633\u0627\u062a \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0648\u0627\u0644\u0631\u0637\u0648\u0628\u0629 \u0628\u062f\u0648\u0646 \u0627\u0644\u062a\u0639\u0631\u0636 \u0644\u0644\u0625\u0634\u0639\u0627\u0639 \u0627\u0644\u0634\u0645\u0633\u064a \u0627\u0644\u0645\u0628\u0627\u0634\u0631. \u064a\u062d\u062a\u0627\u062c \u0627\u0644\u0645\u062a\u0646\u0628\u0626 \u0627\u0644\u062c\u0648\u064a \u0625\u0644\u0649 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0637\u0642\u0633 \u0648\u0627\u0644\u062a\u064a \u062a\u0645\u062b\u0644 \u0645\u0633\u0627\u062d\u0629 \u0634\u0627\u0633\u0639\u0629 \u0645\u0646 \u0627\u0644\u0643\u0631\u0629 \u0627\u0644\u0623\u0631\u0636\u064a\u0629, \u062d\u062a\u0649 \u064a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u062a\u0646\u0628\u0624 \u0639\u0646 \u0627\u0644\u0637\u0642\u0633 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u0645\u0639\u064a\u0646\u0629 \u0644\u0630\u0644\u0643 \u062a\u0642\u0648\u0645 \u0634\u0628\u0643\u0629 \u0645\u0646 \u0645\u062d\u0637\u0627\u062a \u0627\u0644\u0631\u0635\u062f \u0627\u0644\u062c\u0648\u064a \u0627\u0644\u0645\u0646\u062a\u0634\u0631\u0629 \u0639\u0644\u0649 \u0645\u0633\u0627\u062d\u0629 \u0648\u0627\u0633\u0639\u0629 \u0628\u0645\u0631\u0627\u0642\u0628\u0629 \u0648\u0631\u0635\u062f \u0627\u0644\u062d\u0627\u0644\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0648\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0637\u0642\u0633 \u0627\u0644\u0645\u062e\u062a\u0644\u0641\u0629 \u0644\u062a\u0631\u0633\u0644 \u0647\u0630\u0647 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0628\u0634\u0643\u0644 \u062f\u0648\u0631\u064a \u0648\u0645\u0646\u062a\u0638\u0645 \u0639\u0628\u0631 \u0648\u0633\u0627\u0626\u0644 \u0627\u062a\u0635\u0627\u0644\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0648\u0623\u062c\u0647\u0632\u0629 \u0645\u062e\u062a\u0644\u0641\u0629 \u0625\u0644\u0649 \u0645\u0631\u0627\u0643\u0632 \u0628\u062b \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0625\u0644\u0649 \u0645\u062e\u062a\u0644\u0641 \u0628\u0644\u062f\u0627\u0646 \u0627\u0644\u0639\u0627\u0644\u0645. \u062d\u064a\u062b \u064a\u0648\u062c\u062f \u0641\u064a \u0643\u0644 \u062f\u0648\u0644\u0629 \u0639\u062f\u062f \u0645\u0646 \u0645\u062d\u0637\u0627\u062a \u0627\u0644\u0631\u0635\u062f \u0627\u0644\u062c\u0648\u064a \u0644\u0623\u063a\u0631\u0627\u0636 \u0627\u0644\u0631\u0635\u062f \u0648\u0627\u0644\u062a\u0646\u0628\u0624\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0645\u0646\u0634\u0631\u0629 \u0641\u064a \u062c\u0645\u064a\u0639 \u0645\u0646\u0627\u0637\u0642\u0647\u0627\u060c \u062a\u0631\u0633\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a\u0647\u0627 \u0627\u0644\u062c\u0648\u064a\u0629 \u0641\u064a \u0623\u0648\u0642\u0627\u062a \u0645\u0639\u064a\u0646\u0629 \u0625\u0644\u0649 \u0645\u062d\u0637\u0629 \u0631\u0635\u062f \u0645\u0631\u0643\u0632\u064a\u0629 \u062d\u064a\u062b \u062a\u0642\u0648\u0645 \u0647\u0630\u0647 \u0627\u0644\u0645\u062d\u0637\u0629 \u0628\u0628\u062b \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u0623\u062c\u0647\u0632\u0629 \u0627\u062a\u0635\u0627\u0644\u0627\u062a \u062d\u062f\u064a\u062b\u0629 \u0641\u064a \u0623\u0648\u0642\u0627\u062a \u0645\u062d\u062f\u062f\u0629 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645 \u0628\u0634\u0643\u0644 \u0631\u0645\u0648\u0632 \u0645\u062a\u0641\u0642 \u0639\u0644\u064a\u0647\u0627 \u0639\u0627\u0644\u0645\u064a\u0627 \u0645\u0646 \u0642\u0628\u0644 \u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u0623\u0631\u0635\u0627\u062f \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629. \u062a\u0624\u062e\u0630 \u0627\u0644\u0623\u062d\u0648\u0627\u0644 \u0627\u0644\u062c\u0648\u064a\u0629 \u0641\u064a \u0639\u0631\u0636 \u0627\u0644\u0628\u062d\u0631 \u0628\u0648\u0627\u0633\u0637\u0629 \u0627\u0644\u0633\u0641\u0646 \u0648\u0627\u0644\u0639\u0648\u0627\u0645\u0627\u062a\u060c \u0627\u0644\u062a\u064a \u062a\u0623\u062e\u0630 \u0642\u064a\u0627\u0633\u0627\u062a \u0645\u062e\u062a\u0644\u0641\u0629 \u0642\u0644\u064a\u0644\u0627 \u0639\u0646 \u0645\u0627 \u064a\u0627\u062e\u0630 \u0639\u0644\u0649 \u0627\u0644\u0627\u0631\u0636 \u0645\u062b\u0644 \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0633\u0637\u062d \u0627\u0644\u0628\u062d\u0631\u060c \u0648\u0627\u0631\u062a\u0641\u0627\u0639 \u0627\u0644\u0623\u0645\u0648\u0627\u062c\u060c \u0648\u0645\u062f\u0629 \u0627\u0644\u0645\u0648\u062c\u0629.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "\u6c14\u8c61\u7ad9\uff08\u82f1\u8bed\uff1aweather station\uff09\u6307\u4e3a\u4e86\u53d6\u5f97\u6c14\u8c61\u8d44\u6599\u800c\u5efa\u6210\u7684\u89c0\u6e2c\u7ad9\uff0c\u4e0d\u5c11\u6c23\u8c61\u7ad9\u5167\u8a2d\u6709\u6c23\u58d3\u8a08\u3001\u6eab\u5ea6\u8a08\u53ca\u96e8\u91cf\u8a08\u7b49\u88ab\u52d5\u5f0f\u611f\u61c9\u5668\u4f86\u91cf\u5ea6\u5404\u7a2e\u6c23\u8c61\u8981\u7d20\uff0c\u90e8\u4efd\u6c23\u8c61\u7ad9\u9084\u8a2d\u6709\u5730\u8868\u53ca\u4e0d\u540c\u6df1\u5ea6\u4e4b\u571f\u58e4\u6216\u5730\u8868\u6eab\u5ea6\u89c0\u6e2c\u3001\u6d77\u6c34\u6eab\u5ea6\u89c0\u6e2c\u7b49\u5100\u5668\u3002\u98a8\u5411\u548c\u98a8\u901f\u8a08\u4e00\u822c\u8981\u6c42\u5468\u908a\u6c92\u6709\u6216\u53ea\u6709\u5f88\u5c11\u963b\u64cb\uff0c\u800c\u6eab\u5ea6\u548c\u6fd5\u5ea6\u8a08\u5247\u8981\u6c42\u9060\u96e2\u967d\u5149\u548c\u8f3b\u5c04\u6e90\u7684\u7167\u5c04\u3002\u6d77\u4e0a\u7684\u6c23\u8c61\u6d6e\u6a19\u548c\u6c23\u8c61\u89c0\u6e2c\u8239\u53ef\u63d0\u4f9b\u66f4\u591a\u6578\u64da\uff0c\u5982\u6d77\u6c34\u6eab\u5ea6\u3001\u6d6a\u9ad8\u548c\u6f6e\u6c50\u9031\u671f\u7b49\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Een weerstation is een verzameling instrumenten die het weer kunnen meten. Zo'n weerstation wordt vaak handmatig, maar tegenwoordig ook wel automatisch uitgelezen. Met een weerstation wordt ook een meteorologisch station zelf bedoeld, dus een locatie waar deze instrumenten worden gebruikt.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Une station m\u00e9t\u00e9orologique, parfois d\u00e9sign\u00e9e par synecdoque abri m\u00e9t\u00e9orologique, est un ensemble de capteurs qui enregistrent et fournissent des mesures physiques et des param\u00e8tres m\u00e9t\u00e9orologiques li\u00e9s aux variations du climat, ces capteurs \u00e9tant plac\u00e9s dans un bo\u00eetier, abri m\u00e9t\u00e9orologique qui r\u00e9alise l'\u00e9quilibre thermique du thermom\u00e8tre avec l'air et le prot\u00e8ge du rayonnement solaire. Les variables \u00e0 mesurer sont la temp\u00e9rature, la pression, la vitesse et direction du vent, l'hygrom\u00e9trie, le point de ros\u00e9e, la pluviom\u00e9trie, la hauteur et le type des nuages, le type et l'intensit\u00e9 des pr\u00e9cipitations ainsi que la visibilit\u00e9. Les stations peuvent comporter des capteurs pour toutes ou une partie seulement de ces informations, selon leur type : agro-m\u00e9t\u00e9orologique, d\u2019a\u00e9roport, m\u00e9t\u00e9orouti\u00e8re, climatologique, etc. Les stations m\u00e9t\u00e9orologiques sont le plus souvent \u00e0 des coordonn\u00e9es fixes sur les \u00eeles et les continents mais elles peuvent \u00eatre aussi \u00eatre \u00e0 bord d\u2019avions avec (AMDAR) ou de navires (en particulier les navires m\u00e9t\u00e9orologiques). Elles peuvent \u00e9galement \u00eatre d\u00e9plac\u00e9es pour des usages particuliers comme des exp\u00e9riences scientifiques ou pour d\u00e9terminer les conditions m\u00e9t\u00e9orologiques lors d'un d\u00e9sastre tel un feu de for\u00eat. Les donn\u00e9es qu'on en obtient peuvent \u00eatre envoy\u00e9es directement comme rapport m\u00e9t\u00e9orologique, dans le cas d'une station automatique, ou faire partie des observations METAR \u00e9mises par un observateur humain.",
+                "lang": "fr"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Mildura_Airport_Weatherstation.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 737379816,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 206018,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Facility"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Alert,_Nunavut": {
+        "http://dbpedia.org/ontology/type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Weather_station"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Limerick": {
+        "http://dbpedia.org/property/location": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Weather_station"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Weather_stations": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Weather_station"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Weather_buoy": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Weather_station"
+            }
+        ]
+    }
+}

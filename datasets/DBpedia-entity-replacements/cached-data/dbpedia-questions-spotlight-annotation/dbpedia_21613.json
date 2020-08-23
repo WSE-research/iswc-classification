@@ -1,0 +1,28 @@
+{
+    "@text": "Which city has it's landmark as Cheasty Boulevard South?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "6",
+            "@similarityScore": "0.9037091772791895",
+            "@percentageOfSecondRank": "0.04770618653038629"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cheasty_Boulevard_South",
+            "@support": "2",
+            "@types": "Wikidata:Q34442,Schema:Place,DBpedia:RouteOfTransportation,DBpedia:Road,DBpedia:Place,DBpedia:Location,DBpedia:Infrastructure,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Cheasty Boulevard South",
+            "@offset": "32",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

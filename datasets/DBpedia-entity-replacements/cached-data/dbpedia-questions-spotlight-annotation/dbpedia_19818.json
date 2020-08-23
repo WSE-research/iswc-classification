@@ -1,0 +1,37 @@
+{
+    "@text": "Is Pulau Ubin the largest city of Singapore?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Pulau_Ubin",
+            "@support": "112",
+            "@types": "Wikidata:Q23442,Schema:Place,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Island",
+            "@surfaceForm": "Pulau Ubin",
+            "@offset": "3",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "26",
+            "@similarityScore": "0.8554342836085763",
+            "@percentageOfSecondRank": "0.10534468259997129"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Singapore",
+            "@support": "66351",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Singapore",
+            "@offset": "34",
+            "@similarityScore": "0.9999370678797114",
+            "@percentageOfSecondRank": "6.209682419000364E-5"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Which artery supplies blood to the stomach?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Blood",
+            "@support": "14038",
+            "@types": "Wikidata:Q4936952,DBpedia:AnatomicalStructure",
+            "@surfaceForm": "blood",
+            "@offset": "22",
+            "@similarityScore": "0.9994700931981584",
+            "@percentageOfSecondRank": "4.0042568811125004E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Stomach",
+            "@support": "3286",
+            "@types": "Wikidata:Q4936952,DBpedia:AnatomicalStructure",
+            "@surfaceForm": "stomach",
+            "@offset": "35",
+            "@similarityScore": "0.9985662065362036",
+            "@percentageOfSecondRank": "0.001038246175030576"
+        }
+    ]
+}

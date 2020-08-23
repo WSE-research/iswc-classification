@@ -1,0 +1,37 @@
+{
+    "@text": "What is Babirusa's taxon parent's taxonomic rank in the tribe?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Babirusa",
+            "@support": "146",
+            "@types": "",
+            "@surfaceForm": "Babirusa",
+            "@offset": "8",
+            "@similarityScore": "0.9999999999791811",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "19",
+            "@similarityScore": "0.9997825905503558",
+            "@percentageOfSecondRank": "2.1745656658076095E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Taxonomic_rank",
+            "@support": "2110",
+            "@types": "",
+            "@surfaceForm": "taxonomic rank",
+            "@offset": "34",
+            "@similarityScore": "0.9999999541370254",
+            "@percentageOfSecondRank": "4.5862967248336916E-8"
+        }
+    ]
+}

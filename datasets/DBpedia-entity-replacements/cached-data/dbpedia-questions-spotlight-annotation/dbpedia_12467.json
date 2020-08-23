@@ -1,0 +1,28 @@
+{
+    "@text": "The Smithsonian Institution is the parent organization of which art museum?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Smithsonian_Institution",
+            "@support": "9122",
+            "@types": "Wikidata:Q41176,Wikidata:Q33506,Schema:Place,DBpedia:Place,DBpedia:Museum,DBpedia:Location,DBpedia:Building,DBpedia:ArchitecturalStructure",
+            "@surfaceForm": "Smithsonian",
+            "@offset": "4",
+            "@similarityScore": "0.981363884659746",
+            "@percentageOfSecondRank": "0.018702753141310792"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Museum",
+            "@support": "19971",
+            "@types": "",
+            "@surfaceForm": "museum",
+            "@offset": "68",
+            "@similarityScore": "0.9990593203998533",
+            "@percentageOfSecondRank": "9.132711766700598E-4"
+        }
+    ]
+}

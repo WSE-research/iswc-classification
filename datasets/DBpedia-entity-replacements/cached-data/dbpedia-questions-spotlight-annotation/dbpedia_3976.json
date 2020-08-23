@@ -1,0 +1,28 @@
+{
+    "@text": "Which fictional empire was present in Star Wars Episode V: The Empire Strikes Back?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Star_Wars",
+            "@support": "11776",
+            "@types": "",
+            "@surfaceForm": "Star Wars",
+            "@offset": "38",
+            "@similarityScore": "0.9999777939429746",
+            "@percentageOfSecondRank": "1.847998962147015E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Roman_Empire",
+            "@support": "30520",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Empire",
+            "@offset": "63",
+            "@similarityScore": "0.7712803854422724",
+            "@percentageOfSecondRank": "0.19803892309285673"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Is the genre for Radiohead rock music and experimental rock?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Radiohead",
+            "@support": "3805",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q215380,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:MusicGroup,DBpedia:Organisation,DBpedia:Group,DBpedia:Band,DBpedia:Agent",
+            "@surfaceForm": "Radiohead",
+            "@offset": "17",
+            "@similarityScore": "0.9999999982934469",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rock_music",
+            "@support": "45453",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "rock",
+            "@offset": "27",
+            "@similarityScore": "0.9972050648128656",
+            "@percentageOfSecondRank": "0.001854870625654677"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Experimental_rock",
+            "@support": "1089",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "experimental rock",
+            "@offset": "42",
+            "@similarityScore": "0.9991419508741749",
+            "@percentageOfSecondRank": "8.587860063413545E-4"
+        }
+    ]
+}

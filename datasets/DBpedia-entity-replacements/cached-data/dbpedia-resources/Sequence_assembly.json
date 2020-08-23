@@ -1,0 +1,398 @@
+{
+    "http://dbpedia.org/resource/Assembly": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sequence_assembly"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Sequence_assembly": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sequence_assembly"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Sequence_assembly": {
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Sequence assembly",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Montaje de secuencias",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u914d\u5217\u30a2\u30bb\u30f3\u30d6\u30ea\u30f3\u30b0",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Assembler (Bioinformatik)",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Assemblage (bio-informatique)",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0431\u043e\u0440\u043a\u0430 \u0433\u0435\u043d\u043e\u043c\u0430",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "En bio-informatique, l'assemblage consiste \u00e0 aligner et/ou fusionner des fragments d'ADN ou d'ARN issus d'une plus longue s\u00e9quence afin de reconstruire la s\u00e9quence originale. Il s'agit d'une \u00e9tape d'analyse in silico qui succ\u00e8de au s\u00e9quen\u00e7age de l'ADN ou de l'ARN d'un organisme unique, d'une colonie de clones (bact\u00e9riens par exemple), ou encore d'un m\u00e9lange complexe d'organismes. Le probl\u00e8me de l'assemblage peut \u00eatre compar\u00e9 \u00e0 celui de la reconstruction du texte d'un livre \u00e0 partir de plusieurs copies de celui-ci, pr\u00e9alablement d\u00e9chiquet\u00e9es en petits morceaux.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Als Assembler wird in der Bioinformatik ein Computerprogramm bezeichnet, das virtuelle Nukleotidsequenzen durch Sequenzalignments zu l\u00e4ngeren Fragmenten zusammenf\u00fchrt. Dabei wird eine durch eine Shotgun-Sequenzierung gewonnene Menge kurzer DNA-Sequenzen (eng. reads) so angeordnet, dass sie das urspr\u00fcngliche Genom ergeben.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u914d\u5217\u30a2\u30bb\u30f3\u30d6\u30ea\u30f3\u30b0\u3068\u306f\u3001\u30d0\u30a4\u30aa\u30a4\u30f3\u30d5\u30a9\u30de\u30c6\u30a3\u30af\u30b9\u306b\u304a\u3044\u3066\u77ed\u3044DNA\u306e\u65ad\u7247\u304b\u3089\u5143\u306e\u9577\u3044\u5869\u57fa\u914d\u5217\u3092\u518d\u69cb\u7bc9\u3059\u308b\u3053\u3068\u3092\u6307\u3059\u3002DNA\u30b7\u30fc\u30b1\u30f3\u30b7\u30f3\u30b0\u3067\u306f\u7528\u3044\u308b\u624b\u6cd5\u306b\u3082\u3088\u308b\u304c\u4e00\u5ea6\u306b\u8aad\u3081\u308b\u9577\u3055\u306f20\u304b\u30891000\u6b8b\u57fa\u306b\u3068\u3069\u307e\u308b\u305f\u3081\u3001\u3053\u306e\u6280\u8853\u306f\u305d\u308c\u3088\u308a\u9577\u3044\u5869\u57fa\u914d\u5217\u306e\u6c7a\u5b9a\u306b\u306f\u4e0d\u53ef\u6b20\u306e\u6280\u8853\u3067\u3042\u308b\u3002 \u307e\u305f\u3001\u3053\u306e\u3088\u3046\u306a\u30a2\u30bb\u30f3\u30d6\u30ea\u30f3\u30b0\u3092\u884c\u3046\u30d7\u30ed\u30b0\u30e9\u30e0\u306e\u3053\u3068\u3092\u30a2\u30bb\u30f3\u30d6\u30e9\u3068\u547c\u3076\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "En bioinform\u00e1tica, el montaje o ensamblaje de secuencias se refiere al alineamiento y mezcla de m\u00faltiples fragmentos de una secuencia de ADN mucho mayor para reconstruir la secuencia original. Normalmente los fragmentos cortos provienen de secuenciaci\u00f3n \"por perdigonada\" (shotgun) de ADN gen\u00f3mico, o de transcripci\u00f3n gen\u00e9tica (ESTs, o marcadores de secuencia expresada). \n*  Phrap, por Phil Green, de la University de Washington. \n*  TIGR Assembler, por Granger Sutton, The Institute for Genomic Research. \n*  CAP3, por Xiaoqiu Huang, del Michigan Technological University.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0431\u043e\u0440\u043a\u0430 \u0433\u0435\u043d\u043e\u043c\u0430 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0447\u0435\u043d\u044c \u0441\u043b\u043e\u0436\u043d\u043e\u0439 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0435\u0439, \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u043e\u0441\u043b\u043e\u0436\u043d\u0451\u043d\u043d\u043e\u0439 \u0442\u0435\u043c, \u0447\u0442\u043e \u0433\u0435\u043d\u043e\u043c\u044b \u0447\u0430\u0441\u0442\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u044b\u0445 \u043f\u043e\u0432\u0442\u043e\u0440\u044f\u044e\u0449\u0438\u0445\u0441\u044f \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439 (\u0442\u0430\u043a \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u043c\u044b\u0435 \u0433\u0435\u043d\u043e\u043c\u043d\u044b\u0435 \u043f\u043e\u0432\u0442\u043e\u0440\u044b). \u042d\u0442\u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u044b \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0434\u043b\u0438\u043d\u043e\u0439 \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0442\u044b\u0441\u044f\u0447 \u043d\u0443\u043a\u043b\u0435\u043e\u0442\u0438\u0434\u043e\u0432, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0442\u044c\u0441\u044f \u0432 \u0442\u044b\u0441\u044f\u0447\u0435 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043c\u0435\u0441\u0442 \u0432 \u0433\u0435\u043d\u043e\u043c\u0435. \u041e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0431\u043e\u0433\u0430\u0442\u044b \u043f\u043e\u0432\u0442\u043e\u0440\u0430\u043c\u0438 \u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u0433\u0435\u043d\u043e\u043c\u044b \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0439 \u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u0433\u0435\u043d\u043e\u043c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "In bioinformatics, sequence assembly refers to aligning and merging fragments from a longer DNA sequence in order to reconstruct the original sequence. This is needed as DNA sequencing technology cannot read whole genomes in one go, but rather reads small pieces of between 20 and 30000 bases, depending on the technology used. Typically the short fragments, called reads, result from shotgun sequencing genomic DNA, or gene transcript (ESTs).",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sequence_assembly"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Assembler_(Bioinformatik)"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Montaje_de_secuencias"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q740578"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u914d\u5217\u30a2\u30bb\u30f3\u30d6\u30ea\u30f3\u30b0"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Assemblage_(bio-informatique)"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.02f9yz"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q740578"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Bioinformatics"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Seqassemble.png"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Sequence_assembly"
+            }
+        ],
+        "http://www.w3.org/2004/02/skos/core#broadMatch": [
+            {
+                "type": "uri",
+                "value": "http://www.springernature.com/scigraph/things/subjects/genome-assembly-algorithms"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Sequence_assembly?oldid=741211784"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.sanger.ac.uk/Software/production/phusion/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bcgsc.ca/platform/bioinfo/software/ssake"
+            },
+            {
+                "type": "uri",
+                "value": "https://github.com/trinityrnaseq/trinityrnaseq/wiki"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bcgsc.ca/platform/bioinfo/software/abyss"
+            },
+            {
+                "type": "uri",
+                "value": "https://dnanexus.com/"
+            },
+            {
+                "type": "uri",
+                "value": "https://github.com/lh3/fermi"
+            },
+            {
+                "type": "uri",
+                "value": "https://github.com/jts/sga"
+            },
+            {
+                "type": "uri",
+                "value": "http://sourceforge.net/projects/taipan/"
+            },
+            {
+                "type": "uri",
+                "value": "http://sourceforge.net/projects/vcake"
+            },
+            {
+                "type": "uri",
+                "value": "https://github.com/aquaskyline/SOAPdenovo2"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.genomic.ch/edena.php"
+            },
+            {
+                "type": "uri",
+                "value": "http://bio.codeplex.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://nbcr.sdsc.edu/euler/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.genome.umd.edu/masurca.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://sourceforge.net/apps/mediawiki/amos/index.php?title=AMOS"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.physics.rutgers.edu/~anirvans/SOPRA/"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.dnastar.com/t-sub-solutions-genome-solutions-de-novo-assembly.aspx"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.dna-dragon.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://sourceforge.net/projects/ligr-assembler/"
+            },
+            {
+                "type": "uri",
+                "value": "http://geneious.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.genecodes.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://qsra.cgrb.oregonstate.edu/"
+            },
+            {
+                "type": "uri",
+                "value": "http://euler-assembler.ucsd.edu/portal/"
+            },
+            {
+                "type": "uri",
+                "value": "http://combiol.org/forge/"
+            },
+            {
+                "type": "uri",
+                "value": "http://sourceforge.net/projects/dnascissor/files"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.clcbio.com/products/"
+            },
+            {
+                "type": "uri",
+                "value": "http://sourceforge.net/apps/mediawiki/mira-assembler/"
+            },
+            {
+                "type": "uri",
+                "value": "https://sites.google.com/site/sparseassembler/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.broadinstitute.org/science/programs/genome-biology/crd"
+            },
+            {
+                "type": "uri",
+                "value": "http://denovoassembler.sf.net/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.jcvi.org/cms/research/projects/celera-assembler/overview/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ebi.ac.uk/~zerbino/velvet/"
+            },
+            {
+                "type": "uri",
+                "value": "http://bioinf.spbau.ru/en/spades"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.cs.hku.hk/~alse/idba/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.454.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.conveycomputer.com/lifesciences/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.phrap.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://softgenetics.com/NextGENe.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://sites.google.com/site/yongchaosoftware/pasha"
+            },
+            {
+                "type": "uri",
+                "value": "http://staden.sourceforge.net/"
+            },
+            {
+                "type": "uri",
+                "value": "ftp://ftp.jcvi.org/pub/software/assembler/"
+            },
+            {
+                "type": "uri",
+                "value": "http://sharcgs.molgen.mpg.de/"
+            },
+            {
+                "type": "uri",
+                "value": "http://cortexassembler.sourceforge.net/"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Als Assembler wird in der Bioinformatik ein Computerprogramm bezeichnet, das virtuelle Nukleotidsequenzen durch Sequenzalignments zu l\u00e4ngeren Fragmenten zusammenf\u00fchrt. Dabei wird eine durch eine Shotgun-Sequenzierung gewonnene Menge kurzer DNA-Sequenzen (eng. reads) so angeordnet, dass sie das urspr\u00fcngliche Genom ergeben.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "In bioinformatics, sequence assembly refers to aligning and merging fragments from a longer DNA sequence in order to reconstruct the original sequence. This is needed as DNA sequencing technology cannot read whole genomes in one go, but rather reads small pieces of between 20 and 30000 bases, depending on the technology used. Typically the short fragments, called reads, result from shotgun sequencing genomic DNA, or gene transcript (ESTs). The problem of sequence assembly can be compared to taking many copies of a book, passing each of them through a shredder with a different cutter, and piecing the text of the book back together just by looking at the shredded pieces. Besides the obvious difficulty of this task, there are some extra practical issues: the original may have many repeated paragraphs, and some shreds may be modified during shredding to have typos. Excerpts from another book may also be added in, and some shreds may be completely unrecognizable.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u0431\u043e\u0440\u043a\u0430 \u0433\u0435\u043d\u043e\u043c\u0430 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0447\u0435\u043d\u044c \u0441\u043b\u043e\u0436\u043d\u043e\u0439 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0435\u0439, \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u043e\u0441\u043b\u043e\u0436\u043d\u0451\u043d\u043d\u043e\u0439 \u0442\u0435\u043c, \u0447\u0442\u043e \u0433\u0435\u043d\u043e\u043c\u044b \u0447\u0430\u0441\u0442\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u044b\u0445 \u043f\u043e\u0432\u0442\u043e\u0440\u044f\u044e\u0449\u0438\u0445\u0441\u044f \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439 (\u0442\u0430\u043a \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u043c\u044b\u0435 \u0433\u0435\u043d\u043e\u043c\u043d\u044b\u0435 \u043f\u043e\u0432\u0442\u043e\u0440\u044b). \u042d\u0442\u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u044b \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0434\u043b\u0438\u043d\u043e\u0439 \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0442\u044b\u0441\u044f\u0447 \u043d\u0443\u043a\u043b\u0435\u043e\u0442\u0438\u0434\u043e\u0432, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0442\u044c\u0441\u044f \u0432 \u0442\u044b\u0441\u044f\u0447\u0435 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043c\u0435\u0441\u0442 \u0432 \u0433\u0435\u043d\u043e\u043c\u0435. \u041e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0431\u043e\u0433\u0430\u0442\u044b \u043f\u043e\u0432\u0442\u043e\u0440\u0430\u043c\u0438 \u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u0433\u0435\u043d\u043e\u043c\u044b \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0439 \u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u0433\u0435\u043d\u043e\u043c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u914d\u5217\u30a2\u30bb\u30f3\u30d6\u30ea\u30f3\u30b0\u3068\u306f\u3001\u30d0\u30a4\u30aa\u30a4\u30f3\u30d5\u30a9\u30de\u30c6\u30a3\u30af\u30b9\u306b\u304a\u3044\u3066\u77ed\u3044DNA\u306e\u65ad\u7247\u304b\u3089\u5143\u306e\u9577\u3044\u5869\u57fa\u914d\u5217\u3092\u518d\u69cb\u7bc9\u3059\u308b\u3053\u3068\u3092\u6307\u3059\u3002DNA\u30b7\u30fc\u30b1\u30f3\u30b7\u30f3\u30b0\u3067\u306f\u7528\u3044\u308b\u624b\u6cd5\u306b\u3082\u3088\u308b\u304c\u4e00\u5ea6\u306b\u8aad\u3081\u308b\u9577\u3055\u306f20\u304b\u30891000\u6b8b\u57fa\u306b\u3068\u3069\u307e\u308b\u305f\u3081\u3001\u3053\u306e\u6280\u8853\u306f\u305d\u308c\u3088\u308a\u9577\u3044\u5869\u57fa\u914d\u5217\u306e\u6c7a\u5b9a\u306b\u306f\u4e0d\u53ef\u6b20\u306e\u6280\u8853\u3067\u3042\u308b\u3002 \u307e\u305f\u3001\u3053\u306e\u3088\u3046\u306a\u30a2\u30bb\u30f3\u30d6\u30ea\u30f3\u30b0\u3092\u884c\u3046\u30d7\u30ed\u30b0\u30e9\u30e0\u306e\u3053\u3068\u3092\u30a2\u30bb\u30f3\u30d6\u30e9\u3068\u547c\u3076\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "En bioinform\u00e1tica, el montaje o ensamblaje de secuencias se refiere al alineamiento y mezcla de m\u00faltiples fragmentos de una secuencia de ADN mucho mayor para reconstruir la secuencia original. Normalmente los fragmentos cortos provienen de secuenciaci\u00f3n \"por perdigonada\" (shotgun) de ADN gen\u00f3mico, o de transcripci\u00f3n gen\u00e9tica (ESTs, o marcadores de secuencia expresada). La primera generaci\u00f3n de montadores de secuencias empezaron a aparecer en los \u00faltimos 80 y primeros 90 del siglo XX, para reconstruir las grandes cantidades de fragmentos generadas por instrumentos de secuenciaci\u00f3n autom\u00e1tica. Estos ensambladores de primera generaci\u00f3n utilizaban varias estrategias para manejar las secuencias repetitivas y los errores de secuenciaci\u00f3n, que pod\u00edan confundir el ensamblado. Sin embargo, no pod\u00edan manejar genomas mucho m\u00e1s largos que los de una bacteria (varios millones de bases de ADN), y fueron siendo reemplazados conforme el campo se mov\u00eda hacia genomas mayores. Los que se relacionan a continuaci\u00f3n fueron montadores de primera generaci\u00f3n ampliamente usados en los 90 en universidades, instituciones gubernamentales y en la industria: \n*  Phrap, por Phil Green, de la University de Washington. \n*  TIGR Assembler, por Granger Sutton, The Institute for Genomic Research. \n*  CAP3, por Xiaoqiu Huang, del Michigan Technological University. Ensambladores modernos, como DNA Baser, han tra\u00eddo importantes mejoras sobre los de primera generaci\u00f3n reduciendo el tiempo necesario para crear un contig desde decenas de minutos a segundos, usando algoritmos de ensamblado inteligente, ensamblado por lotes, y detecci\u00f3n autom\u00e1tica de calidad y zonas terminales de corte.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "En bio-informatique, l'assemblage consiste \u00e0 aligner et/ou fusionner des fragments d'ADN ou d'ARN issus d'une plus longue s\u00e9quence afin de reconstruire la s\u00e9quence originale. Il s'agit d'une \u00e9tape d'analyse in silico qui succ\u00e8de au s\u00e9quen\u00e7age de l'ADN ou de l'ARN d'un organisme unique, d'une colonie de clones (bact\u00e9riens par exemple), ou encore d'un m\u00e9lange complexe d'organismes. Le probl\u00e8me de l'assemblage peut \u00eatre compar\u00e9 \u00e0 celui de la reconstruction du texte d'un livre \u00e0 partir de plusieurs copies de celui-ci, pr\u00e9alablement d\u00e9chiquet\u00e9es en petits morceaux.",
+                "lang": "fr"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Seqassemble.png?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 741211784,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 477989,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Dna_assembly": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sequence_assembly"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/DNA_assembly": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sequence_assembly"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Assembler_(bioinformatics)": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Sequence_assembly"
+            }
+        ]
+    }
+}

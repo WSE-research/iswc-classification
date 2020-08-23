@@ -1,0 +1,28 @@
+{
+    "@text": "In which city are the schools whose district is Mumbai Suburban?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "9",
+            "@similarityScore": "0.8389513458724496",
+            "@percentageOfSecondRank": "0.09434588525774187"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mumbai",
+            "@support": "35584",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Mumbai",
+            "@offset": "48",
+            "@similarityScore": "0.9992576413326623",
+            "@percentageOfSecondRank": "5.71209049944881E-4"
+        }
+    ]
+}

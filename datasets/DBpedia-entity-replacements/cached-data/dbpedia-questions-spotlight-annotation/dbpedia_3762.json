@@ -1,0 +1,37 @@
+{
+    "@text": "What is the death place of Lavrentiy Beria and is the twin town of Tehran?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Lavrentiy_Beria",
+            "@support": "660",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Lavrentiy Beria",
+            "@offset": "27",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "twin town",
+            "@offset": "54",
+            "@similarityScore": "0.9997924569223913",
+            "@percentageOfSecondRank": "2.0758615887714495E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tehran",
+            "@support": "15144",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Tehran",
+            "@offset": "67",
+            "@similarityScore": "0.999713108769303",
+            "@percentageOfSecondRank": "2.169072227345831E-4"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "\"Which is {twin town} of {Aarhus}, that has {has boroughs} is {Nangang District, Harbin} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "twin town",
+            "@offset": "11",
+            "@similarityScore": "0.9999892865122384",
+            "@percentageOfSecondRank": "1.0713602494417272E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Aarhus",
+            "@support": "5227",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Aarhus",
+            "@offset": "26",
+            "@similarityScore": "0.9993183153195117",
+            "@percentageOfSecondRank": "2.1166501841197357E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Nangang_District,_Harbin",
+            "@support": "18",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Nangang District, Harbin",
+            "@offset": "63",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

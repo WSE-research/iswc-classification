@@ -1,0 +1,99 @@
+{
+    "http://en.wikipedia.org/wiki/Image_and_object_order_rendering": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Image_and_object_order_rendering"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Image_order": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Image_and_object_order_rendering"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Object_order": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Image_and_object_order_rendering"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Image_and_object_order_rendering": {
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Image and object order rendering",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "In computer graphics, image order algorithms iterate over the pixels in the image to be produced, rather than the elements in the scene to be rendered. Object order algorithms are those that iterate over the elements in the scene to be rendered, rather than the pixels in the image to be produced. For typical rendering applications, the scene contains many fewer elements (e.g. geometric primitives) than image pixels. In those cases, object order algorithms are usually most efficient (e.g. scan conversion or shear warp). But when the scene complexity exceeds that of the image, such as is the case often in volume rendering, then image order algorithms (e.g., ray casting) may be more efficient.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q6002191"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q6002191"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Image_and_object_order_rendering"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.063zhq1"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:3D_rendering"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Image_and_object_order_rendering"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Image_and_object_order_rendering?oldid=578758256"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "In computer graphics, image order algorithms iterate over the pixels in the image to be produced, rather than the elements in the scene to be rendered. Object order algorithms are those that iterate over the elements in the scene to be rendered, rather than the pixels in the image to be produced. For typical rendering applications, the scene contains many fewer elements (e.g. geometric primitives) than image pixels. In those cases, object order algorithms are usually most efficient (e.g. scan conversion or shear warp). But when the scene complexity exceeds that of the image, such as is the case often in volume rendering, then image order algorithms (e.g., ray casting) may be more efficient.",
+                "lang": "en"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 578758256,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 22883430,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    }
+}

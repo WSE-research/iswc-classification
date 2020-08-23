@@ -1,0 +1,37 @@
+{
+    "@text": "What is the birth city of Lev Yashin, which has municipalities in Ostankinsky District?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Types_of_inhabited_localities_in_Russia",
+            "@support": "16026",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "18",
+            "@similarityScore": "0.8083076085411772",
+            "@percentageOfSecondRank": "0.21931489008642602"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Lev_Yashin",
+            "@support": "150",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q937857,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:SoccerPlayer,DBpedia:Person,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Lev Yashin",
+            "@offset": "26",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ostankinsky_District",
+            "@support": "39",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Ostankinsky District",
+            "@offset": "66",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "What is the name of the road maintained by the city of Las Vegas?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "47",
+            "@similarityScore": "0.8919480397927326",
+            "@percentageOfSecondRank": "0.057073032670807926"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Las_Vegas",
+            "@support": "19730",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Las Vegas",
+            "@offset": "55",
+            "@similarityScore": "0.7910242072971928",
+            "@percentageOfSecondRank": "0.2476488423946951"
+        }
+    ]
+}

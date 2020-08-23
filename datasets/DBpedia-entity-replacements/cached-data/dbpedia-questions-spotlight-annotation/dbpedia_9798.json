@@ -1,0 +1,28 @@
+{
+    "@text": "Name a city that contains the word \"milwaukee \" in its name",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "7",
+            "@similarityScore": "0.889364092438416",
+            "@percentageOfSecondRank": "0.06777625259135867"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Milwaukee",
+            "@support": "17794",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "milwaukee",
+            "@offset": "36",
+            "@similarityScore": "0.9941551989352166",
+            "@percentageOfSecondRank": "0.004360803810583635"
+        }
+    ]
+}

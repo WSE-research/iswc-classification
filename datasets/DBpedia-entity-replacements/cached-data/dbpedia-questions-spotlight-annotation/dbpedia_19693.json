@@ -1,0 +1,28 @@
+{
+    "@text": "Which university was attended by both Richard H Immerman and Franklin W Olin?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Neil_Immerman",
+            "@support": "31",
+            "@types": "",
+            "@surfaceForm": "Immerman",
+            "@offset": "48",
+            "@similarityScore": "0.9999999445489907",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Benjamin_Franklin",
+            "@support": "4317",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Franklin",
+            "@offset": "61",
+            "@similarityScore": "0.9993378634148085",
+            "@percentageOfSecondRank": "2.897769987602566E-4"
+        }
+    ]
+}

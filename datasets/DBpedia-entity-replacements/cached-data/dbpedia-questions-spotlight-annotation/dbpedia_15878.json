@@ -1,0 +1,46 @@
+{
+    "@text": "Is it true that the number of pages of Quantitative EEG QEEG as a diagnostic tool for Alzheimer's dementia in patients with Down syndrome equals to 1.2?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Electroencephalography",
+            "@support": "1983",
+            "@types": "",
+            "@surfaceForm": "EEG",
+            "@offset": "52",
+            "@similarityScore": "0.9999999999996589",
+            "@percentageOfSecondRank": "3.0478311363632954E-13"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Quantitative_electroencephalography",
+            "@support": "16",
+            "@types": "",
+            "@surfaceForm": "QEEG",
+            "@offset": "56",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Dementia",
+            "@support": "3270",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "dementia",
+            "@offset": "98",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Syndrome",
+            "@support": "4175",
+            "@types": "",
+            "@surfaceForm": "syndrome",
+            "@offset": "129",
+            "@similarityScore": "0.9999999943253499",
+            "@percentageOfSecondRank": "5.5601790645147705E-9"
+        }
+    ]
+}

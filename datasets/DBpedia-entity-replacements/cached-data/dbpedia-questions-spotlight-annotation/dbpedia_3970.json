@@ -1,0 +1,28 @@
+{
+    "@text": "What is Jerry O'Connel's birth location where John Lindsay is the mayor?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/John_Lindsay",
+            "@support": "511",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "John Lindsay",
+            "@offset": "46",
+            "@similarityScore": "0.999999971765519",
+            "@percentageOfSecondRank": "9.43849631440268E-9"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mayor",
+            "@support": "19123",
+            "@types": "",
+            "@surfaceForm": "mayor",
+            "@offset": "66",
+            "@similarityScore": "0.985318770263457",
+            "@percentageOfSecondRank": "0.012477527557982692"
+        }
+    ]
+}

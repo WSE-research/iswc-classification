@@ -1,0 +1,46 @@
+{
+    "@text": "Did Liza Minnelli win the Tony Award for Best Actress in a Musical and the Drama Desk Award for Outstanding Actor in a Musical?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Liza_Minnelli",
+            "@support": "1177",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Liza Minnelli",
+            "@offset": "4",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "5.203455571995836E-15"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tony_Award",
+            "@support": "8023",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Tony Award",
+            "@offset": "26",
+            "@similarityScore": "0.9999756546879427",
+            "@percentageOfSecondRank": "1.431097256745804E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress",
+            "@support": "2581",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Best Actress",
+            "@offset": "41",
+            "@similarityScore": "0.999930320708916",
+            "@percentageOfSecondRank": "3.263761980428207E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Drama_Desk_Award",
+            "@support": "2558",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "Drama Desk Award",
+            "@offset": "75",
+            "@similarityScore": "0.999994021552447",
+            "@percentageOfSecondRank": "2.2237451181831857E-6"
+        }
+    ]
+}

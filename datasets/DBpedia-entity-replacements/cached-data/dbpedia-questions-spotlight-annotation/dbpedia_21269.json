@@ -1,0 +1,28 @@
+{
+    "@text": "Count the total number of bacterias whose division is Firmicutes and domain is Bacteria?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Firmicutes",
+            "@support": "217",
+            "@types": "DBpedia:Species,DBpedia:Bacteria",
+            "@surfaceForm": "Firmicutes",
+            "@offset": "54",
+            "@similarityScore": "0.9999999999051994",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bacteria",
+            "@support": "16514",
+            "@types": "DBpedia:Species,DBpedia:Bacteria",
+            "@surfaceForm": "Bacteria",
+            "@offset": "79",
+            "@similarityScore": "0.9999349853819025",
+            "@percentageOfSecondRank": "6.501866095174977E-5"
+        }
+    ]
+}

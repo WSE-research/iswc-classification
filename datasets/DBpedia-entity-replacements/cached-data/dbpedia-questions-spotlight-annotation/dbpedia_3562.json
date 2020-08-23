@@ -1,0 +1,37 @@
+{
+    "@text": "What is the plain mode's NeuroNames ID for brain stem?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Plain",
+            "@support": "1108",
+            "@types": "",
+            "@surfaceForm": "plain",
+            "@offset": "12",
+            "@similarityScore": "0.9889868725151177",
+            "@percentageOfSecondRank": "0.0076798502837656405"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/NeuroNames",
+            "@support": "18",
+            "@types": "Wikidata:Q386724,DUL:InformationObject,Schema:CreativeWork,DBpedia:Work,DBpedia:Database,DBpedia:BiologicalDatabase",
+            "@surfaceForm": "NeuroNames",
+            "@offset": "25",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Brainstem",
+            "@support": "1202",
+            "@types": "Wikidata:Q4936952,DBpedia:Brain,DBpedia:AnatomicalStructure",
+            "@surfaceForm": "brain stem",
+            "@offset": "43",
+            "@similarityScore": "0.9999999999589875",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

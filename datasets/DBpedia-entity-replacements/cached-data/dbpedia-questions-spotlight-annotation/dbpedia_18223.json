@@ -1,0 +1,28 @@
+{
+    "@text": "Which appointer of William Clark is the successor of Levi Lincoln Sr ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/William_Clark",
+            "@support": "606",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "William Clark",
+            "@offset": "19",
+            "@similarityScore": "0.9974351386621662",
+            "@percentageOfSecondRank": "0.0024619748372534506"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Abraham_Lincoln",
+            "@support": "12389",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Lincoln",
+            "@offset": "58",
+            "@similarityScore": "0.9339008288034898",
+            "@percentageOfSecondRank": "0.06922419900717432"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "ATP reacts with which protein?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Adenosine_triphosphate",
+            "@support": "4954",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "ATP",
+            "@offset": "0",
+            "@similarityScore": "0.9620791164974632",
+            "@percentageOfSecondRank": "0.03931120369219668"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Protein",
+            "@support": "53207",
+            "@types": "",
+            "@surfaceForm": "protein",
+            "@offset": "22",
+            "@similarityScore": "0.999997799411693",
+            "@percentageOfSecondRank": "8.290821622575165E-7"
+        }
+    ]
+}

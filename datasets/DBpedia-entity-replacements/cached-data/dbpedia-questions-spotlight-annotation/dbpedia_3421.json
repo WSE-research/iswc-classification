@@ -1,0 +1,37 @@
+{
+    "@text": "Did Roe v. Wade cite the Muskrat v. United States?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Dwyane_Wade",
+            "@support": "1779",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q3665646,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:BasketballPlayer,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Wade",
+            "@offset": "11",
+            "@similarityScore": "0.9854573272178596",
+            "@percentageOfSecondRank": "0.006009369170172209"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Muskrat",
+            "@support": "860",
+            "@types": "Wikidata:Q7377,Wikidata:Q729,Wikidata:Q19088,DBpedia:Species,DBpedia:Mammal,DBpedia:Eukaryote,DBpedia:Animal",
+            "@surfaceForm": "Muskrat",
+            "@offset": "25",
+            "@similarityScore": "0.9999999567203313",
+            "@percentageOfSecondRank": "2.7935701097509593E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "36",
+            "@similarityScore": "0.9998337551055715",
+            "@percentageOfSecondRank": "8.032950415850616E-5"
+        }
+    ]
+}

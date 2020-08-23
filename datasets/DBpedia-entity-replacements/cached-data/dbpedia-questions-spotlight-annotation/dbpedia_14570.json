@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the taxon that has effect on typhus?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "13",
+            "@similarityScore": "0.9996861825372081",
+            "@percentageOfSecondRank": "3.1134728310196555E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Typhus",
+            "@support": "1671",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "typhus",
+            "@offset": "38",
+            "@similarityScore": "0.9973052632410425",
+            "@percentageOfSecondRank": "0.0017681988799994445"
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "http://dbpedia.org/resource/HomoloGene": {
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "HomoloGene",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "HomoloGene",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "HomoloGene",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "HomoloGene ist ein Service des National Center for Biotechnology Information (NCBI), der Informationen dar\u00fcber gibt, ob und welche Homologien es f\u00fcr ein bestimmtes Gen in anderen Spezies gibt. Die Verarbeitung der Suchanfragen erfolgt automatisch und ist ein relativ verl\u00e4ssliches Werkzeug, um Verwandtschaften von Genen unterschiedlicher Arten zu analysieren.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "HomoloGene es una herramienta del Centro Nacional para la Informaci\u00f3n Biotecnol\u00f3gica (NCBI) que es utilizada como sistema de detecci\u00f3n autom\u00e1tica de hom\u00f3logos (similitud atribuible a la descendencia de un ancestro com\u00fan) entre los genes anotados de varios genomas eucariotas completamente secuenciados.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "HomoloGene, a tool of the National Center for Biotechnology Information (NCBI), is a system for automated detection of homologs (similarity attributable to descent from a common ancestor) among the annotated genes of several completely sequenced eukaryotic genomes.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q468215"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/HomoloGene"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q468215"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.0b84hw"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/HomoloGene"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/HomoloGene"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Bioinformatics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Genetics"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/HomoloGene"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/HomoloGene?oldid=728858582"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://flybase.bio.indiana.edu/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.yeastgenome.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ncbi.nlm.nih.gov/COG/"
+            },
+            {
+                "type": "uri",
+                "value": "http://rgd.mcw.edu/"
+            },
+            {
+                "type": "uri",
+                "value": "http://harvester.kit.edu/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=OMIM"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.informatics.jax.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://zfin.org/cgi-bin/webdriver?MIval=aa-ZDB_home.apg"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.ncbi.nlm.nih.gov/sites/entrez?db=homologene"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "HomoloGene, a tool of the National Center for Biotechnology Information (NCBI), is a system for automated detection of homologs (similarity attributable to descent from a common ancestor) among the annotated genes of several completely sequenced eukaryotic genomes. The HomoloGene processing consists of the protein analysis from the input organisms. Sequences are compared using blastp, then matched up and put into groups, using a taxonomic tree built from sequence similarity, where closer related organisms are matched up first, and then further organisms are added to the tree. The protein alignments are mapped back to their corresponding DNA sequences, and then distance metrics as molecular distances Jukes and Cantor (1969), Ka/Ks ratio can be calculated. The sequences are matched up by using a heuristic algorithm for maximizing the score globally, rather than locally, in a bipartite matching (see complete bipartite graph). And then it calculates the statistical significance of each match. Cutoffs are made per position and Ks values are set to prevent false \"orthologs\" from being grouped together. \u201cParalogs\u201d are identified by finding sequences that are closer within species than other species.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "HomoloGene es una herramienta del Centro Nacional para la Informaci\u00f3n Biotecnol\u00f3gica (NCBI) que es utilizada como sistema de detecci\u00f3n autom\u00e1tica de hom\u00f3logos (similitud atribuible a la descendencia de un ancestro com\u00fan) entre los genes anotados de varios genomas eucariotas completamente secuenciados. El procesamiento de HomoloGene consiste en el an\u00e1lisis de prote\u00ednas de los organismos de entrada. Las secuencias se compararon mediante blastp, a continuaci\u00f3n, los empareja y agrupa, utilizando un \u00e1rbol taxon\u00f3mico construido a partir de la similitud de secuencias, donde los organismos m\u00e1s estrechamente relacionados se emparejan primero, y luego los siguientes son a\u00f1adidos al \u00e1rbol. Las alineaciones de prote\u00ednas se asignan a sus secuencias de ADN correspondientes; luego, las distancias m\u00e9tricas tales como las de Jukes & Cantor (1969) o la tasa Ka/Ks se pueden calcular. Las secuencias se emparejan utilizando un algoritmo heur\u00edstico para maximizar la puntuaci\u00f3n global en una coincidencia bipartita (v\u00e9ase grafo bipartito completo), m\u00e1s que a nivel local. Y luego, se calcula la significaci\u00f3n estad\u00edstica de cada pareja. En cada posici\u00f3n se realizan puntos de corte, y se establecen valores de Ks para evitar falsos ort\u00f3logos cuando sean agrupados; adem\u00e1s, los par\u00e1logos son identificados a trav\u00e9s de la b\u00fasqueda de secuencias entre aquellas especies m\u00e1s relacionadas.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "HomoloGene ist ein Service des National Center for Biotechnology Information (NCBI), der Informationen dar\u00fcber gibt, ob und welche Homologien es f\u00fcr ein bestimmtes Gen in anderen Spezies gibt. Die Verarbeitung der Suchanfragen erfolgt automatisch und ist ein relativ verl\u00e4ssliches Werkzeug, um Verwandtschaften von Genen unterschiedlicher Arten zu analysieren.",
+                "lang": "de"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 728858582,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 3948246,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/System"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/HomoloGene": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/HomoloGene"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Homologene": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/HomoloGene"
+            }
+        ]
+    }
+}

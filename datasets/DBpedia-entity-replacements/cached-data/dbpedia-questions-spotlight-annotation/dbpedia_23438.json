@@ -1,0 +1,28 @@
+{
+    "@text": "What is the highest mountain in Italy?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mountain",
+            "@support": "17196",
+            "@types": "",
+            "@surfaceForm": "mountain",
+            "@offset": "20",
+            "@similarityScore": "0.9991851087335506",
+            "@percentageOfSecondRank": "7.572098034204905E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Italy",
+            "@support": "150965",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Italy",
+            "@offset": "32",
+            "@similarityScore": "0.9942921237966739",
+            "@percentageOfSecondRank": "0.004036415868382517"
+        }
+    ]
+}

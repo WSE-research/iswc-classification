@@ -1,0 +1,37 @@
+{
+    "@text": "Was Hirohito buried in Tokyo at the Mausoleum of the First Qin Emperor?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Hirohito",
+            "@support": "1810",
+            "@types": "",
+            "@surfaceForm": "Hirohito",
+            "@offset": "4",
+            "@similarityScore": "0.9999999998501465",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tokyo",
+            "@support": "43062",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Tokyo",
+            "@offset": "23",
+            "@similarityScore": "0.9998171020995634",
+            "@percentageOfSecondRank": "8.492948834465981E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Qin_dynasty",
+            "@support": "1889",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Qin",
+            "@offset": "59",
+            "@similarityScore": "0.9931611629267396",
+            "@percentageOfSecondRank": "0.0067487724438905945"
+        }
+    ]
+}

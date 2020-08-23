@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the FIVB beach volleyball player ID for Misty May-Treanor?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/FIVB_Volleyball_World_League",
+            "@support": "526",
+            "@types": "Wikidata:Q623109,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:VolleyballLeague,DBpedia:SportsLeague,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "FIVB",
+            "@offset": "13",
+            "@similarityScore": "0.9986192387128643",
+            "@percentageOfSecondRank": "0.0013817152362364594"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Beach_volleyball",
+            "@support": "1858",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "beach volleyball",
+            "@offset": "18",
+            "@similarityScore": "0.9999999948487783",
+            "@percentageOfSecondRank": "3.596426485582875E-9"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Misty_May-Treanor",
+            "@support": "149",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,Wikidata:Q15117302,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:VolleyballPlayer,DBpedia:Person,DBpedia:BeachVolleyballPlayer,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "Misty May-Treanor",
+            "@offset": "49",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

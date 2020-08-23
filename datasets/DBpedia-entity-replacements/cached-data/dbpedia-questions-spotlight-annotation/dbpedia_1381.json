@@ -1,0 +1,28 @@
+{
+    "@text": "Is the takeoff roll on the Airbus A400M less than 752?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Aircraft_principal_axes",
+            "@support": "630",
+            "@types": "",
+            "@surfaceForm": "roll",
+            "@offset": "15",
+            "@similarityScore": "0.606905387388418",
+            "@percentageOfSecondRank": "0.544550231239829"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Airbus_A400M_Atlas",
+            "@support": "283",
+            "@types": "Wikidata:Q11436,DUL:DesignedArtifact,Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft",
+            "@surfaceForm": "Airbus A400M",
+            "@offset": "27",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Was the skeleton dance animated by Walt Disney?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Skeleton",
+            "@support": "1974",
+            "@types": "Wikidata:Q4936952,DBpedia:AnatomicalStructure",
+            "@surfaceForm": "skeleton",
+            "@offset": "8",
+            "@similarityScore": "0.9973870183567429",
+            "@percentageOfSecondRank": "0.0016291448032578636"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Dance",
+            "@support": "12983",
+            "@types": "",
+            "@surfaceForm": "dance",
+            "@offset": "17",
+            "@similarityScore": "0.9492414223235306",
+            "@percentageOfSecondRank": "0.04679104080875871"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Walt_Disney",
+            "@support": "6957",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Walt Disney",
+            "@offset": "35",
+            "@similarityScore": "0.9805231462608672",
+            "@percentageOfSecondRank": "0.016033660964112125"
+        }
+    ]
+}

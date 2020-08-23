@@ -1,0 +1,46 @@
+{
+    "@text": "Which President of the United States was James A. Garfield?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+            "@support": "51563",
+            "@types": "",
+            "@surfaceForm": "President",
+            "@offset": "6",
+            "@similarityScore": "0.9803419231690249",
+            "@percentageOfSecondRank": "0.012608384364829264"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "23",
+            "@similarityScore": "0.9999265413653147",
+            "@percentageOfSecondRank": "3.5271559114577914E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/LeBron_James",
+            "@support": "4760",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q3665646,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:BasketballPlayer,DBpedia:Athlete,DBpedia:Agent",
+            "@surfaceForm": "James",
+            "@offset": "41",
+            "@similarityScore": "0.7906496459752151",
+            "@percentageOfSecondRank": "0.09454657903205588"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/James_A._Garfield",
+            "@support": "1261",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Garfield",
+            "@offset": "50",
+            "@similarityScore": "0.7674915132563674",
+            "@percentageOfSecondRank": "0.30293528173937806"
+        }
+    ]
+}

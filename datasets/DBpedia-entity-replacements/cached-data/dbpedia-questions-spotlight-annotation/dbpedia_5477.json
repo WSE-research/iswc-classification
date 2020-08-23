@@ -1,0 +1,37 @@
+{
+    "@text": "Was Petra an administrative body in Mada'in Saleh and Leskovac?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Petra",
+            "@support": "944",
+            "@types": "Schema:Place,Schema:LandmarksOrHistoricalBuildings,DBpedia:Place,DBpedia:Location,DBpedia:HistoricPlace",
+            "@surfaceForm": "Petra",
+            "@offset": "4",
+            "@similarityScore": "0.9999999878769047",
+            "@percentageOfSecondRank": "1.0847602831741334E-8"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Mada'in_Saleh",
+            "@support": "69",
+            "@types": "",
+            "@surfaceForm": "Mada'in Saleh",
+            "@offset": "36",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Leskovac",
+            "@support": "532",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Leskovac",
+            "@offset": "54",
+            "@similarityScore": "0.9999827208330047",
+            "@percentageOfSecondRank": "1.7214583353858066E-5"
+        }
+    ]
+}

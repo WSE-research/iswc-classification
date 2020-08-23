@@ -1,0 +1,46 @@
+{
+    "@text": "In which city of Pittsburg Steelers was the Congress of Inductrial Organization founded ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "9",
+            "@similarityScore": "0.998227522574218",
+            "@percentageOfSecondRank": "0.0011846046051839322"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Pittsburgh",
+            "@support": "33094",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Pittsburg",
+            "@offset": "17",
+            "@similarityScore": "0.999960459673517",
+            "@percentageOfSecondRank": "3.939855564013743E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Pittsburgh_Steelers",
+            "@support": "8634",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:Organisation,DBpedia:AmericanFootballTeam,DBpedia:Agent",
+            "@surfaceForm": "Steelers",
+            "@offset": "27",
+            "@similarityScore": "0.8401195272468773",
+            "@percentageOfSecondRank": "0.10665264397210177"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States_Congress",
+            "@support": "28529",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q11204,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature,DBpedia:Agent",
+            "@surfaceForm": "Congress",
+            "@offset": "44",
+            "@similarityScore": "0.9792467344282708",
+            "@percentageOfSecondRank": "0.016287802435183033"
+        }
+    ]
+}

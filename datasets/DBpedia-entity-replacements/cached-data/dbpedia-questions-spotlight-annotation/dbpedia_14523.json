@@ -1,0 +1,28 @@
+{
+    "@text": "What is the drug interaction of the prescribed drug for focal epilepsy?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Drug_interaction",
+            "@support": "197",
+            "@types": "",
+            "@surfaceForm": "drug interaction",
+            "@offset": "12",
+            "@similarityScore": "0.9999999999972005",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Partial_seizure",
+            "@support": "201",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "focal epilepsy",
+            "@offset": "56",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

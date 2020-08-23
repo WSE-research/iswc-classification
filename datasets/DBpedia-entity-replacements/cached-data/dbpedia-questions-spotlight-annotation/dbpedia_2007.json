@@ -1,0 +1,37 @@
+{
+    "@text": "Did Kanye West write metal gangsta rap?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Kanye_West",
+            "@support": "6213",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Kanye West",
+            "@offset": "4",
+            "@similarityScore": "0.9999999999590727",
+            "@percentageOfSecondRank": "4.0925503287861635E-11"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Heavy_metal_music",
+            "@support": "16924",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "metal",
+            "@offset": "21",
+            "@similarityScore": "0.9547134301257592",
+            "@percentageOfSecondRank": "0.04649588868290907"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Gangsta_rap",
+            "@support": "866",
+            "@types": "Wikidata:Q188451,DUL:Concept,DBpedia:TopicalConcept,DBpedia:MusicGenre,DBpedia:Genre",
+            "@surfaceForm": "gangsta rap",
+            "@offset": "27",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

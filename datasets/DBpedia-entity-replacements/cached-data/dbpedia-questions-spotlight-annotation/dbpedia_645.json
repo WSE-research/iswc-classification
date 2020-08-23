@@ -1,0 +1,28 @@
+{
+    "@text": "Tell me excipient whose name has the word xylitol in it.",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Excipient",
+            "@support": "174",
+            "@types": "",
+            "@surfaceForm": "excipient",
+            "@offset": "8",
+            "@similarityScore": "0.9999999136549216",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Xylitol",
+            "@support": "186",
+            "@types": "Wikidata:Q11173,DUL:ChemicalObject,DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound",
+            "@surfaceForm": "xylitol",
+            "@offset": "42",
+            "@similarityScore": "0.9999998925815619",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

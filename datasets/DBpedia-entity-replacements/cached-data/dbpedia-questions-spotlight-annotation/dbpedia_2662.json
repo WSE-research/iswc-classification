@@ -1,0 +1,28 @@
+{
+    "@text": "Is the Superbowl from the country of the United States of America?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Super_Bowl",
+            "@support": "14355",
+            "@types": "Wikidata:Q1656682,DUL:Event,Schema:SportsEvent,Schema:Event,DBpedia:SportsEvent,DBpedia:SocietalEvent,DBpedia:NationalFootballLeagueEvent,DBpedia:Event",
+            "@surfaceForm": "Superbowl",
+            "@offset": "7",
+            "@similarityScore": "0.9999971819454233",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "41",
+            "@similarityScore": "0.9999554699862889",
+            "@percentageOfSecondRank": "2.6609914966294982E-5"
+        }
+    ]
+}

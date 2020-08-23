@@ -1,0 +1,37 @@
+{
+    "@text": "Who replaced the position held by Bill Clinton as President of the United States?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Bill_Clinton",
+            "@support": "13027",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q30461,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:President,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Bill Clinton",
+            "@offset": "34",
+            "@similarityScore": "0.9999716937450501",
+            "@percentageOfSecondRank": "2.540901978230864E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+            "@support": "51563",
+            "@types": "",
+            "@surfaceForm": "President",
+            "@offset": "50",
+            "@similarityScore": "0.9713380650798159",
+            "@percentageOfSecondRank": "0.01706708206997773"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/United_States",
+            "@support": "563995",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "United States",
+            "@offset": "67",
+            "@similarityScore": "0.9998895249834073",
+            "@percentageOfSecondRank": "5.377224972194819E-5"
+        }
+    ]
+}

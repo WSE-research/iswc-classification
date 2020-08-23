@@ -1,0 +1,28 @@
+{
+    "@text": "Where did Pierre Curie live, which has the timezone of UTC-02:00?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Pierre_Curie",
+            "@support": "390",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q901,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Scientist,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Pierre Curie",
+            "@offset": "10",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/UTC\u221202:00",
+            "@support": "24",
+            "@types": "",
+            "@surfaceForm": "UTC-02",
+            "@offset": "55",
+            "@similarityScore": "0.9999999999558327",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

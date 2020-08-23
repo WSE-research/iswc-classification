@@ -1,0 +1,37 @@
+{
+    "@text": "Name the tributary that flows form the harbour at Guangzhou",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Tributary",
+            "@support": "17917",
+            "@types": "",
+            "@surfaceForm": "tributary",
+            "@offset": "9",
+            "@similarityScore": "0.9999982802084739",
+            "@percentageOfSecondRank": "1.0253243551166249E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Harbor",
+            "@support": "3353",
+            "@types": "",
+            "@surfaceForm": "harbour",
+            "@offset": "39",
+            "@similarityScore": "0.9927921468104186",
+            "@percentageOfSecondRank": "0.00461356524947785"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Guangzhou",
+            "@support": "10025",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Guangzhou",
+            "@offset": "50",
+            "@similarityScore": "0.999640241158203",
+            "@percentageOfSecondRank": "2.2966929310821806E-4"
+        }
+    ]
+}

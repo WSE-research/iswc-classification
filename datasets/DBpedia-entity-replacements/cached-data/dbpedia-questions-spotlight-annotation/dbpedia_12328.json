@@ -1,0 +1,28 @@
+{
+    "@text": "Which medicine is the essential treatment for bipolar disorder?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Medicine",
+            "@support": "15923",
+            "@types": "",
+            "@surfaceForm": "medicine",
+            "@offset": "6",
+            "@similarityScore": "0.9979805384030176",
+            "@percentageOfSecondRank": "0.001278715774317631"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bipolar_disorder",
+            "@support": "2879",
+            "@types": "Wikidata:Q12136,DBpedia:Disease",
+            "@surfaceForm": "bipolar disorder",
+            "@offset": "46",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

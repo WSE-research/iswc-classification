@@ -1,0 +1,28 @@
+{
+    "@text": "Does Andrea Bocelli speak German and Spanish?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Andrea_Bocelli",
+            "@support": "1000",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Andrea Bocelli",
+            "@offset": "5",
+            "@similarityScore": "0.9999999999999716",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Spanish_language",
+            "@support": "44729",
+            "@types": "Wikidata:Q34770,Wikidata:Q315,Schema:Language,DBpedia:Language",
+            "@surfaceForm": "Spanish",
+            "@offset": "37",
+            "@similarityScore": "0.8841417131175938",
+            "@percentageOfSecondRank": "0.12079679123073854"
+        }
+    ]
+}

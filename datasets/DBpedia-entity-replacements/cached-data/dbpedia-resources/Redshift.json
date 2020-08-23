@@ -1,0 +1,502 @@
+{
+    "http://dbpedia.org/resource/Olbers'_paradox": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Redshift": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "\u8d64\u65b9\u504f\u79fb",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "D\u00e9calage vers le rouge",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Desvio para o vermelho",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Przesuni\u0119cie ku czerwieni",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u7d05\u79fb",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0646\u0632\u064a\u0627\u062d \u0623\u062d\u0645\u0631",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Redshift",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Spostamento verso il rosso",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u0440\u0430\u0441\u043d\u043e\u0435 \u0441\u043c\u0435\u0449\u0435\u043d\u0438\u0435",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Roodverschuiving",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Rotverschiebung",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Corrimiento al rojo",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Lo spostamento verso il rosso (chiamato anche effetto batocromo o, in inglese, redshift) \u00e8 il fenomeno per cui la frequenza della luce, quando osservata in certe circostanze, \u00e8 pi\u00f9 bassa della frequenza che aveva quando \u00e8 stata emessa. Ci\u00f2 accade in genere quando la sorgente di luce si muove allontanandosi dall'osservatore (o equivalentemente, essendo il moto relativo, quando l'osservatore si allontana dalla sorgente).",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Le d\u00e9calage vers le rouge (redshift en anglais) est un ph\u00e9nom\u00e8ne astronomique de d\u00e9calage vers les grandes longueurs d'onde des raies spectrales et de l'ensemble du spectre \u2014 ce qui se traduit par un d\u00e9calage vers le rouge pour le spectre visible \u2014 observ\u00e9 parmi les objets astronomiques lointains. \u00c0 la suite des travaux de Tolman et Hubble c'est un ph\u00e9nom\u00e8ne bien document\u00e9, consid\u00e9r\u00e9 comme la preuve initiale de l'expansion de l'Univers et du mod\u00e8le cosmologique avec le Big Bang. Dans cette acception, ce ph\u00e9nom\u00e8ne n'est pas produit par effet Doppler-Fizeau, mais est une cons\u00e9quence de la dilatation de l'espace provoqu\u00e9e par l'expansion de l'univers.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u5728\u7269\u7406\u5b78\u9886\u57df\uff0c\u7d05\u79fb\uff08Redshift\uff09\u662f\u6307\u96fb\u78c1\u8f3b\u5c04\u7531\u4e8e\u67d0\u79cd\u539f\u56e0\u5c0e\u81f4\u6ce2\u957f\u589e\u52a0\u3001\u983b\u7387\u964d\u4f4e\u7684\u73b0\u8c61\uff0c\u5728\u53ef\u898b\u5149\u6ce2\u6bb5\uff0c\u8868\u73b0\u4e3a\u5149\u8c31\u7684\u8c31\u7ebf\u671d\u7d05\u7aef\u79fb\u52d5\u4e86\u4e00\u6bb5\u8ddd\u79bb\uff0c\u5373\u6ce2\u957f\u53d8\u957f\u3001\u983b\u7387\u964d\u4f4e\u3002\u76f8\u53cd\u7684\uff0c\u96fb\u78c1\u8f3b\u5c04\u7684\u6ce2\u9577\u53d8\u77ed\u3001\u9891\u7387\u5347\u9ad8\u7684\u73b0\u8c61\u5219\u88ab\u7a31\u70ba\u85cd\u79fb\u3002\u7d05\u79fb\u6700\u521d\u662f\u5728\u4eba\u4eec\u719f\u6089\u7684\u53ef\u89c1\u5149\u6ce2\u6bb5\u53d1\u73b0\u7684\uff0c\u968f\u7740\u5bf9\u7535\u78c1\u6ce2\u8c31\u5404\u4e2a\u6ce2\u6bb5\u7684\u4e86\u89e3\u9010\u6b65\u6df1\u5165\uff0c\u4efb\u4f55\u7535\u78c1\u8f90\u5c04\u7684\u6ce2\u9577\u589e\u52a0\u90fd\u53ef\u4ee5\u79f0\u4e3a\u7d05\u79fb\u3002\u5bf9\u4e8e\u6ce2\u957f\u8f83\u77ed\u7684\u03b3\u5c04\u7dda\u3001X-\u5c04\u7dda\u548c\u7d2b\u5916\u7dda\u7b49\u6ce2\u6bb5\uff0c\u6ce2\u957f\u53d8\u957f\u786e\u5b9e\u662f\u6ce2\u8c31\u5411\u7ea2\u5149\u79fb\u52a8\uff0c\u201c\u7ea2\u79fb\u201d\u7684\u547d\u540d\u5e76\u65e0\u95ee\u9898\uff1b\u800c\u5bf9\u4e8e\u6ce2\u957f\u8f83\u957f\u7684\u7d05\u5916\u7dda\u3001\u5fae\u6ce2\u548c\u7121\u7dda\u96fb\u6ce2\u7b49\u6ce2\u6bb5\uff0c\u5c3d\u7ba1\u6ce2\u957f\u589e\u52a0\u5be6\u969b\u4e0a\u662f\u9060\u96e2\u7ea2\u5149\u6ce2\u6bb5\uff0c\u8fd9\u79cd\u73b0\u8c61\u8fd8\u662f\u88ab\u79f0\u4e3a\u201c\u7ea2\u79fb\u201d\u3002 \u7576\u5149\u6e90\u79fb\u52d5\u9060\u96e2\u89c0\u6e2c\u8005\u65f6\uff0c\u89c2\u6d4b\u8005\u89c2\u5bdf\u5230\u7684\u7535\u78c1\u6ce2\u8c31\u6703\u767c\u751f\u7d05\u79fb\uff0c\u8fd9\u7c7b\u4f3c\u4e8e\u8072\u6ce2\u56e0\u4e3a\u90fd\u535c\u52d2\u6548\u61c9\u9020\u6210\u7684\u983b\u7387\u8b8a\u5316\u3002\u9019\u6a23\u7684\u7d05\u79fb\u73b0\u8c61\u5728\u65e5\u5e38\u751f\u6d3b\u4e2d\u6709\u5f88\u591a\u61c9\u7528\uff0c\u4f8b\u5982\u90fd\u535c\u52d2\u96f7\u9054\u3001\u96f7\u9054\u69cd\uff0c\u5728\u5929\u9ad4\u5149\u8b5c\u5b78\u88cf\uff0c\u4eba\u4eec\u4f7f\u7528\u90fd\u535c\u52d2\u7d05\u79fb\u6e2c\u91cf\u5929\u9ad4\u7684\u7269\u7406\u884c\u70ba\u3002 \u53e6\u4e00\u7a2e\u7d05\u79fb\u7a31\u70ba\u5b87\u5b99\u5b78\u7d05\u79fb\uff0c\u5176\u6a5f\u5236\u70ba\u7a7a\u9593\u7684\u5ea6\u898f\u81a8\u8139\u3002\u9019\u6a5f\u5236\u8aaa\u660e\u4e86\u5728\u9059\u9060\u7684\u661f\u7cfb\u3001\u985e\u661f\u9ad4\uff0c\u661f\u7cfb\u9593\u7684\u6c23\u9ad4\u96f2\u7684\u5149\u8c31\u4e2d\u89c0\u5bdf\u5230\u7684\u7ea2\u79fb\u73b0\u8c61\uff0c\u5176\u7d05\u79fb\u589e\u52a0\u7684\u6bd4\u4f8b\u8207\u8ddd\u96e2\u6210\u6b63\u6bd4\u3002\u9019\u7a2e\u95dc\u4fc2\u4e3a\u5b87\u5b99\u81a8\u8139\u7684\u89c2\u70b9\u63d0\u4f9b\u4e86\u6709\u529b\u7684\u652f\u6301\uff0c\u6bd4\u5982\u5927\u9739\u9742\u5b87\u5b99\u6a21\u578b\u3002 \u53e6\u4e00\u7a2e\u5f62\u5f0f\u7684\u7d05\u79fb\u662f\u5f15\u529b\u7d05\u79fb\uff0c\u5176\u70ba\u4e00\u7a2e\u76f8\u5c0d\u8ad6\u6027\u6548\u61c9\uff0c\u7576\u96fb\u78c1\u8f3b\u5c04\u50b3\u64ad\u9060\u96e2\u5f15\u529b\u5834\u6642\u6703\u89c0\u6e2c\u5230\u9019\u7a2e\u6548\u61c9\uff1b\u53cd\u904e\u4f86\u8aaa\uff0c\u7576\u96fb\u78c1\u8f3b\u5c04\u50b3\u64ad\u63a5\u8fd1\u5f15\u529b\u5834\u6642\u6703\u89c0\u6e2c\u5230\u5f15\u529b\u85cd\u79fb\uff0c\u5176\u6ce2\u9577\u8b8a\u77ed\u3001\u9891\u7387\u5347\u9ad8\u3002 \u8fd9\u88e1 \u662f\u8c31\u7ebf\u539f\u5148\u7684\u6ce2\u957f\uff0c \u662f\u89c2\u6d4b\u5230\u7684\u6ce2\u957f\uff0c",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Die Rotverschiebung ist in der Astronomie die Lagever\u00e4nderung identifizierter Spektrallinien im Emissionsspektrum stellarer Objekte in Richtung der gr\u00f6\u00dferen Wellenl\u00e4ngen. Die Rotverschiebung wird angegeben als Verh\u00e4ltnis der Wellenl\u00e4ngen\u00e4nderung zur urspr\u00fcnglichen Wellenl\u00e4nge: Der Name bezieht sich auf das rote Licht am langwelligen Ende des sichtbaren Spektrums. Bei Infrarot-Emission verschieben sich die Spektrallinien entsprechend in die Richtung der noch l\u00e4ngerwelligen Terahertzstrahlung.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u0440\u0430\u0441\u043d\u043e\u0435 \u0441\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u2014 \u0441\u0434\u0432\u0438\u0433 \u0441\u043f\u0435\u043a\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043b\u0438\u043d\u0438\u0439 \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u0432 \u043a\u0440\u0430\u0441\u043d\u0443\u044e (\u0434\u043b\u0438\u043d\u043d\u043e\u0432\u043e\u043b\u043d\u043e\u0432\u0443\u044e) \u0441\u0442\u043e\u0440\u043e\u043d\u0443. \u042d\u0442\u043e \u044f\u0432\u043b\u0435\u043d\u0438\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435\u043c \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0414\u043e\u043f\u043b\u0435\u0440\u0430 \u0438\u043b\u0438 \u0433\u0440\u0430\u0432\u0438\u0442\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u043a\u0440\u0430\u0441\u043d\u043e\u0433\u043e \u0441\u043c\u0435\u0449\u0435\u043d\u0438\u044f, \u0438\u043b\u0438 \u0438\u0445 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u0435\u0439. \u0421\u0434\u0432\u0438\u0433 \u0441\u043f\u0435\u043a\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043b\u0438\u043d\u0438\u0439 \u0432 \u0444\u0438\u043e\u043b\u0435\u0442\u043e\u0432\u0443\u044e (\u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0432\u043e\u043b\u043d\u043e\u0432\u0443\u044e) \u0441\u0442\u043e\u0440\u043e\u043d\u0443 \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0441\u0438\u043d\u0438\u043c \u0441\u043c\u0435\u0449\u0435\u043d\u0438\u0435\u043c. \u0412\u043f\u0435\u0440\u0432\u044b\u0435 \u0441\u0434\u0432\u0438\u0433 \u0441\u043f\u0435\u043a\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043b\u0438\u043d\u0438\u0439 \u0432 \u0441\u043f\u0435\u043a\u0442\u0440\u0430\u0445 \u0437\u0432\u0451\u0437\u0434 \u043e\u043f\u0438\u0441\u0430\u043b \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0439 \u0444\u0438\u0437\u0438\u043a \u0418\u043f\u043f\u043e\u043b\u0438\u0442 \u0424\u0438\u0437\u043e \u0432 1848 \u0433\u043e\u0434\u0443, \u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u043b \u0434\u043b\u044f \u043e\u0431\u044a\u044f\u0441\u043d\u0435\u043d\u0438\u044f \u0441\u0434\u0432\u0438\u0433\u0430 \u044d\u0444\u0444\u0435\u043a\u0442 \u0414\u043e\u043f\u043b\u0435\u0440\u0430, \u0432\u044b\u0437\u0432\u0430\u043d\u043d\u044b\u0439 \u043b\u0443\u0447\u0435\u0432\u043e\u0439 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c\u044e \u0437\u0432\u0435\u0437\u0434\u044b.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0627\u0644\u0627\u0646\u0632\u064a\u0627\u062d \u0646\u062d\u0648 \u0627\u0644\u0623\u062d\u0645\u0631 \u0647\u064a \u0638\u0627\u0647\u0631\u0629 \u0632\u064a\u0627\u062f\u0629 \u0637\u0648\u0644 \u0627\u0644\u0645\u0648\u062c\u0629 \u0627\u0644\u0643\u0647\u0631\u0648\u0645\u063a\u0646\u0627\u0637\u064a\u0633\u064a\u0629 \u0627\u0644\u0642\u0627\u062f\u0645\u0629 \u0625\u0644\u064a\u0646\u0627 \u0645\u0646 \u0623\u062d\u062f \u0627\u0644\u0623\u062c\u0631\u0627\u0645 \u0627\u0644\u0633\u0645\u0627\u0648\u064a\u0629 \u0646\u062a\u064a\u062c\u0629 \u0633\u0631\u0639\u0629 \u0627\u0628\u062a\u0639\u0627\u062f\u0647 \u0639\u0646\u0627\u060c \u0648\u0647\u064a \u062a\u0634\u0628\u0647 \u0638\u0627\u0647\u0631\u0629 \u062f\u0648\u0628\u0644\u0631\u060c \u0648\u062a\u0639\u062a\u0628\u0631 \u0638\u0627\u0647\u0631\u0629 \u0647\u0627\u0645\u0629 \u0641\u064a \u0639\u0644\u0645 \u0627\u0644\u0641\u0644\u0643\u060c \u0648\u0645\u062b\u0627\u0644 \u0639\u0644\u0649 \u0630\u0644\u0643 : \u0644\u0648 \u0623\u0646 \u0646\u062c\u0645\u0627\u064b \u064a\u062a\u0632\u0627\u064a\u062f \u0625\u0628\u062a\u0639\u0627\u062f\u0647 \u0639\u0646 \u0627\u0644\u0623\u0631\u0636 \u0628\u0633\u0628\u0628 \u062a\u062d\u0631\u0643\u0647 \u0628\u0639\u064a\u062f\u0627\u064b \u0639\u0646\u0627\u060c \u0648\u064a\u0643\u0648\u0646 \u0627\u0644\u0636\u0648\u0621 \u0627\u0644\u0635\u0627\u062f\u0631 \u0645\u0646 \u0647\u0630\u0627 \u0627\u0644\u0646\u062c\u0645 \u0636\u0648\u0621\u0627\u064b \u0623\u0635\u0641\u0631 \u0645\u062b\u0644\u0627 \u064b\u060c \u0641\u0625\u0646 \u0647\u0630\u0627 \u0627\u0644\u0636\u0648\u0621 \u0646\u062a\u064a\u062c\u0629 \u062a\u0632\u0627\u064a\u062f \u062d\u0631\u0643\u0629 \u0625\u0628\u062a\u0639\u0627\u062f \u0627\u0644\u0646\u062c\u0645 \u0641\u062a\u0646\u0632\u0627\u062d \u0641\u064a \u0627\u062a\u062c\u0627\u0647 \u0627\u0644\u0644\u0648\u0646 \u0627\u0644\u0623\u062d\u0645\u0631 \u0644\u0644\u0637\u064a\u0641\u060c \u0647\u0630\u0647 \u0627\u0644\u0638\u0627\u0647\u0631\u0629 \u062a\u062d\u062f\u062b \u0628\u0633\u0628\u0628 \u0623\u0646 \u0637\u0648\u0644 \u0645\u0648\u062c\u0629 \u0627\u0644\u0634\u0639\u0627\u0639 \u0627\u0644\u0642\u0627\u062f\u0645 \u0625\u0644\u064a\u0646\u0627 \u064a\u0632\u062f\u0627\u062f \u0637\u0648\u0644\u0647\u0627 \u0646\u0633\u0628\u064a\u0627 \u064b \u0628\u0633\u0628\u0628 \u062d\u0631\u0643\u0629 \u0627\u0644\u0646\u062c\u0645 \u0641\u064a \u0627\u0644\u0625\u0628\u062a\u0639\u0627\u062f \u0639\u0646\u0627\u060c \u0648\u0647\u0630\u0647 \u0627\u0644\u0632\u064a\u0627\u062f\u0629 \u0641\u064a \u0637\u0648\u0644 \u0645\u0648\u062c\u0629 \u0627\u0644\u0634\u0639\u0627\u0639 \u0627\u0644\u062a\u064a \u062a\u0635\u0644 \u0625\u0644\u064a\u0646\u0627 \u062a\u062c\u0639\u0644\u0647 \u064a\u0638\u0647\u0631 \u0628\u0644\u0648\u0646 \u0622\u062e\u0631 \u0641\u064a \u0625\u062a\u062c\u0627\u0647 \u0627\u0644\u0637\u0631\u0641 \u0627\u0644\u0623\u062d\u0645\u0631 \u0645\u0646 \u0627\u0644\u0637\u064a\u0641\u060c \u0648\u0637\u0628\u0642\u0627 \u0644 \u0638\u0627\u0647\u0631\u0629 \u062f\u0648\u0628\u0644\u0631 \u0641\u0625\u0646 \u0627\u0644\u0639\u0643\u0633 \u064a\u062d\u062f\u062b \u0625\u0630\u0627 \u0643\u0627\u0646 \u0627\u0644\u0646\u062c\u0645 \u064a\u062a\u062d\u0631\u0643 \u0641\u064a \u0625\u062a\u062c\u0627\u0647 \u0627\u0644\u0623\u0631\u0636\u060c \u0641\u0628\u0633\u0628\u0628 \u062d\u0631",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Roodverschuiving in de astronomie en de natuurkunde is het verschijnsel dat het spectrum van uitgezonden licht of andere elektromagnetische straling bij ontvangst naar \"rood\" verschoven is, dat wil zeggen in de richting van de langere golflengten (lagere frequenties). Het tegengestelde effect, waarbij een verschuiving naar de kortere golflengten - naar \"blauw\" - plaatsvindt, heet blauwverschuiving.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "In physics, redshift happens when light or other electromagnetic radiation from an object is increased in wavelength, or shifted to the red end of the spectrum. In general, whether or not the radiation is within the visible spectrum, \"redder\" means an increase in wavelength \u2013 equivalent to a lower frequency and a lower photon energy, in accordance with, respectively, the wave and quantum theories of light.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u8d64\u65b9\u504f\u79fb\uff08\u305b\u304d\u307b\u3046\u3078\u3093\u3044\u3001redshift\uff09\u3068\u306f\u3001\u4e3b\u306b\u5929\u6587\u5b66\u306b\u304a\u3044\u3066\u3001\u89b3\u6e2c\u5bfe\u8c61\u304b\u3089\u306e\u5149\uff08\u53ef\u8996\u5149\u3060\u3051\u3067\u306a\u304f\u5168\u3066\u306e\u6ce2\u9577\u306e\u96fb\u78c1\u6ce2\u3092\u542b\u3080\uff09\u306e\u30b9\u30da\u30af\u30c8\u30eb\u304c\u9577\u6ce2\u9577\u5074\uff08\u53ef\u8996\u5149\u3067\u8a00\u3046\u3068\u8d64\u306b\u8fd1\u3044\u65b9\uff09\u306b\u305a\u308c\u308b\u73fe\u8c61\u3092\u6307\u3059\u3002 \u6ce2\u9577\u03bb\u306e\u30b9\u30da\u30af\u30c8\u30eb\u304c\u0394\u03bb\u3060\u3051\u305a\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u8d64\u65b9\u504f\u79fb\u306e\u91cf z \u3092 \u3068\u5b9a\u7fa9\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Przesuni\u0119cie ku czerwieni, poczerwienienie, redshift \u2013 zjawisko polegaj\u0105ce na tym, \u017ce linie widmowe promieniowania elektromagnetycznego docieraj\u0105ce z niekt\u00f3rych gwiazd lub galaktyk s\u0105 przesuni\u0119te w stron\u0119 wi\u0119kszych d\u0142ugo\u015bci fali (mniejszych cz\u0119stotliwo\u015bci).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Em termos muito simples o desvio para o vermelho (tamb\u00e9m conhecido pelo termo ingl\u00eas redshift) corresponde a uma altera\u00e7\u00e3o na forma como a freq\u00fc\u00eancia das ondas de luz \u00e9 observada no espectrosc\u00f3pio em fun\u00e7\u00e3o da velocidade relativa entre a fonte emissora e o receptor observador. O mesmo fen\u00f4meno ocorre quando o receptor se move em dire\u00e7\u00e3o ou em fuga da fonte, pois o que importa \u00e9 a velocidade relativa entre a fonte e o receptor. No \"redshift\" cosmol\u00f3gico o desvio ocorre devido \u00e0 expans\u00e3o do espa\u00e7o em si, isto \u00e9, o comprimento de onda aumenta diretamente como resultado da expans\u00e3o do espa\u00e7o.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "En f\u00edsica y astronom\u00eda, el corrimiento al rojo, acercamiento hacia el rojo o desplazamiento hacia el rojo (en ingl\u00e9s: redshift), ocurre cuando la radiaci\u00f3n electromagn\u00e9tica, normalmente la luz visible, que se emite o refleja desde un objeto es desplazada hacia el rojo al final del espectro electromagn\u00e9tico. De manera m\u00e1s general, el corrimiento al rojo es definido como un incremento en la longitud de onda de radiaci\u00f3n electromagn\u00e9tica recibida por un detector comparado con la longitud de onda emitida por la fuente. Este incremento en la longitud de onda se corresponde con un decremento en la frecuencia de la radiaci\u00f3n electromagn\u00e9tica. En cambio, el decrecimiento en la longitud de onda es llamado corrimiento al azul.Cualquier incremento en la longitud de onda se llama \"corrimiento hacia el",
+                "lang": "es"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/List_of_the_most_distant_astronomical_objects"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Corrimiento_al_rojo"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.06jyj"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Spostamento_verso_il_rosso"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Gorriranzko_lerrakuntza"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Rud\u00fd_posuv"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u8d64\u65b9\u504f\u79fb"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u039c\u03b5\u03c4\u03b1\u03c4\u03cc\u03c0\u03b9\u03c3\u03b7_\u03c0\u03c1\u03bf\u03c2_\u03c4\u03bf_\u03b5\u03c1\u03c5\u03b8\u03c1\u03cc"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q76250"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Desvio_para_o_vermelho"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Przesuni\u0119cie_ku_czerwieni"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Rotverschiebung"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q76250"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Pergeseran_merah"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/D\u00e9calage_vers_le_rouge"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Roodverschuiving"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc801\uc0c9\ud3b8\uc774"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Doppler_effects"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Physical_cosmology"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Physical_quantities"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Astronomical_spectroscopy"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Redshift.svg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Redshift"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Redshift?oldid=742941671"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://coolcosmos.ipac.caltech.edu/cosmic_classroom/cosmic_reference/redshift.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.astro.ucla.edu/~wright/doppler.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.sciam.com/article.cfm?chanID=sa006&colID=1&articleID=0009F0CA-C523-1213-852383414B7F0147"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.asterism.org/tutorials/tut29-1.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.astronomy.ohio-state.edu/~pogge/Ast162/Unit5/Images/hu_animexp.gif"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Przesuni\u0119cie ku czerwieni, poczerwienienie, redshift \u2013 zjawisko polegaj\u0105ce na tym, \u017ce linie widmowe promieniowania elektromagnetycznego docieraj\u0105ce z niekt\u00f3rych gwiazd lub galaktyk s\u0105 przesuni\u0119te w stron\u0119 wi\u0119kszych d\u0142ugo\u015bci fali (mniejszych cz\u0119stotliwo\u015bci).",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5728\u7269\u7406\u5b78\u9886\u57df\uff0c\u7d05\u79fb\uff08Redshift\uff09\u662f\u6307\u96fb\u78c1\u8f3b\u5c04\u7531\u4e8e\u67d0\u79cd\u539f\u56e0\u5c0e\u81f4\u6ce2\u957f\u589e\u52a0\u3001\u983b\u7387\u964d\u4f4e\u7684\u73b0\u8c61\uff0c\u5728\u53ef\u898b\u5149\u6ce2\u6bb5\uff0c\u8868\u73b0\u4e3a\u5149\u8c31\u7684\u8c31\u7ebf\u671d\u7d05\u7aef\u79fb\u52d5\u4e86\u4e00\u6bb5\u8ddd\u79bb\uff0c\u5373\u6ce2\u957f\u53d8\u957f\u3001\u983b\u7387\u964d\u4f4e\u3002\u76f8\u53cd\u7684\uff0c\u96fb\u78c1\u8f3b\u5c04\u7684\u6ce2\u9577\u53d8\u77ed\u3001\u9891\u7387\u5347\u9ad8\u7684\u73b0\u8c61\u5219\u88ab\u7a31\u70ba\u85cd\u79fb\u3002\u7d05\u79fb\u6700\u521d\u662f\u5728\u4eba\u4eec\u719f\u6089\u7684\u53ef\u89c1\u5149\u6ce2\u6bb5\u53d1\u73b0\u7684\uff0c\u968f\u7740\u5bf9\u7535\u78c1\u6ce2\u8c31\u5404\u4e2a\u6ce2\u6bb5\u7684\u4e86\u89e3\u9010\u6b65\u6df1\u5165\uff0c\u4efb\u4f55\u7535\u78c1\u8f90\u5c04\u7684\u6ce2\u9577\u589e\u52a0\u90fd\u53ef\u4ee5\u79f0\u4e3a\u7d05\u79fb\u3002\u5bf9\u4e8e\u6ce2\u957f\u8f83\u77ed\u7684\u03b3\u5c04\u7dda\u3001X-\u5c04\u7dda\u548c\u7d2b\u5916\u7dda\u7b49\u6ce2\u6bb5\uff0c\u6ce2\u957f\u53d8\u957f\u786e\u5b9e\u662f\u6ce2\u8c31\u5411\u7ea2\u5149\u79fb\u52a8\uff0c\u201c\u7ea2\u79fb\u201d\u7684\u547d\u540d\u5e76\u65e0\u95ee\u9898\uff1b\u800c\u5bf9\u4e8e\u6ce2\u957f\u8f83\u957f\u7684\u7d05\u5916\u7dda\u3001\u5fae\u6ce2\u548c\u7121\u7dda\u96fb\u6ce2\u7b49\u6ce2\u6bb5\uff0c\u5c3d\u7ba1\u6ce2\u957f\u589e\u52a0\u5be6\u969b\u4e0a\u662f\u9060\u96e2\u7ea2\u5149\u6ce2\u6bb5\uff0c\u8fd9\u79cd\u73b0\u8c61\u8fd8\u662f\u88ab\u79f0\u4e3a\u201c\u7ea2\u79fb\u201d\u3002 \u7576\u5149\u6e90\u79fb\u52d5\u9060\u96e2\u89c0\u6e2c\u8005\u65f6\uff0c\u89c2\u6d4b\u8005\u89c2\u5bdf\u5230\u7684\u7535\u78c1\u6ce2\u8c31\u6703\u767c\u751f\u7d05\u79fb\uff0c\u8fd9\u7c7b\u4f3c\u4e8e\u8072\u6ce2\u56e0\u4e3a\u90fd\u535c\u52d2\u6548\u61c9\u9020\u6210\u7684\u983b\u7387\u8b8a\u5316\u3002\u9019\u6a23\u7684\u7d05\u79fb\u73b0\u8c61\u5728\u65e5\u5e38\u751f\u6d3b\u4e2d\u6709\u5f88\u591a\u61c9\u7528\uff0c\u4f8b\u5982\u90fd\u535c\u52d2\u96f7\u9054\u3001\u96f7\u9054\u69cd\uff0c\u5728\u5929\u9ad4\u5149\u8b5c\u5b78\u88cf\uff0c\u4eba\u4eec\u4f7f\u7528\u90fd\u535c\u52d2\u7d05\u79fb\u6e2c\u91cf\u5929\u9ad4\u7684\u7269\u7406\u884c\u70ba\u3002 \u53e6\u4e00\u7a2e\u7d05\u79fb\u7a31\u70ba\u5b87\u5b99\u5b78\u7d05\u79fb\uff0c\u5176\u6a5f\u5236\u70ba\u7a7a\u9593\u7684\u5ea6\u898f\u81a8\u8139\u3002\u9019\u6a5f\u5236\u8aaa\u660e\u4e86\u5728\u9059\u9060\u7684\u661f\u7cfb\u3001\u985e\u661f\u9ad4\uff0c\u661f\u7cfb\u9593\u7684\u6c23\u9ad4\u96f2\u7684\u5149\u8c31\u4e2d\u89c0\u5bdf\u5230\u7684\u7ea2\u79fb\u73b0\u8c61\uff0c\u5176\u7d05\u79fb\u589e\u52a0\u7684\u6bd4\u4f8b\u8207\u8ddd\u96e2\u6210\u6b63\u6bd4\u3002\u9019\u7a2e\u95dc\u4fc2\u4e3a\u5b87\u5b99\u81a8\u8139\u7684\u89c2\u70b9\u63d0\u4f9b\u4e86\u6709\u529b\u7684\u652f\u6301\uff0c\u6bd4\u5982\u5927\u9739\u9742\u5b87\u5b99\u6a21\u578b\u3002 \u53e6\u4e00\u7a2e\u5f62\u5f0f\u7684\u7d05\u79fb\u662f\u5f15\u529b\u7d05\u79fb\uff0c\u5176\u70ba\u4e00\u7a2e\u76f8\u5c0d\u8ad6\u6027\u6548\u61c9\uff0c\u7576\u96fb\u78c1\u8f3b\u5c04\u50b3\u64ad\u9060\u96e2\u5f15\u529b\u5834\u6642\u6703\u89c0\u6e2c\u5230\u9019\u7a2e\u6548\u61c9\uff1b\u53cd\u904e\u4f86\u8aaa\uff0c\u7576\u96fb\u78c1\u8f3b\u5c04\u50b3\u64ad\u63a5\u8fd1\u5f15\u529b\u5834\u6642\u6703\u89c0\u6e2c\u5230\u5f15\u529b\u85cd\u79fb\uff0c\u5176\u6ce2\u9577\u8b8a\u77ed\u3001\u9891\u7387\u5347\u9ad8\u3002 \u7ea2\u79fb\u7684\u5927\u5c0f\u7531\u201c\u7ea2\u79fb\u503c\u201d\u8861\u91cf\uff0c\u7ea2\u79fb\u503c\u7528Z\u8868\u793a\uff0c\u5b9a\u4e49\u4e3a\uff1a \u8fd9\u88e1 \u662f\u8c31\u7ebf\u539f\u5148\u7684\u6ce2\u957f\uff0c \u662f\u89c2\u6d4b\u5230\u7684\u6ce2\u957f\uff0c \u662f\u8c31\u7ebf\u539f\u5148\u7684\u9891\u7387\uff0c \u662f\u89c2\u6d4b\u5230\u7684\u9891\u7387\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0641\u0628\u0631\u0627\u064a\u0631 2016) \u0627\u0644\u0627\u0646\u0632\u064a\u0627\u062d \u0646\u062d\u0648 \u0627\u0644\u0623\u062d\u0645\u0631 \u0647\u064a \u0638\u0627\u0647\u0631\u0629 \u0632\u064a\u0627\u062f\u0629 \u0637\u0648\u0644 \u0627\u0644\u0645\u0648\u062c\u0629 \u0627\u0644\u0643\u0647\u0631\u0648\u0645\u063a\u0646\u0627\u0637\u064a\u0633\u064a\u0629 \u0627\u0644\u0642\u0627\u062f\u0645\u0629 \u0625\u0644\u064a\u0646\u0627 \u0645\u0646 \u0623\u062d\u062f \u0627\u0644\u0623\u062c\u0631\u0627\u0645 \u0627\u0644\u0633\u0645\u0627\u0648\u064a\u0629 \u0646\u062a\u064a\u062c\u0629 \u0633\u0631\u0639\u0629 \u0627\u0628\u062a\u0639\u0627\u062f\u0647 \u0639\u0646\u0627\u060c \u0648\u0647\u064a \u062a\u0634\u0628\u0647 \u0638\u0627\u0647\u0631\u0629 \u062f\u0648\u0628\u0644\u0631\u060c \u0648\u062a\u0639\u062a\u0628\u0631 \u0638\u0627\u0647\u0631\u0629 \u0647\u0627\u0645\u0629 \u0641\u064a \u0639\u0644\u0645 \u0627\u0644\u0641\u0644\u0643\u060c \u0648\u0645\u062b\u0627\u0644 \u0639\u0644\u0649 \u0630\u0644\u0643 : \u0644\u0648 \u0623\u0646 \u0646\u062c\u0645\u0627\u064b \u064a\u062a\u0632\u0627\u064a\u062f \u0625\u0628\u062a\u0639\u0627\u062f\u0647 \u0639\u0646 \u0627\u0644\u0623\u0631\u0636 \u0628\u0633\u0628\u0628 \u062a\u062d\u0631\u0643\u0647 \u0628\u0639\u064a\u062f\u0627\u064b \u0639\u0646\u0627\u060c \u0648\u064a\u0643\u0648\u0646 \u0627\u0644\u0636\u0648\u0621 \u0627\u0644\u0635\u0627\u062f\u0631 \u0645\u0646 \u0647\u0630\u0627 \u0627\u0644\u0646\u062c\u0645 \u0636\u0648\u0621\u0627\u064b \u0623\u0635\u0641\u0631 \u0645\u062b\u0644\u0627 \u064b\u060c \u0641\u0625\u0646 \u0647\u0630\u0627 \u0627\u0644\u0636\u0648\u0621 \u0646\u062a\u064a\u062c\u0629 \u062a\u0632\u0627\u064a\u062f \u062d\u0631\u0643\u0629 \u0625\u0628\u062a\u0639\u0627\u062f \u0627\u0644\u0646\u062c\u0645 \u0641\u062a\u0646\u0632\u0627\u062d \u0641\u064a \u0627\u062a\u062c\u0627\u0647 \u0627\u0644\u0644\u0648\u0646 \u0627\u0644\u0623\u062d\u0645\u0631 \u0644\u0644\u0637\u064a\u0641\u060c \u0647\u0630\u0647 \u0627\u0644\u0638\u0627\u0647\u0631\u0629 \u062a\u062d\u062f\u062b \u0628\u0633\u0628\u0628 \u0623\u0646 \u0637\u0648\u0644 \u0645\u0648\u062c\u0629 \u0627\u0644\u0634\u0639\u0627\u0639 \u0627\u0644\u0642\u0627\u062f\u0645 \u0625\u0644\u064a\u0646\u0627 \u064a\u0632\u062f\u0627\u062f \u0637\u0648\u0644\u0647\u0627 \u0646\u0633\u0628\u064a\u0627 \u064b \u0628\u0633\u0628\u0628 \u062d\u0631\u0643\u0629 \u0627\u0644\u0646\u062c\u0645 \u0641\u064a \u0627\u0644\u0625\u0628\u062a\u0639\u0627\u062f \u0639\u0646\u0627\u060c \u0648\u0647\u0630\u0647 \u0627\u0644\u0632\u064a\u0627\u062f\u0629 \u0641\u064a \u0637\u0648\u0644 \u0645\u0648\u062c\u0629 \u0627\u0644\u0634\u0639\u0627\u0639 \u0627\u0644\u062a\u064a \u062a\u0635\u0644 \u0625\u0644\u064a\u0646\u0627 \u062a\u062c\u0639\u0644\u0647 \u064a\u0638\u0647\u0631 \u0628\u0644\u0648\u0646 \u0622\u062e\u0631 \u0641\u064a \u0625\u062a\u062c\u0627\u0647 \u0627\u0644\u0637\u0631\u0641 \u0627\u0644\u0623\u062d\u0645\u0631 \u0645\u0646 \u0627\u0644\u0637\u064a\u0641\u060c \u0648\u0637\u0628\u0642\u0627 \u0644 \u0638\u0627\u0647\u0631\u0629 \u062f\u0648\u0628\u0644\u0631 \u0641\u0625\u0646 \u0627\u0644\u0639\u0643\u0633 \u064a\u062d\u062f\u062b \u0625\u0630\u0627 \u0643\u0627\u0646 \u0627\u0644\u0646\u062c\u0645 \u064a\u062a\u062d\u0631\u0643 \u0641\u064a \u0625\u062a\u062c\u0627\u0647 \u0627\u0644\u0623\u0631\u0636\u060c \u0641\u0628\u0633\u0628\u0628 \u062d\u0631\u0643\u062a\u0647 \u064a\u0646\u0636\u063a\u0637 \u0637\u0648\u0644 \u0645\u0648\u062c\u0629 \u0634\u0639\u0627\u0639 \u0627\u0644\u0636\u0648\u0621 \u0627\u0644\u0642\u0627\u062f\u0645 \u0625\u0644\u064a\u0646\u0627 \u0641\u062a\u0635\u0628\u062d \u0642\u0635\u064a\u0631\u0629 \u0646\u0633\u0628\u064a\u0627 \u064b \u0645\u0645\u0627 \u064a\u062c\u0639\u0644 \u0627\u0644\u0637\u064a\u0641 \u0627\u0644\u0630\u064a \u0646\u0633\u062c\u0644\u0647 \u0644\u0647\u0630\u0627 \u0627\u0644\u0646\u062c\u0645 \u0645\u0646\u0632\u0627\u062d\u0627\u064b \u0641\u064a \u0625\u062a\u062c\u0627\u0647 \u0627\u0644\u0644\u0648\u0646 \u0627\u0644\u0628\u0646\u0641\u0633\u062c\u064a \u0645\u0646 \u0627\u0644\u0637\u064a\u0641. \n*  \u0648\u0628\u0635\u0641\u0629 \u0639\u0627\u0645\u0629 \u0641\u0647\u0646\u0627\u0643 \u062b\u0644\u0627\u062b\u0629 \u0645\u0633\u0628\u0628\u0627\u062a \u0644\u0644\u0625\u0646\u0632\u064a\u0627\u062d \u0627\u0644\u0623\u062d\u0645\u0631 \u0644\u0644\u0636\u0648\u0621 \u0627\u0644\u0642\u0627\u062f\u0645 \u0625\u0644\u064a\u0646\u0627 \u0645\u0646 \u0623\u0639\u0645\u0627\u0642 \u0627\u0644\u0643\u0648\u0646 : \n*  1. \u0627\u0646\u0632\u064a\u0627\u062d \u0623\u062d\u0645\u0631 \u0628\u0633\u0628\u0628 \u0638\u0627\u0647\u0631\u0629 \u062f\u0648\u0628\u0644\u0631 \n*  2. \u0627\u0646\u0632\u064a\u0627\u062d \u0623\u062d\u0645\u0631 \u064a\u0646\u0634\u0623 \u0639\u0646 \u0627\u062e\u062a\u0644\u0627\u0641 \u0627\u0644\u062c\u0627\u0630\u0628\u064a\u0629 \u0639\u0644\u064a \u0627\u0644\u0623\u0631\u0636 \u0639\u0646 \u0627\u0644\u062c\u0627\u0630\u0628\u064a\u0629 \u0641\u064a \u0627\u0644\u0646\u062c\u0645 \u0648\u0647\u0630\u0627 \u064a\u062a\u0628\u0639 \u0627\u0644\u0646\u0638\u0631\u064a\u0629 \u0627\u0644\u0646\u0633\u0628\u064a\u0629 \u0644\u0623\u064a\u0646\u0634\u062a\u0627\u064a\u0646. \n*  3. \u0627\u0646\u0632\u064a\u0627\u062d \u0623\u062d\u0645\u0631 \u0628\u0633\u0628\u0628 \u062a\u0645\u062f\u062f \u0627\u0644\u0643\u0648\u0646 \u0648\u0627\u0633\u062a\u0645\u0631\u0627\u0631\u0647 \u0641\u064a \u0627\u0644\u0625\u062a\u0633\u0627\u0639\u060c \u0641\u062c\u0645\u064a\u0639 \u0627\u0644\u0646\u062c\u0648\u0645 \u0648\u0627\u0644\u0645\u062c\u0631\u0627\u062a \u062a\u0628\u062a\u0639\u062f \u0639\u0646\u0627. \u0648\u0646\u0638\u0631\u0627 \u0644\u0628\u0639\u062f \u0627\u0644\u0645\u0633\u0627\u0641\u0627\u062a \u0627\u0644\u0641\u0644\u0643\u064a\u0629\u060c \u0648\u0627\u0644\u062a\u064a \u062a\u0640\u064f\u0642\u0627\u0633 \u0628\u0627\u0644\u0633\u0646\u0648\u0627\u062a \u0627\u0644\u0636\u0648\u0626\u064a\u0629\u060c \u0648\u0646\u062d\u0646 \u0646\u0639\u0631\u0641 \u0623\u0646 \u0627\u0644\u0636\u0648\u0621 \u064a\u0623\u062e\u0630 \u0645\u0626\u0627\u062a \u0627\u0644\u0633\u0646\u0648\u0627\u062a \u062d\u062a\u0649 \u064a\u0642\u0637\u0639 \u0645\u0626\u0627\u062a \u0627\u0644\u0633\u0646\u0648\u0627\u062a \u0627\u0644\u0636\u0648\u0626\u064a\u0629 \u062d\u062a\u0649 \u064a\u0635\u0644 \u0625\u0644\u064a\u0646\u0627\u060c \u0648\u062e\u0644\u0627\u0644 \u0647\u0630\u0647 \u0627\u0644\u0633\u0646\u0648\u0627\u062a \u0627\u0644\u062a\u064a \u064a\u062a\u062d\u0631\u0643\u0647\u0627 \u0627\u0644\u0636\u0648\u0621 \u0625\u0644\u064a\u0646\u0627 \u064a\u0643\u0648\u0646 \u0627\u0644\u0646\u062c\u0645 \u0627\u0644\u0630\u064a \u0623\u0635\u062f\u0631 \u0647\u0630\u0627 \u0627\u0644\u0636\u0648\u0621 \u0642\u062f \u062a\u062d\u0631\u0643 \u0645\u0646 \u0645\u0643\u0627\u0646\u0647 \u0648\u0623\u0635\u0628\u062d \u0641\u064a \u0645\u0643\u0627\u0646 \u0622\u062e\u0631\u060c \u0623\u0648 \u0631\u0628\u0645\u0627 \u0642\u062f \u0625\u0646\u0641\u062c\u0631 \u0627\u0644\u0646\u062c\u0645 \u0648\u062a\u0644\u0627\u0634\u064a \u0636\u0648\u0624\u0647 \u0648\u0644\u0645 \u064a\u0635\u0644 \u0625\u0644\u0649 \u0627\u0644\u0623\u0631\u0636 \u0628\u0639\u062f. \n*  \u0623\u0635\u0628\u062d \u0627\u0644\u0625\u0646\u0632\u064a\u0627\u062d \u0627\u0644\u0623\u062d\u0645\u0631 \u0645\u0642\u064a\u0627\u0633\u0627 \u064b \u0644\u062a\u062d\u062f\u064a\u062f \u0623\u0628\u0639\u0627\u062f \u0627\u0644\u0646\u062c\u0648\u0645 \u0648\u0627\u0644\u0645\u062c\u0631\u0627\u062a \u0639\u0646\u0627\u060c \u0648\u0623\u0648\u0644 \u0645\u0646 \u0625\u0633\u062a\u062e\u062f\u0645\u0647 \u0643\u0627\u0646 \u0639\u0627\u0644\u0645 \u0627\u0644\u0641\u0644\u0643 \u0627\u0644\u0634\u0647\u064a\u0631 \u0625\u062f\u0648\u064a\u0646 \u0647\u0627\u0628\u0644 \u0641\u064a \u0627\u0644\u0639\u0634\u0631\u064a\u0646\u064a\u0627\u062a\u060c \u062d\u064a\u062b \u0643\u0627\u0646 \u064a\u0631\u0627\u0642\u0628 \u0627\u0644\u0645\u062c\u0631\u0627\u062a \u0627\u0644\u0645\u062d\u064a\u0637\u0629 \u0628\u0646\u0627 \u0648\u0622\u062e\u0631\u0649 \u0641\u064a \u0623\u0639\u0645\u0627\u0642 \u0627\u0644\u0643\u0648\u0646\u060c \u0648\u0644\u0627\u062d\u0638 \u0623\u0646 \u0627\u0644\u0645\u062c\u0631\u0627\u062a \u0627\u0644\u0642\u0631\u064a\u0628\u0629 \u0645\u0646\u0627 \u0644\u0647\u0627 \u0625\u0646\u0632\u064a\u0627\u062d \u0623\u062d\u0645\u0631 \u0637\u0641\u064a\u0641 \u0641\u064a \u062d\u064a\u0646 \u0623\u0646 \u0623\u0637\u064a\u0627\u0641 \u0627\u0644\u0645\u062c\u0631\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0628\u0639\u062f \u0639\u0646\u0627 \u062a\u0640\u064f\u0638\u0647\u0631 \u0623\u0637\u064a\u0627\u0641\u0627 \u064b \u062a\u062a\u0632\u0627\u064a\u062f \u0625\u0632\u0627\u062d\u062a\u0647\u0627 \u0646\u062d\u0648 \u0627\u0644\u0623\u062d\u0645\u0631 \u0628\u062a\u0632\u0627\u064a\u062f \u0628\u0639\u062f\u0647\u0627 \u0639\u0646 \u0627\u0644\u0623\u0631\u0636\u060c \u0648\u0643\u0627\u0646 \u0630\u0644\u0643 \u063a\u0631\u064a\u0628\u0627\u064b \u0644\u0647\u060c \u0644\u0623\u0646 \u0643\u0627\u0646 \u0627\u0644\u0625\u0639\u062a\u0642\u0627\u062f \u0627\u0644\u0633\u0627\u0626\u062f \u0623\u0646 \u0627\u0644\u0645\u062c\u0631\u0627\u062a \u062b\u0627\u0628\u062a\u0629 \u0641\u064a \u0627\u0644\u0643\u0648\u0646\u060c \u0648\u0643\u0627\u0646\u062a \u0646\u062a\u064a\u062c\u0629 \u0628\u062d\u062b\u0647 \u0645\u062f\u0647\u0634\u0629 \u0641\u0646\u062d\u0646 \u0627\u0644\u0622\u0646 \u0646\u0639\u0631\u0641 \u0645\u0646\u0630 \u0646\u0634\u0631 \u0647\u0627\u0628\u0644 \u0646\u062a\u064a\u062c\u0629 \u0623\u0628\u062d\u0627\u062b\u0647 \u0639\u0627\u0645 1929 \u0623\u0646 \u0627\u0644\u0645\u062c\u0631\u0627\u062a \u062a\u0628\u062a\u0639\u062f \u0639\u0646\u0627 \u0648\u062a\u062a\u0632\u0627\u064a\u062f \u0633\u0631\u0639\u0627\u062a\u0647\u0627 \u0628\u062a\u0632\u0627\u064a\u062f \u0628\u0639\u062f\u0647\u0627 \u0639\u0646\u0627\u060c \u0648\u0630\u0644\u0643 \u0641\u064a \u062c\u0645\u064a\u0639 \u0627\u0644\u0625\u062a\u062c\u0627\u0647\u0627\u062a \u0627\u0644\u062a\u064a \u0646\u0646\u0638\u0631 \u0625\u0644\u064a\u0647\u0627 \u0641\u064a \u0627\u0644\u0641\u0636\u0627\u0621 \u0627\u0644\u0643\u0648\u0646\u064a\u060c \u0648\u0647\u0630\u0627 \u064a\u0639\u0646\u064a \u0628\u0645\u0627 \u0644\u0627\u064a\u062f\u0639 \u0645\u062c\u0627\u0644\u0627\u064b \u0644\u0644\u0634\u0643 \u0623\u0646 \u0627\u0644\u0643\u0648\u0646 \u0643\u0644\u0647 \u0641\u064a \u062d\u0627\u0644\u0629 \u0625\u062a\u0633\u0627\u0639 \u0645\u0633\u062a\u0645\u0631. \u0648\u0639\u0646 \u0637\u0631\u064a\u0642 \u0627\u0644\u0625\u0646\u0632\u064a\u0627\u062d \u0627\u0644\u0623\u062d\u0645\u0631 \u064a\u0633\u062a\u0637\u064a\u0639 \u0639\u0644\u0645\u0627\u0621 \u0627\u0644\u0641\u0644\u0643 \u0645\u0639\u0631\u0641\u0629 \u0625\u062a\u062c\u0627\u0647 \u062f\u0648\u0631\u0627\u0646 \u0627\u0644\u0645\u062c\u0631\u0627\u062a \u0627\u0644\u062a\u064a \u0646\u0631\u0627\u0647\u0627 \u0645\u0646 \u062c\u0627\u0646\u0628\u0647\u0627. \u062a\u0638\u0647\u0631 \u062a\u0644\u0643 \u0627\u0644\u0645\u062c\u0631\u0627\u062a \u0644\u0646\u0627 \u0645\u062b\u0644 \u0627\u0644\u0642\u0631\u0635 \u0627\u0644\u0630\u064a \u064a\u062f\u0648\u0631 \u062d\u0648\u0644 \u0645\u062d\u0648\u0631 \u0639\u0645\u0648\u062f\u064a \u0639\u0644\u064a \u0645\u0631\u0643\u0632\u0647\u060c \u0648\u0646\u0646\u0638\u0631 \u0625\u0644\u064a\u0647 \u0645\u0646 \u0627\u0644\u062c\u0627\u0646\u0628. \u0641\u062c\u0632\u0621 \u0627\u0644\u0645\u062c\u0631\u0629 \u0627\u0644\u0630\u064a \u064a\u062f\u0648\u0631 \u0641\u064a \u0627\u062a\u062c\u0627\u0647 \u0627\u0644\u0623\u0631\u0636 \u064a\u0638\u0647\u0631 \u0644\u0648\u0646\u0647 \u0623\u0632\u0631\u0642\u060c \u0648\u0623\u0645\u0627 \u0627\u0644\u0637\u0631\u0641 \u0627\u0644\u0622\u062e\u0631 \u0644\u0644\u0645\u062c\u0631\u0629 \u0627\u0644\u0630\u064a \u064a\u062f\u0648\u0631 \u0641\u064a \u0625\u062a\u062c\u0627\u0647 \u064a\u0628\u062a\u0639\u062f \u0639\u0646 \u0627\u0644\u0623\u0631\u0636\u060c \u0646\u0631\u0627\u0647 \u0628\u0644\u0648\u0646 \u0623\u062d\u0645\u0631. \n*  \u0648\u0643\u0645\u0627 \u0639\u0631\u0641\u0646\u0627 \u0623\u0646 \u0627\u0644\u0625\u0646\u0632\u064a\u0627\u062d \u0627\u0644\u0623\u062d\u0645\u0631 \u0644\u0644\u0636\u0648\u0621\u060c \u064a\u0634\u0628\u0647 \u0638\u0627\u0647\u0631\u0629 \u062f\u0648\u0628\u0644\u0631 \u0627\u0644\u062a\u064a \u062a\u062d\u062f\u062b \u0644\u0644\u0645\u0648\u062c\u0627\u062a \u0627\u0644\u0635\u0648\u062a\u064a\u0629\u060c \u0648\u0646\u0644\u0627\u062d\u0638 \u062a\u0644\u0643 \u0627\u0644\u0638\u0627\u0647\u0631\u0629 \u0623\u062d\u064a\u0627\u0646\u0627\u064b \u0641\u064a \u062d\u064a\u0627\u062a\u0646\u0627 \u0627\u0644\u064a\u0648\u0645\u064a\u0629\u060c \u0641\u0639\u0646\u062f\u0645\u0627 \u062a\u0642\u062a\u0631\u0628 \u0628\u0625\u062a\u062c\u0627\u0647\u0643 \u0633\u064a\u0627\u0631\u0629 \u0645\u0637\u0627\u0641\u0626 \u0623\u0648 \u0625\u0633\u0639\u0627\u0641\u060c \u0641\u062a\u0633\u0645\u0639 \u0635\u0641\u0627\u0631\u062a\u0647\u0627 \u0628\u062a\u0631\u062f\u062f \u0623\u0639\u0644\u064a \u0639\u0646 \u062a\u0631\u062f\u062f \u0627\u0644\u0635\u0648\u062a \u0627\u0644\u0630\u064a \u062a\u0633\u0645\u0639\u0647 \u0628\u0639\u062f \u0623\u0646 \u062a\u0645\u0631 \u0645\u0646 \u0623\u0645\u0627\u0645\u0643 \u0648\u062a\u0628\u062a\u0639\u062f \u0639\u0646\u0643\u060c \u0648\u062a\u0641\u0633\u064a\u0631 \u0630\u0644\u0643 \u0623\u0646 \u0627\u0644\u0645\u0648\u062c\u0627\u062a \u0627\u0644\u0635\u0648\u062a\u064a\u0629 \u0627\u0644\u0642\u0627\u062f\u0645\u0629 \u0627\u0644\u064a\u0643 \u0645\u0646 \u0627\u0644\u0633\u064a\u0627\u0631\u0629 \u0627\u0644\u0645\u062a\u062c\u0647\u0647 \u0646\u062d\u0648\u0643 \u064a\u0646\u0636\u063a\u0637 \u0637\u0648\u0644 \u0645\u0648\u062c\u062a\u0647\u0627 \u0648\u0628\u0627\u0644\u062a\u0627\u0644\u064a \u064a\u0632\u062f\u0627\u062f \u062a\u0631\u062f\u062f\u0647\u0627\u060c \u0641\u064a \u062d\u064a\u0646 \u0623\u0646 \u0637\u0648\u0644 \u0645\u0648\u062c\u0627\u062a \u0627\u0644\u0635\u0648\u062a\u064a\u0629 \u0627\u0644\u0635\u0627\u062f\u0631\u0629 \u0645\u0646 \u0627\u0644\u0633\u064a\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u062a\u0639\u062f\u0629 \u0639\u0646\u0643 \u064a\u0632\u062f\u0627\u062f \u0637\u0648\u0644\u0647\u0627 \u0627\u0644\u0645\u0648\u062c\u064a\u060c \u0648\u0647\u0630\u0627 \u064a\u0639\u0646\u064a \u0623\u0646 \u062a\u0631\u062f\u062f\u0647\u0627 \u064a\u0642\u0644.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "In physics, redshift happens when light or other electromagnetic radiation from an object is increased in wavelength, or shifted to the red end of the spectrum. In general, whether or not the radiation is within the visible spectrum, \"redder\" means an increase in wavelength \u2013 equivalent to a lower frequency and a lower photon energy, in accordance with, respectively, the wave and quantum theories of light. Some redshifts are an example of the Doppler effect, familiar in the change of apparent pitches of sirens and frequency of the sound waves emitted by speeding vehicles. A redshift occurs whenever a light source moves away from an observer. A special instance of this is the cosmological redshift, which is due to the expansion of the universe, and sufficiently distant light sources (generally more than a few million light years away) show redshift corresponding to the rate of increase in their distance from Earth. Finally, gravitational redshift is a relativistic effect observed in electromagnetic radiation moving out of gravitational fields. Conversely, a decrease in wavelength is called blueshift and is generally seen when a light-emitting object moves toward an observer or when electromagnetic radiation moves into a gravitational field. However, redshift is a more common term and sometimes blueshift is referred to as negative redshift. Knowledge of redshifts and blueshifts has been applied to develop several terrestrial technologies such as Doppler radar and radar guns. Redshifts are also seen in the spectroscopic observations of astronomical objects. Its value is represented by the letter z. A special relativistic  (and its classical approximation) can be used to calculate the redshift of a nearby object when spacetime is flat. However, in many contexts, such as black holes and Big Bang cosmology, redshifts must be calculated using general relativity. Special relativistic, gravitational, and cosmological redshifts can be understood under the umbrella of frame transformation laws. There exist other physical processes that can lead to a shift in the frequency of electromagnetic radiation, including scattering and optical effects; however, the resulting changes are distinguishable from true redshift and are not generally referred to as such (see section on ).",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "\u8d64\u65b9\u504f\u79fb\uff08\u305b\u304d\u307b\u3046\u3078\u3093\u3044\u3001redshift\uff09\u3068\u306f\u3001\u4e3b\u306b\u5929\u6587\u5b66\u306b\u304a\u3044\u3066\u3001\u89b3\u6e2c\u5bfe\u8c61\u304b\u3089\u306e\u5149\uff08\u53ef\u8996\u5149\u3060\u3051\u3067\u306a\u304f\u5168\u3066\u306e\u6ce2\u9577\u306e\u96fb\u78c1\u6ce2\u3092\u542b\u3080\uff09\u306e\u30b9\u30da\u30af\u30c8\u30eb\u304c\u9577\u6ce2\u9577\u5074\uff08\u53ef\u8996\u5149\u3067\u8a00\u3046\u3068\u8d64\u306b\u8fd1\u3044\u65b9\uff09\u306b\u305a\u308c\u308b\u73fe\u8c61\u3092\u6307\u3059\u3002 \u6ce2\u9577\u03bb\u306e\u30b9\u30da\u30af\u30c8\u30eb\u304c\u0394\u03bb\u3060\u3051\u305a\u308c\u3066\u3044\u308b\u5834\u5408\u3001\u8d64\u65b9\u504f\u79fb\u306e\u91cf z \u3092 \u3068\u5b9a\u7fa9\u3059\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Lo spostamento verso il rosso (chiamato anche effetto batocromo o, in inglese, redshift) \u00e8 il fenomeno per cui la frequenza della luce, quando osservata in certe circostanze, \u00e8 pi\u00f9 bassa della frequenza che aveva quando \u00e8 stata emessa. Ci\u00f2 accade in genere quando la sorgente di luce si muove allontanandosi dall'osservatore (o equivalentemente, essendo il moto relativo, quando l'osservatore si allontana dalla sorgente). Pi\u00f9 in particolare, si parla di \"spostamento verso il rosso\" quando, nell'osservare lo spettro della luce emessa da galassie, quasar o supernovae lontane, questo appare spostato verso frequenze minori, se confrontato con lo spettro dei corrispondenti pi\u00f9 vicini. Dato che nella luce visibile il rosso \u00e8 il colore con la frequenza pi\u00f9 bassa, il fenomeno ha preso questo nome, e viene utilizzato in relazione ad ogni tipo di frequenza, anche per radiazioni che si collocano nelle radiofrequenze. L'interpretazione standard della cosmologia \u00e8 che le galassie sono in allontanamento le une dalle altre, e pi\u00f9 in generale che l'Universo \u00e8 in una fase di espansione, al momento attuale in accelerazione, iniziata col Big Bang.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Le d\u00e9calage vers le rouge (redshift en anglais) est un ph\u00e9nom\u00e8ne astronomique de d\u00e9calage vers les grandes longueurs d'onde des raies spectrales et de l'ensemble du spectre \u2014 ce qui se traduit par un d\u00e9calage vers le rouge pour le spectre visible \u2014 observ\u00e9 parmi les objets astronomiques lointains. \u00c0 la suite des travaux de Tolman et Hubble c'est un ph\u00e9nom\u00e8ne bien document\u00e9, consid\u00e9r\u00e9 comme la preuve initiale de l'expansion de l'Univers et du mod\u00e8le cosmologique avec le Big Bang. Dans cette acception, ce ph\u00e9nom\u00e8ne n'est pas produit par effet Doppler-Fizeau, mais est une cons\u00e9quence de la dilatation de l'espace provoqu\u00e9e par l'expansion de l'univers. Le terme est \u00e9galement employ\u00e9 pour la notion plus g\u00e9n\u00e9rale de d\u00e9calage spectral, soit vers le rouge, soit vers le bleu (d\u00e9calage vers le bleu), observ\u00e9 parmi les objets astronomiques selon qu'ils s'\u00e9loignent ou se rapprochent, ind\u00e9pendamment du mouvement g\u00e9n\u00e9ral d'expansion. Dans cette acception, il est synonyme d'effet Doppler-Fizeau.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Em termos muito simples o desvio para o vermelho (tamb\u00e9m conhecido pelo termo ingl\u00eas redshift) corresponde a uma altera\u00e7\u00e3o na forma como a freq\u00fc\u00eancia das ondas de luz \u00e9 observada no espectrosc\u00f3pio em fun\u00e7\u00e3o da velocidade relativa entre a fonte emissora e o receptor observador. Devido \u00e0 invari\u00e2ncia da velocidade da luz no v\u00e1cuo e admitindo um emissor e um receptor em repouso relativo, um raio de luz \u00e9 captado como uma cor padr\u00e3o em fun\u00e7\u00e3o de sua frequ\u00eancia. Na descri\u00e7\u00e3o ondulat\u00f3ria, o per\u00edodo (inverso da frequ\u00eancia da luz) \u00e9 definido pelo intervalo de tempo medido entre duas cristas consecutivas da onda. Quando o emissor e o observador est\u00e3o em repouso relativo, ambos medem a mesma frequ\u00eancia. Se o emissor (fonte de luz) se move na dire\u00e7\u00e3o do receptor, o intervalo de tempo que o receptor mede entre duas cristas consecutivas ser\u00e1 inferior ao medido pelo emissor, logo o receptor observa um desvio para a gama de cores de mais elevada freq\u00fc\u00eancia (desvio para o azul no espectro). Se o emissor (fonte) se afasta do receptor observador, o intervalo de tempo que este mede entre duas cristas consecutivas aumenta, observando um desvio para a gama de cores de mais baixa freq\u00fc\u00eancia (desvio para o vermelho no espectro). O mesmo fen\u00f4meno ocorre quando o receptor se move em dire\u00e7\u00e3o ou em fuga da fonte, pois o que importa \u00e9 a velocidade relativa entre a fonte e o receptor. O desvio para o vermelho pode ter tr\u00eas causas distintas: o Efeito Doppler descrito acima, o campo gravitacional da fonte (a luz perde energia ao subir no campo gravitacional da estrela) e a expans\u00e3o do Universo (\"redshift\" cosmol\u00f3gico). No \"redshift\" cosmol\u00f3gico o desvio ocorre devido \u00e0 expans\u00e3o do espa\u00e7o em si, isto \u00e9, o comprimento de onda aumenta diretamente como resultado da expans\u00e3o do espa\u00e7o.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Die Rotverschiebung ist in der Astronomie die Lagever\u00e4nderung identifizierter Spektrallinien im Emissionsspektrum stellarer Objekte in Richtung der gr\u00f6\u00dferen Wellenl\u00e4ngen. Die Rotverschiebung wird angegeben als Verh\u00e4ltnis der Wellenl\u00e4ngen\u00e4nderung zur urspr\u00fcnglichen Wellenl\u00e4nge: Der Name bezieht sich auf das rote Licht am langwelligen Ende des sichtbaren Spektrums. Bei Infrarot-Emission verschieben sich die Spektrallinien entsprechend in die Richtung der noch l\u00e4ngerwelligen Terahertzstrahlung. Festgestellt wird die Rotverschiebung durch den Vergleich bekannter Atom- und Molek\u00fclspektren mit den mittels Spektroskopie gemessenen Werten, d. h. nach Analyse der Spektrallinien der Emissionen oder Absorptionen im Sternenlicht, meistens des Wasserstoffs. Von Bedeutung ist der Effekt auch in der Molek\u00fclspektroskopie, wo nach elastischer Streuung mit Energie\u00fcbertragung Photonen niedrigerer Energie auftreten.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "En f\u00edsica y astronom\u00eda, el corrimiento al rojo, acercamiento hacia el rojo o desplazamiento hacia el rojo (en ingl\u00e9s: redshift), ocurre cuando la radiaci\u00f3n electromagn\u00e9tica, normalmente la luz visible, que se emite o refleja desde un objeto es desplazada hacia el rojo al final del espectro electromagn\u00e9tico. De manera m\u00e1s general, el corrimiento al rojo es definido como un incremento en la longitud de onda de radiaci\u00f3n electromagn\u00e9tica recibida por un detector comparado con la longitud de onda emitida por la fuente. Este incremento en la longitud de onda se corresponde con un decremento en la frecuencia de la radiaci\u00f3n electromagn\u00e9tica. En cambio, el decrecimiento en la longitud de onda es llamado corrimiento al azul.Cualquier incremento en la longitud de onda se llama \"corrimiento hacia el rojo\", incluso si ocurre en radiaci\u00f3n electromagn\u00e9tica de longitudes de onda no visibles, como los rayos gamma, rayos X y radiaci\u00f3n ultravioleta. Esta denominaci\u00f3n puede ser confusa ya que, a longitudes de onda mayores que el rojo (p.ej. infrarrojo, microondas y ondas de radio), los \"desplazamientos hacia el rojo\" se alejan de la longitud de onda del rojo. As\u00ed que al hablar de frecuencias de ondas menores que el rojo continua significando que la longitud de onda tiende a alargarse y no a semejarse al rojo. Un corrimiento hacia el rojo puede ocurrir cuando una fuente de luz se aleja de un observador, correspondi\u00e9ndose a un desplazamiento Doppler que cambia la frecuencia percibida de las ondas sonoras. Aunque la observaci\u00f3n de tales desplazamientos hacia el rojo, o su complementario hacia el azul, tiene numerosas aplicaciones terrestres (p.ej. Radar Doppler y pistola radar), la espectroscopia astron\u00f3mica utiliza los corrimientos al rojo Doppler para determinar el movimiento de objetos astron\u00f3micos distantes. Este fen\u00f3meno fue predicho por primera vez y observado en el Siglo XIX cuando los cient\u00edficos empezaron a considerar las implicaciones din\u00e1micas de la naturaleza ondulatoria de la luz. Otro mecanismo de corrimiento hacia el rojo es la expansi\u00f3n m\u00e9trica del espacio, que explica la famosa observaci\u00f3n de los corrimientos al rojo espectrales de galaxias distantes, quasars y nubes gaseosas intergal\u00e1cticas se incrementan proporcionalmente con su distancia al observador. Este mecanismo es una caracter\u00edstica clave del modelo del Big Bang de la cosmolog\u00eda f\u00edsica. Un tercer tipo de corrimiento al rojo, el corrimiento al rojo gravitacional (tambi\u00e9n conocido como efecto Einstein), es un resultado de la dilataci\u00f3n del tiempo que ocurre cerca de objetos masivos, de acuerdo con la relatividad general. Estos tres fen\u00f3menos, se pueden comprender bajo el paraguas de leyes de transformaci\u00f3n de marcos. Existen otros muchos mecanismos con descripciones f\u00edsicas y matem\u00e1ticas muy diferentes que pueden conducir a un desplazamiento en la frecuencia de radiaci\u00f3n electromagn\u00e9tica y cuyas acciones pueden ocasionalmente ser conocidas como \"desplazamiento al rojo\", incluyendo la dispersi\u00f3n y efectos \u00f3pticos.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u041a\u0440\u0430\u0441\u043d\u043e\u0435 \u0441\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u2014 \u0441\u0434\u0432\u0438\u0433 \u0441\u043f\u0435\u043a\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043b\u0438\u043d\u0438\u0439 \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u0432 \u043a\u0440\u0430\u0441\u043d\u0443\u044e (\u0434\u043b\u0438\u043d\u043d\u043e\u0432\u043e\u043b\u043d\u043e\u0432\u0443\u044e) \u0441\u0442\u043e\u0440\u043e\u043d\u0443. \u042d\u0442\u043e \u044f\u0432\u043b\u0435\u043d\u0438\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435\u043c \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0414\u043e\u043f\u043b\u0435\u0440\u0430 \u0438\u043b\u0438 \u0433\u0440\u0430\u0432\u0438\u0442\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u043a\u0440\u0430\u0441\u043d\u043e\u0433\u043e \u0441\u043c\u0435\u0449\u0435\u043d\u0438\u044f, \u0438\u043b\u0438 \u0438\u0445 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u0435\u0439. \u0421\u0434\u0432\u0438\u0433 \u0441\u043f\u0435\u043a\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043b\u0438\u043d\u0438\u0439 \u0432 \u0444\u0438\u043e\u043b\u0435\u0442\u043e\u0432\u0443\u044e (\u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0432\u043e\u043b\u043d\u043e\u0432\u0443\u044e) \u0441\u0442\u043e\u0440\u043e\u043d\u0443 \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0441\u0438\u043d\u0438\u043c \u0441\u043c\u0435\u0449\u0435\u043d\u0438\u0435\u043c. \u0412\u043f\u0435\u0440\u0432\u044b\u0435 \u0441\u0434\u0432\u0438\u0433 \u0441\u043f\u0435\u043a\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043b\u0438\u043d\u0438\u0439 \u0432 \u0441\u043f\u0435\u043a\u0442\u0440\u0430\u0445 \u0437\u0432\u0451\u0437\u0434 \u043e\u043f\u0438\u0441\u0430\u043b \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0439 \u0444\u0438\u0437\u0438\u043a \u0418\u043f\u043f\u043e\u043b\u0438\u0442 \u0424\u0438\u0437\u043e \u0432 1848 \u0433\u043e\u0434\u0443, \u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u043b \u0434\u043b\u044f \u043e\u0431\u044a\u044f\u0441\u043d\u0435\u043d\u0438\u044f \u0441\u0434\u0432\u0438\u0433\u0430 \u044d\u0444\u0444\u0435\u043a\u0442 \u0414\u043e\u043f\u043b\u0435\u0440\u0430, \u0432\u044b\u0437\u0432\u0430\u043d\u043d\u044b\u0439 \u043b\u0443\u0447\u0435\u0432\u043e\u0439 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c\u044e \u0437\u0432\u0435\u0437\u0434\u044b.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Roodverschuiving in de astronomie en de natuurkunde is het verschijnsel dat het spectrum van uitgezonden licht of andere elektromagnetische straling bij ontvangst naar \"rood\" verschoven is, dat wil zeggen in de richting van de langere golflengten (lagere frequenties). Het tegengestelde effect, waarbij een verschuiving naar de kortere golflengten - naar \"blauw\" - plaatsvindt, heet blauwverschuiving.",
+                "lang": "nl"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Redshift.svg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 742941671,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 26262,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tired_light": {
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Redshift": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Shift": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Red_shift": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cosmic_redshift": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Distance_Redshift": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Doppler-like_redshifts": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Doppler_redshift": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Relativistic_Redshift": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Red_shift_light": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Red_Shift": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Redshifts": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Redshifted": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Red-shift": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Spectral_shift": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Galactic_redshift": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Galactic_redshifts": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Redshift_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Redshift"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Did Robert Lewanowski play in both the 2018 FIFA World Cup and UEFA Euro 2008?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/FIFA_World_Cup",
+            "@support": "18251",
+            "@types": "",
+            "@surfaceForm": "World Cup",
+            "@offset": "49",
+            "@similarityScore": "0.9514914507739333",
+            "@percentageOfSecondRank": "0.027226822363799044"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/UEFA_Euro_2008",
+            "@support": "2838",
+            "@types": "Wikidata:Q500834,Wikidata:Q1656682,DUL:Event,Schema:SportsEvent,Schema:Event,DBpedia:Tournament,DBpedia:SportsEvent,DBpedia:SocietalEvent,DBpedia:SoccerTournament,DBpedia:Event",
+            "@surfaceForm": "UEFA Euro 2008",
+            "@offset": "63",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "7.304746490414475E-17"
+        }
+    ]
+}

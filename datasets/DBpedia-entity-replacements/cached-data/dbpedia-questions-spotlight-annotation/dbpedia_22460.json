@@ -1,0 +1,28 @@
+{
+    "@text": "Which producer of Purvis Eureka engine is also the owner of Ford Theatre ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Purvis_Eureka",
+            "@support": "7",
+            "@types": "DUL:DesignedArtifact,Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Automobile",
+            "@surfaceForm": "Purvis Eureka",
+            "@offset": "18",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ford_Theatre",
+            "@support": "205",
+            "@types": "Wikidata:Q386724,Wikidata:Q1555508,Schema:CreativeWork,DBpedia:Work,DBpedia:RadioProgram",
+            "@surfaceForm": "Ford Theatre",
+            "@offset": "60",
+            "@similarityScore": "0.9999999309598758",
+            "@percentageOfSecondRank": "6.886818369677282E-8"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "What is the municipality of Catalonia that has the highest population?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Municipality",
+            "@support": "25072",
+            "@types": "",
+            "@surfaceForm": "municipality",
+            "@offset": "12",
+            "@similarityScore": "0.8685811367357976",
+            "@percentageOfSecondRank": "0.11873690633964679"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Catalonia",
+            "@support": "14312",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Catalonia",
+            "@offset": "28",
+            "@similarityScore": "0.999231388247199",
+            "@percentageOfSecondRank": "7.495511621600693E-4"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "@text": "Which animator of Tommy Tucker's Tooth is also the film director of Alice's Wonderland ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Animator",
+            "@support": "1770",
+            "@types": "",
+            "@surfaceForm": "animator",
+            "@offset": "6",
+            "@similarityScore": "0.9103406353541296",
+            "@percentageOfSecondRank": "0.09826776768796841"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tommy_Tucker_(singer)",
+            "@support": "51",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q483501,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,Schema:MusicGroup,DBpedia:Person,DBpedia:MusicalArtist,DBpedia:Artist,DBpedia:Agent",
+            "@surfaceForm": "Tommy Tucker",
+            "@offset": "18",
+            "@similarityScore": "0.7600587747221348",
+            "@percentageOfSecondRank": "0.21111111111110994"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Film_director",
+            "@support": "17959",
+            "@types": "",
+            "@surfaceForm": "film director",
+            "@offset": "51",
+            "@similarityScore": "0.9999984487273348",
+            "@percentageOfSecondRank": "1.4706916580283851E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Alice_and_Bob",
+            "@support": "703",
+            "@types": "",
+            "@surfaceForm": "Alice",
+            "@offset": "68",
+            "@similarityScore": "0.9656209358305815",
+            "@percentageOfSecondRank": "0.027347077948693625"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Alice's_Adventures_in_Wonderland",
+            "@support": "1119",
+            "@types": "Wikidata:Q571,Wikidata:Q386724,Schema:CreativeWork,Schema:Book,Http://purl.org/ontology/bibo/Book,DBpedia:WrittenWork,DBpedia:Work,DBpedia:Book",
+            "@surfaceForm": "Wonderland",
+            "@offset": "76",
+            "@similarityScore": "0.9998885193109843",
+            "@percentageOfSecondRank": "1.0923512662944072E-4"
+        }
+    ]
+}

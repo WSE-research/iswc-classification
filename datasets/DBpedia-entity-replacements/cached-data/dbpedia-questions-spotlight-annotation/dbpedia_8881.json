@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the significant drug interaction for cocaine?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Drug_interaction",
+            "@support": "197",
+            "@types": "",
+            "@surfaceForm": "drug interaction",
+            "@offset": "25",
+            "@similarityScore": "0.999999999982137",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cocaine",
+            "@support": "8375",
+            "@types": "Wikidata:Q8386,DUL:ChemicalObject,DBpedia:Drug,DBpedia:ChemicalSubstance",
+            "@surfaceForm": "cocaine",
+            "@offset": "46",
+            "@similarityScore": "0.999982170386205",
+            "@percentageOfSecondRank": "1.7481347879544654E-5"
+        }
+    ]
+}

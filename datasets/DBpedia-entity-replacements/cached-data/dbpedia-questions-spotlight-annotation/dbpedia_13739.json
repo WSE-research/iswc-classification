@@ -1,0 +1,28 @@
+{
+    "@text": "Which is the EMLO person ID for William Petty, 2nd Earl of Shelburne?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/William_Petty",
+            "@support": "250",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q4964182,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Philosopher,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "William Petty",
+            "@offset": "32",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "1.4676883276892468E-16"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Shelburne,_Nova_Scotia",
+            "@support": "407",
+            "@types": "Wikidata:Q486972,Wikidata:Q3957,Schema:Place,DBpedia:Town,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Shelburne",
+            "@offset": "59",
+            "@similarityScore": "0.6868073580774359",
+            "@percentageOfSecondRank": "0.19214446487173806"
+        }
+    ]
+}

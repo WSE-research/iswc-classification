@@ -1,0 +1,37 @@
+{
+    "@text": "Which football players currently have their contracts with Stoke City F.C.?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Association_football",
+            "@support": "280277",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "football",
+            "@offset": "6",
+            "@similarityScore": "0.9967420675657727",
+            "@percentageOfSecondRank": "0.002700865481066687"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Stoke_City_F.C.",
+            "@support": "7438",
+            "@types": "Wikidata:Q476028,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:SoccerClub,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "Stoke",
+            "@offset": "59",
+            "@similarityScore": "0.9995780251275559",
+            "@percentageOfSecondRank": "3.665937490463752E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Yorkshire_Carnegie",
+            "@support": "764",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:RugbyClub,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "F.C.",
+            "@offset": "70",
+            "@similarityScore": "0.9999999995012274",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

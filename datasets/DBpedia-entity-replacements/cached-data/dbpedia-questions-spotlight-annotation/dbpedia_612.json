@@ -1,0 +1,37 @@
+{
+    "@text": "What is the taxon synonym of angiosperms?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "12",
+            "@similarityScore": "0.9993736037849732",
+            "@percentageOfSecondRank": "6.267787072540298E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Synonym",
+            "@support": "1603",
+            "@types": "",
+            "@surfaceForm": "synonym",
+            "@offset": "18",
+            "@similarityScore": "0.9999688617944578",
+            "@percentageOfSecondRank": "3.1124622850653834E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Flowering_plant",
+            "@support": "10893",
+            "@types": "Wikidata:Q756,Wikidata:Q19088,DBpedia:Species,DBpedia:Plant,DBpedia:Eukaryote",
+            "@surfaceForm": "angiosperms",
+            "@offset": "29",
+            "@similarityScore": "0.9999999924009444",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

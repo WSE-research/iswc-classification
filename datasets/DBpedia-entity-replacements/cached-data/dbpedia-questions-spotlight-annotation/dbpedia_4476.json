@@ -1,0 +1,37 @@
+{
+    "@text": "When did Jean-Bertrand Aristide stop holding the position as the President of Haiti?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Jean-Bertrand_Aristide",
+            "@support": "517",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Jean-Bertrand Aristide",
+            "@offset": "9",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+            "@support": "51563",
+            "@types": "",
+            "@surfaceForm": "President",
+            "@offset": "65",
+            "@similarityScore": "0.9715514018320514",
+            "@percentageOfSecondRank": "0.014634825106018884"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Haiti",
+            "@support": "18043",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "Haiti",
+            "@offset": "78",
+            "@similarityScore": "0.999993998305859",
+            "@percentageOfSecondRank": "5.0589939203719425E-6"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "What is the name of the sister city of Oslo, where Ernest Sachs was born?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "sister city",
+            "@offset": "24",
+            "@similarityScore": "0.9999966851731814",
+            "@percentageOfSecondRank": "2.1941661318309835E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Oslo",
+            "@support": "25142",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Oslo",
+            "@offset": "39",
+            "@similarityScore": "0.9998186149643762",
+            "@percentageOfSecondRank": "1.7208491616925892E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ernest_Sachs",
+            "@support": "21",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Ernest Sachs",
+            "@offset": "51",
+            "@similarityScore": "0.9999999999998863",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

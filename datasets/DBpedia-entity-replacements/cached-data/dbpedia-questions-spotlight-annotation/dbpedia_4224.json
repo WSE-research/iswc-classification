@@ -1,0 +1,37 @@
+{
+    "@text": "Is true that Mecca was the capital of Makkah Region and Hejaz Vilayet?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Mecca",
+            "@support": "6890",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Mecca",
+            "@offset": "13",
+            "@similarityScore": "0.9999857386190045",
+            "@percentageOfSecondRank": "1.4261554204641508E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Makkah_Region",
+            "@support": "257",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Makkah Region",
+            "@offset": "38",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Hejaz_Vilayet",
+            "@support": "28",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "Hejaz Vilayet",
+            "@offset": "56",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

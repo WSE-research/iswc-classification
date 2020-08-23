@@ -1,0 +1,28 @@
+{
+    "@text": "Is Sasha Spielberg the daughter of Steven Spielberg?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Sasha_Spielberg",
+            "@support": "19",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Sasha Spielberg",
+            "@offset": "3",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Steven_Spielberg",
+            "@support": "3900",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Steven Spielberg",
+            "@offset": "35",
+            "@similarityScore": "0.9999996165318119",
+            "@percentageOfSecondRank": "3.83468184044374E-7"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "What is the {next job holder} in {West Germany} that is a {member of} an {Asian Development Bank}?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/West_Germany",
+            "@support": "12933",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "West Germany",
+            "@offset": "34",
+            "@similarityScore": "0.9290425126289263",
+            "@percentageOfSecondRank": "0.05748558719007721"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Asian_Development_Bank",
+            "@support": "1183",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "Asian Development Bank",
+            "@offset": "74",
+            "@similarityScore": "0.9999999999999716",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

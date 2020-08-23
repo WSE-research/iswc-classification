@@ -1,0 +1,28 @@
+{
+    "@text": "Did Jimmy Carter received an award in the 2008 Grammy Awards?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Jimmy_Carter",
+            "@support": "6222",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Person,DBpedia:OfficeHolder,DBpedia:Agent",
+            "@surfaceForm": "Jimmy Carter",
+            "@offset": "4",
+            "@similarityScore": "0.9999792860391168",
+            "@percentageOfSecondRank": "1.64454655421379E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/50th_Annual_Grammy_Awards",
+            "@support": "846",
+            "@types": "Wikidata:Q618779,DBpedia:Award",
+            "@surfaceForm": "2008 Grammy Awards",
+            "@offset": "42",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

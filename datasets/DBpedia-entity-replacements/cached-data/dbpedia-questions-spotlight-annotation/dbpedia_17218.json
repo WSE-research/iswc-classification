@@ -1,0 +1,37 @@
+{
+    "@text": "Which is the BOLD Systems taxon ID for Ascomycota?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Barcode_of_Life_Data_Systems",
+            "@support": "343",
+            "@types": "",
+            "@surfaceForm": "BOLD",
+            "@offset": "13",
+            "@similarityScore": "0.9984737575449414",
+            "@percentageOfSecondRank": "9.954311102958401E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "26",
+            "@similarityScore": "0.9999973457756662",
+            "@percentageOfSecondRank": "2.6493465200749937E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Ascomycota",
+            "@support": "1186",
+            "@types": "Wikidata:Q19088,DBpedia:Species,DBpedia:Fungus,DBpedia:Eukaryote",
+            "@surfaceForm": "Ascomycota",
+            "@offset": "39",
+            "@similarityScore": "0.9999999992124344",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

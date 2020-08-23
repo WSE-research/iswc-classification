@@ -1,0 +1,28 @@
+{
+    "@text": "What airport has an airline hub for American Airlines?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Airline_hub",
+            "@support": "1071",
+            "@types": "",
+            "@surfaceForm": "airline hub",
+            "@offset": "20",
+            "@similarityScore": "0.9999999999998579",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/American_Airlines",
+            "@support": "4066",
+            "@types": "Wikidata:Q46970,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline,DBpedia:Agent",
+            "@surfaceForm": "American Airlines",
+            "@offset": "36",
+            "@similarityScore": "0.9999999999970868",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

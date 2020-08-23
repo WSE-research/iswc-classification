@@ -1,0 +1,28 @@
+{
+    "@text": "Which {tributary} {is on} {Hawaiian Islands} ?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Tributary",
+            "@support": "17917",
+            "@types": "",
+            "@surfaceForm": "tributary",
+            "@offset": "7",
+            "@similarityScore": "0.9999448033596691",
+            "@percentageOfSecondRank": "2.7668125758279543E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Hawaiian_Islands",
+            "@support": "3280",
+            "@types": "Wikidata:Q23442,Schema:Place,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Island",
+            "@surfaceForm": "Hawaiian Islands",
+            "@offset": "27",
+            "@similarityScore": "0.9865088972145126",
+            "@percentageOfSecondRank": "0.013311267617150839"
+        }
+    ]
+}

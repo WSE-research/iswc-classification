@@ -1,0 +1,28 @@
+{
+    "@text": "\"Which is {role model} of {Salman Rushdie}, that has {location of death} is {Houston} ?\"",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Salman_Rushdie",
+            "@support": "1256",
+            "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q5,Wikidata:Q36180,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:Writer,DBpedia:Person,DBpedia:Agent",
+            "@surfaceForm": "Salman Rushdie",
+            "@offset": "27",
+            "@similarityScore": "0.9996962412284087",
+            "@percentageOfSecondRank": "3.038510690053292E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Houston",
+            "@support": "44055",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Houston",
+            "@offset": "77",
+            "@similarityScore": "0.998990842607066",
+            "@percentageOfSecondRank": "5.556790895809959E-4"
+        }
+    ]
+}

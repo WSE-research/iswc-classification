@@ -1,0 +1,28 @@
+{
+    "@text": "Is it true that the beer color of the cream ale is less than 3.0?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Beer",
+            "@support": "10296",
+            "@types": "",
+            "@surfaceForm": "beer",
+            "@offset": "20",
+            "@similarityScore": "0.9996823534578053",
+            "@percentageOfSecondRank": "2.223206834040507E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Cream_ale",
+            "@support": "37",
+            "@types": "",
+            "@surfaceForm": "cream ale",
+            "@offset": "38",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

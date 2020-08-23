@@ -1,0 +1,37 @@
+{
+    "@text": "Shen Bao has a partner city of Rotterdam, what is the main location of the publication?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Shen_Bao",
+            "@support": "30",
+            "@types": "Wikidata:Q386724,Wikidata:Q11032,Wikidata:Q1092563,Schema:CreativeWork,DBpedia:WrittenWork,DBpedia:Work,DBpedia:PeriodicalLiterature,DBpedia:Newspaper",
+            "@surfaceForm": "Shen Bao",
+            "@offset": "0",
+            "@similarityScore": "0.9999999999999716",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/City",
+            "@support": "22421",
+            "@types": "",
+            "@surfaceForm": "city",
+            "@offset": "23",
+            "@similarityScore": "0.815495606366887",
+            "@percentageOfSecondRank": "0.17843731758751244"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Rotterdam",
+            "@support": "9890",
+            "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+            "@surfaceForm": "Rotterdam",
+            "@offset": "31",
+            "@similarityScore": "0.9985351218841989",
+            "@percentageOfSecondRank": "8.480166170667392E-4"
+        }
+    ]
+}

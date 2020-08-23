@@ -1,0 +1,46 @@
+{
+    "@text": "What is the higher taxon of Bornean orangutan, whose type of taxon is genus?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "19",
+            "@similarityScore": "0.9999880045458234",
+            "@percentageOfSecondRank": "1.1995168086905629E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Bornean_orangutan",
+            "@support": "137",
+            "@types": "",
+            "@surfaceForm": "Bornean orangutan",
+            "@offset": "28",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "61",
+            "@similarityScore": "0.9999880045458234",
+            "@percentageOfSecondRank": "1.1995168086905629E-5"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Genus",
+            "@support": "103108",
+            "@types": "",
+            "@surfaceForm": "genus",
+            "@offset": "70",
+            "@similarityScore": "0.9999998243180256",
+            "@percentageOfSecondRank": "1.5303295936174866E-7"
+        }
+    ]
+}

@@ -1,0 +1,612 @@
+{
+    "http://dbpedia.org/resource/Base_pair": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/Organisation"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Basenpaar",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5869\u57fa\u5bfe",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Coppia di basi",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Par de bases",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u043f\u0430\u0440\u0435\u043d\u043d\u044b\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u044f",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u78b1\u57fa\u5bf9",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Para zasad",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Basenpaar",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Paire de bases",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Apareamiento de bases",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "\u0632\u0648\u062c \u0642\u0627\u0639\u062f\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Base pair",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "Als Basenpaar bezeichnet man im Doppelstrang einer DNA oder RNA zwei gegen\u00fcberliegende Nukleobasen, die zueinander komplement\u00e4r sind und durch Wasserstoffbr\u00fcckenbindungen zusammengehalten werden. W\u00e4hrend die L\u00e4nge einzelstr\u00e4ngiger RNA mit der Zahl an Nukleotiden (nt) oder Basen (b) gegeben ist, wird die Gr\u00f6\u00dfe von doppelstr\u00e4ngigen DNA-Abschnitten meist in Basenpaaren angegeben, abgek\u00fcrzt bp, \n*  1 kb = eine Kilobase (1000 Nukleotide) \n*  1 bp = ein Basenpaar  \n*  1 kbp oder kb = 1000 Basenpaare (Kilo-Basenpaare) \n*  1 Mbp oder Mb = 1.000.000 Basenpaare (Mega-Basenpaare)",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "\u78b1\u57fa\u5bf9\u662f\u5f62\u6210\u6838\u9178DNA\u3001RNA\u5355\u4f53\u4ee5\u53ca\u7f16\u7801\u9057\u4f20\u4fe1\u606f\u7684\u5316\u5b66\u7ed3\u6784\u3002\u7ec4\u6210\u78b1\u57fa\u5bf9\u7684\u78b1\u57fa\u5305\u62ec\u817a\u560c\u5464\uff08A\uff09\u3001\u80f8\u817a\u5627\u5576\uff08T\uff09\u3001\u9e1f\u560c\u5464\uff08G\uff09\u3001\u80de\u5627\u5576\uff08C\uff09\u3001\u5c3f\u5627\u5576\uff08U\uff09\u3002\u4e25\u683c\u5730\u8bf4\uff0c\u78b1\u57fa\u5bf9\u662f\u4e00\u5bf9\u76f8\u4e92\u5339\u914d\u7684\u78b1\u57fa\uff08\u5373A\uff1aT\uff0c G\uff1aC\uff0cA\uff1aU\u76f8\u4e92\u4f5c\u7528\uff09\u88ab\u6c22\u952e\u8fde\u63a5\u8d77\u6765\u3002\u7136\u800c\uff0c\u5b83\u5e38\u88ab\u7528\u6765\u8861\u91cfDNA\u548cRNA\u7684\u957f\u5ea6\uff08\u5c3d\u7ba1RNA\u662f\u5355\u94fe\uff09\u3002\u5b83\u8fd8\u4e0e\u6838\u82f7\u9178\u4e92\u6362\u4f7f\u7528\uff0c\u5c3d\u7ba1\u540e\u8005\u662f\u7531\u4e00\u4e2a\u4e94\u78b3\u7cd6\u3001\u78f7\u9178\u548c\u4e00\u4e2a\u78b1\u57fa\u7ec4\u6210\u3002 \u9e7c\u57fa\u5c0d\u901a\u5e38\u7c21\u5beb\u505abp\uff08base pair\uff09\uff1b\u5343\u9e7c\u57fa\u5c0d \u70bakbp\uff0c\u6216\u7c21\u5beb\u4f5ckb\uff08\u5c0d\u65bc\u96d9\u93c8\u6838\u9178\u3002\u5c0d\u65bc\u55ae\u93c8\u6838\u9178\uff0ckb\u6307\u5343\u9e7c\u57fa\uff09\uff1b\u5146\u9e7c\u57fa\u5373\u767e\u842c\u5c0d\u9e7c\u57fa\u7c21\u5beb\u4f5cMbp\u3002 \u4eba\u7c7b\u4e5f\u6210\u529f\u7684\u5c06\u4eba\u9020\u78b1\u57fa\u5bf9\u52a0\u5165\u5230\u4e86DNA\u4e2d\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Het erfelijk materiaal, DNA, bestaat uit een zeer lange dubbele keten van basenparen in de vorm van een dubbele helix. Deze basenparen bestaan uit steeds twee nucleotiden. De gedeelten van de nucleotiden, die de basenparen vormen, worden basen genoemd. Een basenpaar (1 bp) geeft 2 bit aan informatie daar er bij DNA of RNA vier verschillende mogelijkheden (nucleotiden) zijn. De massa van een basenpaar in een dubbele DNA-helix bedraagt 650 atomaire massa-eenheden, ook wel uitgedrukt in Daltons. Het molecuulgewicht van een bepaalde DNA-soort is ongeveer 650 g per mol per basenpaar.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Une paire de bases (pb) est l'appariement de deux bases nucl\u00e9iques situ\u00e9es sur deux brins compl\u00e9mentaires d'ADN ou ARN. Cet appariement est effectu\u00e9 par des ponts hydrog\u00e8nes. Il y a quatre types de bases nucl\u00e9iques: A-T-C-G, ces lettres pour Ad\u00e9nine, Thymine, Cytosine et Guanine. A avec T et C avec G.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0632\u0648\u062c \u0627\u0644\u0642\u0627\u0639\u062f\u064a \u0641\u064a \u0639\u0644\u0645 \u0627\u0644\u0623\u062d\u064a\u0627\u0621 \u0627\u0644\u062c\u0632\u064a\u0626\u064a \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0632\u0648\u062c \u0645\u0646 \u0646\u0648\u0643\u0644\u064a\u0648\u062a\u064a\u062f\u064a\u0646 \u0645\u062a\u0643\u0627\u0645\u0644\u064a\u0646 \u0645\u0648\u062c\u0648\u062f\u064a\u0646 \u0639\u0644\u0649 \u0637\u0631\u0641\u064a \u0633\u0644\u0633\u0644\u0629 \u0627\u0644\u062d\u0645\u0636 \u0627\u0644\u0631\u064a\u0628\u064a \u0627\u0644\u0646\u0648\u0648\u064a \u0645\u0646\u0642\u0648\u0635 \u0627\u0644\u0623\u0643\u0633\u062c\u064a\u0646 DNA \u0623\u0648 \u0627\u0644\u062d\u0645\u0636 \u0627\u0644\u0631\u064a\u0628\u064a \u0627\u0644\u0646\u0648\u0648\u064a RNA \u0648\u0645\u0631\u062a\u0628\u0637\u064a\u0646 \u0628\u0628\u0639\u0636\u0647\u0645\u0627 \u0628\u0631\u0627\u0628\u0637\u0629 \u0647\u064a\u062f\u0631\u0648\u062c\u064a\u0646\u064a\u0629. \u0641\u0641\u064a \u0646\u0645\u0648\u0630\u062c \u0648\u0627\u0637\u0633\u0648\u0646-\u0643\u0631\u064a\u0643\u0627\u0644\u0644\u0648\u0644\u0628\u064a \u0644\u0644\u062f\u0646\u0627 \u064a\u0634\u0643\u0644 \u0627\u0644\u0623\u062f\u064a\u0646\u064a\u0646 A \u0632\u0648\u062c\u0627\u064b \u0642\u0627\u0639\u062f\u064a\u0627\u064b \u0645\u0639 \u0627\u0644\u062b\u064a\u0645\u064a\u0646 T \u061b \u0643\u0645\u0627 \u064a\u0634\u0643\u0644 \u0627\u0644\u063a\u0648\u0627\u0646\u064a\u0646 G \u0645\u0639 \u0627\u0644\u0633\u064a\u062a\u0648\u0632\u064a\u0646 C \u0632\u0648\u062c\u0627 \u0642\u0627\u0639\u062f\u064a\u0627 \u0622\u062e\u0631\u0627. \u0627\u0644\u0623\u0632\u0648\u0627\u062c \u0627\u0644\u0642\u0627\u0639\u062f\u064a\u0629 \u062a\u0631\u0628\u0637 \u0628\u064a\u0646 \u0633\u0644\u0633\u0644\u062a\u064a \u0627\u0644\u0644\u0648\u0644\u0628 \u0627\u0644\u0645\u0632\u062f\u0648\u062c \u0644\u0644\u062f\u0646\u0627 DNA. \u0623\u0645\u0627 \u0641\u064a RNA \u0641\u0625\u0646 \u0627\u0644\u064a\u0648\u0631\u0627\u0633\u064a\u0644 U \u064a\u062d\u0644 \u0645\u062d\u0644 \u0627\u0644\u062b\u064a\u0645\u064a\u0646.",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Le coppie di basi o paia di basi (abbreviate come pb o, dall'inglese base pair, bp o bps) sono comunemente utilizzate come misura della lunghezza fisica di sequenze di acidi nucleici a doppio filamento. Spesso, data la grande dimensione dei genomi, viene utilizzata l'unit\u00e0 kbp (k sta per kilo), pari a mille paia di basi.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "\u5869\u57fa\u5bfe\uff08\u3048\u3093\u304d\u3064\u3044\u3001base pair\u3001bp\uff09\u3068\u306f\u3001\u30c7\u30aa\u30ad\u30b7\u30ea\u30dc\u6838\u9178\u306e2\u672c\u306e\u30dd\u30ea\u30cc\u30af\u30ec\u30aa\u30c1\u30c9\u5206\u5b50\u304c\u3001\u30a2\u30c7\u30cb\u30f3 (A) \u3068\u30c1\u30df\u30f3 (T)\uff08\u3082\u3057\u304f\u306f\u30a6\u30e9\u30b7\u30eb (U)\uff09\u3001\u30b0\u30a2\u30cb\u30f3 (G) \u3068\u30b7\u30c8\u30b7\u30f3 (C) \u3068\u3044\u3046\u6c7a\u307e\u3063\u305f\u7d44\u3092\u4f5c\u308a\u3001\u6c34\u7d20\u7d50\u5408\u3067\u7e4b\u304c\u3063\u305f\u3082\u306e\u3002\u3053\u306e\u7d44\u307f\u5408\u308f\u305b\u306f\u30b8\u30a7\u30fc\u30e0\u30ba\u30fb\u30ef\u30c8\u30bd\u30f3\u3068\u30d5\u30e9\u30f3\u30b7\u30b9\u30fb\u30af\u30ea\u30c3\u30af\u304c\u767a\u898b\u3057\u305f\u3082\u306e\u3067\u3001\u300c\u30ef\u30c8\u30bd\u30f3\u30fb\u30af\u30ea\u30c3\u30af\u578b\u5869\u57fa\u5bfe\u300d\u300c\u5929\u7136\u578b\u5869\u57fa\u5bfe\u300d\u3068\u8a00\u3046\u3002DNA \u3084 RNA \u306e\u5834\u5408\u3001\u30ef\u30c8\u30bd\u30f3\u30fb\u30af\u30ea\u30c3\u30af\u578b\u5869\u57fa\u5bfe\u304c\u5f62\u6210\u3057\u3055\u3089\u306b\u96a3\u308a\u5408\u3046\u5869\u57fa\u5bfe\u306e\u9593\u306b\u758e\u6c34\u6027\u76f8\u4e92\u4f5c\u7528\u304c\u306f\u305f\u3089\u304f\u3053\u3068\u304c\u3001\u4e8c\u91cd\u3089\u305b\u3093\u69cb\u9020\u304c\u5b89\u5b9a\u5316\u3059\u308b\u99c6\u52d5\u529b\u3068\u306a\u3063\u3066\u3044\u308b\u3002 \u3053\u308c\u306b\u5bfe\u3057\u3066\u3001DNA\u304c\u4e09\u91cd\u9396\u3092\u4f5c\u308b\u3068\u304d\u306a\u3069\u306b\u306f\u300c\u30d5\u30fc\u30b0\u30b9\u30c6\u30a3\u30fc\u30f3\u578b\u5869\u57fa\u5bfe\u300d\u3068\u3044\u3046\u5225\u306e\u30d1\u30bf\u30fc\u30f3\u306e\u5869\u57fa\u5bfe\u3082\u73fe\u308c\u308b\u3002\u30c6\u30ed\u30e1\u30a2\u914d\u5217\u304c\u6301\u3064\u56db\u91cd\u9396\u69cb\u9020\u3001G-\u30ab\u30eb\u30c6\u30c3\u30c8\u3082\u30d5\u30fc\u30b0\u30b9\u30c6\u30a3\u30fc\u30f3\u578b\u306e\u69cb\u9020\u3092\u3068\u3063\u3066\u3044\u308b\u3002\u3055\u3089\u306b\u4eba\u5de5\u7684\u306b\u5408\u6210\u3057\u305fATGC\u4ee5\u5916\u306e\u5869\u57fa\u3092\u4f7f\u3063\u3066\u3001\u7279\u5225\u306a\u5869\u57fa\u5bfe\u3092\u4f5c\u308a\u51fa\u3059\u3053\u3068\u3082\u53ef\u80fd\u3067\u3042\u308b\u3002 \u30a4\u30f3\u30bf\u30fc\u30ab\u30ec\u30fc\u30b7\u30e7\u30f3\u3068\u306f\u3001\u5e73\u9762\u72b6\u306e\u90e8\u4f4d\u3092\u6301\u3064\u6709\u6a5f\u5206\u5b50\uff08\u30a4\u30f3\u30bf\u30fc\u30ab\u30ec\u30fc\u30bf\u30fc\uff09\u304c\u30012\u500b\u306e\u5869\u57fa\u5bfe\u306e\u9593\u306b\u305d\u306e\u5e73\u9762\u90e8\u4f4d\u3092\u633f\u5165\u3059\u308b\u73fe\u8c61\u3092\u6307\u3059\u3002\u81ed\u5316\u30a8\u30c1\u30b8\u30a6\u30e0\u306f\u30a4\u30f3\u30bf\u30fc\u30ab\u30ec\u30fc\u30bf\u30fc\u306e\u4ee3\u8868\u4f8b\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "A base pair (bp) is a unit consisting of two nucleobases bound to each other by hydrogen bonds. They form the building blocks of the DNA double helix, and contribute to the folded structure of both DNA and RNA. Dictated by specific hydrogen bonding patterns, Watson-Crick base pairs (guanine-cytosine and adenine-thymine) allow the DNA helix to maintain a regular helical structure that is subtly dependent on its nucleotide sequence. The complementary nature of this based-paired structure provides a backup copy of all genetic information encoded within double-stranded DNA. The regular structure and data redundancy provided by the DNA double helix make DNA well suited to the storage of genetic information, while base-pairing between DNA and incoming nucleotides provides the mechanism through w",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "El apareamiento de bases se refiere a la interacci\u00f3n entre bases nitrogenadas que da origen a las formas hibridadas o plegadas de los \u00e1cidos nucleicos, tanto el ADN como el ARN. Las interacciones entre las bases se dan a trav\u00e9s de puentes de hidr\u00f3geno entre regiones espec\u00edficas. El primer patr\u00f3n de apareamiento modelado por Watson y Crick describe la interacci\u00f3n G-C(guanina-citosina), A-T(adenina-timina) y como consecuencia la estructura de doble h\u00e9lice del ADN. El car\u00e1cter complementario de este apareamiento proporciona tambi\u00e9n un mecanismo de replicaci\u00f3n y transcripci\u00f3n: procesos esenciales en la transferencia y el procesamiento de la informaci\u00f3n gen\u00e9tica.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Para zasad (pz lub bp z (ang.) base pair) - w biologii molekularnej - komplementarne, po\u0142\u0105czone wi\u0105zaniami wodorowymi zasady azotowe nukleotyd\u00f3w dw\u00f3ch r\u00f3\u017cnych nici kwasu nukleinowego. W parach zasad podaje si\u0119 d\u0142ugo\u015b\u0107 cz\u0105steczek DNA. W kwasie deoksyrybonukleinowym (DNA) komplementarne pary stanowi guanina (G) z cytozyn\u0105 (C) oraz adenina (A) z tymin\u0105 (T). W kwasie rybonukleinowym (RNA) w miejscu tyminy wyst\u0119puje uracyl (U). Komplementarno\u015b\u0107 zasad w przyk\u0142adowym \u0142a\u0144cuchu DNA: ATCGATGATC \u0142a\u0144cuch 1 TAGCTACTAG \u0142a\u0144cuch 2 Komplementarno\u015b\u0107 zasad w analogicznym \u0142a\u0144cuchu RNA (tymina zast\u0105piona uracylem):",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Em gen\u00e9tica e biologia molecular um par de bases consiste em dois nucleot\u00eddeos opostos e complementares nas cadeias de ADN e ARN que est\u00e3o conectadas por liga\u00e7\u00f5es de hidrog\u00eanio (frequentemente chamadas pb ou do ingl\u00eas base pair, bp). Paridade \u00e9 tamb\u00e9m o mecanismo pelo qual c\u00f3dons sobre mol\u00e9culas de RNA mensageiro s\u00e3o reconhecidas por antic\u00f3dons sobre RNA transfer\u00eancia durante a transla\u00e7\u00e3o de prote\u00edna. Algumas enzimas de liga\u00e7\u00e3o DNA ou RNA podem reconhecer padr\u00f5es de paridade de bases espec\u00edficas que identificam regi\u00f5es de genes de regula\u00e7\u00e3o particular.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u043f\u0430\u0440\u0435\u043d\u043d\u044b\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u044f \u2014 \u043f\u0430\u0440\u0430 \u0434\u0432\u0443\u0445 \u0430\u0437\u043e\u0442\u0438\u0441\u0442\u044b\u0445 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0439 \u043d\u0443\u043a\u043b\u0435\u043e\u0442\u0438\u0434\u043e\u0432 \u043d\u0430 \u043a\u043e\u043c\u043f\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u0440\u043d\u044b\u0445 \u0446\u0435\u043f\u043e\u0447\u043a\u0430\u0445 \u043d\u0443\u043a\u043b\u0435\u0438\u043d\u043e\u0432\u044b\u0445 \u043a\u0438\u0441\u043b\u043e\u0442 (\u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u043d\u044b\u0445 \u0414\u041d\u041a \u0438\u043b\u0438 \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u044b\u0445 \u0420\u041d\u041a), \u0441\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u0430\u044f \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0432\u043e\u0434\u043e\u0440\u043e\u0434\u043d\u044b\u0445 \u0441\u0432\u044f\u0437\u0435\u0439. \u041f\u0440\u0438 \u043a\u0430\u043d\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0441\u043f\u0430\u0440\u0438\u0432\u0430\u043d\u0438\u0438 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0439 \u0414\u041d\u041a \u043f\u043e \u0423\u043e\u0442\u0441\u043e\u043d\u0443 \u2014 \u041a\u0440\u0438\u043a\u0443, \u0430\u0434\u0435\u043d\u0438\u043d (A) \u0444\u043e\u0440\u043c\u0438\u0440\u0443\u0435\u0442 \u0441\u043f\u0430\u0440\u0435\u043d\u043d\u043e\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u0441 \u0442\u0438\u043c\u0438\u043d\u043e\u043c (T), \u0430 \u0433\u0443\u0430\u043d\u0438\u043d (G) \u2014 \u0441 \u0446\u0438\u0442\u043e\u0437\u0438\u043d\u043e\u043c (C). \u0412 \u0420\u041d\u041a \u0442\u0438\u043c\u0438\u043d \u0437\u0430\u043c\u0435\u043d\u0451\u043d \u0443\u0440\u0430\u0446\u0438\u043b\u043e\u043c (U). \u0414\u0440\u0443\u0433\u0438\u0435 \u0441\u043f\u0430\u0440\u0438\u0432\u0430\u043d\u0438\u044f, \u043d\u0435 \u043f\u043e \u0423\u043e\u0442\u0441\u043e\u043d\u0443 \u2014 \u041a\u0440\u0438\u043a\u0443, \u0442\u0430\u043a\u0436\u0435 \u0441\u043b\u0443\u0447\u0430\u044e\u0442\u0441\u044f, \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0432 \u0420\u041d\u041a, \u0438 \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0442 \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0438\u0437\u043c\u0435\u043d\u0451\u043d\u043d\u043e\u0439 \u043a\u0430\u0440\u0442\u0438\u043d\u044b \u0432\u043e\u0434\u043e\u0440\u043e\u0434\u043d\u044b\u0445 \u0441\u0432\u044f\u0437\u0435\u0439: \u0442\u0438\u043f\u0438\u0447\u043d\u044b\u043c \u043f\u0440\u0438\u043c\u0435\u0440\u043e\u043c \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0433\u0443\u043a\u0441\u0442\u0435\u043d\u043e\u0432\u0441\u043a\u0438\u0435 \u0441\u043f\u0430\u0440\u0435\u043d\u043d\u044b\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u044f.",
+                "lang": "ru"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Artificial_gene_synthesis"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Para_zasad"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Basenpaar"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q145911"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Par_de_bases"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.01cst"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Apareamiento_de_bases"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u5869\u57fa\u5bfe"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Basenpaar"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\uc5fc\uae30\uc30d"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Coppia_di_basi"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Paire_de_bases"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Pasangan_basa"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/P\u00e1rov\u00e1n\u00ed_b\u00e1z\u00ed"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q145911"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Molecular_genetics"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Nucleic_acids"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Genetics"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/AT_DNA_base_pair.png"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Base_pair"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Base_pair?oldid=740760386"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://bioweb.pasteur.fr/seqanal/interfaces/dan.html"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "Le coppie di basi o paia di basi (abbreviate come pb o, dall'inglese base pair, bp o bps) sono comunemente utilizzate come misura della lunghezza fisica di sequenze di acidi nucleici a doppio filamento. Spesso, data la grande dimensione dei genomi, viene utilizzata l'unit\u00e0 kbp (k sta per kilo), pari a mille paia di basi. Il numero di paia di basi rappresenta il numero di coppie di basi azotate che contiene il filamento in analisi. Ogni paio di basi \u00e8 tenuto insieme attraverso legami idrogeno che si instaurano tra le molecole, ricche di azoto. Tra adenina e timina o uracile si formano due legami; tra citosina e guanina tre.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Als Basenpaar bezeichnet man im Doppelstrang einer DNA oder RNA zwei gegen\u00fcberliegende Nukleobasen, die zueinander komplement\u00e4r sind und durch Wasserstoffbr\u00fcckenbindungen zusammengehalten werden. W\u00e4hrend die L\u00e4nge einzelstr\u00e4ngiger RNA mit der Zahl an Nukleotiden (nt) oder Basen (b) gegeben ist, wird die Gr\u00f6\u00dfe von doppelstr\u00e4ngigen DNA-Abschnitten meist in Basenpaaren angegeben, abgek\u00fcrzt bp, \n*  1 kb = eine Kilobase (1000 Nukleotide) \n*  1 bp = ein Basenpaar  \n*  1 kbp oder kb = 1000 Basenpaare (Kilo-Basenpaare) \n*  1 Mbp oder Mb = 1.000.000 Basenpaare (Mega-Basenpaare) Die Anzahl der Basenpaare ist auch ein wichtiges Ma\u00df f\u00fcr den Umfang an Information, die in einem Gen gespeichert ist. Da jedes Basenpaar eine Wahl aus 4 m\u00f6glichen Formen darstellt, entspricht 1 bp dem Informationsgehalt von 2 bit, dem Doppelten eines Bits im Bin\u00e4rcode.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Para zasad (pz lub bp z (ang.) base pair) - w biologii molekularnej - komplementarne, po\u0142\u0105czone wi\u0105zaniami wodorowymi zasady azotowe nukleotyd\u00f3w dw\u00f3ch r\u00f3\u017cnych nici kwasu nukleinowego. W parach zasad podaje si\u0119 d\u0142ugo\u015b\u0107 cz\u0105steczek DNA. W kwasie deoksyrybonukleinowym (DNA) komplementarne pary stanowi guanina (G) z cytozyn\u0105 (C) oraz adenina (A) z tymin\u0105 (T). W kwasie rybonukleinowym (RNA) w miejscu tyminy wyst\u0119puje uracyl (U). Komplementarno\u015b\u0107 zasad w przyk\u0142adowym \u0142a\u0144cuchu DNA: ATCGATGATC \u0142a\u0144cuch 1 TAGCTACTAG \u0142a\u0144cuch 2 Komplementarno\u015b\u0107 zasad w analogicznym \u0142a\u0144cuchu RNA (tymina zast\u0105piona uracylem): AUCGAUGAUC \u0142a\u0144cuch 1 UAGCUACUAG \u0142a\u0144cuch 2 Liczba par zasad jest liczb\u0105 nukleotyd\u00f3w sk\u0142adaj\u0105cych si\u0119 na oba \u0142a\u0144cuchy kwasu nukleinowego i u\u017cywana jest do okre\u015blania jednoznacznie ich d\u0142ugo\u015bci. Oba przedstawiane powy\u017cej fragmenty DNA i RNA maj\u0105 d\u0142ugo\u015b\u0107 10 pz. Dla odr\u00f3\u017cnienia d\u0142ugo\u015b\u0107 pojedynczych nici kwas\u00f3w nukleinowych, np. d\u0142ugo\u015b\u0107 \u0142a\u0144cucha mRNA, okre\u015bla si\u0119 liczb\u0105 nukleotyd\u00f3w (nt), poniewa\u017c zasady w nici pojedynczej nie s\u0105 komplementarnie sparowane z zasadami w drugiej nici. Najcz\u0119\u015bciej stosowane przedrostki to: \n*  kbp, kb (kilo par zasad) = tysi\u0105c pz \n*  Mbp, Mb (mega par zasad) = milion pz \n*  Gbp, Gb (giga par zasad) = miliard pz Przyk\u0142adowo: D\u0142ugo\u015b\u0107 helisy DNA chromosomu X cz\u0142owieka wynosi 152,6 Mpz, za\u015b chromosomu Y 51,0 Mpz. D\u0142ugo\u015b\u0107 ca\u0142ego ludzkiego genomu to oko\u0142o 3000 Mpz.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u5869\u57fa\u5bfe\uff08\u3048\u3093\u304d\u3064\u3044\u3001base pair\u3001bp\uff09\u3068\u306f\u3001\u30c7\u30aa\u30ad\u30b7\u30ea\u30dc\u6838\u9178\u306e2\u672c\u306e\u30dd\u30ea\u30cc\u30af\u30ec\u30aa\u30c1\u30c9\u5206\u5b50\u304c\u3001\u30a2\u30c7\u30cb\u30f3 (A) \u3068\u30c1\u30df\u30f3 (T)\uff08\u3082\u3057\u304f\u306f\u30a6\u30e9\u30b7\u30eb (U)\uff09\u3001\u30b0\u30a2\u30cb\u30f3 (G) \u3068\u30b7\u30c8\u30b7\u30f3 (C) \u3068\u3044\u3046\u6c7a\u307e\u3063\u305f\u7d44\u3092\u4f5c\u308a\u3001\u6c34\u7d20\u7d50\u5408\u3067\u7e4b\u304c\u3063\u305f\u3082\u306e\u3002\u3053\u306e\u7d44\u307f\u5408\u308f\u305b\u306f\u30b8\u30a7\u30fc\u30e0\u30ba\u30fb\u30ef\u30c8\u30bd\u30f3\u3068\u30d5\u30e9\u30f3\u30b7\u30b9\u30fb\u30af\u30ea\u30c3\u30af\u304c\u767a\u898b\u3057\u305f\u3082\u306e\u3067\u3001\u300c\u30ef\u30c8\u30bd\u30f3\u30fb\u30af\u30ea\u30c3\u30af\u578b\u5869\u57fa\u5bfe\u300d\u300c\u5929\u7136\u578b\u5869\u57fa\u5bfe\u300d\u3068\u8a00\u3046\u3002DNA \u3084 RNA \u306e\u5834\u5408\u3001\u30ef\u30c8\u30bd\u30f3\u30fb\u30af\u30ea\u30c3\u30af\u578b\u5869\u57fa\u5bfe\u304c\u5f62\u6210\u3057\u3055\u3089\u306b\u96a3\u308a\u5408\u3046\u5869\u57fa\u5bfe\u306e\u9593\u306b\u758e\u6c34\u6027\u76f8\u4e92\u4f5c\u7528\u304c\u306f\u305f\u3089\u304f\u3053\u3068\u304c\u3001\u4e8c\u91cd\u3089\u305b\u3093\u69cb\u9020\u304c\u5b89\u5b9a\u5316\u3059\u308b\u99c6\u52d5\u529b\u3068\u306a\u3063\u3066\u3044\u308b\u3002 \u3053\u308c\u306b\u5bfe\u3057\u3066\u3001DNA\u304c\u4e09\u91cd\u9396\u3092\u4f5c\u308b\u3068\u304d\u306a\u3069\u306b\u306f\u300c\u30d5\u30fc\u30b0\u30b9\u30c6\u30a3\u30fc\u30f3\u578b\u5869\u57fa\u5bfe\u300d\u3068\u3044\u3046\u5225\u306e\u30d1\u30bf\u30fc\u30f3\u306e\u5869\u57fa\u5bfe\u3082\u73fe\u308c\u308b\u3002\u30c6\u30ed\u30e1\u30a2\u914d\u5217\u304c\u6301\u3064\u56db\u91cd\u9396\u69cb\u9020\u3001G-\u30ab\u30eb\u30c6\u30c3\u30c8\u3082\u30d5\u30fc\u30b0\u30b9\u30c6\u30a3\u30fc\u30f3\u578b\u306e\u69cb\u9020\u3092\u3068\u3063\u3066\u3044\u308b\u3002\u3055\u3089\u306b\u4eba\u5de5\u7684\u306b\u5408\u6210\u3057\u305fATGC\u4ee5\u5916\u306e\u5869\u57fa\u3092\u4f7f\u3063\u3066\u3001\u7279\u5225\u306a\u5869\u57fa\u5bfe\u3092\u4f5c\u308a\u51fa\u3059\u3053\u3068\u3082\u53ef\u80fd\u3067\u3042\u308b\u3002 \u30a4\u30f3\u30bf\u30fc\u30ab\u30ec\u30fc\u30b7\u30e7\u30f3\u3068\u306f\u3001\u5e73\u9762\u72b6\u306e\u90e8\u4f4d\u3092\u6301\u3064\u6709\u6a5f\u5206\u5b50\uff08\u30a4\u30f3\u30bf\u30fc\u30ab\u30ec\u30fc\u30bf\u30fc\uff09\u304c\u30012\u500b\u306e\u5869\u57fa\u5bfe\u306e\u9593\u306b\u305d\u306e\u5e73\u9762\u90e8\u4f4d\u3092\u633f\u5165\u3059\u308b\u73fe\u8c61\u3092\u6307\u3059\u3002\u81ed\u5316\u30a8\u30c1\u30b8\u30a6\u30e0\u306f\u30a4\u30f3\u30bf\u30fc\u30ab\u30ec\u30fc\u30bf\u30fc\u306e\u4ee3\u8868\u4f8b\u3067\u3042\u308b\u3002",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Em gen\u00e9tica e biologia molecular um par de bases consiste em dois nucleot\u00eddeos opostos e complementares nas cadeias de ADN e ARN que est\u00e3o conectadas por liga\u00e7\u00f5es de hidrog\u00eanio (frequentemente chamadas pb ou do ingl\u00eas base pair, bp). Na can\u00f4nica paridade de bases Watson-Crick, adenina (A) forma um par de base com timina (T), como a guanina (G) faz par com a citosina (C) no DNA. No ARN, a timina \u00e9 substitu\u00edda pelo uracilo (U), conectando-se este com a adenosina. A paridade de base n\u00e3o nos moldes Watson-Crick com alternados padr\u00f5es de liga\u00e7\u00f5es de hidrog\u00eanio tamb\u00e9m ocorre, especialmente no RNA; tais padr\u00f5es comuns s\u00e3o os pares de bases Hoogsteen. Paridade \u00e9 tamb\u00e9m o mecanismo pelo qual c\u00f3dons sobre mol\u00e9culas de RNA mensageiro s\u00e3o reconhecidas por antic\u00f3dons sobre RNA transfer\u00eancia durante a transla\u00e7\u00e3o de prote\u00edna. Algumas enzimas de liga\u00e7\u00e3o DNA ou RNA podem reconhecer padr\u00f5es de paridade de bases espec\u00edficas que identificam regi\u00f5es de genes de regula\u00e7\u00e3o particular. O tamanho de um gene individual ou um genoma inteiro de um organismo \u00e9 frequentemente medido nos pares de bases. O DNA \u00e9 normalmente de cadeia dupla. Desde que, o n\u00famero total de pares de bases \u00e9 igual ao n\u00famero de nucleot\u00eddeos numa das cadeias (com a exce\u00e7\u00e3o de regi\u00f5es de cadeia \u00fanica n\u00e3o codificada de tel\u00f4meros). O genoma humano hapl\u00f3ide (23 cromossomas) \u00e9 estimado como tendo aproximadamente o comprimento de 3 bilh\u00f5es de pares de bases e contendo de 20 a 25 mil genes distintos. Uma quilobase (em algumas obras kilobase) \u00e9 uma unidade de medida em biologia molecular significando 1000 pares de bases de DNA ou RNA.",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "El apareamiento de bases se refiere a la interacci\u00f3n entre bases nitrogenadas que da origen a las formas hibridadas o plegadas de los \u00e1cidos nucleicos, tanto el ADN como el ARN. Las interacciones entre las bases se dan a trav\u00e9s de puentes de hidr\u00f3geno entre regiones espec\u00edficas. El primer patr\u00f3n de apareamiento modelado por Watson y Crick describe la interacci\u00f3n G-C(guanina-citosina), A-T(adenina-timina) y como consecuencia la estructura de doble h\u00e9lice del ADN. El car\u00e1cter complementario de este apareamiento proporciona tambi\u00e9n un mecanismo de replicaci\u00f3n y transcripci\u00f3n: procesos esenciales en la transferencia y el procesamiento de la informaci\u00f3n gen\u00e9tica. El apareamiento de bases puede ser intermolecular o intramolecular. Las bases de una hebra de ADN se aparean intermolecularmente con bases de su hebra complementaria, mientras que en los ARN de cadena sencilla el apareamiento se da intramolecularmente entre regiones complementarias cercanas dentro de la misma hebra.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "A base pair (bp) is a unit consisting of two nucleobases bound to each other by hydrogen bonds. They form the building blocks of the DNA double helix, and contribute to the folded structure of both DNA and RNA. Dictated by specific hydrogen bonding patterns, Watson-Crick base pairs (guanine-cytosine and adenine-thymine) allow the DNA helix to maintain a regular helical structure that is subtly dependent on its nucleotide sequence. The complementary nature of this based-paired structure provides a backup copy of all genetic information encoded within double-stranded DNA. The regular structure and data redundancy provided by the DNA double helix make DNA well suited to the storage of genetic information, while base-pairing between DNA and incoming nucleotides provides the mechanism through which DNA polymerase replicates DNA, and RNA polymerase transcribes DNA into RNA. Many DNA-binding proteins can recognize specific base pairing patterns that identify particular regulatory regions of genes. Intramolecular base pairs can occur within single-stranded nucleic acids. This is particularly important in RNA molecules (e.g., transfer RNA), where Watson-Crick base pairs (G-C and A-U) permit the formation of short double-stranded helices, and a wide variety of non-Watson-Crick interactions (e.g., G-U or A-A) allow RNAs to fold into a vast range of specific three-dimensional structures. In addition, base-pairing between transfer RNA (tRNA) and messenger RNA (mRNA) forms the basis for the molecular recognition events that result in the nucleotide sequence of mRNA becoming translated into the amino acid sequence of proteins via the genetic code. The size of an individual gene or an organism's entire genome is often measured in base pairs because DNA is usually double-stranded. Hence, the number of total base pairs is equal to the number of nucleotides in one of the strands (with the exception of non-coding single-stranded regions of telomeres). The haploid human genome (23 chromosomes) is estimated to be about 3.2 billion bases long and to contain 20,000\u201325,000 distinct protein-coding genes. A kilobase (kb) is a unit of measurement in molecular biology equal to 1000 base pairs of DNA or RNA. The total amount of related DNA base pairs on Earth is estimated at 5.0 x 1037, and weighs 50 billion tonnes. In comparison, the total mass of the biosphere has been estimated to be as much as 4 TtC (trillion tons of carbon).",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Une paire de bases (pb) est l'appariement de deux bases nucl\u00e9iques situ\u00e9es sur deux brins compl\u00e9mentaires d'ADN ou ARN. Cet appariement est effectu\u00e9 par des ponts hydrog\u00e8nes. Il y a quatre types de bases nucl\u00e9iques: A-T-C-G, ces lettres pour Ad\u00e9nine, Thymine, Cytosine et Guanine. A avec T et C avec G.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u0421\u043f\u0430\u0440\u0435\u043d\u043d\u044b\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u044f \u2014 \u043f\u0430\u0440\u0430 \u0434\u0432\u0443\u0445 \u0430\u0437\u043e\u0442\u0438\u0441\u0442\u044b\u0445 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0439 \u043d\u0443\u043a\u043b\u0435\u043e\u0442\u0438\u0434\u043e\u0432 \u043d\u0430 \u043a\u043e\u043c\u043f\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u0440\u043d\u044b\u0445 \u0446\u0435\u043f\u043e\u0447\u043a\u0430\u0445 \u043d\u0443\u043a\u043b\u0435\u0438\u043d\u043e\u0432\u044b\u0445 \u043a\u0438\u0441\u043b\u043e\u0442 (\u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u043d\u044b\u0445 \u0414\u041d\u041a \u0438\u043b\u0438 \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u044b\u0445 \u0420\u041d\u041a), \u0441\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u0430\u044f \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0432\u043e\u0434\u043e\u0440\u043e\u0434\u043d\u044b\u0445 \u0441\u0432\u044f\u0437\u0435\u0439. \u041f\u0440\u0438 \u043a\u0430\u043d\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0441\u043f\u0430\u0440\u0438\u0432\u0430\u043d\u0438\u0438 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0439 \u0414\u041d\u041a \u043f\u043e \u0423\u043e\u0442\u0441\u043e\u043d\u0443 \u2014 \u041a\u0440\u0438\u043a\u0443, \u0430\u0434\u0435\u043d\u0438\u043d (A) \u0444\u043e\u0440\u043c\u0438\u0440\u0443\u0435\u0442 \u0441\u043f\u0430\u0440\u0435\u043d\u043d\u043e\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u0441 \u0442\u0438\u043c\u0438\u043d\u043e\u043c (T), \u0430 \u0433\u0443\u0430\u043d\u0438\u043d (G) \u2014 \u0441 \u0446\u0438\u0442\u043e\u0437\u0438\u043d\u043e\u043c (C). \u0412 \u0420\u041d\u041a \u0442\u0438\u043c\u0438\u043d \u0437\u0430\u043c\u0435\u043d\u0451\u043d \u0443\u0440\u0430\u0446\u0438\u043b\u043e\u043c (U). \u0414\u0440\u0443\u0433\u0438\u0435 \u0441\u043f\u0430\u0440\u0438\u0432\u0430\u043d\u0438\u044f, \u043d\u0435 \u043f\u043e \u0423\u043e\u0442\u0441\u043e\u043d\u0443 \u2014 \u041a\u0440\u0438\u043a\u0443, \u0442\u0430\u043a\u0436\u0435 \u0441\u043b\u0443\u0447\u0430\u044e\u0442\u0441\u044f, \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0432 \u0420\u041d\u041a, \u0438 \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0442 \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0438\u0437\u043c\u0435\u043d\u0451\u043d\u043d\u043e\u0439 \u043a\u0430\u0440\u0442\u0438\u043d\u044b \u0432\u043e\u0434\u043e\u0440\u043e\u0434\u043d\u044b\u0445 \u0441\u0432\u044f\u0437\u0435\u0439: \u0442\u0438\u043f\u0438\u0447\u043d\u044b\u043c \u043f\u0440\u0438\u043c\u0435\u0440\u043e\u043c \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0433\u0443\u043a\u0441\u0442\u0435\u043d\u043e\u0432\u0441\u043a\u0438\u0435 \u0441\u043f\u0430\u0440\u0435\u043d\u043d\u044b\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u044f. \u041e\u0441\u043d\u043e\u0432\u043d\u0430\u044f \u0440\u043e\u043b\u044c \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0441\u043f\u0430\u0440\u0435\u043d\u043d\u044b\u0445 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445 \u2014 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0441\u0447\u0438\u0442\u044b\u0432\u0430\u043d\u0438\u044f \u0438 \u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438, \u0437\u0430\u043a\u043e\u0434\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0432 \u043d\u0443\u043a\u043b\u0435\u0438\u043d\u043e\u0432\u044b\u0445 \u043a\u0438\u0441\u043b\u043e\u0442\u0430\u0445. \u0412 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0435 \u0442\u0440\u0430\u043d\u0441\u043b\u044f\u0446\u0438\u0438, \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044e \u0441\u043f\u0430\u0440\u0435\u043d\u043d\u044b\u0445 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0439, \u043a\u043e\u0434\u043e\u043d\u0430\u043c\u0438 \u043c\u043e\u043b\u0435\u043a\u0443\u043b \u043c\u0430\u0442\u0440\u0438\u0447\u043d\u044b\u0445 \u0420\u041d\u041a \u0440\u0430\u0441\u043f\u043e\u0437\u043d\u0430\u044e\u0442\u0441\u044f \u0430\u043d\u0442\u0438\u043a\u043e\u0434\u043e\u043d\u044b \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0445 \u0420\u041d\u041a. \u041d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0414\u041d\u041a- \u0438\u043b\u0438 \u0420\u041d\u041a-\u0441\u0432\u044f\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u0444\u0435\u0440\u043c\u0435\u043d\u0442\u044b \u043c\u043e\u0433\u0443\u0442 \u0440\u0430\u0441\u043f\u043e\u0437\u043d\u0430\u0432\u0430\u0442\u044c \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0441\u043f\u0430\u0440\u0435\u043d\u043d\u044b\u0445 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0439: \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0444\u0430\u043a\u0442\u043e\u0440\u044b \u0442\u0440\u0430\u043d\u0441\u043a\u0440\u0438\u043f\u0446\u0438\u0438 \u0442\u0430\u043a \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u0446\u0438\u0440\u0443\u044e\u0442 \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0440\u0435\u0433\u0443\u043b\u044f\u0442\u043e\u0440\u043d\u044b\u0435 \u0443\u0447\u0430\u0441\u0442\u043a\u0438 \u0433\u0435\u043d\u043e\u0432.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u78b1\u57fa\u5bf9\u662f\u5f62\u6210\u6838\u9178DNA\u3001RNA\u5355\u4f53\u4ee5\u53ca\u7f16\u7801\u9057\u4f20\u4fe1\u606f\u7684\u5316\u5b66\u7ed3\u6784\u3002\u7ec4\u6210\u78b1\u57fa\u5bf9\u7684\u78b1\u57fa\u5305\u62ec\u817a\u560c\u5464\uff08A\uff09\u3001\u80f8\u817a\u5627\u5576\uff08T\uff09\u3001\u9e1f\u560c\u5464\uff08G\uff09\u3001\u80de\u5627\u5576\uff08C\uff09\u3001\u5c3f\u5627\u5576\uff08U\uff09\u3002\u4e25\u683c\u5730\u8bf4\uff0c\u78b1\u57fa\u5bf9\u662f\u4e00\u5bf9\u76f8\u4e92\u5339\u914d\u7684\u78b1\u57fa\uff08\u5373A\uff1aT\uff0c G\uff1aC\uff0cA\uff1aU\u76f8\u4e92\u4f5c\u7528\uff09\u88ab\u6c22\u952e\u8fde\u63a5\u8d77\u6765\u3002\u7136\u800c\uff0c\u5b83\u5e38\u88ab\u7528\u6765\u8861\u91cfDNA\u548cRNA\u7684\u957f\u5ea6\uff08\u5c3d\u7ba1RNA\u662f\u5355\u94fe\uff09\u3002\u5b83\u8fd8\u4e0e\u6838\u82f7\u9178\u4e92\u6362\u4f7f\u7528\uff0c\u5c3d\u7ba1\u540e\u8005\u662f\u7531\u4e00\u4e2a\u4e94\u78b3\u7cd6\u3001\u78f7\u9178\u548c\u4e00\u4e2a\u78b1\u57fa\u7ec4\u6210\u3002 \u9e7c\u57fa\u5c0d\u901a\u5e38\u7c21\u5beb\u505abp\uff08base pair\uff09\uff1b\u5343\u9e7c\u57fa\u5c0d \u70bakbp\uff0c\u6216\u7c21\u5beb\u4f5ckb\uff08\u5c0d\u65bc\u96d9\u93c8\u6838\u9178\u3002\u5c0d\u65bc\u55ae\u93c8\u6838\u9178\uff0ckb\u6307\u5343\u9e7c\u57fa\uff09\uff1b\u5146\u9e7c\u57fa\u5373\u767e\u842c\u5c0d\u9e7c\u57fa\u7c21\u5beb\u4f5cMbp\u3002 \u4eba\u7c7b\u4e5f\u6210\u529f\u7684\u5c06\u4eba\u9020\u78b1\u57fa\u5bf9\u52a0\u5165\u5230\u4e86DNA\u4e2d\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Het erfelijk materiaal, DNA, bestaat uit een zeer lange dubbele keten van basenparen in de vorm van een dubbele helix. Deze basenparen bestaan uit steeds twee nucleotiden. De gedeelten van de nucleotiden, die de basenparen vormen, worden basen genoemd. Een basenpaar (1 bp) geeft 2 bit aan informatie daar er bij DNA of RNA vier verschillende mogelijkheden (nucleotiden) zijn. De massa van een basenpaar in een dubbele DNA-helix bedraagt 650 atomaire massa-eenheden, ook wel uitgedrukt in Daltons. Het molecuulgewicht van een bepaalde DNA-soort is ongeveer 650 g per mol per basenpaar.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0627\u0644\u0632\u0648\u062c \u0627\u0644\u0642\u0627\u0639\u062f\u064a \u0641\u064a \u0639\u0644\u0645 \u0627\u0644\u0623\u062d\u064a\u0627\u0621 \u0627\u0644\u062c\u0632\u064a\u0626\u064a \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0632\u0648\u062c \u0645\u0646 \u0646\u0648\u0643\u0644\u064a\u0648\u062a\u064a\u062f\u064a\u0646 \u0645\u062a\u0643\u0627\u0645\u0644\u064a\u0646 \u0645\u0648\u062c\u0648\u062f\u064a\u0646 \u0639\u0644\u0649 \u0637\u0631\u0641\u064a \u0633\u0644\u0633\u0644\u0629 \u0627\u0644\u062d\u0645\u0636 \u0627\u0644\u0631\u064a\u0628\u064a \u0627\u0644\u0646\u0648\u0648\u064a \u0645\u0646\u0642\u0648\u0635 \u0627\u0644\u0623\u0643\u0633\u062c\u064a\u0646 DNA \u0623\u0648 \u0627\u0644\u062d\u0645\u0636 \u0627\u0644\u0631\u064a\u0628\u064a \u0627\u0644\u0646\u0648\u0648\u064a RNA \u0648\u0645\u0631\u062a\u0628\u0637\u064a\u0646 \u0628\u0628\u0639\u0636\u0647\u0645\u0627 \u0628\u0631\u0627\u0628\u0637\u0629 \u0647\u064a\u062f\u0631\u0648\u062c\u064a\u0646\u064a\u0629. \u0641\u0641\u064a \u0646\u0645\u0648\u0630\u062c \u0648\u0627\u0637\u0633\u0648\u0646-\u0643\u0631\u064a\u0643\u0627\u0644\u0644\u0648\u0644\u0628\u064a \u0644\u0644\u062f\u0646\u0627 \u064a\u0634\u0643\u0644 \u0627\u0644\u0623\u062f\u064a\u0646\u064a\u0646 A \u0632\u0648\u062c\u0627\u064b \u0642\u0627\u0639\u062f\u064a\u0627\u064b \u0645\u0639 \u0627\u0644\u062b\u064a\u0645\u064a\u0646 T \u061b \u0643\u0645\u0627 \u064a\u0634\u0643\u0644 \u0627\u0644\u063a\u0648\u0627\u0646\u064a\u0646 G \u0645\u0639 \u0627\u0644\u0633\u064a\u062a\u0648\u0632\u064a\u0646 C \u0632\u0648\u062c\u0627 \u0642\u0627\u0639\u062f\u064a\u0627 \u0622\u062e\u0631\u0627. \u0627\u0644\u0623\u0632\u0648\u0627\u062c \u0627\u0644\u0642\u0627\u0639\u062f\u064a\u0629 \u062a\u0631\u0628\u0637 \u0628\u064a\u0646 \u0633\u0644\u0633\u0644\u062a\u064a \u0627\u0644\u0644\u0648\u0644\u0628 \u0627\u0644\u0645\u0632\u062f\u0648\u062c \u0644\u0644\u062f\u0646\u0627 DNA. \u0623\u0645\u0627 \u0641\u064a RNA \u0641\u0625\u0646 \u0627\u0644\u064a\u0648\u0631\u0627\u0633\u064a\u0644 U \u064a\u062d\u0644 \u0645\u062d\u0644 \u0627\u0644\u062b\u064a\u0645\u064a\u0646. \u0625\u0646 \u062a\u062a\u0627\u0628\u0639 \u0627\u0644\u0623\u0632\u0648\u0627\u062c \u0627\u0644\u0642\u0627\u0639\u062f\u064a\u0629 \u0641\u064a \u0627\u0644\u062f\u0646\u0627 \u0647\u064a \u0627\u0644\u062a\u064a \u062a\u062d\u0645\u0644 \u0627\u0644\u062c\u064a\u0646\u0627\u062a \u0648\u062a\u0634\u0643\u0644 \u0634\u0641\u0631\u0627\u062a\u0647\u0627 \u060c \u0645\u062b\u0644 \u062d\u0631\u0648\u0641 \u0627\u0644\u0643\u062a\u0627\u0628\u0629 \u0627\u0644\u062a\u064a \u062a\u062a\u0643\u0648\u0646 \u0645\u0646\u0647\u0627 \u0643\u0644\u0645\u0627\u062a \u0648\u062c\u0645\u0644 \u0648 \u0643\u062a\u0627\u0628 . \u0641\u0627\u0644\u062c\u064a\u0646\u0627\u062a \u062a\u062d\u0645\u0644 \"\u0643\u062a\u0627\u0628 \u0627\u0644\u062d\u064a\u0627\u0629\" \u061b \u0627\u0644\u062c\u064a\u0646\u0627\u062a \u062a\u062d\u0645\u0644 \u0623\u0648\u0635\u0627\u0641 \u0627\u0644\u062c\u0646\u064a\u0646 \u0623\u0648 \u0627\u0644\u0637\u0641\u0644 \u0648\u0644\u0647\u0630\u0627 \u062a\u0633\u0645\u0649 \u0645\u0648\u0631\u062b\u0627\u062a. \u0646\u0635\u0641 \u0627\u0644\u0645\u0648\u0631\u062b\u0627\u062a \u064a\u0623\u062a\u064a \u0645\u0646 \u0627\u0644\u0623\u0645 \u0641\u064a \u0627\u0644\u0628\u0648\u064a\u0636\u0629 \u0648\u0627\u0644\u0646\u0635\u0641 \u0627\u0644\u0622\u062e\u0631 \u064a\u0623\u062a\u064a \u0645\u0646 \u0627\u0644\u062d\u064a\u0648\u0627\u0646 \u0627\u0644\u0645\u0646\u0648\u064a \u0645\u0646 \u0627\u0644\u0623\u0628. \u0648\u0644\u0627 \u064a\u0642\u062a\u0635\u0631 \u0639\u0645\u0644 \u0627\u0644\u062c\u064a\u0646\u0627\u062a \u0639\u0644\u0649 \u062a\u0634\u0643\u064a\u0644 \u0623\u0648\u0635\u0627\u0641 \u0627\u0644\u0637\u0641\u0644 \u0623\u0648 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 \u0627\u0644\u0645\u0648\u0644\u0648\u062f \u0627\u0644\u062c\u062f\u064a\u062f \u0641\u0642\u0637 \u060c \u0648\u062a\u0646\u0638\u0645 \u0646\u0645\u0648\u0647 \u060c \u0628\u0644 \u0623\u0646 \u0628\u0639\u0636 \u0627\u0644\u062c\u064a\u0646\u0627\u062a \u062a\u0646\u062a\u062c \u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646 \u0644\u0646\u0645\u0648 \u0627\u0644\u062c\u0633\u0645 \u060c \u0648\u062a\u0646\u062a\u062c \u0627\u0644\u0625\u0646\u0632\u064a\u0645\u0627\u062a \u0648 \u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0646\u0638\u0645 \u0639\u0645\u0644 \u0645\u062e\u062a\u0644\u0641 \u0648\u0638\u0627\u0626\u0641 \u0627\u0644\u0623\u0639\u0636\u0627\u0621 \u061b \u0643\u0627\u0644\u0643\u0628\u062f \u060c \u0648\u0627\u0644\u0643\u0644\u0649 \u060c \u0648\u0627\u0644\u062c\u0647\u0627\u0632 \u0627\u0644\u0647\u0636\u0645\u064a \u060c \u0648 \u062c\u0647\u0627\u0632 \u0627\u0644\u0645\u0646\u0627\u0639\u0629 \u060c\u0648\u0643\u0644 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u062d\u064a\u0648\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u062e\u0635 \u0627\u0644\u0643\u0627\u0626\u0646 \u0627\u0644\u062d\u064a.",
+                "lang": "ar"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/AT_DNA_base_pair.png?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 740760386,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 4292,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Unit"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Base_pair": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Gigabase": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/BP_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Megabase": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Base": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kilo-base_pair": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unnatural_base_pair": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Base_pairing": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Base_pairs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kilobase": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nucleotide_pair": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mega_base_pairs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kilo_base_pair": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Kilobase_pair": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Double-stranded": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Base-pair": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Megabases": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Watson-Crick_base_pair": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Watson-crick_base_pairing": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Base-pairing": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Single-stranded": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Single_strand": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Single_stranded": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Single_strands": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Watson-Crick_base_pairing": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Basepair": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Double-strand": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Double_strand": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Double_stranded": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Watson-Crick_pair": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Watson-Crick_pairs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/UBPs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Unnatural_base_pairs": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Watson-Crick_pairing": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Artificial_DNA": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Base_pair"
+            }
+        ]
+    }
+}

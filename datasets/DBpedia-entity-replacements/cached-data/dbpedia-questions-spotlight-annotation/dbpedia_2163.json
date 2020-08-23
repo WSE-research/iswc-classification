@@ -1,0 +1,37 @@
+{
+    "@text": "What is the sister city of Antwerp, that has cities in Minhang District?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Twin_towns_and_sister_cities",
+            "@support": "7740",
+            "@types": "",
+            "@surfaceForm": "sister city",
+            "@offset": "12",
+            "@similarityScore": "0.9999965058517627",
+            "@percentageOfSecondRank": "2.6675316989322824E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Antwerp",
+            "@support": "14620",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Antwerp",
+            "@offset": "27",
+            "@similarityScore": "0.9998153763721839",
+            "@percentageOfSecondRank": "1.6302606373989385E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Minhang_District",
+            "@support": "119",
+            "@types": "Wikidata:Q486972,Schema:Place,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location",
+            "@surfaceForm": "Minhang District",
+            "@offset": "55",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

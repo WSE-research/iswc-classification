@@ -1,0 +1,37 @@
+{
+    "@text": "What are shows whose theme music composer's home town is New York?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Theme_music",
+            "@support": "2510",
+            "@types": "",
+            "@surfaceForm": "theme music",
+            "@offset": "21",
+            "@similarityScore": "0.9973335913308069",
+            "@percentageOfSecondRank": "0.001814612767797923"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Composer",
+            "@support": "22915",
+            "@types": "",
+            "@surfaceForm": "composer",
+            "@offset": "33",
+            "@similarityScore": "0.9989730762824656",
+            "@percentageOfSecondRank": "5.639636568324888E-4"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/New_York",
+            "@support": "160387",
+            "@types": "Wikidata:Q3455524,Schema:Place,Schema:AdministrativeArea,DBpedia:Region,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:AdministrativeRegion",
+            "@surfaceForm": "New York",
+            "@offset": "57",
+            "@similarityScore": "0.6706229511750843",
+            "@percentageOfSecondRank": "0.49019636893957547"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "@text": "Name a wizard in \"Harry Potter\".",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Unseen_University",
+            "@support": "440",
+            "@types": "Wikidata:Q43229,Wikidata:Q3918,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,Schema:EducationalOrganization,Schema:CollegeOrUniversity,DBpedia:University,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+            "@surfaceForm": "wizard",
+            "@offset": "7",
+            "@similarityScore": "0.8768833806004734",
+            "@percentageOfSecondRank": "0.11479035365063267"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Harry_Potter",
+            "@support": "5679",
+            "@types": "",
+            "@surfaceForm": "Harry Potter",
+            "@offset": "18",
+            "@similarityScore": "0.9998474030584894",
+            "@percentageOfSecondRank": "9.357695560932054E-5"
+        }
+    ]
+}

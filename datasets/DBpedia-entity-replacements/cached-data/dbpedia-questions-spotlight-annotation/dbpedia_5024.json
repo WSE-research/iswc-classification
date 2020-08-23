@@ -1,0 +1,37 @@
+{
+    "@text": "Which river {is in} the Zanzibar Archipelago, that has a {tributary} on the [Athi-Galana-Sabaki River}?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Zanzibar_Archipelago",
+            "@support": "152",
+            "@types": "",
+            "@surfaceForm": "Zanzibar Archipelago",
+            "@offset": "24",
+            "@similarityScore": "0.9999999999999147",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Tributary",
+            "@support": "17917",
+            "@types": "",
+            "@surfaceForm": "tributary",
+            "@offset": "58",
+            "@similarityScore": "0.9999909916500548",
+            "@percentageOfSecondRank": "4.3823123742027904E-6"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Athi-Galana-Sabaki_River",
+            "@support": "52",
+            "@types": "",
+            "@surfaceForm": "Athi-Galana-Sabaki River",
+            "@offset": "77",
+            "@similarityScore": "1.0",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "@text": "Did Lolita reference The Emperor's New Clothes and Eulalie?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Lolita",
+            "@support": "868",
+            "@types": "Wikidata:Q571,Wikidata:Q386724,Schema:CreativeWork,Schema:Book,Http://purl.org/ontology/bibo/Book,DBpedia:WrittenWork,DBpedia:Work,DBpedia:Book",
+            "@surfaceForm": "Lolita",
+            "@offset": "4",
+            "@similarityScore": "0.9489406059205681",
+            "@percentageOfSecondRank": "0.0538039927186967"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Emperor",
+            "@support": "5371",
+            "@types": "",
+            "@surfaceForm": "Emperor",
+            "@offset": "25",
+            "@similarityScore": "0.7289071322433643",
+            "@percentageOfSecondRank": "0.16524581549946635"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Eulalie",
+            "@support": "22",
+            "@types": "",
+            "@surfaceForm": "Eulalie",
+            "@offset": "51",
+            "@similarityScore": "0.999999988283662",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

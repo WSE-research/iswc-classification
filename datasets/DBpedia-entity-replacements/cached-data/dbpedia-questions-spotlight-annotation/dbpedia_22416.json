@@ -1,0 +1,37 @@
+{
+    "@text": "List sports managers who managed Middlesbrough F.C. and England national under-21 football team?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/Yorkshire_Carnegie",
+            "@support": "764",
+            "@types": "Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:RugbyClub,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "F.C.",
+            "@offset": "47",
+            "@similarityScore": "0.999999999764043",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/England_national_football_team",
+            "@support": "19740",
+            "@types": "Wikidata:Q476028,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:SportsTeam,Schema:Organization,DBpedia:SportsTeam,DBpedia:SoccerClub,DBpedia:Organisation,DBpedia:Agent",
+            "@surfaceForm": "England",
+            "@offset": "56",
+            "@similarityScore": "0.6419312895543872",
+            "@percentageOfSecondRank": "0.525185345320625"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Association_football",
+            "@support": "280277",
+            "@types": "Wikidata:Q349,Wikidata:Q1914636,Http://www.ontologydesignpatterns.org/ont/d0.owl#Activity,DBpedia:Sport,DBpedia:Activity",
+            "@surfaceForm": "football",
+            "@offset": "82",
+            "@similarityScore": "0.9981415142483183",
+            "@percentageOfSecondRank": "0.0012057049226044342"
+        }
+    ]
+}

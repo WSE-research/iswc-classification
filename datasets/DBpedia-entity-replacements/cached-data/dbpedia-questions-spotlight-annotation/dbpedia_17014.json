@@ -1,0 +1,37 @@
+{
+    "@text": "Which is MycoBank taxon name ID of Oomycetes?",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/MycoBank",
+            "@support": "77",
+            "@types": "",
+            "@surfaceForm": "MycoBank",
+            "@offset": "9",
+            "@similarityScore": "0.9999999965102973",
+            "@percentageOfSecondRank": "0.0"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Taxon",
+            "@support": "5282",
+            "@types": "",
+            "@surfaceForm": "taxon",
+            "@offset": "18",
+            "@similarityScore": "0.9999996096069788",
+            "@percentageOfSecondRank": "3.8719869225726423E-7"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/Oomycete",
+            "@support": "325",
+            "@types": "Wikidata:Q19088,DBpedia:Species,DBpedia:Eukaryote",
+            "@surfaceForm": "Oomycetes",
+            "@offset": "35",
+            "@similarityScore": "0.9999998015107306",
+            "@percentageOfSecondRank": "0.0"
+        }
+    ]
+}

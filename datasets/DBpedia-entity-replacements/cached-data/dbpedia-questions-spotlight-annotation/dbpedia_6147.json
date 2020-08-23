@@ -1,0 +1,28 @@
+{
+    "@text": "Who is the {national anthem} for {anthem} of {European Union}",
+    "@confidence": "0.5",
+    "@support": "0",
+    "@types": "",
+    "@sparql": "",
+    "@policy": "whitelist",
+    "Resources": [
+        {
+            "@URI": "http://dbpedia.org/resource/National_anthem",
+            "@support": "2857",
+            "@types": "",
+            "@surfaceForm": "national anthem",
+            "@offset": "12",
+            "@similarityScore": "0.9931161582898683",
+            "@percentageOfSecondRank": "0.005080804350154434"
+        },
+        {
+            "@URI": "http://dbpedia.org/resource/European_Union",
+            "@support": "40000",
+            "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+            "@surfaceForm": "European Union",
+            "@offset": "46",
+            "@similarityScore": "0.9999565012345468",
+            "@percentageOfSecondRank": "1.8681491601096385E-5"
+        }
+    ]
+}

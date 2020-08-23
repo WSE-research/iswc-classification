@@ -1,0 +1,854 @@
+{
+    "http://dbpedia.org/resource/Isotope": {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+            {
+                "type": "uri",
+                "value": "http://www.w3.org/2002/07/owl#Thing"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/ontology/MeanOfTransportation"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "type": "literal",
+                "value": "Isotopo",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Isotop",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Isotope",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "\u540c\u4f4d\u7d20",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u0646\u0638\u064a\u0631 (\u0643\u064a\u0645\u064a\u0627\u0621)",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Is\u00f3topo",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Isotoop",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Isotope",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Is\u00f3topo",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Izotopy",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0418\u0437\u043e\u0442\u043e\u043f\u044b",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u540c\u4f4d\u4f53",
+                "lang": "ja"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#comment": [
+            {
+                "type": "literal",
+                "value": "\u0418\u0437\u043e\u0442\u043e\u0301\u043f\u044b (\u043e\u0442 \u0434\u0440.-\u0433\u0440\u0435\u0447. \u03b9\u03c3\u03bf\u03c2 \u2014 \u00ab\u0440\u0430\u0432\u043d\u044b\u0439\u00bb, \u00ab\u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u044b\u0439\u00bb, \u0438 \u03c4\u03cc\u03c0\u03bf\u03c2 \u2014 \u00ab\u043c\u0435\u0441\u0442\u043e\u00bb) \u2014 \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u0438 \u0430\u0442\u043e\u043c\u043e\u0432 (\u0438 \u044f\u0434\u0435\u0440) \u043a\u0430\u043a\u043e\u0433\u043e-\u043b\u0438\u0431\u043e \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u044b\u0439 \u0430\u0442\u043e\u043c\u043d\u044b\u0439 (\u043f\u043e\u0440\u044f\u0434\u043a\u043e\u0432\u044b\u0439) \u043d\u043e\u043c\u0435\u0440, \u043d\u043e \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u0440\u0430\u0437\u043d\u044b\u0435 \u043c\u0430\u0441\u0441\u043e\u0432\u044b\u0435 \u0447\u0438\u0441\u043b\u0430. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0441\u0432\u044f\u0437\u0430\u043d\u043e \u0441 \u0442\u0435\u043c, \u0447\u0442\u043e \u0432\u0441\u0435 \u0438\u0437\u043e\u0442\u043e\u043f\u044b \u043e\u0434\u043d\u043e\u0433\u043e \u0430\u0442\u043e\u043c\u0430 \u043f\u043e\u043c\u0435\u0449\u0430\u044e\u0442\u0441\u044f \u0432 \u043e\u0434\u043d\u043e \u0438 \u0442\u043e \u0436\u0435 \u043c\u0435\u0441\u0442\u043e (\u0432 \u043e\u0434\u043d\u0443 \u043a\u043b\u0435\u0442\u043a\u0443) \u0442\u0430\u0431\u043b\u0438\u0446\u044b \u041c\u0435\u043d\u0434\u0435\u043b\u0435\u0435\u0432\u0430. \u0425\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430 \u0430\u0442\u043e\u043c\u0430 \u0437\u0430\u0432\u0438\u0441\u044f\u0442 \u043e\u0442 \u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438, \u043a\u043e\u0442\u043e\u0440\u0430\u044f, \u0432 \u0441\u0432\u043e\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c, \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u0437\u0430\u0440\u044f\u0434\u043e\u043c \u044f\u0434\u0440\u0430 Z (\u0442\u043e \u0435\u0441\u0442\u044c \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e\u043c \u043f\u0440\u043e\u0442\u043e\u043d\u043e\u0432 \u0432 \u043d\u0451\u043c), \u0438 \u043f\u043e\u0447\u0442\u0438 \u043d\u0435 \u0437\u0430\u0432\u0438\u0441\u044f\u0442 \u043e\u0442 \u0435\u0433\u043e \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0433\u043e \u0447\u0438\u0441\u043b\u0430 A (\u0442\u043e \u0435\u0441\u0442\u044c \u0441\u0443\u043c\u043c\u0430\u0440\u043d\u043e\u0433\u043e \u0447\u0438\u0441\u043b\u0430 \u043f\u0440\u043e\u0442\u043e\u043d\u043e\u0432 Z \u0438 \u043d\u0435\u0439\u0442\u0440\u043e\u043d\u043e\u0432 N).",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "\u540c\u4f4d\u4f53\uff08\u3069\u3046\u3044\u305f\u3044\u3001\u82f1: isotope\uff1b\u30a2\u30a4\u30bd\u30c8\u30fc\u30d7\uff09\u3068\u306f\u3001\u540c\u4e00\u539f\u5b50\u756a\u53f7\u3092\u6301\u3064\u3082\u306e\u306e\u4e2d\u6027\u5b50\u6570\uff08\u8cea\u91cf\u6570 A - \u539f\u5b50\u756a\u53f7 Z\uff09\u304c\u7570\u306a\u308b\u6838\u7a2e\u306e\u95a2\u4fc2\u3092\u8a00\u3046\u3002\u6b74\u53f2\u7684\u306a\u4e8b\u60c5\u306b\u3088\u308a\u6838\u7a2e\u306e\u6982\u5ff5\u305d\u306e\u3082\u306e\u3068\u3057\u3066\u7528\u3044\u3089\u308c\u308b\u5834\u5408\u3082\u591a\u3044\u3002 \u540c\u4f4d\u4f53\u306f\u3001\u653e\u5c04\u80fd\u3092\u6301\u3064\u653e\u5c04\u6027\u540c\u4f4d\u4f53\uff08radioisotope\uff09\u3068\u305d\u3046\u3067\u306f\u306a\u3044\u5b89\u5b9a\u540c\u4f4d\u4f53\uff08stable isotope\uff09\u306e\u4e8c\u7a2e\u985e\u306b\u5206\u985e\u3055\u308c\u308b",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "La palabra is\u00f3topo(del griego: \u1f34\u03c3\u03bf\u03c2 isos 'igual, mismo'; \u03c4\u03cc\u03c0\u03bf\u03c2 t\u00f3pos 'lugar', \"en mismo sitio\") se usa para indicar que todos los tipos de \u00e1tomos de un mismo elemento qu\u00edmico (is\u00f3topos) se encuentran en el mismo sitio de la tabla peri\u00f3dica. Los \u00e1tomos que son is\u00f3topos entre s\u00ed son los que tienen igual n\u00famero at\u00f3mico (n\u00famero de protones en el n\u00facleo), pero diferente n\u00famero m\u00e1sico (suma del n\u00famero de neutrones y el de protones en el n\u00facleo). Los distintos is\u00f3topos de un elemento difieren, pues, en el n\u00famero de neutrones.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Is\u00f3topos s\u00e3o variantes de um elemento qu\u00edmico. Enquanto todos os is\u00f3topos de um dado elemento compartilham o mesmo n\u00famero de pr\u00f3tons, cada is\u00f3topo difere dos outros em seu n\u00famero de n\u00eautrons. O termo is\u00f3topo \u00e9 formado a partir das ra\u00edzes gregas isos (\u1f34\u03c3\u03bf\u03c2 \"igual\") e Topos (\"lugar\" \u03c4\u03cc\u03c0\u03bf\u03c2). Assim: \"o mesmo lugar\", significando que diferentes is\u00f3topos de um \u00fanico elemento ocupam a mesma posi\u00e7\u00e3o na tabela peri\u00f3dica. O n\u00famero de pr\u00f3tons dentro do n\u00facleo do \u00e1tomo identifica unicamente um elemento, mas um determinado elemento pode, em princ\u00edpio, ter qualquer n\u00famero de n\u00eautrons. O n\u00famero de n\u00facleons (soma de pr\u00f3tons e n\u00eautrons) no n\u00facleo \u00e9 o n\u00famero de massa, e cada is\u00f3topo de um determinado elemento tem um n\u00famero de massa diferente. A diferen\u00e7a nos pesos at\u00f3micos resulta de diferen\u00e7as no n\u00famero de",
+                "lang": "pt"
+            },
+            {
+                "type": "literal",
+                "value": "Isotopen zijn atomen van hetzelfde chemische element, en dus met hetzelfde aantal protonen, waarin het aantal neutronen in de atoomkern verschilt. Volgens gangbare modellen bestaat een atoom uit een atoomkern met daaromheen een wolk van elektronen. De kern bestaat uit een aantal protonen en een aantal neutronen. Het aantal protonen bepaalt het atoomnummer van het element en ook de chemische eigenschappen. Het aantal neutronen bepaalt onder meer de stabiliteit van de kern en, samen met het aantal protonen, de atoommassa. Twee atomen met hetzelfde aantal protonen maar een verschillend aantal neutronen noemen we twee isotopen van hetzelfde element. Wanneer de elementen niet gespecificeerd worden, wordt van een nuclide gesproken.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "Un isotopo, dal greco \u1f34\u03c3\u03bf\u03c2 (isos, stesso) \u03c4\u03cc\u03c0\u03bf\u03c2 (topos, posto), \u00e8 un atomo di uno stesso elemento chimico, ha perci\u00f2 lo stesso numero atomico Z, ma con differente numero di massa A, e quindi differente massa atomica M. La differenza dei numeri di massa \u00e8 dovuta ad un diverso numero di neutroni presenti nel nucleo dell'atomo a parit\u00e0 di numero atomico.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) 25\u0628\u0643 \u0644\u0645\u0639\u0627\u0646\u064a \u0623\u062e\u0631\u0649\u060c \u0627\u0646\u0638\u0631 \u0646\u0638\u064a\u0631 (\u0643\u064a\u0645\u064a\u0627\u0621) (\u062a\u0648\u0636\u064a\u062d). \u0646\u0638\u0627\u0626\u0631 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0647\u064a \u0623\u0634\u0643\u0627\u0644 \u0645\u0646 \u0627\u0644\u0639\u0646\u0635\u0631 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a \u0644\u0630\u0631\u062a\u0647\u0627 \u0646\u0641\u0633 \u0627\u0644\u0639\u062f\u062f \u0627\u0644\u0630\u0631\u064a Z\u060c \u0648\u0644\u0643\u0646\u0647\u0627 \u062a\u062e\u062a\u0644\u0641 \u0641\u064a \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u0630\u0631\u064a\u0629 \u0628\u0633\u0628\u0628 \u0627\u062e\u062a\u0644\u0627\u0641 \u0639\u062f\u062f \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a. \u0648\u0644\u0627 \u062a\u062e\u062a\u0644\u0641 \u0627\u0644\u062e\u0648\u0627\u0635 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0644\u0644\u0630\u0631\u0629 \u0648\u0646\u0638\u064a\u0631\u0647\u0627\u060c \u0630\u0644\u0643 \u0644\u0623\u0646 \u0627\u0644\u062e\u0648\u0627\u0635 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0644\u0644\u0630\u0631\u0629 \u062a\u0639\u062a\u0645\u062f \u0639\u0644 \u0639\u062f\u062f \u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0646\u0627\u062a \u0641\u064a \u0627\u0644\u0646\u0648\u0627\u0629 \u0648\u0628\u0627\u0644\u062a\u0627\u0644\u064a \u0639\u0644\u0649 \u0639\u062f\u062f \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u062f\u0648\u0631 \u0641\u064a \u0627\u0644\u063a\u0644\u0627\u0641 \u0627\u0644\u0646\u0648\u0648\u064a \u0648\u062a\u0648\u0632\u064a\u0639\u0647\u0627. \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u0627\u062a \u0647\u064a \u0627\u0644\u062a\u064a \u062a\u0634\u062a\u0631\u0643 \u0641\u064a \u0627\u0644\u062a\u0641\u0627\u0639\u0644\u0627\u062a \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629. \u0623\u0645\u0627 \u0627\u0644\u062e\u0648\u0627\u0635 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0626\u064a\u0629 \u0641\u0647\u064a \u062a\u062e\u062a\u0644\u0641 \u0644\u0643\u0644\u0627\u0647\u0645\u0627 \u0627\u062e\u062a\u0644\u0627\u0641\u0627 \u0643\u0628\u064a\u0631\u0627 \u062d\u064a\u062b \u062a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0639\u062f\u062f \u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0646\u0627\u062a \u0648\u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u0648\u062a\u0648\u0632\u064a\u0639\u0647\u0645\u0627 \u0641\u064a \u0627\u0644\u0646\u0648\u0627\u0629\u060c \u0648\u0647\u0645 \u064a\u0634\u062a\u0631\u0643\u0648\u0646 \u0641\u064a\u0645\u0627 \u064a\u0633\u0645\u0649 \u062a\u0641\u0627\u0639\u0644\u0627\u062a \u0646\u0648\u0648\u064a\u0629. \u0641\u0645\u062b\u0644\u0627\u064b \u0625\u0630\u0627 \u0646\u0638\u0631\u0646\u0627 \u0625\u0644\u0649 \u0630\u0631\u0629 \u0627\u0644\u0643\u0631\u0628\u0648\u0646-12 \u0648\u0647\u064a \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 6 \u0628\u0631\u0648\u062a\u0648\u0646\u0627\u062a \u0648 6 \u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u0641\u064a \u0646\u0648\u0627\u062a\u0647\u0627 \u0641\u0647\u064a \u0645\u0633\u062a\u0642\u0631\u0629 (\u062e\u0627\u0635\u0629 \u0641\u064a\u0632\u064a",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "Les isotopes ne doivent pas \u00eatre confondus avec : \n*  les isotones, nucl\u00e9ides ayant le m\u00eame nombre de neutrons mais un nombre de protons diff\u00e9rent (Z \u2260 Z' mais N = N') ; \n*  les isobares, nucl\u00e9ides ayant des nombres de protons diff\u00e9rents, des nombres de neutrons diff\u00e9rents, mais des nombres de masse identiques (Z \u2260 Z', N \u2260 N', mais Z + N = A = A' = Z' + N') ; \n*  les isom\u00e8res, nucl\u00e9ides ayant le m\u00eame nombre de protons et le m\u00eame nombre de neutrons (donc aussi le m\u00eame nombre de masse) mais pas le m\u00eame spin ni le m\u00eame niveau \u00e9nerg\u00e9tique.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "Izotopy  \u2013 odmiany pierwiastka chemicznego r\u00f3\u017cni\u0105ce si\u0119 liczb\u0105 neutron\u00f3w w j\u0105drze atomu (z definicji atomy tego samego pierwiastka maj\u0105 t\u0119 sam\u0105 liczb\u0119 proton\u00f3w w j\u0105drze). Izotopy tego samego pierwiastka r\u00f3\u017cni\u0105 si\u0119 liczb\u0105 masow\u0105 (\u0142\u0105czn\u0105 liczb\u0105 neutron\u00f3w i proton\u00f3w w j\u0105drze), ale maj\u0105 t\u0119 sam\u0105 liczb\u0119 atomow\u0105 (liczb\u0119 proton\u00f3w w j\u0105drze). Izotopy, ze wzgl\u0119du na stabilno\u015b\u0107, dzieli si\u0119 na: Pierwiastki wyst\u0119puj\u0105 naturalnie zwykle jako mieszanina izotop\u00f3w. Jest to g\u0142\u00f3wna przyczyna, obok deficytu masy, kt\u00f3ra sprawia, \u017ce masy atomowe nie s\u0105 liczbami ca\u0142kowitymi.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "\u540c\u4f4d\u7d20\uff08\u82f1\u8bed\uff1aIsotope\uff09\u662f\u67d0\u7a2e\u7279\u5b9a\u5316\u5b78\u5143\u7d20\u4e4b\u4e0b\u7684\u4e0d\u540c\u7a2e\u985e\uff0c\u540c\u4e00\u7a2e\u5143\u7d20\u4e0b\u7684\u6240\u6709\u540c\u4f4d\u7d20\u90fd\u5177\u6709\u76f8\u540c\u539f\u5b50\u5e8f\u6578\uff0c\u8cea\u5b50\u6578\u76ee\u76f8\u540c\uff0c\u4f46\u4e2d\u5b50\u6578\u76ee\u537b\u4e0d\u540c\u3002\u9019\u4e9b\u540c\u4f4d\u7d20\u5728\u5316\u5b78\u5143\u7d20\u9031\u671f\u8868\u4e2d\u4f54\u6709\u540c\u4e00\u500b\u4f4d\u7f6e\uff0c\u56e0\u6b64\u5f97\u540d\u3002 \u4f8b\u5982\u6c2b\u5143\u7d20\u4e2d\uff0c\u6c15\u3001\u6c18\u548c\u6c1a\uff0c\u5b83\u5011\u539f\u5b50\u6838\u4e2d\u90fd\u67091\u500b\u8cea\u5b50\uff0c\u4f46\u662f\u5b83\u5011\u7684\u539f\u5b50\u6838\u4e2d\u5206\u5225\u67090\u500b\u4e2d\u5b50\u30011\u500b\u4e2d\u5b50\u53ca2\u500b\u4e2d\u5b50\uff0c\u6240\u4ee5\u5b83\u5011\u4e92\u70ba\u540c\u4f4d\u7d20\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "Als Isotope bezeichnet man Arten von Atomen, deren Atomkerne gleich viele Protonen (gleiche Ordnungszahl), aber verschieden viele Neutronen enthalten. Sie haben dann verschiedene Massenzahlen, stellen aber das gleiche Element dar; es gibt also die Sauerstoffisotope, die Eisenisotope usw. Die Isotope eines Elements verhalten sich chemisch fast identisch.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Isotopes are variants of a particular chemical element which differ in neutron number. All isotopes of a given element have the same number of protons in each atom. The term isotope is formed from the Greek roots isos (\u1f34\u03c3\u03bf\u03c2 \"equal\") and topos (\u03c4\u03cc\u03c0\u03bf\u03c2 \"place\"), meaning \"the same place\"; thus, the meaning behind the name is that different isotopes of a single element occupy the same position on the periodic table.",
+                "lang": "en"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Neutron-proton_ratio"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Stable_isotope"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Abundance_of_the_chemical_elements"
+            }
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            },
+            {
+                "type": "uri",
+                "value": "http://id.dbpedia.org/resource/Isotop"
+            },
+            {
+                "type": "uri",
+                "value": "http://d-nb.info/gnd/4027801-3"
+            },
+            {
+                "type": "uri",
+                "value": "http://cs.dbpedia.org/resource/Izotop"
+            },
+            {
+                "type": "uri",
+                "value": "http://nl.dbpedia.org/resource/Isotoop"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.wikidata.org/entity/Q25276"
+            },
+            {
+                "type": "uri",
+                "value": "http://it.dbpedia.org/resource/Isotopo"
+            },
+            {
+                "type": "uri",
+                "value": "http://fr.dbpedia.org/resource/Isotope"
+            },
+            {
+                "type": "uri",
+                "value": "http://ja.dbpedia.org/resource/\u540c\u4f4d\u4f53"
+            },
+            {
+                "type": "uri",
+                "value": "http://eu.dbpedia.org/resource/Isotopo"
+            },
+            {
+                "type": "uri",
+                "value": "http://de.dbpedia.org/resource/Isotop"
+            },
+            {
+                "type": "uri",
+                "value": "http://wikidata.dbpedia.org/resource/Q25276"
+            },
+            {
+                "type": "uri",
+                "value": "http://rdf.freebase.com/ns/m.03trr"
+            },
+            {
+                "type": "uri",
+                "value": "http://pt.dbpedia.org/resource/Is\u00f3topo"
+            },
+            {
+                "type": "uri",
+                "value": "http://pl.dbpedia.org/resource/Izotopy"
+            },
+            {
+                "type": "uri",
+                "value": "http://el.dbpedia.org/resource/\u0399\u03c3\u03cc\u03c4\u03bf\u03c0\u03bf"
+            },
+            {
+                "type": "uri",
+                "value": "http://es.dbpedia.org/resource/Is\u00f3topo"
+            },
+            {
+                "type": "uri",
+                "value": "http://ko.dbpedia.org/resource/\ub3d9\uc704_\uc6d0\uc18c"
+            }
+        ],
+        "http://purl.org/dc/terms/subject": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Isotopes"
+            },
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Category:Nuclear_physics"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/depiction": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Protium_deuterium_tritium.jpg"
+            }
+        ],
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Isotope"
+            }
+        ],
+        "http://www.w3.org/ns/prov#wasDerivedFrom": [
+            {
+                "type": "uri",
+                "value": "http://en.wikipedia.org/wiki/Isotope?oldid=745002811"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageExternalLink": [
+            {
+                "type": "uri",
+                "value": "http://www.nucleonica.com/"
+            },
+            {
+                "type": "uri",
+                "value": "http://ie.lbl.gov/education/isotopes.htm"
+            },
+            {
+                "type": "uri",
+                "value": "http://atom.kaeri.re.kr/"
+            },
+            {
+                "type": "uri",
+                "value": "http://alsos.wlu.edu/adv_rst.aspx?keyword=isotope&creator=&title=&media=all&genre=all&disc=all&level=all&sortby=relevance&results=10&period=15"
+            },
+            {
+                "type": "uri",
+                "value": "http://science.energy.gov/np/research/idpra/"
+            },
+            {
+                "type": "uri",
+                "value": "http://isotopes.gov/"
+            },
+            {
+                "type": "uri",
+                "value": "https://www.youtube.com/watch?v=UTOp_2ZVZmM&t=192"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.nndc.bnl.gov/chart/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.nndc.bnl.gov/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www-nds.iaea.org/livechart"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.isotope.info/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.yoix.org/elements.html"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.bt.cdc.gov/radiation/isotopes/"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.nucleonica.com/wiki/index.php?title=Category%3AKNC"
+            },
+            {
+                "type": "uri",
+                "value": "http://www.iaea.org/"
+            },
+            {
+                "type": "uri",
+                "value": "http://physics.nist.gov/cgi-bin/Compositions/stand_alone.pl?ele=&ascii=html&isotype=some"
+            }
+        ],
+        "http://dbpedia.org/ontology/abstract": [
+            {
+                "type": "literal",
+                "value": "\u540c\u4f4d\u7d20\uff08\u82f1\u8bed\uff1aIsotope\uff09\u662f\u67d0\u7a2e\u7279\u5b9a\u5316\u5b78\u5143\u7d20\u4e4b\u4e0b\u7684\u4e0d\u540c\u7a2e\u985e\uff0c\u540c\u4e00\u7a2e\u5143\u7d20\u4e0b\u7684\u6240\u6709\u540c\u4f4d\u7d20\u90fd\u5177\u6709\u76f8\u540c\u539f\u5b50\u5e8f\u6578\uff0c\u8cea\u5b50\u6578\u76ee\u76f8\u540c\uff0c\u4f46\u4e2d\u5b50\u6578\u76ee\u537b\u4e0d\u540c\u3002\u9019\u4e9b\u540c\u4f4d\u7d20\u5728\u5316\u5b78\u5143\u7d20\u9031\u671f\u8868\u4e2d\u4f54\u6709\u540c\u4e00\u500b\u4f4d\u7f6e\uff0c\u56e0\u6b64\u5f97\u540d\u3002 \u4f8b\u5982\u6c2b\u5143\u7d20\u4e2d\uff0c\u6c15\u3001\u6c18\u548c\u6c1a\uff0c\u5b83\u5011\u539f\u5b50\u6838\u4e2d\u90fd\u67091\u500b\u8cea\u5b50\uff0c\u4f46\u662f\u5b83\u5011\u7684\u539f\u5b50\u6838\u4e2d\u5206\u5225\u67090\u500b\u4e2d\u5b50\u30011\u500b\u4e2d\u5b50\u53ca2\u500b\u4e2d\u5b50\uff0c\u6240\u4ee5\u5b83\u5011\u4e92\u70ba\u540c\u4f4d\u7d20\u3002",
+                "lang": "zh"
+            },
+            {
+                "type": "literal",
+                "value": "\u540c\u4f4d\u4f53\uff08\u3069\u3046\u3044\u305f\u3044\u3001\u82f1: isotope\uff1b\u30a2\u30a4\u30bd\u30c8\u30fc\u30d7\uff09\u3068\u306f\u3001\u540c\u4e00\u539f\u5b50\u756a\u53f7\u3092\u6301\u3064\u3082\u306e\u306e\u4e2d\u6027\u5b50\u6570\uff08\u8cea\u91cf\u6570 A - \u539f\u5b50\u756a\u53f7 Z\uff09\u304c\u7570\u306a\u308b\u6838\u7a2e\u306e\u95a2\u4fc2\u3092\u8a00\u3046\u3002\u6b74\u53f2\u7684\u306a\u4e8b\u60c5\u306b\u3088\u308a\u6838\u7a2e\u306e\u6982\u5ff5\u305d\u306e\u3082\u306e\u3068\u3057\u3066\u7528\u3044\u3089\u308c\u308b\u5834\u5408\u3082\u591a\u3044\u3002 \u540c\u4f4d\u4f53\u306f\u3001\u653e\u5c04\u80fd\u3092\u6301\u3064\u653e\u5c04\u6027\u540c\u4f4d\u4f53\uff08radioisotope\uff09\u3068\u305d\u3046\u3067\u306f\u306a\u3044\u5b89\u5b9a\u540c\u4f4d\u4f53\uff08stable isotope\uff09\u306e\u4e8c\u7a2e\u985e\u306b\u5206\u985e\u3055\u308c\u308b",
+                "lang": "ja"
+            },
+            {
+                "type": "literal",
+                "value": "Un isotopo, dal greco \u1f34\u03c3\u03bf\u03c2 (isos, stesso) \u03c4\u03cc\u03c0\u03bf\u03c2 (topos, posto), \u00e8 un atomo di uno stesso elemento chimico, ha perci\u00f2 lo stesso numero atomico Z, ma con differente numero di massa A, e quindi differente massa atomica M. La differenza dei numeri di massa \u00e8 dovuta ad un diverso numero di neutroni presenti nel nucleo dell'atomo a parit\u00e0 di numero atomico.",
+                "lang": "it"
+            },
+            {
+                "type": "literal",
+                "value": "Les isotopes ne doivent pas \u00eatre confondus avec : \n*  les isotones, nucl\u00e9ides ayant le m\u00eame nombre de neutrons mais un nombre de protons diff\u00e9rent (Z \u2260 Z' mais N = N') ; \n*  les isobares, nucl\u00e9ides ayant des nombres de protons diff\u00e9rents, des nombres de neutrons diff\u00e9rents, mais des nombres de masse identiques (Z \u2260 Z', N \u2260 N', mais Z + N = A = A' = Z' + N') ; \n*  les isom\u00e8res, nucl\u00e9ides ayant le m\u00eame nombre de protons et le m\u00eame nombre de neutrons (donc aussi le m\u00eame nombre de masse) mais pas le m\u00eame spin ni le m\u00eame niveau \u00e9nerg\u00e9tique.",
+                "lang": "fr"
+            },
+            {
+                "type": "literal",
+                "value": "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) 25\u0628\u0643 \u0644\u0645\u0639\u0627\u0646\u064a \u0623\u062e\u0631\u0649\u060c \u0627\u0646\u0638\u0631 \u0646\u0638\u064a\u0631 (\u0643\u064a\u0645\u064a\u0627\u0621) (\u062a\u0648\u0636\u064a\u062d). \u0646\u0638\u0627\u0626\u0631 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0647\u064a \u0623\u0634\u0643\u0627\u0644 \u0645\u0646 \u0627\u0644\u0639\u0646\u0635\u0631 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a \u0644\u0630\u0631\u062a\u0647\u0627 \u0646\u0641\u0633 \u0627\u0644\u0639\u062f\u062f \u0627\u0644\u0630\u0631\u064a Z\u060c \u0648\u0644\u0643\u0646\u0647\u0627 \u062a\u062e\u062a\u0644\u0641 \u0641\u064a \u0627\u0644\u0643\u062a\u0644\u0629 \u0627\u0644\u0630\u0631\u064a\u0629 \u0628\u0633\u0628\u0628 \u0627\u062e\u062a\u0644\u0627\u0641 \u0639\u062f\u062f \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a. \u0648\u0644\u0627 \u062a\u062e\u062a\u0644\u0641 \u0627\u0644\u062e\u0648\u0627\u0635 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0644\u0644\u0630\u0631\u0629 \u0648\u0646\u0638\u064a\u0631\u0647\u0627\u060c \u0630\u0644\u0643 \u0644\u0623\u0646 \u0627\u0644\u062e\u0648\u0627\u0635 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629 \u0644\u0644\u0630\u0631\u0629 \u062a\u0639\u062a\u0645\u062f \u0639\u0644 \u0639\u062f\u062f \u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0646\u0627\u062a \u0641\u064a \u0627\u0644\u0646\u0648\u0627\u0629 \u0648\u0628\u0627\u0644\u062a\u0627\u0644\u064a \u0639\u0644\u0649 \u0639\u062f\u062f \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u062f\u0648\u0631 \u0641\u064a \u0627\u0644\u063a\u0644\u0627\u0641 \u0627\u0644\u0646\u0648\u0648\u064a \u0648\u062a\u0648\u0632\u064a\u0639\u0647\u0627. \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u0627\u062a \u0647\u064a \u0627\u0644\u062a\u064a \u062a\u0634\u062a\u0631\u0643 \u0641\u064a \u0627\u0644\u062a\u0641\u0627\u0639\u0644\u0627\u062a \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629. \u0623\u0645\u0627 \u0627\u0644\u062e\u0648\u0627\u0635 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0626\u064a\u0629 \u0641\u0647\u064a \u062a\u062e\u062a\u0644\u0641 \u0644\u0643\u0644\u0627\u0647\u0645\u0627 \u0627\u062e\u062a\u0644\u0627\u0641\u0627 \u0643\u0628\u064a\u0631\u0627 \u062d\u064a\u062b \u062a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0639\u062f\u062f \u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0646\u0627\u062a \u0648\u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u0648\u062a\u0648\u0632\u064a\u0639\u0647\u0645\u0627 \u0641\u064a \u0627\u0644\u0646\u0648\u0627\u0629\u060c \u0648\u0647\u0645 \u064a\u0634\u062a\u0631\u0643\u0648\u0646 \u0641\u064a\u0645\u0627 \u064a\u0633\u0645\u0649 \u062a\u0641\u0627\u0639\u0644\u0627\u062a \u0646\u0648\u0648\u064a\u0629. \u0641\u0645\u062b\u0644\u0627\u064b \u0625\u0630\u0627 \u0646\u0638\u0631\u0646\u0627 \u0625\u0644\u0649 \u0630\u0631\u0629 \u0627\u0644\u0643\u0631\u0628\u0648\u0646-12 \u0648\u0647\u064a \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 6 \u0628\u0631\u0648\u062a\u0648\u0646\u0627\u062a \u0648 6 \u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u0641\u064a \u0646\u0648\u0627\u062a\u0647\u0627 \u0641\u0647\u064a \u0645\u0633\u062a\u0642\u0631\u0629 (\u062e\u0627\u0635\u0629 \u0641\u064a\u0632\u064a\u0627\u0626\u064a\u0629). \u0623\u0645\u0627 \u0627\u0644\u0643\u0631\u0628\u0648\u0646-14 \u0641\u062a\u062d\u062a\u0648\u064a \u0646\u0648\u0627\u062a\u0647 \u0639\u0644\u0649 6 \u0628\u0631\u0648\u062a\u0648\u0646\u0627\u062a \u0648 8 \u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u0648\u0647\u0648 \u0646\u0638\u064a\u0631 \u0645\u0634\u0639 \u0623\u064a \u0630\u0648 \u0646\u0634\u0627\u0637 \u0625\u0634\u0639\u0627\u0639\u064a (\u062e\u0627\u0635\u0629 \u0641\u064a\u0632\u064a\u0627\u0626\u064a\u0629) \u0648\u064a\u062a\u062d\u0644\u0644 \u0645\u0646 \u0630\u0627\u062a\u0647 \u0639\u0646 \u0637\u0631\u064a\u0642 \u062a\u062d\u0644\u0644 \u0628\u064a\u062a\u0627. \u0639\u0646\u062f \u062a\u0637\u0628\u064a\u0642 \u0627\u0644\u062a\u0633\u0645\u064a\u0629 \u0627\u0644\u0639\u0644\u0645\u064a\u0629 \u0641\u0625\u0646 \u0627\u0644\u0646\u0638\u064a\u0631 (\u0646\u0648\u0643\u0644\u064a\u062f (Nuclide)) \u0645\u062d\u062f\u062f \u0628\u0627\u0633\u0645 \u0627\u0644\u0639\u0646\u0635\u0631 \u0645\u062a\u0628\u0648\u0639\u0627 \u0628\u0634\u0631\u0637\u0629 \u062b\u0645 \u0639\u062f\u062f \u0627\u0644\u0646\u0648\u0643\u0644\u064a\u0648\u0646\u0627\u062a (\u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0646\u0627\u062a \u0648\u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a) \u0627\u0644\u0645\u0648\u062c\u0648\u062f\u0629 \u0641\u064a \u0646\u0648\u0627\u0629 \u0627\u0644\u0630\u0631\u0629. \u0623\u0645\u062b\u0644\u0629 : \u0627\u0644\u0647\u064a\u0644\u064a\u0648\u0645-3 \u0648\u062a\u062d\u062a\u0648\u064a \u0646\u0648\u0627\u062a\u0647 \u0639\u0644\u0649 \u0628\u0631\u062a\u0648\u0646\u064a\u0646 \u0648 1 \u0646\u064a\u0648\u062a\u0631\u0648\u0646\u060c \u0643\u0631\u0628\u0648\u0646-12 \u0648\u062a\u062d\u062a\u0648\u064a \u0646\u0648\u0627\u062a\u0647 \u0639\u0644\u0649 6 \u0628\u0631\u0648\u062a\u0648\u0646\u0627\u062a \u0648 6 \u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u060c \u0643\u0631\u0628\u0648\u0646-14 \u0648\u062a\u062d\u062a\u0648\u064a \u0646\u0648\u0627\u062a\u0647 \u0639\u0644\u0649 6 \u0628\u0631\u0648\u062a\u0648\u0646\u0627\u062a \u06488 \u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u060c \u062d\u062f\u064a\u062f-57 \u0648\u062a\u062d\u062a\u0648\u064a \u0646\u0648\u0627\u062a\u0647 \u0639\u0644\u0649 26 \u0628\u0631\u0648\u062a\u0648\u0646\u0627\u062a \u0648 31 \u0645\u0646 \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u060c \u0648\u0631\u0645\u0632 \u064a\u0648\u0631\u0627\u0646\u064a\u0648\u0645-238 \u0648\u064a\u062d\u062a\u0648\u064a \u0641\u064a \u0646\u0648\u0627\u062a\u0647 \u0639\u0644\u0649 92 \u0628\u0631\u0648\u0646\u0648\u0646 \u0648\u0627\u0644\u0628\u0627\u0642\u064a \u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a). \u0648\u0639\u0646\u062f \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0627\u062e\u062a\u0635\u0627\u0631\u0627\u062a \u0641\u064a\u062a\u0645 \u0648\u0636\u0639 \u0631\u0642\u0645 \u0627\u0644\u0646\u0648\u0643\u0644\u064a\u0648\u0646\u0627\u062a \u0623\u0639\u0644\u0649 \u0631\u0645\u0632 \u0627\u0644\u0639\u0646\u0635\u0631 \u0643\u0627\u0644\u0622\u062a\u064a: (3He, 12C, 14C, 57Fe, 238U)",
+                "lang": "ar"
+            },
+            {
+                "type": "literal",
+                "value": "La palabra is\u00f3topo(del griego: \u1f34\u03c3\u03bf\u03c2 isos 'igual, mismo'; \u03c4\u03cc\u03c0\u03bf\u03c2 t\u00f3pos 'lugar', \"en mismo sitio\") se usa para indicar que todos los tipos de \u00e1tomos de un mismo elemento qu\u00edmico (is\u00f3topos) se encuentran en el mismo sitio de la tabla peri\u00f3dica. Los \u00e1tomos que son is\u00f3topos entre s\u00ed son los que tienen igual n\u00famero at\u00f3mico (n\u00famero de protones en el n\u00facleo), pero diferente n\u00famero m\u00e1sico (suma del n\u00famero de neutrones y el de protones en el n\u00facleo). Los distintos is\u00f3topos de un elemento difieren, pues, en el n\u00famero de neutrones. La mayor\u00eda de los elementos qu\u00edmicos tienen m\u00e1s de un is\u00f3topo. Solamente 21 elementos (por ejemplo berilio o sodio) poseen un solo is\u00f3topo natural. En contraste, el esta\u00f1o es el elemento con m\u00e1s is\u00f3topos estables, 10. Otros elementos tienen is\u00f3topos naturales, pero inestables, como el uranio, cuyos is\u00f3topos pueden transformarse o decaer en otros is\u00f3topos m\u00e1s estables, emitiendo en el proceso radiaci\u00f3n, por lo que decimos que son radiactivos. Los is\u00f3topos inestables son \u00fatiles para estimar la edad de variedad de muestras naturales, como rocas y materia org\u00e1nica. Esto es posible, siempre y cuando, se conozca el ritmo promedio de desintegraci\u00f3n de determinado is\u00f3topo, en relaci\u00f3n a los que ya han deca\u00eddo. Gracias a este m\u00e9todo de dataci\u00f3n, se conoce la edad de la Tierra.",
+                "lang": "es"
+            },
+            {
+                "type": "literal",
+                "value": "Als Isotope bezeichnet man Arten von Atomen, deren Atomkerne gleich viele Protonen (gleiche Ordnungszahl), aber verschieden viele Neutronen enthalten. Sie haben dann verschiedene Massenzahlen, stellen aber das gleiche Element dar; es gibt also die Sauerstoffisotope, die Eisenisotope usw. Die Isotope eines Elements verhalten sich chemisch fast identisch. Die Bezeichnung Isotop ist \u00e4lter als der Begriff Nuklid, der ganz allgemein \u201eAtomart\u201c bedeutet. \u201eIsotop\u201c wird daher nach wie vor oft auch im Sinne von Nuklid benutzt, d. h. auch dann, wenn nicht nur von Atomen eines und desselben Elements die Rede ist. Von jedem bekannten Element, mit Ausnahme des erst 2006 entdeckten Ununoctium, sind mehrere Isotope nachgewiesen (s. Liste der Isotope). Insgesamt gibt es rund 3300 Nuklide. Etwa 250 davon sind stabil. Alle anderen sind instabil, d. h. durch radioaktiven Zerfall wandeln sie sich nach mehr oder weniger langer Zeit in andere Atome um. Von den 91 nat\u00fcrlich vorkommenden Elementen werden in der Natur 69 als Gemische mehrerer Isotope (Mischelemente) vorgefunden. Die \u00fcbrigen 22 hei\u00dfen Reinelemente. Das chemische Atomgewicht von Mischelementen ist der Durchschnittswert der verschiedenen Atommassen der beteiligten Isotope. Der Name (von griechisch \u1f34\u03c3\u03bf\u03c2 \u00edsos \u201egleich\u201c und \u03c4\u03cc\u03c0\u03bf\u03c2 t\u00f3pos \u201eOrt, Stelle\u201c) kommt daher, dass die Isotope eines Elements im Periodensystem am gleichen Ort stehen. Getrennt voneinander dargestellt werden sie in einer Nuklidkarte.Der Begriff Isotop wurde von Frederick Soddy gepr\u00e4gt, der f\u00fcr seine Arbeiten und Erkenntnisse im Bereich der Isotope und Radionuklide 1921 den Nobelpreis f\u00fcr Chemie erhielt.",
+                "lang": "de"
+            },
+            {
+                "type": "literal",
+                "value": "Isotopes are variants of a particular chemical element which differ in neutron number. All isotopes of a given element have the same number of protons in each atom. The term isotope is formed from the Greek roots isos (\u1f34\u03c3\u03bf\u03c2 \"equal\") and topos (\u03c4\u03cc\u03c0\u03bf\u03c2 \"place\"), meaning \"the same place\"; thus, the meaning behind the name is that different isotopes of a single element occupy the same position on the periodic table. The number of protons within the atom's nucleus is called atomic number and is equal to the number of electrons in the neutral (non-ionized) atom. Each atomic number identifies a specific element, but not the isotope; an atom of a given element may have a wide range in its number of neutrons. The number of nucleons (both protons and neutrons) in the nucleus is the atom's mass number, and each isotope of a given element has a different mass number. For example, carbon-12, carbon-13 and carbon-14 are three isotopes of the element carbon with mass numbers 12, 13 and 14 respectively. The atomic number of carbon is 6, which means that every carbon atom has 6 protons, so that the neutron numbers of these isotopes are 6, 7 and 8 respectively.",
+                "lang": "en"
+            },
+            {
+                "type": "literal",
+                "value": "Isotopen zijn atomen van hetzelfde chemische element, en dus met hetzelfde aantal protonen, waarin het aantal neutronen in de atoomkern verschilt. Volgens gangbare modellen bestaat een atoom uit een atoomkern met daaromheen een wolk van elektronen. De kern bestaat uit een aantal protonen en een aantal neutronen. Het aantal protonen bepaalt het atoomnummer van het element en ook de chemische eigenschappen. Het aantal neutronen bepaalt onder meer de stabiliteit van de kern en, samen met het aantal protonen, de atoommassa. Twee atomen met hetzelfde aantal protonen maar een verschillend aantal neutronen noemen we twee isotopen van hetzelfde element. Wanneer de elementen niet gespecificeerd worden, wordt van een nuclide gesproken. De term is een samentrekking van twee Griekse woorden: isos (gelijk) en topos (plaats). Hiermee wordt benadrukt dat verschillende isotopen van hetzelfde element dezelfde plaats innemen in het periodiek systeem.",
+                "lang": "nl"
+            },
+            {
+                "type": "literal",
+                "value": "\u0418\u0437\u043e\u0442\u043e\u0301\u043f\u044b (\u043e\u0442 \u0434\u0440.-\u0433\u0440\u0435\u0447. \u03b9\u03c3\u03bf\u03c2 \u2014 \u00ab\u0440\u0430\u0432\u043d\u044b\u0439\u00bb, \u00ab\u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u044b\u0439\u00bb, \u0438 \u03c4\u03cc\u03c0\u03bf\u03c2 \u2014 \u00ab\u043c\u0435\u0441\u0442\u043e\u00bb) \u2014 \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u0438 \u0430\u0442\u043e\u043c\u043e\u0432 (\u0438 \u044f\u0434\u0435\u0440) \u043a\u0430\u043a\u043e\u0433\u043e-\u043b\u0438\u0431\u043e \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u044b\u0439 \u0430\u0442\u043e\u043c\u043d\u044b\u0439 (\u043f\u043e\u0440\u044f\u0434\u043a\u043e\u0432\u044b\u0439) \u043d\u043e\u043c\u0435\u0440, \u043d\u043e \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u0440\u0430\u0437\u043d\u044b\u0435 \u043c\u0430\u0441\u0441\u043e\u0432\u044b\u0435 \u0447\u0438\u0441\u043b\u0430. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0441\u0432\u044f\u0437\u0430\u043d\u043e \u0441 \u0442\u0435\u043c, \u0447\u0442\u043e \u0432\u0441\u0435 \u0438\u0437\u043e\u0442\u043e\u043f\u044b \u043e\u0434\u043d\u043e\u0433\u043e \u0430\u0442\u043e\u043c\u0430 \u043f\u043e\u043c\u0435\u0449\u0430\u044e\u0442\u0441\u044f \u0432 \u043e\u0434\u043d\u043e \u0438 \u0442\u043e \u0436\u0435 \u043c\u0435\u0441\u0442\u043e (\u0432 \u043e\u0434\u043d\u0443 \u043a\u043b\u0435\u0442\u043a\u0443) \u0442\u0430\u0431\u043b\u0438\u0446\u044b \u041c\u0435\u043d\u0434\u0435\u043b\u0435\u0435\u0432\u0430. \u0425\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430 \u0430\u0442\u043e\u043c\u0430 \u0437\u0430\u0432\u0438\u0441\u044f\u0442 \u043e\u0442 \u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438, \u043a\u043e\u0442\u043e\u0440\u0430\u044f, \u0432 \u0441\u0432\u043e\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c, \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u0437\u0430\u0440\u044f\u0434\u043e\u043c \u044f\u0434\u0440\u0430 Z (\u0442\u043e \u0435\u0441\u0442\u044c \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e\u043c \u043f\u0440\u043e\u0442\u043e\u043d\u043e\u0432 \u0432 \u043d\u0451\u043c), \u0438 \u043f\u043e\u0447\u0442\u0438 \u043d\u0435 \u0437\u0430\u0432\u0438\u0441\u044f\u0442 \u043e\u0442 \u0435\u0433\u043e \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0433\u043e \u0447\u0438\u0441\u043b\u0430 A (\u0442\u043e \u0435\u0441\u0442\u044c \u0441\u0443\u043c\u043c\u0430\u0440\u043d\u043e\u0433\u043e \u0447\u0438\u0441\u043b\u0430 \u043f\u0440\u043e\u0442\u043e\u043d\u043e\u0432 Z \u0438 \u043d\u0435\u0439\u0442\u0440\u043e\u043d\u043e\u0432 N). \u0412\u0441\u0435 \u0438\u0437\u043e\u0442\u043e\u043f\u044b \u043e\u0434\u043d\u043e\u0433\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430 \u0438\u043c\u0435\u044e\u0442 \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u044b\u0439 \u0437\u0430\u0440\u044f\u0434 \u044f\u0434\u0440\u0430, \u043e\u0442\u043b\u0438\u0447\u0430\u044f\u0441\u044c \u043b\u0438\u0448\u044c \u0447\u0438\u0441\u043b\u043e\u043c \u043d\u0435\u0439\u0442\u0440\u043e\u043d\u043e\u0432. \u041e\u0431\u044b\u0447\u043d\u043e \u0438\u0437\u043e\u0442\u043e\u043f \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442\u0441\u044f \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u043c \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430, \u043a \u043a\u043e\u0442\u043e\u0440\u043e\u043c\u0443 \u043e\u043d \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0441\u044f, \u0441 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u0432\u0435\u0440\u0445\u043d\u0435\u0433\u043e \u043b\u0435\u0432\u043e\u0433\u043e \u0438\u043d\u0434\u0435\u043a\u0441\u0430, \u043e\u0437\u043d\u0430\u0447\u0430\u044e\u0449\u0435\u0433\u043e \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0435 \u0447\u0438\u0441\u043b\u043e (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, 12C, 222Rn). \u041c\u043e\u0436\u043d\u043e \u0442\u0430\u043a\u0436\u0435 \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u044c \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430 \u0441 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u0447\u0435\u0440\u0435\u0437 \u0434\u0435\u0444\u0438\u0441 \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0433\u043e \u0447\u0438\u0441\u043b\u0430 (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0443\u0433\u043b\u0435\u0440\u043e\u0434-12, \u0440\u0430\u0434\u043e\u043d-222). \u041d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u043e\u0442\u043e\u043f\u044b \u0438\u043c\u0435\u044e\u0442 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0434\u0435\u0439\u0442\u0435\u0440\u0438\u0439, \u0430\u043a\u0442\u0438\u043d\u043e\u043d). \u041f\u0440\u0438\u043c\u0435\u0440 \u0438\u0437\u043e\u0442\u043e\u043f\u043e\u0432: 168O, 178O, 188O \u2014 \u0442\u0440\u0438 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0438\u0437\u043e\u0442\u043e\u043f\u0430 \u043a\u0438\u0441\u043b\u043e\u0440\u043e\u0434\u0430. \u041d\u0430 \u043a\u043e\u043d\u0435\u0446 2015 \u0433\u043e\u0434\u0430 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e 3211 \u0438\u0437\u043e\u0442\u043e\u043f\u043e\u0432 \u0432\u0441\u0435\u0445 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432.",
+                "lang": "ru"
+            },
+            {
+                "type": "literal",
+                "value": "Izotopy  \u2013 odmiany pierwiastka chemicznego r\u00f3\u017cni\u0105ce si\u0119 liczb\u0105 neutron\u00f3w w j\u0105drze atomu (z definicji atomy tego samego pierwiastka maj\u0105 t\u0119 sam\u0105 liczb\u0119 proton\u00f3w w j\u0105drze). Izotopy tego samego pierwiastka r\u00f3\u017cni\u0105 si\u0119 liczb\u0105 masow\u0105 (\u0142\u0105czn\u0105 liczb\u0105 neutron\u00f3w i proton\u00f3w w j\u0105drze), ale maj\u0105 t\u0119 sam\u0105 liczb\u0119 atomow\u0105 (liczb\u0119 proton\u00f3w w j\u0105drze). Izotopy tego samego pierwiastka na og\u00f3\u0142 maj\u0105 zbli\u017cone w\u0142asno\u015bci fizyczne i chemiczne. Jednak im wi\u0119ksza jest r\u00f3\u017cnica mas atomowych izotop\u00f3w, tym wi\u0119ksze mog\u0105 by\u0107 r\u00f3\u017cnice ich w\u0142asno\u015bci fizycznych lub chemicznych. Izotopy danego pierwiastka mog\u0105 mie\u0107 inn\u0105 g\u0119sto\u015b\u0107, temperatur\u0119 wrzenia, topnienia i sublimacji. R\u00f3\u017cnice te wyst\u0119puj\u0105 tak\u017ce w zwi\u0105zkach chemicznych tworzonych przez te izotopy. R\u00f3\u017cnice mas atomowych izotop\u00f3w powoduj\u0105 wyst\u0119powanie niewielkich r\u00f3\u017cnic w reaktywno\u015bci izotop\u00f3w. Nie ma ona wp\u0142ywu na kierunek reakcji chemicznych, w kt\u00f3rych one uczestnicz\u0105, ale wp\u0142ywa na szybko\u015b\u0107 przebiegu tych reakcji. Zjawisko to nazywa si\u0119 efektem izotopowym i wykorzystuje si\u0119 w badaniu mechanizm\u00f3w reakcji chemicznych. Te niewielkie r\u00f3\u017cnice w szybko\u015bci reakcji wywo\u0142uj\u0105 zmiany w sk\u0142adzie izotopowym zwi\u0105zk\u00f3w chemicznych powstaj\u0105cych w r\u00f3\u017cnych reakcjach (zjawisko to wykorzystywane jest np. do rozr\u00f3\u017cniania, czy w\u0119giel zawarty w danym zwi\u0105zku chemicznym bra\u0142 udzia\u0142 w reakcji fotosyntezy). Izotopy, ze wzgl\u0119du na stabilno\u015b\u0107, dzieli si\u0119 na: \n*  trwa\u0142e (nie ulegaj\u0105ce samorzutnej przemianie na izotopy tego samego lub innych pierwiastk\u00f3w), \n*  nietrwa\u0142e, zwane izotopami promieniotw\u00f3rczymi \u2013 ulegaj\u0105ce samorzutnej przemianie na inne izotopy, zazwyczaj innego pierwiastka. Pierwiastki wyst\u0119puj\u0105 naturalnie zwykle jako mieszanina izotop\u00f3w. Jest to g\u0142\u00f3wna przyczyna, obok deficytu masy, kt\u00f3ra sprawia, \u017ce masy atomowe nie s\u0105 liczbami ca\u0142kowitymi. Izotopy nie maj\u0105 oddzielnych nazw, z wyj\u0105tkiem izotop\u00f3w wodoru. Oznacza si\u0119 je symbolem pierwiastka chemicznego z liczb\u0105 masow\u0105 u g\u00f3ry po lewej stronie, np. 208Pb. Pierwiastki mog\u0105 mie\u0107 po kilka, a nawet kilkana\u015bcie izotop\u00f3w. Przyk\u0142adowo wod\u00f3r ma trzy naturalne izotopy: \n*  prot: 1H \u2013 ma jeden proton i nie ma neutron\u00f3w; trwa\u0142y, \n*  deuter: 2H (D) \u2013 ma jeden proton i jeden neutron; trwa\u0142y, \n*  tryt: 3H (T) \u2013 ma jeden proton i dwa neutrony; nietrwa\u0142y.",
+                "lang": "pl"
+            },
+            {
+                "type": "literal",
+                "value": "Is\u00f3topos s\u00e3o variantes de um elemento qu\u00edmico. Enquanto todos os is\u00f3topos de um dado elemento compartilham o mesmo n\u00famero de pr\u00f3tons, cada is\u00f3topo difere dos outros em seu n\u00famero de n\u00eautrons. O termo is\u00f3topo \u00e9 formado a partir das ra\u00edzes gregas isos (\u1f34\u03c3\u03bf\u03c2 \"igual\") e Topos (\"lugar\" \u03c4\u03cc\u03c0\u03bf\u03c2). Assim: \"o mesmo lugar\", significando que diferentes is\u00f3topos de um \u00fanico elemento ocupam a mesma posi\u00e7\u00e3o na tabela peri\u00f3dica. O n\u00famero de pr\u00f3tons dentro do n\u00facleo do \u00e1tomo identifica unicamente um elemento, mas um determinado elemento pode, em princ\u00edpio, ter qualquer n\u00famero de n\u00eautrons. O n\u00famero de n\u00facleons (soma de pr\u00f3tons e n\u00eautrons) no n\u00facleo \u00e9 o n\u00famero de massa, e cada is\u00f3topo de um determinado elemento tem um n\u00famero de massa diferente. A diferen\u00e7a nos pesos at\u00f3micos resulta de diferen\u00e7as no n\u00famero de n\u00eautrons nos n\u00facleos at\u00f3micos, ou seja, os is\u00f3topos s\u00e3o \u00e1tomos que possuem a mesma quantidade de pr\u00f3tons, mas n\u00e3o a mesma de n\u00eautrons. Ex.: O \u00e1tomo de Hidrog\u00eanio possui tr\u00eas formas de is\u00f3topos: o Pr\u00f3tio (1 pr\u00f3ton sem n\u00eautron) o Deut\u00e9rio (1 pr\u00f3ton e 1 n\u00eautron) e o Tr\u00edtio (1 pr\u00f3ton e 2 n\u00eautrons).  O carbono-12, carbono-13 e carbono-14 s\u00e3o tr\u00eas is\u00f3topos do elemento carbono com os n\u00fameros de massa 12, 13 e 14, respectivamente. O n\u00famero at\u00f4mico do carbono \u00e9 6 (= n\u00famero de pr\u00f3tons no n\u00facleo), o que significa que cada \u00e1tomo de carbono tem 6 pr\u00f3tons, de modo que os n\u00fameros de n\u00eautrons destes is\u00f3topos s\u00e3o 6, 7 e 8, respectivamente. Na nomenclatura cient\u00edfica, os is\u00f3topos s\u00e3o designados pelo nome do elemento seguido por um h\u00edfen e pelo n\u00famero de n\u00facleons (pr\u00f3tons e n\u00eautrons) no n\u00facleo at\u00f3mico (ex: ferro-57, ur\u00e2nio-238, h\u00e9lio-3).Na forma simb\u00f3lica, o n\u00famero de n\u00facleons \u00e9 escrito como um prefixo subido do s\u00edmbolo qu\u00edmico (ex: 57Fe, 238U, \u00b3He). Existem 339 is\u00f3topos naturais na Terra. E mais de 3100 s\u00e3o conhecidos.",
+                "lang": "pt"
+            }
+        ],
+        "http://dbpedia.org/ontology/thumbnail": [
+            {
+                "type": "uri",
+                "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Protium_deuterium_tritium.jpg?width=300"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageRevisionID": [
+            {
+                "type": "literal",
+                "value": 745002811,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://dbpedia.org/ontology/wikiPageID": [
+            {
+                "type": "literal",
+                "value": 19600416,
+                "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+            }
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Variants"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chemical_isotope": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Ice_otope": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Isotope_notation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/AZE_notation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nuclear_notation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Isotopes": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Isotopic_notation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nuclide_notation": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Index_to_isotope_pages": {
+        "http://dbpedia.org/ontology/wikiPageRedirects": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Isotope_(disambiguation)": {
+        "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Uranium-235": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Uranium-236": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Uranium-234": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Frederick_Soddy": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://en.wikipedia.org/wiki/Isotope": {
+        "http://xmlns.com/foaf/0.1/primaryTopic": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Mujaddid_Ahmed_Ijaz": {
+        "http://dbpedia.org/ontology/field": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ],
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Rudolph_Schoenheimer": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Caesium-137": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Radium-223": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Potassium-40": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Cobalt-60": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plutonium-238": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plutonium-241": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Oxygen-16": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Johann_Carl_Vogel": {
+        "http://dbpedia.org/ontology/knownFor": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Tritium": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Helium-4": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Zinc-68": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Helium-3": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plutonium-239": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Strontium-90": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Seed_nucleus": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Technetium-99": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Isotropy": {
+        "http://www.w3.org/2002/07/owl#differentFrom": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carbon-14": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Carbon-13": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Oxygen-17": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Beryllium-10": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Uranium-232": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Uranium-233": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Iodine-123": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Nickel-62": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Xenon-135": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plutonium-240": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Phosphorus-32": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Strontium-89": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Calcium-48": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Chlorine-36": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Oxygen-18": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Iron-55": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Samarium-153": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Aluminium-26": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Indium-111": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Americium-241": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    },
+    "http://dbpedia.org/resource/Plutonium-244": {
+        "http://purl.org/linguistics/gold/hypernym": [
+            {
+                "type": "uri",
+                "value": "http://dbpedia.org/resource/Isotope"
+            }
+        ]
+    }
+}
