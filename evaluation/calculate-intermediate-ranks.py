@@ -9,18 +9,18 @@ import logging
 # configure here the files that should be merged
 
 configuration0 = [
-    ("faketest_dbpedia_pred_8.json", 0.5),
-    ("faketest_dbpedia_pred_10.json", 0.5)
+    ("faketest_dbpedia_pred_unique.json", 0.5),
+    ("faketest_dbpedia_pred_10_unique.json", 0.5)
 ]
 
 configuration1 = [
-    ("faketest_dbpedia_pred_8.json", 0.33),
-    ("faketest_dbpedia_pred_10.json", 0.67)
+    ("faketest_dbpedia_pred_unique.json", 0.33),
+    ("faketest_dbpedia_pred_10_unique.json", 0.67)
 ]
 
 configuration2 = [
-    ("faketest_dbpedia_pred_8.json", 0.67),
-    ("faketest_dbpedia_pred_10.json", 0.33)
+    ("faketest_dbpedia_pred_unique.json", 0.67),
+    ("faketest_dbpedia_pred_10_unique.json", 0.33)
 ]
 
 configurations = [configuration0, configuration1, configuration2]
