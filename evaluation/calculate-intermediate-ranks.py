@@ -20,18 +20,21 @@ import argparse
 # configure here the files that should be merged
 
 configuration0 = [
-    ("faketest_dbpedia_pred_unique.json", 0.5),
-    ("faketest_dbpedia_pred_10_unique.json", 0.5)
+    ("faketest_dbpedia_pred_10_unique.json", 0.33),
+    ("faketest_dbpedia-ml-maxlen64_pred_unique.json", 0.33),
+    ("faketest_dbpedia_pred_unique.json", 0.33)
 ]
 
 configuration1 = [
-    ("faketest_dbpedia_pred_unique.json", 0.33),
-    ("faketest_dbpedia_pred_10_unique.json", 0.67)
+    ("faketest_dbpedia_pred_10_unique.json", 0.5),
+    ("faketest_dbpedia-ml-maxlen64_pred_unique.json", 0.3),
+    ("faketest_dbpedia_pred_unique.json", 0.2)
 ]
 
 configuration2 = [
-    ("faketest_dbpedia_pred_unique.json", 0.67),
-    ("faketest_dbpedia_pred_10_unique.json", 0.33)
+    ("faketest_dbpedia_pred_10_unique.json", 0.3),
+    ("faketest_dbpedia-ml-maxlen64_pred_unique.json", 0.5),
+    ("faketest_dbpedia_pred_unique.json", 0.2)
 ]
 
 configurations = [configuration0, configuration1, configuration2]
