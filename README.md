@@ -13,4 +13,5 @@ In addition, the API enables researchers and developers to integrate the EAT cla
 * [Online Demo](https://webengineering.ins.hs-anhalt.de:41009/eat-classification)
 * [Open API](https://webengineering.ins.hs-anhalt.de:41020/docs)
 * [SMART Task webpage](https://smart-task.github.io)
+* [Extended multilingual datasets](https://github.com/Perevalov/iswc-classification/tree/master/datasets/DBpedia)
 * [Original datasets](https://github.com/smart-task/smart-dataset)
