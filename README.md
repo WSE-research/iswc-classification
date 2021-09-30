@@ -8,6 +8,13 @@ In this [demo](https://webengineering.ins.hs-anhalt.de:41009/eat-classification)
 The provided functionality enables end-users to get the EAT predictions for [104 languages](https://github.com/google-research/bert/blob/master/multilingual.md#list-of-languages), see confidence of the prediction, and leave feedback.
 In addition, the API enables researchers and developers to integrate the EAT classification into their systems.
 
+## Motivation for the EAT
+
+The ability to know the EAT may significantly narrow down the answer search space.
+In the case of the question: "In what city was Angela Merkel born?" is being asked to a KGQA system over DBpedia, the EAT classifier can lower down the search space from 861 to 6 entities (see the illustration below).
+
+![eat-motivation](https://user-images.githubusercontent.com/16652575/135485012-5a2a1635-a031-4349-a15d-e2ba7808f2f2.jpg)
+
 ## Quick Links
 
 * [Online Demo](https://webengineering.ins.hs-anhalt.de:41009/eat-classification)
