@@ -22,3 +22,29 @@ In the case of the question: "In what city was Angela Merkel born?" is being ask
 * [SMART Task webpage](https://smart-task.github.io)
 * [Extended multilingual datasets](https://github.com/Perevalov/iswc-classification/tree/master/datasets/DBpedia)
 * [Original datasets](https://github.com/smart-task/smart-dataset)
+
+## Cite
+
+```bibtex
+@inproceedings{DBLP:conf/semweb/PerevalovB21,
+  author    = {Aleksandr Perevalov and
+               Andreas Both},
+  editor    = {Oshani Seneviratne and
+               Catia Pesquita and
+               Juan Sequeda and
+               Lorena Etcheverry},
+  title     = {Hierarchical Expected Answer Type Classification for Question Answering},
+  booktitle = {Proceedings of the {ISWC} 2021 Posters, Demos and Industry Tracks:
+               From Novel Ideas to Industrial Practice co-located with 20th International
+               Semantic Web Conference {(ISWC} 2021), Virtual Conference, October
+               24-28, 2021},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {2980},
+  publisher = {CEUR-WS.org},
+  year      = {2021},
+  url       = {http://ceur-ws.org/Vol-2980/paper349.pdf},
+  timestamp = {Mon, 25 Oct 2021 15:03:56 +0200},
+  biburl    = {https://dblp.org/rec/conf/semweb/PerevalovB21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
